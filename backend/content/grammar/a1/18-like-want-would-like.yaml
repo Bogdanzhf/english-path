@@ -1,0 +1,98 @@
+title: "Like doing, want to do, would like"
+title_ru: "Like doing, want to do, would like"
+section: verbs
+summary: "Likes and wishes: I love reading, I want to go, I'd like a coffee"
+summary_ru: "Предпочтения и желания: I love reading, I want to go, I'd like a coffee"
+theory: |
+  ## like / love / enjoy / hate + -ing
+  To talk about things you generally like or dislike, use **verb + -ing**:
+  - *I **like swimming**. She **loves dancing**. We **hate waiting**.*
+  - **enjoy** always takes -ing: *I **enjoy cooking*** (not ~~enjoy to cook~~).
+  - *don't mind* + -ing: *I **don't mind** walking.*
+
+  ## want / need / hope / decide + to + verb
+  - *I **want to learn** English. She **needs to rest**. We **decided to stay**.*
+
+  ## would like — polite “want”
+  - **would like + noun**: *I**'d like** a coffee, please.*
+  - **would like + to + verb**: *I**'d like to** book a table.*
+  - question: ***Would** you **like** some tea?* — *Yes, please. / No, thank you.*
+
+  > *Do you like…?* = in general. *Would you like…?* = an offer now.
+  > *Do you like coffee?* — Do you enjoy coffee in general? *Would you like a coffee?* — Shall I make you one now?
+theory_ru: |
+  ## like / love / enjoy / hate + -ing — что нравится вообще
+  Когда говорим, что любим или не любим делать **вообще**, после этих глаголов ставим **глагол + -ing**:
+  - *I **like swimming**.* — Я люблю плавать. *She **loves dancing**.* — Она обожает танцевать. *We **hate waiting**.* — Мы ненавидим ждать.
+  - **enjoy** — всегда с -ing: *I **enjoy cooking*** (не ~~enjoy to cook~~).
+  - *don't mind* + -ing — «не против»: *I **don't mind** walking.* — Я не против пройтись пешком.
+
+  ## want / need / hope / decide + to + глагол
+  - *I **want to learn** English.* — Я хочу выучить английский.
+  - *She **needs to rest**.* — Ей нужно отдохнуть.
+  - *We **decided to stay**.* — Мы решили остаться.
+
+  ## would like — вежливое «хотел бы»
+  - **would like + существительное**: *I**'d like** a coffee, please.* — Я бы хотел кофе. (в кафе так вежливее, чем *I want*)
+  - **would like + to + глагол**: *I**'d like to** book a table.* — Я бы хотел забронировать столик.
+  - вопрос-предложение: ***Would** you **like** some tea?* — Хотите чаю? — *Yes, please. / No, thank you.*
+
+  > Важная разница: *Do you like coffee?* — Ты любишь кофе (вообще)? *Would you like a coffee?* — Хочешь кофе (сейчас)?
+examples:
+  - "I really *enjoy reading* in the evening. | Я очень люблю читать по вечерам."
+  - "My son *wants to be* a pilot. | Мой сын хочет стать пилотом."
+  - "*I'd like* a glass of water, please. | Можно мне стакан воды, пожалуйста."
+  - "*Would* you *like to* come to my party? | Хочешь прийти ко мне на вечеринку?"
+  - "She *hates getting up* early. | Она терпеть не может рано вставать."
+exercises:
+  - type: choice
+    q: "I enjoy ___ to music."
+    options: ["listen", "to listen", "listening"]
+    answer: 2
+  - type: choice
+    q: "We want ___ a new car."
+    options: ["buy", "to buy", "buying"]
+    answer: 1
+  - type: choice
+    q: "___ you like a sandwich? — Yes, please."
+    options: ["Do", "Would", "Are"]
+    answer: 1
+  - type: choice
+    q: "Do you like ___? — Yes, I love it!"
+    options: ["dance", "dancing", "to dancing"]
+    answer: 1
+  - type: input
+    q: "She decided ___ (stay) at home."
+    answer: ["to stay"]
+  - type: input
+    q: "My dad doesn't mind ___ (cook)."
+    answer: ["cooking"]
+  - type: input
+    q: "I ___ like to speak to the manager, please. (вежливо)"
+    answer: ["would", "'d"]
+  - type: error
+    text: "I enjoy {{to play=>playing}} tennis."
+  - type: error
+    text: "I want {{go=>to go}} home."
+  - type: choice
+    q: "In a café, which is the most polite?"
+    options: ["I want a coffee.", "Give me a coffee.", "I'd like a coffee, please."]
+    answer: 2
+  - type: order
+    q: "Составьте: «Хочешь пойти в кино?»"
+    answer: "Would you like to go to the cinema?"
+  - type: order
+    q: "Составьте: «Он ненавидит мыть посуду.»"
+    answer: "He hates washing the dishes."
+  - type: tf
+    items:
+      - ["“Do you like tea?” is an offer to make tea now.", false]
+      - ["“I'd like” = “I would like”.", true]
+  - type: listen
+    audio: "Would you like some cake? No, thank you. I'm not hungry, but I'd like some water."
+    q: "What does the person want?"
+    options: ["cake", "water", "nothing"]
+    answer: 1
+  - type: speak
+    answer: "I would like a cup of tea, please."
+    ru: "Я бы хотел чашку чая, пожалуйста."

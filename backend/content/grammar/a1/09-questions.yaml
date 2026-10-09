@@ -1,0 +1,132 @@
+title: "Questions: word order and question words"
+title_ru: "Вопросы: порядок слов и вопросительные слова"
+section: sentences
+summary: "Who, what, where, when, why, how — and the ASI rule"
+summary_ru: "Who, what, where, when, why, how — и правило «вопрос–помощник–подлежащее»"
+theory: |
+  ## The question “formula”
+  **(Question word) + auxiliary + subject + verb …?**
+
+  | Question word | Auxiliary | Subject | Verb | |
+  |---|---|---|---|---|
+  | Where | do | you | live | ? |
+  | What | does | she | want | ? |
+  | Why | are | they | laughing | ? |
+  | When | did | he | arrive | ? |
+
+  With **be** there is no extra auxiliary: *Where **is** she? **Are** you ready?*
+
+  ## Question words
+  | | |
+  |---|---|
+  | **what** — what thing | **who** — which person |
+  | **where** — place | **when** — time |
+  | **why** — reason | **how** — way, manner |
+  | **which** — choice from a group | **whose** — owner |
+  | **how much** — uncountable | **how many** — countable |
+  | **how old / how long / how often / what time** | |
+
+  ## Subject questions
+  When *who* or *what* is the **subject**, we don't use do/does/did:
+  - ***Who lives** here?* (not ~~Who does live here?~~)
+  - ***What happened**?*
+theory_ru: |
+  ## Формула вопроса
+  В русском вопрос часто отличается от утверждения только интонацией: «Ты живёшь здесь?» В английском **меняется порядок слов** и почти всегда нужен вспомогательный глагол.
+
+  **(Вопросительное слово) + вспомогательный глагол + подлежащее + основной глагол …?**
+
+  | Вопр. слово | Помощник | Кто | Глагол | |
+  |---|---|---|---|---|
+  | Where | do | you | live | ? — Где ты живёшь? |
+  | What | does | she | want | ? — Что она хочет? |
+  | Why | are | they | laughing | ? — Почему они смеются? |
+  | When | did | he | arrive | ? — Когда он приехал? |
+
+  С глаголом **be** отдельный помощник не нужен: *Where **is** she? **Are** you ready?*
+
+  ## Вопросительные слова
+  | | |
+  |---|---|
+  | **what** — что, какой | **who** — кто |
+  | **where** — где, куда | **when** — когда |
+  | **why** — почему | **how** — как |
+  | **which** — который (из нескольких) | **whose** — чей |
+  | **how much** — сколько (неисчисл.) | **how many** — сколько (исчисл.) |
+  | **how old** — сколько лет | **how long** — как долго |
+  | **how often** — как часто | **what time** — во сколько |
+
+  ## Вопрос к подлежащему
+  Если *who* или *what* — это **подлежащее** (тот, кто делает действие), помощник не нужен, порядок как в утверждении:
+  - ***Who lives** here?* — Кто здесь живёт? (не ~~Who does live here?~~)
+  - ***What happened**?* — Что случилось?
+
+  Сравните: *Who **does** Anna love?* — Кого любит Анна? (Анна — подлежащее) и *Who **loves** Anna?* — Кто любит Анну?
+examples:
+  - "Where *do* you work? | Где ты работаешь?"
+  - "What time *does* the museum open? | Во сколько открывается музей?"
+  - "How many brothers *have* you got? | Сколько у тебя братьев?"
+  - "Why *are* you so happy today? | Почему ты сегодня такой радостный?"
+  - "Who *wants* some tea? | Кто хочет чаю?"
+  - "Whose phone is this? | Чей это телефон?"
+exercises:
+  - type: choice
+    q: "___ do you live? — In Madrid."
+    options: ["What", "Where", "When"]
+    answer: 1
+  - type: choice
+    q: "___ is your birthday? — In May."
+    options: ["When", "Who", "How"]
+    answer: 0
+  - type: choice
+    q: "___ milk do we need? — Two litres."
+    options: ["How many", "How much", "How long"]
+    answer: 1
+  - type: choice
+    q: "___ bag is this? — It's Anna's."
+    options: ["Who", "Whose", "Which"]
+    answer: 1
+  - type: choice
+    q: "Which question is correct?"
+    options: ["Where you live?", "Where do you live?", "Where you do live?"]
+    answer: 1
+  - type: choice
+    q: "Which question is correct?"
+    options: ["Who does know the answer?", "Who knows the answer?", "Who know the answer?"]
+    answer: 1
+    explain: "Who is the subject → no does."
+    explain_ru: "Who — подлежащее, поэтому does не нужен."
+  - type: order
+    q: "Составьте: «Что ты обычно ешь на завтрак?»"
+    answer: "What do you usually eat for breakfast?"
+  - type: order
+    q: "Составьте: «Сколько лет твоему брату?»"
+    answer: "How old is your brother?"
+  - type: order
+    q: "Составьте: «Почему она не любит собак?»"
+    answer: "Why doesn't she like dogs?"
+  - type: input
+    q: "___ does the film start? — At 8 pm. (Во сколько)"
+    answer: ["What time", "When"]
+  - type: input
+    q: "___ are you? — I'm 25. (Сколько лет)"
+    answer: ["How old"]
+  - type: error
+    text: "What {{you want=>do you want}} for dinner?"
+  - type: error
+    text: "Where {{does work your sister=>does your sister work}}?"
+  - type: match
+    pairs:
+      - ["Where…?", "In London."]
+      - ["When…?", "Tomorrow."]
+      - ["Why…?", "Because I'm tired."]
+      - ["Who…?", "My teacher."]
+      - ["How…?", "By bus."]
+  - type: listen
+    audio: "What time does your train leave? It leaves at half past six."
+    q: "When does the train leave?"
+    options: ["6:00", "6:30", "7:30"]
+    answer: 1
+  - type: speak
+    answer: "Where do you live and what do you do?"
+    ru: "Где ты живёшь и чем занимаешься?"

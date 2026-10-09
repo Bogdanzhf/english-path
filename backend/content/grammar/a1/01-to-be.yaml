@@ -114,7 +114,6 @@ exercises:
       - ["I", "am"]
       - ["she", "is"]
       - ["they", "are"]
-      - ["it", "is"]
   - type: listen
     audio: "Are you from Spain? No, I am not. I am from Italy."
     q: "Where is the person from?"

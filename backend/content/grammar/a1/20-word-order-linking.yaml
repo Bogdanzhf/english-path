@@ -1,0 +1,107 @@
+title: "Word order and linking words: and, but, or, because, so"
+title_ru: "Порядок слов и союзы: and, but, or, because, so"
+section: sentences
+summary: "Subject + verb + object + place + time; joining ideas"
+summary_ru: "Подлежащее + глагол + дополнение + место + время; как соединять мысли"
+theory: |
+  ## Basic word order
+  English word order is **fixed**:
+
+  | Subject | Verb | Object | Place | Time |
+  |---|---|---|---|---|
+  | I | bought | a jacket | in town | yesterday. |
+  | She | plays | tennis | at the club | on Sundays. |
+
+  - Don't separate the verb and its object: *I like **coffee** very much* (not ~~I like very much coffee~~).
+  - Place usually comes **before** time: *We went **to the park** **after lunch**.*
+  - Time can also go at the start: ***Yesterday** I bought a jacket.*
+
+  ## Linking words
+  | | |
+  |---|---|
+  | **and** — adds | *I have a cat **and** a dog.* |
+  | **but** — contrast | *It's small **but** comfortable.* |
+  | **or** — choice | *Tea **or** coffee?* |
+  | **because** — reason | *I stayed home **because** I was ill.* |
+  | **so** — result | *I was ill, **so** I stayed home.* |
+
+  Compare: **because** + reason, **so** + result.
+theory_ru: |
+  ## Порядок слов — твёрдый
+  В русском можно сказать «Я вчера купил куртку», «Куртку я купил вчера», «Вчера купил я куртку». В английском порядок **фиксированный** — от него зависит смысл:
+
+  | Кто | Что делает | Что | Где | Когда |
+  |---|---|---|---|---|
+  | I | bought | a jacket | in town | yesterday. |
+  | She | plays | tennis | at the club | on Sundays. |
+
+  - Не разрывайте глагол и дополнение: *I like **coffee** very much* (не ~~I like very much coffee~~).
+  - Место обычно идёт **перед** временем: *We went **to the park** **after lunch**.*
+  - Время можно вынести в начало: ***Yesterday** I bought a jacket.*
+  - Подлежащее нужно всегда, даже если в русском его нет: «Холодно» — ***It**'s cold*, «Идёт дождь» — ***It**'s raining*.
+
+  ## Союзы
+  | | |
+  |---|---|
+  | **and** — и | *I have a cat **and** a dog.* — У меня есть кошка и собака. |
+  | **but** — но, а | *It's small **but** comfortable.* — Маленький, но удобный. |
+  | **or** — или | *Tea **or** coffee?* — Чай или кофе? |
+  | **because** — потому что (причина) | *I stayed home **because** I was ill.* — Я остался дома, потому что болел. |
+  | **so** — поэтому, так что (результат) | *I was ill, **so** I stayed home.* — Я болел, поэтому остался дома. |
+
+  Запомните: после **because** — причина, после **so** — результат.
+examples:
+  - "My parents bought a new car last month. | Мои родители купили новую машину в прошлом месяце."
+  - "I really like this song. | Мне очень нравится эта песня."
+  - "It was late, *so* we took a taxi. | Было поздно, поэтому мы взяли такси."
+  - "She can't come *because* she's working. | Она не может прийти, потому что работает."
+  - "Do you want pizza *or* pasta? | Хочешь пиццу или пасту?"
+  - "It's cold today. | Сегодня холодно."
+exercises:
+  - type: order
+    q: "Составьте: «Я встретил Анну в кафе вчера.»"
+    answer: "I met Anna at the café yesterday."
+  - type: order
+    q: "Составьте: «Он очень любит футбол.»"
+    answer: "He likes football very much."
+  - type: order
+    q: "Составьте: «На улице холодно.»"
+    answer: "It is cold outside."
+  - type: choice
+    q: "Which is correct?"
+    options: ["I speak very well English.", "I speak English very well.", "Very well I speak English."]
+    answer: 1
+  - type: choice
+    q: "I was hungry, ___ I made a sandwich."
+    options: ["because", "so", "but"]
+    answer: 1
+  - type: choice
+    q: "I made a sandwich ___ I was hungry."
+    options: ["because", "so", "or"]
+    answer: 0
+  - type: choice
+    q: "The hotel was nice, ___ it was very expensive."
+    options: ["and", "but", "so"]
+    answer: 1
+  - type: choice
+    q: "Would you like to go out ___ stay at home?"
+    options: ["or", "but", "so"]
+    answer: 0
+  - type: cloze
+    text: "I love summer [[because]] I can swim in the sea. My sister prefers winter, [[but]] she doesn't like the cold. She loves skiing [[and]] skating."
+  - type: error
+    text: "{{Is raining=>It is raining}}, so take an umbrella."
+    explain: "English sentences need a subject: It is raining."
+    explain_ru: "В английском нужно подлежащее: It is raining."
+  - type: error
+    text: "She plays {{on Sundays tennis=>tennis on Sundays}} with her dad."
+    explain: "The object comes right after the verb: plays tennis."
+    explain_ru: "Дополнение стоит сразу после глагола: plays tennis."
+  - type: tf
+    items:
+      - ["Because introduces a reason.", true]
+      - ["So introduces a reason.", false]
+      - ["Place usually comes before time.", true]
+  - type: speak
+    answer: "I was tired, so I went to bed early."
+    ru: "Я устал, поэтому рано лёг спать."

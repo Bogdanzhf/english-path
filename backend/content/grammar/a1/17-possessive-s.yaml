@@ -1,0 +1,97 @@
+title: "Possessive 's and whose"
+title_ru: "Притяжательный 's и whose"
+section: nouns
+summary: "Anna's car, my parents' house, whose bag?"
+summary_ru: "Anna's car, my parents' house, whose bag?"
+theory: |
+  ## 's for people and animals
+  | | |
+  |---|---|
+  | singular noun + **'s** | *Anna**'s** car, my brother**'s** room, the dog**'s** bed* |
+  | plural noun in -s + **'** | *my parents**'** house, the students**'** books* |
+  | irregular plural + **'s** | *the children**'s** toys, women**'s** clothes* |
+  | two people, one thing | *Tom and Kate**'s** flat* |
+
+  > 's can also mean *is* or *has*: *Anna's here* = Anna **is** here. *She's got* = she **has** got.
+
+  ## of for things
+  For things we usually use **of**: *the end **of** the film, the top **of** the page, the name **of** the street*.
+
+  ## Whose?
+  ***Whose** phone is this? — It's Sam's.* / ***Whose** is this phone? — It's mine.*
+
+  > Don't confuse *whose* (чей) and *who's* (= who is).
+theory_ru: |
+  ## 's — «чей» для людей и животных
+  Вместо «машина Анны» по-английски говорят «Анны машина»: *Anna's car*. Сначала владелец, потом предмет.
+
+  | | |
+  |---|---|
+  | ед. число + **'s** | *Anna**'s** car* — машина Анны, *my brother**'s** room* — комната брата |
+  | мн. число на -s + только **'** | *my parents**'** house* — дом моих родителей |
+  | особое мн. число + **'s** | *the children**'s** toys* — игрушки детей, *women**'s** clothes* — женская одежда |
+  | двое владельцев одного предмета | *Tom and Kate**'s** flat* — квартира Тома и Кейт |
+
+  > Осторожно: **'s** может быть и сокращением от *is* или *has*: *Anna's here* = Anna **is** here. *She's got* = she **has** got. Смотрите по смыслу.
+
+  ## of — для предметов
+  Для неодушевлённых предметов обычно используют **of**: *the end **of** the film* (конец фильма), *the top **of** the page* (верх страницы), *the name **of** the street* (название улицы).
+
+  ## Whose? — Чей?
+  ***Whose** phone is this? — It's Sam's.* — Чей это телефон? — Сэма.
+
+  > Не путайте *whose* (чей) и *who's* (= who is, кто есть).
+examples:
+  - "This is my sister*'s* bike. | Это велосипед моей сестры."
+  - "My grandparents*'* garden is beautiful. | Сад моих бабушки и дедушки красивый."
+  - "The children*'s* room is upstairs. | Детская комната наверху."
+  - "*Whose* keys are these? — They're Mark*'s*. | Чьи это ключи? — Марка."
+  - "What's the name *of* this song? | Как называется эта песня?"
+exercises:
+  - type: choice
+    q: "This is ___ car."
+    options: ["my father", "my father's", "my fathers"]
+    answer: 1
+  - type: choice
+    q: "My ___ house is near the sea. (у меня двое родителей)"
+    options: ["parent's", "parents'", "parents's"]
+    answer: 1
+  - type: choice
+    q: "The ___ toys are everywhere!"
+    options: ["childrens'", "children's", "childs'"]
+    answer: 1
+  - type: choice
+    q: "___ jacket is this? — It's Jack's."
+    options: ["Who's", "Whose", "Who"]
+    answer: 1
+  - type: choice
+    q: "I didn't like the end ___."
+    options: ["of the film", "the film's end of", "film's"]
+    answer: 0
+  - type: input
+    q: "Это собака Тома. → This is ___ dog."
+    answer: ["Tom's"]
+  - type: input
+    q: "Это комната моих братьев (их двое). → This is my ___ room."
+    answer: ["brothers'"]
+  - type: error
+    text: "This is {{the car of my mother=>my mother's car}}."
+    explain: "For people we use 's: my mother's car."
+    explain_ru: "Для людей используем 's: my mother's car."
+  - type: error
+    text: "{{Who's=>Whose}} bag is this?"
+  - type: order
+    q: "Составьте: «Как зовут твою сестру?»"
+    answer: "What is your sister's name?"
+  - type: tf
+    items:
+      - ["In “Anna's here”, 's means “is”.", true]
+      - ["We say “the students's books”.", false]
+  - type: listen
+    audio: "This isn't my phone, it's my brother's. Mine is in my bag."
+    q: "Whose phone is it?"
+    options: ["the speaker's", "the brother's", "the sister's"]
+    answer: 1
+  - type: speak
+    answer: "My best friend's name is Alex."
+    ru: "Моего лучшего друга зовут Алекс."

@@ -1,0 +1,107 @@
+title: "Plurals; this, that, these, those"
+title_ru: "Множественное число; this, that, these, those"
+section: nouns
+summary: "cat → cats, child → children; this book, those books"
+summary_ru: "cat → cats, child → children; this book, those books"
+theory: |
+  ## Regular plurals
+  | Rule | Examples |
+  |---|---|
+  | most nouns + **-s** | book → book**s**, car → car**s** |
+  | after s, ss, sh, ch, x + **-es** | bus → bus**es**, box → box**es**, watch → watch**es** |
+  | consonant + y → **-ies** | city → cit**ies**, baby → bab**ies** |
+  | vowel + y → **-s** | day → day**s**, boy → boy**s** |
+  | f / fe → **-ves** | leaf → lea**ves**, knife → kni**ves** |
+  | some nouns in o + **-es** | potato → potato**es**, tomato → tomato**es** |
+
+  ## Irregular plurals
+  man → **men**, woman → **women**, child → **children**, person → **people**, foot → **feet**, tooth → **teeth**, mouse → **mice**. Some nouns don't change: sheep → **sheep**, fish → **fish**.
+
+  ## this, that, these, those
+  | | near | far |
+  |---|---|---|
+  | singular | **this** book | **that** book |
+  | plural | **these** books | **those** books |
+theory_ru: |
+  ## Правильное множественное число
+  | Правило | Примеры |
+  |---|---|
+  | большинство слов + **-s** | book → book**s**, car → car**s** |
+  | после s, ss, sh, ch, x + **-es** | bus → bus**es**, box → box**es**, watch → watch**es** |
+  | согласная + y → **-ies** | city → cit**ies**, baby → bab**ies** |
+  | гласная + y → просто **-s** | day → day**s**, boy → boy**s** |
+  | f / fe → **-ves** | leaf → lea**ves**, knife → kni**ves** |
+  | некоторые слова на o + **-es** | potato → potato**es**, tomato → tomato**es** |
+
+  **Произношение окончания:** /s/ после глухих (cats, books), /z/ после звонких и гласных (dogs, days), /ɪz/ после шипящих (buses, boxes).
+
+  ## Особые формы — их нужно запомнить
+  man → **men** (мужчины), woman → **women**, child → **children** (дети), person → **people** (люди), foot → **feet** (ступни), tooth → **teeth** (зубы), mouse → **mice** (мыши). Не меняются: sheep → **sheep** (овцы), fish → **fish**.
+
+  ## this, that, these, those — этот, тот, эти, те
+  | | рядом | далеко |
+  |---|---|---|
+  | ед. ч. | **this** book — эта книга | **that** book — та книга |
+  | мн. ч. | **these** books — эти книги | **those** books — те книги |
+
+  > Не путайте **this** /ðɪs/ и **these** /ðiːz/ — во втором долгий звук «и».
+examples:
+  - "*These* apples are sweet, but *those* ones are sour. | Эти яблоки сладкие, а те — кислые."
+  - "There are three *children* in the garden. | В саду трое детей."
+  - "Is *this* your bag? — No, *that* one is mine. | Это твоя сумка? — Нет, моя вон та."
+  - "I need two *boxes* and three *knives*. | Мне нужны две коробки и три ножа."
+  - "Many *people* live in big *cities*. | Многие люди живут в больших городах."
+exercises:
+  - type: choice
+    q: "one baby → two ___"
+    options: ["babys", "babies", "babyes"]
+    answer: 1
+  - type: choice
+    q: "one man → two ___"
+    options: ["mans", "men", "mens"]
+    answer: 1
+  - type: choice
+    q: "Look at ___ birds in the sky!"
+    options: ["this", "that", "those"]
+    answer: 2
+    explain: "Plural and far away → those."
+    explain_ru: "Множественное число и далеко → those."
+  - type: choice
+    q: "___ is my phone, here in my hand."
+    options: ["This", "These", "Those"]
+    answer: 0
+  - type: input
+    q: "one watch → two ___"
+    answer: ["watches"]
+  - type: input
+    q: "one leaf → many ___"
+    answer: ["leaves"]
+  - type: input
+    q: "one child → three ___"
+    answer: ["children"]
+  - type: input
+    q: "one tooth → all my ___"
+    answer: ["teeth"]
+  - type: cloze
+    text: "There are two [[women]] and four [[men]] in the room. Their [[feet]] are wet because it's raining."
+  - type: error
+    text: "I have two {{childs=>children}}."
+  - type: error
+    text: "{{This=>These}} shoes are new."
+    explain: "Shoes is plural → these."
+    explain_ru: "Shoes — множественное число → these."
+  - type: odd
+    q: "Which plural is wrong?"
+    options: ["boxes", "days", "citys", "knives"]
+    answer: 2
+  - type: match
+    pairs:
+      - ["mouse", "mice"]
+      - ["foot", "feet"]
+      - ["person", "people"]
+      - ["sheep", "sheep"]
+  - type: listen
+    audio: "These are my books, and those are my sister's."
+    q: "Which books are near the speaker?"
+    options: ["the speaker's books", "the sister's books", "all the books"]
+    answer: 0

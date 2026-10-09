@@ -1,0 +1,107 @@
+title: "Adjectives: position, very, too, enough"
+title_ru: "Прилагательные: место в предложении, very, too, enough"
+section: adjectives
+summary: "a big house, the house is big, very cold, too hot, old enough"
+summary_ru: "a big house, the house is big, very cold, too hot, old enough"
+theory: |
+  ## Position
+  - **before a noun**: *a **big** house, **red** apples*
+  - **after be / look / feel / seem / get**: *The house is **big**. You look **tired**.*
+
+  Adjectives **never change**: no plural, no gender: *a **tall** boy → two **tall** boys → a **tall** girl* (not ~~talls boys~~).
+
+  ## very / really / quite
+  *It's **very** cold. The film was **really** good. The room is **quite** small.*
+
+  ## too vs very
+  - **very** = a lot (neutral): *This bag is **very** expensive* (but maybe I'll buy it).
+  - **too** = more than is good: *This bag is **too** expensive* (I can't buy it).
+  - **too + adjective + to do**: *He's **too young to drive**.*
+
+  ## enough — after an adjective
+  - *She is old **enough** to drive.* · *The water isn't warm **enough** for swimming.*
+  - but **before** a noun: *We have **enough** time.*
+
+  ## -ed and -ing adjectives
+  - **-ed** = how you feel: *I'm **bored**, **interested**, **tired**.*
+  - **-ing** = what causes the feeling: *The film is **boring**, **interesting**, **tiring**.*
+theory_ru: |
+  ## Где стоит прилагательное
+  - **перед существительным**: *a **big** house* — большой дом, ***red** apples* — красные яблоки
+  - **после be / look / feel / seem / get**: *The house is **big**.* — Дом большой. *You look **tired**.* — Ты выглядишь усталым.
+
+  Английские прилагательные **никогда не меняются**: нет множественного числа и рода: *a **tall** boy → two **tall** boys → a **tall** girl* (не ~~talls boys~~).
+
+  ## very / really / quite
+  *It's **very** cold.* — Очень холодно. *The film was **really** good.* — Фильм был действительно хорош. *The room is **quite** small.* — Комната довольно маленькая.
+
+  ## too или very?
+  - **very** — «очень», нейтрально: *This bag is **very** expensive* — Эта сумка очень дорогая (но, может, я её куплю).
+  - **too** — «слишком», больше, чем нужно: *This bag is **too** expensive* — Сумка слишком дорогая (купить не смогу).
+  - **too + прилагательное + to + глагол**: *He's **too young to drive**.* — Он слишком молод, чтобы водить.
+
+  ## enough — «достаточно»: ПОСЛЕ прилагательного
+  - *She is old **enough** to drive.* — Она достаточно взрослая, чтобы водить.
+  - *The water isn't warm **enough** for swimming.* — Вода недостаточно тёплая для купания.
+  - но **перед** существительным: *We have **enough** time.* — У нас достаточно времени.
+
+  ## -ed и -ing
+  - **-ed** — что чувствует человек: *I'm **bored**.* — Мне скучно. *I'm **interested**.* — Мне интересно.
+  - **-ing** — что вызывает чувство: *The film is **boring**.* — Фильм скучный. *The book is **interesting**.*
+
+  > Частая ошибка: ~~I'm boring~~ означает «Я скучный человек»! Чтобы сказать «мне скучно» — *I'm bored*.
+examples:
+  - "She has long dark hair and *beautiful* eyes. | У неё длинные тёмные волосы и красивые глаза."
+  - "This coffee is *too* hot — I can't drink it. | Кофе слишком горячий — я не могу его пить."
+  - "Is your English good *enough* for this job? | Твой английский достаточно хорош для этой работы?"
+  - "I was so *bored* at the lecture. It was really *boring*. | Мне было так скучно на лекции. Она была очень скучной."
+  - "You look *happy* today! | Ты сегодня выглядишь счастливым!"
+exercises:
+  - type: choice
+    q: "Which is correct?"
+    options: ["a car red", "a red car", "a reds car"]
+    answer: 1
+  - type: choice
+    q: "They are very ___ people."
+    options: ["nices", "nice", "nicely"]
+    answer: 1
+  - type: choice
+    q: "I can't carry this box. It's ___ heavy."
+    options: ["very", "too", "enough"]
+    answer: 1
+  - type: choice
+    q: "He isn't ___ to go to school. He's only four."
+    options: ["enough old", "old enough", "too old"]
+    answer: 1
+  - type: choice
+    q: "The lesson was really ___. I almost fell asleep."
+    options: ["bored", "boring", "bore"]
+    answer: 1
+  - type: choice
+    q: "I'm ___ in history."
+    options: ["interesting", "interested", "interest"]
+    answer: 1
+  - type: input
+    q: "We don't have ___ money for a holiday. (достаточно)"
+    answer: ["enough"]
+  - type: error
+    text: "She has two {{smalls=>small}} dogs."
+  - type: error
+    text: "I'm so {{boring=>bored}} — there's nothing to do!"
+  - type: error
+    text: "The room isn't {{enough big=>big enough}} for a party."
+  - type: order
+    q: "Составьте: «Вода слишком холодная для купания.»"
+    answer: "The water is too cold for swimming."
+  - type: order
+    q: "Составьте: «У неё красивый новый дом.»"
+    answer: "She has a beautiful new house."
+  - type: match
+    pairs:
+      - ["tired", "уставший"]
+      - ["tiring", "утомительный"]
+      - ["excited", "взволнованный"]
+      - ["exciting", "захватывающий"]
+  - type: speak
+    answer: "This film is really interesting."
+    ru: "Этот фильм очень интересный."

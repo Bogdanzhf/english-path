@@ -1,0 +1,126 @@
+title: "Past Simple"
+title_ru: "Past Simple — простое прошедшее время"
+section: tenses
+summary: "Finished actions in the past: I worked, I went, did you…?"
+summary_ru: "Завершённые действия в прошлом: I worked, I went, did you…?"
+theory: |
+  ## Use
+  Finished actions and situations at a definite time in the past:
+  - *I **visited** Rome **last year**.* · *She **called** me **an hour ago**.*
+  - a series of past actions: *He **got up**, **had** a shower and **left**.*
+
+  ## Form
+  | | all persons |
+  |---|---|
+  | + | I/she/they **worked** / **went** |
+  | − | I/she/they **didn't work** / **didn't go** |
+  | ? | **Did** you **work**? / **Did** she **go**? — Yes, I did. / No, she didn't. |
+
+  > After **did / didn't** use the base form: *Did you **see** it?* (not ~~did you saw~~)
+
+  ## Regular verbs: + -ed
+  - work → work**ed**, play → play**ed**
+  - -e → + d: live → live**d**
+  - consonant + y → -ied: study → stud**ied**
+  - short CVC verbs double: stop → sto**pped**, plan → pla**nned**
+
+  Pronunciation: /t/ after voiceless sounds (*worked*), /d/ after voiced (*played*), /ɪd/ after t/d (*wanted, needed*).
+
+  ## Irregular verbs
+  Many common verbs are irregular: go → **went**, have → **had**, see → **saw**, buy → **bought**, make → **made**, take → **took**, come → **came**, eat → **ate**, get → **got**, say → **said**. See the table of irregular verbs.
+
+  ## Time expressions
+  *yesterday, last week, two years ago, in 2019, when I was young*
+theory_ru: |
+  ## Когда используется
+  Действие, которое произошло и **закончилось** в прошлом, обычно с указанием времени:
+  - *I **visited** Rome **last year**.* — В прошлом году я побывал в Риме.
+  - *She **called** me **an hour ago**.* — Она позвонила мне час назад.
+  - цепочка действий: *He **got up**, **had** a shower and **left**.* — Он встал, принял душ и ушёл.
+
+  ## Форма — одинаковая для всех лиц!
+  | | |
+  |---|---|
+  | + | I/she/they **worked** / **went** |
+  | − | I/she/they **didn't work** / **didn't go** |
+  | ? | **Did** you **work**? / **Did** she **go**? — Yes, I did. / No, she didn't. |
+
+  > После **did / didn't** глагол стоит в начальной форме — прошедшее время уже «показал» did: *Did you **see** it?* (не ~~did you saw~~), *I didn't **go*** (не ~~didn't went~~).
+
+  ## Правильные глаголы: + -ed
+  - work → work**ed**, play → play**ed**
+  - на -e → + d: live → live**d**
+  - согласная + y → -ied: study → stud**ied**
+  - короткие «согласная–гласная–согласная» удваивают букву: stop → sto**pped**, plan → pla**nned**
+
+  Произношение -ed: /t/ после глухих (*worked* «уоркт»), /d/ после звонких (*played*), /ɪd/ после t и d (*wanted, needed*).
+
+  ## Неправильные глаголы
+  У многих частых глаголов особая форма, её нужно выучить: go → **went**, have → **had**, see → **saw**, buy → **bought**, make → **made**, take → **took**, come → **came**, eat → **ate**, get → **got**, say → **said**. Полный список — в таблице неправильных глаголов.
+
+  ## Слова-маркеры
+  *yesterday, last week* (на прошлой неделе), *two years ago* (два года назад), *in 2019*, *when I was young*
+examples:
+  - "We *watched* a great film last night. | Вчера вечером мы посмотрели отличный фильм."
+  - "I *went* to Spain two years ago. | Я ездил в Испанию два года назад."
+  - "She *didn't come* to the party. | Она не пришла на вечеринку."
+  - "*Did* you *finish* your homework? — Yes, I *did*. | Ты закончил домашнее задание? — Да."
+  - "What *did* you *buy*? — I *bought* a new jacket. | Что ты купил? — Новую куртку."
+exercises:
+  - type: choice
+    q: "I ___ my grandmother last Sunday."
+    options: ["visit", "visited", "visiting"]
+    answer: 1
+  - type: choice
+    q: "We ___ to the beach yesterday."
+    options: ["go", "goed", "went"]
+    answer: 2
+  - type: choice
+    q: "___ you see the match last night?"
+    options: ["Do", "Did", "Were"]
+    answer: 1
+  - type: choice
+    q: "She didn't ___ the answer."
+    options: ["knew", "know", "knows"]
+    answer: 1
+  - type: input
+    q: "He ___ (study) all night before the exam."
+    answer: ["studied"]
+  - type: input
+    q: "They ___ (stop) the car and got out."
+    answer: ["stopped"]
+  - type: input
+    q: "I ___ (not / like) the food at that restaurant."
+    answer: ["didn't like", "did not like"]
+  - type: input
+    q: "buy → ___ (Past Simple)"
+    answer: ["bought"]
+  - type: input
+    q: "eat → ___ (Past Simple)"
+    answer: ["ate"]
+  - type: cloze
+    text: "Last summer we [[went]] (go) to Greece. We [[stayed]] (stay) in a small hotel and [[swam]] (swim) every day. We [[didn't want|did not want]] (not / want) to come home!"
+  - type: error
+    text: "Did you {{went=>go}} to school yesterday?"
+  - type: error
+    text: "I {{buyed=>bought}} a new phone last week."
+  - type: error
+    text: "She {{doesn't=>didn't}} call me yesterday."
+  - type: order
+    q: "Составьте: «Что ты делал в выходные?»"
+    answer: "What did you do at the weekend?"
+  - type: match
+    pairs:
+      - ["see", "saw"]
+      - ["take", "took"]
+      - ["make", "made"]
+      - ["come", "came"]
+      - ["say", "said"]
+  - type: listen
+    audio: "Yesterday I got up late, had a quick breakfast and ran to the bus stop."
+    q: "What did the person do after breakfast?"
+    options: ["went back to bed", "ran to the bus stop", "called a friend"]
+    answer: 1
+  - type: speak
+    answer: "I went to the cinema last weekend."
+    ru: "В прошлые выходные я ходил в кино."

@@ -78,13 +78,21 @@ def check_exercise(ex: dict, where: str) -> dict:
         need("pairs")
         if len(ex["pairs"]) < 2 or not all(isinstance(p, list) and len(p) == 2 for p in ex["pairs"]):
             raise ContentError(f"{where}: pairs — список пар [a, b]")
+        for side in (0, 1):
+            vals = [str(p[side]) for p in ex["pairs"]]
+            if len(set(vals)) != len(vals):
+                raise ContentError(f"{where}: в парах повторяются элементы: {vals}")
     elif t == "cloze":
         need("text")
         if not CLOZE_RE.search(ex["text"]):
             raise ContentError(f"{where}: в cloze нет пропусков [[…]]")
         for gap in CLOZE_RE.findall(ex["text"]):
-            if "/" in gap and gap.count("*") != 1:
-                raise ContentError(f"{where}: в выпадающем списке [[{gap}]] нужен ровно один *верный вариант")
+            if "/" in gap:
+                opts = [o.strip() for o in gap.split("/")]
+                if sum(o.startswith("*") for o in opts) != 1:
+                    raise ContentError(f"{where}: в выпадающем списке [[{gap}]] нужен ровно один *верный вариант")
+                if len({o.lstrip("*") for o in opts}) != len(opts):
+                    raise ContentError(f"{where}: в [[{gap}]] варианты повторяются")
     elif t == "error":
         need("text")
         m = ERROR_RE.findall(ex["text"])
@@ -283,6 +291,8 @@ def load_irregular() -> list[dict]:
         base, past, pp, ru, level = parts
         if level not in LEVELS:
             raise ContentError(f"irregular_verbs.yaml, строка {i + 1}: уровень {level!r}")
+        if any(r["base"] == base for r in rows):
+            raise ContentError(f"irregular_verbs.yaml, строка {i + 1}: глагол {base!r} уже есть в списке")
         rows.append({"base": base, "past": past, "pp": pp, "ru": ru, "level": level})
     return rows
 

@@ -1,0 +1,117 @@
+title: "Articles: a, an, the"
+title_ru: "Артикли: a, an, the"
+section: nouns
+summary: "When to use a/an, the or no article"
+summary_ru: "Когда нужен a/an, the или артикль не нужен"
+theory: |
+  ## a / an — “one, any”
+  Use **a/an** with a singular countable noun when you mention it for the first time or when it is one of many:
+  - *I have **a** cat.* · *She is **a** doctor.*
+
+  **a** before a consonant **sound**, **an** before a vowel **sound**:
+  - ***a** book, **a** university* (/juː/), ***a** house*
+  - ***an** apple, **an** hour* (h is silent), ***an** umbrella*
+
+  ## the — “this specific one”
+  Use **the** when the listener knows which thing you mean:
+  - something mentioned before: *I have a cat. **The** cat is black.*
+  - the only one: ***the** sun, **the** moon, **the** world*
+  - with superlatives: ***the** best day*
+
+  ## No article
+  - plural and uncountable nouns in general: *I like **cats**. **Water** is important.*
+  - names of people, most countries and cities: *Anna lives in **Paris**.*
+  - meals, days and some places: *have **breakfast**, on **Monday**, go to **school**, at **home**, go to **bed***
+
+  > Jobs always need an article: *He is **an** engineer* (not ~~He is engineer~~).
+theory_ru: |
+  ## a / an — «один, какой-то»
+  В русском артиклей нет, поэтому это одна из главных трудностей. **A/an** ставится перед исчисляемым существительным в единственном числе, когда мы говорим о предмете впервые или об одном из многих:
+  - *I have **a** cat.* — У меня есть (какая-то, одна) кошка.
+  - *She is **a** doctor.* — Она врач (одна из врачей).
+
+  **a** — перед согласным **звуком**, **an** — перед гласным **звуком**:
+  - ***a** book, **a** university* (/juː/ — звук «й»), ***a** house*
+  - ***an** apple, **an** hour* (h не читается), ***an** umbrella*
+
+  ## the — «этот самый, тот, о котором мы знаем»
+  - уже упоминали: *I have a cat. **The** cat is black.* — У меня есть кошка. Эта кошка чёрная.
+  - единственный в мире: ***the** sun, **the** moon, **the** world*
+  - с превосходной степенью: ***the** best day* — самый лучший день
+
+  ## Без артикля
+  - множественное число и неисчисляемые в общем смысле: *I like **cats**.* — Я люблю кошек (вообще). ***Water** is important.*
+  - имена, большинство стран и городов: *Anna lives in **Paris**.*
+  - приёмы пищи, дни недели, некоторые места: *have **breakfast**, on **Monday**, go to **school**, at **home**, go to **bed***
+
+  > С профессиями артикль обязателен: *He is **an** engineer* (не ~~He is engineer~~).
+
+  > Простой тест: если по-русски можно сказать «какой-то/один» — нужен **a**; если «этот, тот самый» — **the**.
+examples:
+  - "I bought *a* new phone. *The* phone is really fast. | Я купил новый телефон. Телефон очень быстрый."
+  - "She is *an* actress. | Она актриса."
+  - "*The* moon is very bright tonight. | Луна сегодня очень яркая."
+  - "I love music, but I don't like *the* music in this café. | Я люблю музыку, но мне не нравится музыка в этом кафе."
+  - "We had dinner at home on Sunday. | В воскресенье мы ужинали дома."
+  - "It takes *an* hour to get to *the* airport. | До аэропорта ехать час."
+exercises:
+  - type: choice
+    q: "I need ___ umbrella."
+    options: ["a", "an", "the"]
+    answer: 1
+    explain: "Umbrella starts with a vowel sound → an."
+    explain_ru: "Umbrella начинается с гласного звука → an."
+  - type: choice
+    q: "She studies at ___ university in Boston."
+    options: ["a", "an", "—"]
+    answer: 0
+    explain: "University starts with the sound /j/ → a."
+    explain_ru: "University звучит с «й» (/juː/) → a, а не an."
+  - type: choice
+    q: "___ sun is a star."
+    options: ["A", "The", "—"]
+    answer: 1
+  - type: choice
+    q: "My father is ___ engineer."
+    options: ["—", "a", "an"]
+    answer: 2
+  - type: choice
+    q: "I usually have ___ breakfast at seven."
+    options: ["a", "the", "—"]
+    answer: 2
+  - type: cloze
+    text: "I live in [[a/*an/the]] old house. [[*The/A/An]] house has a big garden. In [[*the/a/—]] garden there is [[a/the/*an]] apple tree."
+  - type: cloze
+    text: "Do you like [[*—/the/a]] dogs? — Yes, but I don't like [[*the/a/—]] dog next door. It barks all night!"
+    explain: "Dogs in general → no article. The specific dog next door → the."
+    explain_ru: "Собаки вообще — без артикля; конкретная соседская собака — the."
+  - type: input
+    q: "It takes ___ hour to get there. (a / an)"
+    answer: ["an"]
+  - type: error
+    text: "My sister is {{nurse=>a nurse}}."
+    explain: "Jobs need a/an: She is a nurse."
+    explain_ru: "С профессиями нужен артикль: She is a nurse."
+  - type: error
+    text: "I go {{to the=>to}} school every day."
+    explain: "We say go to school (as a student), without the."
+    explain_ru: "Go to school (учиться) — без артикля."
+  - type: odd
+    q: "Which word needs “an”, not “a”?"
+    options: ["house", "hour", "horse", "holiday"]
+    answer: 1
+    explain: "In hour the h is silent: an hour."
+    explain_ru: "В слове hour «h» не читается: an hour."
+  - type: tf
+    items:
+      - ["We say “a university”.", true]
+      - ["We say “I love the music” when we mean music in general.", false]
+      - ["We say “the Moon” because there is only one.", true]
+  - type: order
+    q: "Составьте: «В холодильнике есть яблоко.»"
+    answer: "There is an apple in the fridge."
+  - type: listen
+    audio: "I have a dog and a cat. The dog is big, and the cat is very small."
+    q: "Which animal is small?"
+    options: ["the dog", "the cat", "both"]
+    answer: 1

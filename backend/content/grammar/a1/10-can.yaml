@@ -1,0 +1,102 @@
+title: "Can / can't"
+title_ru: "Can / can't — уметь, мочь"
+section: modals
+summary: "Ability, possibility, requests and permission"
+summary_ru: "Умение, возможность, просьбы и разрешение"
+theory: |
+  ## Form — the same for all persons
+  | + | − | ? |
+  |---|---|---|
+  | I/you/he/she **can swim** | I **can't** (cannot) swim | **Can** you swim? — Yes, I can. / No, I can't. |
+
+  - no **-s** with he/she/it: *She **can** drive* (not ~~cans~~)
+  - no **to** after can: *I can **speak** French* (not ~~can to speak~~)
+
+  ## Use
+  - ability: *My grandmother **can** use a computer.*
+  - possibility: *You **can** buy tickets online.*
+  - requests: ***Can** you help me, please?* (more polite: ***Could** you…?*)
+  - permission: ***Can** I open the window?* — *Yes, of course.*
+
+  ## Past: could / couldn't
+  *When I was five, I **could** read, but I **couldn't** swim.*
+
+  > Pronunciation: in sentences *can* is weak /kən/, but *can't* is strong /kɑːnt/ (UK) or /kænt/ (US). Listen for the vowel!
+theory_ru: |
+  ## Форма — одинаковая для всех лиц
+  | + | − | ? |
+  |---|---|---|
+  | I/you/he/she **can swim** | I **can't** (cannot) swim | **Can** you swim? — Yes, I can. / No, I can't. |
+
+  - **без -s** с he/she/it: *She **can** drive* (не ~~cans~~)
+  - **без to** после can: *I can **speak** French* (не ~~can to speak~~)
+
+  ## Значения
+  - умение: *My grandmother **can** use a computer.* — Моя бабушка умеет пользоваться компьютером.
+  - возможность: *You **can** buy tickets online.* — Билеты можно купить онлайн.
+  - просьба: ***Can** you help me, please?* — Можешь мне помочь? (вежливее — ***Could** you…?*)
+  - разрешение: ***Can** I open the window?* — Можно открыть окно?
+
+  ## Прошедшее время: could / couldn't
+  *When I was five, I **could** read, but I **couldn't** swim.* — В пять лет я умел читать, но не умел плавать.
+
+  > Произношение: в утверждении *can* звучит слабо, почти «кн» /kən/, а *can't* — чётко, с долгим «а» /kɑːnt/ (брит.) или /kænt/ (амер.). На слух различайте их именно по гласному!
+examples:
+  - "I *can* play the piano, but I *can't* sing. | Я умею играть на пианино, но не умею петь."
+  - "*Can* you speak Spanish? — Yes, a little. | Ты говоришь по-испански? — Да, немного."
+  - "You *can't* park here. | Здесь нельзя парковаться."
+  - "*Could* you open the door, please? | Не могли бы вы открыть дверь?"
+  - "She *couldn't* come to the party because she was ill. | Она не смогла прийти на вечеринку, потому что болела."
+exercises:
+  - type: choice
+    q: "My brother ___ very fast."
+    options: ["can run", "cans run", "can to run"]
+    answer: 0
+  - type: choice
+    q: "___ you help me with my bag?"
+    options: ["Do", "Can", "Are"]
+    answer: 1
+  - type: choice
+    q: "Fish ___ breathe out of water."
+    options: ["can", "can't", "could"]
+    answer: 1
+  - type: choice
+    q: "When she was a child, she ___ speak three languages."
+    options: ["can", "could", "cans"]
+    answer: 1
+  - type: input
+    q: "I ___ (not / can) find my keys!"
+    answer: ["can't", "cannot", "can not"]
+  - type: input
+    q: "___ I use your phone? — Of course."
+    answer: ["Can", "Could", "May"]
+  - type: error
+    text: "She can {{speaks=>speak}} English very well."
+  - type: error
+    text: "I can {{to swim=>swim}}."
+  - type: order
+    q: "Составьте: «Ты умеешь водить машину?»"
+    answer: "Can you drive a car?"
+  - type: order
+    q: "Составьте: «Я не мог спать прошлой ночью.»"
+    answer: "I couldn't sleep last night."
+  - type: tf
+    items:
+      - ["We say “He can swims”.", false]
+      - ["“Could” is the past of “can”.", true]
+      - ["“Could you…?” is more polite than “Can you…?”.", true]
+  - type: listen
+    audio: "I can cook pasta, but I can't make a cake."
+    q: "What can't the person make?"
+    options: ["pasta", "a cake", "coffee"]
+    answer: 1
+  - type: listen
+    audio: "She can't come today."
+    q: "Is she coming today?"
+    options: ["Yes", "No"]
+    answer: 1
+    explain: "Listen for the long vowel in can't."
+    explain_ru: "Различайте по долгому гласному в can't."
+  - type: speak
+    answer: "Can you help me, please?"
+    ru: "Помоги мне, пожалуйста."

@@ -1,0 +1,102 @@
+title: "Have got / have"
+title_ru: "Have got / have — «у меня есть»"
+section: verbs
+summary: "Talking about things you own, family and appearance"
+summary_ru: "Как сказать «у меня есть»: вещи, семья, внешность"
+theory: |
+  ## Two ways to say the same thing
+  | | have got (more British, spoken) | have (everywhere) |
+  |---|---|---|
+  | + | I**'ve got** a car. She**'s got** a car. | I **have** a car. She **has** a car. |
+  | − | I **haven't got** a car. She **hasn't got** … | I **don't have** a car. She **doesn't have** … |
+  | ? | **Have** you **got** a car? — Yes, I have. | **Do** you **have** a car? — Yes, I do. |
+
+  ## he / she / it → has
+  ***She has** two brothers. **He's got** blue eyes.* (he's got = he **has** got)
+
+  ## Use
+  - possessions: *I've got a new laptop.*
+  - family and friends: *Have you got any brothers or sisters?*
+  - appearance: *She has long dark hair.*
+  - illnesses: *I've got a headache.*
+
+  > For actions we use only **have**, not *have got*: ***have** breakfast, **have** a shower, **have** fun.*
+theory_ru: |
+  ## «У меня есть» по-английски
+  В русском «у меня есть машина», а в английском — «я имею машину»: ***I have** a car* или ***I've got** a car.* Значение одинаковое.
+
+  | | have got (чаще в Британии, в разговоре) | have (везде) |
+  |---|---|---|
+  | + | I**'ve got** a car. She**'s got** a car. | I **have** a car. She **has** a car. |
+  | − | I **haven't got** a car. She **hasn't got** … | I **don't have** a car. She **doesn't have** … |
+  | ? | **Have** you **got** a car? — Yes, I have. | **Do** you **have** a car? — Yes, I do. |
+
+  ## he / she / it → has
+  ***She has** two brothers.* — У неё два брата. ***He's got** blue eyes.* — У него голубые глаза. (he's got = he **has** got, а не he is!)
+
+  ## Когда используется
+  - вещи: *I've got a new laptop.*
+  - родственники и друзья: *Have you got any brothers or sisters?* — У тебя есть братья или сёстры?
+  - внешность: *She has long dark hair.* — У неё длинные тёмные волосы.
+  - болезни: *I've got a headache.* — У меня болит голова.
+
+  > Не смешивайте формы: ~~Do you have got~~ — неправильно. Либо *Have you got…?*, либо *Do you have…?*
+
+  > Для действий — только **have** без got: ***have** breakfast* (завтракать), ***have** a shower* (принимать душ), ***have** fun* (веселиться).
+examples:
+  - "I*'ve got* two sisters and a brother. | У меня две сестры и брат."
+  - "She *has* beautiful green eyes. | У неё красивые зелёные глаза."
+  - "*Have* you *got* a pen? — Sorry, I *haven't*. | У тебя есть ручка? — Извини, нет."
+  - "*Do* you *have* any pets? — Yes, we *have* a dog. | У вас есть домашние животные? — Да, у нас собака."
+  - "He *doesn't have* much free time. | У него мало свободного времени."
+  - "I *have* breakfast at eight. | Я завтракаю в восемь."
+exercises:
+  - type: choice
+    q: "My brother ___ a new bike."
+    options: ["have got", "has got", "is got"]
+    answer: 1
+  - type: choice
+    q: "___ you got a car?"
+    options: ["Do", "Have", "Has"]
+    answer: 1
+  - type: choice
+    q: "___ she have any children?"
+    options: ["Does", "Has", "Do"]
+    answer: 0
+  - type: choice
+    q: "We usually ___ lunch at one o'clock."
+    options: ["have got", "have", "has"]
+    answer: 1
+    explain: "Have lunch is an action → only have."
+    explain_ru: "Have lunch — действие, got не нужен."
+  - type: input
+    q: "I ___ (not / have got) any money with me."
+    answer: ["haven't got", "have not got"]
+  - type: input
+    q: "She ___ (not / have) a sister. (с do/does)"
+    answer: ["doesn't have", "does not have"]
+  - type: cloze
+    text: "My friend Max [[has]] got a big family. He's [[got]] three brothers. [[Have]] you got any brothers?"
+  - type: error
+    text: "{{Do=>Have}} you got a pen?"
+  - type: error
+    text: "My cat {{have=>has}} green eyes."
+  - type: order
+    q: "Составьте: «У неё длинные волосы.»"
+    answer: "She has got long hair."
+  - type: order
+    q: "Составьте вопрос: «У тебя есть собака?»"
+    answer: "Do you have a dog?"
+  - type: tf
+    items:
+      - ["“He's got” means “he has got”.", true]
+      - ["“Do you have got a car?” is correct.", false]
+      - ["We say “I have a shower”, not “I have got a shower” for the action.", true]
+  - type: listen
+    audio: "I've got a sister, but I haven't got a brother."
+    q: "What does the person have?"
+    options: ["a brother", "a sister", "a sister and a brother"]
+    answer: 1
+  - type: speak
+    answer: "I have got a big family."
+    ru: "У меня большая семья."

@@ -1,0 +1,103 @@
+title: "Adverbs of frequency: always, often, never"
+title_ru: "Наречия частотности: always, often, never"
+section: adjectives
+summary: "How often? — and where to put the adverb"
+summary_ru: "Как часто? — и где ставить наречие"
+theory: |
+  ## From 100% to 0%
+  | always | usually | often | sometimes | rarely / seldom | never |
+  |---|---|---|---|---|---|
+  | 100% | ~90% | ~70% | ~50% | ~10% | 0% |
+
+  ## Position
+  - **before** the main verb: *I **usually** walk to work.*
+  - **after** *be*: *She is **always** late.*
+  - after the first auxiliary: *I have **never** been to Japan. You can **always** call me.*
+  - *sometimes* can also go at the start: ***Sometimes** we eat out.*
+
+  ## Questions and negatives
+  - *How often do you go to the gym?* — *Twice a week.*
+  - *I don't **often** cook.* · *Do you **ever** go swimming?*
+
+  > *Never* is already negative: *I **never** eat meat* (not ~~I don't never eat~~).
+
+  ## Longer expressions go at the end
+  *every day, once a week, twice a month, three times a year*: *I call my mum **every day**.*
+theory_ru: |
+  ## От 100% до 0%
+  | always | usually | often | sometimes | rarely / seldom | never |
+  |---|---|---|---|---|---|
+  | всегда | обычно | часто | иногда | редко | никогда |
+
+  ## Куда ставить
+  Главное правило: наречие стоит **перед смысловым глаголом**, но **после be**.
+  - перед глаголом: *I **usually** walk to work.* — Я обычно хожу на работу пешком.
+  - после *am/is/are*: *She is **always** late.* — Она всегда опаздывает.
+  - после первого вспомогательного глагола: *I have **never** been to Japan. You can **always** call me.*
+  - *sometimes* можно поставить и в начало: ***Sometimes** we eat out.*
+
+  ## Вопросы и отрицания
+  - *How often do you go to the gym?* — Как часто ты ходишь в спортзал? — *Twice a week.* — Два раза в неделю.
+  - *Do you **ever** go swimming?* — Ты когда-нибудь ходишь плавать?
+
+  > В английском только **одно** отрицание: *I **never** eat meat* (не ~~I don't never eat~~ — в отличие от русского «я никогда не ем»).
+
+  ## Длинные выражения — в конце
+  *every day* (каждый день), *once a week* (раз в неделю), *twice a month* (дважды в месяц), *three times a year* (три раза в год): *I call my mum **every day**.*
+examples:
+  - "I *always* brush my teeth before bed. | Я всегда чищу зубы перед сном."
+  - "He is *never* late for work. | Он никогда не опаздывает на работу."
+  - "We *sometimes* go to the cinema on Fridays. | По пятницам мы иногда ходим в кино."
+  - "How often do you see your grandparents? — Once a month. | Как часто ты видишься с бабушкой и дедушкой? — Раз в месяц."
+  - "She *rarely* eats sweets. | Она редко ест сладкое."
+exercises:
+  - type: choice
+    q: "Which sentence is correct?"
+    options: ["I go always to bed late.", "I always go to bed late.", "Always I go to bed late."]
+    answer: 1
+  - type: choice
+    q: "Which sentence is correct?"
+    options: ["She is usually tired.", "She usually is tired.", "Usually she tired is."]
+    answer: 0
+    explain: "Adverb goes after be."
+    explain_ru: "После be: She is usually…"
+  - type: choice
+    q: "I don't like fish, so I ___ eat it."
+    options: ["always", "often", "never"]
+    answer: 2
+  - type: choice
+    q: "How ___ do you play tennis? — Twice a week."
+    options: ["much", "often", "many"]
+    answer: 1
+  - type: order
+    q: "Составьте: «Он часто играет в футбол.»"
+    answer: "He often plays football."
+  - type: order
+    q: "Составьте: «Мы никогда не опаздываем.»"
+    answer: "We are never late."
+  - type: order
+    q: "Составьте: «Я хожу в спортзал три раза в неделю.»"
+    answer: "I go to the gym three times a week."
+  - type: error
+    text: "I {{don't never=>never}} drink coffee."
+    explain: "Only one negative in English: I never drink."
+    explain_ru: "В английском одно отрицание: I never drink."
+  - type: error
+    text: "My brother {{plays always=>always plays}} computer games."
+  - type: input
+    q: "Translate: «Я иногда работаю дома.» → I ___ work at home."
+    answer: ["sometimes"]
+  - type: match
+    pairs:
+      - ["always", "100%"]
+      - ["usually", "~90%"]
+      - ["sometimes", "~50%"]
+      - ["never", "0%"]
+  - type: tf
+    items:
+      - ["“Rarely” means almost never.", true]
+      - ["“Once a week” usually goes at the end of the sentence.", true]
+      - ["“She always is happy” is correct.", false]
+  - type: speak
+    answer: "I usually have breakfast at home."
+    ru: "Я обычно завтракаю дома."

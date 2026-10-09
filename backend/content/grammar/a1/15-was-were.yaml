@@ -1,0 +1,99 @@
+title: "Past of be: was / were"
+title_ru: "Прошедшее время to be: was / were"
+section: tenses
+summary: "I was tired. Were you at home? There was a problem."
+summary_ru: "I was tired. Were you at home? There was a problem."
+theory: |
+  ## Form
+  | | I / he / she / it | you / we / they |
+  |---|---|---|
+  | + | I **was** at home. | They **were** at home. |
+  | − | She **wasn't** (was not) there. | We **weren't** (were not) there. |
+  | ? | **Was** he late? — Yes, he was. | **Were** you happy? — No, we weren't. |
+
+  ## Use
+  The past of *am/is/are*: place, feelings, age, descriptions in the past.
+  - *I **was** born in 1995.* · *The film **was** boring.* · *Where **were** you yesterday?*
+
+  ## Time expressions
+  *yesterday, last night/week/year, two days ago, in 2010, when I was a child*
+
+  ## There was / there were
+  ***There was** a big tree here. **There were** a lot of people.*
+theory_ru: |
+  ## Форма
+  | | I / he / she / it | you / we / they |
+  |---|---|---|
+  | + | I **was** at home. — Я был дома. | They **were** at home. — Они были дома. |
+  | − | She **wasn't** (was not) there. | We **weren't** (were not) there. |
+  | ? | **Was** he late? — Yes, he was. | **Were** you happy? — No, we weren't. |
+
+  Запомните: **was** — для I, he, she, it; **were** — для you, we, they.
+
+  ## Когда используется
+  Это прошедшее время глагола *am/is/are*: где кто-то был, каким было что-то, сколько было лет.
+  - *I **was** born in 1995.* — Я родился в 1995 году. (по-английски «рождаются» через was!)
+  - *The film **was** boring.* — Фильм был скучным.
+  - *Where **were** you yesterday?* — Где ты был вчера?
+
+  ## Слова-маркеры
+  *yesterday* (вчера), *last night/week/year* (вчера вечером / на прошлой неделе / в прошлом году), *two days ago* (два дня назад), *in 2010*, *when I was a child* (когда я был ребёнком)
+
+  ## There was / there were
+  ***There was** a big tree here.* — Здесь было большое дерево. ***There were** a lot of people.* — Было много людей.
+examples:
+  - "I *was* very tired yesterday. | Вчера я очень устал."
+  - "Where *were* you last night? — I *was* at the cinema. | Где ты был вчера вечером? — В кино."
+  - "The shops *weren't* open on Sunday. | В воскресенье магазины не работали."
+  - "*Was* the test difficult? — No, it *wasn't*. | Тест был трудным? — Нет."
+  - "She *was* born in Kazan. | Она родилась в Казани."
+  - "*There were* twenty people at the meeting. | На собрании было двадцать человек."
+exercises:
+  - type: choice
+    q: "I ___ at home yesterday."
+    options: ["was", "were", "am"]
+    answer: 0
+  - type: choice
+    q: "My parents ___ in Italy last summer."
+    options: ["was", "were", "are"]
+    answer: 1
+  - type: choice
+    q: "___ the weather good on your holiday?"
+    options: ["Were", "Was", "Did"]
+    answer: 1
+  - type: choice
+    q: "Where ___ you born?"
+    options: ["was", "were", "are"]
+    answer: 1
+  - type: input
+    q: "We ___ (not / be) at school last Monday."
+    answer: ["weren't", "were not"]
+  - type: input
+    q: "___ there many people at the party? — Yes, there were."
+    answer: ["Were"]
+  - type: cloze
+    text: "Last weekend [[was]] great. The weather [[was]] sunny, and my friends [[were]] with me. We [[weren't|were not]] at home at all!"
+  - type: error
+    text: "They {{was=>were}} very happy."
+  - type: error
+    text: "I {{born=>was born}} in 2003."
+    explain: "We say I was born."
+    explain_ru: "«Я родился» — I was born."
+  - type: order
+    q: "Составьте: «Где ты был вчера вечером?»"
+    answer: "Where were you last night?"
+  - type: order
+    q: "Составьте: «Фильм не был интересным.»"
+    answer: "The film wasn't interesting."
+  - type: tf
+    items:
+      - ["We say “you was”.", false]
+      - ["“Wasn't” = was not.", true]
+  - type: listen
+    audio: "Yesterday I was at work all day, and in the evening I was at my sister's house."
+    q: "Where was the person in the evening?"
+    options: ["at work", "at home", "at the sister's house"]
+    answer: 2
+  - type: speak
+    answer: "I was born in a small town."
+    ru: "Я родился в маленьком городе."

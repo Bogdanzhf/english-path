@@ -1,0 +1,96 @@
+title: "Imperatives and let's"
+title_ru: "Повелительное наклонение и let's"
+section: verbs
+summary: "Open the door! Don't worry. Let's go!"
+summary_ru: "Open the door! Don't worry. Let's go!"
+theory: |
+  ## Imperative
+  Use the base form of the verb, with no subject:
+  - ***Sit** down. **Close** the window, please.*
+  - negative: ***Don't** touch that! **Don't** be late.*
+
+  We use imperatives for instructions, directions, advice, warnings and invitations:
+  - *Turn left at the bank.* · *Take an umbrella.* · *Be careful!* · *Come in!*
+
+  Add **please** to be polite: ***Please** sit down.* / *Sit down, **please**.*
+
+  ## Let's
+  **Let's** (= let us) + base verb — a suggestion for you and me:
+  - ***Let's go** to the cinema.* — *Good idea!*
+  - negative: ***Let's not** wait.*
+theory_ru: |
+  ## Повелительное наклонение
+  Просто берём глагол в начальной форме, без подлежащего:
+  - ***Sit** down.* — Садитесь. ***Close** the window, please.* — Закройте окно, пожалуйста.
+  - отрицание с **don't**: ***Don't** touch that!* — Не трогай! ***Don't** be late.* — Не опаздывай.
+
+  В английском нет разницы между «сядь» и «сядьте» — форма одна.
+
+  Используется для инструкций, указаний дороги, советов, предупреждений и приглашений:
+  - *Turn left at the bank.* — У банка поверните налево.
+  - *Take an umbrella.* — Возьми зонт.
+  - *Be careful!* — Осторожно! · *Come in!* — Заходите!
+
+  Чтобы звучать вежливо, добавляйте **please**. Без please просьба может прозвучать грубо!
+
+  ## Let's — «давай(те)»
+  **Let's** (= let us) + глагол — предложение сделать что-то вместе:
+  - ***Let's go** to the cinema.* — Давай сходим в кино. — *Good idea!*
+  - отрицание: ***Let's not** wait.* — Давай не будем ждать.
+examples:
+  - "*Open* your books at page ten. | Откройте учебники на странице десять."
+  - "*Don't* forget to call me! | Не забудь мне позвонить!"
+  - "*Be* quiet, please. The baby is sleeping. | Тише, пожалуйста. Малыш спит."
+  - "*Let's* have a coffee. | Давай выпьем кофе."
+  - "*Go* straight on and *turn* right. | Идите прямо и поверните направо."
+exercises:
+  - type: choice
+    q: "___ the door, please. It's cold."
+    options: ["Closes", "Close", "To close"]
+    answer: 1
+  - type: choice
+    q: "___ worry. Everything will be OK."
+    options: ["Not", "No", "Don't"]
+    answer: 2
+  - type: choice
+    q: "___ go to the beach today!"
+    options: ["Let's", "Let", "We let"]
+    answer: 0
+  - type: choice
+    q: "___ careful! The floor is wet."
+    options: ["Are", "Be", "Is"]
+    answer: 1
+  - type: input
+    q: "___ (not / be) late tomorrow."
+    answer: ["Don't be", "Do not be"]
+  - type: input
+    q: "___ (давай) watch a film tonight."
+    answer: ["Let's", "Let us"]
+  - type: error
+    text: "{{Not=>Don't}} touch the oven — it's hot!"
+  - type: error
+    text: "Let's {{to go=>go}} home."
+  - type: order
+    q: "Составьте: «Пожалуйста, говорите медленнее.»"
+    answer: "Please speak more slowly."
+  - type: order
+    q: "Составьте: «Давай не будем ссориться.»"
+    answer: "Let's not argue."
+  - type: match
+    pairs:
+      - ["Come in!", "Заходите!"]
+      - ["Sit down.", "Садитесь."]
+      - ["Don't worry.", "Не волнуйся."]
+      - ["Be careful!", "Осторожно!"]
+  - type: tf
+    items:
+      - ["Imperatives usually have no subject.", true]
+      - ["The negative imperative is “No go!”.", false]
+  - type: listen
+    audio: "Go straight on, then turn left at the post office."
+    q: "Where should you turn left?"
+    options: ["at the bank", "at the post office", "at the school"]
+    answer: 1
+  - type: speak
+    answer: "Let's go for a walk."
+    ru: "Давай пойдём погуляем."

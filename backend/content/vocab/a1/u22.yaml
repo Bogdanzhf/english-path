@@ -1,0 +1,60 @@
+title: "Shops and Mysteries"
+title_ru: "Магазины и загадки"
+words:
+  - "actual | adj | ˈæktʃuəl | | действительный, фактический | real; true | The *actual* price was higher than on the website. | Реальная цена оказалась выше, чем на сайте. | actually — на самом деле (а не «актуально»!)"
+  - "amaze | v | əˈmeɪz | | изумлять, поражать | to surprise someone very much | Her talent *amazed* everyone. | Её талант поразил всех. | amazing — потрясающий"
+  - "charge | n | tʃɑːdʒ | tʃɑːrdʒ | плата, сбор | the price you have to pay for something | There is no *charge* for delivery. | Доставка бесплатная. | free of charge — бесплатно"
+  - "comfort | v | ˈkʌmfət | ˈkʌmfərt | утешать | to make someone feel less sad or worried | She *comforted* the crying child. | Она утешала плачущего ребёнка."
+  - "contact | v | ˈkɒntækt | ˈkɑːntækt | связываться | to call, write to or speak to someone | Please *contact* us if you have any questions. | Свяжитесь с нами, если у вас есть вопросы. | без предлога: contact him"
+  - "customer | n | ˈkʌstəmə | ˈkʌstəmər | покупатель, клиент | a person who buys things from a shop or business | The shop was full of *customers*. | Магазин был полон покупателей."
+  - "deliver | v | dɪˈlɪvə | dɪˈlɪvər | доставлять | to take something to a person or place | They *deliver* pizza until midnight. | Они доставляют пиццу до полуночи."
+  - "earn | v | ɜːn | ɜːrn | зарабатывать | to get money for work | How much does a teacher *earn*? | Сколько зарабатывает учитель?"
+  - "gate | n | ɡeɪt | | ворота, калитка | a door in a fence or a wall | Please close the *gate* behind you. | Пожалуйста, закройте за собой калитку."
+  - "include | v | ɪnˈkluːd | | включать (в себя) | to have something as a part | The price *includes* breakfast. | В стоимость входит завтрак."
+  - "manage | v | ˈmænɪdʒ | | управлять; справляться, суметь | to be in charge of something; to succeed in doing something difficult | She *manages* a small hotel. | Она управляет небольшим отелем. | manage to do — суметь сделать"
+  - "mystery | n | ˈmɪstri | | тайна, загадка | something that nobody can explain | How the cat got onto the roof is a *mystery*. | Как кошка забралась на крышу — загадка."
+  - "occur | v | əˈkɜː | əˈkɜːr | происходить, случаться | to happen | The accident *occurred* at about six o'clock. | Авария произошла около шести часов."
+  - "opposite | n | ˈɒpəzɪt | ˈɑːpəzət | противоположность | a thing that is completely different from another | Hot is the *opposite* of cold. | Горячий — противоположность холодного. | предлог opposite — напротив"
+  - "plate | n | pleɪt | | тарелка | a flat dish that you put food on | He put three cakes on his *plate*. | Он положил себе на тарелку три пирожных."
+  - "receive | v | rɪˈsiːv | | получать | to get something that someone gives or sends you | Did you *receive* my email? | Ты получил моё письмо?"
+  - "reward | n | rɪˈwɔːd | rɪˈwɔːrd | награда, вознаграждение | something you get for doing something good | They offered a *reward* for finding the lost dog. | За найденную собаку обещали вознаграждение."
+  - "set | v | set | | ставить, класть; устанавливать | to put something somewhere carefully | She *set* the plates on the table. | Она расставила тарелки на столе. | set — set — set; set the table — накрыть на стол"
+  - "steal | v | stiːl | | красть | to take something that is not yours | Someone *stole* my bike last night. | Вчера ночью кто-то украл мой велосипед. | steal — stole — stolen"
+  - "thief | n | θiːf | | вор | a person who steals | The police caught the *thief* at the station. | Полиция поймала вора на вокзале. | мн. ч. thieves"
+reading:
+  title: "The Pizza Mystery"
+  title_ru: "Загадка с пиццей"
+  text: |
+    Leo earns money by delivering pizza in the evenings. He works for a small restaurant that his aunt manages. The restaurant is popular, and Leo delivers to more than thirty customers every night.
+
+    One week, something strange occurred. Every evening, one pizza disappeared. Leo set all the boxes on his bike, but when he arrived, one box was always empty. Customers were angry. They had to pay the delivery charge, but they didn't receive their food. It was a real mystery.
+
+    Leo was worried. "Maybe someone thinks I'm the thief," he said to his aunt. She comforted him. "I know you would never steal anything," she said. "Let's find the actual thief."
+
+    The next evening, Leo hid a small camera in the box. He delivered the pizzas as usual. On the way, he stopped at the gate of a big house to check his phone map. Later, they watched the video and were amazed. When Leo stopped, a big white dog came out of the gate, opened a box with its nose and took the pizza!
+
+    Leo contacted the owner of the dog, an old man who lived alone. He was very embarrassed and paid for all the pizzas, including the charges. As a reward for solving the mystery, Leo's aunt gave him a free meal. And the old man? He is now one of their best customers — he orders two pizzas: one for him and one for his dog.
+  ru: |
+    Лео зарабатывает по вечерам, доставляя пиццу. Он работает в маленьком ресторане, которым управляет его тётя. Ресторан популярный, и каждый вечер Лео развозит заказы более чем тридцати клиентам.
+
+    Однажды на неделе случилось что-то странное. Каждый вечер пропадала одна пицца. Лео ставил все коробки на велосипед, но, когда он приезжал, одна коробка всегда оказывалась пустой. Клиенты злились. Им приходилось платить за доставку, а еду они не получали. Это была настоящая загадка.
+
+    Лео переживал. «Может, кто-то думает, что вор — я», — сказал он тёте. Она его успокоила. «Я знаю, что ты никогда ничего не украдёшь, — сказала она. — Давай найдём настоящего вора».
+
+    На следующий вечер Лео спрятал в коробке маленькую камеру. Он развозил пиццу, как обычно. По дороге он остановился у ворот большого дома, чтобы посмотреть карту в телефоне. Позже они посмотрели видео и изумились. Когда Лео остановился, из ворот вышла большая белая собака, открыла носом коробку и утащила пиццу!
+
+    Лео связался с хозяином собаки — пожилым мужчиной, который жил один. Тому стало очень неловко, и он заплатил за все пиццы, включая плату за доставку. В награду за разгаданную загадку тётя угостила Лео бесплатным ужином. А пожилой мужчина? Теперь он один из их лучших клиентов — заказывает две пиццы: одну себе, а другую своей собаке.
+  questions:
+    - q: "Who manages the restaurant?"
+      options: ["Leo", "Leo's aunt", "An old man", "Leo's mother"]
+      answer: 1
+    - q: "What was the problem?"
+      options: ["Leo's bike was stolen", "One pizza disappeared every evening", "Customers didn't pay", "The restaurant closed"]
+      answer: 1
+    - q: "Who was the thief?"
+      options: ["A customer", "Leo's friend", "A big white dog", "A cat"]
+      answer: 2
+    - tf: "Leo's aunt thought that Leo stole the pizzas."
+      answer: false
+    - tf: "The old man now orders two pizzas."
+      answer: true

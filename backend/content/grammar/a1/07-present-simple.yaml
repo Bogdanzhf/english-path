@@ -1,0 +1,124 @@
+title: "Present Simple"
+title_ru: "Present Simple — настоящее простое время"
+section: tenses
+summary: "Habits, facts and routines: I work, she works"
+summary_ru: "Привычки, факты, распорядок: I work, she works"
+theory: |
+  ## When we use it
+  - habits and routines: *I **get up** at seven every day.*
+  - facts and things that are always true: *Water **boils** at 100°C.*
+  - timetables: *The train **leaves** at 9:15.*
+  - likes, opinions, states: *I **love** pizza. She **knows** the answer.*
+
+  ## Form
+  | | I / you / we / they | he / she / it |
+  |---|---|---|
+  | + | I **work** | she **works** |
+  | − | I **don't** work | she **doesn't** work |
+  | ? | **Do** you work? | **Does** she work? |
+  | short answers | Yes, I do. / No, I don't. | Yes, she does. / No, she doesn't. |
+
+  ## Spelling of he/she/it
+  - most verbs + **-s**: work**s**, play**s**
+  - -s, -sh, -ch, -x, -o + **-es**: watch**es**, go**es**, do**es**
+  - consonant + y → **-ies**: study → stud**ies**
+  - *have* → **has**
+
+  > After *doesn't* and *does* the verb has **no -s**: *She doesn't **work**. Does he **like** it?*
+
+  ## Time words
+  *always, usually, often, sometimes, never, every day/week, on Mondays, in the morning*
+theory_ru: |
+  ## Когда используется
+  - привычки и распорядок: *I **get up** at seven every day.* — Я встаю в семь каждый день.
+  - факты, которые верны всегда: *Water **boils** at 100°C.* — Вода кипит при 100°C.
+  - расписания: *The train **leaves** at 9:15.* — Поезд отправляется в 9:15.
+  - чувства, мнения, состояния: *I **love** pizza. She **knows** the answer.*
+
+  Это «обычное» настоящее время: что происходит **вообще, регулярно**, а не прямо сейчас.
+
+  ## Как строится
+  | | I / you / we / they | he / she / it |
+  |---|---|---|
+  | + | I **work** | she **works** |
+  | − | I **don't** work | she **doesn't** work |
+  | ? | **Do** you work? | **Does** she work? |
+  | краткий ответ | Yes, I do. / No, I don't. | Yes, she does. / No, she doesn't. |
+
+  **Главное правило:** с **he, she, it** (он, она, оно — и любым одним человеком или предметом) к глаголу добавляется **-s**.
+
+  ## Как пишется -s
+  - обычно **-s**: work**s**, play**s**
+  - после -s, -sh, -ch, -x, -o — **-es**: watch**es**, go**es**, do**es**
+  - согласная + y → **-ies**: study → stud**ies** (но play → plays)
+  - *have* → **has**
+
+  > В вопросах и отрицаниях «работу» -s берёт на себя **does/doesn't**, поэтому глагол остаётся без -s: *She doesn't **work**. Does he **like** it?* (не ~~doesn't works~~)
+
+  ## Слова-подсказки
+  *always* (всегда), *usually* (обычно), *often* (часто), *sometimes* (иногда), *never* (никогда), *every day/week* (каждый день/неделю), *on Mondays* (по понедельникам), *in the morning* (по утрам)
+examples:
+  - "I *drink* coffee every morning. | Я пью кофе каждое утро."
+  - "My sister *works* in a bank. | Моя сестра работает в банке."
+  - "We *don't live* in the city centre. | Мы живём не в центре города."
+  - "*Does* he *speak* French? — No, he *doesn't*. | Он говорит по-французски? — Нет."
+  - "The shop *opens* at nine. | Магазин открывается в девять."
+  - "What time *do* you usually *go* to bed? | Во сколько ты обычно ложишься спать?"
+exercises:
+  - type: choice
+    q: "She ___ in a hospital."
+    options: ["work", "works", "working"]
+    answer: 1
+  - type: choice
+    q: "They ___ meat. They're vegetarians."
+    options: ["don't eat", "doesn't eat", "not eat"]
+    answer: 0
+  - type: choice
+    q: "___ your brother play the guitar?"
+    options: ["Do", "Does", "Is"]
+    answer: 1
+  - type: choice
+    q: "My father ___ TV in the evening."
+    options: ["watchs", "watches", "watch"]
+    answer: 1
+  - type: input
+    q: "He ___ (study) English at university."
+    answer: ["studies"]
+  - type: input
+    q: "Anna ___ (not / like) cold weather."
+    answer: ["doesn't like", "does not like"]
+  - type: input
+    q: "Where ___ you live?"
+    answer: ["do"]
+  - type: input
+    q: "My dog ___ (go) for a walk twice a day."
+    answer: ["goes"]
+  - type: cloze
+    text: "Tom [[gets]] up at six. He [[has]] breakfast and [[goes]] to work by bus. He [[doesn't|does not]] drive because he [[doesn't|does not]] have a car."
+  - type: error
+    text: "She doesn't {{likes=>like}} coffee."
+    explain: "After doesn't — no -s."
+    explain_ru: "После doesn't глагол без -s."
+  - type: error
+    text: "My brother {{play=>plays}} football on Saturdays."
+  - type: error
+    text: "{{Do=>Does}} your mother work on Sundays?"
+  - type: order
+    q: "Составьте вопрос: «Во сколько начинается фильм?»"
+    answer: "What time does the film start?"
+  - type: order
+    q: "Составьте: «Я никогда не пью молоко.»"
+    answer: "I never drink milk."
+  - type: tf
+    items:
+      - ["We use Present Simple for things that happen regularly.", true]
+      - ["“He don't know” is correct.", false]
+      - ["The he/she/it form of “have” is “has”.", true]
+  - type: listen
+    audio: "My sister lives in London. She works in a museum and she loves her job."
+    q: "Where does the sister work?"
+    options: ["in a bank", "in a museum", "in a school"]
+    answer: 1
+  - type: speak
+    answer: "I usually get up at seven o'clock."
+    ru: "Я обычно встаю в семь часов."

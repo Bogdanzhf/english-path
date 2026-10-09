@@ -1,0 +1,124 @@
+title: "Present Continuous"
+title_ru: "Present Continuous — настоящее длительное время"
+section: tenses
+summary: "What is happening now: I am working; and Present Simple vs Continuous"
+summary_ru: "Что происходит сейчас: I am working; и сравнение с Present Simple"
+theory: |
+  ## Form: am / is / are + verb-ing
+  | | |
+  |---|---|
+  | + | I**'m working**. She**'s working**. They**'re working**. |
+  | − | I**'m not** working. He **isn't** working. We **aren't** working. |
+  | ? | **Are** you working? — Yes, I am. / No, I'm not. |
+
+  ## Spelling of -ing
+  - most verbs: work → work**ing**, read → read**ing**
+  - -e → drop e: make → mak**ing**, write → writ**ing**
+  - short verb with consonant–vowel–consonant → double: sit → si**tting**, run → ru**nning**, swim → swi**mming**
+  - -ie → -ying: lie → l**ying**, die → d**ying**
+
+  ## Use
+  - actions happening **now**: *Look! It**'s raining**.*
+  - temporary situations: *I**'m staying** with my aunt this week.*
+  - future arrangements: *We**'re meeting** Tom tomorrow.*
+
+  ## Present Simple or Continuous?
+  | Present Simple — usually, always | Present Continuous — now, at the moment |
+  |---|---|
+  | *I **work** in an office.* | *I**'m working** from home today.* |
+  | *She **reads** a lot.* | *She**'s reading** a novel now.* |
+
+  ## State verbs
+  Some verbs are not usually used in the continuous: **know, like, love, hate, want, need, believe, understand, remember, belong, seem**.
+  - *I **know** the answer* (not ~~I'm knowing~~). *She **wants** a coffee now.*
+theory_ru: |
+  ## Форма: am / is / are + глагол с -ing
+  | | |
+  |---|---|
+  | + | I**'m working**. She**'s working**. They**'re working**. |
+  | − | I**'m not** working. He **isn't** working. We **aren't** working. |
+  | ? | **Are** you working? — Yes, I am. / No, I'm not. |
+
+  ## Как пишется -ing
+  - обычно: work → work**ing**, read → read**ing**
+  - на -e: e убирается: make → mak**ing**, write → writ**ing**
+  - короткий глагол «согласная–гласная–согласная»: последняя буква удваивается: sit → si**tting**, run → ru**nning**, swim → swi**mming**
+  - на -ie → -ying: lie → l**ying**
+
+  ## Когда используется
+  - действие происходит **прямо сейчас**: *Look! It**'s raining**.* — Смотри, идёт дождь!
+  - временная ситуация: *I**'m staying** with my aunt this week.* — На этой неделе я живу у тёти.
+  - запланированное будущее: *We**'re meeting** Tom tomorrow.* — Завтра мы встречаемся с Томом.
+
+  ## Present Simple или Continuous?
+  В русском одно настоящее время: «Я работаю» может значить и «вообще», и «сейчас». В английском это два разных времени:
+  | Present Simple — обычно, всегда | Present Continuous — сейчас, в данный момент |
+  |---|---|
+  | *I **work** in an office.* — Я работаю в офисе (это моя работа). | *I**'m working** from home today.* — Сегодня я работаю из дома. |
+  | *She **reads** a lot.* — Она много читает (вообще). | *She**'s reading** a novel now.* — Сейчас она читает роман. |
+
+  ## Глаголы состояния
+  Некоторые глаголы обычно **не** употребляются в Continuous, даже если речь о «сейчас»: **know** (знать), **like, love, hate** (нравиться, любить, ненавидеть), **want, need** (хотеть, нуждаться), **believe** (верить), **understand** (понимать), **remember** (помнить), **belong** (принадлежать), **seem** (казаться).
+  - *I **know** the answer* (не ~~I'm knowing~~). *She **wants** a coffee now.*
+examples:
+  - "Be quiet, please. I*'m talking* on the phone. | Тише, пожалуйста. Я разговариваю по телефону."
+  - "What *are* you *doing*? — I*'m cooking* dinner. | Что ты делаешь? — Готовлю ужин."
+  - "They *aren't watching* TV, they*'re playing* chess. | Они не смотрят телевизор, они играют в шахматы."
+  - "My brother usually *works* in Berlin, but this month he*'s working* in Paris. | Обычно мой брат работает в Берлине, но в этом месяце — в Париже."
+  - "I *understand* you now. | Теперь я тебя понимаю."
+exercises:
+  - type: choice
+    q: "Look! The children ___ in the garden."
+    options: ["play", "are playing", "plays"]
+    answer: 1
+  - type: choice
+    q: "I ___ to work every day."
+    options: ["drive", "am driving", "drives"]
+    answer: 0
+    explain: "Every day → a habit → Present Simple."
+    explain_ru: "Every day — привычка → Present Simple."
+  - type: choice
+    q: "Shh! The baby ___."
+    options: ["sleeps", "is sleeping", "sleep"]
+    answer: 1
+  - type: choice
+    q: "I ___ what you mean."
+    options: ["understand", "am understanding", "understanding"]
+    answer: 0
+    explain: "Understand is a state verb — no continuous."
+    explain_ru: "Understand — глагол состояния, Continuous не используется."
+  - type: input
+    q: "She ___ (write) a letter at the moment."
+    answer: ["is writing", "'s writing"]
+  - type: input
+    q: "We ___ (not / watch) TV right now."
+    answer: ["aren't watching", "are not watching", "'re not watching"]
+  - type: cloze
+    text: "Why [[are]] you [[crying]] (cry)? Is something wrong?"
+  - type: input
+    q: "run → ___ (форма -ing)"
+    answer: ["running"]
+  - type: cloze
+    text: "Hi Mum! I [['m sitting|am sitting]] in a café. It [['s raining|is raining]] outside, so I [['m drinking|am drinking]] hot chocolate."
+  - type: cloze
+    text: "My dad usually [[*goes/is going]] to work by car, but today he [[goes/*is going]] by bike."
+  - type: error
+    text: "I {{am wanting=>want}} a new phone."
+  - type: error
+    text: "Listen! Somebody {{sings=>is singing}}."
+  - type: order
+    q: "Составьте: «Что ты сейчас читаешь?»"
+    answer: "What are you reading now?"
+  - type: tf
+    items:
+      - ["We use Present Continuous for things happening now.", true]
+      - ["“I'm knowing him” is correct.", false]
+      - ["“swim” becomes “swimming”.", true]
+  - type: listen
+    audio: "I usually walk to school, but today I'm taking the bus because it's raining."
+    q: "How is the person going to school today?"
+    options: ["on foot", "by bus", "by car"]
+    answer: 1
+  - type: speak
+    answer: "I'm learning English at the moment."
+    ru: "Сейчас я учу английский."

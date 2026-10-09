@@ -33,3 +33,189 @@
       answer: 2
     - type: cloze
       text: "Nice to [[meet]] you. Where [[are]] you from?"
+
+- id: a1-at-the-cafe
+  title: "At the café"
+  title_ru: "В кафе"
+  scene: "Sophie orders breakfast in a small café."
+  scene_ru: "Софи заказывает завтрак в маленьком кафе."
+  speakers: {Waiter: m-uk, Sophie: f-us}
+  lines:
+    - "Waiter: Good morning! What can I get you? | Доброе утро! Что вам принести?"
+    - "Sophie: Hi! Can I have a cappuccino, please? | Здравствуйте! Можно капучино, пожалуйста?"
+    - "Waiter: Of course. Small or large? | Конечно. Маленький или большой?"
+    - "Sophie: Large, please. And what do you have for breakfast? | Большой, пожалуйста. А что у вас есть на завтрак?"
+    - "Waiter: We have eggs, pancakes and fresh croissants. | У нас есть яйца, блинчики и свежие круассаны."
+    - "Sophie: I'd like the pancakes, please. | Я бы хотела блинчики, пожалуйста."
+    - "Waiter: Would you like anything else? | Что-нибудь ещё?"
+    - "Sophie: No, thank you. How much is that? | Нет, спасибо. Сколько с меня?"
+    - "Waiter: That's eight pounds fifty. | Восемь фунтов пятьдесят."
+    - "Sophie: Can I pay by card? | Можно оплатить картой?"
+    - "Waiter: Yes, of course. Here you are. Enjoy your breakfast! | Да, конечно. Пожалуйста. Приятного завтрака!"
+  phrases:
+    - "What can I get you? | Что вам принести?"
+    - "Can I have…, please? | Можно мне…, пожалуйста?"
+    - "I'd like… | Я бы хотел(а)…"
+    - "Anything else? | Что-нибудь ещё?"
+    - "How much is that? | Сколько это стоит?"
+    - "Can I pay by card? | Можно оплатить картой?"
+  exercises:
+    - type: choice
+      q: "What does Sophie drink?"
+      options: ["tea", "a large cappuccino", "orange juice"]
+      answer: 1
+    - type: choice
+      q: "How much does Sophie pay?"
+      options: ["£5.80", "£8.50", "£18.50"]
+      answer: 1
+    - type: cloze
+      text: "Can I [[have]] a coffee, please? — Would you like anything [[else]]?"
+
+- id: a1-asking-the-way
+  title: "Asking the way"
+  title_ru: "Как пройти?"
+  scene: "A tourist asks a local woman for directions to the museum."
+  scene_ru: "Турист спрашивает у местной жительницы, как пройти к музею."
+  speakers: {Tourist: m-us, Woman: f-uk}
+  lines:
+    - "Tourist: Excuse me. Can you help me? | Извините. Вы не могли бы мне помочь?"
+    - "Woman: Yes, of course. | Да, конечно."
+    - "Tourist: Where is the city museum, please? | Подскажите, где городской музей?"
+    - "Woman: It's not far. Go straight on to the traffic lights. | Это недалеко. Идите прямо до светофора."
+    - "Tourist: Straight on to the traffic lights. OK. | Прямо до светофора. Понятно."
+    - "Woman: Then turn left. The museum is on the right, next to the bank. | Потом поверните налево. Музей будет справа, рядом с банком."
+    - "Tourist: Is it far? Can I walk there? | Это далеко? Можно дойти пешком?"
+    - "Woman: No, it's about five minutes on foot. | Нет, около пяти минут пешком."
+    - "Tourist: Thank you very much! | Большое спасибо!"
+    - "Woman: You're welcome. Have a nice day! | Не за что. Хорошего дня!"
+  phrases:
+    - "Excuse me. | Извините (чтобы обратиться)."
+    - "Where is…? | Где находится…?"
+    - "Go straight on. | Идите прямо."
+    - "Turn left / turn right. | Поверните налево / направо."
+    - "It's on the right, next to… | Это справа, рядом с…"
+    - "You're welcome. | Пожалуйста (в ответ на спасибо)."
+  exercises:
+    - type: choice
+      q: "Where is the museum?"
+      options: ["next to the bank", "next to the station", "opposite the park"]
+      answer: 0
+    - type: choice
+      q: "How long does it take to walk there?"
+      options: ["one minute", "five minutes", "half an hour"]
+      answer: 1
+    - type: order
+      q: "Составьте: «Поверните налево у светофора.»"
+      answer: "Turn left at the traffic lights."
+
+- id: a1-my-family
+  title: "Tell me about your family"
+  title_ru: "Расскажи о своей семье"
+  scene: "Two colleagues talk about their families during a lunch break."
+  scene_ru: "Двое коллег за обедом рассказывают о своих семьях."
+  speakers: {Kate: f-us, Ben: m-uk}
+  lines:
+    - "Kate: Is that a photo of your family, Ben? | Бен, это фото твоей семьи?"
+    - "Ben: Yes, it is. This is my wife, Lucy, and these are our children. | Да. Это моя жена Люси, а это наши дети."
+    - "Kate: They're lovely! How old are they? | Какие милые! Сколько им лет?"
+    - "Ben: Tom is eight and Mia is five. | Тому восемь, а Мие пять."
+    - "Kate: What does Lucy do? | Чем занимается Люси?"
+    - "Ben: She's a teacher. She works at a primary school. And you? Have you got any brothers or sisters? | Она учительница. Работает в начальной школе. А у тебя? Есть братья или сёстры?"
+    - "Kate: I've got one brother. He lives in Canada. | У меня один брат. Он живёт в Канаде."
+    - "Ben: Do you see him often? | Ты часто с ним видишься?"
+    - "Kate: Not very often, but we talk online every week. | Не очень часто, но мы каждую неделю общаемся по интернету."
+    - "Ben: That's nice. Family is important. | Это хорошо. Семья — это важно."
+  phrases:
+    - "How old are they? | Сколько им лет?"
+    - "What does she do? | Чем она занимается? (кем работает)"
+    - "Have you got any brothers or sisters? | У тебя есть братья или сёстры?"
+    - "I've got one brother. | У меня один брат."
+    - "Not very often. | Не очень часто."
+  exercises:
+    - type: choice
+      q: "How many children has Ben got?"
+      options: ["one", "two", "three"]
+      answer: 1
+    - type: choice
+      q: "Where does Kate's brother live?"
+      options: ["in England", "in Canada", "in Australia"]
+      answer: 1
+    - type: tf
+      items:
+        - ["Lucy is a doctor.", false]
+        - ["Kate talks to her brother online every week.", true]
+
+- id: a1-buying-clothes
+  title: "Buying clothes"
+  title_ru: "Покупаем одежду"
+  scene: "Max wants to buy a jacket in a clothes shop."
+  scene_ru: "Макс хочет купить куртку в магазине одежды."
+  speakers: {Assistant: f-uk, Max: m-us}
+  lines:
+    - "Assistant: Hello. Can I help you? | Здравствуйте. Вам помочь?"
+    - "Max: Yes, please. I'm looking for a jacket. | Да, пожалуйста. Я ищу куртку."
+    - "Assistant: What size are you? | Какой у вас размер?"
+    - "Max: Medium, I think. | Думаю, M."
+    - "Assistant: How about this blue one? | Как вам эта синяя?"
+    - "Max: It's nice. Can I try it on? | Красивая. Можно примерить?"
+    - "Assistant: Sure. The changing rooms are over there. | Конечно. Примерочные вон там."
+    - "Max: Hmm, it's a bit small. Have you got it in large? | Хм, маловата. А есть размер L?"
+    - "Assistant: Yes, here you are. | Да, вот, пожалуйста."
+    - "Max: Perfect! How much is it? | Отлично! Сколько она стоит?"
+    - "Assistant: It's sixty pounds, but it's on sale today — forty-five. | Шестьдесят фунтов, но сегодня скидка — сорок пять."
+    - "Max: Great, I'll take it! | Отлично, беру!"
+  phrases:
+    - "I'm looking for… | Я ищу…"
+    - "What size are you? | Какой у вас размер?"
+    - "Can I try it on? | Можно примерить?"
+    - "Have you got it in large? | А есть размер L?"
+    - "It's on sale. | Это со скидкой."
+    - "I'll take it. | Я беру (это)."
+  exercises:
+    - type: choice
+      q: "What is wrong with the first jacket?"
+      options: ["It's too big", "It's a bit small", "It's the wrong colour"]
+      answer: 1
+    - type: choice
+      q: "How much does Max pay?"
+      options: ["£60", "£45", "£40"]
+      answer: 1
+    - type: cloze
+      text: "Can I [[try]] it on? — Sure, the changing [[rooms]] are over there."
+
+- id: a1-weekend-plans
+  title: "Weekend plans"
+  title_ru: "Планы на выходные"
+  scene: "Two friends make plans for Saturday."
+  scene_ru: "Двое друзей договариваются о субботе."
+  speakers: {Anna: f-us, Leo: m-uk}
+  lines:
+    - "Anna: Hi Leo! Are you free on Saturday? | Привет, Лео! Ты свободен в субботу?"
+    - "Leo: In the morning I play football, but I'm free in the afternoon. Why? | Утром я играю в футбол, а после обеда свободен. А что?"
+    - "Anna: Let's go to the cinema. There's a new comedy. | Давай сходим в кино. Вышла новая комедия."
+    - "Leo: Good idea! What time does it start? | Хорошая идея! Во сколько начало?"
+    - "Anna: At four o'clock or at seven. | В четыре или в семь."
+    - "Leo: Four is better. Then we can have dinner after the film. | Лучше в четыре. Тогда после фильма можем поужинать."
+    - "Anna: Great! Where shall we meet? | Отлично! Где встретимся?"
+    - "Leo: Let's meet outside the cinema at a quarter to four. | Давай встретимся у кинотеатра без пятнадцати четыре."
+    - "Anna: Perfect. See you on Saturday! | Идеально. До субботы!"
+    - "Leo: See you! | Пока!"
+  phrases:
+    - "Are you free on Saturday? | Ты свободен в субботу?"
+    - "Let's go to… | Давай сходим в…"
+    - "Good idea! | Хорошая идея!"
+    - "What time does it start? | Во сколько начало?"
+    - "Where shall we meet? | Где встретимся?"
+    - "See you on Saturday! | До субботы!"
+  exercises:
+    - type: choice
+      q: "What does Leo do on Saturday morning?"
+      options: ["goes to the cinema", "plays football", "has dinner"]
+      answer: 1
+    - type: choice
+      q: "When will they meet?"
+      options: ["at 3:45", "at 4:15", "at 7:00"]
+      answer: 0
+    - type: order
+      q: "Составьте: «Давай встретимся у кинотеатра.»"
+      answer: "Let's meet outside the cinema."

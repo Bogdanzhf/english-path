@@ -1,0 +1,110 @@
+title: "Prepositions in, on, at (time and place)"
+title_ru: "Предлоги in, on, at (время и место)"
+section: prepositions
+summary: "at 5 o'clock, on Monday, in May; at home, on the table, in the box"
+summary_ru: "at 5 o'clock, on Monday, in May; at home, on the table, in the box"
+theory: |
+  ## Time
+  | **at** — exact time | **on** — days and dates | **in** — longer periods |
+  |---|---|---|
+  | at 7 o'clock | on Monday | in May |
+  | at noon, at midnight | on 5 June | in 2024 |
+  | at night | on my birthday | in summer |
+  | at the weekend (UK) | on Friday evening | in the morning / afternoon / evening |
+  | at Christmas | on New Year's Day | in the 1990s |
+
+  > No preposition before *this, next, last, every*: *I'll see you **next** Monday. We met **last** year.*
+
+  ## Place
+  | **at** — a point | **on** — a surface | **in** — inside / an area |
+  |---|---|---|
+  | at the door, at the bus stop | on the table, on the wall | in the box, in the room |
+  | at home, at work, at school | on the floor, on the second floor | in the car, in a taxi |
+  | at a party, at the cinema | on a bus / train / plane | in London, in Russia |
+  | at 25 Baker Street | on the beach | in the park, in bed |
+theory_ru: |
+  ## Время — «от точки к большому»
+  | **at** — точный момент | **on** — дни и даты | **in** — длинные периоды |
+  |---|---|---|
+  | at 7 o'clock — в 7 часов | on Monday — в понедельник | in May — в мае |
+  | at noon, at midnight — в полдень, в полночь | on 5 June — 5 июня | in 2024 — в 2024 году |
+  | at night — ночью | on my birthday — в мой день рождения | in summer — летом |
+  | at the weekend (брит.) — на выходных | on Friday evening — в пятницу вечером | in the morning — утром |
+  | at Christmas — на Рождество | on New Year's Day | in the 1990s — в 90-е |
+
+  > Перед *this, next, last, every* предлог не нужен: *next Monday* (в следующий понедельник), *last year* (в прошлом году), *every day*.
+
+  > Запомните исключения: *in the morning*, но *at night*; *in the evening*, но *on Friday evening*.
+
+  ## Место
+  | **at** — точка, место встречи | **on** — на поверхности | **in** — внутри, в пространстве |
+  |---|---|---|
+  | at the door — у двери | on the table — на столе | in the box — в коробке |
+  | at home, at work, at school — дома, на работе, в школе | on the wall — на стене | in the room — в комнате |
+  | at a party — на вечеринке | on the floor — на полу | in the car — в машине |
+  | at the bus stop — на остановке | on a bus / train / plane — в автобусе / поезде / самолёте | in London, in Russia |
+  | at 25 Baker Street — по адресу | on the beach — на пляже | in the park, in bed — в парке, в постели |
+
+  > Транспорт: в больших — **on** (on the bus, on a plane), в маленьких — **in** (in a car, in a taxi).
+examples:
+  - "The meeting is *at* ten *on* Monday. | Встреча в понедельник в десять."
+  - "I was born *in* 1998, *in* April. | Я родился в 1998 году, в апреле."
+  - "Your keys are *on* the table *in* the kitchen. | Твои ключи на столе на кухне."
+  - "She's *at* work now, but she'll be *at* home *in* the evening. | Сейчас она на работе, но вечером будет дома."
+  - "We met *on* a train *in* Italy. | Мы познакомились в поезде в Италии."
+exercises:
+  - type: choice
+    q: "The film starts ___ 8 pm."
+    options: ["in", "on", "at"]
+    answer: 2
+  - type: choice
+    q: "My birthday is ___ July."
+    options: ["in", "on", "at"]
+    answer: 0
+  - type: choice
+    q: "We have English ___ Tuesdays."
+    options: ["in", "on", "at"]
+    answer: 1
+  - type: choice
+    q: "I usually read ___ the evening."
+    options: ["in", "on", "at"]
+    answer: 0
+  - type: choice
+    q: "There's a picture ___ the wall."
+    options: ["in", "on", "at"]
+    answer: 1
+  - type: choice
+    q: "Sorry, I can't talk. I'm ___ work."
+    options: ["in", "on", "at"]
+    answer: 2
+  - type: choice
+    q: "I'll see you ___ next week."
+    options: ["in", "on", "—"]
+    answer: 2
+    explain: "No preposition before next/last/this/every."
+    explain_ru: "Перед next/last/this/every предлог не нужен."
+  - type: cloze
+    text: "I live [[in]] Moscow. I get up [[at]] seven [[in]] the morning. [[On]] Saturdays I stay [[at]] home."
+  - type: cloze
+    text: "The cat is sleeping [[on/*in/at]] the box. — No, it's [[*on/in/at]] the sofa now!"
+    explain: "Inside a box → in; on the surface of a sofa → on."
+    explain_ru: "Внутри коробки — in, на поверхности дивана — on."
+  - type: error
+    text: "I'll call you {{in=>on}} Friday."
+  - type: error
+    text: "She was born {{on=>in}} 2001."
+  - type: error
+    text: "We met {{in=>at}} a party."
+  - type: match
+    pairs:
+      - ["at", "midnight"]
+      - ["on", "Sunday"]
+      - ["in", "winter"]
+  - type: listen
+    audio: "The concert is on Saturday at nine in the evening."
+    q: "When is the concert?"
+    options: ["Saturday morning", "Saturday evening", "Sunday evening"]
+    answer: 1
+  - type: speak
+    answer: "I was born in May."
+    ru: "Я родился в мае."

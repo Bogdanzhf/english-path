@@ -1,0 +1,120 @@
+title: "Pronouns: I, me, my, mine"
+title_ru: "Местоимения: I, me, my, mine"
+section: pronouns
+summary: "Subject, object and possessive pronouns"
+summary_ru: "Личные, объектные и притяжательные местоимения"
+theory: |
+  ## Four forms of pronouns
+
+  | Subject | Object | Possessive adjective | Possessive pronoun |
+  |---|---|---|---|
+  | I | me | my | mine |
+  | you | you | your | yours |
+  | he | him | his | his |
+  | she | her | her | hers |
+  | it | it | its | — |
+  | we | us | our | ours |
+  | they | them | their | theirs |
+
+  ## How to use them
+  - **Subject** — before the verb: ***She** works here.*
+  - **Object** — after the verb or a preposition: *I know **her**. Look at **them**.*
+  - **Possessive adjective** — before a noun: *This is **my** car.*
+  - **Possessive pronoun** — without a noun: *This car is **mine**.*
+
+  > *Its* (without an apostrophe) means “belonging to it”: *The dog wagged **its** tail.* *It's* = it is.
+
+  ## *It* and *they*
+  We use **it** for things and animals, and **they** for all plural nouns — people and things: *The books are on the table. **They** are new.*
+theory_ru: |
+  ## Четыре формы местоимений
+
+  | Кто? (подлежащее) | Кого? Кому? (объект) | Чей? + сущ. | Чей? без сущ. |
+  |---|---|---|---|
+  | I — я | me — меня, мне | my — мой | mine — мой |
+  | you — ты, вы | you | your | yours |
+  | he — он | him | his | his |
+  | she — она | her | her | hers |
+  | it — оно (о вещах, животных) | it | its | — |
+  | we — мы | us | our | ours |
+  | they — они | them | their | theirs |
+
+  ## Как употреблять
+  - **Подлежащее** — перед глаголом: ***She** works here.* — Она здесь работает.
+  - **Объект** — после глагола или предлога: *I know **her**.* — Я её знаю. *Look at **them**.* — Посмотри на них.
+  - **Притяжательное + существительное**: *This is **my** car.* — Это моя машина.
+  - **Притяжательное без существительного**: *This car is **mine**.* — Эта машина моя.
+
+  > В английском нет слова «свой»: «Я люблю свою собаку» — *I love **my** dog*, «Она взяла свою сумку» — *She took **her** bag*. Выбирайте местоимение по тому, чья вещь.
+
+  > *Its* (без апострофа) — «его/её» о предмете или животном: *The dog wagged **its** tail.* А *it's* = it is.
+
+  ## It и they
+  **It** — для предметов и животных в единственном числе. **They** — для любого множественного числа, и людей, и вещей: *The books are new. **They** are interesting.*
+examples:
+  - "*She* is my sister, and I love *her* very much. | Она моя сестра, и я очень её люблю."
+  - "Is this *your* phone? — No, it isn't *mine*. | Это твой телефон? — Нет, не мой."
+  - "Our neighbours are nice. We often visit *them*. | Наши соседи милые. Мы часто к ним заходим."
+  - "The cat is hungry. Give *it* some milk. | Кошка голодная. Дай ей молока."
+  - "Tom and I are friends. *Our* parents work together. | Мы с Томом друзья. Наши родители работают вместе."
+  - "These aren't my keys. They're *hers*. | Это не мои ключи. Они её."
+exercises:
+  - type: choice
+    q: "___ is my brother. His name is Sam."
+    options: ["He", "Him", "His"]
+    answer: 0
+  - type: choice
+    q: "Can you help ___? I can't open the door."
+    options: ["I", "me", "my"]
+    answer: 1
+    explain: "After a verb we use the object form: help me."
+    explain_ru: "После глагола нужна объектная форма: help me."
+  - type: choice
+    q: "This isn't your bag. It's ___."
+    options: ["my", "me", "mine"]
+    answer: 2
+    explain: "No noun after it → possessive pronoun mine."
+    explain_ru: "После нет существительного → mine."
+  - type: choice
+    q: "The dog is playing with ___ ball."
+    options: ["it's", "its", "his"]
+    answer: 1
+  - type: input
+    q: "I have a sister. ___ name is Anna. (её)"
+    answer: ["Her"]
+  - type: input
+    q: "We love our grandparents and visit ___ every week. (их)"
+    answer: ["them"]
+  - type: cloze
+    text: "Hi! [[My]] name is Lisa. This is [[my]] friend Jack. [[He]] is from Canada. I like [[him]] a lot."
+  - type: cloze
+    text: "Is this book [[yours/*your/you]]? — No, it's [[he/*his/him]] book."
+    explain: "Before a noun (book) we need a possessive adjective: your book, his book."
+    explain_ru: "Перед существительным нужно your/his, а не yours/him."
+  - type: error
+    text: "I love {{me=>my}} new phone."
+    explain: "Before a noun: my."
+    explain_ru: "Перед существительным — my, а не me."
+  - type: error
+    text: "Sarah took {{his=>her}} bag and left."
+    explain: "Sarah is a woman → her bag."
+    explain_ru: "Сара — женщина → her bag («свою» = её)."
+  - type: match
+    pairs:
+      - ["I", "my"]
+      - ["he", "his"]
+      - ["she", "her"]
+      - ["we", "our"]
+      - ["they", "their"]
+  - type: order
+    q: "Составьте: «Это их дом, а не наш.»"
+    answer: "This is their house, not ours."
+  - type: tf
+    items:
+      - ["“It's” and “its” mean the same thing.", false]
+      - ["We say “Look at them”, not “Look at they”.", true]
+  - type: listen
+    audio: "This is my friend Kate. Her brother is a doctor."
+    q: "Who is a doctor?"
+    options: ["Kate", "Kate's brother", "The speaker"]
+    answer: 1

@@ -1,0 +1,105 @@
+title: "There is / there are"
+title_ru: "There is / there are — «есть, находится»"
+section: sentences
+summary: "Saying that something exists somewhere"
+summary_ru: "Как сказать, что где-то что-то есть"
+theory: |
+  ## Form
+  | | singular / uncountable | plural |
+  |---|---|---|
+  | + | There **is** (There's) a bank near here. | There **are** two cafés. |
+  | − | There **isn't** a bank. / There's **no** bank. | There **aren't** any cafés. |
+  | ? | **Is there** a bank? — Yes, there is. | **Are there** any cafés? — No, there aren't. |
+
+  ## Use
+  We use *there is/are* to say that something exists, especially when we mention it for the first time:
+  - ***There is** a cat on the sofa.* (new information)
+  - but: ***The cat** is on the sofa.* (we already know which cat)
+
+  With a list, the verb agrees with the first noun: *There **is** a table and two chairs.*
+
+  ## Past
+  ***There was** a party yesterday. **There were** many people.*
+theory_ru: |
+  ## Зачем это нужно
+  По-русски мы говорим «На столе (есть) книга» — начинаем с места. В английском такие предложения строятся через **there is / there are**, а место ставится в конец:
+  - ***There is** a book on the table.* — На столе книга.
+  - ***There are** two cafés in our street.* — На нашей улице два кафе.
+
+  Переводить предложение лучше **с конца**.
+
+  ## Формы
+  | | ед. ч. / неисчисляемые | мн. ч. |
+  |---|---|---|
+  | + | There **is** (There's) a bank near here. | There **are** two cafés. |
+  | − | There **isn't** a bank. / There's **no** bank. | There **aren't** any cafés. |
+  | ? | **Is there** a bank? — Yes, there is. | **Are there** any cafés? — No, there aren't. |
+
+  ## There is или the … is?
+  - ***There is** a cat on the sofa.* — На диване (какая-то) кошка. → новая информация
+  - ***The cat** is on the sofa.* — Кошка (наша, известная) на диване. → говорим, где находится
+
+  При перечислении глагол согласуется с первым словом: *There **is** a table and two chairs.*
+
+  ## Прошедшее время
+  ***There was** a party yesterday. **There were** many people.* — Вчера была вечеринка. Было много людей.
+examples:
+  - "*There is* a supermarket at the end of the street. | В конце улицы есть супермаркет."
+  - "*There are* thirty students in my class. | В моём классе тридцать учеников."
+  - "*Is there* any milk in the fridge? — Yes, *there is*. | В холодильнике есть молоко? — Да, есть."
+  - "*There aren't* any trees in this street. | На этой улице нет деревьев."
+  - "*There was* a big storm last night. | Вчера ночью была сильная буря."
+exercises:
+  - type: choice
+    q: "___ a big park near my house."
+    options: ["There is", "There are", "It is"]
+    answer: 0
+  - type: choice
+    q: "___ many tourists in the city in summer."
+    options: ["There is", "There are", "They are"]
+    answer: 1
+  - type: choice
+    q: "___ a hotel near the station? — Yes, there is."
+    options: ["Is it", "Are there", "Is there"]
+    answer: 2
+  - type: choice
+    q: "There ___ a sofa and two armchairs in the living room."
+    options: ["is", "are", "be"]
+    answer: 0
+    explain: "In a list, the verb agrees with the first noun: a sofa → is."
+    explain_ru: "При перечислении глагол согласуется с первым словом: a sofa → is."
+  - type: input
+    q: "___ any eggs in the fridge? (Есть ли…)"
+    answer: ["Are there"]
+  - type: input
+    q: "There ___ (not / be) any shops in this village."
+    answer: ["aren't", "are not"]
+  - type: input
+    q: "Yesterday there ___ a lot of people at the concert. (past)"
+    answer: ["were"]
+  - type: cloze
+    text: "In my room [[there is|there's]] a bed and a desk. [[There are]] two windows. [[There isn't|There is not]] a TV."
+  - type: order
+    q: "Составьте: «В моей сумке есть яблоко.»"
+    answer: "There is an apple in my bag."
+  - type: order
+    q: "Составьте вопрос: «Здесь есть банкомат?»"
+    answer: "Is there a cash machine here?"
+  - type: error
+    text: "There {{is=>are}} five people in my family."
+  - type: error
+    text: "{{It is=>There is}} a new café in our street."
+    explain: "New information about existence → there is."
+    explain_ru: "Сообщаем, что что-то есть, — there is, а не it is."
+  - type: tf
+    items:
+      - ["“There's” is the short form of “there is”.", true]
+      - ["We say “There are a lot of milk”.", false]
+  - type: listen
+    audio: "In our town there is a cinema, but there aren't any museums."
+    q: "What isn't there in the town?"
+    options: ["a cinema", "museums", "shops"]
+    answer: 1
+  - type: speak
+    answer: "There are two bedrooms in my flat."
+    ru: "В моей квартире две спальни."

@@ -1,0 +1,118 @@
+title: "Countable and uncountable: some, any, much, many"
+title_ru: "Исчисляемые и неисчисляемые: some, any, much, many"
+section: nouns
+summary: "an apple / some water; how much, how many, a lot of"
+summary_ru: "an apple / some water; how much, how many, a lot of"
+theory: |
+  ## Countable vs uncountable
+  - **Countable** nouns have a plural: *an apple → two apples, a chair → chairs*.
+  - **Uncountable** nouns have no plural and no *a/an*: *water, milk, bread, money, music, information, advice, furniture, news*.
+
+  To count uncountable nouns, use a container or unit: *a glass of water, a piece of advice, a loaf of bread, a bottle of milk*.
+
+  ## some / any
+  | | countable plural | uncountable |
+  |---|---|---|
+  | + | There are **some** eggs. | There is **some** milk. |
+  | − | There aren't **any** eggs. | There isn't **any** milk. |
+  | ? | Are there **any** eggs? | Is there **any** milk? |
+
+  Use **some** in offers and requests: *Would you like **some** tea? Can I have **some** water?*
+
+  ## much / many / a lot of
+  | countable | uncountable |
+  |---|---|
+  | **many** books | **much** time |
+  | How **many** people? | How **much** money? |
+  | **a lot of** books | **a lot of** time |
+
+  In positive sentences, *a lot of* is more natural: *I have **a lot of** friends.* *Much* and *many* are common in questions and negatives: *I don't have **much** time.*
+theory_ru: |
+  ## Исчисляемые и неисчисляемые
+  - **Исчисляемые** можно посчитать, у них есть множественное число: *an apple → two apples*.
+  - **Неисчисляемые** — вещества, абстрактные понятия: у них нет множественного числа и артикля *a/an*: *water, milk, bread, money, music*.
+
+  > Ловушки для русскоговорящих: эти слова в английском **неисчисляемые**: *information* (информация), *advice* (совет, советы), *news* (новости — *the news **is** good*), *furniture* (мебель), *hair* (волосы — *her hair **is** long*), *money* (деньги — *money **is**…*).
+
+  Чтобы посчитать неисчисляемое, используют «упаковку» или единицу: *a glass of water* (стакан воды), *a piece of advice* (один совет), *a loaf of bread* (буханка хлеба), *a bottle of milk* (бутылка молока).
+
+  ## some / any — «несколько, немного, какой-нибудь»
+  | | мн. ч. исчисляемых | неисчисляемые |
+  |---|---|---|
+  | + | There are **some** eggs. — Есть несколько яиц. | There is **some** milk. — Есть немного молока. |
+  | − | There aren't **any** eggs. — Яиц нет. | There isn't **any** milk. — Молока нет. |
+  | ? | Are there **any** eggs? — Есть яйца? | Is there **any** milk? |
+
+  В предложениях и просьбах — **some**, даже в вопросе: *Would you like **some** tea?* — Хотите чаю?
+
+  ## much / many / a lot of — «много»
+  | исчисляемые | неисчисляемые |
+  |---|---|
+  | **many** books | **much** time |
+  | How **many** people? — Сколько людей? | How **much** money? — Сколько денег? |
+  | **a lot of** books | **a lot of** time |
+
+  В утвердительных предложениях естественнее *a lot of*: *I have **a lot of** friends.* *Much/many* — чаще в вопросах и отрицаниях: *I don't have **much** time.*
+examples:
+  - "There's *some* cheese in the fridge, but there isn't *any* bread. | В холодильнике есть немного сыра, а хлеба нет."
+  - "How *many* languages do you speak? | На скольких языках ты говоришь?"
+  - "How *much* is this jacket? | Сколько стоит эта куртка?"
+  - "He gave me a good piece of *advice*. | Он дал мне хороший совет."
+  - "We haven't got *much* time — hurry up! | У нас мало времени — поторопись!"
+  - "Would you like *some* coffee? | Хочешь кофе?"
+exercises:
+  - type: choice
+    q: "Can I have ___ water, please?"
+    options: ["a", "some", "many"]
+    answer: 1
+  - type: choice
+    q: "There aren't ___ students in the classroom."
+    options: ["some", "any", "much"]
+    answer: 1
+  - type: choice
+    q: "How ___ sugar do you take in your tea?"
+    options: ["many", "much", "lot"]
+    answer: 1
+  - type: choice
+    q: "How ___ brothers and sisters have you got?"
+    options: ["much", "many", "any"]
+    answer: 1
+  - type: choice
+    q: "Which noun is uncountable?"
+    options: ["chair", "information", "apple", "car"]
+    answer: 1
+  - type: choice
+    q: "The news ___ very good today."
+    options: ["is", "are", "were"]
+    answer: 0
+    explain: "News is uncountable → is."
+    explain_ru: "News — неисчисляемое, поэтому is."
+  - type: cloze
+    text: "We need [[some]] eggs and [[some]] flour for the cake. Is there [[any]] milk? — No, there isn't [[any]]."
+  - type: input
+    q: "She doesn't have ___ friends here. (много, исчисляемые)"
+    answer: ["many", "a lot of", "lots of"]
+  - type: input
+    q: "I don't drink ___ coffee. (много, неисчисляемое)"
+    answer: ["much", "a lot of", "lots of"]
+  - type: error
+    text: "Can you give me some {{advices=>advice}}?"
+  - type: error
+    text: "How {{much=>many}} people came to the party?"
+  - type: error
+    text: "Her hair {{are=>is}} very long."
+  - type: match
+    pairs:
+      - ["a glass of", "water"]
+      - ["a loaf of", "bread"]
+      - ["a piece of", "advice"]
+      - ["a bar of", "chocolate"]
+  - type: odd
+    q: "Find the countable noun."
+    options: ["milk", "money", "coin", "furniture"]
+    answer: 2
+  - type: listen
+    audio: "We've got a lot of apples, but we haven't got any bananas."
+    q: "What haven't they got?"
+    options: ["apples", "bananas", "oranges"]
+    answer: 1

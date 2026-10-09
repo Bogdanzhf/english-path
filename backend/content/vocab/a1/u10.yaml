@@ -1,0 +1,60 @@
+title: "On the Farm"
+title_ru: "На ферме"
+words:
+  - "benefit | n | ˈbenɪfɪt | | польза, выгода | a good result or advantage | One *benefit* of living here is the fresh air. | Одно из преимуществ жизни здесь — свежий воздух."
+  - "certain | adj | ˈsɜːtn | ˈsɜːrtn | уверенный; определённый | sure; having no doubt | I'm *certain* that I locked the door. | Я уверен, что запер дверь."
+  - "chance | n | tʃɑːns | tʃæns | шанс, возможность | an opportunity to do something | This is your last *chance* to win. | Это твой последний шанс победить."
+  - "effect | n | ɪˈfekt | | влияние, эффект | a change that something causes | The medicine had a fast *effect*. | Лекарство подействовало быстро."
+  - "essential | adj | ɪˈsenʃl | | необходимый, важнейший | very important and necessary | Water is *essential* for all living things. | Вода необходима всему живому."
+  - "far | adv | fɑː | fɑːr | далеко | at a long distance | Is the station *far* from here? | Вокзал далеко отсюда? | far — farther/further — the farthest/furthest"
+  - "focus | v | ˈfəʊkəs | ˈfoʊkəs | сосредоточиться | to give all your attention to one thing | Turn off the TV and *focus* on your homework. | Выключи телевизор и сосредоточься на домашнем задании. | focus on something"
+  - "function | n | ˈfʌŋkʃn | | функция, назначение | the job that something does | The main *function* of the heart is to pump blood. | Главная функция сердца — перекачивать кровь."
+  - "grass | n | ɡrɑːs | ɡræs | трава | green plants that cover the ground in fields and gardens | The children were sitting on the *grass*. | Дети сидели на траве."
+  - "guard | v | ɡɑːd | ɡɑːrd | охранять, сторожить | to watch a place or person to keep them safe | Two soldiers *guard* the gate day and night. | Двое солдат охраняют ворота днём и ночью. | сущ. guard — охранник"
+  - "image | n | ˈɪmɪdʒ | | изображение, образ | a picture of something; an idea in your mind | The *image* on the screen was not clear. | Изображение на экране было нечётким."
+  - "immediate | adj | ɪˈmiːdiət | | немедленный | happening now, without waiting | We need an *immediate* answer. | Нам нужен немедленный ответ. | нареч. immediately — сразу"
+  - "primary | adj | ˈpraɪməri | ˈpraɪmeri | основной, главный; начальный | most important; first | Our *primary* goal is to help people. | Наша главная цель — помогать людям. | primary school — начальная школа"
+  - "proud | adj | praʊd | | гордый | pleased about something you or someone else did | My parents are very *proud* of me. | Родители очень гордятся мной. | be proud of"
+  - "remain | v | rɪˈmeɪn | | оставаться | to stay in the same place or state | Please *remain* in your seats. | Пожалуйста, оставайтесь на своих местах."
+  - "rest | v | rest | | отдыхать | to relax or sleep after activity | You should *rest* for a few days. | Тебе стоит несколько дней отдохнуть. | сущ. the rest — остаток, остальное"
+  - "separate | adj | ˈseprət | | отдельный | not joined or together | The children sleep in *separate* rooms. | Дети спят в разных комнатах. | гл. separate [ˈsepəreɪt] — разделять"
+  - "site | n | saɪt | | место, участок; сайт | a place where something is or happens | This is the *site* of a new hospital. | Здесь будет построена новая больница. | website — веб-сайт"
+  - "tail | n | teɪl | | хвост | the long part at the back of an animal's body | The dog wagged its *tail* happily. | Собака радостно виляла хвостом."
+  - "trouble | n | ˈtrʌbl | | беда, неприятности, трудность | problems or difficulties | I had *trouble* finding your house. | Я с трудом нашёл твой дом. | be in trouble — быть в беде"
+reading:
+  title: "Rex Gets a Chance"
+  title_ru: "У Рекса появился шанс"
+  text: |
+    Rex was a young dog who lived on a big farm, far from the city. His primary function was to guard the sheep. But Rex had a problem: he could not focus. He chased birds, played with his tail and rested on the grass in the sun. The farmer was not proud of him.
+
+    The old dog on the farm, Bess, often said, "Our job is essential. The sheep depend on us." But Rex did not listen.
+
+    One night, a terrible storm came. The wind was so strong that it broke the fence, and the sheep ran away into the dark. The farmer was certain that he would lose them all. Bess was old and tired, so she had to remain at the house. This was Rex's chance.
+
+    Rex ran into the storm without any immediate plan. He found the sheep in a separate field near an old building site. He barked and ran around them until they walked back home together. It took him all night.
+
+    In the morning, the farmer counted the sheep. Not a single one was missing! "No more trouble from you," he laughed, and he gave Rex a big piece of meat. The storm had a strange effect on Rex: from that day, he was the best guard on the farm. The image of the brave young dog in the storm stayed in the farmer's mind forever.
+  ru: |
+    Рекс был молодым псом, который жил на большой ферме далеко от города. Его главной задачей было охранять овец. Но у Рекса была проблема: он не мог сосредоточиться. Он гонялся за птицами, играл со своим хвостом и отдыхал на траве под солнцем. Фермер им не гордился.
+
+    Старая собака с фермы, Бесс, часто говорила: «Наша работа очень важна. Овцы зависят от нас». Но Рекс не слушал.
+
+    Однажды ночью разразилась страшная буря. Ветер был таким сильным, что сломал забор, и овцы разбежались в темноте. Фермер был уверен, что потеряет их всех. Бесс была старой и уставшей, поэтому ей пришлось остаться у дома. Это был шанс Рекса.
+
+    Рекс бросился в бурю без всякого плана. Он нашёл овец на отдельном поле возле старой стройки. Он лаял и бегал вокруг них, пока они все вместе не пошли домой. На это ушла вся ночь.
+
+    Утром фермер пересчитал овец. Не пропала ни одна! «Больше никаких неприятностей от тебя», — засмеялся он и дал Рексу большой кусок мяса. Буря странно подействовала на Рекса: с того дня он стал лучшим сторожем на ферме. А образ храброго молодого пса в бурю навсегда остался в памяти фермера.
+  questions:
+    - q: "What was Rex's job on the farm?"
+      options: ["To catch birds", "To guard the sheep", "To help the farmer cook", "To find water"]
+      answer: 1
+    - q: "Why did the sheep run away?"
+      options: ["Rex scared them", "The storm broke the fence", "A wolf came", "The farmer opened the gate"]
+      answer: 1
+    - q: "Why did Bess stay at the house?"
+      options: ["She was afraid", "She was old and tired", "She was eating", "She did not like sheep"]
+      answer: 1
+    - tf: "Rex lost two sheep in the storm."
+      answer: false
+    - tf: "After the storm, Rex became a good guard."
+      answer: true
