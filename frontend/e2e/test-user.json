@@ -1,0 +1,6 @@
+{
+  "note": "Тестовый пользователь только для локального сервера (e2e-тесты и проверка в превью).",
+  "username": "e2e.tester",
+  "password": "violet-river-lantern-42",
+  "display_name": "Tester"
+}

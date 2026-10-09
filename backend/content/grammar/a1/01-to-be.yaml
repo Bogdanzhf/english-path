@@ -1,0 +1,125 @@
+title: "The verb to be: am, is, are"
+title_ru: "Глагол to be: am, is, are"
+section: verbs
+summary: "I am, you are, she is — the most important verb in English"
+summary_ru: "I am, you are, she is — самый важный глагол в английском"
+theory: |
+  ## What is “to be”?
+  **To be** means *be* or *exist*. We use it to say who or what someone is, where they are, how old they are, and how they feel.
+
+  An English sentence **must have a verb**, so we cannot leave *to be* out: *She is a doctor*, not ~~She a doctor~~.
+
+  ## Forms
+
+  | | Full form | Short form | Negative |
+  |---|---|---|---|
+  | I | I **am** | I'm | I'm not |
+  | you / we / they | you **are** | you're, we're, they're | you aren't / you're not |
+  | he / she / it | she **is** | he's, she's, it's | she isn't / she's not |
+
+  ## Questions
+  Put the verb **before** the subject:
+  - *Are you ready?* — Yes, I **am**. / No, I'm **not**.
+  - *Is he your brother?* — Yes, he **is**. / No, he **isn't**.
+
+  > In short answers we use the full form: *Yes, I am.* (not ~~Yes, I'm.~~)
+
+  ## When we use it
+  - name and job: *I'm Anna. I'm a teacher.*
+  - age: *She is twenty.* (not ~~She has twenty~~)
+  - place: *We are at home.*
+  - feelings and states: *They are tired. I'm cold.*
+theory_ru: |
+  ## Что такое to be
+  **To be** — это «быть, находиться, являться». В русском языке в настоящем времени этот глагол обычно пропускают: «Я студент», «Она дома». В английском **без глагола предложение невозможно**: *I **am** a student. She **is** at home.*
+
+  ## Формы
+
+  | | Полная форма | Краткая | Отрицание |
+  |---|---|---|---|
+  | I | I **am** | I'm | I'm not |
+  | you / we / they | you **are** | you're, we're, they're | you aren't / you're not |
+  | he / she / it | she **is** | he's, she's, it's | she isn't / she's not |
+
+  Запомните пары: **I — am**, **he/she/it — is**, **you/we/they — are**.
+
+  ## Вопросы
+  Глагол ставится **перед** подлежащим:
+  - *Are you ready?* — Yes, I **am**. / No, I'm **not**.
+  - *Is he your brother?* — Yes, he **is**. / No, he **isn't**.
+
+  > В кратком ответе «да» используется только полная форма: *Yes, I am.* (не ~~Yes, I'm.~~)
+
+  ## Когда нужен to be
+  - имя и профессия: *I'm Anna. I'm a teacher.* — Я Анна. Я учитель.
+  - возраст: *She is twenty.* — Ей двадцать. (не ~~She has twenty~~ — частая ошибка!)
+  - место: *We are at home.* — Мы дома.
+  - чувства и состояния: *They are tired. I'm cold.* — Они устали. Мне холодно.
+
+  > «Мне холодно», «мне скучно» по-английски говорят через *I am*: *I'm cold, I'm bored.*
+examples:
+  - "I *am* a student, and my brother *is* a doctor. | Я студент, а мой брат — врач."
+  - "We *are* from Russia. | Мы из России."
+  - "*Is* it cold outside? — Yes, it *is*. | На улице холодно? — Да."
+  - "She *isn't* at work today. She's ill. | Она сегодня не на работе. Она болеет."
+  - "How old *are* you? — I'm twenty-five. | Сколько тебе лет? — Мне двадцать пять."
+  - "They *aren't* tired, they're hungry. | Они не устали, они голодные."
+exercises:
+  - type: choice
+    q: "My name ___ Alex."
+    options: ["am", "is", "are"]
+    answer: 1
+    explain: "My name = it → is."
+    explain_ru: "My name = it (оно) → is."
+  - type: choice
+    q: "We ___ from Canada."
+    options: ["am", "is", "are"]
+    answer: 2
+  - type: choice
+    q: "I ___ twenty years old."
+    options: ["am", "have", "is"]
+    answer: 0
+    explain: "Age is said with to be: I am twenty."
+    explain_ru: "Возраст передаётся через to be: I am twenty (не I have twenty)."
+  - type: input
+    q: "They ___ (not / be) at school today."
+    answer: ["aren't", "are not", "'re not"]
+  - type: input
+    q: "___ your sister a nurse? — Yes, she is."
+    answer: ["Is"]
+  - type: cloze
+    text: "Hi! I [[am|'m]] Kate. I [[am|'m]] from London. My parents [[are]] doctors, and my brother [[is]] a student."
+  - type: order
+    q: "Составьте вопрос: «Ты устал?»"
+    answer: "Are you tired?"
+  - type: order
+    q: "Составьте: «Она не дома.»"
+    answer: "She isn't at home."
+  - type: error
+    text: "My friends {{is=>are}} very kind."
+    explain: "Friends = they → are."
+    explain_ru: "Friends — это they (они) → are."
+  - type: error
+    text: "Are you a student? — Yes, {{I'm=>I am}}."
+    explain: "Short answers use the full form: Yes, I am."
+    explain_ru: "В кратком ответе «да» — только полная форма: Yes, I am."
+  - type: tf
+    items:
+      - ["“He's” can be a short form of “he is”.", true]
+      - ["We say “I has twenty years”.", false]
+      - ["“Aren't” is the short form of “are not”.", true]
+  - type: match
+    q: "Match the pronoun and the verb"
+    pairs:
+      - ["I", "am"]
+      - ["she", "is"]
+      - ["they", "are"]
+      - ["it", "is"]
+  - type: listen
+    audio: "Are you from Spain? No, I am not. I am from Italy."
+    q: "Where is the person from?"
+    options: ["Spain", "Italy", "France"]
+    answer: 1
+  - type: speak
+    answer: "I am a student and I am from Russia."
+    ru: "Я студент, и я из России."

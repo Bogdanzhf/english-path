@@ -1,0 +1,14 @@
+# исходные учебники и рабочие файлы не публикуются
+*.pdf
+*.lnk
+_scratch/
+data/
+.venv/
+__pycache__/
+.pytest_cache/
+node_modules/
+frontend/dist/
+frontend/dist-static/
+frontend/test-results/
+frontend/playwright-report/
+.claude/settings.local.json

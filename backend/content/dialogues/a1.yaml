@@ -1,0 +1,35 @@
+- id: a1-nice-to-meet-you
+  title: "Nice to meet you"
+  title_ru: "Приятно познакомиться"
+  scene: "Two new students meet on their first day at a language school."
+  scene_ru: "Два новых студента знакомятся в первый день в языковой школе."
+  speakers: {Emma: f-uk, Daniel: m-us}
+  lines:
+    - "Emma: Hi! Is this seat free? | Привет! Здесь свободно?"
+    - "Daniel: Yes, it is. Sit down, please. | Да, свободно. Садись, пожалуйста."
+    - "Emma: Thanks. I'm Emma, by the way. | Спасибо. Меня, кстати, зовут Эмма."
+    - "Daniel: Nice to meet you, Emma. I'm Daniel. | Приятно познакомиться, Эмма. Я Дэниел."
+    - "Emma: Nice to meet you too. Where are you from? | Мне тоже приятно. Откуда ты?"
+    - "Daniel: I'm from Toronto, in Canada. And you? | Я из Торонто, в Канаде. А ты?"
+    - "Emma: I'm from Manchester. Is this your first day here? | Я из Манчестера. Это твой первый день здесь?"
+    - "Daniel: Yes, it is. I'm a bit nervous! | Да. Я немного волнуюсь!"
+    - "Emma: Me too. But the teacher is very friendly. | Я тоже. Но учитель очень дружелюбный."
+    - "Daniel: That's good. Let's sit together in class. | Это хорошо. Давай сидеть вместе на занятиях."
+  phrases:
+    - "Is this seat free? | Здесь свободно?"
+    - "Nice to meet you. | Приятно познакомиться."
+    - "Where are you from? | Откуда ты?"
+    - "I'm from… | Я из…"
+    - "Me too. | Я тоже."
+    - "by the way | кстати"
+  exercises:
+    - type: choice
+      q: "Where is Daniel from?"
+      options: ["Manchester", "Toronto", "London"]
+      answer: 1
+    - type: choice
+      q: "How does Daniel feel?"
+      options: ["tired", "happy", "nervous"]
+      answer: 2
+    - type: cloze
+      text: "Nice to [[meet]] you. Where [[are]] you from?"
