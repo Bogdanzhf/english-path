@@ -55,6 +55,11 @@
 "text": "My mother looks after my children on Fridays."
 },
 {
+"key": "00b7c53614aa5cd7",
+"voice": "f-uk",
+"text": "cemetery"
+},
+{
 "key": "00cba605a0da5ad6",
 "voice": "f-uk",
 "text": "list"
@@ -85,6 +90,11 @@
 "text": "Whose phone is this?"
 },
 {
+"key": "0111d9e5784c27a2",
+"voice": "f-us",
+"text": "skeleton"
+},
+{
 "key": "0115e8a1f4e939b2",
 "voice": "f-us",
 "text": "Throw the ball to me!"
@@ -93,6 +103,11 @@
 "key": "011a3c365075268d",
 "voice": "f-uk",
 "text": "tower"
+},
+{
+"key": "011f14b9a73b6d7e",
+"voice": "f-uk",
+"text": "senator"
 },
 {
 "key": "01231cee00c16b6f",
@@ -118,6 +133,11 @@
 "key": "017882ff3e96c064",
 "voice": "f-uk",
 "text": "She looked at the snake in terror."
+},
+{
+"key": "01846b76a9c570a0",
+"voice": "m-uk",
+"text": "He said he was from the government and that the villagers had to pay a new tax on their land."
 },
 {
 "key": "01941d4946950e61",
@@ -195,6 +215,11 @@
 "text": "Emma was sixteen, and she had two dreams."
 },
 {
+"key": "022d2b3e96c95e03",
+"voice": "m-us",
+"text": "His brothers teased him about his big ears."
+},
+{
 "key": "02307d022cc7925e",
 "voice": "m-uk",
 "text": "She studied accounting at college."
@@ -208,6 +233,11 @@
 "key": "024ab38398055a12",
 "voice": "f-us",
 "text": "I can't concentrate with this noise."
+},
+{
+"key": "024af720c8685a77",
+"voice": "f-uk",
+"text": "The dog barks every time someone comes to the door."
 },
 {
 "key": "0254b95d07e05fd2",
@@ -235,6 +265,11 @@
 "text": "Now the photo hangs in the living room, and Emily wants to proceed with her research to learn more about her family."
 },
 {
+"key": "027060fb5e22302e",
+"voice": "f-us",
+"text": "cemetery"
+},
+{
 "key": "0271ec81c15685cb",
 "voice": "m-us",
 "text": "He opened a can of cola."
@@ -250,6 +285,11 @@
 "text": "Next week. I'll call you tomorrow with our decision."
 },
 {
+"key": "028beef998b53711",
+"voice": "f-uk",
+"text": "ridiculous"
+},
+{
 "key": "02aa9f60cbd88490",
 "voice": "f-uk",
 "text": "curious"
@@ -258,6 +298,11 @@
 "key": "02ab8c5d2df3e868",
 "voice": "m-uk",
 "text": "What time does your train leave? It leaves at half past six."
+},
+{
+"key": "02b34c92ecd4dd78",
+"voice": "f-us",
+"text": "But something changed that day."
 },
 {
 "key": "02c1cddf4cd12115",
@@ -298,6 +343,16 @@
 "key": "02eda26146c2257d",
 "voice": "f-us",
 "text": "artist"
+},
+{
+"key": "02f19e5a33433c26",
+"voice": "m-uk",
+"text": "She learned to communicate with Lucky using hand signs."
+},
+{
+"key": "02f3bf5f3e582895",
+"voice": "m-uk",
+"text": "\"Lucky and I have a mutual agreement,\" she says with a smile."
 },
 {
 "key": "02ff8ead25a4de7e",
@@ -385,6 +440,11 @@
 "text": "Tokyo is a huge city."
 },
 {
+"key": "0384d770c4976148",
+"voice": "f-us",
+"text": "Her hands moved slowly but carefully."
+},
+{
 "key": "038886a53deb5c3e",
 "voice": "m-us",
 "text": "Marco repaired his boat and used it to carry volunteers, using as little fuel as possible."
@@ -400,14 +460,29 @@
 "text": "Life in the new country was hard."
 },
 {
+"key": "039c36d51c8f8740",
+"voice": "f-us",
+"text": "inhabitant"
+},
+{
 "key": "039c5a8371380bf7",
 "voice": "f-us",
 "text": "You mustn't touch the paintings."
 },
 {
+"key": "039c75faea964d7d",
+"voice": "f-uk",
+"text": "kid"
+},
+{
 "key": "03a064c1a0f38c89",
 "voice": "f-us",
 "text": "My sister and I are twins."
+},
+{
+"key": "03a7b8d7e77c3455",
+"voice": "m-us",
+"text": "She ran to Pablo's room, grasped his hand and pulled him underneath his strong wooden desk."
 },
 {
 "key": "03be053d7fd26ae0",
@@ -485,6 +560,11 @@
 "text": "Then the detective looked up."
 },
 {
+"key": "04c771baf355d6ff",
+"voice": "f-us",
+"text": "The fields were full of golden wheat."
+},
+{
 "key": "04e777c5a51f6ffc",
 "voice": "f-uk",
 "text": "red"
@@ -493,6 +573,16 @@
 "key": "04e7ba484937a5b7",
 "voice": "f-uk",
 "text": "otherwise"
+},
+{
+"key": "04f84031db4e149d",
+"voice": "f-us",
+"text": "senses"
+},
+{
+"key": "050124ea1af55015",
+"voice": "m-uk",
+"text": "The bird pulled a worm out of the ground."
 },
 {
 "key": "050fbc1065010ba1",
@@ -535,6 +625,11 @@
 "text": "They lived in the same block, and they both loved music."
 },
 {
+"key": "055f1b524224f1c7",
+"voice": "f-uk",
+"text": "\"The dead sleep... in a cemetery!\" said Mia."
+},
+{
 "key": "055ffb146af31dc3",
 "voice": "f-uk",
 "text": "pronounce"
@@ -558,6 +653,11 @@
 "key": "057495ab1cf5fe80",
 "voice": "m-uk",
 "text": "He supplements his salary by teaching in the evenings."
+},
+{
+"key": "057ac89bba1b2b75",
+"voice": "f-uk",
+"text": "endure"
 },
 {
 "key": "05804ad4bed813f6",
@@ -593,6 +693,11 @@
 "key": "05b0109d51e54ab2",
 "voice": "f-us",
 "text": "product"
+},
+{
+"key": "05b80ace22afb998",
+"voice": "f-us",
+"text": "mutual"
 },
 {
 "key": "05bb02b32e1fee09",
@@ -755,14 +860,29 @@
 "text": "hunger"
 },
 {
+"key": "0704cb09de709e42",
+"voice": "f-us",
+"text": "overweight"
+},
+{
 "key": "0711276c9002d912",
 "voice": "m-uk",
 "text": "She leads a team of ten people."
 },
 {
+"key": "0737fdcf69f00fb6",
+"voice": "m-us",
+"text": "Maria was in the kitchen, chopping vegetables and stirring a pot of soup."
+},
+{
 "key": "075210d05ff6cf62",
 "voice": "f-us",
 "text": "attend"
+},
+{
+"key": "075e81d68e235272",
+"voice": "f-us",
+"text": "On the 14th of February, Ellie found a card on her bed."
 },
 {
 "key": "076155737aaeeb76",
@@ -780,6 +900,11 @@
 "text": "The Moon was scared and tried to escape."
 },
 {
+"key": "076fd2ce525aee5c",
+"voice": "m-uk",
+"text": "When Lucky did something well, Emma rubbed her under the chin."
+},
+{
 "key": "077cb15abcf49d69",
 "voice": "f-uk",
 "text": "dictionary"
@@ -793,6 +918,11 @@
 "key": "07a7aebd171eeb9b",
 "voice": "m-uk",
 "text": "Every Friday evening, the neighbours dined together at long tables in the garden."
+},
+{
+"key": "07b36b6f98bb4521",
+"voice": "f-uk",
+"text": "rub"
 },
 {
 "key": "07bdc26f84ae5853",
@@ -833,6 +963,11 @@
 "key": "081b2dc4c61183ac",
 "voice": "f-uk",
 "text": "So, after his shift, Tom started working on an idea."
+},
+{
+"key": "08299205435b8de9",
+"voice": "m-uk",
+"text": "She never barked, but she followed Emma everywhere."
 },
 {
 "key": "0830c973db799ef9",
@@ -965,6 +1100,11 @@
 "text": "temporary"
 },
 {
+"key": "091a7d3c8b7f33e7",
+"voice": "f-us",
+"text": "mayor"
+},
+{
 "key": "0921536d568a3d97",
 "voice": "f-us",
 "text": "easy"
@@ -1010,6 +1150,11 @@
 "text": "soil"
 },
 {
+"key": "09713fb8886dac78",
+"voice": "f-us",
+"text": "He couldn't stand up."
+},
+{
 "key": "097937a5cc6b7eee",
 "voice": "f-us",
 "text": "When they have a concern, they come to his house."
@@ -1045,9 +1190,24 @@
 "text": "The island has an old volcano, and local people told stories about a lost city on its side."
 },
 {
+"key": "0998617919dab3d0",
+"voice": "f-uk",
+"text": "pirate"
+},
+{
+"key": "09ae1c375283a0b4",
+"voice": "f-uk",
+"text": "There was a tremendous noise."
+},
+{
 "key": "09ca00dc8e76fdb6",
 "voice": "m-us",
 "text": "The crown was covered in jewels."
+},
+{
+"key": "09ccb53a84f7db31",
+"voice": "f-uk",
+"text": "The ancient people believed that the queen needed protection in the afterlife, and lions played the role of guards."
 },
 {
 "key": "09d4d93c362b860a",
@@ -1215,6 +1375,11 @@
 "text": "She convinced me that I was wrong."
 },
 {
+"key": "0af82184c642c17f",
+"voice": "f-uk",
+"text": "acquaint"
+},
+{
 "key": "0afbc9ffc8c7b4c9",
 "voice": "m-uk",
 "text": "Then the lawyer noticed something in the video."
@@ -1233,6 +1398,11 @@
 "key": "0b295285d4d4a147",
 "voice": "m-us",
 "text": "One week, something strange occurred."
+},
+{
+"key": "0b339f61952af12e",
+"voice": "f-uk",
+"text": "Black Tom.\""
 },
 {
 "key": "0b3ac2828698b6ca",
@@ -1298,6 +1468,11 @@
 "key": "0bacf69df4c8e116",
 "voice": "f-us",
 "text": "journal"
+},
+{
+"key": "0bc64d172fce8ba6",
+"voice": "f-uk",
+"text": "The senator visited the flooded town."
 },
 {
 "key": "0bc6a6065b651a3a",
@@ -1435,6 +1610,11 @@
 "text": "Let's meet outside the cinema at a quarter to four."
 },
 {
+"key": "0d2efc83ae717cd9",
+"voice": "f-uk",
+"text": "enthusiastic"
+},
+{
 "key": "0d392b7f8e953dec",
 "voice": "f-uk",
 "text": "cast"
@@ -1475,6 +1655,11 @@
 "text": "share"
 },
 {
+"key": "0d8f25acea947da5",
+"voice": "f-uk",
+"text": "skull"
+},
+{
 "key": "0d9e7049e57f7490",
 "voice": "f-us",
 "text": "\"It sounds like fiction,\" she says, \"but it's real."
@@ -1498,6 +1683,11 @@
 "key": "0dcc36422c9795b7",
 "voice": "m-us2",
 "text": "Thank you very much!"
+},
+{
+"key": "0dcde310da73982a",
+"voice": "f-uk",
+"text": "curse"
 },
 {
 "key": "0dd49e410426eea3",
@@ -1685,9 +1875,19 @@
 "text": "invest"
 },
 {
+"key": "0f3e624350becb91",
+"voice": "f-uk",
+"text": "discourage"
+},
+{
 "key": "0f51415a47fdf72d",
 "voice": "f-uk2",
 "text": "The seafood pasta is very popular, and today's special is grilled salmon."
+},
+{
+"key": "0f58558bdde5e41e",
+"voice": "f-us",
+"text": "skull"
 },
 {
 "key": "0f7d7d6e91ef6cb6",
@@ -1735,9 +1935,19 @@
 "text": "At the town meeting, Lisa gave a speech."
 },
 {
+"key": "0fee104529eb4d50",
+"voice": "f-us",
+"text": "refuge"
+},
+{
 "key": "0ff6e9d4a915cbf9",
 "voice": "f-uk",
 "text": "represent"
+},
+{
+"key": "100c312d7606148c",
+"voice": "m-uk",
+"text": "He worked every day to repair the house."
 },
 {
 "key": "10167a99198a7495",
@@ -1780,6 +1990,11 @@
 "text": "She comforted the crying child."
 },
 {
+"key": "1030372e704f008d",
+"voice": "f-us",
+"text": "The fabric was the colour of ivory, but it was old, and the seams had burst in several places."
+},
+{
 "key": "103ea4da0965fc41",
 "voice": "f-uk",
 "text": "The response was positive."
@@ -1793,6 +2008,11 @@
 "key": "1057ef21dd2d945b",
 "voice": "f-uk",
 "text": "heaven"
+},
+{
+"key": "107c0543026976b4",
+"voice": "f-uk",
+"text": "thread"
 },
 {
 "key": "1094074b9d1ff89a",
@@ -1845,6 +2065,11 @@
 "text": "emotion"
 },
 {
+"key": "1159054695fe977b",
+"voice": "f-uk",
+"text": "agreement"
+},
+{
 "key": "116bda4669f7bd37",
 "voice": "f-us",
 "text": "I'm meeting my friends at the cinema at seven, and after that we're going to have pizza."
@@ -1895,6 +2120,11 @@
 "text": "When the young prince came home, he laid the agreement in front of his father."
 },
 {
+"key": "11d0a6d4934592cf",
+"voice": "f-uk",
+"text": "core"
+},
+{
 "key": "11dcdae8072e2f4f",
 "voice": "f-uk",
 "text": "greet"
@@ -1913,6 +2143,11 @@
 "key": "1201b81bb85dc979",
 "voice": "f-uk",
 "text": "He wrote a poem for her birthday."
+},
+{
+"key": "12166bb7733b59f8",
+"voice": "f-uk",
+"text": "modest"
 },
 {
 "key": "1222d12f3c70bcd7",
@@ -2040,6 +2275,11 @@
 "text": "apartment"
 },
 {
+"key": "12dc382e834ee6a3",
+"voice": "f-us",
+"text": "He climbed the ladder to fix the roof."
+},
+{
 "key": "12f897daa0fb06b0",
 "voice": "f-uk",
 "text": "camera"
@@ -2085,6 +2325,11 @@
 "text": "The people there were farmers, not soldiers."
 },
 {
+"key": "136fbbf1132fc1e0",
+"voice": "m-us",
+"text": "The business prospered, and he became one of the richest men in the country."
+},
+{
 "key": "137593fd5173e2c1",
 "voice": "m-us",
 "text": "You ought to see a doctor."
@@ -2125,9 +2370,19 @@
 "text": "The Moon was quiet and calm."
 },
 {
+"key": "1408bd4d65fbc9b7",
+"voice": "f-uk",
+"text": "valentine"
+},
+{
 "key": "140a9622ee29887e",
 "voice": "f-us",
 "text": "\"But I'll give you one week.\""
+},
+{
+"key": "1421f5a70e052d26",
+"voice": "f-uk",
+"text": "underneath"
 },
 {
 "key": "142c2e713e697b68",
@@ -2153,6 +2408,11 @@
 "key": "1453313b0c79845e",
 "voice": "f-uk",
 "text": "academy"
+},
+{
+"key": "1459adda19c6db2e",
+"voice": "m-uk",
+"text": "A year later, Emma joined an expedition to the mountains to study wild animals, and Lucky came too."
 },
 {
 "key": "147ac1b4f6bb38cf",
@@ -2245,6 +2505,11 @@
 "text": "I'll pay the difference."
 },
 {
+"key": "15101bfd75e0e90a",
+"voice": "f-uk",
+"text": "engineer"
+},
+{
 "key": "1510af1d1e99da6a",
 "voice": "f-us",
 "text": "Take this medicine three times a day."
@@ -2263,6 +2528,11 @@
 "key": "15567dcf1c05e00b",
 "voice": "m-uk",
 "text": "They spent a week on the coast, and then they decided to take a tour into the desert."
+},
+{
+"key": "155f8fa1fd8b98d2",
+"voice": "f-uk",
+"text": "flashlight"
 },
 {
 "key": "1573a9f1a7743c59",
@@ -2298,6 +2568,11 @@
 "key": "15c0cbbda169dc79",
 "voice": "f-uk",
 "text": "The pilot announced that we were landing."
+},
+{
+"key": "15c1b1fe399918bb",
+"voice": "m-us",
+"text": "\"We're safe,\" she said."
 },
 {
 "key": "15c41463ed3e685c",
@@ -2370,6 +2645,11 @@
 "text": "The force of the wind broke the window."
 },
 {
+"key": "166c7ba773c5f821",
+"voice": "f-uk",
+"text": "Cheap products are often inferior in quality."
+},
+{
 "key": "1676f1d8199a3779",
 "voice": "f-uk",
 "text": "flag"
@@ -2398,6 +2678,11 @@
 "key": "169b4c8d908ffc06",
 "voice": "f-uk",
 "text": "During the week, they did many things."
+},
+{
+"key": "16a68d8ef3ab67ff",
+"voice": "f-uk",
+"text": "rot"
 },
 {
 "key": "16ae2f1d7357d373",
@@ -2455,6 +2740,11 @@
 "text": "hill"
 },
 {
+"key": "1711a9e0c5d73aa7",
+"voice": "f-us",
+"text": "enthusiastic"
+},
+{
 "key": "1721b0fb7f15c602",
 "voice": "f-uk",
 "text": "journey"
@@ -2465,9 +2755,19 @@
 "text": "On the way back to the station, Maya said, \"In two days, I experienced more than in a whole year."
 },
 {
+"key": "174629f850352b8d",
+"voice": "m-us",
+"text": "The cat got out through a gap in the fence."
+},
+{
 "key": "17486b45412faeea",
 "voice": "f-uk",
 "text": "tutor"
+},
+{
+"key": "176c7985b6ef4b80",
+"voice": "f-us",
+"text": "scar"
 },
 {
 "key": "179e1e115ecc4297",
@@ -2555,6 +2855,11 @@
 "text": "tube"
 },
 {
+"key": "184e973c12a158e8",
+"voice": "f-uk",
+"text": "fancy"
+},
+{
 "key": "185323e7f2a10ebb",
 "voice": "f-uk",
 "text": "nowadays"
@@ -2635,9 +2940,19 @@
 "text": "smart"
 },
 {
+"key": "18f8f65ebf1664fa",
+"voice": "f-uk",
+"text": "chore"
+},
+{
 "key": "18fbbcf48b59b95e",
 "voice": "m-us",
 "text": "\"This is the best example of following your dream.\""
+},
+{
+"key": "1901ab83fb4dcb65",
+"voice": "m-us",
+"text": "Maria found a flashlight and helped him out."
 },
 {
 "key": "1903cdae91cfcb67",
@@ -2730,6 +3045,11 @@
 "text": "forward"
 },
 {
+"key": "19960429446f377e",
+"voice": "m-us",
+"text": "The kitchen is at the rear of the house."
+},
+{
 "key": "19a01f383e7f736a",
 "voice": "f-uk",
 "text": "The island is populated by fishermen."
@@ -2763,6 +3083,11 @@
 "key": "19bc32d8d1884533",
 "voice": "f-uk",
 "text": "behave"
+},
+{
+"key": "19c302441b4a0449",
+"voice": "m-uk",
+"text": "\"We want to repay you,\" he said."
 },
 {
 "key": "19cf144f7defc16f",
@@ -2840,6 +3165,11 @@
 "text": "own"
 },
 {
+"key": "1ad33cb4c211e709",
+"voice": "f-us",
+"text": "They restored the old church."
+},
+{
 "key": "1ada653a01cf5a1b",
 "voice": "f-us",
 "text": "give, gave, given"
@@ -2878,6 +3208,11 @@
 "key": "1b430374a6633afb",
 "voice": "f-us",
 "text": "Don't be so passive — tell them what you want!"
+},
+{
+"key": "1b44cc7068422628",
+"voice": "f-us",
+"text": "modest"
 },
 {
 "key": "1b4cab49730d4cf8",
@@ -2978,6 +3313,11 @@
 "key": "1c2eb290a9d9871a",
 "voice": "f-uk",
 "text": "Shake the bottle before you open it."
+},
+{
+"key": "1c3021dbddb506df",
+"voice": "m-us",
+"text": "She tried to console the crying child."
 },
 {
 "key": "1c3515dd0c4e60ef",
@@ -3085,6 +3425,11 @@
 "text": "bite, bit, bitten"
 },
 {
+"key": "1d16002c0a947322",
+"voice": "m-uk",
+"text": "We heard the news in the six o'clock bulletin."
+},
+{
 "key": "1d16bdf7c357ff73",
 "voice": "f-uk",
 "text": "course"
@@ -3123,6 +3468,11 @@
 "key": "1d4a986b30339c35",
 "voice": "f-us",
 "text": "Soon Mr. Bianchi was in debt."
+},
+{
+"key": "1d4af88110993f99",
+"voice": "f-us",
+"text": "bunch"
 },
 {
 "key": "1d4e2d42d8fa86be",
@@ -3170,9 +3520,19 @@
 "text": "He broke his leg in a car accident."
 },
 {
+"key": "1ddd393879fccbf0",
+"voice": "f-us",
+"text": "chin"
+},
+{
 "key": "1df2110b04c70635",
 "voice": "f-us",
 "text": "loud"
+},
+{
+"key": "1df4eab0d867c8e3",
+"voice": "f-us",
+"text": "deceive"
 },
 {
 "key": "1e30d84d68e6f412",
@@ -3245,6 +3605,11 @@
 "text": "\"Daniel, your turn,\" she said."
 },
 {
+"key": "1ef2eeda90dd637f",
+"voice": "m-uk",
+"text": "The only person who helped him was an old shepherd named Luka, who lived in a hut on the hill above the village."
+},
+{
 "key": "1f00a0770b8c4581",
 "voice": "f-us",
 "text": "The portions in this restaurant are huge."
@@ -3253,6 +3618,11 @@
 "key": "1f015be36f1ce7ef",
 "voice": "f-uk",
 "text": "The flood destroyed many farms."
+},
+{
+"key": "1f0ee5e0cc5386ae",
+"voice": "f-us",
+"text": "acre"
 },
 {
 "key": "1f0ff4b52f5e6823",
@@ -3288,6 +3658,11 @@
 "key": "1f5f4e689037e276",
 "voice": "f-us",
 "text": "habit"
+},
+{
+"key": "1f74df1faaac6a98",
+"voice": "m-us",
+"text": "His small workshop had a tall chimney, and the sound of his hammer could be heard all over the village."
 },
 {
 "key": "1f75cddf891df69f",
@@ -3338,6 +3713,11 @@
 "key": "1fcfccbbdc7323f7",
 "voice": "m-us",
 "text": "Inside the bucket, under a towel, was a small brown dog!"
+},
+{
+"key": "1fd09da5fe70bdda",
+"voice": "f-us",
+"text": "deaf"
 },
 {
 "key": "1fd4ece6d72fda93",
@@ -3405,6 +3785,11 @@
 "text": "inn"
 },
 {
+"key": "2056e4bf8dacd13b",
+"voice": "f-us",
+"text": "riddle"
+},
+{
 "key": "205f2385afc517a6",
 "voice": "f-us",
 "text": "cupboard"
@@ -3443,6 +3828,11 @@
 "key": "20924bb813902bb1",
 "voice": "m-us",
 "text": "She ate dinner from a can and drank too much coffee."
+},
+{
+"key": "2097623fd6364f3f",
+"voice": "f-us",
+"text": "Everyone went silent."
 },
 {
 "key": "2099eb877516be22",
@@ -3505,6 +3895,11 @@
 "text": "It's cold — let's go inside."
 },
 {
+"key": "211404242fda588b",
+"voice": "f-uk",
+"text": "On the paper, someone had written: \"The real treasure is the adventure."
+},
+{
 "key": "211bdcc045786610",
 "voice": "f-uk",
 "text": "attract"
@@ -3520,14 +3915,29 @@
 "text": "The weather was hot, but the sea was rough because of a strong wind."
 },
 {
+"key": "2130265761f4b9b2",
+"voice": "f-us",
+"text": "caretaker"
+},
+{
 "key": "2130b89532baf687",
 "voice": "f-uk",
 "text": "organize"
 },
 {
+"key": "2131bdd71a034d3c",
+"voice": "m-uk",
+"text": "What a brilliant idea!"
+},
+{
 "key": "213c9058169a2cf5",
 "voice": "m-uk",
 "text": "Everything was delicious and not expensive."
+},
+{
+"key": "214088f0ab3119f1",
+"voice": "f-us",
+"text": "elbow"
 },
 {
 "key": "2143eff4bd49bb80",
@@ -3625,6 +4035,21 @@
 "text": "I was awake all night because of the noise."
 },
 {
+"key": "221248e69343cde5",
+"voice": "f-us",
+"text": "highlands"
+},
+{
+"key": "2217e544b0c837b5",
+"voice": "f-us",
+"text": "How can I ever repay you?"
+},
+{
+"key": "221bb3e6aa53f062",
+"voice": "m-uk",
+"text": "Emma used the money from the prize to restore an old barn and open a shelter for abandoned animals."
+},
+{
 "key": "22440a31c18ace6a",
 "voice": "m-uk2",
 "text": "Great. Why do you want to work here?"
@@ -3655,9 +4080,29 @@
 "text": "despair"
 },
 {
+"key": "226bef8a493cb273",
+"voice": "m-uk",
+"text": "Some even started to show hatred towards Daniel, because they thought the man was his friend from the city."
+},
+{
 "key": "227fdf76b04c1207",
 "voice": "f-uk",
 "text": "He's afraid of flying."
+},
+{
+"key": "2289b9b4a355234f",
+"voice": "f-us",
+"text": "distinct"
+},
+{
+"key": "228dd1b1feeae27f",
+"voice": "f-uk",
+"text": "console"
+},
+{
+"key": "229bb33033678881",
+"voice": "f-uk",
+"text": "burst"
 },
 {
 "key": "22acdcb459327259",
@@ -3830,6 +4275,11 @@
 "text": "liquid"
 },
 {
+"key": "2432327131ffb7b2",
+"voice": "m-uk",
+"text": "The plan was executed perfectly."
+},
+{
 "key": "2435435ed6be7582",
 "voice": "f-uk2",
 "text": "At eleven thirty at night."
@@ -3848,6 +4298,11 @@
 "key": "2445ffef7294002f",
 "voice": "f-us",
 "text": "overseas"
+},
+{
+"key": "24495cf01b10bd0c",
+"voice": "f-us",
+"text": "Inside was her wedding dress, wrapped in paper."
 },
 {
 "key": "244ea1e158eac669",
@@ -3888,6 +4343,11 @@
 "key": "246b477faf821445",
 "voice": "f-us",
 "text": "pause"
+},
+{
+"key": "246e7492559165b8",
+"voice": "f-us",
+"text": "restore"
 },
 {
 "key": "247d12ac16cf845b",
@@ -4085,6 +4545,11 @@
 "text": "He's not very talkative in the morning."
 },
 {
+"key": "263a0dbf2005cb9e",
+"voice": "f-uk",
+"text": "Many animals starve in a hard winter."
+},
+{
 "key": "263c1406044e9bee",
 "voice": "m-us",
 "text": "\"Pay attention to him."
@@ -4113,6 +4578,11 @@
 "key": "26510a1d5fcb579a",
 "voice": "m-uk",
 "text": "There's some cheese in the fridge, but there isn't any bread."
+},
+{
+"key": "2661f89d50b65e61",
+"voice": "m-us",
+"text": "Take the dog to the veterinarian."
 },
 {
 "key": "266a834173851750",
@@ -4215,6 +4685,11 @@
 "text": "We dined at an expensive restaurant."
 },
 {
+"key": "2766b092aba201c0",
+"voice": "f-us",
+"text": "chimney"
+},
+{
 "key": "276702acbf454ea2",
 "voice": "m-us",
 "text": "In the morning, the whole town came to see him."
@@ -4240,6 +4715,16 @@
 "text": "intense"
 },
 {
+"key": "27a712e7d26641dd",
+"voice": "f-us",
+"text": "rot"
+},
+{
+"key": "27ae380d4aca26cf",
+"voice": "f-uk",
+"text": "prosper"
+},
+{
 "key": "27be61e5c6f4434b",
 "voice": "f-uk",
 "text": "capital"
@@ -4253,6 +4738,11 @@
 "key": "27d403d38ef66fa4",
 "voice": "f-us",
 "text": "Her face looks familiar — have we met before?"
+},
+{
+"key": "27da8b5de3c2543f",
+"voice": "m-us",
+"text": "The work was hard, and it barely sustained his family."
 },
 {
 "key": "27e777d8f0ae9ff8",
@@ -4278,6 +4768,11 @@
 "key": "28105f1f57e85a78",
 "voice": "f-uk",
 "text": "tiny"
+},
+{
+"key": "28116dca75f13e1d",
+"voice": "m-us",
+"text": "Quebec is a province of Canada."
 },
 {
 "key": "2821e2f78a04c50c",
@@ -4333,6 +4828,11 @@
 "key": "28b1886d97a4acc4",
 "voice": "f-us",
 "text": "supplement"
+},
+{
+"key": "28b9dbda9c914181",
+"voice": "f-us",
+"text": "\"I'm really grateful,\" he said."
 },
 {
 "key": "28c04d1b60f3ce64",
@@ -4415,6 +4915,11 @@
 "text": "convict"
 },
 {
+"key": "295573cb1dc62825",
+"voice": "f-us",
+"text": "anniversary"
+},
+{
 "key": "295648cde2915e2d",
 "voice": "f-us",
 "text": "strange"
@@ -4475,6 +4980,11 @@
 "text": "This is the best pizza I've ever eaten!"
 },
 {
+"key": "29ca2cd91ba58663",
+"voice": "f-uk",
+"text": "wheat"
+},
+{
 "key": "29caa11ed42b4dfa",
 "voice": "f-uk",
 "text": "fascinate"
@@ -4513,6 +5023,11 @@
 "key": "29fb826c2d56edba",
 "voice": "m-us",
 "text": "I lived in a dormitory in my first year."
+},
+{
+"key": "2a0824c32f58fe64",
+"voice": "f-uk",
+"text": "role"
 },
 {
 "key": "2a0f8f1a534b5de0",
@@ -4585,6 +5100,11 @@
 "text": "print"
 },
 {
+"key": "2ab8855f4fd789ea",
+"voice": "f-us",
+"text": "The king's body was found in a secret chamber."
+},
+{
 "key": "2abc31e99b816eaf",
 "voice": "f-us",
 "text": "super"
@@ -4608,6 +5128,11 @@
 "key": "2ae2ec531f81864b",
 "voice": "f-us",
 "text": "unique"
+},
+{
+"key": "2aebd4787f9bc4c0",
+"voice": "m-us",
+"text": "Together, they went outside, where other neighbours were gathering."
 },
 {
 "key": "2af32abb73941105",
@@ -4755,6 +5280,11 @@
 "text": "He gave me only a vague answer."
 },
 {
+"key": "2c614bc3717147d7",
+"voice": "f-uk",
+"text": "We just have to learn how to listen.\""
+},
+{
 "key": "2c814801afe3bc60",
 "voice": "f-uk",
 "text": "Mark sensed that something was wrong."
@@ -4783,6 +5313,11 @@
 "key": "2cba947b1bef2415",
 "voice": "f-uk",
 "text": "chart"
+},
+{
+"key": "2cbb77278ba2fb81",
+"voice": "f-uk",
+"text": "Last October, three teenagers — Mia, Josh and Leo — decided to find out if the legend was true."
 },
 {
 "key": "2cd4262576ed078b",
@@ -4820,6 +5355,11 @@
 "text": "His English really impressed me."
 },
 {
+"key": "2d0c6587214e5ff3",
+"voice": "m-us",
+"text": "Stir the soup slowly."
+},
+{
 "key": "2d20f84bbfd2ed40",
 "voice": "f-uk",
 "text": "already"
@@ -4833,6 +5373,11 @@
 "key": "2d23bc420189e25c",
 "voice": "m-uk",
 "text": "Would you like to come to my party?"
+},
+{
+"key": "2d289e1c31eb7f12",
+"voice": "f-us",
+"text": "The two companies signed an agreement."
 },
 {
 "key": "2d3d0064a5c28779",
@@ -4863,6 +5408,11 @@
 "key": "2d67d439947c7181",
 "voice": "f-us",
 "text": "A police officer even helped to guard the room while the objects were moved to a museum."
+},
+{
+"key": "2d68a3a39c572573",
+"voice": "f-uk",
+"text": "Honesty is at the core of our values."
 },
 {
 "key": "2d6e0cbd5529ca43",
@@ -5085,6 +5635,11 @@
 "text": "Over the next few days, the caterpillar made a hard shell around itself."
 },
 {
+"key": "2f06799b4c4ea55a",
+"voice": "f-us",
+"text": "sew"
+},
+{
 "key": "2f105f48c2adf9c6",
 "voice": "f-uk",
 "text": "attention"
@@ -5180,9 +5735,19 @@
 "text": "bread"
 },
 {
+"key": "300ddf8c58c83409",
+"voice": "f-uk",
+"text": "The island has only two hundred inhabitants."
+},
+{
 "key": "3024db7d9127879d",
 "voice": "f-uk",
 "text": "\"Your ancestor."
+},
+{
+"key": "302738b7a314b6f1",
+"voice": "f-us",
+"text": "corridor"
 },
 {
 "key": "30279427aeb17ae1",
@@ -5245,6 +5810,11 @@
 "text": "Kim had an idea."
 },
 {
+"key": "30d174efc30cd110",
+"voice": "f-uk",
+"text": "drawer"
+},
+{
 "key": "30d1bdd893c692ec",
 "voice": "f-us",
 "text": "overcome"
@@ -5268,6 +5838,11 @@
 "key": "30f39b80f95ab41a",
 "voice": "f-uk",
 "text": "float"
+},
+{
+"key": "30fcc0abf92abddb",
+"voice": "m-us",
+"text": "She wore an elegant black dress."
 },
 {
 "key": "31046787af6105a1",
@@ -5300,6 +5875,11 @@
 "text": "write"
 },
 {
+"key": "312f2ee7390381ee",
+"voice": "f-us",
+"text": "needle"
+},
+{
 "key": "313f99175ffb35ed",
 "voice": "f-uk",
 "text": "The company was founded in 1998."
@@ -5320,6 +5900,11 @@
 "text": "Learning a language takes a lot of effort."
 },
 {
+"key": "3185f287c08879b4",
+"voice": "m-uk",
+"text": "He saved every penny he earned."
+},
+{
 "key": "3188ab797293541e",
 "voice": "m-us",
 "text": "He was strict about safety but also loved to amuse his students with funny stories."
@@ -5328,6 +5913,11 @@
 "key": "319318eff368e6ab",
 "voice": "m-us",
 "text": "\"It's a giant,\" they said."
+},
+{
+"key": "31a3853143949807",
+"voice": "f-uk",
+"text": "thrill"
 },
 {
 "key": "31a78e447427ff24",
@@ -5360,6 +5950,11 @@
 "text": "hero"
 },
 {
+"key": "322a922b14bddc77",
+"voice": "m-uk",
+"text": "She grasped my hand."
+},
+{
 "key": "3237a93bed80143b",
 "voice": "f-us",
 "text": "trap"
@@ -5370,6 +5965,11 @@
 "text": "He taught him to grow vegetables from seeds and to cook them in a big black pot over a fire."
 },
 {
+"key": "323d8859ac11b8b0",
+"voice": "f-us",
+"text": "spoil"
+},
+{
 "key": "32497fda843d2903",
 "voice": "f-uk",
 "text": "assume"
@@ -5378,6 +5978,11 @@
 "key": "3261e2a5548e9013",
 "voice": "f-us",
 "text": "dictionary"
+},
+{
+"key": "3262a6be73e475dc",
+"voice": "m-us",
+"text": "The ocean is full of strange creatures."
 },
 {
 "key": "3269ea02a4902744",
@@ -5423,6 +6028,21 @@
 "key": "32bcbea7e084e0f3",
 "voice": "f-uk",
 "text": "weigh"
+},
+{
+"key": "32d93c61937c5466",
+"voice": "m-us",
+"text": "The shaking lasted only forty seconds, but it felt like hours."
+},
+{
+"key": "32dc78be075dddbf",
+"voice": "f-uk",
+"text": "mutual"
+},
+{
+"key": "32e414a3b4e1b0a8",
+"voice": "f-us",
+"text": "sole"
 },
 {
 "key": "32f1d06299d7d996",
@@ -5500,6 +6120,11 @@
 "text": "\"It's very delicate."
 },
 {
+"key": "33830e929b7c9734",
+"voice": "f-us",
+"text": "One of my teeth is loose."
+},
+{
 "key": "3384b5c042ca276a",
 "voice": "f-uk",
 "text": "short"
@@ -5550,6 +6175,11 @@
 "text": "\"But a message is different."
 },
 {
+"key": "3405c401c30caed7",
+"voice": "m-uk",
+"text": "He has a scar on his forehead."
+},
+{
 "key": "340a22565d289e2c",
 "voice": "f-uk",
 "text": "pretend"
@@ -5568,6 +6198,11 @@
 "key": "34294c59c5d7554d",
 "voice": "m-uk",
 "text": "She made a chocolate cake for my birthday."
+},
+{
+"key": "343c1d782a902db3",
+"voice": "m-us",
+"text": "They heated the house with coal."
 },
 {
 "key": "343ece4693d72362",
@@ -5595,6 +6230,11 @@
 "text": "instant"
 },
 {
+"key": "347f635e7bc2f4b9",
+"voice": "f-uk",
+"text": "The children pulled their sleds up the hill."
+},
+{
 "key": "3483722e2a2dd921",
 "voice": "f-us",
 "text": "sow, sowed, sown"
@@ -5610,9 +6250,24 @@
 "text": "Adam is a quiet, ordinary office worker."
 },
 {
+"key": "34978e184314580d",
+"voice": "m-uk",
+"text": "Can you solve this riddle?"
+},
+{
 "key": "34aef1215a91f398",
 "voice": "f-uk",
 "text": "smell"
+},
+{
+"key": "34c1705505aa6a65",
+"voice": "f-uk",
+"text": "publication"
+},
+{
+"key": "34d5dc2473dc6fdf",
+"voice": "f-uk",
+"text": "I had a burning sensation in my throat."
 },
 {
 "key": "34d64fb4bd9a9eb1",
@@ -5665,6 +6320,11 @@
 "text": "barrier"
 },
 {
+"key": "3561abc23b4e9d20",
+"voice": "f-us",
+"text": "core"
+},
+{
 "key": "357b788b509745b5",
 "voice": "f-us",
 "text": "edge"
@@ -5678,6 +6338,11 @@
 "key": "3584c090876e81da",
 "voice": "m-uk",
 "text": "She had to clean the cages, feed the fish and sell products like food, toys and balls for dogs."
+},
+{
+"key": "35946125cf9e2ba9",
+"voice": "f-us",
+"text": "arithmetic"
 },
 {
 "key": "3595f3dbc985f8f5",
@@ -5805,6 +6470,11 @@
 "text": "Then he smiled and said, \"Don't blame him."
 },
 {
+"key": "369ca2205747b4bc",
+"voice": "m-uk",
+"text": "The roof was broken, and the garden was full of weeds."
+},
+{
 "key": "36a64e23cc8ffffa",
 "voice": "f-us",
 "text": "burn, burnt/burned, burnt/burned"
@@ -5835,6 +6505,11 @@
 "text": "That night, the villagers cut down trees and put huge logs across the narrow road into the valley."
 },
 {
+"key": "3701040fd057ba7c",
+"voice": "m-us",
+"text": "The next day, a senator visited the district and promised help to rebuild damaged homes."
+},
+{
 "key": "3709799b97f045fc",
 "voice": "m-uk",
 "text": "They resemble each other so much that even their mother sometimes mixes them up."
@@ -5853,6 +6528,11 @@
 "key": "3722285055c8e6f9",
 "voice": "m-us",
 "text": "The old ship sank in only two hours."
+},
+{
+"key": "3726ff3e3e08f6ed",
+"voice": "m-us",
+"text": "I'm only kidding — don't be angry!"
 },
 {
 "key": "372ba770af33d3fc",
@@ -5903,6 +6583,16 @@
 "key": "37a650d58b5bd7c9",
 "voice": "f-uk",
 "text": "usual"
+},
+{
+"key": "37aa9b358c661950",
+"voice": "f-us",
+"text": "glory"
+},
+{
+"key": "37ad9fd0218a99c8",
+"voice": "f-uk",
+"text": "But in 2021, a young Sudanese archaeologist named Amira Hassan noticed something that everyone else had overlooked."
 },
 {
 "key": "37d7ea467a61a730",
@@ -5988,6 +6678,11 @@
 "key": "38c4f82c82864363",
 "voice": "f-uk",
 "text": "He can do all this because of Max."
+},
+{
+"key": "38cae0d0218124e3",
+"voice": "f-us",
+"text": "hatred"
 },
 {
 "key": "38d677916a0c40b1",
@@ -6240,6 +6935,16 @@
 "text": "strike, struck, struck"
 },
 {
+"key": "3b1ce0b8fa4069a5",
+"voice": "f-uk",
+"text": "At the end, a set of stone stairs went down to a hidden chamber."
+},
+{
+"key": "3b22ec0ae1fddd0a",
+"voice": "f-us",
+"text": "There is a distinct smell of gas in here."
+},
+{
 "key": "3b29b36f0d4d5777",
 "voice": "f-us",
 "text": "repair"
@@ -6248,6 +6953,11 @@
 "key": "3b2bf537c2603901",
 "voice": "f-us",
 "text": "regard"
+},
+{
+"key": "3b2c293ad101c262",
+"voice": "f-uk",
+"text": "stir"
 },
 {
 "key": "3b323ddae7c3d7ee",
@@ -6263,6 +6973,11 @@
 "key": "3b3b5941bc5470ed",
 "voice": "f-uk",
 "text": "discuss"
+},
+{
+"key": "3b3cb60cafd42393",
+"voice": "f-us",
+"text": "curse"
 },
 {
 "key": "3b40a54ad3f2e3ae",
@@ -6285,6 +7000,11 @@
 "text": "sleep"
 },
 {
+"key": "3b5130a90c5e9a4f",
+"voice": "f-us",
+"text": "persist"
+},
+{
 "key": "3b713372a64325bc",
 "voice": "m-uk",
 "text": "We moved here three years ago."
@@ -6293,6 +7013,11 @@
 "key": "3b86ae8dc7e75989",
 "voice": "f-us",
 "text": "maybe"
+},
+{
+"key": "3b904dc8b37e4014",
+"voice": "m-us",
+"text": "\"I was scared,\" he says, \"but Mum executed the plan perfectly — like a real hero.\""
 },
 {
 "key": "3b9a4b0efa7927bf",
@@ -6355,6 +7080,11 @@
 "text": "nurse"
 },
 {
+"key": "3bfd00b2609ca442",
+"voice": "f-uk",
+"text": "Some even said he cursed anyone who tried to find it."
+},
+{
 "key": "3c02158894319d76",
 "voice": "f-uk2",
 "text": "Thanks. I'm Emma, by the way."
@@ -6410,6 +7140,11 @@
 "text": "mission"
 },
 {
+"key": "3c7ee0280e177034",
+"voice": "f-us",
+"text": "thrill"
+},
+{
 "key": "3c8f0feab955269b",
 "voice": "f-us",
 "text": "ceiling"
@@ -6428,6 +7163,11 @@
 "key": "3ca6c01f56d78482",
 "voice": "f-uk",
 "text": "accomplish"
+},
+{
+"key": "3caa035c97dc1710",
+"voice": "f-us",
+"text": "sled"
 },
 {
 "key": "3caa66976773e3b0",
@@ -6458,6 +7198,11 @@
 "key": "3cc220dfa63a4775",
 "voice": "f-uk",
 "text": "adequate"
+},
+{
+"key": "3cc3a8583dc6ee47",
+"voice": "f-uk",
+"text": "chimney"
 },
 {
 "key": "3cce1cc6c9f95869",
@@ -6493,6 +7238,11 @@
 "key": "3d2792dad62505cb",
 "voice": "f-us",
 "text": "among"
+},
+{
+"key": "3d27d0fb81a83f00",
+"voice": "f-uk",
+"text": "complaint"
 },
 {
 "key": "3d37785b74c93075",
@@ -6615,6 +7365,16 @@
 "text": "There's a bug in the software."
 },
 {
+"key": "3e559b4d5d30c893",
+"voice": "f-uk",
+"text": "restore"
+},
+{
+"key": "3e6a207da84b5fdd",
+"voice": "f-uk",
+"text": "fabric"
+},
+{
 "key": "3e7b34b969f4a3cd",
 "voice": "f-us",
 "text": "He broke a bone in his arm."
@@ -6623,6 +7383,16 @@
 "key": "3e88dbf52f8e6fa1",
 "voice": "m-uk",
 "text": "She has an extraordinary voice."
+},
+{
+"key": "3e920bc394124741",
+"voice": "f-uk",
+"text": "bunch"
+},
+{
+"key": "3e93aa84803dafdd",
+"voice": "f-uk",
+"text": "Inside, there was no gold — only a skeleton of a small bird and a piece of paper."
 },
 {
 "key": "3e9ae3c9f86f80bd",
@@ -6695,6 +7465,16 @@
 "text": "far"
 },
 {
+"key": "3ef2fd2c1a6a3dc1",
+"voice": "f-uk",
+"text": "The lion is called the king of animals."
+},
+{
+"key": "3f00b7f40546c512",
+"voice": "f-us",
+"text": "hood"
+},
+{
 "key": "3f0ab05197722b25",
 "voice": "f-uk",
 "text": "In the film, an alien lands in a small village."
@@ -6755,6 +7535,11 @@
 "text": "prince"
 },
 {
+"key": "3f59514301ff0b2b",
+"voice": "f-us",
+"text": "flashlight"
+},
+{
 "key": "3f5d8b35605d22fb",
 "voice": "f-uk",
 "text": "invent"
@@ -6788,6 +7573,11 @@
 "key": "3f969ddfe4814594",
 "voice": "m-uk",
 "text": "Long ago, a famous king ruled a large country."
+},
+{
+"key": "3fa7f60e89de3def",
+"voice": "f-us",
+"text": "She was the sole survivor of the accident."
 },
 {
 "key": "3fbda6852410f8d2",
@@ -6853,6 +7643,11 @@
 "key": "4020dbcd53112e59",
 "voice": "f-uk",
 "text": "embarrass"
+},
+{
+"key": "402bbfb4bb46c8c0",
+"voice": "f-uk",
+"text": "\"And the old tree must be the big willow in the old churchyard."
 },
 {
 "key": "403441269e2f2176",
@@ -6945,6 +7740,11 @@
 "text": "The guide was very sorry."
 },
 {
+"key": "40f947b2d5e414b1",
+"voice": "f-uk",
+"text": "drip"
+},
+{
 "key": "411481ac9896ee20",
 "voice": "f-uk",
 "text": "\"Nobody will miss me,\" she said."
@@ -7015,6 +7815,11 @@
 "text": "She trained every day and dreamed of the Olympic Games."
 },
 {
+"key": "417a424106cb347b",
+"voice": "m-uk",
+"text": "But Emma was enthusiastic."
+},
+{
 "key": "41836da0dcfc74c8",
 "voice": "f-uk",
 "text": "The sun emerged from behind the clouds."
@@ -7028,6 +7833,11 @@
 "key": "4194364534408aa5",
 "voice": "m-uk",
 "text": "What is the purpose of your visit?"
+},
+{
+"key": "419913df637ec71b",
+"voice": "f-us",
+"text": "engineer"
 },
 {
 "key": "419b9aeafc3b9ede",
@@ -7053,6 +7863,11 @@
 "key": "41a6d69d8710fd86",
 "voice": "m-uk",
 "text": "Come and sit beside me."
+},
+{
+"key": "41aff5932f0627a2",
+"voice": "f-uk",
+"text": "hood"
 },
 {
 "key": "41bfa8ed49faf0ba",
@@ -7140,6 +7955,11 @@
 "text": "settle"
 },
 {
+"key": "423d13a181efbf5f",
+"voice": "f-us",
+"text": "The village is sustained by farming."
+},
+{
 "key": "423de1a4a3b4c0d0",
 "voice": "f-us",
 "text": "contest"
@@ -7193,6 +8013,11 @@
 "key": "42aa2ed6ad4f5395",
 "voice": "f-us",
 "text": "succeed"
+},
+{
+"key": "42b33365f75345d6",
+"voice": "m-uk",
+"text": "Someone had abandoned it there."
 },
 {
 "key": "42b3f9deff85cbf8",
@@ -7255,6 +8080,11 @@
 "text": "She also wrote about the view of Earth from Mars: a small blue star."
 },
 {
+"key": "432dd3c3a8e9bd08",
+"voice": "f-us",
+"text": "endure"
+},
+{
 "key": "4339f83b4e46c67a",
 "voice": "f-uk",
 "text": "When she finished, the priests said it was the most beautiful pot they had ever seen."
@@ -7298,6 +8128,11 @@
 "key": "439c232f7de95f47",
 "voice": "f-uk",
 "text": "create"
+},
+{
+"key": "439e1622e6fd1c3b",
+"voice": "f-uk",
+"text": "When they entered, their torches lit up an incredible interior."
 },
 {
 "key": "43a7fa87a2d45e8b",
@@ -7440,6 +8275,11 @@
 "text": "The house is surrounded by trees."
 },
 {
+"key": "44d7f4354bf5dd79",
+"voice": "m-us",
+"text": "The man was amazed."
+},
+{
 "key": "450296aba38910dd",
 "voice": "f-us",
 "text": "Ahmed's English was elementary, and the language was a big barrier."
@@ -7473,6 +8313,21 @@
 "key": "451d2e3538b38fc2",
 "voice": "m-us",
 "text": "They caught the mouse in a trap."
+},
+{
+"key": "451f2eec3afa7be8",
+"voice": "m-uk",
+"text": "\"She can't hear anything."
+},
+{
+"key": "4529c5c3383d206f",
+"voice": "m-us",
+"text": "When it stopped, the house was dark and silent."
+},
+{
+"key": "4535ceb1502a1c8c",
+"voice": "f-uk",
+"text": "riddle"
 },
 {
 "key": "45464e9bd4fa3330",
@@ -7535,6 +8390,11 @@
 "text": "\"It is necessary to stop this game,\" they said."
 },
 {
+"key": "45c989059f79aead",
+"voice": "m-us",
+"text": "Suddenly, there was a tremendous noise, like a train passing under the house."
+},
+{
 "key": "45da3cb6ba047ae4",
 "voice": "f-us",
 "text": "drive, drove, driven"
@@ -7543,6 +8403,11 @@
 "key": "45e19c7f966f2542",
 "voice": "f-uk",
 "text": "disadvantage"
+},
+{
+"key": "45e709055da8b0c8",
+"voice": "f-uk",
+"text": "horizon"
 },
 {
 "key": "45f83ead71664df2",
@@ -7560,6 +8425,11 @@
 "text": "Despite the rain, we went for a walk."
 },
 {
+"key": "461689ac1f12c2a6",
+"voice": "f-us",
+"text": "stairs"
+},
+{
 "key": "46311c5f554da36d",
 "voice": "f-uk",
 "text": "Leo hopes they will invite him again next year."
@@ -7568,6 +8438,11 @@
 "key": "463f430355817c11",
 "voice": "m-us",
 "text": "The plane departs at 7:45."
+},
+{
+"key": "46440cb853f3c137",
+"voice": "f-uk",
+"text": "tap"
 },
 {
 "key": "464a9117ab9f8a15",
@@ -7605,6 +8480,11 @@
 "text": "It was a glass bottle."
 },
 {
+"key": "46aa85d3a59fe0d3",
+"voice": "f-us",
+"text": "overlook"
+},
+{
 "key": "46ba7d2bac204e16",
 "voice": "f-uk",
 "text": "war"
@@ -7618,6 +8498,11 @@
 "key": "46c63acaba0e619c",
 "voice": "m-uk",
 "text": "I remember the hotel where we stayed."
+},
+{
+"key": "46c9e240689efe61",
+"voice": "f-uk",
+"text": "bark"
 },
 {
 "key": "46d619e3d3860efe",
@@ -7650,6 +8535,11 @@
 "text": "jail"
 },
 {
+"key": "4717a19e516df8b0",
+"voice": "m-us",
+"text": "My grandmother taught me to sew."
+},
+{
 "key": "471f82af9cc56115",
 "voice": "m-us",
 "text": "In the following weeks, Mrs. Brown's health improved rapidly."
@@ -7673,6 +8563,11 @@
 "key": "47362c727e63d5ce",
 "voice": "f-us",
 "text": "destroy"
+},
+{
+"key": "473d2039883c10ef",
+"voice": "m-uk",
+"text": "She acquired a good knowledge of Spanish."
 },
 {
 "key": "4748bfbbf8ec3ccf",
@@ -7783,6 +8678,11 @@
 "key": "4803ca3ab6edecf2",
 "voice": "f-us",
 "text": "experiment"
+},
+{
+"key": "480bbda6c04f83be",
+"voice": "f-us",
+"text": "She even used simple arithmetic to change the size: \"Two centimetres here, three there.\""
 },
 {
 "key": "480d07203651c037",
@@ -7920,6 +8820,11 @@
 "text": "There was a sudden change in the weather."
 },
 {
+"key": "493a240a99af66bb",
+"voice": "f-us",
+"text": "He trained with an elite group of soldiers."
+},
+{
 "key": "494a1f6e67912015",
 "voice": "f-us",
 "text": "exchange"
@@ -7978,6 +8883,11 @@
 "key": "4984979d6a8da083",
 "voice": "f-uk",
 "text": "What were you doing at ten o'clock last night?"
+},
+{
+"key": "498771fd69acf588",
+"voice": "m-uk",
+"text": "Washing the dishes is my least favourite chore."
 },
 {
 "key": "498d72fb442de639",
@@ -8045,9 +8955,24 @@
 "text": "command"
 },
 {
+"key": "4a3881743102adc7",
+"voice": "f-us",
+"text": "Every year, the kids from the town had a sled race there."
+},
+{
 "key": "4a3d9c092c4c04c4",
 "voice": "m-uk",
 "text": "That evening, the village was full of music and laughter."
+},
+{
+"key": "4a452c7740f8f606",
+"voice": "f-uk",
+"text": "distinct"
+},
+{
+"key": "4a6186f269c54068",
+"voice": "f-uk",
+"text": "satisfaction"
 },
 {
 "key": "4a639064521624db",
@@ -8073,6 +8998,11 @@
 "key": "4aa8fb275ae5eef2",
 "voice": "f-uk",
 "text": "inform"
+},
+{
+"key": "4ab257f03e9cde78",
+"voice": "f-uk",
+"text": "occupy"
 },
 {
 "key": "4ab45ae123510007",
@@ -8118,6 +9048,11 @@
 "key": "4b0ad4ed3751f452",
 "voice": "m-uk",
 "text": "The swimmers go across the lake, a length of three kilometers."
+},
+{
+"key": "4b17ef97375ef5c4",
+"voice": "f-uk",
+"text": "nourish"
 },
 {
 "key": "4b1cbe2e53663a46",
@@ -8195,6 +9130,11 @@
 "text": "taste"
 },
 {
+"key": "4b9b358c58e8e4a8",
+"voice": "m-uk",
+"text": "They dug a channel to bring water to the fields."
+},
+{
 "key": "4bb35364d49926c4",
 "voice": "f-uk",
 "text": "various"
@@ -8248,6 +9188,11 @@
 "key": "4c21a04dd5d875f5",
 "voice": "m-uk",
 "text": "Adam laughed."
+},
+{
+"key": "4c2507343478455b",
+"voice": "m-uk",
+"text": "Please forgive us."
 },
 {
 "key": "4c5808c0474c1144",
@@ -8360,6 +9305,11 @@
 "text": "Please shut the window — it's cold."
 },
 {
+"key": "4d528a1cd89d5bf0",
+"voice": "f-us",
+"text": "The tools are in the garden shed."
+},
+{
 "key": "4d55624af95d0411",
 "voice": "f-us",
 "text": "They never pretended that life was easy, but they never complained."
@@ -8378,6 +9328,11 @@
 "key": "4d6950c7879aa1b5",
 "voice": "f-uk",
 "text": "insert"
+},
+{
+"key": "4d707f8244f0812a",
+"voice": "f-us",
+"text": "bump"
 },
 {
 "key": "4d7142e02187711e",
@@ -8505,6 +9460,11 @@
 "text": "Lily smiled."
 },
 {
+"key": "4e6fc768ef027db3",
+"voice": "m-uk",
+"text": "He looked closely at the man's documents and realized they were fake."
+},
+{
 "key": "4e73f5b6bf71dc1a",
 "voice": "f-uk",
 "text": "The next day, Emily searched for information online."
@@ -8620,6 +9580,16 @@
 "text": "approach"
 },
 {
+"key": "4f4f7033b137f0c4",
+"voice": "f-us",
+"text": "She trimmed the edges of the sleeves and added new silk buttons."
+},
+{
+"key": "4f501231ec8e8667",
+"voice": "f-uk",
+"text": "The witch cursed the king and his family."
+},
+{
 "key": "4f516feb2a40717d",
 "voice": "f-uk",
 "text": "environment"
@@ -8668,6 +9638,11 @@
 "key": "4f9242049379251f",
 "voice": "f-us",
 "text": "symptom"
+},
+{
+"key": "4f9542e9e722e499",
+"voice": "f-uk",
+"text": "It must be a door.\""
 },
 {
 "key": "4f99ea1f414c7b48",
@@ -8755,6 +9730,11 @@
 "text": "schedule"
 },
 {
+"key": "503e445d7b8df06d",
+"voice": "f-uk",
+"text": "trim"
+},
+{
 "key": "50459b9c872a95fe",
 "voice": "f-us",
 "text": "Statistics show that many immigrants start their own businesses."
@@ -8785,6 +9765,11 @@
 "text": "deck"
 },
 {
+"key": "506b33bbf7eb654c",
+"voice": "m-uk",
+"text": "Emma took the dog home and called her Lucky."
+},
+{
 "key": "5071636a77d81241",
 "voice": "m-us",
 "text": "What is the best method for learning words?"
@@ -8803,6 +9788,11 @@
 "key": "50ae72d046ed3638",
 "voice": "f-uk",
 "text": "The room was full of laughter."
+},
+{
+"key": "50b875360c28e3a9",
+"voice": "f-uk",
+"text": "sensation"
 },
 {
 "key": "50be024636fa4d4d",
@@ -8838,6 +9828,11 @@
 "key": "516653241c36aa1a",
 "voice": "m-us",
 "text": "The bus fare is two dollars."
+},
+{
+"key": "51917ae302a48fe9",
+"voice": "m-us",
+"text": "But William also had a talent: he loved drawing machines."
 },
 {
 "key": "51ae054544c7e555",
@@ -8920,6 +9915,11 @@
 "text": "Thousands of people applied, but only six were chosen."
 },
 {
+"key": "526767508a228440",
+"voice": "f-uk",
+"text": "They had found an old publication in the town library: a book from 1820 that contained a strange riddle."
+},
+{
 "key": "52738e2a178303b0",
 "voice": "f-uk",
 "text": "resort"
@@ -8968,6 +9968,11 @@
 "key": "52bf1be79db4ea9c",
 "voice": "f-us",
 "text": "We organized a party for her birthday."
+},
+{
+"key": "52e85a45e9378341",
+"voice": "f-us",
+"text": "tremendous"
 },
 {
 "key": "52f11f7062485a6b",
@@ -9070,9 +10075,19 @@
 "text": "Is the fish still alive?"
 },
 {
+"key": "53aed41fe214090e",
+"voice": "m-uk",
+"text": "The airline compensated us for the delay."
+},
+{
 "key": "53bd89c121cb5b2a",
 "voice": "f-uk",
 "text": "cat"
+},
+{
+"key": "53d4c25c7a492d33",
+"voice": "f-us",
+"text": "chop"
 },
 {
 "key": "53f8919d916a688b",
@@ -9110,6 +10125,11 @@
 "text": "Let's sit in the shade of that tree."
 },
 {
+"key": "5484ba37344bc805",
+"voice": "f-us",
+"text": "decent"
+},
+{
 "key": "549455bbdcb40c38",
 "voice": "m-uk",
 "text": "\"I have a plan.\""
@@ -9125,6 +10145,16 @@
 "text": "He wrote a new piece of music and practised every night until he was exhausted."
 },
 {
+"key": "54b0bc5a25b79083",
+"voice": "m-uk",
+"text": "Oil floated on the surface of the water."
+},
+{
+"key": "54b9897aa516538b",
+"voice": "f-us",
+"text": "irritate"
+},
+{
 "key": "54bd7baf1d09dbdb",
 "voice": "f-us2",
 "text": "Great. Is there Wi-Fi in the room?"
@@ -9135,6 +10165,11 @@
 "text": "The school is two kilometers from my house."
 },
 {
+"key": "54ce266b6b41d864",
+"voice": "m-uk",
+"text": "We anchored the boat in a quiet bay."
+},
+{
 "key": "54d0da9d2da0e096",
 "voice": "f-uk",
 "text": "It still had snow on top, and some people were skiing there."
@@ -9143,6 +10178,11 @@
 "key": "54ee5da2b9776387",
 "voice": "m-us",
 "text": "Our aim is to finish the project by May."
+},
+{
+"key": "54f9e6c66cef8f13",
+"voice": "f-us",
+"text": "The interior of the church is beautiful."
 },
 {
 "key": "54faf0107f0cd055",
@@ -9240,6 +10280,11 @@
 "text": "confident"
 },
 {
+"key": "55d24e1d0523858f",
+"voice": "m-uk",
+"text": "Everyone said it was ridiculous to pay so much money for it."
+},
+{
 "key": "55e1f584960d04cb",
 "voice": "m-us",
 "text": "Mrs. Lee was very embarrassed."
@@ -9255,6 +10300,11 @@
 "text": "border"
 },
 {
+"key": "560cd8cd4b595fa9",
+"voice": "f-us",
+"text": "He went down the hill first, very fast."
+},
+{
 "key": "561ba717844baa70",
 "voice": "f-us",
 "text": "lay"
@@ -9263,6 +10313,11 @@
 "key": "561df05fc2177559",
 "voice": "f-uk",
 "text": "eventually"
+},
+{
+"key": "56201249cb8896b8",
+"voice": "f-uk",
+"text": "offend"
 },
 {
 "key": "56260363b627afac",
@@ -9293,6 +10348,16 @@
 "key": "564bbbf038fa30d1",
 "voice": "f-us",
 "text": "commit"
+},
+{
+"key": "5652bb230762274f",
+"voice": "f-uk",
+"text": "deceive"
+},
+{
+"key": "5655899cb5b24fec",
+"voice": "f-uk",
+"text": "fake"
 },
 {
 "key": "5657f7813d5f9b7d",
@@ -9445,9 +10510,24 @@
 "text": "public"
 },
 {
+"key": "5785a2a047bf627b",
+"voice": "f-us",
+"text": "The rain spoiled our picnic."
+},
+{
+"key": "57a8e3a0c4f6818c",
+"voice": "m-us",
+"text": "She's an ambitious young lawyer."
+},
+{
 "key": "57ac89d0142344a0",
 "voice": "f-uk",
 "text": "It took a lot of effort, but three years later, he finished his course with excellent grades."
+},
+{
+"key": "57b12f2954fb2ceb",
+"voice": "f-us",
+"text": "benefactor"
 },
 {
 "key": "57bd7aa75b46600a",
@@ -9660,6 +10740,11 @@
 "text": "The dog licked my hand with its tongue."
 },
 {
+"key": "59bf5b8f64d14578",
+"voice": "f-us",
+"text": "ashamed"
+},
+{
 "key": "59c218ba46af6557",
 "voice": "f-us",
 "text": "excite"
@@ -9800,9 +10885,24 @@
 "text": "real"
 },
 {
+"key": "5b0209d7042b4027",
+"voice": "f-uk",
+"text": "Her office is at the end of the corridor."
+},
+{
 "key": "5b06a68566b8ff18",
 "voice": "f-us",
 "text": "tail"
+},
+{
+"key": "5b0ff0ef68102fac",
+"voice": "m-us",
+"text": "John's son, William, helped his father from the age of eight."
+},
+{
+"key": "5b12671d264c13e3",
+"voice": "m-us",
+"text": "The house was surrounded by tall pines."
 },
 {
 "key": "5b2889ba7015850f",
@@ -9820,6 +10920,11 @@
 "text": "Can you swim?"
 },
 {
+"key": "5b394be4f8261bd2",
+"voice": "m-us",
+"text": "The families endured a long night outside in the cold."
+},
+{
 "key": "5b3aef6f370e82ca",
 "voice": "f-us",
 "text": "alarm"
@@ -9835,9 +10940,24 @@
 "text": "hook"
 },
 {
+"key": "5b49a83e1be7582d",
+"voice": "f-us",
+"text": "ax"
+},
+{
 "key": "5b693c307ccb7b5b",
 "voice": "f-us",
 "text": "She appears to be very tired today."
+},
+{
+"key": "5b6980b750c92881",
+"voice": "f-uk",
+"text": "blacksmith"
+},
+{
+"key": "5b9dfb536cf24075",
+"voice": "f-us",
+"text": "valentine"
 },
 {
 "key": "5ba8d94bfed2b8da",
@@ -9903,6 +11023,11 @@
 "key": "5bf40c971ff97c37",
 "voice": "f-uk",
 "text": "dormitory"
+},
+{
+"key": "5c0bf0b36d681345",
+"voice": "m-us",
+"text": "Her eight-year-old son Pablo was playing in his room."
 },
 {
 "key": "5c18a07fd2e7631b",
@@ -9990,6 +11115,11 @@
 "text": "He barked and ran around them until they walked back home together."
 },
 {
+"key": "5cbade570a7c9049",
+"voice": "m-us",
+"text": "Sometimes they had only a few pennies to buy bread."
+},
+{
 "key": "5ccbaec3a0572d49",
 "voice": "m-us",
 "text": "She even helped him calculate the times for each part of the concert."
@@ -10015,6 +11145,11 @@
 "text": "Every night, she waited for the comet."
 },
 {
+"key": "5d0c7aa1659410aa",
+"voice": "f-uk",
+"text": "bulletin"
+},
+{
 "key": "5d17ca0b206363d8",
 "voice": "f-us",
 "text": "cheat"
@@ -10023,6 +11158,11 @@
 "key": "5d1cc26df7299760",
 "voice": "f-uk",
 "text": "That year, Katya's father gave her a present: an old telescope."
+},
+{
+"key": "5d25cab96995b8ed",
+"voice": "f-uk",
+"text": "execute"
 },
 {
 "key": "5d27db5edcdddc70",
@@ -10063,6 +11203,11 @@
 "key": "5d74c3538b553527",
 "voice": "f-us",
 "text": "float"
+},
+{
+"key": "5d861d7a67931550",
+"voice": "f-us",
+"text": "offense"
 },
 {
 "key": "5da8439d604eff95",
@@ -10115,6 +11260,11 @@
 "text": "hang"
 },
 {
+"key": "5dd60ab473969899",
+"voice": "m-uk",
+"text": "Luka taught him how to grow wheat and vegetables and how to look after animals."
+},
+{
 "key": "5dd8e9069eb73ae4",
 "voice": "m-us",
 "text": "I've already eaten, thanks."
@@ -10128,6 +11278,11 @@
 "key": "5dfc5db39a20a345",
 "voice": "f-us",
 "text": "You must not drink alcohol before you drive."
+},
+{
+"key": "5e08608c458a4eae",
+"voice": "f-us",
+"text": "burst"
 },
 {
 "key": "5e19421e1808b1d8",
@@ -10148,6 +11303,16 @@
 "key": "5e41af342f2be509",
 "voice": "f-us",
 "text": "The town honored the firefighters with a special prize."
+},
+{
+"key": "5e4a75b803e4335e",
+"voice": "f-uk",
+"text": "channel"
+},
+{
+"key": "5e4acbe1a4e6cfde",
+"voice": "f-us",
+"text": "bark"
 },
 {
 "key": "5e4f2eb42aff26cc",
@@ -10178,6 +11343,11 @@
 "key": "5e8881b7f3c13595",
 "voice": "f-uk2",
 "text": "No, it isn't, but it's up to you."
+},
+{
+"key": "5e8b42c8cf83d74f",
+"voice": "f-uk",
+"text": "The cost must not exceed one thousand dollars."
 },
 {
 "key": "5e8b7a253f79bf2b",
@@ -10220,6 +11390,11 @@
 "text": "In December, he felt very sad."
 },
 {
+"key": "5ebf6e3e804604ba",
+"voice": "m-uk",
+"text": "When Daniel moved from the city to a small mountain village, the local people were not friendly."
+},
+{
 "key": "5ecd2c6d99904339",
 "voice": "f-us",
 "text": "Not very often."
@@ -10255,6 +11430,11 @@
 "text": "A week later, the teacher gave her an A."
 },
 {
+"key": "5f303771fd369529",
+"voice": "f-uk",
+"text": "The sun disappeared below the horizon."
+},
+{
 "key": "5f40097ec4f64d8b",
 "voice": "m-us2",
 "text": "Should I take them before or after meals?"
@@ -10280,9 +11460,19 @@
 "text": "There were too many people at the concert."
 },
 {
+"key": "5f7151695a0ed9d8",
+"voice": "f-uk",
+"text": "scar"
+},
+{
 "key": "5f79c08ffaa96ef3",
 "voice": "f-us",
 "text": "battery"
+},
+{
+"key": "5f7b137bec45f0d5",
+"voice": "f-us",
+"text": "grateful"
 },
 {
 "key": "5f8307704ef5c74a",
@@ -10310,6 +11500,11 @@
 "text": "No problem — I can help you."
 },
 {
+"key": "5fd5d1fcf5dc420d",
+"voice": "f-us",
+"text": "disgraceful"
+},
+{
 "key": "5fe2fe94b40e89c6",
 "voice": "f-us",
 "text": "found"
@@ -10333,6 +11528,11 @@
 "key": "601d86e079bbb7d5",
 "voice": "m-us",
 "text": "Tom forgave her, but he kept one memory from that day: he now checks the window and every pocket of his coat before he goes home."
+},
+{
+"key": "602af2a4a2debe1a",
+"voice": "f-us",
+"text": "underneath"
 },
 {
 "key": "602b7a37b710864d",
@@ -10390,6 +11590,11 @@
 "text": "There were twenty people at the meeting."
 },
 {
+"key": "60ad2857f904f048",
+"voice": "f-us",
+"text": "closet"
+},
+{
 "key": "60b1655decff767f",
 "voice": "m-us",
 "text": "\"I'm doing an experiment."
@@ -10403,6 +11608,11 @@
 "key": "60d177c46232ceab",
 "voice": "m-us",
 "text": "How the cat got onto the roof is a mystery."
+},
+{
+"key": "60e00dde7d6b9869",
+"voice": "f-uk",
+"text": "People said he buried a huge treasure somewhere near the town before he died."
 },
 {
 "key": "60e02d701155eacf",
@@ -10465,9 +11675,19 @@
 "text": "Emma's mother cried."
 },
 {
+"key": "619c9627a50323fb",
+"voice": "m-us",
+"text": "But the factory owner made an agreement with him."
+},
+{
 "key": "61ae6bda0ef525c2",
 "voice": "f-uk",
 "text": "inside"
+},
+{
+"key": "61ae7c12ab40c609",
+"voice": "f-uk",
+"text": "tease"
 },
 {
 "key": "61af7704b2c1064f",
@@ -10508,6 +11728,11 @@
 "key": "61dbf3cfb4eeb9f1",
 "voice": "m-uk",
 "text": "The younger prince believed in peace."
+},
+{
+"key": "61e8b0af0b688a84",
+"voice": "f-uk",
+"text": "His behaviour at the party was disgraceful."
 },
 {
 "key": "61ff92751a93a950",
@@ -10585,6 +11810,11 @@
 "text": "crash"
 },
 {
+"key": "629df4d8ce9e8e2d",
+"voice": "f-us",
+"text": "surface"
+},
+{
 "key": "62a070a17ff568ac",
 "voice": "f-uk",
 "text": "They argued for weeks."
@@ -10598,6 +11828,11 @@
 "key": "62a9132856dcf4b2",
 "voice": "f-us",
 "text": "sleep, slept, slept"
+},
+{
+"key": "62aaca8fe6868710",
+"voice": "f-us",
+"text": "bay"
 },
 {
 "key": "62bb37ba9a2263f7",
@@ -10735,6 +11970,11 @@
 "text": "He keeps his bike in the garage."
 },
 {
+"key": "63ce2551634e9ddc",
+"voice": "f-us",
+"text": "She ran up the stairs."
+},
+{
 "key": "63ce6a203faf62b0",
 "voice": "m-uk",
 "text": "Nina did not win the race — she finished last."
@@ -10870,6 +12110,11 @@
 "text": "schedule"
 },
 {
+"key": "64aefe5ca3ba626b",
+"voice": "f-uk",
+"text": "The city was founded by the Romans."
+},
+{
 "key": "64b3c144bca69297",
 "voice": "f-uk",
 "text": "They gave her a piece of fine cloth and new furniture for her home."
@@ -10925,6 +12170,21 @@
 "text": "landscape"
 },
 {
+"key": "64fcd99d2758f931",
+"voice": "f-uk",
+"text": "Smoke was rising from the chimney."
+},
+{
+"key": "64ff00c20521d757",
+"voice": "m-us",
+"text": "He forged a sword from a piece of iron."
+},
+{
+"key": "6505d589aca05b81",
+"voice": "f-uk",
+"text": "sew"
+},
+{
 "key": "6518795e81de2dd5",
 "voice": "f-us",
 "text": "blame"
@@ -10938,6 +12198,11 @@
 "key": "6533793e458c89ee",
 "voice": "m-uk",
 "text": "Have you ever met a famous person? — Yes, I met a famous actor at the airport last year."
+},
+{
+"key": "653508b770e68577",
+"voice": "m-uk",
+"text": "He came from a humble family of farmers."
 },
 {
 "key": "65393b6454cbacaf",
@@ -11105,9 +12370,19 @@
 "text": "If you don't study, you won't pass the exam."
 },
 {
+"key": "664b174b30fb8f9d",
+"voice": "f-us",
+"text": "chamber"
+},
+{
 "key": "664f959fccc3a507",
 "voice": "m-uk",
 "text": "I can't figure out how this machine works."
+},
+{
+"key": "66509a5e010f36b8",
+"voice": "f-us",
+"text": "drawer"
 },
 {
 "key": "6656e79e816b926e",
@@ -11155,6 +12430,11 @@
 "text": "For four years, their friendship was the most important thing in their lives."
 },
 {
+"key": "66ce82611ab3be70",
+"voice": "m-us",
+"text": "He rubbed his eyes and yawned."
+},
+{
 "key": "66e9a33177ea0fc3",
 "voice": "f-us",
 "text": "gulf"
@@ -11170,6 +12450,11 @@
 "text": "lend"
 },
 {
+"key": "66f9c9219679fe3d",
+"voice": "f-uk",
+"text": "She's very modest about her achievements."
+},
+{
 "key": "66fb98a5be4975eb",
 "voice": "m-us",
 "text": "But he was clever and somewhat funny, and he qualified for the final."
@@ -11183,6 +12468,11 @@
 "key": "670938b2f6479f7b",
 "voice": "f-uk",
 "text": "The moon was full and bright."
+},
+{
+"key": "6710c271b32b1120",
+"voice": "f-us",
+"text": "execute"
 },
 {
 "key": "671d4dd2a903ee30",
@@ -11225,6 +12515,11 @@
 "text": "rid"
 },
 {
+"key": "677ff765615c6f1b",
+"voice": "m-us",
+"text": "He never preached about success and always said, \"I'm just a blacksmith's son."
+},
+{
 "key": "6789b4732004e60c",
 "voice": "m-uk",
 "text": "There's a little bread and a few eggs, but there isn't enough milk for a cake."
@@ -11253,6 +12548,16 @@
 "key": "67b23e92056d4709",
 "voice": "m-uk",
 "text": "It's rather cold today."
+},
+{
+"key": "67bd231e1438880f",
+"voice": "f-us",
+"text": "sustain"
+},
+{
+"key": "67c38c2b34896af5",
+"voice": "m-uk",
+"text": "\"Our welcome was not satisfactory."
 },
 {
 "key": "67cbbc1367b62c0f",
@@ -11293,6 +12598,11 @@
 "key": "6826fe1068be3136",
 "voice": "f-us",
 "text": "She put the flowers in a big clay pot."
+},
+{
+"key": "6829ef8d513ce7c9",
+"voice": "f-uk",
+"text": "coal"
 },
 {
 "key": "6834134c4120db02",
@@ -11360,9 +12670,19 @@
 "text": "refrigerate"
 },
 {
+"key": "6916e0768cc8c10b",
+"voice": "f-uk",
+"text": "grateful"
+},
+{
 "key": "69239e7c7114b6d3",
 "voice": "f-us",
 "text": "can"
+},
+{
+"key": "69239eb7b307fb14",
+"voice": "m-uk",
+"text": "Later, the police caught him in another village."
 },
 {
 "key": "6924c80f6b6f23a2",
@@ -11455,9 +12775,19 @@
 "text": "celebrate"
 },
 {
+"key": "69c2b813211de261",
+"voice": "f-us",
+"text": "encounter"
+},
+{
 "key": "69d2902c705a2719",
 "voice": "f-us",
 "text": "He was a quiet, passive man."
+},
+{
+"key": "69d73bf823603412",
+"voice": "m-us",
+"text": "Take a flashlight — it's dark outside."
 },
 {
 "key": "69d76d10664a2169",
@@ -11525,6 +12855,11 @@
 "text": "The teacher tries to engage all the students."
 },
 {
+"key": "6a7d3ff3b9762303",
+"voice": "f-us",
+"text": "Grandpa looked upwards at her and his eyes filled with tears."
+},
+{
 "key": "6a81c2479705f0d8",
 "voice": "f-us",
 "text": "fear"
@@ -11555,6 +12890,11 @@
 "text": "\"My name is Grace,\" it said."
 },
 {
+"key": "6aae510139e15c23",
+"voice": "f-uk",
+"text": "\"Ancient builders engineered everything perfectly,\" she said."
+},
+{
 "key": "6ab5d0a05f940ebc",
 "voice": "f-uk",
 "text": "million"
@@ -11563,6 +12903,11 @@
 "key": "6ac7133be097a3f0",
 "voice": "f-us",
 "text": "grind, ground, ground"
+},
+{
+"key": "6ac935c73377b5b5",
+"voice": "m-us",
+"text": "\"This boy's ideas exceed anything my engineers have done,\" he said."
 },
 {
 "key": "6acfd95af9111369",
@@ -11598,6 +12943,16 @@
 "key": "6b14e0d06f3f3a67",
 "voice": "m-us",
 "text": "Ella found her there."
+},
+{
+"key": "6b1599bdcd199207",
+"voice": "m-uk",
+"text": "He deceived everyone with his lies."
+},
+{
+"key": "6b211746b0c3cc09",
+"voice": "f-uk",
+"text": "lodge"
 },
 {
 "key": "6b36a5cfbff6058a",
@@ -11638,6 +12993,11 @@
 "key": "6b668b02ce68e79a",
 "voice": "f-uk",
 "text": "smart"
+},
+{
+"key": "6b6d5fcdb520f563",
+"voice": "f-us",
+"text": "stir"
 },
 {
 "key": "6b70b6f3472a6d93",
@@ -11778,6 +13138,11 @@
 "key": "6c9276a981b531af",
 "voice": "f-uk",
 "text": "heart"
+},
+{
+"key": "6c938a4f3aac10d2",
+"voice": "f-uk",
+"text": "Under the willow, they found a rotten wooden box."
 },
 {
 "key": "6c94b19381871437",
@@ -11925,6 +13290,11 @@
 "text": "Wait for me — I'll be back in five minutes!"
 },
 {
+"key": "6e3cf778fe491046",
+"voice": "m-us",
+"text": "They endured a long, cold winter."
+},
+{
 "key": "6e448c1436fc084b",
 "voice": "f-us",
 "text": "philosophy"
@@ -11938,6 +13308,11 @@
 "key": "6e5837a04a5adc04",
 "voice": "m-us",
 "text": "\"But he's the only one who was inside the shop."
+},
+{
+"key": "6e5b5f22e7021e92",
+"voice": "f-uk",
+"text": "A neighbour alerted the police."
 },
 {
 "key": "6e7bc992a70a8eff",
@@ -12003,6 +13378,11 @@
 "key": "6ee82e1f6b495457",
 "voice": "f-us",
 "text": "confidence"
+},
+{
+"key": "6ee94c2317fa292c",
+"voice": "f-us",
+"text": "She went to the shed and came back with an old wooden box."
 },
 {
 "key": "6eef939594816964",
@@ -12080,9 +13460,19 @@
 "text": "bad"
 },
 {
+"key": "6f539b6730b9e90b",
+"voice": "m-uk",
+"text": "They went on an expedition to the Arctic."
+},
+{
 "key": "6f564830ead7d9e4",
 "voice": "f-us",
 "text": "band"
+},
+{
+"key": "6f5ae03a9705dc83",
+"voice": "f-us",
+"text": "coal"
 },
 {
 "key": "6f5b48e7442d961f",
@@ -12120,6 +13510,11 @@
 "text": "How do you celebrate your birthday?"
 },
 {
+"key": "6fa926715eaba81b",
+"voice": "f-us",
+"text": "Today is our tenth wedding anniversary."
+},
+{
 "key": "6fd05c97fdd4baa9",
 "voice": "f-us",
 "text": "work"
@@ -12145,6 +13540,11 @@
 "text": "Their house stands on a hill."
 },
 {
+"key": "70022e12d721e571",
+"voice": "f-uk",
+"text": "The police found fake money in his car."
+},
+{
 "key": "700466b52c9381ae",
 "voice": "f-uk",
 "text": "Read the instructions before you start."
@@ -12158,6 +13558,11 @@
 "key": "705ca0368fe0309c",
 "voice": "f-uk",
 "text": "The doctor quickly located the problem: there was a small bleed in the man's brain."
+},
+{
+"key": "705d5bf5bd558750",
+"voice": "f-us",
+"text": "In the morning, the whole town was white."
 },
 {
 "key": "705ef00a8ba1aeaf",
@@ -12175,6 +13580,16 @@
 "text": "several"
 },
 {
+"key": "707bd967b946a381",
+"voice": "f-uk",
+"text": "inhabitant"
+},
+{
+"key": "707cc234f8ff430f",
+"voice": "f-us",
+"text": "\"You're a decent person, Ellie."
+},
+{
 "key": "708acb16694b8c62",
 "voice": "f-us",
 "text": "embarrass"
@@ -12183,6 +13598,11 @@
 "key": "708e5504dc8c6945",
 "voice": "m-us",
 "text": "A bird was sitting on a branch."
+},
+{
+"key": "70919d45ef3a57eb",
+"voice": "m-us",
+"text": "His greatest satisfaction was the school he built in his home village, which still occupies the place where his father's workshop once stood."
 },
 {
 "key": "7096a7ec3236e51a",
@@ -12235,6 +13655,11 @@
 "text": "The vegetables had a flavor that you can't find in a supermarket."
 },
 {
+"key": "710c6672f7a9b723",
+"voice": "f-us",
+"text": "It took an hour, and she was exhausted."
+},
+{
 "key": "7111f92388f654be",
 "voice": "f-us",
 "text": "silent"
@@ -12280,6 +13705,11 @@
 "text": "\"The sea is beautiful,\" he tells them, \"but it is never without threat.\""
 },
 {
+"key": "7159ade62d96a6c1",
+"voice": "f-uk",
+"text": "forge"
+},
+{
 "key": "715a827d013c4a2b",
 "voice": "f-us",
 "text": "judge"
@@ -12298,6 +13728,16 @@
 "key": "716ade113279db2f",
 "voice": "f-uk",
 "text": "tobacco"
+},
+{
+"key": "716cac96832cfbfa",
+"voice": "m-uk",
+"text": "The blacksmith made shoes for the horses."
+},
+{
+"key": "717694b6ba605cdc",
+"voice": "f-us",
+"text": "Now, every summer, we sit together and she teaches me, one stitch at a time."
 },
 {
 "key": "717b44f07e36cee2",
@@ -12370,6 +13810,11 @@
 "text": "Today, the street is clean, and the group has developed into a club with sixty members."
 },
 {
+"key": "722e7eee4f5bfe6e",
+"voice": "f-us",
+"text": "drip"
+},
+{
 "key": "723ee4ff957257ad",
 "voice": "f-uk",
 "text": "A month later, an answer came."
@@ -12383,6 +13828,11 @@
 "key": "7254947fde7ee75f",
 "voice": "m-uk",
 "text": "Elena and her friends shot arrows from secure places in the rocks."
+},
+{
+"key": "726d8fcc0598f168",
+"voice": "f-uk",
+"text": "afterlife"
 },
 {
 "key": "727c4d24fb0ed0a2",
@@ -12443,6 +13893,11 @@
 "key": "7301f1310d4b9122",
 "voice": "f-us2",
 "text": "It was delicious, thank you. Is service included?"
+},
+{
+"key": "7304ec359843218c",
+"voice": "f-us",
+"text": "thread"
 },
 {
 "key": "73063275e7861d92",
@@ -12655,6 +14110,11 @@
 "text": "thief"
 },
 {
+"key": "74d06f21971dea8f",
+"voice": "f-us",
+"text": "We made a complaint about the noise."
+},
+{
 "key": "74d4ef525687c2ed",
 "voice": "m-uk",
 "text": "\"It's a deal,\" Leo laughed, \"but this time, we won't leave the group!"
@@ -12693,6 +14153,11 @@
 "key": "753ef90cc9db1742",
 "voice": "m-us",
 "text": "Autumn is my favourite season."
+},
+{
+"key": "754022c7034dec3b",
+"voice": "f-us",
+"text": "\"I already have the perfect dress,\" she said."
 },
 {
 "key": "754a6fc790b7a1f5",
@@ -12745,6 +14210,11 @@
 "text": "He found the sheep in a separate field near an old building site."
 },
 {
+"key": "75c323ddc402b06f",
+"voice": "f-us",
+"text": "agreement"
+},
+{
 "key": "75c3ae3906a0d1c8",
 "voice": "m-us",
 "text": "Nina realized that this simple ability — to wait and to share — was more important than any chemistry."
@@ -12753,6 +14223,11 @@
 "key": "75ca495d571f15a0",
 "voice": "m-uk",
 "text": "\"Never stop asking questions,\" Sarah tells her students."
+},
+{
+"key": "75dd6b0963264222",
+"voice": "f-us",
+"text": "They had to abandon the car in the snow."
 },
 {
 "key": "75e369b5d1ad20f7",
@@ -12805,6 +14280,11 @@
 "text": "responsible"
 },
 {
+"key": "763f07ab9bb20d08",
+"voice": "f-uk",
+"text": "disguise"
+},
+{
 "key": "7644def3d6d001de",
 "voice": "f-uk",
 "text": "tea"
@@ -12813,6 +14293,11 @@
 "key": "764a7a2ff4a14dc8",
 "voice": "f-us",
 "text": "declare"
+},
+{
+"key": "7650bcd13cf3797e",
+"voice": "m-us",
+"text": "The family occupies the top floor of the house."
 },
 {
 "key": "765a6066ff8ea271",
@@ -12875,9 +14360,29 @@
 "text": "completely"
 },
 {
+"key": "76cfb267f921361e",
+"voice": "m-uk",
+"text": "Some people had made complaints that a deaf dog shouldn't join an expedition, but now nobody did."
+},
+{
 "key": "76eef8029546b728",
 "voice": "f-us",
 "text": "The cake was in the shape of a heart."
+},
+{
+"key": "7709cb0bc5594780",
+"voice": "f-us",
+"text": "discourage"
+},
+{
+"key": "771350032a8d0e09",
+"voice": "f-uk",
+"text": "chin"
+},
+{
+"key": "7722550018209ad4",
+"voice": "f-uk",
+"text": "elbow"
 },
 {
 "key": "77276b5b7212ec4a",
@@ -13025,6 +14530,11 @@
 "text": "mention"
 },
 {
+"key": "7888b7fee377f54a",
+"voice": "m-uk",
+"text": "\"Her other senses are fine,\" she said."
+},
+{
 "key": "78914332311e6278",
 "voice": "f-uk",
 "text": "dinosaur"
@@ -13125,6 +14635,11 @@
 "text": "\"We own our instruments,\" she said."
 },
 {
+"key": "79415f18b81da112",
+"voice": "m-us",
+"text": "Pablo still talks about that night."
+},
+{
 "key": "79470f7cc010a95b",
 "voice": "f-uk",
 "text": "instruct"
@@ -13175,6 +14690,11 @@
 "text": "Hang your coat on the hook by the door."
 },
 {
+"key": "79d4393660872939",
+"voice": "f-us",
+"text": "\"I'll repair it myself,\" Grandma said."
+},
+{
 "key": "79d592a487f7d5bc",
 "voice": "f-uk",
 "text": "actual"
@@ -13223,6 +14743,11 @@
 "key": "7a26910f1e49c295",
 "voice": "f-us",
 "text": "alone"
+},
+{
+"key": "7a284e529a718c13",
+"voice": "f-us",
+"text": "The next morning, I asked."
 },
 {
 "key": "7a3bde6bfe9ad04c",
@@ -13305,6 +14830,11 @@
 "text": "art"
 },
 {
+"key": "7acb974ac4e23f9c",
+"voice": "f-us",
+"text": "pine"
+},
+{
 "key": "7ad30441c0a8054f",
 "voice": "m-us",
 "text": "The film we saw last night was amazing."
@@ -13385,6 +14915,11 @@
 "text": "weight"
 },
 {
+"key": "7ba5a29a49591616",
+"voice": "f-us",
+"text": "He looked at his work with satisfaction."
+},
+{
 "key": "7bbee47c18f164f8",
 "voice": "m-us",
 "text": "Ten-year-old Lily hated housework."
@@ -13443,6 +14978,11 @@
 "key": "7c29844f00524221",
 "voice": "f-uk",
 "text": "preserve"
+},
+{
+"key": "7c34039e7e8b3a49",
+"voice": "f-us",
+"text": "couch"
 },
 {
 "key": "7c3bb62fcb873117",
@@ -13550,6 +15090,11 @@
 "text": "passive"
 },
 {
+"key": "7d2425a9f3d71e69",
+"voice": "f-uk",
+"text": "surface"
+},
+{
 "key": "7d2931ac8aecfca3",
 "voice": "f-us",
 "text": "The parcel will arrive within three days."
@@ -13585,6 +15130,11 @@
 "text": "The bank granted him a loan."
 },
 {
+"key": "7d4ca88a1812f100",
+"voice": "f-us",
+"text": "She studied archaeology at Cambridge."
+},
+{
 "key": "7d77fcfa5b97929a",
 "voice": "f-uk",
 "text": "never"
@@ -13595,6 +15145,11 @@
 "text": "breakfast"
 },
 {
+"key": "7d9508a0a172c1d1",
+"voice": "f-us",
+"text": "horizon"
+},
+{
 "key": "7d9b5a73a8d89b38",
 "voice": "f-us",
 "text": "convert"
@@ -13603,6 +15158,21 @@
 "key": "7da9f48736d145da",
 "voice": "f-uk",
 "text": "We should protect nature."
+},
+{
+"key": "7dacd069efce5df7",
+"voice": "f-uk",
+"text": "Nobody starves — the hunt ends with a big party where hot soup nourishes everyone after a cold night."
+},
+{
+"key": "7daf7be257b1bb9b",
+"voice": "f-uk",
+"text": "penny"
+},
+{
+"key": "7dba99f48d2c7c1a",
+"voice": "f-uk",
+"text": "mayor"
 },
 {
 "key": "7dbe779bf1fba684",
@@ -13623,6 +15193,16 @@
 "key": "7dcec1fd8fa40a9a",
 "voice": "f-us",
 "text": "opinion"
+},
+{
+"key": "7ddd44e9cd885007",
+"voice": "m-uk",
+"text": "They stayed in a small hut in the mountains."
+},
+{
+"key": "7dde0fc8a5cfcd52",
+"voice": "f-uk",
+"text": "carpenter"
 },
 {
 "key": "7de1af12e3238ddf",
@@ -13675,6 +15255,11 @@
 "text": "response"
 },
 {
+"key": "7e51a439d4460937",
+"voice": "m-uk",
+"text": "His loud music really irritates me."
+},
+{
 "key": "7e5565aa87335b7b",
 "voice": "m-us",
 "text": "\"But our most important attribute is the same."
@@ -13700,6 +15285,11 @@
 "text": "strength"
 },
 {
+"key": "7e89bbb6432d163d",
+"voice": "f-uk",
+"text": "For more than a century, archaeologists believed they knew everything about the small pyramid near the village of Kerma."
+},
+{
 "key": "7e9675f4cd4d931c",
 "voice": "f-us",
 "text": "say, said, said"
@@ -13720,6 +15310,11 @@
 "text": "save"
 },
 {
+"key": "7eb47878d88d9825",
+"voice": "f-uk",
+"text": "deaf"
+},
+{
 "key": "7eb53de358b0a916",
 "voice": "f-uk",
 "text": "effective"
@@ -13728,6 +15323,11 @@
 "key": "7eb88c4ee94b80e6",
 "voice": "m-uk",
 "text": "The children came home covered in mud."
+},
+{
+"key": "7ec3b96913fc4647",
+"voice": "m-uk",
+"text": "The students were very enthusiastic about the trip."
 },
 {
 "key": "7ec671c147b2461a",
@@ -13773,6 +15373,11 @@
 "key": "7f01a0b0816a1321",
 "voice": "f-uk",
 "text": "The crew of the plane were very friendly."
+},
+{
+"key": "7f052cc037fd99c5",
+"voice": "f-uk",
+"text": "sole"
 },
 {
 "key": "7f2b6b9657cbb0f0",
@@ -13860,6 +15465,11 @@
 "text": "Sam wanted to preserve the documents as proof for a newspaper story."
 },
 {
+"key": "7fc9083fa1f61788",
+"voice": "m-uk",
+"text": "But Daniel had seen this kind of trick before."
+},
+{
 "key": "7fcdb9382fa5d4e2",
 "voice": "f-us",
 "text": "He used old materials — glass, metal, wood and plastic — to create beautiful sculptures."
@@ -13925,6 +15535,11 @@
 "text": "\"I will chase you."
 },
 {
+"key": "8090b293979752ad",
+"voice": "f-uk",
+"text": "For three hundred years, the inhabitants of the small fishing town of Port Raven have told a story about a wicked pirate called Black Tom."
+},
+{
 "key": "8091e6c63565c8e9",
 "voice": "m-us",
 "text": "She lives alone in a small flat."
@@ -13960,6 +15575,11 @@
 "text": "also"
 },
 {
+"key": "80eb73896d5f0d25",
+"voice": "f-us",
+"text": "pirate"
+},
+{
 "key": "80f8806db3593c4f",
 "voice": "f-uk",
 "text": "load"
@@ -13968,6 +15588,11 @@
 "key": "8104e31648922cbd",
 "voice": "f-uk",
 "text": "quantity"
+},
+{
+"key": "81060a30d088a687",
+"voice": "f-uk",
+"text": "closet"
 },
 {
 "key": "811aa4b4ba2cf6ef",
@@ -13993,6 +15618,11 @@
 "key": "812d3d7efa2e99a3",
 "voice": "m-us",
 "text": "Cut the paper into thin strips."
+},
+{
+"key": "8151f554537a9b21",
+"voice": "m-us",
+"text": "If the pain persists, see a doctor."
 },
 {
 "key": "81619d934f1549bb",
@@ -14043,6 +15673,16 @@
 "key": "81e280d4ddd1985d",
 "voice": "f-uk",
 "text": "expensive"
+},
+{
+"key": "81e64c230a990433",
+"voice": "m-uk",
+"text": "She followed the smell for two kilometres and found the man in a small cave, where he had taken refuge with a broken leg."
+},
+{
+"key": "81ec739aab87346e",
+"voice": "m-us",
+"text": "He had a small cut on his head, but his skull was fine."
 },
 {
 "key": "81ed2143f6459da6",
@@ -14150,6 +15790,11 @@
 "text": "Clara considered the problem carefully."
 },
 {
+"key": "82f9fd9ea3d98043",
+"voice": "m-uk",
+"text": "The vet said our cat is overweight."
+},
+{
 "key": "82fee72564068797",
 "voice": "f-us",
 "text": "shine"
@@ -14160,9 +15805,24 @@
 "text": "Marco would lead the business, and his father would teach young glassmakers."
 },
 {
+"key": "8300402a53ed1189",
+"voice": "f-uk",
+"text": "brilliant"
+},
+{
 "key": "83167436ac08d490",
 "voice": "f-uk",
 "text": "proof"
+},
+{
+"key": "8319553ba5970dd7",
+"voice": "f-uk",
+"text": "humble"
+},
+{
+"key": "831a0c9c0511d38b",
+"voice": "f-us",
+"text": "He hid her toys, made jokes about her loose front tooth and laughed when she got irritated."
 },
 {
 "key": "831a13dc56dbaf5d",
@@ -14275,6 +15935,11 @@
 "text": "We'll go to the beach unless it rains."
 },
 {
+"key": "8414f8502b1b1c0a",
+"voice": "f-us",
+"text": "worm"
+},
+{
 "key": "8414ff66e6773ab2",
 "voice": "m-uk",
 "text": "\"The town has a new policy,\" he said."
@@ -14300,6 +15965,11 @@
 "text": "engage"
 },
 {
+"key": "84376a22ef006b17",
+"voice": "f-uk",
+"text": "The teenagers laughed."
+},
+{
 "key": "843ef0796c1fecea",
 "voice": "f-us",
 "text": "Paella is a traditional Spanish dish."
@@ -14308,6 +15978,11 @@
 "key": "84588fa793e77384",
 "voice": "f-uk",
 "text": "crew"
+},
+{
+"key": "8475ad858538fd56",
+"voice": "f-uk",
+"text": "polish"
 },
 {
 "key": "847d85f9a907d517",
@@ -14323,6 +15998,11 @@
 "key": "84a9bc1ad6492f7f",
 "voice": "f-uk",
 "text": "mystery"
+},
+{
+"key": "84ad4ee6be6c9d33",
+"voice": "f-us",
+"text": "He polished the old table he had made for their wedding and fixed its broken leg."
 },
 {
 "key": "84b27f2ef647aa07",
@@ -14350,6 +16030,11 @@
 "text": "suggest"
 },
 {
+"key": "84cc7e2af6f70cf9",
+"voice": "f-uk",
+"text": "mill"
+},
+{
 "key": "84dcd8bc68c9403c",
 "voice": "f-uk",
 "text": "Halfway up, the weather changed."
@@ -14360,6 +16045,11 @@
 "text": "speak, spoke, spoken"
 },
 {
+"key": "84e7be1987d7adb6",
+"voice": "f-us",
+"text": "occupy"
+},
+{
 "key": "84ec501861849ba4",
 "voice": "f-us",
 "text": "miner"
@@ -14368,6 +16058,11 @@
 "key": "84ec7bd695bdd70c",
 "voice": "f-uk",
 "text": "ahead"
+},
+{
+"key": "84fc253f05ca4b30",
+"voice": "f-us",
+"text": "The carpenter made us a new kitchen table."
 },
 {
 "key": "8500ed3a25922941",
@@ -14383,6 +16078,11 @@
 "key": "850f092883ba1a81",
 "voice": "m-uk",
 "text": "I don't have enough money for a new car."
+},
+{
+"key": "851ac2ee99dde93c",
+"voice": "f-us",
+"text": "rear"
 },
 {
 "key": "851b2756f9f90aca",
@@ -14445,6 +16145,11 @@
 "text": "guarantee"
 },
 {
+"key": "859271b22239df06",
+"voice": "f-uk",
+"text": "wicked"
+},
+{
 "key": "8596599c46281248",
 "voice": "f-us",
 "text": "sensitive"
@@ -14453,6 +16158,11 @@
 "key": "85b1967211418809",
 "voice": "f-uk",
 "text": "condition"
+},
+{
+"key": "85bab615d7a34b4f",
+"voice": "m-us",
+"text": "He polished his shoes before the interview."
 },
 {
 "key": "85c87a6ba949a429",
@@ -14465,6 +16175,11 @@
 "text": "He gave up smoking last year."
 },
 {
+"key": "85d6d32030702f4f",
+"voice": "f-uk",
+"text": "ax"
+},
+{
 "key": "85d7cfd97516c640",
 "voice": "f-uk",
 "text": "disaster"
@@ -14473,6 +16188,11 @@
 "key": "85f13dbc81faa7bf",
 "voice": "f-us",
 "text": "secure"
+},
+{
+"key": "85f95df6f31746a7",
+"voice": "f-us",
+"text": "She persisted through the deep snow, pulled her own sled to her brother and helped him onto it."
 },
 {
 "key": "85fb53ee6a1ec725",
@@ -14488,6 +16208,11 @@
 "key": "8618d4d1dd1513ec",
 "voice": "f-uk",
 "text": "My goal is to speak English fluently."
+},
+{
+"key": "861d5e632e77d3f9",
+"voice": "f-us",
+"text": "royal"
 },
 {
 "key": "861e9edacda83dae",
@@ -14520,6 +16245,11 @@
 "text": "silent"
 },
 {
+"key": "864aedcb63e71200",
+"voice": "f-us",
+"text": "wheat"
+},
+{
 "key": "86542879367765df",
 "voice": "f-us",
 "text": "Jake pulled him onto the board, and slowly they got back to the beach through a narrow gap between the rocks."
@@ -14538,6 +16268,11 @@
 "key": "866f04ae72e51547",
 "voice": "f-uk",
 "text": "We bought new furniture for the living room."
+},
+{
+"key": "86814dde45030d28",
+"voice": "m-us",
+"text": "It was a quiet Sunday evening in the eastern district of the city."
 },
 {
 "key": "86941ba6ef31941b",
@@ -14600,9 +16335,19 @@
 "text": "The river is very wide here."
 },
 {
+"key": "871b270af1712db9",
+"voice": "m-uk",
+"text": "Water was dripping from the roof."
+},
+{
 "key": "87279682febe9cbc",
 "voice": "f-uk",
 "text": "tear"
+},
+{
+"key": "8753e1afe3514188",
+"voice": "f-uk",
+"text": "overnight"
 },
 {
 "key": "87575d6aa1f08432",
@@ -14690,9 +16435,19 @@
 "text": "It had saved his life in a storm many years ago, when he broke a bone in his leg and was barely alive."
 },
 {
+"key": "87ab1fb28308a678",
+"voice": "f-uk",
+"text": "\"Where the dead sleep and the old tree weeps, my gold you'll keep,\" it said."
+},
+{
 "key": "87ad9c021aa5f554",
 "voice": "f-us",
 "text": "Have a good trip!"
+},
+{
+"key": "87b64c363b5f0bc4",
+"voice": "f-uk",
+"text": "alert"
 },
 {
 "key": "87b73887326cf2db",
@@ -14800,6 +16555,11 @@
 "text": "spin"
 },
 {
+"key": "8877c62f54b02339",
+"voice": "m-uk",
+"text": "\"I listen for her, and she sees for me."
+},
+{
 "key": "887a5c3f0ffc67c2",
 "voice": "f-us",
 "text": "bone"
@@ -14823,6 +16583,11 @@
 "key": "888f2dfd2138dcf6",
 "voice": "f-uk",
 "text": "flavor"
+},
+{
+"key": "88907d810f41d0ba",
+"voice": "f-uk",
+"text": "It was the tomb of a queen who had founded a powerful kingdom three thousand years ago."
 },
 {
 "key": "88b0abf2e63f8673",
@@ -14913,6 +16678,11 @@
 "key": "895ca4a1d21ba63d",
 "voice": "m-uk",
 "text": "Halley's Comet comes back every 76 years."
+},
+{
+"key": "897012c9e429543d",
+"voice": "f-us",
+"text": "satisfaction"
 },
 {
 "key": "8972c3953240b1d2",
@@ -15025,6 +16795,11 @@
 "text": "The long journey exhausted us."
 },
 {
+"key": "8a09d3b31899f156",
+"voice": "f-uk",
+"text": "ambitious"
+},
+{
 "key": "8a0e4b2456ca0d36",
 "voice": "f-uk",
 "text": "Visitors stop and look at it for a long time."
@@ -15060,6 +16835,16 @@
 "text": "One evening, she found a strange old book in a local store."
 },
 {
+"key": "8aad992a821a5afd",
+"voice": "m-uk",
+"text": "One winter morning, a fisherman brought her a dog he had found on the beach near the bay."
+},
+{
+"key": "8ab0fc1f64972468",
+"voice": "f-us",
+"text": "He felt a strange sensation when he looked at his sister — not irritation, but respect."
+},
+{
 "key": "8ab8b3449e3f516f",
 "voice": "f-uk",
 "text": "different"
@@ -15073,6 +16858,11 @@
 "key": "8ac8376d65d39320",
 "voice": "f-uk",
 "text": "customer"
+},
+{
+"key": "8acb46636532b4b4",
+"voice": "f-uk",
+"text": "bump"
 },
 {
 "key": "8addcd82441626ba",
@@ -15103,6 +16893,11 @@
 "key": "8b103861cba4aa0f",
 "voice": "f-uk",
 "text": "practical"
+},
+{
+"key": "8b19969596ce40f5",
+"voice": "f-us",
+"text": "fancy"
 },
 {
 "key": "8b2b1d3fd913a0c1",
@@ -15145,6 +16940,11 @@
 "text": "rabbit"
 },
 {
+"key": "8b96eae41a5ec1b0",
+"voice": "f-uk",
+"text": "couch"
+},
+{
 "key": "8b9ea271faa4893f",
 "voice": "f-us",
 "text": "hidden"
@@ -15165,6 +16965,11 @@
 "text": "capital"
 },
 {
+"key": "8bacf92b0e82a81b",
+"voice": "m-us",
+"text": "Driving without a license is an offense."
+},
+{
 "key": "8bbfb1511f8637ee",
 "voice": "f-uk2",
 "text": "Nice to meet you too. Where are you from?"
@@ -15173,6 +16978,11 @@
 "key": "8bc307532e1d5f1f",
 "voice": "f-us",
 "text": "candle"
+},
+{
+"key": "8bc7e3d3411339e1",
+"voice": "m-us",
+"text": "At night, by candlelight, he designed new tools that could make his father's work easier."
 },
 {
 "key": "8be1fd6d55d46478",
@@ -15310,6 +17120,11 @@
 "text": "She wrote a letter to the sky: \"Little comet, please come back."
 },
 {
+"key": "8cb7a0ede4c7677e",
+"voice": "f-us",
+"text": "newcomer"
+},
+{
 "key": "8cb9be27a52bfcf7",
 "voice": "f-uk",
 "text": "If the weather is good on Saturday, we'll have a picnic by the lake. If not, we'll go to the cinema."
@@ -15325,6 +17140,11 @@
 "text": "We had to wait two hours at the airport."
 },
 {
+"key": "8cf5b4d60c929d0b",
+"voice": "f-us",
+"text": "blacksmith"
+},
+{
 "key": "8cfb9800a56f8c91",
 "voice": "f-us",
 "text": "contribute"
@@ -15333,6 +17153,11 @@
 "key": "8cfc602c72e99189",
 "voice": "f-uk",
 "text": "week"
+},
+{
+"key": "8cfed9b921b5e6c3",
+"voice": "m-uk",
+"text": "While everyone looked at the horizon, Lucky put her nose to the ground."
 },
 {
 "key": "8d02d6267951f578",
@@ -15348,6 +17173,11 @@
 "key": "8d3f2890f443915c",
 "voice": "f-uk",
 "text": "Drinking tea at five is a daily ritual in our family."
+},
+{
+"key": "8d465b0a4eddb8ac",
+"voice": "f-uk",
+"text": "\"Every object tells a story."
 },
 {
 "key": "8d4ad2bbf06025bd",
@@ -15400,6 +17230,11 @@
 "text": "hurricane"
 },
 {
+"key": "8d8362a76dfc77ad",
+"voice": "m-uk",
+"text": "The cat disappeared down a dark alley."
+},
+{
 "key": "8d88fc9ce329cc32",
 "voice": "m-uk",
 "text": "Then Mia remembered a specific fact from a book: in the evening, the sun goes down in the west, and the town was west of the rocks."
@@ -15408,6 +17243,16 @@
 "key": "8d9568a0951cc4ff",
 "voice": "f-uk",
 "text": "But on a small blue planet called Earth, a girl was looking up at the sky through a telescope."
+},
+{
+"key": "8d9984a06a3f9ffb",
+"voice": "m-us",
+"text": "We had dinner at a fancy restaurant."
+},
+{
+"key": "8dbfb86d9da5ddd5",
+"voice": "f-us",
+"text": "I'm sorry if I offended you."
 },
 {
 "key": "8dc2730042d9c053",
@@ -15463,6 +17308,11 @@
 "key": "8e00e546577a9b85",
 "voice": "f-us",
 "text": "fight, fought, fought"
+},
+{
+"key": "8e027269eca13243",
+"voice": "f-us",
+"text": "The children finished their chores quickly and ran to the big hill behind the pine forest with their sleds."
 },
 {
 "key": "8e0d7867e43eab19",
@@ -15580,6 +17430,11 @@
 "text": "disturb"
 },
 {
+"key": "8eccfdc830fa946a",
+"voice": "f-us",
+"text": "Parents play an important role in a child's education."
+},
+{
 "key": "8ecd839f7aa580ad",
 "voice": "f-uk",
 "text": "Two soldiers guard the gate day and night."
@@ -15605,6 +17460,11 @@
 "text": "How much is that?"
 },
 {
+"key": "8ee4e207fd2fdc75",
+"voice": "f-uk",
+"text": "persist"
+},
+{
 "key": "8eebe149d7b8024a",
 "voice": "f-us",
 "text": "consume"
@@ -15613,6 +17473,11 @@
 "key": "8eedac9a40a03d07",
 "voice": "m-uk",
 "text": "There was a strange cloud in the sky."
+},
+{
+"key": "8f004fb97b461ac4",
+"voice": "f-us",
+"text": "bulletin"
 },
 {
 "key": "8f079c9a59a11c46",
@@ -15643,6 +17508,11 @@
 "key": "8f32b92ed578df14",
 "voice": "f-us",
 "text": "I only speak elementary French."
+},
+{
+"key": "8f3dfd4b9ebb9803",
+"voice": "f-us",
+"text": "upwards"
 },
 {
 "key": "8f400dd190351f57",
@@ -15740,6 +17610,11 @@
 "text": "She was anxious about her first day at work."
 },
 {
+"key": "8fd5c93fd568f35f",
+"voice": "f-us",
+"text": "offend"
+},
+{
 "key": "8ffbb8bbc97a543a",
 "voice": "f-uk",
 "text": "One day, he felt a pain in his chest and went to see a doctor."
@@ -15813,6 +17688,11 @@
 "key": "908384425183b3b9",
 "voice": "m-uk",
 "text": "There are many instances of kindness in this story."
+},
+{
+"key": "908ce776cd62d247",
+"voice": "f-us",
+"text": "venture"
 },
 {
 "key": "90aac1de80875f60",
@@ -15913,6 +17793,11 @@
 "key": "916c74ce07d8cf94",
 "voice": "m-us",
 "text": "You worked hard — you deserve a rest."
+},
+{
+"key": "9182f2fb23432a6a",
+"voice": "f-us",
+"text": "trim"
 },
 {
 "key": "918b54a54bb777c0",
@@ -16025,6 +17910,16 @@
 "text": "broadcast, broadcast, broadcast"
 },
 {
+"key": "92681edd964c908d",
+"voice": "f-uk",
+"text": "inferior"
+},
+{
+"key": "92737645636ec7b7",
+"voice": "m-uk",
+"text": "He was a newcomer, and they didn't trust him."
+},
+{
 "key": "9274253c10bf79a4",
 "voice": "f-uk",
 "text": "People said she had the intelligence of a scribe and the hands of an artist."
@@ -16048,6 +17943,11 @@
 "key": "92ad4eca6af2b4d8",
 "voice": "m-uk",
 "text": "\"This boat is not rubbish,\" she said."
+},
+{
+"key": "92af0af0a3856c3c",
+"voice": "f-uk",
+"text": "The story spread quickly, and the town decided to make a game of it."
 },
 {
 "key": "92b6f2176d6514cd",
@@ -16155,6 +18055,11 @@
 "text": "There were no roads, only narrow paths through the forest."
 },
 {
+"key": "93cd7f75e281d9ef",
+"voice": "f-uk",
+"text": "bay"
+},
+{
 "key": "93d5d40f4f0cf8d8",
 "voice": "m-us",
 "text": "Long ears are a characteristic of this dog."
@@ -16220,6 +18125,11 @@
 "text": "Everything fascinated her: the houses, the stone streets, even an old stone box that looked like a cage for animals."
 },
 {
+"key": "9442582130cf61a9",
+"voice": "f-uk",
+"text": "needle"
+},
+{
 "key": "944a34602e5ee7a4",
 "voice": "m-us",
 "text": "I always feel nervous before an exam."
@@ -16233,6 +18143,11 @@
 "key": "9468e3fbb35fa720",
 "voice": "f-uk",
 "text": "honesty"
+},
+{
+"key": "946f434d8567ba29",
+"voice": "f-us",
+"text": "mill"
 },
 {
 "key": "94875662beccfc28",
@@ -16258,6 +18173,16 @@
 "key": "94ba11c49e0219bf",
 "voice": "f-uk",
 "text": "laboratory"
+},
+{
+"key": "94bd9f43abed9d69",
+"voice": "f-us",
+"text": "ridiculous"
+},
+{
+"key": "94c66f17216b696d",
+"voice": "f-us",
+"text": "On the day of the party, Grandma came down the stairs in her dress."
 },
 {
 "key": "94dcd426bf10e9b2",
@@ -16400,6 +18325,11 @@
 "text": "She won a singing contest at school."
 },
 {
+"key": "95df3fc4cc12b26c",
+"voice": "f-us",
+"text": "He cut the wood with an ax."
+},
+{
 "key": "95e157bb6e10d70d",
 "voice": "f-us",
 "text": "We found fragments of an old plate."
@@ -16418,6 +18348,11 @@
 "key": "95f7ba2e7ccbbb96",
 "voice": "m-us",
 "text": "When her close friend Ella called, Mia didn't answer."
+},
+{
+"key": "9608d7d8c560cd9d",
+"voice": "f-us",
+"text": "My grandfather was a carpenter, and my grandmother made clothes."
 },
 {
 "key": "961823c278ca6599",
@@ -16460,6 +18395,11 @@
 "text": "Hold the ladder steady while I climb."
 },
 {
+"key": "9685720398faa1a5",
+"voice": "m-uk",
+"text": "Many people were frightened."
+},
+{
 "key": "96860c9f9e4c58c0",
 "voice": "f-uk",
 "text": "Yesterday I was at work all day, and in the evening I was at my sister's house."
@@ -16490,9 +18430,24 @@
 "text": "accompany"
 },
 {
+"key": "96c4b795379047e7",
+"voice": "m-us",
+"text": "While his father repaired the wheel, William showed the man his drawings."
+},
+{
 "key": "96c749050eaf955b",
 "voice": "f-us",
 "text": "injustice"
+},
+{
+"key": "96c96faca843d23c",
+"voice": "f-us",
+"text": "They ventured into the dark forest."
+},
+{
+"key": "96d16371e5d2b629",
+"voice": "f-uk",
+"text": "New staff need time to acquaint themselves with the rules."
 },
 {
 "key": "96d2afe3f6822f0a",
@@ -16630,6 +18585,11 @@
 "text": "settle"
 },
 {
+"key": "97b59852dbba259e",
+"voice": "f-us",
+"text": "loyal"
+},
+{
 "key": "97d27aeeb9a9b3c6",
 "voice": "m-uk",
 "text": "Can you identify this bird?"
@@ -16715,6 +18675,11 @@
 "text": "There were only thirty seconds left."
 },
 {
+"key": "985a87a2c30eecf5",
+"voice": "f-uk",
+"text": "While studying old photographs, she saw a distinct line on the surface of one of the walls."
+},
+{
 "key": "986931295abf2bf6",
 "voice": "f-us",
 "text": "charge"
@@ -16740,6 +18705,11 @@
 "text": "station"
 },
 {
+"key": "98ad9caf646380d0",
+"voice": "m-us",
+"text": "The cat was hiding underneath the bed."
+},
+{
 "key": "98ba3ea8f233a749",
 "voice": "f-us",
 "text": "silly"
@@ -16763,6 +18733,11 @@
 "key": "98c7a5f1b2352ca3",
 "voice": "f-us",
 "text": "I'd like rice and beans, please."
+},
+{
+"key": "98c7bfe7c4bbf8f0",
+"voice": "f-us",
+"text": "But Ellie was often offended, and their mother said Sam's behaviour was disgraceful."
 },
 {
 "key": "98c8bcf50f615438",
@@ -16810,9 +18785,19 @@
 "text": "arrow"
 },
 {
+"key": "990abfd0d0388ef9",
+"voice": "f-uk",
+"text": "district"
+},
+{
 "key": "991f5f8faa9ccd10",
 "voice": "f-uk",
 "text": "community"
+},
+{
+"key": "992057767cbe8cdd",
+"voice": "f-us",
+"text": "province"
 },
 {
 "key": "992621d1a7deea07",
@@ -16900,6 +18885,11 @@
 "text": "cupboard"
 },
 {
+"key": "99ecad1c965d77c9",
+"voice": "f-uk",
+"text": "expedition"
+},
+{
 "key": "99f07c6418f63a75",
 "voice": "f-uk",
 "text": "excite"
@@ -16913,6 +18903,11 @@
 "key": "9a020314aa60d4d2",
 "voice": "f-uk",
 "text": "breadth"
+},
+{
+"key": "9a09af55b22d524b",
+"voice": "f-us",
+"text": "The school caretaker locks the doors every night."
 },
 {
 "key": "9a0a7bb16977446f",
@@ -17090,6 +19085,11 @@
 "text": "The concert was the biggest event of the year."
 },
 {
+"key": "9b5203630a654186",
+"voice": "m-uk",
+"text": "I need some blue thread to fix my shirt."
+},
+{
 "key": "9b565f63d33ba5ab",
 "voice": "m-uk",
 "text": "After a year, it was full of life."
@@ -17130,6 +19130,16 @@
 "text": "It's not your fault — don't worry."
 },
 {
+"key": "9bd1f0ed9ad363ae",
+"voice": "f-us",
+"text": "acquire"
+},
+{
+"key": "9bde212ad5a5aa33",
+"voice": "f-us",
+"text": "fabric"
+},
+{
 "key": "9be34c32411e69dd",
 "voice": "m-uk",
 "text": "I'll be there in half an hour."
@@ -17153,6 +19163,11 @@
 "key": "9c0f66e2b2e6ed9a",
 "voice": "m-us",
 "text": "Thank you for the lovely gift!"
+},
+{
+"key": "9c1c2ba3c3aa3cc6",
+"voice": "f-uk",
+"text": "Josh opened it slowly."
 },
 {
 "key": "9c2acacbbd23c4ff",
@@ -17285,6 +19300,11 @@
 "text": "lung"
 },
 {
+"key": "9cf122b2751bf76a",
+"voice": "f-us",
+"text": "\"I'm only kidding!\" he always said."
+},
+{
 "key": "9d0969bba239146d",
 "voice": "f-uk",
 "text": "She turned around and flew back towards the sun."
@@ -17380,6 +19400,11 @@
 "text": "Are there any rooms available for tonight?"
 },
 {
+"key": "9df59415a2cf51dc",
+"voice": "f-uk",
+"text": "loyal"
+},
+{
 "key": "9df6b77b7a0ea056",
 "voice": "m-uk",
 "text": "They imagined a romantic journey on camels under the stars."
@@ -17460,6 +19485,11 @@
 "text": "sweep, swept, swept"
 },
 {
+"key": "9eb0f3820e56afb2",
+"voice": "f-us",
+"text": "sensation"
+},
+{
 "key": "9eb55b708f4eb9bc",
 "voice": "f-uk",
 "text": "regard"
@@ -17490,9 +19520,19 @@
 "text": "portion"
 },
 {
+"key": "9eeaeb69fbd49212",
+"voice": "m-uk",
+"text": "Don't let one failure discourage you."
+},
+{
 "key": "9ef572a2ab93df0b",
 "voice": "f-uk",
 "text": "wrap"
+},
+{
+"key": "9ef72c0fd81f8d1d",
+"voice": "f-uk",
+"text": "The thief wore a disguise."
 },
 {
 "key": "9ef74fc037347fda",
@@ -17525,6 +19565,11 @@
 "text": "gulf"
 },
 {
+"key": "9f1a0d5b9ee9c6a2",
+"voice": "f-uk",
+"text": "broadcast"
+},
+{
 "key": "9f321d36318ab3dd",
 "voice": "f-us",
 "text": "innocent"
@@ -17548,6 +19593,16 @@
 "key": "9f64c2e70549a69e",
 "voice": "f-uk",
 "text": "This beach is ideal for families with children."
+},
+{
+"key": "9f68882d8d191fb3",
+"voice": "f-us",
+"text": "tap"
+},
+{
+"key": "9f6b7ccfec9196d0",
+"voice": "f-us",
+"text": "exceed"
 },
 {
 "key": "9f6e2689a0e4c216",
@@ -17615,9 +19670,24 @@
 "text": "lack"
 },
 {
+"key": "9fc545964c15ab07",
+"voice": "f-us",
+"text": "carpenter"
+},
+{
+"key": "9fcdb625a5aaac1b",
+"voice": "m-us",
+"text": "Maria held him and tried to console him."
+},
+{
 "key": "9fd6d182d46d95d6",
 "voice": "m-uk2",
 "text": "We have eggs, pancakes and fresh croissants."
+},
+{
+"key": "9fdd2da7aeabc5a0",
+"voice": "m-uk",
+"text": "The old wooden boat had started to rot."
 },
 {
 "key": "9fe4ad4239f1c026",
@@ -17638,6 +19708,11 @@
 "key": "a0184ea34627419b",
 "voice": "f-uk",
 "text": "People say that is just as beautiful.\""
+},
+{
+"key": "a01d70141fcde712",
+"voice": "f-us",
+"text": "He flew into the air and landed badly, hurting his elbow and cutting his face."
 },
 {
 "key": "a03f6db3ec3e811b",
@@ -17710,6 +19785,11 @@
 "text": "\"I suspect they want to follow us,\" he whispered."
 },
 {
+"key": "a0bf7824a4695611",
+"voice": "f-us",
+"text": "rub"
+},
+{
 "key": "a0f3c6599f1f5b35",
 "voice": "f-us",
 "text": "profit"
@@ -17723,6 +19803,11 @@
 "key": "a1063cfe0c5866be",
 "voice": "f-uk",
 "text": "terrible"
+},
+{
+"key": "a10e8387c212d5c2",
+"voice": "f-us",
+"text": "shepherd"
 },
 {
 "key": "a112c0cd17471e3b",
@@ -17745,6 +19830,11 @@
 "text": "The music at the party was too loud."
 },
 {
+"key": "a15b84f1fa018f04",
+"voice": "m-us",
+"text": "The floor began to shake."
+},
+{
 "key": "a16f727f7fe7356b",
 "voice": "f-uk",
 "text": "Pollution is a serious issue in big cities."
@@ -17753,6 +19843,11 @@
 "key": "a16fa1c011f09aa7",
 "voice": "m-uk",
 "text": "The water is extremely cold."
+},
+{
+"key": "a18151791b32a486",
+"voice": "f-uk",
+"text": "\"A gap like this is not a mistake."
 },
 {
 "key": "a1871fbe2ba19726",
@@ -17768,6 +19863,16 @@
 "key": "a1a120357366bb79",
 "voice": "f-us",
 "text": "concert"
+},
+{
+"key": "a1a7d52f1af60b6a",
+"voice": "f-us",
+"text": "lion"
+},
+{
+"key": "a1b0ca5e48a88706",
+"voice": "f-uk",
+"text": "She got three valentines this year!"
 },
 {
 "key": "a1b43176b9458881",
@@ -17788,6 +19893,11 @@
 "key": "a1f673d06b796f94",
 "voice": "f-uk",
 "text": "The letter was written in English."
+},
+{
+"key": "a1f82d7987216076",
+"voice": "f-uk",
+"text": "senses"
 },
 {
 "key": "a1fa7add44c25e56",
@@ -17813,6 +19923,11 @@
 "key": "a220df565c0fbb56",
 "voice": "f-us",
 "text": "tread, trod, trodden"
+},
+{
+"key": "a22f36d363ce176a",
+"voice": "m-uk",
+"text": "Together, we're brilliant.\""
 },
 {
 "key": "a232cf24c3ec4f49",
@@ -17910,6 +20025,11 @@
 "text": "border"
 },
 {
+"key": "a3412c446bd06986",
+"voice": "f-us",
+"text": "hut"
+},
+{
 "key": "a352a113c6c85e91",
 "voice": "f-uk",
 "text": "garbage"
@@ -17935,9 +20055,19 @@
 "text": "The only other person in the shop the day before was her new assistant, a young man called Tom."
 },
 {
+"key": "a3998617f7cee6e6",
+"voice": "f-us",
+"text": "prosper"
+},
+{
 "key": "a3ab65f9eaba80eb",
 "voice": "f-uk",
 "text": "reward"
+},
+{
+"key": "a3b3f494c9144e3f",
+"voice": "f-uk",
+"text": "shed"
 },
 {
 "key": "a3bff99e9acadfd8",
@@ -17950,9 +20080,19 @@
 "text": "famous"
 },
 {
+"key": "a3e3b688711efeb9",
+"voice": "m-us",
+"text": "Milk nourishes young animals."
+},
+{
 "key": "a3ebcc9bec39310c",
 "voice": "m-uk",
 "text": "The concert is on Saturday at nine in the evening."
+},
+{
+"key": "a3ec16b6a825d883",
+"voice": "f-us",
+"text": "But halfway down, his sled hit a rock."
 },
 {
 "key": "a3f16c86bf7c1820",
@@ -17993,6 +20133,11 @@
 "key": "a423a0f92bbd1b3a",
 "voice": "f-uk",
 "text": "I have a good memory for faces."
+},
+{
+"key": "a4281c1fc22d7546",
+"voice": "m-uk",
+"text": "That's probably why her owners left her."
 },
 {
 "key": "a436229d05a03339",
@@ -18060,9 +20205,24 @@
 "text": "Listen to me carefully."
 },
 {
+"key": "a4fe8e437433eaf6",
+"voice": "f-uk",
+"text": "newcomer"
+},
+{
+"key": "a502975ea31be7c2",
+"voice": "f-uk",
+"text": "hatred"
+},
+{
 "key": "a5142b4c2b36784a",
 "voice": "f-uk",
 "text": "handicap"
+},
+{
+"key": "a51a0bba3082642d",
+"voice": "f-uk",
+"text": "ladder"
 },
 {
 "key": "a526b19df0831309",
@@ -18085,9 +20245,19 @@
 "text": "demonstrate"
 },
 {
+"key": "a55ed372b37265c9",
+"voice": "f-us",
+"text": "It was her first valentine — from her brother, with a bunch of her favourite sweets."
+},
+{
 "key": "a565cfbdfd70829b",
 "voice": "f-us",
 "text": "Let's have lunch together."
+},
+{
+"key": "a5740513acf48efd",
+"voice": "f-uk",
+"text": "abandon"
 },
 {
 "key": "a57aca4466557337",
@@ -18110,9 +20280,19 @@
 "text": "dinner"
 },
 {
+"key": "a5a2bca7f2a19610",
+"voice": "f-us",
+"text": "Better than me."
+},
+{
 "key": "a5ae05b8d33f5c93",
 "voice": "f-uk",
 "text": "colleague"
+},
+{
+"key": "a5ae0b2d2176986a",
+"voice": "f-uk",
+"text": "sled"
 },
 {
 "key": "a5b16f30905675f6",
@@ -18158,6 +20338,11 @@
 "key": "a5fe38e20290451b",
 "voice": "f-us",
 "text": "grant"
+},
+{
+"key": "a610950c09eb9e62",
+"voice": "m-uk",
+"text": "He has a small beard on his chin."
 },
 {
 "key": "a618a25b0be3718e",
@@ -18270,6 +20455,11 @@
 "text": "magazine"
 },
 {
+"key": "a71d7a877ee57322",
+"voice": "f-us",
+"text": "I felt ashamed that I had never asked her to teach me to sew."
+},
+{
 "key": "a71e3ca816864a0e",
 "voice": "f-us",
 "text": "goal"
@@ -18288,6 +20478,16 @@
 "key": "a72c0997ed9e3b97",
 "voice": "m-uk",
 "text": "\"You are responsible for the animals now,\" Mr. Green said."
+},
+{
+"key": "a737c8ebe3dd7a99",
+"voice": "f-us",
+"text": "The shepherd led his sheep down the hill."
+},
+{
+"key": "a743b609161fea00",
+"voice": "f-us",
+"text": "district"
 },
 {
 "key": "a76d5e517982c21c",
@@ -18340,6 +20540,11 @@
 "text": "The wheels spun in the mud."
 },
 {
+"key": "a7dfd6b041adc0f4",
+"voice": "f-us",
+"text": "The other kids didn't notice him because they were busy with the race."
+},
+{
 "key": "a82fec68b5d9cff0",
 "voice": "f-us",
 "text": "reluctant"
@@ -18358,6 +20563,16 @@
 "key": "a840ec3b9da6d586",
 "voice": "m-us",
 "text": "Even worse, the hurricane had damaged part of the reef."
+},
+{
+"key": "a8614c03c2d8a033",
+"voice": "f-uk",
+"text": "awkward"
+},
+{
+"key": "a8620337840bb7cf",
+"voice": "f-uk",
+"text": "They spent their holiday in the Scottish Highlands."
 },
 {
 "key": "a867ae59435387ce",
@@ -18435,6 +20650,11 @@
 "text": "dream, dreamt/dreamed, dreamt/dreamed"
 },
 {
+"key": "a8ff250d2fddb47c",
+"voice": "m-uk",
+"text": "Selling ivory is now illegal in most countries."
+},
+{
 "key": "a905b7624bb2a728",
 "voice": "f-us",
 "text": "salary"
@@ -18448,6 +20668,11 @@
 "key": "a9207086f57bb605",
 "voice": "f-uk",
 "text": "innocent"
+},
+{
+"key": "a927d7c0c409e9f7",
+"voice": "f-uk",
+"text": "upwards"
 },
 {
 "key": "a930de5ad3ddeaad",
@@ -18533,6 +20758,11 @@
 "key": "aa2094d34ec7770a",
 "voice": "f-us",
 "text": "avoid"
+},
+{
+"key": "aa3b8d10715a6c29",
+"voice": "f-us",
+"text": "The bridge was engineered to survive earthquakes."
 },
 {
 "key": "aa3cd0e9b680a6a2",
@@ -18638,6 +20868,11 @@
 "key": "ab21a25c7576b8b9",
 "voice": "f-uk",
 "text": "locate"
+},
+{
+"key": "ab3cf6618b55cd4c",
+"voice": "f-us",
+"text": "I sat on the couch next to her for three evenings and watched her work."
 },
 {
 "key": "ab43d429b3c1a2ea",
@@ -18765,6 +21000,11 @@
 "text": "slay, slew, slain"
 },
 {
+"key": "ac5984291ee12e29",
+"voice": "f-uk",
+"text": "On Halloween night, they put on dark hoods as a disguise, took their flashlights and went there."
+},
+{
 "key": "ac743b53dc62bf81",
 "voice": "f-uk",
 "text": "But he did not stop."
@@ -18843,6 +21083,11 @@
 "key": "ad04d1967914d49e",
 "voice": "f-us",
 "text": "initial"
+},
+{
+"key": "ad0b194cac2c7938",
+"voice": "f-uk",
+"text": "irritate"
 },
 {
 "key": "ad0d316d5d101765",
@@ -19070,6 +21315,11 @@
 "text": "Anna will represent our school at the competition."
 },
 {
+"key": "aead76ca8ffdd395",
+"voice": "f-us",
+"text": "kid"
+},
+{
 "key": "aeb0c5e7eaa804ec",
 "voice": "f-us",
 "text": "permanent"
@@ -19120,6 +21370,11 @@
 "text": "She won a scholarship to study in Canada."
 },
 {
+"key": "af01064d22f47bad",
+"voice": "f-us",
+"text": "awkward"
+},
+{
 "key": "af03e18ee234fb1a",
 "voice": "m-uk",
 "text": "The man in the video had a small tattoo of a bug on his hand."
@@ -19165,6 +21420,11 @@
 "text": "describe"
 },
 {
+"key": "af7357ad716b6daa",
+"voice": "f-us",
+"text": "fake"
+},
+{
 "key": "af74c27dca517558",
 "voice": "f-uk",
 "text": "The result overwhelmed both of them."
@@ -19178,6 +21438,11 @@
 "key": "af7be39b4c1c8fac",
 "voice": "f-us",
 "text": "failure"
+},
+{
+"key": "af88abe7f32927d2",
+"voice": "f-us",
+"text": "iron"
 },
 {
 "key": "af90aeb1cb8a52f0",
@@ -19215,6 +21480,16 @@
 "text": "greenhouse"
 },
 {
+"key": "afb87bd5359ae59b",
+"voice": "f-uk",
+"text": "The smoke rose upwards into the sky."
+},
+{
+"key": "afc06e62cd148b02",
+"voice": "f-uk",
+"text": "But the most amazing discovery was in the centre of the room: two stone lions, almost two metres tall, guarding a golden box."
+},
+{
 "key": "afce6d60167ebb4b",
 "voice": "f-uk",
 "text": "She accepted the job offer immediately."
@@ -19233,6 +21508,11 @@
 "key": "aff3b7ba15c0135e",
 "voice": "m-uk",
 "text": "The dog understands simple commands like “sit”."
+},
+{
+"key": "afff7d1205eedf51",
+"voice": "m-us",
+"text": "We encountered many problems on the trip."
 },
 {
 "key": "b0038bff9fbef44e",
@@ -19300,6 +21580,21 @@
 "text": "We want to publish it."
 },
 {
+"key": "b0965cd4aa7d7e9d",
+"voice": "f-us",
+"text": "My grandparents live in a stone cottage in the Scottish Highlands, next to an old mill."
+},
+{
+"key": "b0a7cc8606d4c3a3",
+"voice": "f-us",
+"text": "nourish"
+},
+{
+"key": "b0b171d750c4ba93",
+"voice": "f-us",
+"text": "One winter, a lot of snow fell overnight."
+},
+{
 "key": "b0b5e5b15b71dbe2",
 "voice": "f-us",
 "text": "stretch"
@@ -19325,9 +21620,19 @@
 "text": "capture"
 },
 {
+"key": "b0cabe18b842ea7c",
+"voice": "m-uk",
+"text": "One evening, a storm came, and a member of the team didn't come back."
+},
+{
 "key": "b0cb685957dd4896",
 "voice": "f-us",
 "text": "set"
+},
+{
+"key": "b0e2f6e64d156bfc",
+"voice": "m-us",
+"text": "He compensated the family for William's work and paid for a new workshop."
 },
 {
 "key": "b0eebc13408cd1af",
@@ -19375,6 +21680,16 @@
 "text": "atom"
 },
 {
+"key": "b15964efc2bf9359",
+"voice": "m-us",
+"text": "At first, a problem arose: John didn't want to lose his only helper."
+},
+{
+"key": "b159d4c1d5059f67",
+"voice": "f-us",
+"text": "humble"
+},
+{
 "key": "b165712e9ad26ae4",
 "voice": "m-uk",
 "text": "I was cooking dinner when my brother came home with a surprise."
@@ -19420,6 +21735,11 @@
 "text": "fund"
 },
 {
+"key": "b1d69fdaaf8de579",
+"voice": "m-us",
+"text": "In the 1850s, in a poor province in the north of England, there lived a humble blacksmith named John Harper."
+},
+{
 "key": "b1e94854bb070bd0",
 "voice": "m-uk",
 "text": "We buy vegetables from local farmers."
@@ -19433,6 +21753,16 @@
 "key": "b1f3daf5bb7f46f9",
 "voice": "f-us",
 "text": "tutor"
+},
+{
+"key": "b1f9dce06bf342ba",
+"voice": "m-us",
+"text": "He offered to become William's benefactor and pay for his education in the city."
+},
+{
+"key": "b20d37781b9cf942",
+"voice": "m-us",
+"text": "Plates fell out of the cupboards, and drawers slid open by themselves."
 },
 {
 "key": "b21a44f56e2b34c7",
@@ -19480,6 +21810,11 @@
 "text": "This is the story of one of them."
 },
 {
+"key": "b262c6798ff9ca0e",
+"voice": "m-us",
+"text": "The pirates buried their treasure on the island."
+},
+{
 "key": "b2766b3f050f09eb",
 "voice": "f-us",
 "text": "hurt, hurt, hurt"
@@ -19488,6 +21823,11 @@
 "key": "b27a51ae4411d9a6",
 "voice": "m-uk",
 "text": "The idea of living by the sea really appeals to me."
+},
+{
+"key": "b287c4caee2c583d",
+"voice": "f-us",
+"text": "elite"
 },
 {
 "key": "b28e8fee07e196f5",
@@ -19535,9 +21875,19 @@
 "text": "island"
 },
 {
+"key": "b2d709847eb0fd18",
+"voice": "m-us",
+"text": "One day, William encountered a rich factory owner whose carriage had broken near the village."
+},
+{
 "key": "b2fefd037e904c61",
 "voice": "f-uk",
 "text": "Many people opposed the new road."
+},
+{
+"key": "b3132dae5b419b46",
+"voice": "f-uk",
+"text": "acre"
 },
 {
 "key": "b31642509cac96b1",
@@ -19548,6 +21898,11 @@
 "key": "b31722dc87c58351",
 "voice": "m-uk2",
 "text": "See you!"
+},
+{
+"key": "b31f6e938f77d4f0",
+"voice": "m-us",
+"text": "This fabric is soft and warm."
 },
 {
 "key": "b326a7f718beadd9",
@@ -19640,6 +21995,11 @@
 "text": "increase"
 },
 {
+"key": "b3be0473cec5ed24",
+"voice": "f-uk",
+"text": "preach"
+},
+{
 "key": "b3cbaf43431e1c84",
 "voice": "f-uk",
 "text": "My uncle drives an electric car."
@@ -19675,6 +22035,11 @@
 "text": "bright"
 },
 {
+"key": "b42617fb4b906fbb",
+"voice": "f-uk",
+"text": "The train will arrive shortly."
+},
+{
 "key": "b43819e59f80f159",
 "voice": "f-us",
 "text": "outline"
@@ -19683,6 +22048,11 @@
 "key": "b43d83f44c1e8d82",
 "voice": "m-uk",
 "text": "\"You never give up,\" she said."
+},
+{
+"key": "b44690d71fb5ec91",
+"voice": "f-us",
+"text": "Practise what you preach!"
 },
 {
 "key": "b44fb2efe55deeba",
@@ -19778,6 +22148,11 @@
 "key": "b5345866500025f6",
 "voice": "m-uk",
 "text": "The children were sitting on the grass."
+},
+{
+"key": "b53f7e7397367044",
+"voice": "f-us",
+"text": "Meanwhile, Grandpa was busy in the shed."
 },
 {
 "key": "b54d693278db80f3",
@@ -19928,6 +22303,11 @@
 "key": "b6ac949bf9b1260f",
 "voice": "f-uk2",
 "text": "It's not far. Go straight on to the traffic lights."
+},
+{
+"key": "b6adc53b6ed27fcd",
+"voice": "f-us",
+"text": "He gave her a bunch of flowers."
 },
 {
 "key": "b6adf167a94a4b43",
@@ -20095,6 +22475,16 @@
 "text": "friend"
 },
 {
+"key": "b82114e1afb1552e",
+"voice": "f-uk",
+"text": "ashamed"
+},
+{
+"key": "b83d7584b73f0cca",
+"voice": "f-us",
+"text": "The mayor opened the new park."
+},
+{
 "key": "b853830b410eacb4",
 "voice": "f-us",
 "text": "anxiety"
@@ -20225,6 +22615,11 @@
 "text": "Is it far? Can I walk there?"
 },
 {
+"key": "b96db59bf710e5b2",
+"voice": "m-uk",
+"text": "Dogs have a very good sense of smell."
+},
+{
 "key": "b973f8877105d7cb",
 "voice": "f-us",
 "text": "chat"
@@ -20233,6 +22628,11 @@
 "key": "b97879112e4a67f2",
 "voice": "f-us",
 "text": "ahead"
+},
+{
+"key": "b97aaa0fb9aae1ce",
+"voice": "f-uk",
+"text": "Could you just trim my hair, please?"
 },
 {
 "key": "b97c22f40fa90896",
@@ -20285,6 +22685,11 @@
 "text": "Monkeys love bananas."
 },
 {
+"key": "ba1ddf4e7bd1190d",
+"voice": "f-us",
+"text": "loose"
+},
+{
 "key": "ba2d595c64dfc403",
 "voice": "f-us",
 "text": "priest"
@@ -20318,6 +22723,11 @@
 "key": "ba8baaa21de7d00c",
 "voice": "f-us",
 "text": "do, did, done"
+},
+{
+"key": "bab59dff2d809097",
+"voice": "m-us",
+"text": "Every day, he forged horseshoes, tools and gates from iron."
 },
 {
 "key": "bac086358ef675c3",
@@ -20380,6 +22790,11 @@
 "text": "It was the town's oldest tradition."
 },
 {
+"key": "bb2ab3c7cd5b2b5d",
+"voice": "f-uk",
+"text": "grasp"
+},
+{
 "key": "bb32f9e60fd3fbb8",
 "voice": "f-us",
 "text": "shadow"
@@ -20393,6 +22808,11 @@
 "key": "bb36a8963baaf817",
 "voice": "f-uk",
 "text": "century"
+},
+{
+"key": "bb39f3e7e5ad3e5c",
+"voice": "f-us",
+"text": "broadcast"
 },
 {
 "key": "bb5bb4cf4f08e19d",
@@ -20413,6 +22833,11 @@
 "key": "bb8972ed6a67ad4c",
 "voice": "f-us",
 "text": "We clean the house every Saturday."
+},
+{
+"key": "bb90124dfd982ef6",
+"voice": "f-uk",
+"text": "The hotel overlooks the sea."
 },
 {
 "key": "bb90710ecfc21357",
@@ -20525,6 +22950,11 @@
 "text": "publish"
 },
 {
+"key": "bc5b2e4c7d1474ef",
+"voice": "f-uk",
+"text": "chop"
+},
+{
 "key": "bc5b3aa55dfed32d",
 "voice": "f-us",
 "text": "familiar"
@@ -20553,6 +22983,11 @@
 "key": "bc7820222b23d801",
 "voice": "f-us",
 "text": "arrive"
+},
+{
+"key": "bc8399e97740d4f5",
+"voice": "f-us",
+"text": "Riding a rollercoaster gives me a real thrill."
 },
 {
 "key": "bc96e31f2acc66bc",
@@ -20585,6 +23020,11 @@
 "text": "victim"
 },
 {
+"key": "bce8d09c54666c5d",
+"voice": "f-us",
+"text": "As a child, I spent every summer with them."
+},
+{
 "key": "bcf099fd8e976f7e",
 "voice": "f-uk",
 "text": "typical"
@@ -20613,6 +23053,11 @@
 "key": "bd3ffa0938441fa2",
 "voice": "f-us",
 "text": "uphold, upheld, upheld"
+},
+{
+"key": "bd471bbac5c7d855",
+"voice": "f-uk",
+"text": "loose"
 },
 {
 "key": "bd4b814e024377a6",
@@ -20695,6 +23140,11 @@
 "text": "A few minutes later, Jake heard a scream."
 },
 {
+"key": "bdadc13ed67cfd4d",
+"voice": "f-uk",
+"text": "decent"
+},
+{
 "key": "bdadd516038b0bd4",
 "voice": "m-us",
 "text": "Life in a big city moves at a fast pace."
@@ -20708,6 +23158,11 @@
 "key": "bdd96569d05fa0b8",
 "voice": "m-us",
 "text": "\"I ought to say sorry for the trees,\" he said."
+},
+{
+"key": "bdd9a1ac998b9988",
+"voice": "f-us",
+"text": "There's an old water mill by the river."
 },
 {
 "key": "bddffd58b7c5a9fd",
@@ -20795,14 +23250,29 @@
 "text": "dare"
 },
 {
+"key": "be940f41b6aecd20",
+"voice": "f-uk",
+"text": "stairs"
+},
+{
 "key": "bebcda17693d0fcf",
 "voice": "m-uk",
 "text": "Max, who loves astronomy, didn't want to leave the room with the planets."
 },
 {
+"key": "bebfcf4aa331fb6e",
+"voice": "f-us",
+"text": "There was an awkward silence after his joke."
+},
+{
 "key": "beca0d144e9d0335",
 "voice": "f-uk",
 "text": "populate"
+},
+{
+"key": "bedb853e14dd7c3c",
+"voice": "m-uk",
+"text": "Dogs are very loyal animals."
 },
 {
 "key": "bef3e747c5aae916",
@@ -20875,6 +23345,11 @@
 "text": "marvel"
 },
 {
+"key": "bf723fb5a8642d04",
+"voice": "f-us",
+"text": "But Ellie saw everything."
+},
+{
 "key": "bf7e6107116cc984",
 "voice": "f-uk",
 "text": "rid"
@@ -20928,6 +23403,11 @@
 "key": "c00182acf193669d",
 "voice": "f-uk",
 "text": "Our primary goal is to help people."
+},
+{
+"key": "c00905734f933b87",
+"voice": "f-uk",
+"text": "Finally, they found a narrow corridor that led deep into the core of the pyramid."
 },
 {
 "key": "c01330f48be89fba",
@@ -20995,6 +23475,11 @@
 "text": "obvious"
 },
 {
+"key": "c0c0877bf2a82a04",
+"voice": "f-us",
+"text": "neglect"
+},
+{
 "key": "c0c16d082efd84cf",
 "voice": "f-us",
 "text": "The judge declared him innocent."
@@ -21035,6 +23520,11 @@
 "text": "She invested everything in a small café near her home."
 },
 {
+"key": "c132bf10aa9a1e47",
+"voice": "m-us",
+"text": "\"We just have to wait."
+},
+{
 "key": "c13e68f1879da111",
 "voice": "m-us",
 "text": "We had a great time at the beach."
@@ -21045,9 +23535,24 @@
 "text": "garden"
 },
 {
+"key": "c1672da7db0366b5",
+"voice": "f-us",
+"text": "penny"
+},
+{
 "key": "c169c2e3bad07259",
 "voice": "f-us",
 "text": "share"
+},
+{
+"key": "c1707f40e7768e4c",
+"voice": "f-uk",
+"text": "repay"
+},
+{
+"key": "c170dd25591f28d9",
+"voice": "f-us",
+"text": "shed"
 },
 {
 "key": "c180687dcbb5b4b3",
@@ -21063,6 +23568,11 @@
 "key": "c192896accff4e5e",
 "voice": "f-us",
 "text": "professional"
+},
+{
+"key": "c197f37fd6e57711",
+"voice": "f-uk",
+"text": "lion"
 },
 {
 "key": "c1a82b119eeb3abd",
@@ -21083,6 +23593,11 @@
 "key": "c1c64f914837acf0",
 "voice": "f-uk",
 "text": "carriage"
+},
+{
+"key": "c1cd1d8dc697b043",
+"voice": "m-us",
+"text": "He fell asleep on the couch."
 },
 {
 "key": "c1ceef2898fde963",
@@ -21128,6 +23643,11 @@
 "key": "c2411364fcf7d91d",
 "voice": "f-us",
 "text": "Nobody knew that it existed."
+},
+{
+"key": "c2511322ab39f74d",
+"voice": "f-uk",
+"text": "The walls were covered with paintings of the queen's royal life: her elite soldiers, her boats on the Nile channels, and the hundreds of acres of farmland she controlled."
 },
 {
 "key": "c268a788ebbc1543",
@@ -21180,6 +23700,11 @@
 "text": "She won first prize in the competition."
 },
 {
+"key": "c2c467c191396d3e",
+"voice": "f-us",
+"text": "creature"
+},
+{
 "key": "c2cb5b4b3b64f1ba",
 "voice": "f-us",
 "text": "lead, led, led"
@@ -21203,6 +23728,11 @@
 "key": "c2fa04d977b6af33",
 "voice": "f-us",
 "text": "achieve"
+},
+{
+"key": "c31b81cd20b8020c",
+"voice": "f-us",
+"text": "channel"
 },
 {
 "key": "c32a141b47237a80",
@@ -21305,6 +23835,11 @@
 "text": "strip"
 },
 {
+"key": "c3ffb6c46552dd41",
+"voice": "f-us",
+"text": "overnight"
+},
+{
 "key": "c40403e927ff6202",
 "voice": "f-uk",
 "text": "experiment"
@@ -21345,6 +23880,11 @@
 "text": "Sam showed him how to cast a fishing line into the river and how to repair the old nets."
 },
 {
+"key": "c496edbdf955d41e",
+"voice": "f-us",
+"text": "compensate"
+},
+{
 "key": "c49e0755e0c2b78e",
 "voice": "f-us",
 "text": "Max frequently asks him, \"What is your secret?\""
@@ -21353,6 +23893,11 @@
 "key": "c4a66853e106d992",
 "voice": "f-us2",
 "text": "No, thank you. How much is that?"
+},
+{
+"key": "c4a85c8eeaa495af",
+"voice": "m-uk",
+"text": "The gate is made of iron."
 },
 {
 "key": "c4aadf4f7db2f2d1",
@@ -21365,9 +23910,19 @@
 "text": "fortunate"
 },
 {
+"key": "c4c1934f6164ad48",
+"voice": "f-uk",
+"text": "anniversary"
+},
+{
 "key": "c4d1da9a6d257b1c",
 "voice": "m-uk",
 "text": "The shops weren't open on Sunday."
+},
+{
+"key": "c4dfadb10a528007",
+"voice": "f-us",
+"text": "tease"
 },
 {
 "key": "c4e24a4237551e24",
@@ -21378,6 +23933,11 @@
 "key": "c4e62e8fe55e03ee",
 "voice": "f-us",
 "text": "grab"
+},
+{
+"key": "c505a19590a34573",
+"voice": "f-us",
+"text": "alert"
 },
 {
 "key": "c50b59051bde5ac0",
@@ -21398,6 +23958,11 @@
 "key": "c5318e1f10f0964e",
 "voice": "m-us",
 "text": "They reached the top in the evening."
+},
+{
+"key": "c533249c8310bf2a",
+"voice": "f-us",
+"text": "disguise"
 },
 {
 "key": "c54072ad7a3c4a62",
@@ -21435,9 +24000,19 @@
 "text": "Many people came to the concert."
 },
 {
+"key": "c5815ce5f2d8a2a5",
+"voice": "f-us",
+"text": "Someone tapped me on the shoulder."
+},
+{
 "key": "c589a9d91d29419b",
 "voice": "m-us",
 "text": "Admission to the museum is free on Sundays."
+},
+{
+"key": "c58d37e722ee257b",
+"voice": "f-us",
+"text": "senator"
 },
 {
 "key": "c58f17db6ad9ba81",
@@ -21448,6 +24023,11 @@
 "key": "c59147d146acd46f",
 "voice": "f-uk",
 "text": "Tobacco is very bad for your health."
+},
+{
+"key": "c596f25236e9e4c3",
+"voice": "f-us",
+"text": "My mother wanted to buy Grandma an elegant new dress, but Grandma refused."
 },
 {
 "key": "c5971ac0116eb834",
@@ -21530,6 +24110,16 @@
 "text": "What time is breakfast?"
 },
 {
+"key": "c61803facc282c01",
+"voice": "f-uk",
+"text": "arise"
+},
+{
+"key": "c629620fa8445843",
+"voice": "f-us",
+"text": "My grandmother is a little deaf."
+},
+{
 "key": "c629987b097ab4ae",
 "voice": "m-uk",
 "text": "\"We cannot win a battle against a military army,\" said the old leader of the village."
@@ -21563,6 +24153,11 @@
 "key": "c6531d49481ee4c7",
 "voice": "f-uk",
 "text": "fruit"
+},
+{
+"key": "c65fef10ee161e87",
+"voice": "f-uk",
+"text": "refuge"
 },
 {
 "key": "c6613c00b92732ae",
@@ -21640,6 +24235,11 @@
 "text": "\"Maybe one day I'll find a real dinosaur egg,\" he said."
 },
 {
+"key": "c6d5dfcff8c2c31b",
+"voice": "f-us",
+"text": "Put your hood up — it's raining."
+},
+{
 "key": "c6e0cb8f9c51d5ad",
 "voice": "f-us",
 "text": "I've got a temperature."
@@ -21673,6 +24273,11 @@
 "key": "c7265e652881fbb4",
 "voice": "m-us",
 "text": "She didn't have time to meet her friends or listen to music."
+},
+{
+"key": "c728eaf80daf779f",
+"voice": "f-uk",
+"text": "rear"
 },
 {
 "key": "c72fb0a371dc4622",
@@ -21805,6 +24410,11 @@
 "text": "She took her keys out of her bag."
 },
 {
+"key": "c820e8ac7b9308ac",
+"voice": "f-uk",
+"text": "offense"
+},
+{
 "key": "c828c08419251892",
 "voice": "f-us",
 "text": "spread"
@@ -21828,6 +24438,11 @@
 "key": "c84f60202d8cb4ff",
 "voice": "f-us",
 "text": "extra"
+},
+{
+"key": "c850eb71c34eb616",
+"voice": "m-uk",
+"text": "After examining the dog, Emma realized why."
 },
 {
 "key": "c85265288430721c",
@@ -21873,6 +24488,11 @@
 "key": "c8c21ba4924f5409",
 "voice": "f-us",
 "text": "This is the site of a new hospital."
+},
+{
+"key": "c8c7c1a2d44152a3",
+"voice": "f-us",
+"text": "arise"
 },
 {
 "key": "c8c7fa8f09230181",
@@ -21980,6 +24600,11 @@
 "text": "There were students from seven different countries in his group."
 },
 {
+"key": "c9c17127e89fcf12",
+"voice": "f-us",
+"text": "Sam needed stitches, and he still has a small scar above his eye."
+},
+{
 "key": "c9d8c291ad980d89",
 "voice": "f-us",
 "text": "One of the boys was in trouble."
@@ -22010,6 +24635,11 @@
 "text": "lightly"
 },
 {
+"key": "c9fbf0c3ca9b3f62",
+"voice": "m-uk",
+"text": "Problems may arise if we don't plan carefully."
+},
+{
 "key": "ca0169532104bcb4",
 "voice": "f-uk",
 "text": "easy"
@@ -22018,6 +24648,11 @@
 "key": "ca0af0d6efb69ae0",
 "voice": "f-uk",
 "text": "The clerk at the bank was very polite."
+},
+{
+"key": "ca0bc4cb48940a6f",
+"voice": "f-uk",
+"text": "iron"
 },
 {
 "key": "ca11cdaafb2d12ea",
@@ -22038,6 +24673,11 @@
 "key": "ca22c25cab6f87b4",
 "voice": "f-uk",
 "text": "The expense was small; he used old parts from the garage."
+},
+{
+"key": "ca237ac4364a8c98",
+"voice": "m-uk",
+"text": "Slowly, Daniel acquired the skills he needed to live in the mountains."
 },
 {
 "key": "ca2a6c0e6b9efeaa",
@@ -22075,9 +24715,19 @@
 "text": "apology"
 },
 {
+"key": "ca575fc788bbd63a",
+"voice": "f-us",
+"text": "afterlife"
+},
+{
 "key": "ca58d1110ccce7f7",
 "voice": "m-us",
 "text": "There was no coffee, so I drank tea instead."
+},
+{
+"key": "ca5d0c1433f19a41",
+"voice": "f-us",
+"text": "archaeology"
 },
 {
 "key": "ca6f2a71e2d7909c",
@@ -22280,6 +24930,11 @@
 "text": "therefore"
 },
 {
+"key": "cbe3e17407ce04c5",
+"voice": "f-uk",
+"text": "Shortly after that, they discovered that the note was a joke by a local writer, who had acquainted himself with the legend and wanted to give young people a fun night."
+},
+{
 "key": "cbe601d7c2ebd2bf",
 "voice": "f-us",
 "text": "capable"
@@ -22305,6 +24960,11 @@
 "text": "Whose keys are these? — They're Mark's."
 },
 {
+"key": "cc097426d0de1513",
+"voice": "m-uk",
+"text": "Many people think a deaf dog is difficult to train."
+},
+{
 "key": "cc0d43fedf1ccba0",
 "voice": "f-uk",
 "text": "base"
@@ -22313,6 +24973,11 @@
 "key": "cc0ee8d2aca0dbfb",
 "voice": "m-uk",
 "text": "I really appreciate your help."
+},
+{
+"key": "cc1fac286eedcfaf",
+"voice": "m-uk",
+"text": "It snowed heavily overnight."
 },
 {
 "key": "cc26fd8189c64714",
@@ -22385,6 +25050,11 @@
 "text": "\"It's not the usual way to do business,\" Marco says."
 },
 {
+"key": "cc8f706abbd223cd",
+"voice": "f-uk",
+"text": "tremendous"
+},
+{
 "key": "cc9749cc8888ae43",
 "voice": "f-uk",
 "text": "Language can be a barrier to making friends."
@@ -22393,6 +25063,11 @@
 "key": "cca76faa171d1806",
 "voice": "f-uk",
 "text": "sound"
+},
+{
+"key": "cca9d73879c3fbc1",
+"voice": "m-uk",
+"text": "When they returned, the town's mayor gave Lucky a medal."
 },
 {
 "key": "ccaab4acef8256a2",
@@ -22428,6 +25103,11 @@
 "key": "ccf4c8f3e81287ab",
 "voice": "f-uk",
 "text": "Can you keep a secret?"
+},
+{
+"key": "ccfbc930b295a1c1",
+"voice": "f-us",
+"text": "lodge"
 },
 {
 "key": "ccff91b446fa8003",
@@ -22530,6 +25210,11 @@
 "text": "fiction"
 },
 {
+"key": "cdbc69d0f32ce279",
+"voice": "m-uk",
+"text": "He bought an old lodge that had been neglected for years."
+},
+{
 "key": "cdbe28214026f633",
 "voice": "m-us",
 "text": "Some students ignored him because they didn't know how to talk to him."
@@ -22575,9 +25260,19 @@
 "text": "Please inform us if you change your address."
 },
 {
+"key": "cdeeda88aa65937a",
+"voice": "f-us",
+"text": "grasp"
+},
+{
 "key": "cdf36756baf98527",
 "voice": "m-us",
 "text": "But Rex had a problem: he could not focus."
+},
+{
+"key": "ce0062e0c1797f1a",
+"voice": "m-uk",
+"text": "The garden was neglected for years."
 },
 {
 "key": "ce0dd8e6865fe04f",
@@ -22665,9 +25360,19 @@
 "text": "Don't blame me — it wasn't my fault!"
 },
 {
+"key": "ce8d7b750916358d",
+"voice": "f-uk",
+"text": "neglect"
+},
+{
 "key": "ce99ae53b1843e15",
 "voice": "m-uk",
 "text": "He took her on a boat trip across the Bosphorus, the water between Europe and Asia."
+},
+{
+"key": "ce9aabbc6c300c8d",
+"voice": "m-uk",
+"text": "The dog was thin, cold and frightened, and it didn't respond when Emma called it."
 },
 {
 "key": "ceb619410def1284",
@@ -22710,6 +25415,11 @@
 "text": "We had to stand for the whole journey."
 },
 {
+"key": "cf0a437369c1b33e",
+"voice": "f-uk",
+"text": "It was a real thrill, but also a little scary."
+},
+{
 "key": "cf1444c6cf9b37e8",
 "voice": "f-uk",
 "text": "evidence"
@@ -22735,6 +25445,11 @@
 "text": "The city has three million people."
 },
 {
+"key": "cf3c97f37cfce433",
+"voice": "f-uk",
+"text": "acquire"
+},
+{
 "key": "cf4c9dbbbd66e97b",
 "voice": "f-uk",
 "text": "hardly"
@@ -22750,6 +25465,11 @@
 "text": "But when they were ten, their family moved, and the girls grew up apart."
 },
 {
+"key": "cf681dccc2cd6a1f",
+"voice": "m-uk",
+"text": "Chop the onions into small pieces."
+},
+{
 "key": "cf7112b0d69db96a",
 "voice": "f-uk",
 "text": "relax"
@@ -22758,6 +25478,11 @@
 "key": "cf7c7289656f9df0",
 "voice": "f-us",
 "text": "conclude"
+},
+{
+"key": "cf86198402b05e72",
+"voice": "f-us",
+"text": "The town prospered when the railway came."
 },
 {
 "key": "cfa5ef7f3af38f91",
@@ -22840,9 +25565,24 @@
 "text": "potential"
 },
 {
+"key": "d040966890b1b59a",
+"voice": "m-uk",
+"text": "One autumn, a man in an expensive suit came to the village."
+},
+{
+"key": "d047f382714b459a",
+"voice": "f-uk",
+"text": "encounter"
+},
+{
 "key": "d0540d8c0feecda7",
 "voice": "m-us",
 "text": "It's common for thieves to work in shops."
+},
+{
+"key": "d056f90b03aad72c",
+"voice": "f-us",
+"text": "role"
 },
 {
 "key": "d060d8cd86414fc4",
@@ -22883,6 +25623,11 @@
 "key": "d099ea0c560944b9",
 "voice": "f-us",
 "text": "But nobody left."
+},
+{
+"key": "d0afc71c4a7b6957",
+"voice": "f-us",
+"text": "abandon"
 },
 {
 "key": "d0b6083d26525f1e",
@@ -23065,6 +25810,16 @@
 "text": "elementary"
 },
 {
+"key": "d18d2565480c1dcf",
+"voice": "m-us",
+"text": "He climbed the ladder to clean the chimney, carried heavy pieces of metal and learned how fire changes iron."
+},
+{
+"key": "d18e66282d85a07c",
+"voice": "m-us",
+"text": "William studied hard and later founded his own company that built steam engines."
+},
+{
 "key": "d196e868d8afb8d6",
 "voice": "f-us",
 "text": "pet"
@@ -23108,6 +25863,11 @@
 "key": "d1db3ddd3a7394e5",
 "voice": "f-uk",
 "text": "During his school years, he loved riding a bike."
+},
+{
+"key": "d1dc28b37ae276ce",
+"voice": "f-uk",
+"text": "alley"
 },
 {
 "key": "d1dca5d9c7fd6deb",
@@ -23223,6 +25983,11 @@
 "key": "d2b34bfbafdb6ad5",
 "voice": "f-us",
 "text": "What do you recommend?"
+},
+{
+"key": "d2d5024b072d8172",
+"voice": "f-uk",
+"text": "province"
 },
 {
 "key": "d2e05d9149364e73",
@@ -23455,6 +26220,11 @@
 "text": "Check-out is at eleven. If you need anything, just call reception."
 },
 {
+"key": "d4afaf5884526a3a",
+"voice": "f-uk",
+"text": "worm"
+},
+{
 "key": "d4c3c15c6b51cb0c",
 "voice": "f-us",
 "text": "hear, heard, heard"
@@ -23490,14 +26260,29 @@
 "text": "A friend lent Anna good boots, and she bought adequate equipment."
 },
 {
+"key": "d524bc58c3945f3f",
+"voice": "m-us",
+"text": "Don't put your elbows on the table."
+},
+{
 "key": "d52fed25b51b22ee",
 "voice": "f-us",
 "text": "fall, fell, fallen"
 },
 {
+"key": "d53b89f45ab35717",
+"voice": "f-uk",
+"text": "overlook"
+},
+{
 "key": "d53f96fde0b9c4d8",
 "voice": "f-uk",
 "text": "profit"
+},
+{
+"key": "d540ad743e09da8e",
+"voice": "m-uk",
+"text": "\"She can see and smell perfectly.\""
 },
 {
 "key": "d542349c6ace8d50",
@@ -23535,6 +26320,11 @@
 "text": "deck"
 },
 {
+"key": "d5aa271ae87a27bd",
+"voice": "f-uk",
+"text": "gap"
+},
+{
 "key": "d5b118ee720c6381",
 "voice": "f-us",
 "text": "He did not destroy her trust — he made her his chief cook."
@@ -23563,6 +26353,11 @@
 "key": "d5eb73900882df84",
 "voice": "m-us",
 "text": "As a reward for solving the mystery, Leo's aunt gave him a free meal."
+},
+{
+"key": "d5edbd62663fb8c2",
+"voice": "f-uk",
+"text": "shepherd"
 },
 {
 "key": "d600e6cb03c88920",
@@ -23605,6 +26400,11 @@
 "text": "She was overwhelmed by all the kind messages."
 },
 {
+"key": "d640ab877f4b59a9",
+"voice": "f-us",
+"text": "wicked"
+},
+{
 "key": "d64882bcece7e56c",
 "voice": "f-us",
 "text": "The table is made of wood."
@@ -23645,6 +26445,11 @@
 "text": "dog"
 },
 {
+"key": "d68496d2dcbb660c",
+"voice": "f-us",
+"text": "The village welcomed the newcomers."
+},
+{
 "key": "d68d4c75de680a7e",
 "voice": "m-us",
 "text": "\"Focus on your studies."
@@ -23668,6 +26473,11 @@
 "key": "d6c585d69c15670e",
 "voice": "f-uk",
 "text": "payment"
+},
+{
+"key": "d6c9e9ad238e359f",
+"voice": "m-us",
+"text": "Maria remembered what she had learned at school: \"Drop, cover and hold on."
 },
 {
 "key": "d6cb45c413890a58",
@@ -23730,6 +26540,11 @@
 "text": "I used to have long hair."
 },
 {
+"key": "d72a917c022d84be",
+"voice": "m-us",
+"text": "But he remained modest."
+},
+{
 "key": "d72f8df10a1754c4",
 "voice": "f-us",
 "text": "Max does not expect to live like Grandpa, but he wants to try."
@@ -23770,6 +26585,11 @@
 "text": "But neither of them could make Pepe go left."
 },
 {
+"key": "d767e197d4c52272",
+"voice": "f-us",
+"text": "repay"
+},
+{
 "key": "d76f7c01bd5796a0",
 "voice": "m-uk",
 "text": "The team departed in March: Sarah, two students of biology and a local guide."
@@ -23778,6 +26598,16 @@
 "key": "d780c6b0047b3313",
 "voice": "f-us",
 "text": "false"
+},
+{
+"key": "d7881d2d21e69dc1",
+"voice": "f-uk",
+"text": "starve"
+},
+{
+"key": "d78bf420bd3a6da0",
+"voice": "f-uk",
+"text": "corridor"
 },
 {
 "key": "d79ba6ebe0a4b977",
@@ -23885,6 +26715,11 @@
 "text": "Tom's parents enjoyed a glass of local wine at dinner."
 },
 {
+"key": "d87f15249e0b3692",
+"voice": "f-uk",
+"text": "skeleton"
+},
+{
 "key": "d8852229ddd1349e",
 "voice": "f-uk",
 "text": "But Paul lives a normal life."
@@ -23913,6 +26748,11 @@
 "key": "d89f76cd46493cd0",
 "voice": "f-us",
 "text": "hunger"
+},
+{
+"key": "d8a4ad5577e180f4",
+"voice": "m-us",
+"text": "It was their old neighbour, Mr. Kim, who had bumped his head and was trapped in his closet."
 },
 {
 "key": "d8b91f2920344ef2",
@@ -24050,6 +26890,11 @@
 "text": "He claims that he saw a ghost."
 },
 {
+"key": "d94d71ea631d6cf6",
+"voice": "f-us",
+"text": "She put the thread through the needle and sewed each small tear."
+},
+{
 "key": "d954e4dfcdc85618",
 "voice": "m-us",
 "text": "Suddenly, they heard a loud noise."
@@ -24095,6 +26940,11 @@
 "text": "shade"
 },
 {
+"key": "d9cb7116519260b4",
+"voice": "f-uk",
+"text": "pine"
+},
+{
 "key": "d9d220ec30114dc8",
 "voice": "m-us",
 "text": "Dolphins are known for their intelligence."
@@ -24120,6 +26970,11 @@
 "text": "Is this seat free?"
 },
 {
+"key": "da25dcff8dc8ecb7",
+"voice": "m-us",
+"text": "The match will be shown in a live broadcast."
+},
+{
 "key": "da349a494694abbd",
 "voice": "f-uk",
 "text": "Tell me a little about yourself."
@@ -24140,6 +26995,11 @@
 "text": "actually"
 },
 {
+"key": "da647fcbeda4c9d9",
+"voice": "f-uk",
+"text": "The wicked stepmother was cruel to Cinderella."
+},
+{
 "key": "da6fcbf598b8e70b",
 "voice": "f-us2",
 "text": "Yes. When can I start, if you hire me?"
@@ -24148,6 +27008,11 @@
 "key": "da8c88b4657ea9b6",
 "voice": "f-us",
 "text": "wind, wound, wound"
+},
+{
+"key": "da95aa0f09a90e73",
+"voice": "m-uk",
+"text": "Lucky quickly became the most loyal friend Emma had ever had."
 },
 {
 "key": "daa8d02a0be69256",
@@ -24170,6 +27035,11 @@
 "text": "The speed limit here is 50 km per hour."
 },
 {
+"key": "dadfce00cbf277e5",
+"voice": "f-uk",
+"text": "Her team spent two months removing sand from the area."
+},
+{
 "key": "dae971ca9e866c93",
 "voice": "f-us",
 "text": "You need a medical certificate for this job."
@@ -24183,6 +27053,11 @@
 "key": "daf31d7065ee7118",
 "voice": "f-uk",
 "text": "\"Who is this?"
+},
+{
+"key": "daf40bf7f2658f48",
+"voice": "f-us",
+"text": "I remember the smell of coal in the fireplace and the sound of rain dripping from the roof."
 },
 {
 "key": "db281265fdc83293",
@@ -24260,6 +27135,11 @@
 "text": "Later, the senior officer of the town congratulated him at a ceremony."
 },
 {
+"key": "dc16031d82cc73a0",
+"voice": "f-uk",
+"text": "hut"
+},
+{
 "key": "dc1ce11bc7058814",
 "voice": "f-uk",
 "text": "busy"
@@ -24285,6 +27165,11 @@
 "text": "\"You must join the club,\" she said."
 },
 {
+"key": "dc4984978d022d1b",
+"voice": "m-uk",
+"text": "The villagers felt awkward."
+},
+{
 "key": "dc57a3dd6db0e6e0",
 "voice": "f-us",
 "text": "obtain"
@@ -24293,6 +27178,11 @@
 "key": "dc69cc678c965231",
 "voice": "f-us",
 "text": "The dog is digging in the garden again."
+},
+{
+"key": "dc741f1eff378997",
+"voice": "m-uk",
+"text": "Daniel didn't let them discourage him."
 },
 {
 "key": "dc7c3af479e7fbee",
@@ -24375,6 +27265,21 @@
 "text": "On Earth, millions of people marvelled at her."
 },
 {
+"key": "dd24b36f93786653",
+"voice": "f-uk",
+"text": "sustain"
+},
+{
+"key": "dd30ae1a04f2e181",
+"voice": "f-us",
+"text": "Hang your coat in the closet."
+},
+{
+"key": "dd3a590f73a23caa",
+"voice": "m-us",
+"text": "A news bulletin on someone's phone alerted everyone that more shaking was possible."
+},
+{
 "key": "dd3e13d2744fca17",
 "voice": "f-us",
 "text": "honor"
@@ -24393,6 +27298,16 @@
 "key": "ddab4888bfec8936",
 "voice": "f-uk",
 "text": "He brought her a bunch of flowers."
+},
+{
+"key": "ddae91902df71eab",
+"voice": "f-us",
+"text": "preach"
+},
+{
+"key": "ddafca29c4090bc3",
+"voice": "f-uk",
+"text": "veterinarian"
 },
 {
 "key": "ddb37b5147e61e9f",
@@ -24505,6 +27420,21 @@
 "text": "\"I was at home all night.\""
 },
 {
+"key": "deb428e7f4d6c04d",
+"voice": "m-us",
+"text": "On the radio, a music broadcast was playing softly."
+},
+{
+"key": "decc5a528b22bba7",
+"voice": "f-us",
+"text": "expedition"
+},
+{
+"key": "ded49fdb6eca1827",
+"voice": "f-uk",
+"text": "creature"
+},
+{
 "key": "ded800a9f10ac206",
 "voice": "f-uk",
 "text": "ignore"
@@ -24570,6 +27500,16 @@
 "text": "They live on a small island in Greece."
 },
 {
+"key": "df2d8a433dee87d3",
+"voice": "f-us",
+"text": "shortly"
+},
+{
+"key": "df32682a62772e57",
+"voice": "f-us",
+"text": "veterinarian"
+},
+{
 "key": "df3f75d1260eca2b",
 "voice": "f-us",
 "text": "sense"
@@ -24615,6 +27555,11 @@
 "text": "Some chemicals are dangerous to touch."
 },
 {
+"key": "df8683567a7c9842",
+"voice": "f-uk",
+"text": "\"My sole aim is to understand how people lived,\" she says."
+},
+{
 "key": "df9bec4f5111414e",
 "voice": "f-us",
 "text": "extremely"
@@ -24650,6 +27595,11 @@
 "text": "neither"
 },
 {
+"key": "dfedd96f7479fd44",
+"voice": "m-uk",
+"text": "Emma was an ambitious young veterinarian who worked in a busy clinic in the city."
+},
+{
 "key": "dff34a344749f890",
 "voice": "f-us",
 "text": "grow, grew, grown"
@@ -24670,9 +27620,19 @@
 "text": "On the bus home, every passenger was singing."
 },
 {
+"key": "e01133b98a578537",
+"voice": "f-uk",
+"text": "compensate"
+},
+{
 "key": "e02a2105b6ac091b",
 "voice": "f-uk",
 "text": "Speaking in public gave her more confidence."
+},
+{
+"key": "e03077750018a5d3",
+"voice": "f-us",
+"text": "She looked beautiful."
 },
 {
 "key": "e03c01b6b9936bb4",
@@ -24708,6 +27668,11 @@
 "key": "e07eb464cfe2f343",
 "voice": "m-us",
 "text": "Not a single one was missing!"
+},
+{
+"key": "e083030141ac87d1",
+"voice": "f-us",
+"text": "I'm ashamed of what I said."
 },
 {
 "key": "e091008653175d44",
@@ -24788,6 +27753,11 @@
 "key": "e14933cd96f680cc",
 "voice": "f-us",
 "text": "week"
+},
+{
+"key": "e14bd502b5bd2562",
+"voice": "f-uk",
+"text": "shortly"
 },
 {
 "key": "e14ef9195a0ec31f",
@@ -24880,9 +27850,19 @@
 "text": "The knight raised his sword."
 },
 {
+"key": "e24547ba87902ea6",
+"voice": "f-us",
+"text": "Sam and his little sister Ellie were always arguing."
+},
+{
 "key": "e24be573eb071e34",
 "voice": "f-us",
 "text": "Leo looked down and caught his breath."
+},
+{
+"key": "e2506a7543311644",
+"voice": "f-us",
+"text": "polish"
 },
 {
 "key": "e25535524cfb8ab5",
@@ -24893,6 +27873,11 @@
 "key": "e2596cd6695930b6",
 "voice": "m-us",
 "text": "The professor was not evil at all!"
+},
+{
+"key": "e25d097102608e79",
+"voice": "f-us",
+"text": "His work is satisfactory, but not excellent."
 },
 {
 "key": "e2761ad4e9f1f2ee",
@@ -24943,6 +27928,11 @@
 "key": "e2b6b956915bf985",
 "voice": "f-uk",
 "text": "He lost his sight after an accident when he was a child."
+},
+{
+"key": "e2c17d583ce81680",
+"voice": "m-us",
+"text": "The knives are in the top drawer."
 },
 {
 "key": "e2cf529d825e038c",
@@ -25020,6 +28010,11 @@
 "text": "He spent his life fighting injustice."
 },
 {
+"key": "e382a21f976e1b8e",
+"voice": "f-us",
+"text": "The balloon burst with a loud bang."
+},
+{
 "key": "e388f0eb76ee50fa",
 "voice": "f-us",
 "text": "Four years later, she competed in the Paralympic Games for disabled athletes."
@@ -25048,6 +28043,16 @@
 "key": "e3b6de1b23e17511",
 "voice": "f-uk2",
 "text": "It's direct. It takes about an hour."
+},
+{
+"key": "e3baf0fd139ddfa7",
+"voice": "f-uk",
+"text": "disgraceful"
+},
+{
+"key": "e3c585165c276361",
+"voice": "f-us",
+"text": "ambitious"
 },
 {
 "key": "e3c999ada9f09c65",
@@ -25088,6 +28093,16 @@
 "key": "e41396abebb73d08",
 "voice": "f-us",
 "text": "tongue"
+},
+{
+"key": "e437a6a327848b7b",
+"voice": "f-us",
+"text": "I'm very grateful for your help."
+},
+{
+"key": "e43fa8620cca52b2",
+"voice": "f-us",
+"text": "ivory"
 },
 {
 "key": "e4419ac58a5c4b00",
@@ -25155,6 +28170,11 @@
 "text": "pay, paid, paid"
 },
 {
+"key": "e4c1042baba08b9d",
+"voice": "f-us",
+"text": "Then, slowly, she pulled him all the way home, through the narrow alley behind their house."
+},
+{
 "key": "e4cb3bd5a260430c",
 "voice": "f-us",
 "text": "spend, spent, spent"
@@ -25173,6 +28193,11 @@
 "key": "e4f6ec6cf08756f2",
 "voice": "m-uk",
 "text": "We arranged a meeting for Monday morning."
+},
+{
+"key": "e500fd9490e75696",
+"voice": "f-us",
+"text": "The farm covers two hundred acres."
 },
 {
 "key": "e506432c79424bb6",
@@ -25345,6 +28370,16 @@
 "text": "pot"
 },
 {
+"key": "e67fcee2abae944c",
+"voice": "f-uk",
+"text": "They could hear strange creatures moving in the bushes."
+},
+{
+"key": "e68a55dde199e5b9",
+"voice": "f-uk",
+"text": "The royal family lives in this palace."
+},
+{
 "key": "e6973528556f234b",
 "voice": "f-us",
 "text": "At midnight, they all made wishes together, the Russian way."
@@ -25370,6 +28405,11 @@
 "text": "Tom agreed."
 },
 {
+"key": "e6ac3e5c03eb6973",
+"voice": "f-uk",
+"text": "royal"
+},
+{
 "key": "e6ba4b0097a8da7f",
 "voice": "m-us",
 "text": "Leo set all the boxes on his bike, but when he arrived, one box was always empty."
@@ -25393,6 +28433,11 @@
 "key": "e6ffec171c7dfed4",
 "voice": "f-us",
 "text": "Let's share the pizza."
+},
+{
+"key": "e70c8d6786b3069f",
+"voice": "m-us",
+"text": "The war was full of hatred."
 },
 {
 "key": "e7100c6959843f46",
@@ -25425,6 +28470,11 @@
 "text": "\"Maybe one day we can clean the whole country!\""
 },
 {
+"key": "e757ed63c66314ab",
+"voice": "m-us",
+"text": "They live in a quiet district of the city."
+},
+{
 "key": "e76699baa58608c3",
 "voice": "f-us",
 "text": "Two weeks before the concert, they had a terrible argument."
@@ -25448,6 +28498,11 @@
 "key": "e78283e1e42a882e",
 "voice": "f-us",
 "text": "We learned to surf in Portugal."
+},
+{
+"key": "e78b272bb6112da1",
+"voice": "m-us",
+"text": "She put the thread through the needle."
 },
 {
 "key": "e7b3f3c1d8db28f7",
@@ -25525,6 +28580,11 @@
 "text": "The sign says “No parking”."
 },
 {
+"key": "e870c5a5a3ff524d",
+"voice": "f-uk",
+"text": "Now, every Halloween, children in fancy costumes follow riddles around Port Raven."
+},
+{
 "key": "e8803279ffcb39a1",
 "voice": "m-uk",
 "text": "I'm looking for…"
@@ -25595,6 +28655,11 @@
 "text": "Was the test difficult? — No, it wasn't."
 },
 {
+"key": "e9220dcf7c3a6185",
+"voice": "f-uk",
+"text": "A rich benefactor paid for the new library."
+},
+{
 "key": "e92cad8de478888c",
 "voice": "f-us",
 "text": "Can you turn the music down, please?"
@@ -25660,6 +28725,11 @@
 "text": "immediate"
 },
 {
+"key": "e9b58de71b8339fa",
+"voice": "m-uk",
+"text": "\"She's deaf,\" she said."
+},
+{
 "key": "e9b6ff1842945e20",
 "voice": "f-us",
 "text": "train"
@@ -25673,6 +28743,11 @@
 "key": "e9bcf79a246ca40a",
 "voice": "f-us",
 "text": "accompany"
+},
+{
+"key": "e9cf5f073eb639eb",
+"voice": "f-us",
+"text": "ladder"
 },
 {
 "key": "e9d361c1b55c2e8a",
@@ -25720,6 +28795,11 @@
 "text": "She is writing her first novel."
 },
 {
+"key": "ea521ae8ca7a60df",
+"voice": "m-uk",
+"text": "\"You are trying to deceive these people."
+},
+{
 "key": "ea626bb624f02108",
 "voice": "f-uk",
 "text": "I take the bus to school every morning."
@@ -25728,6 +28808,16 @@
 "key": "ea633685333930ef",
 "voice": "f-us",
 "text": "route"
+},
+{
+"key": "ea83ca693d9865ab",
+"voice": "f-us",
+"text": "complaint"
+},
+{
+"key": "ea8b9d38c57cde7b",
+"voice": "f-us",
+"text": "Sam was twelve, and he loved to tease Ellie."
 },
 {
 "key": "ea9793c0e013f972",
@@ -25755,6 +28845,11 @@
 "text": "\"Your talent."
 },
 {
+"key": "eacbbed0b188107e",
+"voice": "f-us",
+"text": "interior"
+},
+{
 "key": "ead8e3ae70cf2b2a",
 "voice": "f-us",
 "text": "rather"
@@ -25768,6 +28863,11 @@
 "key": "eae2173f01ddf7e8",
 "voice": "f-uk",
 "text": "arrow"
+},
+{
+"key": "eaea25b97350d8d4",
+"voice": "m-us",
+"text": "Pablo was crying."
 },
 {
 "key": "eaf9213442b96715",
@@ -25940,6 +29040,11 @@
 "text": "There used to be a lot of trees in this street."
 },
 {
+"key": "ec771e69938e8505",
+"voice": "f-us",
+"text": "gap"
+},
+{
 "key": "ec79299d8ead2117",
 "voice": "f-uk",
 "text": "\"We want to go back in autumn, because the leaves turn red and gold."
@@ -25975,6 +29080,16 @@
 "text": "His words made a strong impression on everyone."
 },
 {
+"key": "ecfad42fa29da176",
+"voice": "f-uk",
+"text": "The discovery made Amira famous, but she does not care about personal glory."
+},
+{
+"key": "ed00b761d5168659",
+"voice": "f-us",
+"text": "alley"
+},
+{
 "key": "ed0615d73774c35a",
 "voice": "f-uk",
 "text": "seed"
@@ -25998,6 +29113,11 @@
 "key": "ed24ae4b02ddb1db",
 "voice": "f-us",
 "text": "valley"
+},
+{
+"key": "ed3592c17ea71e05",
+"voice": "m-uk",
+"text": "The helmet protected his skull."
 },
 {
 "key": "ed4679fac6205160",
@@ -26105,9 +29225,19 @@
 "text": "I assumed you were busy, so I didn't call."
 },
 {
+"key": "ee2ed9f71cbad45b",
+"voice": "f-uk",
+"text": "highlands"
+},
+{
 "key": "ee32634913a7f8c1",
 "voice": "f-us",
 "text": "pull"
+},
+{
+"key": "ee52b396ab1c4295",
+"voice": "f-us",
+"text": "publication"
 },
 {
 "key": "ee536f7076b5b0e1",
@@ -26130,6 +29260,16 @@
 "text": "cover"
 },
 {
+"key": "ee6f362e4aebc76d",
+"voice": "f-us",
+"text": "That's a ridiculous idea!"
+},
+{
+"key": "ee801d314f92bc09",
+"voice": "f-uk",
+"text": "caretaker"
+},
+{
 "key": "ee8d5eb5d22700c3",
 "voice": "m-us",
 "text": "Reading before bed is a good habit."
@@ -26138,6 +29278,11 @@
 "key": "eec4e739689f1282",
 "voice": "f-us",
 "text": "We spent the day exploring the old town."
+},
+{
+"key": "eec67a9afa315d94",
+"voice": "m-uk",
+"text": "Today, Daniel's lodge, which overlooks the whole valley, is the place where the villagers meet every Friday evening."
 },
 {
 "key": "eec9ee8b4dd177c6",
@@ -26173,6 +29318,16 @@
 "key": "ef3ef2dd18374131",
 "voice": "f-us",
 "text": "place"
+},
+{
+"key": "ef463c257951f946",
+"voice": "f-uk",
+"text": "satisfactory"
+},
+{
+"key": "ef4aff3eaa9a87d3",
+"voice": "f-us",
+"text": "acquaint"
 },
 {
 "key": "ef5565beb0aa0f11",
@@ -26250,9 +29405,19 @@
 "text": "they"
 },
 {
+"key": "effc53f820372381",
+"voice": "f-uk",
+"text": "overweight"
+},
+{
 "key": "f0023160d9fa9532",
 "voice": "f-us",
 "text": "restaurant"
+},
+{
+"key": "f002fa6aadadbb20",
+"voice": "f-uk",
+"text": "The Egyptians believed in an afterlife."
 },
 {
 "key": "f0142631fea131b7",
@@ -26270,6 +29435,11 @@
 "text": "My sincere congratulations."
 },
 {
+"key": "f035fe36ce810f62",
+"voice": "m-uk",
+"text": "\"This is an offense,\" he said."
+},
+{
 "key": "f03baf411bf41a6f",
 "voice": "f-us",
 "text": "drink"
@@ -26283,6 +29453,16 @@
 "key": "f0461c06fd3c3a53",
 "voice": "f-us",
 "text": "thief"
+},
+{
+"key": "f08c4924fbba9adc",
+"voice": "f-us",
+"text": "inferior"
+},
+{
+"key": "f0a0caaa30d13dfa",
+"voice": "f-uk",
+"text": "The magazine celebrated fifty years of publication."
 },
 {
 "key": "f0a118321dc808fb",
@@ -26550,6 +29730,11 @@
 "text": "animal"
 },
 {
+"key": "f2cea4ca1e162145",
+"voice": "m-uk",
+"text": "They had treated Daniel as inferior, and he had saved their money."
+},
+{
 "key": "f2d2e033d3cfddae",
 "voice": "f-us",
 "text": "recall"
@@ -26630,6 +29815,16 @@
 "text": "Can you describe the man you saw?"
 },
 {
+"key": "f398eced58f2a5d9",
+"voice": "f-uk",
+"text": "arithmetic"
+},
+{
+"key": "f3a60191119fa67e",
+"voice": "f-uk",
+"text": "spoil"
+},
+{
 "key": "f3babf789d227ccb",
 "voice": "m-uk",
 "text": "Anything else?"
@@ -26658,6 +29853,11 @@
 "key": "f3e5824423c0c83d",
 "voice": "m-uk",
 "text": "I like the flower pattern on your dress."
+},
+{
+"key": "f3f23a200390c91b",
+"voice": "m-uk",
+"text": "The old palace has been restored to its former glory."
 },
 {
 "key": "f3f53ed2f12a20c1",
@@ -26730,6 +29930,11 @@
 "text": "pound"
 },
 {
+"key": "f4e3c93427bb1387",
+"voice": "m-us",
+"text": "His grandparents are buried in the village cemetery."
+},
+{
 "key": "f4ea34dc955352ee",
 "voice": "f-uk",
 "text": "A big company called Tom and confirmed that they wanted to buy his idea."
@@ -26753,6 +29958,11 @@
 "key": "f53396f97cc2be5f",
 "voice": "f-us",
 "text": "never"
+},
+{
+"key": "f53f51c3aba53f30",
+"voice": "f-us",
+"text": "satisfactory"
 },
 {
 "key": "f53fe6431bf032cf",
@@ -26790,6 +30000,11 @@
 "text": "He's gone to the shop. He'll be back soon."
 },
 {
+"key": "f58a8465a3be206b",
+"voice": "f-uk",
+"text": "elite"
+},
+{
 "key": "f591db6a61a78b17",
 "voice": "f-us",
 "text": "The answer is obvious."
@@ -26810,9 +30025,19 @@
 "text": "They wanted to merge with Mr. Rossi's workshop."
 },
 {
+"key": "f5e1d5beef9bf787",
+"voice": "m-us",
+"text": "She's very quick at mental arithmetic."
+},
+{
 "key": "f5f4a32bbf58eacd",
 "voice": "f-us",
 "text": "rough"
+},
+{
+"key": "f616cca9c7958730",
+"voice": "f-us",
+"text": "Sam wanted to win."
 },
 {
 "key": "f61811034119ea34",
@@ -26888,6 +30113,11 @@
 "key": "f6c48009629a0efe",
 "voice": "f-us",
 "text": "ingredient"
+},
+{
+"key": "f6c85068d73bcbfd",
+"voice": "f-us",
+"text": "chore"
 },
 {
 "key": "f6ca05514a160782",
@@ -26970,6 +30200,11 @@
 "text": "\"You're a hero,\" he said."
 },
 {
+"key": "f7cd6008b8dc1387",
+"voice": "f-uk",
+"text": "I bumped my head on the shelf."
+},
+{
 "key": "f7d1632e94c06f48",
 "voice": "m-uk",
 "text": "Would you like a piece of chocolate?"
@@ -26993,6 +30228,11 @@
 "key": "f7f1be46e81a3ba7",
 "voice": "f-us",
 "text": "instrument"
+},
+{
+"key": "f8036a328acbbd24",
+"voice": "f-uk",
+"text": "The old barn became a refuge for homeless animals."
 },
 {
 "key": "f809bef42a7c6d37",
@@ -27075,6 +30315,11 @@
 "text": "\"I suppose not."
 },
 {
+"key": "f8a25526474738fe",
+"voice": "f-uk",
+"text": "venture"
+},
+{
 "key": "f8a99c6e66f4b2f9",
 "voice": "f-uk",
 "text": "She didn't make a fortune or become famous, but she felt more pride than a billion dollars could buy."
@@ -27088,6 +30333,11 @@
 "key": "f8afa2bc0f4f9b10",
 "voice": "m-us",
 "text": "Mrs. Lee called the police."
+},
+{
+"key": "f8c66ca01a812e63",
+"voice": "m-us",
+"text": "They have a mutual respect for each other."
 },
 {
 "key": "f8c8b353e905b2a0",
@@ -27115,6 +30365,16 @@
 "text": "I intend to finish this book tonight."
 },
 {
+"key": "f92e9aa0f2031fbe",
+"voice": "f-uk",
+"text": "It looked like a gap between two stones."
+},
+{
+"key": "f930f7dfb37d41fb",
+"voice": "f-us",
+"text": "brilliant"
+},
+{
 "key": "f938433f4e4655fd",
 "voice": "m-us",
 "text": "You're welcome."
@@ -27135,6 +30395,16 @@
 "text": "notice"
 },
 {
+"key": "f989f6f1ada6575f",
+"voice": "f-us",
+"text": "console"
+},
+{
+"key": "f9a28e0424edebc1",
+"voice": "f-us",
+"text": "starve"
+},
+{
 "key": "f9b06250a5cac783",
 "voice": "f-us",
 "text": "eventually"
@@ -27148,6 +30418,16 @@
 "key": "f9b4651d4fd3de3f",
 "voice": "m-us",
 "text": "He sued the company for a million dollars."
+},
+{
+"key": "f9b51c0bb714de31",
+"voice": "f-us",
+"text": "elegant"
+},
+{
+"key": "f9be45ec34a0463b",
+"voice": "m-uk",
+"text": "He earns a decent salary."
 },
 {
 "key": "f9bee64a62673c08",
@@ -27170,6 +30450,11 @@
 "text": "fact"
 },
 {
+"key": "f9ebde70f658f529",
+"voice": "f-uk",
+"text": "chamber"
+},
+{
 "key": "f9eea6615eb0af83",
 "voice": "f-uk",
 "text": "Then they took a fast train to Kyoto, a quieter town with many temples."
@@ -27188,6 +30473,11 @@
 "key": "f9f80028e461f89f",
 "voice": "f-us",
 "text": "They ran into the water, laughing."
+},
+{
+"key": "fa0ffd56f1156b50",
+"voice": "f-uk",
+"text": "We rented a ski lodge for the weekend."
 },
 {
 "key": "fa10bc1c007ba3da",
@@ -27223,6 +30513,11 @@
 "key": "fa746b8dc1c040a6",
 "voice": "f-uk",
 "text": "terror"
+},
+{
+"key": "fa91fc95be5443ec",
+"voice": "f-uk",
+"text": "ivory"
 },
 {
 "key": "fa9e886b208a2bc4",
@@ -27265,6 +30560,11 @@
 "text": "positive"
 },
 {
+"key": "faf3748e8df3613c",
+"voice": "m-us",
+"text": "Then they heard someone tapping on the wall from the rear of the building."
+},
+{
 "key": "faf79704f5a208f2",
 "voice": "f-us",
 "text": "\"Many cooks have already tried,\" he said."
@@ -27283,6 +30583,11 @@
 "key": "fb036fa018596e8e",
 "voice": "f-uk",
 "text": "\"My office job was only temporary,\" Anna laughs."
+},
+{
+"key": "fb078114de8e78b4",
+"voice": "f-us",
+"text": "Last year was their fiftieth wedding anniversary."
 },
 {
 "key": "fb0dd23d4eb9dd13",
@@ -27335,6 +30640,11 @@
 "text": "The older mechanics often criticized him."
 },
 {
+"key": "fb8432567fec573f",
+"voice": "m-us",
+"text": "They found the skeleton of a dinosaur."
+},
+{
 "key": "fb872e5b5714053e",
 "voice": "f-us",
 "text": "obey"
@@ -27375,9 +30685,19 @@
 "text": "She resembles her mother."
 },
 {
+"key": "fbe7dcb7091a11f5",
+"voice": "f-us",
+"text": "forge"
+},
+{
 "key": "fbea1bfdda3c0d9e",
 "voice": "f-us",
 "text": "Be careful — don't drop the glasses!"
+},
+{
+"key": "fbf0c7cbf1ca2488",
+"voice": "f-uk",
+"text": "benefactor"
 },
 {
 "key": "fbf655114a56e782",
@@ -27385,9 +30705,19 @@
 "text": "She can't come because she's working."
 },
 {
+"key": "fc0326d68b7cfe17",
+"voice": "m-us",
+"text": "They stayed there, listening."
+},
+{
 "key": "fc050380f49c5dc9",
 "voice": "f-us2",
 "text": "Thank you very much!"
+},
+{
+"key": "fc119016435a2392",
+"voice": "f-uk",
+"text": "exceed"
 },
 {
 "key": "fc2d8033698bb812",
@@ -27405,6 +30735,11 @@
 "text": "I've got one brother."
 },
 {
+"key": "fc48dee1f46ea963",
+"voice": "f-uk",
+"text": "interior"
+},
+{
 "key": "fc512b1a163b0b1f",
 "voice": "m-us",
 "text": "Can I have a bit of your sandwich?"
@@ -27413,6 +30748,11 @@
 "key": "fc5a2f63eaad1ff8",
 "voice": "f-us",
 "text": "The critics loved the new film."
+},
+{
+"key": "fc739068e6ec1330",
+"voice": "f-uk",
+"text": "archaeology"
 },
 {
 "key": "fc795da9ee4bc753",
@@ -27540,9 +30880,19 @@
 "text": "The villagers were at a great disadvantage: there were only fifty of them, and the enemy had five hundred men."
 },
 {
+"key": "fdb3259c802d6002",
+"voice": "f-uk",
+"text": "glory"
+},
+{
 "key": "fdc067e570ad65ac",
 "voice": "f-uk",
 "text": "At the end of the week, everyone agreed: it was the best holiday ever."
+},
+{
+"key": "fdc67c1b7a8f667e",
+"voice": "f-uk",
+"text": "elegant"
 },
 {
 "key": "fde5f615b6051bfd",
@@ -27800,6 +31150,11 @@
 "text": "hidden"
 },
 {
+"key": "ffcb5dcec2464f55",
+"voice": "m-uk",
+"text": "The man ran to his car and left."
+},
+{
 "key": "ffcc8ad202c40c45",
 "voice": "m-uk",
 "text": "If you mix red and blue, you get purple."
@@ -27808,6 +31163,11 @@
 "key": "ffeb918469dd811e",
 "voice": "f-us",
 "text": "We watched a great film last night."
+},
+{
+"key": "ffef874e1418f29d",
+"voice": "m-uk",
+"text": "The next week, the village caretaker knocked on his door with a basket of food."
 },
 {
 "key": "fff650b9fe00c589",
