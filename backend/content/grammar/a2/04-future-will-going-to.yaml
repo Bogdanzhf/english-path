@@ -1,0 +1,117 @@
+title: "Future: will, going to, Present Continuous"
+title_ru: "Будущее время: will, going to, Present Continuous"
+section: tenses
+summary: "Predictions, decisions, plans and arrangements"
+summary_ru: "Прогнозы, решения, планы и договорённости"
+theory: |
+  ## will + verb
+  | + | − | ? |
+  |---|---|---|
+  | I**'ll** help you. | I **won't** (will not) help you. | **Will** you help me? |
+
+  Use **will** for:
+  - **decisions made at the moment of speaking**: *It's cold. I**'ll** close the window.*
+  - **predictions** based on opinion: *I think it **will** rain tomorrow. You'**ll** love this film.*
+  - **promises, offers, requests**: *I**'ll** call you later. **Will** you open the door?*
+  - facts about the future: *I **will be** 30 next year.*
+
+  ## be going to + verb
+  - **plans and intentions** decided before: *I**'m going to** study medicine.*
+  - **predictions based on evidence** (we can see it now): *Look at those clouds — it**'s going to** rain.*
+
+  ## Present Continuous for the future
+  - **fixed arrangements** with other people, often with a time and place: *I**'m meeting** Anna at 7 tonight. We**'re flying** to Rome on Friday.*
+
+  ## Quick comparison
+  | | |
+  |---|---|
+  | *The phone's ringing. — I**'ll** get it!* | decision now → will |
+  | *I**'m going to** buy a car this year.* | plan → going to |
+  | *I**'m seeing** the dentist at 3.* | arrangement → Present Continuous |
+theory_ru: |
+  ## will + глагол
+  | + | − | ? |
+  |---|---|---|
+  | I**'ll** help you. | I **won't** (will not) help you. | **Will** you help me? |
+
+  **will** используется для:
+  - **решений, принятых прямо сейчас**: *It's cold. I**'ll** close the window.* — Холодно. Закрою-ка окно.
+  - **прогнозов-мнений**: *I think it **will** rain tomorrow.* — Думаю, завтра будет дождь. *You'**ll** love this film.* — Тебе понравится этот фильм.
+  - **обещаний, предложений, просьб**: *I**'ll** call you later.* — Я тебе перезвоню. ***Will** you open the door?* — Откроешь дверь?
+  - фактов о будущем: *I **will be** 30 next year.* — В следующем году мне будет 30.
+
+  ## be going to + глагол — «собираюсь»
+  - **планы и намерения**, решённые заранее: *I**'m going to** study medicine.* — Я собираюсь изучать медицину.
+  - **прогнозы на основе того, что видно сейчас**: *Look at those clouds — it**'s going to** rain.* — Посмотри на тучи — сейчас пойдёт дождь.
+
+  ## Present Continuous для будущего
+  - **договорённости** с другими людьми, обычно со временем и местом: *I**'m meeting** Anna at 7 tonight.* — Сегодня в 7 я встречаюсь с Анной. *We**'re flying** to Rome on Friday.* — В пятницу мы летим в Рим (билеты куплены).
+
+  ## Быстрое сравнение
+  | | |
+  |---|---|
+  | *The phone's ringing. — I**'ll** get it!* — Я возьму! | решение сейчас → will |
+  | *I**'m going to** buy a car this year.* | план → going to |
+  | *I**'m seeing** the dentist at 3.* — В 3 у меня стоматолог. | договорённость → Present Continuous |
+
+  > После **when, if, before, after, until** в значении будущего — настоящее время: *I'll call you when I **arrive*** (не ~~when I will arrive~~).
+examples:
+  - "I'm tired. I think I*'ll* go to bed. | Я устал. Пожалуй, пойду спать."
+  - "We*'re going to* paint the kitchen this weekend. | В эти выходные мы собираемся покрасить кухню."
+  - "Be careful! You*'re going to* fall! | Осторожно! Ты сейчас упадёшь!"
+  - "She*'s getting* married in June. | В июне она выходит замуж."
+  - "Don't worry, I *won't* tell anyone. | Не волнуйся, я никому не скажу."
+  - "I'll phone you when I *get* home. | Я позвоню тебе, когда доберусь домой."
+exercises:
+  - type: choice
+    q: "I'm thirsty. — Wait, I ___ you some water."
+    options: ["'ll get", "'m going to get", "get"]
+    answer: 0
+    explain: "A decision at the moment of speaking → will."
+    explain_ru: "Решение в момент речи → will."
+  - type: choice
+    q: "We ___ a new house next year. We've already saved the money."
+    options: ["will buy", "are going to buy", "buy"]
+    answer: 1
+  - type: choice
+    q: "Look at that man! He ___ into the river!"
+    options: ["will fall", "is going to fall", "falls"]
+    answer: 1
+  - type: choice
+    q: "I ___ my parents tonight. We booked a table at 8."
+    options: ["am having dinner with", "will have dinner with", "have dinner with"]
+    answer: 0
+  - type: choice
+    q: "I'll text you when I ___ at the station."
+    options: ["will arrive", "arrive", "am going to arrive"]
+    answer: 1
+  - type: input
+    q: "I promise I ___ (not / be) late again."
+    answer: ["won't be", "will not be"]
+  - type: input
+    q: "What ___ you going to do after university?"
+    answer: ["are"]
+  - type: cloze
+    text: "A: Are you free on Saturday? B: No, I [['m visiting|am visiting]] (visit) my grandmother. A: OK, maybe I [['ll call|will call]] (call) you on Sunday then."
+  - type: error
+    text: "I think it {{is raining=>will rain}} tomorrow."
+  - type: error
+    text: "Call me when you {{will finish=>finish}}."
+  - type: order
+    q: "Составьте: «Что ты собираешься делать летом?»"
+    answer: "What are you going to do in the summer?"
+  - type: order
+    q: "Составьте: «Я помогу тебе с сумками.»"
+    answer: "I will help you with your bags."
+  - type: tf
+    items:
+      - ["We use Present Continuous for fixed arrangements in the future.", true]
+      - ["“When I will see him, I'll tell him” is correct.", false]
+  - type: listen
+    audio: "I'm meeting my friends at the cinema at seven, and after that we're going to have pizza."
+    q: "What are they going to do after the cinema?"
+    options: ["go home", "have pizza", "go dancing"]
+    answer: 1
+  - type: speak
+    answer: "I am going to learn English this year."
+    ru: "В этом году я собираюсь выучить английский."

@@ -12,3 +12,4 @@ frontend/dist-static/
 frontend/test-results/
 frontend/playwright-report/
 .claude/settings.local.json
+*.part

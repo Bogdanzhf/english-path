@@ -1,0 +1,105 @@
+title: "Past Continuous"
+title_ru: "Past Continuous — прошедшее длительное время"
+section: tenses
+summary: "I was working when you called. While she was cooking, he was reading."
+summary_ru: "I was working when you called. While she was cooking, he was reading."
+theory: |
+  ## Form: was / were + verb-ing
+  | | |
+  |---|---|
+  | + | I/he/she **was working**. You/we/they **were working**. |
+  | − | I **wasn't working**. They **weren't working**. |
+  | ? | **Was** she **working**? — Yes, she was. **Were** you **working**? — No, I wasn't. |
+
+  ## Use
+  1. An action **in progress** at a specific time in the past: *At 8 pm yesterday I **was watching** TV.*
+  2. A **longer background** action interrupted by a shorter one (Past Simple): *I **was having** a shower **when** the phone **rang**.*
+  3. Two long actions happening **at the same time**: ***While** I **was cooking**, my husband **was setting** the table.*
+  4. Setting the scene in a story: *The sun **was shining**, and birds **were singing**.*
+
+  ## when and while
+  - **when** + short action (Past Simple): *…**when** she **arrived**.*
+  - **while** + long action (Past Continuous): ***While** we **were walking**, it started to rain.*
+
+  > State verbs (know, like, want…) are not used in the continuous: *I **knew** him* (not ~~was knowing~~).
+theory_ru: |
+  ## Форма: was / were + глагол-ing
+  | | |
+  |---|---|
+  | + | I/he/she **was working**. You/we/they **were working**. |
+  | − | I **wasn't working**. They **weren't working**. |
+  | ? | **Was** she **working**? — Yes, she was. **Were** you **working**? — No, I wasn't. |
+
+  ## Когда используется
+  1. Действие было **в процессе** в определённый момент прошлого: *At 8 pm yesterday I **was watching** TV.* — Вчера в 8 вечера я смотрел телевизор (был в процессе).
+  2. **Длинное фоновое** действие, которое прервало короткое (Past Simple): *I **was having** a shower **when** the phone **rang**.* — Я принимал душ, когда зазвонил телефон.
+  3. Два длительных действия **одновременно**: ***While** I **was cooking**, my husband **was setting** the table.* — Пока я готовила, муж накрывал на стол.
+  4. Описание обстановки в рассказе: *The sun **was shining**, and birds **were singing**.* — Светило солнце, пели птицы.
+
+  ## Past Simple или Past Continuous?
+  Подсказка — русский вид глагола:
+  - «**делал**, читал, шёл» (процесс, несовершенный вид) → часто Past Continuous
+  - «**сделал**, прочитал, пришёл» (результат, совершенный вид) → Past Simple
+
+  ## when и while
+  - **when** + короткое действие (Past Simple): *…**when** she **arrived**.* — …когда она приехала.
+  - **while** + длительное действие (Past Continuous): ***While** we **were walking**, it started to rain.* — Пока мы гуляли, пошёл дождь.
+
+  > Глаголы состояния (know, like, want…) в Continuous не используются: *I **knew** him* (не ~~was knowing~~).
+examples:
+  - "What *were* you *doing* at ten o'clock last night? | Что ты делал вчера в десять вечера?"
+  - "I *was walking* home when I saw an accident. | Я шёл домой, когда увидел аварию."
+  - "While she *was sleeping*, someone stole her bag. | Пока она спала, кто-то украл её сумку."
+  - "It *was raining*, so we stayed inside. | Шёл дождь, поэтому мы остались дома."
+  - "They *weren't listening* to the teacher. | Они не слушали учителя."
+exercises:
+  - type: choice
+    q: "At 7 pm yesterday, I ___ dinner."
+    options: ["cooked", "was cooking", "am cooking"]
+    answer: 1
+  - type: choice
+    q: "She was reading when the lights ___ out."
+    options: ["went", "were going", "go"]
+    answer: 0
+    explain: "Short action that interrupts → Past Simple."
+    explain_ru: "Короткое действие, которое прервало, → Past Simple."
+  - type: choice
+    q: "___ I was waiting for the bus, I met an old friend."
+    options: ["When", "While", "During"]
+    answer: 1
+  - type: choice
+    q: "What ___ you doing when I called?"
+    options: ["was", "were", "did"]
+    answer: 1
+  - type: input
+    q: "They ___ (play) football when it started to rain."
+    answer: ["were playing"]
+  - type: input
+    q: "I ___ (not / sleep) when you came home."
+    answer: ["wasn't sleeping", "was not sleeping"]
+  - type: cloze
+    text: "It was a beautiful morning. The sun [[was shining]] (shine) and the children [[were playing]] (play) in the garden. Suddenly, a dog [[ran]] (run) into the garden."
+  - type: cloze
+    text: "I [[*was driving/drove]] to work when my phone [[was ringing/*rang]]."
+  - type: error
+    text: "While I {{watched=>was watching}} TV, my sister was doing her homework."
+  - type: error
+    text: "I {{was knowing=>knew}} the answer, but I didn't say anything."
+  - type: order
+    q: "Составьте: «Что ты делал вчера в пять часов?»"
+    answer: "What were you doing at five o'clock yesterday?"
+  - type: order
+    q: "Составьте: «Когда я пришёл, они смотрели фильм.»"
+    answer: "When I arrived, they were watching a film."
+  - type: tf
+    items:
+      - ["Past Continuous describes an action in progress in the past.", true]
+      - ["We usually use “while” with a short, finished action.", false]
+  - type: listen
+    audio: "I was cooking dinner when my brother came home with a surprise."
+    q: "What was the speaker doing?"
+    options: ["coming home", "cooking dinner", "watching TV"]
+    answer: 1
+  - type: speak
+    answer: "I was sleeping when the phone rang."
+    ru: "Я спал, когда зазвонил телефон."

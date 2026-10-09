@@ -1,0 +1,114 @@
+title: "Prepositions of place and movement"
+title_ru: "Предлоги места и движения"
+section: prepositions
+summary: "next to, opposite, between; into, out of, across, through, along"
+summary_ru: "next to, opposite, between; into, out of, across, through, along"
+theory: |
+  ## Place — where something is
+  | | |
+  |---|---|
+  | **next to / beside** | *The bank is **next to** the post office.* |
+  | **opposite** | *The café is **opposite** the station.* (facing it) |
+  | **between** | *The shop is **between** the bank and the café.* |
+  | **in front of / behind** | *There's a tree **in front of** the house.* |
+  | **above / below** | *a picture **above** the sofa* |
+  | **under / over** | *The cat is **under** the table.* |
+  | **near** | *We live **near** the sea.* |
+
+  ## Movement — where something goes
+  | | |
+  |---|---|
+  | **to / from** | *We drove **from** Paris **to** Rome.* |
+  | **into / out of** | *She went **into** the room. He ran **out of** the house.* |
+  | **onto / off** | *The cat jumped **onto** the table / **off** the table.* |
+  | **across** | *walk **across** the road / the bridge* (from one side to the other) |
+  | **through** | *drive **through** the tunnel / the forest* (inside, from one end to the other) |
+  | **along** | *walk **along** the river* (following its line) |
+  | **up / down** | *climb **up** the hill, run **down** the stairs* |
+  | **past** | *Go **past** the church.* |
+  | **towards** | *He walked **towards** me.* |
+  | **round / around** | *walk **around** the lake* |
+theory_ru: |
+  ## Место — где находится
+  | | |
+  |---|---|
+  | **next to / beside** — рядом с | *The bank is **next to** the post office.* — Банк рядом с почтой. |
+  | **opposite** — напротив | *The café is **opposite** the station.* — Кафе напротив вокзала. |
+  | **between** — между | *The shop is **between** the bank and the café.* |
+  | **in front of / behind** — перед / позади | *There's a tree **in front of** the house.* — Перед домом дерево. |
+  | **above / below** — над / под (выше / ниже) | *a picture **above** the sofa* — картина над диваном |
+  | **under / over** — под / над | *The cat is **under** the table.* |
+  | **near** — около, недалеко | *We live **near** the sea.* |
+
+  > *in front of* — «перед», а не «напротив»! «Напротив» — **opposite**.
+
+  ## Движение — куда направлено
+  | | |
+  |---|---|
+  | **to / from** — к, в / из, от | *We drove **from** Paris **to** Rome.* |
+  | **into / out of** — внутрь / изнутри | *She went **into** the room.* — Она вошла в комнату. *He ran **out of** the house.* — Он выбежал из дома. |
+  | **onto / off** — на / с (поверхности) | *The cat jumped **onto** the table / **off** the table.* |
+  | **across** — через (поперёк) | *walk **across** the road / the bridge* — перейти дорогу / мост |
+  | **through** — сквозь, через (внутри чего-то) | *drive **through** the tunnel / the forest* — проехать через туннель / лес |
+  | **along** — вдоль, по | *walk **along** the river* — идти вдоль реки |
+  | **up / down** — вверх / вниз | *climb **up** the hill, run **down** the stairs* |
+  | **past** — мимо | *Go **past** the church.* — Пройдите мимо церкви. |
+  | **towards** — по направлению к | *He walked **towards** me.* |
+  | **around** — вокруг | *walk **around** the lake* — обойти озеро |
+
+  > Через мост, улицу, поле (по поверхности) — **across**; через лес, туннель, толпу (внутри) — **through**.
+examples:
+  - "The pharmacy is *opposite* the supermarket. | Аптека напротив супермаркета."
+  - "We walked *along* the beach at sunset. | На закате мы гуляли вдоль пляжа."
+  - "The train goes *through* a long tunnel. | Поезд проходит через длинный туннель."
+  - "Be careful when you go *across* the road. | Будь осторожен, когда переходишь дорогу."
+  - "She took her keys *out of* her bag. | Она достала ключи из сумки."
+exercises:
+  - type: choice
+    q: "We swam ___ the river to the other side."
+    options: ["through", "across", "along"]
+    answer: 1
+  - type: choice
+    q: "The car drove ___ the dark tunnel."
+    options: ["across", "through", "over"]
+    answer: 1
+  - type: choice
+    q: "He jumped ___ the swimming pool."
+    options: ["into", "in front of", "out of"]
+    answer: 0
+  - type: choice
+    q: "The bank is ___ the cinema — just across the street, facing it."
+    options: ["in front of", "opposite", "behind"]
+    answer: 1
+  - type: choice
+    q: "The letter B is ___ A and C."
+    options: ["among", "between", "next"]
+    answer: 1
+  - type: input
+    q: "Walk ___ the river until you see a bridge. (вдоль)"
+    answer: ["along"]
+  - type: input
+    q: "The children ran ___ the stairs to the kitchen. (вниз)"
+    answer: ["down"]
+  - type: cloze
+    text: "Go [[out of]] the hotel and turn left. Walk [[past]] the church and go [[across]] the bridge. The museum is [[next to]] the park."
+  - type: error
+    text: "She walked {{in=>into}} the room and sat down."
+  - type: order
+    q: "Составьте: «Кошка спит под кроватью.»"
+    answer: "The cat is sleeping under the bed."
+  - type: match
+    pairs:
+      - ["into", "внутрь"]
+      - ["out of", "изнутри наружу"]
+      - ["along", "вдоль"]
+      - ["past", "мимо"]
+      - ["towards", "по направлению к"]
+  - type: listen
+    audio: "Go straight along this street, then turn right. The station is opposite the big hotel."
+    q: "Where is the station?"
+    options: ["next to the hotel", "opposite the hotel", "behind the hotel"]
+    answer: 1
+  - type: speak
+    answer: "The bus stop is opposite the bank."
+    ru: "Автобусная остановка напротив банка."

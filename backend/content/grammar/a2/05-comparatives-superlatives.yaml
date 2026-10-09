@@ -1,0 +1,115 @@
+title: "Comparatives and superlatives"
+title_ru: "Степени сравнения прилагательных"
+section: adjectives
+summary: "bigger, more interesting, the best; as … as"
+summary_ru: "bigger, more interesting, the best; as … as"
+theory: |
+  ## Rules
+  | Adjective | Comparative | Superlative |
+  |---|---|---|
+  | one syllable: cheap | cheap**er** (than) | **the** cheap**est** |
+  | ends in -e: nice | nice**r** | **the** nice**st** |
+  | consonant-vowel-consonant: big | bi**gger** | **the** bi**ggest** |
+  | -y: happy, easy | happ**ier**, eas**ier** | **the** happ**iest** |
+  | two+ syllables: expensive | **more** expensive | **the most** expensive |
+
+  ## Irregular
+  | | | |
+  |---|---|---|
+  | good | **better** | **the best** |
+  | bad | **worse** | **the worst** |
+  | far | **further / farther** | **the furthest** |
+  | many / much | **more** | **the most** |
+  | little | **less** | **the least** |
+
+  ## Using them
+  - comparative + **than**: *My brother is **taller than** me.*
+  - superlative with **the** and often **in/of**: *the tallest building **in** the world, the best day **of** my life*
+  - **as … as** = the same: *She's **as tall as** her mother.* · **not as … as** = less: *This film is**n't as good as** the book.*
+  - **much / a lot / a bit** + comparative: *much cheaper, a bit older*
+  - **the more …, the more …**: *The more you practise, the better you get.*
+theory_ru: |
+  ## Правила образования
+  | Прилагательное | Сравнительная (более…) | Превосходная (самый…) |
+  |---|---|---|
+  | один слог: cheap | cheap**er** (than) — дешевле | **the** cheap**est** — самый дешёвый |
+  | на -e: nice | nice**r** | **the** nice**st** |
+  | согласная-гласная-согласная: big | bi**gger** (удвоение) | **the** bi**ggest** |
+  | на -y: happy, easy | happ**ier**, eas**ier** | **the** happ**iest** |
+  | два и более слогов: expensive | **more** expensive | **the most** expensive |
+
+  ## Особые формы — запомнить
+  | | | |
+  |---|---|---|
+  | good — хороший | **better** — лучше | **the best** — лучший |
+  | bad — плохой | **worse** — хуже | **the worst** — худший |
+  | far — далёкий | **further / farther** | **the furthest** |
+  | many / much — много | **more** — больше | **the most** — больше всего |
+  | little — мало | **less** — меньше | **the least** — меньше всего |
+
+  ## Как использовать
+  - сравнительная + **than** (чем): *My brother is **taller than** me.* — Брат выше меня.
+  - превосходная — **с the**, часто с **in/of**: *the tallest building **in** the world* (самое высокое здание в мире), *the best day **of** my life* (лучший день в моей жизни)
+  - **as … as** — такой же, как: *She's **as tall as** her mother.* — Она такого же роста, как мама. **not as … as** — не такой, как: *This film is**n't as good as** the book.* — Фильм не так хорош, как книга.
+  - усиление: **much / a lot / a bit** + сравнительная: *much cheaper* (гораздо дешевле), *a bit older* (немного старше)
+  - **the more …, the more …** — чем больше…, тем…: *The more you practise, the better you get.* — Чем больше практикуешься, тем лучше получается.
+
+  > Не используйте *more* вместе с -er: ~~more bigger~~ → *bigger*.
+examples:
+  - "Moscow is *bigger than* St Petersburg. | Москва больше Санкт-Петербурга."
+  - "This is *the most beautiful* beach I've ever seen. | Это самый красивый пляж, который я когда-либо видел."
+  - "Today is *worse than* yesterday — it's raining again. | Сегодня хуже, чем вчера — опять дождь."
+  - "My English isn't *as good as* yours. | Мой английский не такой хороший, как твой."
+  - "Trains are *much faster* than buses. | Поезда гораздо быстрее автобусов."
+exercises:
+  - type: choice
+    q: "An elephant is ___ than a horse."
+    options: ["big", "bigger", "biggest"]
+    answer: 1
+  - type: choice
+    q: "This is ___ restaurant in town."
+    options: ["the better", "the best", "the goodest"]
+    answer: 1
+  - type: choice
+    q: "My new phone is ___ than my old one."
+    options: ["more expensive", "expensiver", "most expensive"]
+    answer: 0
+  - type: choice
+    q: "She is ___ her sister."
+    options: ["as tall than", "as tall as", "so tall as"]
+    answer: 1
+  - type: input
+    q: "happy → ___ (сравнительная)"
+    answer: ["happier"]
+  - type: input
+    q: "bad → ___ (превосходная, с the)"
+    answer: ["the worst"]
+  - type: input
+    q: "hot → ___ (сравнительная)"
+    answer: ["hotter"]
+  - type: input
+    q: "It's the ___ (interesting) book I have ever read."
+    answer: ["most interesting"]
+  - type: cloze
+    text: "Russia is the [[largest|biggest]] country in the world. It is much [[larger|bigger]] than Canada."
+  - type: error
+    text: "My brother is {{more taller=>taller}} than me."
+  - type: error
+    text: "It was the {{baddest=>worst}} day of my life."
+  - type: order
+    q: "Составьте: «Чем больше ты читаешь, тем больше знаешь.»"
+    answer: "The more you read, the more you know."
+  - type: match
+    pairs:
+      - ["good", "better"]
+      - ["bad", "worse"]
+      - ["far", "further"]
+      - ["little", "less"]
+  - type: listen
+    audio: "Tom is older than Sam, but Sam is taller than Tom."
+    q: "Who is taller?"
+    options: ["Tom", "Sam", "They are the same height"]
+    answer: 1
+  - type: speak
+    answer: "This is the best day of my life!"
+    ru: "Это лучший день в моей жизни!"

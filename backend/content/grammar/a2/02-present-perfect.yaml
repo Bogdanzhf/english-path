@@ -1,0 +1,116 @@
+title: "Present Perfect"
+title_ru: "Present Perfect — настоящее совершённое время"
+section: tenses
+summary: "I have seen, she has finished — experience, results, just / already / yet"
+summary_ru: "I have seen, she has finished — опыт, результат, just / already / yet"
+theory: |
+  ## Form: have / has + past participle (V3)
+  | | |
+  |---|---|
+  | + | I/you/we/they **have** (I've) **finished**. He/she/it **has** (she's) **finished**. |
+  | − | I **haven't** finished. She **hasn't** finished. |
+  | ? | **Have** you **finished**? — Yes, I have. / No, I haven't. |
+
+  Regular verbs: V3 = -ed (worked, played). Irregular: see → **seen**, go → **gone/been**, do → **done**, eat → **eaten**, write → **written**.
+
+  ## Use
+  The Present Perfect connects the **past and the present**. We don't say *when* it happened.
+  1. **Life experience**: *I **have been** to Japan. Have you **ever** **tried** sushi? I've **never** **seen** snow.*
+  2. **A past action with a result now**: *I've **lost** my keys* (= I don't have them now).
+  3. **Recent news**: *Prices **have gone up** again.*
+  4. With **just, already, yet**:
+     - *I've **just** eaten.* (a moment ago)
+     - *She's **already** left.* (sooner than expected)
+     - *Have you finished **yet**? I haven't finished **yet**.* (questions and negatives, at the end)
+
+  ## been or gone?
+  - *He has **gone** to Paris.* — he is there now.
+  - *He has **been** to Paris.* — he went and came back (experience).
+theory_ru: |
+  ## Форма: have / has + третья форма глагола (V3)
+  | | |
+  |---|---|
+  | + | I/you/we/they **have** (I've) **finished**. He/she/it **has** (she's) **finished**. |
+  | − | I **haven't** finished. She **hasn't** finished. |
+  | ? | **Have** you **finished**? — Yes, I have. / No, I haven't. |
+
+  Правильные глаголы: V3 = -ed (worked, played). Неправильные — третья колонка таблицы: see → **seen**, go → **gone/been**, do → **done**, eat → **eaten**, write → **written**.
+
+  ## Главная идея
+  Present Perfect — это **мост между прошлым и настоящим**. Действие произошло в прошлом, но нам важен его **результат сейчас** или сам факт. **Когда именно** — не говорим.
+
+  1. **Жизненный опыт** (когда-либо в жизни): *I **have been** to Japan.* — Я бывал в Японии. *Have you **ever** **tried** sushi?* — Ты когда-нибудь пробовал суши? *I've **never** **seen** snow.* — Я никогда не видел снега.
+  2. **Результат в настоящем**: *I've **lost** my keys.* — Я потерял ключи (и сейчас их у меня нет).
+  3. **Свежие новости**: *Prices **have gone up** again.* — Цены снова выросли.
+  4. Со словами **just, already, yet**:
+     - *I've **just** eaten.* — Я только что поел.
+     - *She's **already** left.* — Она уже ушла.
+     - *Have you finished **yet**?* — Ты уже закончил? *I haven't finished **yet**.* — Я ещё не закончил. (yet — в вопросах и отрицаниях, в конце)
+
+  > Если есть **конкретное время в прошлом** (yesterday, last year, in 2010, ago) — нужен Past Simple, а не Present Perfect: *I **saw** him **yesterday*** (не ~~have seen yesterday~~).
+
+  ## been или gone?
+  - *He has **gone** to Paris.* — Он уехал в Париж (и сейчас там).
+  - *He has **been** to Paris.* — Он бывал в Париже (съездил и вернулся).
+examples:
+  - "I*'ve* never *been* to Australia. | Я никогда не был в Австралии."
+  - "*Have* you *seen* my phone? I can't find it. | Ты не видел мой телефон? Не могу его найти."
+  - "She*'s* just *finished* her exams. | Она только что сдала экзамены."
+  - "We *haven't decided* yet. | Мы ещё не решили."
+  - "They*'ve* already *bought* the tickets. | Они уже купили билеты."
+  - "He*'s gone* to the shop. He'll be back soon. | Он ушёл в магазин. Скоро вернётся."
+exercises:
+  - type: choice
+    q: "I ___ my homework. Can I go out now?"
+    options: ["finished", "have finished", "has finished"]
+    answer: 1
+  - type: choice
+    q: "She ___ to London three times."
+    options: ["has been", "have been", "was"]
+    answer: 0
+  - type: choice
+    q: "Have you ___ tried Thai food?"
+    options: ["yet", "ever", "already"]
+    answer: 1
+  - type: choice
+    q: "I haven't read that book ___."
+    options: ["yet", "already", "just"]
+    answer: 0
+  - type: choice
+    q: "Where's Tom? — He's ___ to the gym. He'll be back at six."
+    options: ["been", "gone", "went"]
+    answer: 1
+  - type: input
+    q: "We ___ (just / arrive) at the hotel."
+    answer: ["have just arrived", "'ve just arrived"]
+  - type: input
+    q: "He ___ (never / see) the sea."
+    answer: ["has never seen", "'s never seen"]
+  - type: input
+    q: "write → ___ (третья форма)"
+    answer: ["written"]
+  - type: cloze
+    text: "[[Have]] you [[finished]] (finish) your homework yet?"
+  - type: cloze
+    text: "I [[have lost|'ve lost]] (lose) my wallet. I [[have looked|'ve looked]] (look) everywhere, but I [[haven't found|have not found]] (not / find) it yet."
+  - type: error
+    text: "I {{have seen=>saw}} that film last week."
+    explain: "Last week is a finished time → Past Simple."
+    explain_ru: "Last week — конкретное время в прошлом → Past Simple."
+  - type: error
+    text: "She has {{went=>gone}} home."
+  - type: order
+    q: "Составьте: «Ты когда-нибудь был в Италии?»"
+    answer: "Have you ever been to Italy?"
+  - type: tf
+    items:
+      - ["“He has been to Paris” means he is in Paris now.", false]
+      - ["“Yet” usually goes at the end of a negative sentence or question.", true]
+  - type: listen
+    audio: "I've already packed my bag, but I haven't bought the tickets yet."
+    q: "What hasn't the person done?"
+    options: ["packed the bag", "bought the tickets", "booked the hotel"]
+    answer: 1
+  - type: speak
+    answer: "I have never been to Japan."
+    ru: "Я никогда не был в Японии."

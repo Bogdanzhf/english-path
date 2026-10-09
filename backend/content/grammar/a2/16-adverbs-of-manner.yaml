@@ -1,0 +1,119 @@
+title: "Adverbs of manner: quickly, well, hard"
+title_ru: "Наречия образа действия: quickly, well, hard"
+section: adjectives
+summary: "Adjective or adverb? She is a careful driver. She drives carefully."
+summary_ru: "Прилагательное или наречие? She is a careful driver. She drives carefully."
+theory: |
+  ## Adjective vs adverb
+  - **Adjective** describes a **noun**: *She is a **careful** driver.*
+  - **Adverb** describes a **verb** (how?): *She drives **carefully**.*
+
+  ## Forming adverbs: adjective + -ly
+  | | |
+  |---|---|
+  | slow → slow**ly**, quiet → quiet**ly** | most adjectives |
+  | easy → eas**ily**, happy → happ**ily** | -y → -ily |
+  | gentle → gent**ly**, terrible → terrib**ly** | -le → -ly |
+  | automatic → automatic**ally** | -ic → -ically |
+
+  ## Irregular adverbs
+  | adjective | adverb |
+  |---|---|
+  | good | **well** |
+  | fast | **fast** |
+  | hard | **hard** |
+  | late | **late** |
+  | early | **early** |
+
+  > **hardly** means "almost not", not "hard": *I **hardly** slept.* · **lately** = recently.
+
+  ## After linking verbs — adjectives!
+  After **be, look, feel, seem, sound, smell, taste, get, become** we use adjectives:
+  - *You **look tired**. This soup **tastes good**. I **feel bad**.*
+theory_ru: |
+  ## Прилагательное или наречие?
+  - **Прилагательное** описывает **предмет** (какой?): *She is a **careful** driver.* — Она осторожный водитель.
+  - **Наречие** описывает **действие** (как?): *She drives **carefully**.* — Она водит осторожно.
+
+  В русском прилагательное и наречие тоже различаются (осторожный — осторожно), так что логика знакомая.
+
+  ## Образование: прилагательное + -ly
+  | | |
+  |---|---|
+  | slow → slow**ly** (медленно), quiet → quiet**ly** (тихо) | большинство |
+  | easy → eas**ily**, happy → happ**ily** | -y → -ily |
+  | gentle → gent**ly**, terrible → terrib**ly** | -le → -ly |
+  | automatic → automatic**ally** | -ic → -ically |
+
+  ## Особые наречия
+  | прилагательное | наречие |
+  |---|---|
+  | good — хороший | **well** — хорошо |
+  | fast — быстрый | **fast** — быстро |
+  | hard — трудный, усердный | **hard** — усердно |
+  | late — поздний | **late** — поздно |
+  | early — ранний | **early** — рано |
+
+  > Ловушка: **hardly** — это «едва, почти не», а не «усердно»: *I **hardly** slept.* — Я почти не спал. **lately** — «в последнее время».
+
+  ## После глаголов-связок — прилагательные!
+  После **be, look, feel, seem, sound, smell, taste, get, become** ставим прилагательное, а не наречие:
+  - *You **look tired**.* — Ты выглядишь усталым. *This soup **tastes good**.* — Суп вкусный. *I **feel bad**.* — Мне плохо.
+
+  Сравните: *I feel **bad*** (мне плохо) — *I play **badly*** (я плохо играю).
+examples:
+  - "He speaks English very *well*. | Он очень хорошо говорит по-английски."
+  - "Please drive *slowly* — the road is wet. | Пожалуйста, едь медленно — дорога мокрая."
+  - "She works *hard* every day. | Она усердно работает каждый день."
+  - "The children played *happily* in the garden. | Дети весело играли в саду."
+  - "This cake smells *delicious*! | Этот торт восхитительно пахнет!"
+exercises:
+  - type: choice
+    q: "She sings ___."
+    options: ["beautiful", "beautifully", "beauty"]
+    answer: 1
+  - type: choice
+    q: "He's a ___ driver."
+    options: ["dangerous", "dangerously", "danger"]
+    answer: 0
+  - type: choice
+    q: "You speak English very ___!"
+    options: ["good", "well", "goodly"]
+    answer: 1
+  - type: choice
+    q: "I studied ___ for the exam."
+    options: ["hard", "hardly", "hardy"]
+    answer: 0
+  - type: choice
+    q: "This music sounds ___."
+    options: ["great", "greatly", "greatful"]
+    answer: 0
+    explain: "After sound (linking verb) → adjective."
+    explain_ru: "После sound (глагол-связка) → прилагательное."
+  - type: input
+    q: "easy → ___ (наречие)"
+    answer: ["easily"]
+  - type: input
+    q: "She answered the question ___ (correct)."
+    answer: ["correctly"]
+  - type: input
+    q: "He runs very ___ (fast)."
+    answer: ["fast"]
+  - type: error
+    text: "He drives very {{careful=>carefully}}."
+  - type: error
+    text: "She doesn't play tennis very {{good=>well}}."
+  - type: error
+    text: "I feel {{badly=>bad}} today. I think I'm ill."
+  - type: order
+    q: "Составьте: «Он тихо закрыл дверь.»"
+    answer: "He closed the door quietly."
+  - type: match
+    pairs:
+      - ["good", "well"]
+      - ["fast", "fast"]
+      - ["happy", "happily"]
+      - ["gentle", "gently"]
+  - type: speak
+    answer: "She speaks French very well."
+    ru: "Она очень хорошо говорит по-французски."

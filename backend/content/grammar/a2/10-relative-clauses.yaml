@@ -1,0 +1,97 @@
+title: "Relative clauses: who, which, that, where"
+title_ru: "Придаточные определительные: who, which, that, where"
+section: clauses
+summary: "The man who lives next door; the book that I bought"
+summary_ru: "The man who lives next door; the book that I bought"
+theory: |
+  ## Joining two ideas
+  *I have a friend. **She** speaks five languages.* → *I have a friend **who** speaks five languages.*
+
+  | | |
+  |---|---|
+  | **who** — people | *the woman **who** called you* |
+  | **which** — things, animals | *the car **which** I bought* |
+  | **that** — people or things (informal) | *the film **that** we watched* |
+  | **where** — places | *the city **where** I was born* |
+  | **whose** — possession | *the boy **whose** dog bit me* |
+
+  ## Leaving out who/which/that
+  If the relative pronoun is the **object** (there is another subject after it), we can leave it out:
+  - *The book (**that**) **I** bought is great.* ✓
+  - *The man **who** lives next door is a doctor.* — here *who* is the subject, we can't omit it.
+
+  > Don't repeat the pronoun: *the book that I bought* (not ~~the book that I bought **it**~~).
+theory_ru: |
+  ## Соединяем два предложения
+  *I have a friend. **She** speaks five languages.* → *I have a friend **who** speaks five languages.* — У меня есть подруга, которая говорит на пяти языках.
+
+  Все эти слова переводятся как «который» (или «где», «чей»):
+  | | |
+  |---|---|
+  | **who** — о людях | *the woman **who** called you* — женщина, которая тебе звонила |
+  | **which** — о предметах, животных | *the car **which** I bought* — машина, которую я купил |
+  | **that** — о людях и предметах (разговорно) | *the film **that** we watched* — фильм, который мы смотрели |
+  | **where** — о местах | *the city **where** I was born* — город, где я родился |
+  | **whose** — чей | *the boy **whose** dog bit me* — мальчик, чья собака меня укусила |
+
+  ## Когда «который» можно пропустить
+  Если после *who/which/that* идёт **другое подлежащее** (кто-то делает действие с этим предметом), слово можно опустить:
+  - *The book (**that**) **I** bought is great.* ✓ — Книга, которую я купил, отличная. (В разговоре: *The book I bought…*)
+  - *The man **who** lives next door is a doctor.* — здесь *who* — сам подлежащее, опускать нельзя.
+
+  > Не повторяйте местоимение: *the book that I bought* (не ~~the book that I bought **it**~~).
+
+  > В отличие от русского, перед *who/which/that* в таких предложениях запятая **не ставится**.
+examples:
+  - "The girl *who* sits next to me is from Brazil. | Девушка, которая сидит рядом со мной, из Бразилии."
+  - "This is the phone *that* I told you about. | Это тот телефон, о котором я тебе рассказывал."
+  - "I remember the hotel *where* we stayed. | Я помню отель, в котором мы останавливались."
+  - "Do you know anyone *whose* car I could borrow? | Ты знаешь кого-нибудь, у кого можно одолжить машину?"
+  - "The film we saw last night was amazing. | Фильм, который мы смотрели вчера вечером, был потрясающим."
+exercises:
+  - type: choice
+    q: "A doctor is a person ___ helps sick people."
+    options: ["who", "which", "where"]
+    answer: 0
+  - type: choice
+    q: "This is the restaurant ___ we had our first date."
+    options: ["which", "where", "who"]
+    answer: 1
+  - type: choice
+    q: "Where is the cake ___ I made yesterday?"
+    options: ["who", "that", "where"]
+    answer: 1
+  - type: choice
+    q: "That's the woman ___ son plays for Real Madrid."
+    options: ["who", "whose", "which"]
+    answer: 1
+  - type: input
+    q: "A fridge is a machine ___ keeps food cold."
+    answer: ["which", "that"]
+  - type: input
+    q: "The people ___ live upstairs are very noisy."
+    answer: ["who", "that"]
+  - type: cloze
+    text: "Paris is the city [[where]] I met my wife. She was a student [[who|that]] studied art. We lived in a small flat [[which|that]] had a view of the river."
+  - type: choice
+    q: "Which sentence is correct?"
+    options: ["The book that I bought it is great.", "The book that I bought is great.", "The book what I bought is great."]
+    answer: 1
+    explain: "Don't repeat the pronoun: the book that I bought."
+    explain_ru: "Не повторяйте it: the book that I bought."
+  - type: error
+    text: "The man {{which=>who}} called you is my uncle."
+  - type: order
+    q: "Составьте: «Это человек, который мне помог.»"
+    answer: "This is the man who helped me."
+  - type: order
+    q: "Составьте: «Ресторан, куда мы ходили, был дорогим.»"
+    answer: "The restaurant where we went was expensive."
+  - type: tf
+    items:
+      - ["We use “who” for people.", true]
+      - ["In “The man who lives next door”, we can leave out “who”.", false]
+      - ["In “The book that I read”, we can leave out “that”.", true]
+  - type: speak
+    answer: "I have a friend who lives in London."
+    ru: "У меня есть друг, который живёт в Лондоне."

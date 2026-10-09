@@ -1,0 +1,108 @@
+title: "Used to"
+title_ru: "Used to — «раньше (бывало)»"
+section: verbs
+summary: "Past habits and states that are not true now"
+summary_ru: "Привычки и состояния в прошлом, которых теперь нет"
+theory: |
+  ## Form
+  | | |
+  |---|---|
+  | + | I **used to** play tennis. |
+  | − | I **didn't use to** like vegetables. |
+  | ? | **Did** you **use to** live here? |
+
+  > After *did/didn't* we write **use to** (without -d).
+
+  ## Use
+  For past **habits** or **states** that are **not true now**:
+  - *I **used to** smoke, but I stopped five years ago.*
+  - *There **used to** be a cinema here.* (Now there isn't.)
+  - *She **didn't use to** like coffee, but now she drinks it every day.*
+
+  ## used to vs Past Simple
+  - **used to** — repeated actions or long states: *I **used to** go to the beach every summer.*
+  - **Past Simple** — one action or a specific number of times: *I **went** to the beach **three times** last summer.*
+
+  > There is no present form: for present habits use Present Simple with *usually*: *I **usually** walk to work.*
+
+  > Don't confuse with **be used to** + -ing (= be accustomed): *I'm used to getting up early.* (see level B1)
+theory_ru: |
+  ## Форма
+  | | |
+  |---|---|
+  | + | I **used to** play tennis. — Раньше я играл в теннис. |
+  | − | I **didn't use to** like vegetables. — Раньше я не любил овощи. |
+  | ? | **Did** you **use to** live here? — Ты раньше жил здесь? |
+
+  > После *did/didn't* пишется **use to** (без -d).
+
+  ## Когда используется
+  Для привычек или состояний в прошлом, которых **сейчас уже нет**. По-русски часто переводится словом «раньше» или «бывало»:
+  - *I **used to** smoke, but I stopped five years ago.* — Раньше я курил, но бросил пять лет назад.
+  - *There **used to** be a cinema here.* — Здесь раньше был кинотеатр. (Сейчас нет.)
+  - *She **didn't use to** like coffee, but now she drinks it every day.*
+
+  ## used to или Past Simple?
+  - **used to** — повторяющиеся действия или долгие состояния: *I **used to** go to the beach every summer.* — Раньше я каждое лето ездил на море.
+  - **Past Simple** — одно действие или точное количество раз: *I **went** to the beach **three times** last summer.*
+
+  > В настоящем времени такой формы нет: для нынешних привычек — Present Simple: *I **usually** walk to work.*
+
+  > Не путайте с **be used to** + -ing — «привыкнуть к»: *I'm used to getting up early.* — Я привык рано вставать. (это уровень B1)
+examples:
+  - "I *used to* have long hair. | Раньше у меня были длинные волосы."
+  - "We *used to* live in a small village. | Раньше мы жили в маленькой деревне."
+  - "He *didn't use to* be so serious. | Раньше он не был таким серьёзным."
+  - "*Did* you *use to* play any sport at school? | Ты занимался каким-нибудь спортом в школе?"
+  - "There *used to* be a lot of trees in this street. | Раньше на этой улице было много деревьев."
+exercises:
+  - type: choice
+    q: "I ___ to school by bus, but now I walk."
+    options: ["used to go", "use to go", "used to going"]
+    answer: 0
+  - type: choice
+    q: "Did you ___ have a pet when you were a child?"
+    options: ["used to", "use to", "using to"]
+    answer: 1
+  - type: choice
+    q: "There ___ a bakery on this corner. Now it's a bank."
+    options: ["used to be", "was used to be", "use to be"]
+    answer: 0
+  - type: choice
+    q: "Last year I ___ to Spain twice."
+    options: ["used to go", "went", "use to go"]
+    answer: 1
+    explain: "A specific number of times → Past Simple."
+    explain_ru: "Точное количество раз → Past Simple."
+  - type: input
+    q: "She ___ (not / use to) eat fish, but now she loves it."
+    answer: ["didn't use to", "did not use to"]
+  - type: input
+    q: "My grandfather ___ (used to / work) in a factory."
+    answer: ["used to work"]
+  - type: cloze
+    text: "When I was a child, I [[used to]] spend every summer with my grandparents. We [[used to]] go fishing every morning."
+  - type: error
+    text: "I didn't {{used to=>use to}} like coffee."
+  - type: error
+    text: "I {{use to=>usually}} get up at seven now."
+    explain: "There's no present form of used to → usually + Present Simple."
+    explain_ru: "Used to не бывает в настоящем → usually + Present Simple."
+  - type: order
+    q: "Составьте: «Раньше я жил в Москве.»"
+    answer: "I used to live in Moscow."
+  - type: order
+    q: "Составьте: «Ты раньше играл в футбол?»"
+    answer: "Did you use to play football?"
+  - type: tf
+    items:
+      - ["“Used to” is for past habits that are not true now.", true]
+      - ["“I use to get up at 7” means I do it now.", false]
+  - type: listen
+    audio: "I used to hate vegetables, but now I'm a vegetarian!"
+    q: "What is true about the speaker now?"
+    options: ["They hate vegetables", "They don't eat meat", "They eat only meat"]
+    answer: 1
+  - type: speak
+    answer: "I used to play the piano when I was a child."
+    ru: "В детстве я играл на пианино."

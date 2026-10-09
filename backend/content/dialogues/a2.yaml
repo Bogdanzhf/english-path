@@ -1,0 +1,236 @@
+- id: a2-at-the-doctor
+  title: "At the doctor's"
+  title_ru: "У врача"
+  scene: "Tom feels ill and visits a doctor."
+  scene_ru: "Том плохо себя чувствует и идёт к врачу."
+  speakers: {Doctor: f-uk, Tom: m-us}
+  lines:
+    - "Doctor: Good morning. What seems to be the problem? | Доброе утро. На что жалуетесь?"
+    - "Tom: I've had a terrible headache for three days, and I feel very tired. | У меня ужасно болит голова уже три дня, и я чувствую сильную усталость."
+    - "Doctor: Have you got a temperature? | У вас есть температура?"
+    - "Tom: Yes, a little. It was thirty-eight this morning. | Да, небольшая. Утром было тридцать восемь."
+    - "Doctor: Any other symptoms? A cough or a sore throat? | Другие симптомы есть? Кашель или боль в горле?"
+    - "Tom: My throat hurts a bit, especially when I swallow. | Горло немного болит, особенно когда глотаю."
+    - "Doctor: Let me have a look. Open your mouth, please. Hmm, it's quite red. I think you've got flu. | Давайте посмотрим. Откройте рот, пожалуйста. Хм, довольно красное. Думаю, у вас грипп."
+    - "Tom: Is it serious? | Это серьёзно?"
+    - "Doctor: Don't worry. You should stay in bed for a few days and drink lots of water. Take these tablets three times a day. | Не волнуйтесь. Вам стоит несколько дней полежать в постели и пить много воды. Принимайте эти таблетки три раза в день."
+    - "Tom: Should I take them before or after meals? | Принимать их до или после еды?"
+    - "Doctor: After meals. If you don't feel better in a week, come back and see me. | После еды. Если через неделю не станет лучше, приходите снова."
+    - "Tom: Thank you, doctor. | Спасибо, доктор."
+  phrases:
+    - "What seems to be the problem? | На что жалуетесь?"
+    - "I've had a headache for three days. | У меня три дня болит голова."
+    - "My throat hurts. | У меня болит горло."
+    - "I've got a temperature. | У меня температура."
+    - "You should stay in bed. | Вам стоит полежать в постели."
+    - "Take these tablets three times a day. | Принимайте эти таблетки три раза в день."
+  exercises:
+    - type: choice
+      q: "How long has Tom had a headache?"
+      options: ["one day", "three days", "a week"]
+      answer: 1
+    - type: choice
+      q: "What does the doctor think Tom has?"
+      options: ["a cold", "flu", "a broken leg"]
+      answer: 1
+    - type: choice
+      q: "When should Tom take the tablets?"
+      options: ["before meals", "after meals", "at night only"]
+      answer: 1
+
+- id: a2-hotel-check-in
+  title: "Checking in at a hotel"
+  title_ru: "Заселение в отель"
+  scene: "Anna arrives at a hotel in Edinburgh."
+  scene_ru: "Анна приезжает в отель в Эдинбурге."
+  speakers: {Receptionist: m-uk, Anna: f-us}
+  lines:
+    - "Receptionist: Good evening. Welcome to the Castle Hotel. How can I help you? | Добрый вечер. Добро пожаловать в отель «Касл». Чем могу помочь?"
+    - "Anna: Hi. I have a reservation. My name is Anna Miller. | Здравствуйте. У меня забронирован номер. Меня зовут Анна Миллер."
+    - "Receptionist: Let me check. Yes, a single room for three nights. Could I see your passport, please? | Сейчас проверю. Да, одноместный номер на три ночи. Можно ваш паспорт?"
+    - "Anna: Here you are. | Вот, пожалуйста."
+    - "Receptionist: Thank you. You're in room 214, on the second floor. Here's your key card. | Спасибо. Ваш номер 214, на втором этаже. Вот ваша ключ-карта."
+    - "Anna: What time is breakfast? | Во сколько завтрак?"
+    - "Receptionist: Breakfast is served from seven to ten in the restaurant on the ground floor. | Завтрак с семи до десяти в ресторане на первом этаже."
+    - "Anna: Great. Is there Wi-Fi in the room? | Отлично. В номере есть Wi-Fi?"
+    - "Receptionist: Yes, it's free. The password is on the card. | Да, бесплатный. Пароль указан на карте."
+    - "Anna: And what time do I have to check out? | А во сколько нужно выехать?"
+    - "Receptionist: Check-out is at eleven. If you need anything, just call reception. | Выезд в одиннадцать. Если что-то понадобится, звоните на ресепшен."
+    - "Anna: Thank you very much! | Большое спасибо!"
+  phrases:
+    - "I have a reservation. | У меня бронь."
+    - "a single / double room | одноместный / двухместный номер"
+    - "What time is breakfast? | Во сколько завтрак?"
+    - "Is there Wi-Fi in the room? | В номере есть Wi-Fi?"
+    - "What time is check-out? | Во сколько выезд?"
+    - "If you need anything, just call. | Если что-то понадобится — звоните."
+  exercises:
+    - type: choice
+      q: "How many nights is Anna staying?"
+      options: ["one", "two", "three"]
+      answer: 2
+    - type: choice
+      q: "Where is the restaurant?"
+      options: ["on the second floor", "on the ground floor", "next to the hotel"]
+      answer: 1
+    - type: tf
+      items:
+        - ["The Wi-Fi costs extra.", false]
+        - ["Check-out is at eleven.", true]
+
+- id: a2-ordering-dinner
+  title: "Dinner at a restaurant"
+  title_ru: "Ужин в ресторане"
+  scene: "A couple orders dinner in an Italian restaurant."
+  scene_ru: "Пара заказывает ужин в итальянском ресторане."
+  speakers: {Waitress: f-uk, Mark: m-us, Julia: f-us}
+  lines:
+    - "Waitress: Good evening. Are you ready to order? | Добрый вечер. Готовы сделать заказ?"
+    - "Mark: Almost. What do you recommend? | Почти. Что вы посоветуете?"
+    - "Waitress: The seafood pasta is very popular, and today's special is grilled salmon. | Паста с морепродуктами очень популярна, а блюдо дня — лосось на гриле."
+    - "Julia: I'll have the salmon, please. Does it come with vegetables? | Мне, пожалуйста, лосося. Он подаётся с овощами?"
+    - "Waitress: Yes, with grilled vegetables and potatoes. | Да, с овощами на гриле и картофелем."
+    - "Mark: And I'd like the seafood pasta. Is it spicy? | А мне пасту с морепродуктами. Она острая?"
+    - "Waitress: Just a little. Would you like anything to drink? | Совсем чуть-чуть. Что будете пить?"
+    - "Julia: A bottle of sparkling water, please. | Бутылку газированной воды, пожалуйста."
+    - "Waitress: Certainly. | Конечно."
+    - "Mark: Excuse me, could we have the bill, please? | Извините, можно счёт, пожалуйста?"
+    - "Waitress: Of course. Did you enjoy your meal? | Конечно. Вам понравилось?"
+    - "Julia: It was delicious, thank you. Is service included? | Было очень вкусно, спасибо. Обслуживание включено?"
+    - "Waitress: No, it isn't, but it's up to you. | Нет, но это на ваше усмотрение."
+  phrases:
+    - "Are you ready to order? | Готовы сделать заказ?"
+    - "What do you recommend? | Что вы посоветуете?"
+    - "I'll have the salmon, please. | Мне лосося, пожалуйста."
+    - "Does it come with…? | Это подаётся с…?"
+    - "Could we have the bill, please? | Можно счёт, пожалуйста?"
+    - "Is service included? | Обслуживание включено?"
+  exercises:
+    - type: choice
+      q: "What does Julia order?"
+      options: ["seafood pasta", "grilled salmon", "pizza"]
+      answer: 1
+    - type: choice
+      q: "What do they drink?"
+      options: ["wine", "sparkling water", "juice"]
+      answer: 1
+    - type: order
+      q: "Составьте: «Можно нам счёт, пожалуйста?»"
+      answer: "Could we have the bill, please?"
+
+- id: a2-job-interview
+  title: "A job interview"
+  title_ru: "Собеседование"
+  scene: "Lucy has an interview for a job in a café."
+  scene_ru: "У Люси собеседование на работу в кафе."
+  speakers: {Manager: m-uk, Lucy: f-us}
+  lines:
+    - "Manager: Hello, Lucy. Thanks for coming. Please, take a seat. | Здравствуйте, Люси. Спасибо, что пришли. Садитесь, пожалуйста."
+    - "Lucy: Thank you. | Спасибо."
+    - "Manager: So, tell me a little about yourself. | Итак, расскажите немного о себе."
+    - "Lucy: I'm twenty-one, and I'm studying business at university. I'm friendly and I love working with people. | Мне двадцать один, я изучаю бизнес в университете. Я дружелюбная и люблю работать с людьми."
+    - "Manager: Have you ever worked in a café before? | Вы раньше работали в кафе?"
+    - "Lucy: Yes, I worked in a coffee shop last summer for three months. I made coffee and served customers. | Да, прошлым летом я три месяца работала в кофейне. Готовила кофе и обслуживала посетителей."
+    - "Manager: Great. Why do you want to work here? | Отлично. Почему вы хотите работать у нас?"
+    - "Lucy: I love your café, and I think I can learn a lot here. | Мне очень нравится ваше кафе, и я думаю, что смогу здесь многому научиться."
+    - "Manager: We need someone at weekends. Are you available on Saturdays and Sundays? | Нам нужен человек на выходные. Вы можете работать по субботам и воскресеньям?"
+    - "Lucy: Yes, I am. I don't have classes at the weekend. | Да. В выходные у меня нет занятий."
+    - "Manager: Perfect. Do you have any questions for me? | Прекрасно. У вас есть ко мне вопросы?"
+    - "Lucy: Yes. When can I start, if you hire me? | Да. Если вы меня возьмёте, когда я смогу начать?"
+    - "Manager: Next week. I'll call you tomorrow with our decision. | На следующей неделе. Я позвоню вам завтра и сообщу решение."
+  phrases:
+    - "Tell me a little about yourself. | Расскажите немного о себе."
+    - "Have you ever worked in…? | Вы когда-нибудь работали в…?"
+    - "Why do you want to work here? | Почему вы хотите работать у нас?"
+    - "Are you available on Saturdays? | Вы можете работать по субботам?"
+    - "Do you have any questions? | У вас есть вопросы?"
+    - "When can I start? | Когда я могу приступить?"
+  exercises:
+    - type: choice
+      q: "What does Lucy study?"
+      options: ["art", "business", "cooking"]
+      answer: 1
+    - type: choice
+      q: "When does the café need someone?"
+      options: ["in the mornings", "at weekends", "in the evenings"]
+      answer: 1
+    - type: tf
+      items:
+        - ["Lucy has never worked in a café.", false]
+        - ["The manager will call Lucy tomorrow.", true]
+
+- id: a2-at-the-station
+  title: "Buying a train ticket"
+  title_ru: "Покупаем билет на поезд"
+  scene: "A tourist buys a ticket at a railway station in England."
+  scene_ru: "Турист покупает билет на вокзале в Англии."
+  speakers: {Clerk: f-uk, Paul: m-us}
+  lines:
+    - "Paul: Hello. I'd like a ticket to Oxford, please. | Здравствуйте. Мне билет до Оксфорда, пожалуйста."
+    - "Clerk: Single or return? | В одну сторону или туда-обратно?"
+    - "Paul: Return, please. I'm coming back this evening. | Туда-обратно, пожалуйста. Вернусь сегодня вечером."
+    - "Clerk: That's twenty-four pounds fifty. | Двадцать четыре фунта пятьдесят."
+    - "Paul: When is the next train? | Когда следующий поезд?"
+    - "Clerk: There's one at ten fifteen from platform four. | В десять пятнадцать с четвёртой платформы."
+    - "Paul: Is it direct, or do I have to change? | Он прямой или нужна пересадка?"
+    - "Clerk: It's direct. It takes about an hour. | Прямой. Ехать около часа."
+    - "Paul: And what time is the last train back? | А во сколько последний поезд обратно?"
+    - "Clerk: At eleven thirty at night. | В половине двенадцатого ночи."
+    - "Paul: Great. Can I pay by card? | Отлично. Можно оплатить картой?"
+    - "Clerk: Yes, of course. Here's your ticket. Have a good trip! | Да, конечно. Вот ваш билет. Хорошей поездки!"
+  phrases:
+    - "A ticket to Oxford, please. | Билет до Оксфорда, пожалуйста."
+    - "Single or return? | В одну сторону или туда-обратно?"
+    - "When is the next train? | Когда следующий поезд?"
+    - "Which platform? | С какой платформы?"
+    - "Do I have to change? | Нужна пересадка?"
+    - "Have a good trip! | Хорошей поездки!"
+  exercises:
+    - type: choice
+      q: "What kind of ticket does Paul buy?"
+      options: ["single", "return", "weekly"]
+      answer: 1
+    - type: choice
+      q: "Which platform does the train leave from?"
+      options: ["two", "four", "fourteen"]
+      answer: 1
+    - type: cloze
+      text: "Is it [[direct]], or do I have to [[change]]?"
+
+- id: a2-returning-something
+  title: "Returning a broken item"
+  title_ru: "Возврат сломанной вещи"
+  scene: "Kate takes back headphones that don't work."
+  scene_ru: "Кейт возвращает наушники, которые не работают."
+  speakers: {Kate: f-us, Assistant: m-uk}
+  lines:
+    - "Kate: Excuse me. I bought these headphones here last week, but they don't work. | Извините. Я купила эти наушники у вас на прошлой неделе, но они не работают."
+    - "Assistant: Oh, I'm sorry to hear that. What's the problem exactly? | Ой, мне жаль. А в чём именно проблема?"
+    - "Kate: The left side doesn't make any sound. | Левый наушник совсем не звучит."
+    - "Assistant: Have you got the receipt? | У вас есть чек?"
+    - "Kate: Yes, here it is. | Да, вот он."
+    - "Assistant: Thank you. Would you like to exchange them for a new pair, or would you prefer a refund? | Спасибо. Хотите обменять на новую пару или предпочитаете вернуть деньги?"
+    - "Kate: Could I exchange them for a different model? These ones aren't very comfortable anyway. | А можно обменять на другую модель? Эти и так не очень удобные."
+    - "Assistant: Of course. These ones over here are very popular. They're ten pounds more expensive, though. | Конечно. Вот эти очень популярны. Правда, они на десять фунтов дороже."
+    - "Kate: That's fine. I'll pay the difference. | Ничего страшного. Я доплачу разницу."
+    - "Assistant: Great. I'll just need you to sign here. | Отлично. Мне нужна только ваша подпись вот здесь."
+    - "Kate: Thanks for your help. | Спасибо за помощь."
+  phrases:
+    - "They don't work. | Они не работают."
+    - "Have you got the receipt? | У вас есть чек?"
+    - "Can I exchange them? | Можно их обменять?"
+    - "I'd like a refund. | Я хочу вернуть деньги."
+    - "I'll pay the difference. | Я доплачу разницу."
+  exercises:
+    - type: choice
+      q: "What's wrong with the headphones?"
+      options: ["They're too big", "The left side has no sound", "They're the wrong colour"]
+      answer: 1
+    - type: choice
+      q: "What does Kate decide to do?"
+      options: ["get a refund", "exchange them for another model", "keep them"]
+      answer: 1
+    - type: tf
+      items:
+        - ["Kate didn't have the receipt.", false]
+        - ["The new headphones are more expensive.", true]

@@ -1,0 +1,110 @@
+title: "Zero and first conditional"
+title_ru: "Условные предложения: нулевой и первый тип"
+section: conditionals
+summary: "If you heat ice, it melts. If it rains, we'll stay at home."
+summary_ru: "If you heat ice, it melts. If it rains, we'll stay at home."
+theory: |
+  ## Zero conditional — general truths
+  **If + Present Simple, Present Simple**
+  - *If you **heat** ice, it **melts**.* · *If I **drink** coffee at night, I **can't** sleep.*
+  - *if* here means *when / every time*.
+
+  ## First conditional — real future possibilities
+  **If + Present Simple, will + verb**
+  - *If it **rains** tomorrow, we**'ll stay** at home.*
+  - *If you **don't hurry**, you**'ll miss** the bus.*
+  - *What **will** you **do** if you **don't get** the job?*
+
+  > Never use *will* after *if* in this structure: *If it **rains*** (not ~~if it will rain~~).
+
+  The *if*-clause can come first (with a comma) or second (no comma):
+  - *If I see her, I'll tell her.* = *I'll tell her if I see her.*
+
+  ## unless = if … not
+  - *I won't go **unless** you come with me.* = *I won't go **if** you **don't** come with me.*
+
+  ## Other words: when, as soon as, before, after, until
+  Same rule — Present Simple for the future: *I'll call you **as soon as** I **arrive**.*
+
+  Instead of *will*, we can use *can, may, might, should* or an imperative: *If you're tired, **go** to bed.*
+theory_ru: |
+  ## Нулевой тип — общие истины
+  **If + Present Simple, Present Simple**
+  - *If you **heat** ice, it **melts**.* — Если нагреть лёд, он тает.
+  - *If I **drink** coffee at night, I **can't** sleep.* — Если я пью кофе на ночь, я не могу уснуть.
+  - Здесь *if* значит «когда, каждый раз когда».
+
+  ## Первый тип — реальное будущее
+  **If + Present Simple, will + глагол**
+  - *If it **rains** tomorrow, we**'ll stay** at home.* — Если завтра пойдёт дождь, мы останемся дома.
+  - *If you **don't hurry**, you**'ll miss** the bus.* — Если не поторопишься, опоздаешь на автобус.
+  - *What **will** you **do** if you **don't get** the job?* — Что ты будешь делать, если не получишь работу?
+
+  > Главная ловушка для русскоговорящих: в русском «если пойдёт дождь» — будущее, а в английском после **if** — **настоящее**: *If it **rains*** (не ~~if it will rain~~).
+
+  Часть с *if* может стоять первой (тогда ставится запятая) или второй (без запятой):
+  - *If I see her, I'll tell her.* = *I'll tell her if I see her.*
+
+  ## unless = if … not — «если не»
+  - *I won't go **unless** you come with me.* — Я не пойду, если ты не пойдёшь со мной.
+
+  ## when, as soon as, before, after, until
+  То же правило — настоящее время вместо будущего: *I'll call you **as soon as** I **arrive**.* — Позвоню, как только приеду.
+
+  Вместо *will* можно использовать *can, may, might, should* или повелительное наклонение: *If you're tired, **go** to bed.* — Если устал, ложись спать.
+examples:
+  - "If you mix red and blue, you *get* purple. | Если смешать красный и синий, получится фиолетовый."
+  - "If I *have* time, I*'ll* help you. | Если у меня будет время, я тебе помогу."
+  - "If you don't study, you *won't pass* the exam. | Если не будешь заниматься, не сдашь экзамен."
+  - "We'll go to the beach *unless* it rains. | Мы пойдём на пляж, если не будет дождя."
+  - "I'll text you as soon as I *land*. | Напишу тебе, как только приземлюсь."
+exercises:
+  - type: choice
+    q: "If it ___ tomorrow, we'll go to the park."
+    options: ["is sunny", "will be sunny", "would be sunny"]
+    answer: 0
+  - type: choice
+    q: "If you heat water to 100°C, it ___."
+    options: ["boils", "will boiling", "boiled"]
+    answer: 0
+  - type: choice
+    q: "If you don't leave now, you ___ late."
+    options: ["are", "will be", "be"]
+    answer: 1
+  - type: choice
+    q: "I won't go ___ you go too."
+    options: ["if", "unless", "when"]
+    answer: 1
+  - type: input
+    q: "If I ___ (see) Tom, I'll give him your message."
+    answer: ["see"]
+  - type: input
+    q: "She ___ (be) angry if you forget her birthday."
+    answer: ["will be", "'ll be"]
+  - type: input
+    q: "What will you do if you ___ (not / pass) the test?"
+    answer: ["don't pass", "do not pass"]
+  - type: cloze
+    text: "If we [[take]] (take) a taxi, we [[will arrive|'ll arrive]] (arrive) on time. If we [[go]] (go) by bus, we [[will be|'ll be]] (be) late."
+  - type: error
+    text: "If it {{will snow=>snows}}, the schools will close."
+  - type: error
+    text: "I'll call you when I {{will get=>get}} home."
+  - type: order
+    q: "Составьте: «Если ты устал, иди спать.»"
+    answer: "If you are tired, go to bed."
+  - type: order
+    q: "Составьте: «Что ты будешь делать, если опоздаешь на поезд?»"
+    answer: "What will you do if you miss the train?"
+  - type: tf
+    items:
+      - ["After “if” we use Present Simple to talk about the future.", true]
+      - ["“Unless” means “if”.", false]
+  - type: listen
+    audio: "If the weather is good on Saturday, we'll have a picnic by the lake. If not, we'll go to the cinema."
+    q: "What will they do if it rains?"
+    options: ["have a picnic", "go to the cinema", "stay at home"]
+    answer: 1
+  - type: speak
+    answer: "If I have time, I will call you."
+    ru: "Если у меня будет время, я тебе позвоню."

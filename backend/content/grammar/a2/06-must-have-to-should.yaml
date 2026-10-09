@@ -1,0 +1,104 @@
+title: "Must, have to, should"
+title_ru: "Must, have to, should — долженствование и советы"
+section: modals
+summary: "Rules, obligation, advice; mustn't vs don't have to"
+summary_ru: "Правила, обязанности, советы; mustn't и don't have to"
+theory: |
+  ## must / have to — obligation
+  - **must** — strong obligation, often from the speaker or written rules: *I **must** call my mum. Passengers **must** wear seat belts.*
+  - **have to** — obligation from outside (rules, situation): *I **have to** wear a uniform at work. She **has to** get up at 5.*
+  - Past: **had to** (there is no "musted"): *I **had to** work late yesterday.*
+  - Future: **will have to**: *You'**ll have to** wait.*
+
+  ## mustn't vs don't have to — very different!
+  | | |
+  |---|---|
+  | **mustn't** = it is forbidden | *You **mustn't** smoke here.* |
+  | **don't have to** = it isn't necessary | *You **don't have to** come — it's optional.* |
+
+  ## should — advice
+  - *You **should** see a doctor. You **shouldn't** eat so much sugar.*
+  - Asking for advice: ***Should** I tell him the truth?*
+  - **ought to** has the same meaning, but is more formal: *You **ought to** apologise.*
+
+  > All these are followed by the base verb: *must **go**, should **go*** (not ~~must to go~~). But: **have to** go.
+theory_ru: |
+  ## must / have to — «должен, надо»
+  - **must** — сильная обязанность, обычно по мнению говорящего или по письменным правилам: *I **must** call my mum.* — Мне обязательно нужно позвонить маме. *Passengers **must** wear seat belts.* — Пассажиры должны пристегнуться.
+  - **have to** — обязанность из-за внешних обстоятельств: *I **have to** wear a uniform at work.* — На работе мне приходится носить форму. *She **has to** get up at 5.* — Ей надо вставать в 5.
+  - Прошедшее время — только **had to**: *I **had to** work late yesterday.* — Вчера мне пришлось работать допоздна.
+  - Будущее — **will have to**: *You'**ll have to** wait.* — Придётся подождать.
+
+  ## mustn't и don't have to — совсем разные!
+  | | |
+  |---|---|
+  | **mustn't** = нельзя, запрещено | *You **mustn't** smoke here.* — Здесь нельзя курить. |
+  | **don't have to** = не обязательно, не нужно | *You **don't have to** come.* — Можешь не приходить (не обязательно). |
+
+  Это частая ловушка: «You mustn't pay» = «Платить запрещено», а «You don't have to pay» = «Платить не обязательно».
+
+  ## should — совет «следует, стоит»
+  - *You **should** see a doctor.* — Тебе стоит сходить к врачу. *You **shouldn't** eat so much sugar.* — Тебе не стоит есть столько сахара.
+  - Просим совета: ***Should** I tell him the truth?* — Мне сказать ему правду?
+  - **ought to** — то же значение, но формальнее: *You **ought to** apologise.* — Тебе следует извиниться.
+
+  > После must, should — глагол **без to**: *must **go**, should **go*** (не ~~must to go~~). Но **have to** go — с to.
+examples:
+  - "You *must* be quiet in the library. | В библиотеке нужно соблюдать тишину."
+  - "I *have to* work on Saturday this week. | На этой неделе мне придётся работать в субботу."
+  - "You *mustn't* touch the paintings. | Картины трогать нельзя."
+  - "You *don't have to* bring anything — we have everything. | Ничего не нужно приносить — у нас всё есть."
+  - "You *should* try the fish here — it's excellent. | Тебе стоит попробовать здесь рыбу — она отличная."
+  - "We *had to* wait two hours at the airport. | Нам пришлось ждать в аэропорту два часа."
+exercises:
+  - type: choice
+    q: "You ___ drive on the left in the UK. It's the law."
+    options: ["should", "have to", "don't have to"]
+    answer: 1
+  - type: choice
+    q: "It's a secret. You ___ tell anyone!"
+    options: ["mustn't", "don't have to", "shouldn't to"]
+    answer: 0
+  - type: choice
+    q: "Tomorrow is Sunday, so I ___ get up early."
+    options: ["mustn't", "don't have to", "must"]
+    answer: 1
+  - type: choice
+    q: "You look tired. You ___ go to bed early."
+    options: ["should", "must to", "have"]
+    answer: 0
+  - type: choice
+    q: "Yesterday I ___ stay at work until 9 pm."
+    options: ["must", "had to", "musted"]
+    answer: 1
+  - type: input
+    q: "She ___ (have to) wear glasses for reading. (she)"
+    answer: ["has to"]
+  - type: input
+    q: "___ I take an umbrella? — Yes, it might rain. (совет)"
+    answer: ["Should"]
+  - type: error
+    text: "You must {{to wear=>wear}} a helmet."
+  - type: error
+    text: "He {{have to=>has to}} take the bus every day."
+  - type: match
+    pairs:
+      - ["You mustn't park here.", "Здесь парковаться запрещено."]
+      - ["You don't have to pay.", "Платить не обязательно."]
+      - ["You should rest.", "Тебе стоит отдохнуть."]
+      - ["I had to leave.", "Мне пришлось уйти."]
+  - type: order
+    q: "Составьте: «Тебе не стоит пить так много кофе.»"
+    answer: "You shouldn't drink so much coffee."
+  - type: tf
+    items:
+      - ["“Mustn't” and “don't have to” mean the same.", false]
+      - ["The past of “must” (obligation) is “had to”.", true]
+  - type: listen
+    audio: "You don't have to buy a ticket for children under five, but you must keep them with you."
+    q: "Do children under five need a ticket?"
+    options: ["Yes", "No"]
+    answer: 1
+  - type: speak
+    answer: "You should drink more water."
+    ru: "Тебе стоит пить больше воды."

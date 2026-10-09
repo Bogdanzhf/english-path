@@ -1,0 +1,102 @@
+title: "Verb + -ing or verb + to"
+title_ru: "Глагол + -ing или глагол + to"
+section: verbs
+summary: "I enjoy swimming, I decided to stay, I'm good at cooking"
+summary_ru: "I enjoy swimming, I decided to stay, I'm good at cooking"
+theory: |
+  ## verb + -ing
+  After: **enjoy, like, love, hate, don't mind, finish, stop, keep, avoid, miss, suggest, imagine, practise, spend (time)**
+  - *I **enjoy cooking**. She **finished writing** the report. **Keep trying**!*
+
+  ## verb + to + verb
+  After: **want, need, decide, hope, plan, promise, agree, refuse, learn, try, offer, forget, manage, would like**
+  - *We **decided to stay**. He **promised to call**. I **managed to finish** on time.*
+
+  ## preposition + -ing
+  After any preposition (in, on, at, of, about, for, without, before, after…), use **-ing**:
+  - *I'm good **at cooking**. Thank you **for helping**. She left **without saying** goodbye.*
+  - *I'm interested **in learning** Spanish.*
+
+  ## -ing as a subject
+  ***Swimming** is good for you. **Learning** languages takes time.*
+
+  ## to + verb for purpose — “in order to”
+  *I went to the shop **to buy** some milk.* (not ~~for buy~~)
+theory_ru: |
+  ## Глагол + -ing
+  После: **enjoy** (наслаждаться), **like/love/hate**, **don't mind** (не против), **finish** (закончить), **stop** (перестать), **keep** (продолжать), **avoid** (избегать), **miss** (скучать), **suggest** (предлагать), **imagine** (представлять), **practise** (практиковать), **spend time** (проводить время)
+  - *I **enjoy cooking**.* — Я люблю готовить. *She **finished writing** the report.* — Она дописала отчёт. ***Keep trying**!* — Продолжай пытаться!
+
+  ## Глагол + to + глагол
+  После: **want, need, decide** (решить), **hope** (надеяться), **plan, promise** (обещать), **agree** (согласиться), **refuse** (отказаться), **learn** (научиться), **try** (стараться), **offer** (предложить), **forget**, **manage** (суметь), **would like**
+  - *We **decided to stay**.* — Мы решили остаться. *He **promised to call**.* — Он обещал позвонить. *I **managed to finish** on time.* — Мне удалось закончить вовремя.
+
+  ## Предлог + -ing
+  После **любого** предлога (in, on, at, of, about, for, without, before, after…) — форма **-ing**:
+  - *I'm good **at cooking**.* — Я хорошо готовлю. *Thank you **for helping**.* — Спасибо за помощь. *She left **without saying** goodbye.* — Она ушла, не попрощавшись.
+  - *I'm interested **in learning** Spanish.* — Мне интересно учить испанский.
+
+  ## -ing как подлежащее
+  ***Swimming** is good for you.* — Плавание полезно. ***Learning** languages takes time.* — Изучение языков требует времени.
+
+  ## to + глагол — цель «чтобы»
+  *I went to the shop **to buy** some milk.* — Я пошёл в магазин, чтобы купить молока. (не ~~for buy~~ — частая ошибка!)
+
+  > Запоминайте глаголы группами — составьте свои примеры: «I enjoy…, I decided to…».
+examples:
+  - "I *don't mind waiting*. | Я не против подождать."
+  - "She *refused to answer* the question. | Она отказалась отвечать на вопрос."
+  - "*Reading* before bed helps me relax. | Чтение перед сном помогает мне расслабиться."
+  - "He's afraid *of flying*. | Он боится летать."
+  - "I came here *to talk* to you. | Я пришёл сюда, чтобы поговорить с тобой."
+  - "We're planning *to move* to the countryside. | Мы планируем переехать за город."
+exercises:
+  - type: choice
+    q: "I enjoy ___ in the sea."
+    options: ["to swim", "swimming", "swim"]
+    answer: 1
+  - type: choice
+    q: "They decided ___ a new car."
+    options: ["buying", "to buy", "buy"]
+    answer: 1
+  - type: choice
+    q: "Thank you for ___ me."
+    options: ["help", "to help", "helping"]
+    answer: 2
+  - type: choice
+    q: "I went to the bank ___ some money."
+    options: ["for get", "to get", "getting"]
+    answer: 1
+  - type: choice
+    q: "Have you finished ___ the book?"
+    options: ["reading", "to read", "read"]
+    answer: 0
+  - type: input
+    q: "She promised ___ (call) me tonight."
+    answer: ["to call"]
+  - type: input
+    q: "Avoid ___ (eat) too late in the evening."
+    answer: ["eating"]
+  - type: input
+    q: "I'm not very good at ___ (dance)."
+    answer: ["dancing"]
+  - type: input
+    q: "___ (smoke) is bad for your health."
+    answer: ["Smoking"]
+  - type: cloze
+    text: "I hope [[to see]] (see) you soon. I really miss [[talking]] (talk) to you. Let's try [[to meet]] (meet) next week."
+  - type: error
+    text: "I'm interested {{to learn=>in learning}} Chinese."
+  - type: error
+    text: "He suggested {{to go=>going}} to the cinema."
+  - type: order
+    q: "Составьте: «Она ушла, не сказав ни слова.»"
+    answer: "She left without saying a word."
+  - type: match
+    pairs:
+      - ["enjoy", "+ -ing"]
+      - ["decide", "+ to"]
+      - ["after a preposition", "always -ing"]
+  - type: speak
+    answer: "I enjoy learning new words."
+    ru: "Мне нравится учить новые слова."

@@ -1,0 +1,111 @@
+title: "Quantifiers: a few, a little, too much, enough"
+title_ru: "Квантификаторы: a few, a little, too much, enough"
+section: nouns
+summary: "a few friends, a little money, too many people, not enough time"
+summary_ru: "a few friends, a little money, too many people, not enough time"
+theory: |
+  ## a few / a little — some (positive)
+  | countable | uncountable |
+  |---|---|
+  | **a few** friends | **a little** money |
+  | *I have **a few** friends here.* (some — that's good) | *I have **a little** time.* |
+
+  ## few / little — not many (negative)
+  *Very **few** people came.* (disappointing) · *There's **little** hope.* (almost none)
+
+  ## too much / too many — more than we want
+  | | |
+  |---|---|
+  | **too many** + countable | *There are **too many** cars in the city.* |
+  | **too much** + uncountable | *I drank **too much** coffee.* |
+
+  ## enough / not enough
+  - before a noun: *We have **enough** chairs. There isn't **enough** milk.*
+  - after an adjective: *It isn't warm **enough**.*
+
+  ## lots of / plenty of
+  ***Lots of** people. **Plenty of** time.* — informal "a lot of".
+
+  ## all / most / some / none
+  ***All** students must…, **Most** people…, **Some** of my friends…, **None** of them…*
+theory_ru: |
+  ## a few / a little — «несколько, немного» (позитивно)
+  | исчисляемые | неисчисляемые |
+  |---|---|
+  | **a few** friends — несколько друзей | **a little** money — немного денег |
+  | *I have **a few** friends here.* — У меня здесь есть несколько друзей (это хорошо). | *I have **a little** time.* — У меня есть немного времени. |
+
+  ## few / little без a — «мало» (негативно)
+  *Very **few** people came.* — Пришло очень мало людей (жаль). *There's **little** hope.* — Надежды мало.
+
+  > Разница только в артикле, но смысл противоположный: *a little time* — «немного есть», *little time* — «почти нет».
+
+  ## too much / too many — «слишком много»
+  | | |
+  |---|---|
+  | **too many** + исчисляемые | *There are **too many** cars in the city.* — В городе слишком много машин. |
+  | **too much** + неисчисляемые | *I drank **too much** coffee.* — Я выпил слишком много кофе. |
+
+  ## enough / not enough — «достаточно / недостаточно»
+  - перед существительным: *We have **enough** chairs.* — Стульев хватает. *There isn't **enough** milk.* — Молока не хватает.
+  - после прилагательного: *It isn't warm **enough**.* — Недостаточно тепло.
+
+  ## lots of / plenty of — разговорное «много»
+  ***Lots of** people.* — Куча народу. ***Plenty of** time.* — Полно времени.
+
+  ## all / most / some / none
+  ***All** students must…* (все студенты), ***Most** people…* (большинство людей), ***Some** of my friends…* (некоторые из моих друзей), ***None** of them…* (никто из них)
+examples:
+  - "Can I ask you *a few* questions? | Можно задать тебе несколько вопросов?"
+  - "Add *a little* salt to the soup. | Добавь в суп немного соли."
+  - "There were *too many* people at the concert. | На концерте было слишком много людей."
+  - "I don't have *enough* money for a new car. | У меня недостаточно денег на новую машину."
+  - "*Most* of my friends live in the city. | Большинство моих друзей живут в городе."
+exercises:
+  - type: choice
+    q: "I need ___ minutes to finish this."
+    options: ["a few", "a little", "much"]
+    answer: 0
+  - type: choice
+    q: "Would you like ___ milk in your tea?"
+    options: ["a few", "a little", "many"]
+    answer: 1
+  - type: choice
+    q: "There are ___ cars in the city centre. It's impossible to park."
+    options: ["too much", "too many", "enough"]
+    answer: 1
+  - type: choice
+    q: "I can't buy it. I haven't got ___ money."
+    options: ["enough", "too much", "a few"]
+    answer: 0
+  - type: choice
+    q: "He's sad because he has ___ friends. (almost no friends)"
+    options: ["a few", "few", "a little"]
+    answer: 1
+  - type: input
+    q: "You eat ___ sugar. It's bad for you. (слишком много)"
+    answer: ["too much"]
+  - type: input
+    q: "The room isn't big ___ for a party. (достаточно)"
+    answer: ["enough"]
+  - type: cloze
+    text: "There are [[too many]] students in this class and not [[enough]] chairs. We need [[a few]] more."
+  - type: error
+    text: "There is {{too many=>too much}} noise in here."
+  - type: error
+    text: "I have {{a few=>a little}} time before the meeting."
+  - type: order
+    q: "Составьте: «Большинство людей любят шоколад.»"
+    answer: "Most people like chocolate."
+  - type: tf
+    items:
+      - ["“A little money” is more positive than “little money”.", true]
+      - ["We say “too many water”.", false]
+  - type: listen
+    audio: "There's a little bread and a few eggs, but there isn't enough milk for a cake."
+    q: "What is there not enough of?"
+    options: ["bread", "eggs", "milk"]
+    answer: 2
+  - type: speak
+    answer: "I don't have enough time."
+    ru: "У меня недостаточно времени."

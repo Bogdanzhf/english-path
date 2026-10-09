@@ -1,0 +1,110 @@
+title: "Present Perfect or Past Simple?"
+title_ru: "Present Perfect или Past Simple?"
+section: tenses
+summary: "I have lost my keys vs I lost my keys yesterday; for and since"
+summary_ru: "I have lost my keys и I lost my keys yesterday; for и since"
+theory: |
+  ## The key question: is the time finished?
+  | Present Perfect | Past Simple |
+  |---|---|
+  | time is **not stated** or **not finished** | time is **finished** and stated or clear |
+  | *I've visited Paris.* (in my life) | *I visited Paris **in 2019**.* |
+  | *She's had three coffees **today**.* (today isn't over) | *She had three coffees **yesterday**.* |
+  | ***Have** you **seen** the new film?* | *What **did** you **think** of it?* (details of a specific event) |
+
+  A typical conversation starts with Present Perfect and continues with Past Simple:
+  - *Have you ever been to Spain?* — *Yes, I have. I **went** there last summer. It **was** great!*
+
+  ## Time words
+  - **Present Perfect**: ever, never, just, already, yet, so far, today, this week, recently
+  - **Past Simple**: yesterday, last week, ago, in 2010, when I was young, at 6 o'clock
+
+  ## for and since (with Present Perfect)
+  For situations that started in the past and continue **now**:
+  - **for** + a period: *for two years, for a week, for ages*
+  - **since** + a starting point: *since 2015, since Monday, since I was a child*
+  - *I **have lived** here **for** ten years / **since** 2015.* (I still live here)
+  - Question: ***How long have** you **known** her?*
+theory_ru: |
+  ## Главный вопрос: время закончилось?
+  | Present Perfect | Past Simple |
+  |---|---|
+  | время **не указано** или **ещё не закончилось** | время **закончилось** и указано или понятно |
+  | *I've visited Paris.* — Я бывал в Париже (за жизнь). | *I visited Paris **in 2019**.* — Я был в Париже в 2019. |
+  | *She's had three coffees **today**.* (сегодня ещё не кончилось) | *She had three coffees **yesterday**.* |
+  | ***Have** you **seen** the new film?* — Ты видел новый фильм? | *What **did** you **think** of it?* — И как тебе? (подробности конкретного события) |
+
+  Типичный разговор начинается с Present Perfect (факт), а продолжается в Past Simple (подробности):
+  - *Have you ever been to Spain?* — *Yes, I have. I **went** there last summer. It **was** great!*
+
+  ## Слова-маркеры
+  - **Present Perfect**: ever, never, just, already, yet, so far (пока что), today, this week, recently (недавно)
+  - **Past Simple**: yesterday, last week, ago, in 2010, when I was young, at 6 o'clock
+
+  ## for и since — «уже столько-то» (с Present Perfect)
+  Для ситуаций, которые начались в прошлом и **продолжаются сейчас**. В русском здесь настоящее время, в английском — Present Perfect!
+  - **for** + период: *for two years* (два года), *for a week*, *for ages* (целую вечность)
+  - **since** + точка начала: *since 2015* (с 2015 года), *since Monday*, *since I was a child*
+  - *I **have lived** here **for** ten years.* — Я живу здесь десять лет (и сейчас живу). (не ~~I live here for ten years~~)
+  - Вопрос: ***How long have** you **known** her?* — Как давно ты её знаешь?
+examples:
+  - "I*'ve* *lost* my glasses. Have you seen them? | Я потерял очки. Ты их не видел?"
+  - "I *lost* my glasses on the bus yesterday. | Вчера я потерял очки в автобусе."
+  - "We*'ve known* each other *for* twenty years. | Мы знаем друг друга двадцать лет."
+  - "She*'s worked* here *since* 2018. | Она работает здесь с 2018 года."
+  - "Have you ever met a famous person? — Yes, I *met* a famous actor at the airport last year. | Ты когда-нибудь встречал знаменитость? — Да, в прошлом году в аэропорту я встретил известного актёра."
+exercises:
+  - type: choice
+    q: "I ___ him two days ago."
+    options: ["have seen", "saw", "see"]
+    answer: 1
+  - type: choice
+    q: "I ___ this film. Let's watch something else."
+    options: ["have already seen", "already saw yesterday", "see"]
+    answer: 0
+  - type: choice
+    q: "They have been married ___ 2010."
+    options: ["for", "since", "from"]
+    answer: 1
+  - type: choice
+    q: "I've studied English ___ three years."
+    options: ["for", "since", "ago"]
+    answer: 0
+  - type: choice
+    q: "How long ___ you lived in this city?"
+    options: ["do", "did", "have"]
+    answer: 2
+  - type: choice
+    q: "When ___ you buy that jacket?"
+    options: ["have", "did", "has"]
+    answer: 1
+    explain: "When asks about a specific past time → Past Simple."
+    explain_ru: "When спрашивает о конкретном времени → Past Simple."
+  - type: cloze
+    text: "Have you ever [[been]] to New York? — Yes, I [[went]] there in 2022. We [[stayed]] in a hotel near Central Park."
+  - type: cloze
+    text: "I [[*have known/know/knew]] Maria for ten years. We [[met/*have met/meet]] at university."
+    explain: "Second gap: we met at university — a finished event → Past Simple."
+    explain_ru: "Во втором пропуске — конкретное событие в прошлом: met."
+  - type: error
+    text: "I {{live=>have lived}} in this flat for five years."
+    explain: "Started in the past and continues → Present Perfect with for."
+    explain_ru: "Началось в прошлом и продолжается → Present Perfect + for."
+  - type: error
+    text: "She {{has finished=>finished}} university in 2020."
+  - type: input
+    q: "since or for? ___ last summer"
+    answer: ["since"]
+  - type: input
+    q: "since or for? ___ a long time"
+    answer: ["for"]
+  - type: order
+    q: "Составьте: «Как давно ты здесь работаешь?»"
+    answer: "How long have you worked here?"
+  - type: tf
+    items:
+      - ["We use Past Simple with “yesterday” and “ago”.", true]
+      - ["“I live here since 2015” is correct English.", false]
+  - type: speak
+    answer: "I have lived in this city for five years."
+    ru: "Я живу в этом городе пять лет."

@@ -1,0 +1,121 @@
+title: "Common phrasal verbs"
+title_ru: "Самые нужные фразовые глаголы"
+section: verbs
+summary: "get up, look for, turn on, give up — verb + particle"
+summary_ru: "get up, look for, turn on, give up — глагол + частица"
+theory: |
+  ## What is a phrasal verb?
+  A verb + a small word (up, down, on, off, out, in, back, away…). The meaning is often new:
+  - *give* (дать) + *up* → **give up** = stop trying
+  - *look* + *after* → **look after** = take care of
+
+  ## Everyday phrasal verbs
+  | | |
+  |---|---|
+  | **get up** | leave your bed |
+  | **wake up** | stop sleeping |
+  | **turn on / off** | start / stop a machine or light |
+  | **put on / take off** | clothes |
+  | **look for** | try to find |
+  | **look after** | take care of |
+  | **find out** | discover information |
+  | **give up** | stop doing something |
+  | **go out** | leave home for fun |
+  | **come back** | return |
+  | **pick up** | lift; collect someone |
+  | **fill in** | complete a form |
+  | **turn up / down** | make louder / quieter |
+  | **sit down / stand up** | |
+  | **get on / off** | a bus, train |
+
+  ## Where does the object go?
+  Many phrasal verbs are **separable**: the object can go between the verb and the particle.
+  - *Turn **off** the light.* = *Turn the light **off**.*
+  - With a pronoun it **must** go in the middle: *Turn **it** off.* (not ~~turn off it~~)
+
+  Some are **not separable**: *look for, look after, get on*: *I'm looking **for my keys**. I'm looking **for them**.*
+theory_ru: |
+  ## Что такое фразовый глагол
+  Это глагол + маленькое слово-частица (up, down, on, off, out, in, back, away…). Значение часто становится совсем новым:
+  - *give* (давать) + *up* → **give up** = бросить, сдаться
+  - *look* (смотреть) + *after* → **look after** = присматривать, заботиться
+
+  Носители используют их постоянно — без них разговорный английский невозможен.
+
+  ## Самые нужные
+  | | |
+  |---|---|
+  | **get up** | вставать (с постели) |
+  | **wake up** | просыпаться |
+  | **turn on / off** | включать / выключать |
+  | **put on / take off** | надевать / снимать (одежду) |
+  | **look for** | искать |
+  | **look after** | присматривать, заботиться |
+  | **find out** | выяснить, узнать |
+  | **give up** | бросить (привычку), сдаться |
+  | **go out** | выходить (развлекаться) |
+  | **come back** | возвращаться |
+  | **pick up** | поднять; забрать (кого-то) |
+  | **fill in** | заполнить (анкету) |
+  | **turn up / down** | сделать громче / тише |
+  | **sit down / stand up** | сесть / встать |
+  | **get on / off** | сесть в / выйти из (автобуса, поезда) |
+
+  ## Куда ставить дополнение
+  Многие фразовые глаголы **разделяемые**: дополнение можно поставить между глаголом и частицей.
+  - *Turn **off** the light.* = *Turn the light **off**.* — Выключи свет.
+  - Если дополнение — **местоимение** (it, him, them), оно **обязательно** в середине: *Turn **it** off.* (не ~~turn off it~~)
+
+  Некоторые **не разделяются**: *look for, look after, get on*: *I'm looking **for them**.* — Я их ищу.
+examples:
+  - "I usually *get up* at seven. | Я обычно встаю в семь."
+  - "Can you *turn* the music *down*, please? | Можешь сделать музыку потише?"
+  - "My mother *looks after* my children on Fridays. | По пятницам мама присматривает за моими детьми."
+  - "He *gave up* smoking last year. | В прошлом году он бросил курить."
+  - "*Put* your coat *on* — it's cold. | Надень пальто — холодно."
+  - "I'll *pick* you *up* at the station. | Я заберу тебя на вокзале."
+exercises:
+  - type: choice
+    q: "It's dark. Can you ___ the light?"
+    options: ["turn on", "turn up", "take off"]
+    answer: 0
+  - type: choice
+    q: "I'm ___ my glasses. Have you seen them?"
+    options: ["looking after", "looking for", "finding out"]
+    answer: 1
+  - type: choice
+    q: "Don't ___! You can do it!"
+    options: ["give up", "get up", "pick up"]
+    answer: 0
+  - type: choice
+    q: "Which is correct?"
+    options: ["Turn off it.", "Turn it off.", "Turn it of."]
+    answer: 1
+  - type: choice
+    q: "It's cold. ___ your jacket."
+    options: ["Put on", "Take off", "Get on"]
+    answer: 0
+  - type: input
+    q: "Please ___ in this form with your name and address. (заполните)"
+    answer: ["fill"]
+  - type: input
+    q: "Can you look ___ my cat while I'm on holiday?"
+    answer: ["after"]
+  - type: cloze
+    text: "I [[woke]] up at 6, [[got]] up and [[put]] on my clothes. Then I [[turned]] on the radio."
+  - type: error
+    text: "I'll pick {{up you=>you up}} at 8."
+    explain: "With a pronoun: pick you up."
+    explain_ru: "Местоимение ставится в середину: pick you up."
+  - type: order
+    q: "Составьте: «Он выключил телевизор.»"
+    answer: "He turned the TV off."
+  - type: match
+    pairs:
+      - ["find out", "выяснить"]
+      - ["come back", "вернуться"]
+      - ["go out", "пойти развлечься"]
+      - ["get off", "выйти (из автобуса)"]
+  - type: speak
+    answer: "Please turn off your phone."
+    ru: "Пожалуйста, выключите телефон."

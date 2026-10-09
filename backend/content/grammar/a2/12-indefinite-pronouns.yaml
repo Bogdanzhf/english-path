@@ -1,0 +1,97 @@
+title: "Someone, anything, nowhere, everybody"
+title_ru: "Неопределённые местоимения: someone, anything, nowhere"
+section: pronouns
+summary: "some-, any-, no-, every- + body/one, thing, where"
+summary_ru: "some-, any-, no-, every- + body/one, thing, where"
+theory: |
+  ## The system
+  | | people | things | places |
+  |---|---|---|---|
+  | **some-** | someone / somebody | something | somewhere |
+  | **any-** | anyone / anybody | anything | anywhere |
+  | **no-** | no one / nobody | nothing | nowhere |
+  | **every-** | everyone / everybody | everything | everywhere |
+
+  ## some- and any-
+  - **some-** in positive sentences (and offers): *There's **someone** at the door. Would you like **something** to drink?*
+  - **any-** in questions and negatives: *Is there **anything** in the fridge? I don't know **anyone** here.*
+  - **any-** in positive sentences = "it doesn't matter which": *You can sit **anywhere**.*
+
+  ## no- = not + any-
+  - *I know **nobody** here.* = *I don't know **anybody** here.*
+  - Only **one** negative: *I saw **nothing*** or *I didn't see **anything*** (not ~~I didn't see nothing~~).
+
+  ## every- takes a singular verb
+  ***Everybody is** here. **Everything was** perfect.*
+theory_ru: |
+  ## Система — как конструктор
+  | | люди | предметы | места |
+  |---|---|---|---|
+  | **some-** | someone / somebody — кто-то | something — что-то | somewhere — где-то |
+  | **any-** | anyone / anybody — кто-нибудь; любой | anything — что-нибудь; что угодно | anywhere — где-нибудь; где угодно |
+  | **no-** | no one / nobody — никто | nothing — ничего | nowhere — нигде |
+  | **every-** | everyone / everybody — все | everything — всё | everywhere — везде |
+
+  ## some- и any-
+  - **some-** — в утверждениях (и предложениях угостить): *There's **someone** at the door.* — Кто-то у двери. *Would you like **something** to drink?* — Хочешь чего-нибудь выпить?
+  - **any-** — в вопросах и отрицаниях: *Is there **anything** in the fridge?* — В холодильнике что-нибудь есть? *I don't know **anyone** here.* — Я здесь никого не знаю.
+  - **any-** в утверждении = «любой, какой угодно»: *You can sit **anywhere**.* — Садитесь куда угодно.
+
+  ## Одно отрицание!
+  В русском «Я **никого не** знаю» — два отрицания. В английском — **только одно**:
+  - *I know **nobody** here.* = *I **don't** know **anybody** here.*
+  - *I saw **nothing*** или *I didn't see **anything*** (не ~~I didn't see nothing~~).
+
+  ## every- — глагол в единственном числе
+  ***Everybody is** here.* — Все здесь (не ~~are~~). ***Everything was** perfect.* — Всё было идеально.
+examples:
+  - "*Somebody* left this bag on the bus. | Кто-то оставил эту сумку в автобусе."
+  - "Is there *anything* I can do to help? | Могу я чем-нибудь помочь?"
+  - "I looked *everywhere*, but I found *nothing*. | Я искал везде, но ничего не нашёл."
+  - "*Nobody* knows the answer. | Никто не знает ответа."
+  - "Let's go *somewhere* warm this winter. | Давай этой зимой поедем куда-нибудь, где тепло."
+exercises:
+  - type: choice
+    q: "There's ___ in the garden. Who is it?"
+    options: ["anybody", "somebody", "nobody"]
+    answer: 1
+  - type: choice
+    q: "I didn't eat ___ this morning."
+    options: ["nothing", "anything", "something"]
+    answer: 1
+  - type: choice
+    q: "___ was at home. The house was empty."
+    options: ["Nobody", "Anybody", "Somebody"]
+    answer: 0
+  - type: choice
+    q: "Everybody ___ happy today."
+    options: ["are", "is", "be"]
+    answer: 1
+  - type: choice
+    q: "I can't find my glasses ___."
+    options: ["somewhere", "anywhere", "nowhere"]
+    answer: 1
+  - type: input
+    q: "Is there ___ (что-нибудь) to eat?"
+    answer: ["anything", "something"]
+  - type: input
+    q: "I have ___ (нечего) to wear!"
+    answer: ["nothing"]
+  - type: cloze
+    text: "I want to go [[somewhere]] quiet for the weekend. [[Everyone|Everybody]] in my family is busy, so I'll go alone. I don't need [[anyone|anybody]]."
+  - type: error
+    text: "I don't know {{nobody=>anybody}} in this city."
+  - type: error
+    text: "Everyone {{are=>is}} waiting for you."
+  - type: order
+    q: "Составьте: «Я ничего не видел.»"
+    answer: "I didn't see anything."
+  - type: match
+    pairs:
+      - ["somebody", "кто-то"]
+      - ["nothing", "ничего"]
+      - ["everywhere", "везде"]
+      - ["anything", "что угодно"]
+  - type: speak
+    answer: "Does anybody speak English here?"
+    ru: "Здесь кто-нибудь говорит по-английски?"

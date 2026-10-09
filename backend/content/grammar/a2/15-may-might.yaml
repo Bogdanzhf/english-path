@@ -1,0 +1,94 @@
+title: "May, might, could: possibility"
+title_ru: "May, might, could — возможность, «может быть»"
+section: modals
+summary: "It might rain. She may be at home. Could I…?"
+summary_ru: "It might rain. She may be at home. Could I…?"
+theory: |
+  ## Possibility in the present or future
+  **may / might / could + base verb** = perhaps, it's possible
+  - *Take an umbrella. It **might** rain.*
+  - *She's not answering. She **may** be asleep.*
+  - *I **could** be late — the traffic is terrible.*
+
+  *May* is a little more certain and more formal; *might* is very common in speech. The difference is small.
+
+  ## Negative
+  - **may not / might not** = perhaps not: *He **might not** come.* (perhaps he won't)
+  - **can't** = impossible, I'm sure it isn't true: *That **can't** be Tom — he's in Spain!*
+
+  ## will vs might
+  - *I **will** go.* — 100% decided.
+  - *I **might** go.* — maybe, 50%.
+
+  ## Permission
+  ***May** I come in?* (formal) · ***Could** I use your phone?* (polite) · ***Can** I sit here?* (informal)
+theory_ru: |
+  ## Возможность в настоящем или будущем
+  **may / might / could + глагол** = «может быть, возможно»
+  - *Take an umbrella. It **might** rain.* — Возьми зонт. Может пойти дождь.
+  - *She's not answering. She **may** be asleep.* — Она не отвечает. Возможно, она спит.
+  - *I **could** be late — the traffic is terrible.* — Я могу опоздать — ужасные пробки.
+
+  *May* — чуть увереннее и официальнее, *might* — очень частое в речи. Разница небольшая.
+
+  > Удобная замена русскому «может быть, …»: вместо *Maybe she is asleep* можно сказать *She **might** be asleep*.
+
+  ## Отрицание
+  - **may not / might not** — возможно, нет: *He **might not** come.* — Возможно, он не придёт.
+  - **can't** — невозможно, я уверен, что нет: *That **can't** be Tom — he's in Spain!* — Это не может быть Том — он в Испании!
+
+  ## will или might?
+  - *I **will** go.* — Я пойду (решено, 100%).
+  - *I **might** go.* — Может, пойду (50 на 50).
+
+  ## Разрешение
+  ***May** I come in?* — Можно войти? (официально) · ***Could** I use your phone?* — Можно воспользоваться вашим телефоном? (вежливо) · ***Can** I sit here?* — Можно тут сесть? (разговорно)
+examples:
+  - "I *might* go to the party, but I'm not sure. | Может быть, я пойду на вечеринку, но я не уверен."
+  - "Don't touch the dog — it *may* bite. | Не трогай собаку — она может укусить."
+  - "We *might not* have enough time. | Возможно, у нас не хватит времени."
+  - "He *can't* be hungry — he's just eaten! | Он не может быть голодным — он только что поел!"
+  - "*May* I ask you a question? | Можно задать вам вопрос?"
+exercises:
+  - type: choice
+    q: "Take your coat. It ___ get cold later."
+    options: ["might", "must", "can't"]
+    answer: 0
+  - type: choice
+    q: "I'm not sure, but I ___ visit you next week."
+    options: ["will", "may", "must"]
+    answer: 1
+  - type: choice
+    q: "That ___ be her car — she sold it last year!"
+    options: ["might", "can't", "may"]
+    answer: 1
+  - type: choice
+    q: "She ___ come to the meeting. She's very busy."
+    options: ["might not", "can't not", "doesn't might"]
+    answer: 0
+  - type: choice
+    q: "___ I borrow your pen, please?"
+    options: ["Might", "Could", "Must"]
+    answer: 1
+  - type: input
+    q: "Где Анна? — Она, может быть, в библиотеке. → She ___ be in the library."
+    answer: ["might", "may", "could"]
+  - type: error
+    text: "It might {{to rain=>rain}} tonight."
+  - type: error
+    text: "He {{mights=>might}} be late."
+  - type: order
+    q: "Составьте: «Возможно, мы поедем в Испанию этим летом.»"
+    answer: "We might go to Spain this summer."
+  - type: tf
+    items:
+      - ["“I might go” means I'm 100% sure.", false]
+      - ["“That can't be true” means I'm sure it's not true.", true]
+  - type: listen
+    audio: "I'm not sure about Saturday. I might go hiking, or I might just stay at home and relax."
+    q: "Does the person know their plan for Saturday?"
+    options: ["Yes, hiking", "Yes, staying at home", "No, not yet"]
+    answer: 2
+  - type: speak
+    answer: "It might rain this afternoon."
+    ru: "Сегодня днём может пойти дождь."
