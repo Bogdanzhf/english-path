@@ -1,0 +1,60 @@
+title: "University Life"
+title_ru: "Студенческая жизнь"
+words:
+  - "apparent | adj | əˈpærənt | | очевидный; кажущийся | easy to see or understand | It soon became *apparent* that he was lost. | Вскоре стало очевидно, что он заблудился. | apparently — по-видимому"
+  - "blind | adj | blaɪnd | | слепой | not able to see | My grandfather went *blind* when he was eighty. | Мой дедушка ослеп в восемьдесят лет."
+  - "calculate | v | ˈkælkjuleɪt | | вычислять, рассчитывать | to find an amount using numbers | *Calculate* the total cost of the trip. | Рассчитайте общую стоимость поездки."
+  - "chat | v | tʃæt | | болтать, общаться | to talk in a friendly, informal way | We *chatted* for hours over coffee. | Мы часами болтали за кофе."
+  - "commit | v | kəˈmɪt | | совершать; брать обязательство | to do something wrong; to promise to do something | He *committed* a crime. | Он совершил преступление. | be committed to — быть преданным чему-то"
+  - "compose | v | kəmˈpəʊz | kəmˈpoʊz | сочинять (музыку) | to write music or a poem | Mozart *composed* his first music at the age of five. | Моцарт сочинил первую музыку в пять лет. | be composed of — состоять из"
+  - "dormitory | n | ˈdɔːmətri | ˈdɔːrmətɔːri | общежитие | a building where students live | I lived in a *dormitory* in my first year. | На первом курсе я жил в общежитии. | разг. dorm"
+  - "exhaust | v | ɪɡˈzɔːst | | изнурять, истощать | to make someone very tired | The long journey *exhausted* us. | Долгая поездка нас вымотала. | exhausted — измученный"
+  - "greenhouse | n | ˈɡriːnhaʊs | | теплица | a glass building for growing plants | We grow tomatoes in the *greenhouse*. | Мы выращиваем помидоры в теплице. | greenhouse effect — парниковый эффект"
+  - "ignore | v | ɪɡˈnɔː | ɪɡˈnɔːr | игнорировать | to pay no attention to someone or something | She *ignored* my message. | Она проигнорировала моё сообщение."
+  - "obvious | adj | ˈɒbviəs | ˈɑːbviəs | очевидный | very easy to see or understand | The answer is *obvious*. | Ответ очевиден."
+  - "physics | n | ˈfɪzɪks | | физика | the science of energy, force, light and sound | Einstein changed the world of *physics*. | Эйнштейн изменил мир физики. | ед. ч.: physics is"
+  - "portion | n | ˈpɔːʃn | ˈpɔːrʃn | порция; часть | a part of something; an amount of food for one person | The *portions* in this restaurant are huge. | Порции в этом ресторане огромные."
+  - "remind | v | rɪˈmaɪnd | | напоминать | to help someone remember something | *Remind* me to call my mother. | Напомни мне позвонить маме. | remind somebody of — напоминать кого-то"
+  - "secretary | n | ˈsekrətri | ˈsekrəteri | секретарь | a person who types letters and organizes things in an office | The *secretary* will book your appointment. | Секретарь запишет вас на приём."
+  - "severe | adj | sɪˈvɪə | sɪˈvɪr | суровый, тяжёлый | very bad or serious | There was a *severe* storm last night. | Прошлой ночью был сильный шторм."
+  - "talent | n | ˈtælənt | | талант | a natural ability to do something well | She has a *talent* for languages. | У неё талант к языкам."
+  - "thesis | n | ˈθiːsɪs | | диссертация, дипломная работа; тезис | a long piece of writing for a university degree | He is writing his *thesis* on climate change. | Он пишет дипломную работу об изменении климата. | мн. ч. theses"
+  - "uniform | n | ˈjuːnɪfɔːm | ˈjuːnɪfɔːrm | форма (одежда) | special clothes worn by people at work or school | Nurses wear a blue *uniform*. | Медсёстры носят синюю форму."
+  - "vision | n | ˈvɪʒn | | зрение; видение | the ability to see; an idea of the future | He has poor *vision* in his left eye. | У него плохое зрение на левый глаз."
+reading:
+  title: "Music Without Sight"
+  title_ru: "Музыка без зрения"
+  text: |
+    When Daniel arrived at university, it was apparent to everyone that he was different. He was blind. He had lost his vision as a child after a severe illness. But Daniel had an obvious talent: music. He studied physics, but in his free time he composed beautiful songs on the piano.
+
+    At first, life in the dormitory was hard. Some students ignored him because they didn't know how to talk to him. Daniel spent many evenings alone in his room, chatting with his family online.
+
+    Everything changed when he met Lisa, the secretary of the university music club. She heard him playing the piano one evening and couldn't believe her ears. "You must join the club," she said. Daniel was nervous, but he agreed.
+
+    The club was preparing a concert. Daniel committed himself completely. He wrote a new piece of music and practised every night until he was exhausted. Lisa reminded him to eat and sleep. She even helped him calculate the times for each part of the concert.
+
+    The concert took place in the old greenhouse in the university garden. Everyone wore the club uniform: white shirts and black trousers. When Daniel played the final portion of his piece, the room was completely silent. Then everybody stood up and applauded. Today, Daniel is writing his thesis in physics — and he has already recorded his first album.
+  ru: |
+    Когда Дэниел поступил в университет, всем сразу стало ясно, что он не такой, как все. Он был слепым. Он потерял зрение в детстве после тяжёлой болезни. Но у Дэниела был явный талант — музыка. Он изучал физику, а в свободное время сочинял красивые песни на пианино.
+
+    Сначала жить в общежитии было тяжело. Некоторые студенты не обращали на него внимания, потому что не знали, как с ним говорить. Много вечеров Дэниел проводил один в комнате, болтая с семьёй по интернету.
+
+    Всё изменилось, когда он познакомился с Лизой, секретарём университетского музыкального клуба. Однажды вечером она услышала, как он играет на пианино, и не поверила своим ушам. «Ты обязан вступить в клуб», — сказала она. Дэниел волновался, но согласился.
+
+    Клуб готовил концерт. Дэниел отдался этому полностью. Он написал новое произведение и репетировал каждый вечер до изнеможения. Лиза напоминала ему есть и спать. Она даже помогла рассчитать время для каждой части концерта.
+
+    Концерт проходил в старой оранжерее в университетском саду. Все были в форме клуба: белые рубашки и чёрные брюки. Когда Дэниел сыграл заключительную часть своего произведения, в зале стояла полная тишина. А потом все встали и зааплодировали. Сегодня Дэниел пишет диплом по физике — и уже записал свой первый альбом.
+  questions:
+    - q: "Why was Daniel blind?"
+      options: ["He was born blind", "After a severe illness as a child", "After an accident at university", "We don't know"]
+      answer: 1
+    - q: "What did Daniel study?"
+      options: ["Music", "Physics", "Biology", "Art"]
+      answer: 1
+    - q: "Where did the concert take place?"
+      options: ["In the dormitory", "In an old greenhouse", "In a big theatre", "Online"]
+      answer: 1
+    - tf: "Lisa helped Daniel prepare for the concert."
+      answer: true
+    - tf: "The audience didn't like Daniel's music."
+      answer: false

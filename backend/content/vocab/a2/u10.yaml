@@ -1,0 +1,60 @@
+title: "Tales and Trials"
+title_ru: "Сказки и суды"
+words:
+  - "citizen | n | ˈsɪtɪzn | | гражданин; житель | a person who lives in a town or belongs to a country | She became a British *citizen* last year. | В прошлом году она получила британское гражданство."
+  - "council | n | ˈkaʊnsl | | совет (орган власти) | a group of people elected to manage a town | The city *council* decided to build a new park. | Городской совет решил построить новый парк."
+  - "declare | v | dɪˈkleə | dɪˈkler | объявлять, заявлять | to say something officially or clearly | The judge *declared* him innocent. | Судья объявил его невиновным."
+  - "enormous | adj | ɪˈnɔːməs | ɪˈnɔːrməs | огромный | very, very big | They live in an *enormous* house. | Они живут в огромном доме."
+  - "extraordinary | adj | ɪkˈstrɔːdnri | ɪkˈstrɔːrdəneri | необычайный, выдающийся | very unusual and surprising | She has an *extraordinary* voice. | У неё необыкновенный голос."
+  - "fog | n | fɒɡ | fɑːɡ | туман | a thick cloud near the ground that is hard to see through | The plane couldn't land because of the *fog*. | Самолёт не мог приземлиться из-за тумана."
+  - "funeral | n | ˈfjuːnərəl | | похороны | a ceremony for a person who has died | Many people came to the *funeral*. | На похороны пришло много людей."
+  - "giant | adj | ˈdʒaɪənt | | гигантский | very big | A *giant* wave hit the boat. | Гигантская волна обрушилась на лодку. | сущ. giant — великан"
+  - "impression | n | ɪmˈpreʃn | | впечатление | an opinion about someone or something | He made a good *impression* at the interview. | Он произвёл хорошее впечатление на собеседовании."
+  - "intention | n | ɪnˈtenʃn | | намерение | a plan; what you want to do | I have no *intention* of leaving. | У меня нет никакого намерения уходить."
+  - "mad | adj | mæd | | сумасшедший; злой (амер.) | crazy; angry | My mum will be *mad* if I'm late again. | Мама разозлится, если я снова опоздаю. | be mad about — обожать"
+  - "ought | v | ɔːt | | следует, должен | should | You *ought* to see a doctor. | Тебе следует сходить к врачу. | ought to + глагол"
+  - "resist | v | rɪˈzɪst | | сопротивляться, устоять | to fight against something; to stop yourself from doing something | I can't *resist* chocolate. | Не могу устоять перед шоколадом."
+  - "reveal | v | rɪˈviːl | | раскрывать, показывать | to show or tell something that was secret | The magician never *reveals* his tricks. | Фокусник никогда не раскрывает свои секреты."
+  - "rid | v | rɪd | | избавлять | to remove something unwanted | We need to get *rid* of these old clothes. | Нам нужно избавиться от этой старой одежды. | get rid of — избавиться от"
+  - "sword | n | sɔːd | sɔːrd | меч | a long sharp metal weapon | The knight raised his *sword*. | Рыцарь поднял меч. | w не произносится"
+  - "tale | n | teɪl | | сказка, история | a story, often about imaginary events | My grandmother told me *tales* about dragons. | Бабушка рассказывала мне сказки о драконах. | fairy tale — волшебная сказка"
+  - "trap | n | træp | | ловушка | something used to catch animals or people | They caught the mouse in a *trap*. | Они поймали мышь в мышеловку."
+  - "trial | n | ˈtraɪəl | | суд, судебный процесс; испытание | the process in court to decide if someone is guilty | The *trial* lasted three weeks. | Судебный процесс длился три недели."
+  - "violent | adj | ˈvaɪələnt | | жестокий, насильственный | using force to hurt people | The film was too *violent* for children. | Фильм был слишком жестоким для детей."
+reading:
+  title: "The Giant in the Fog"
+  title_ru: "Великан в тумане"
+  text: |
+    This is an old tale from a town in the north. Long ago, the town was often covered in thick fog. One autumn, the citizens began to hear strange noises at night: heavy steps, broken trees and a sound like crying. In the morning, they found enormous footprints in the mud.
+
+    People were scared. "It's a giant," they said. "He is violent and mad. He wants to destroy our town." The town council met and declared that the giant must be caught. The young men took their swords, and the farmers built a huge trap in the forest with a sheep inside.
+
+    The giant could not resist the sheep. One foggy night, the trap closed, and the giant was caught. In the morning, the whole town came to see him. He was extraordinary — as tall as a house — but he was not trying to fight. He was sitting quietly with tears in his eyes.
+
+    There was a trial in the town square. The judge asked the giant about his intentions. The giant revealed his sad story. His mother had died, and he had walked for weeks after her funeral, looking for someone to talk to. "I ought to say sorry for the trees," he said. "I only wanted friends."
+
+    His words made a strong impression on everyone. The citizens let him go and decided to get rid of their fear. The giant stayed and helped the town for many years. He carried heavy stones for new houses and, on foggy nights, he held a big lamp so that boats could find their way home.
+  ru: |
+    Это старая сказка из одного северного городка. Давным-давно город часто окутывал густой туман. Однажды осенью жители стали слышать по ночам странные звуки: тяжёлые шаги, треск деревьев и звук, похожий на плач. Утром в грязи они находили огромные следы.
+
+    Люди испугались. «Это великан, — говорили они. — Он жестокий и безумный. Он хочет разрушить наш город». Городской совет собрался и объявил, что великана нужно поймать. Молодые мужчины взяли мечи, а крестьяне построили в лесу огромную ловушку с овцой внутри.
+
+    Великан не смог устоять перед овцой. Одной туманной ночью ловушка захлопнулась, и великан попался. Утром весь город пришёл на него посмотреть. Он был необыкновенным — высотой с дом, — но и не пытался драться. Он тихо сидел со слезами на глазах.
+
+    На городской площади состоялся суд. Судья спросил великана о его намерениях. Великан рассказал свою грустную историю. Его мать умерла, и после похорон он несколько недель бродил в поисках того, с кем можно поговорить. «Мне следует извиниться за деревья, — сказал он. — Я только хотел найти друзей».
+
+    Его слова произвели на всех сильное впечатление. Жители отпустили его и решили избавиться от своего страха. Великан остался и много лет помогал городу. Он носил тяжёлые камни для новых домов, а туманными ночами держал большой фонарь, чтобы лодки могли найти дорогу домой.
+  questions:
+    - q: "What did the citizens find in the mornings?"
+      options: ["Dead sheep", "Enormous footprints", "Broken swords", "A lamp"]
+      answer: 1
+    - q: "How did they catch the giant?"
+      options: ["With swords", "In a trap with a sheep inside", "With a big net", "He came to the town himself"]
+      answer: 1
+    - q: "Why was the giant walking around?"
+      options: ["He wanted to destroy the town", "He was looking for friends after his mother's funeral", "He was hungry", "He was lost in the fog"]
+      answer: 1
+    - tf: "The giant was violent at the trial."
+      answer: false
+    - tf: "The giant helped the town for many years."
+      answer: true

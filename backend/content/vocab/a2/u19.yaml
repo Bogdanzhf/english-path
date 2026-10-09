@@ -1,0 +1,60 @@
+title: "Jobs and Pets"
+title_ru: "Работа и домашние животные"
+words:
+  - "ball | n | bɔːl | | мяч | a round object used in games | The dog ran after the *ball*. | Собака побежала за мячом."
+  - "bottom | n | ˈbɒtəm | ˈbɑːtəm | дно, низ | the lowest part of something | The keys are at the *bottom* of my bag. | Ключи на дне моей сумки."
+  - "company | n | ˈkʌmpəni | | компания, фирма | a business that makes or sells things | She works for a big software *company*. | Она работает в крупной компании по разработке ПО."
+  - "drink | v | drɪŋk | | пить | to take liquid into your mouth and swallow it | You should *drink* more water. | Тебе стоит пить больше воды. | drink — drank — drunk"
+  - "few | det | fjuː | | мало, немного; несколько | not many; a small number | Very *few* people came to the meeting. | На собрание пришло очень мало людей. | a few — несколько; few — мало"
+  - "line | n | laɪn | | линия; очередь (амер.) | a long thin mark; people waiting one behind another | There was a long *line* at the ticket office. | У кассы была длинная очередь. | брит. очередь — queue"
+  - "pet | n | pet | | домашнее животное | an animal that you keep at home | Do you have any *pets*? | У тебя есть домашние животные?"
+  - "product | n | ˈprɒdʌkt | ˈprɑːdʌkt | продукт, товар | something that is made and sold | This shop sells natural beauty *products*. | Этот магазин продаёт натуральную косметику."
+  - "responsible | adj | rɪˈspɒnsəbl | rɪˈspɑːnsəbl | ответственный | having the job of looking after something; sensible | Who is *responsible* for this mess? | Кто виноват в этом беспорядке? | be responsible for"
+  - "sell | v | sel | | продавать | to give something in exchange for money | They *sell* fresh fish at the market. | На рынке продают свежую рыбу. | sell — sold — sold"
+  - "snake | n | sneɪk | | змея | a long animal with no legs | Some *snakes* are very dangerous. | Некоторые змеи очень опасны."
+  - "stand | v | stænd | | стоять | to be on your feet | We had to *stand* for the whole journey. | Нам пришлось стоять всю дорогу. | stand — stood — stood; can't stand — терпеть не могу"
+  - "strange | adj | streɪndʒ | | странный | unusual or surprising | I heard a *strange* noise in the night. | Ночью я услышал странный звук. | stranger — незнакомец"
+  - "tea | n | tiː | | чай | a hot drink made from dried leaves | Would you like a cup of *tea*? | Хотите чашку чая?"
+  - "test | n | test | | тест, контрольная; проверка | a set of questions to check knowledge; an examination | I passed my driving *test*! | Я сдал экзамен по вождению!"
+  - "they | pron | ðeɪ | | они | used for two or more people or things | My parents are teachers. *They* work at the same school. | Мои родители учителя. Они работают в одной школе."
+  - "tongue | n | tʌŋ | | язык (орган) | the soft part inside your mouth that you use for tasting | The dog licked my hand with its *tongue*. | Собака лизнула мою руку языком. | mother tongue — родной язык"
+  - "type | n | taɪp | | тип, вид | a kind or sort | What *type* of music do you like? | Какую музыку ты любишь?"
+  - "very | adv | ˈveri | | очень | extremely; to a high degree | The film was *very* good. | Фильм был очень хорошим."
+  - "wait | v | weɪt | | ждать | to stay somewhere until something happens | *Wait* for me — I'll be back in five minutes! | Подожди меня — я вернусь через пять минут! | wait for somebody"
+reading:
+  title: "A Job at the Pet Shop"
+  title_ru: "Работа в зоомагазине"
+  text: |
+    When Ella was sixteen, she wanted a summer job. She loved animals, so she was very happy when a small pet shop in her town offered her a job. The owner, Mr. Green, was an old man with a white beard who drank tea all day.
+
+    On her first day, Ella learned that the job was not only about playing with animals. She had to clean the cages, feed the fish and sell products like food, toys and balls for dogs. "You are responsible for the animals now," Mr. Green said. "They depend on you."
+
+    The shop had many types of animals: cats, rabbits, birds — and a long green snake called Monty. Ella was afraid of him at first. He stood very still in his glass box, and only his tongue moved in and out. "He's tasting the air," Mr. Green explained. "Snakes are strange, but they are not evil."
+
+    One day, a big pet company visited the shop. They wanted to buy it and sell expensive products. Mr. Green said no. "Few people care about animals as much as they care about money," he said. A long line of customers waited outside that afternoon to support him.
+
+    At the end of the summer, Ella had a test at school about animals. She got the highest grade in her class. "The best teacher was not at school," she said. "It was an old man and a snake at the bottom of the street."
+  ru: |
+    Когда Элле было шестнадцать, она захотела найти работу на лето. Она любила животных, поэтому очень обрадовалась, когда маленький зоомагазин в её городе предложил ей работу. Хозяин, мистер Грин, был стариком с белой бородой, который целыми днями пил чай.
+
+    В первый же день Элла узнала, что работа — это не только игры с животными. Ей нужно было чистить клетки, кормить рыбок и продавать товары — корм, игрушки и мячики для собак. «Теперь ты отвечаешь за животных, — сказал мистер Грин. — Они зависят от тебя».
+
+    В магазине было много видов животных: кошки, кролики, птицы — и длинная зелёная змея по кличке Монти. Сначала Элла её боялась. Монти неподвижно стоял в стеклянном ящике, и двигался только его язык — туда-сюда. «Он пробует воздух на вкус, — объяснил мистер Грин. — Змеи странные, но не злые».
+
+    Однажды в магазин пришли представители крупной компании товаров для животных. Они хотели купить магазин и продавать дорогие товары. Мистер Грин отказал. «Мало кто заботится о животных так же, как о деньгах», — сказал он. В тот день у магазина выстроилась длинная очередь покупателей, чтобы поддержать его.
+
+    В конце лета у Эллы в школе была контрольная о животных. Она получила самую высокую оценку в классе. «Лучший учитель был не в школе, — сказала она. — Это был старик со змеёй в конце улицы».
+  questions:
+    - q: "What did Mr. Green drink all day?"
+      options: ["Coffee", "Water", "Tea", "Juice"]
+      answer: 2
+    - q: "Why does the snake move its tongue?"
+      options: ["It is hungry", "It is tasting the air", "It is angry", "It wants to play"]
+      answer: 1
+    - q: "What did the big company want?"
+      options: ["To give Ella a job", "To buy the shop", "To buy Monty", "To close the street"]
+      answer: 1
+    - tf: "Ella was afraid of the snake at first."
+      answer: true
+    - tf: "Mr. Green agreed to sell the shop."
+      answer: false
