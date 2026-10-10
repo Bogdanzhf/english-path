@@ -15,7 +15,7 @@ export default defineConfig(({ mode }) => ({
   server: {
     port: 5173,
     // Host не подменяем: сервер сверяет его с Origin (защита от CSRF)
-    proxy: { '/api': { target: 'http://127.0.0.1:8765', changeOrigin: false } },
+    proxy: { '/api': { target: process.env.API_TARGET || 'http://127.0.0.1:8765', changeOrigin: false } },
   },
   test: {
     include: ['src/**/*.test.ts'],

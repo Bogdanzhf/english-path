@@ -17,6 +17,7 @@ from fastapi import Cookie, Depends, FastAPI, HTTPException, Request, Response, 
 from fastapi.responses import FileResponse, JSONResponse
 from pydantic import BaseModel, Field, field_validator, model_validator
 from sqlalchemy import func, select
+from sqlalchemy.dialects.sqlite import insert as sqlite_insert
 from sqlalchemy.orm import Session
 from starlette.middleware.base import BaseHTTPMiddleware
 
@@ -234,20 +235,17 @@ def user_out(user: User) -> dict:
 
 
 def _lesson_row(db: Session, user: User, key: str) -> LessonProgress:
-    row = db.scalar(select(LessonProgress).where(LessonProgress.user_id == user.id, LessonProgress.lesson_key == key))
-    if row is None:
-        row = LessonProgress(user_id=user.id, lesson_key=key, opened=False, best_score=0, completed=False)
-        db.add(row)
-    return row
+    # INSERT … ON CONFLICT DO NOTHING: параллельные запросы не создают дубликат и не падают
+    db.execute(sqlite_insert(LessonProgress).values(user_id=user.id, lesson_key=key, opened=False, best_score=0,
+                                                    completed=False).on_conflict_do_nothing())
+    return db.scalars(select(LessonProgress).where(LessonProgress.user_id == user.id,
+                                                   LessonProgress.lesson_key == key)).one()
 
 
 def _word_row(db: Session, user: User, word_id: str) -> WordProgress:
-    row = db.scalar(select(WordProgress).where(WordProgress.user_id == user.id, WordProgress.word_id == word_id))
-    if row is None:
-        row = WordProgress(user_id=user.id, word_id=word_id, in_dict=False, ease=2.5, interval=0, reps=0, lapses=0,
-                           correct=0, wrong=0, due_at=utcnow(), added_at=utcnow())
-        db.add(row)
-    return row
+    db.execute(sqlite_insert(WordProgress).values(user_id=user.id, word_id=word_id).on_conflict_do_nothing())
+    return db.scalars(select(WordProgress).where(WordProgress.user_id == user.id,
+                                                 WordProgress.word_id == word_id)).one()
 
 
 def _check_word(db: Session, user: User, word_id: str) -> None:
@@ -260,12 +258,10 @@ def _check_word(db: Session, user: User, word_id: str) -> None:
 
 
 def _activity(db: Session, user: User, points: int) -> None:
-    today = date.today().isoformat()
-    row = db.scalar(select(Activity).where(Activity.user_id == user.id, Activity.day == today))
-    if row is None:
-        row = Activity(user_id=user.id, day=today, points=0)
-        db.add(row)
-    row.points = (row.points or 0) + max(0, points)
+    """Баллы активности за день. Атомарный upsert: параллельные запросы не конфликтуют."""
+    stmt = sqlite_insert(Activity).values(user_id=user.id, day=date.today().isoformat(), points=max(0, points))
+    db.execute(stmt.on_conflict_do_update(index_elements=[Activity.user_id, Activity.day],
+                                          set_={"points": Activity.points + stmt.excluded.points}))
 
 
 def _check_password_policy(password: str, username: str) -> None:

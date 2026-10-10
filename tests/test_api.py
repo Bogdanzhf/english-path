@@ -181,3 +181,10 @@ def test_avatars(client):
 
 def test_unknown_api_route_is_404(client):
     assert client.get("/api/nothing-here").status_code == 404
+
+
+def test_activity_accumulates_without_conflicts(user_client):
+    c = user_client
+    for key in ["v.a1.01", "v.a1.02", "r.a1.01"]:
+        assert c.post("/api/progress/lesson", json={"key": key}).status_code == 200
+    assert sum(c.get("/api/progress").json()["activity"].values()) == 6
