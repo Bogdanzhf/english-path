@@ -1,0 +1,126 @@
+title: "Register: Formal and Informal English"
+title_ru: "Регистр: официальный и разговорный английский"
+section: style
+summary: "get → obtain, ask for → request, but → however, a lot of → a considerable number of"
+summary_ru: "get → obtain, ask for → request, but → however, a lot of → a considerable number of"
+theory: |
+  **Register** is the level of formality we choose depending on the situation. A C2 speaker can move easily between registers: chatting with friends, writing an email to a colleague, or producing an academic essay.
+
+  ## Features of formal English
+  - Longer, Latin-based words instead of phrasal verbs: *find out → **discover**, put off → **postpone**, look into → **investigate**, get → **obtain/receive**, ask for → **request**, need → **require***
+  - Passive and impersonal structures: ***It has been decided that…***
+  - Nominalisation: ***The introduction of** new rules…*
+  - Formal linkers: ***However, furthermore, consequently, nevertheless***
+  - No contractions: *do not, cannot, it is*
+  - Complete sentences, no slang
+
+  ## Features of informal English
+  - Phrasal verbs and everyday words: *get, put off, find out*
+  - Contractions: *I'm, don't, it's*
+  - Ellipsis: *(Are you) Coming tonight?*
+  - Informal linkers: *but, so, and, anyway, plus*
+  - Vague language: *stuff, things, sort of, a bit, or something*
+
+  ## Same message, different registers
+  | Informal | Neutral | Formal |
+  |---|---|---|
+  | *Sorry, I can't make it.* | *I'm afraid I won't be able to come.* | *I regret that I will be unable to attend.* |
+  | *Can you send me the stuff?* | *Could you send me the documents?* | *I would be grateful if you could forward the documents.* |
+  | *Lots of people came.* | *Many people came.* | *A considerable number of people attended.* |
+
+  ## Common mistakes
+  Mixing registers sounds strange: ~~*Dear Sir, I wanna complain about…*~~ / ~~*Hey Tom! I am writing to inform you that the party has been postponed.*~~
+theory_ru: |
+  **Регистр** — степень официальности, которую мы выбираем в зависимости от ситуации. Человек с уровнем C2 легко переключается между регистрами: болтает с друзьями, пишет письмо коллеге или пишет научное эссе.
+
+  ## Признаки официального английского
+  - Длинные слова латинского происхождения вместо фразовых глаголов: *find out → **discover**, put off → **postpone**, look into → **investigate**, get → **obtain/receive**, ask for → **request**, need → **require***
+  - Пассив и безличные конструкции: ***It has been decided that…*** — Было принято решение…
+  - Номинализация: ***The introduction of** new rules…* — Введение новых правил…
+  - Официальные связки: ***However, furthermore, consequently, nevertheless***
+  - Без сокращений: *do not, cannot, it is*
+  - Полные предложения, никакого сленга
+
+  ## Признаки разговорного английского
+  - Фразовые глаголы и бытовые слова: *get, put off, find out*
+  - Сокращения: *I'm, don't, it's*
+  - Эллипсис: *(Are you) Coming tonight?* — Придёшь сегодня?
+  - Разговорные связки: *but, so, and, anyway, plus*
+  - Размытые выражения: *stuff, things, sort of, a bit, or something* — штуки, вещи, вроде, немного, или что-то такое
+
+  ## Одно сообщение — разные регистры
+  | Разговорно | Нейтрально | Официально |
+  |---|---|---|
+  | *Sorry, I can't make it.* — Извини, не получится. | *I'm afraid I won't be able to come.* | *I regret that I will be unable to attend.* — С сожалением сообщаю, что не смогу присутствовать. |
+  | *Can you send me the stuff?* | *Could you send me the documents?* | *I would be grateful if you could forward the documents.* — Буду признателен, если вы перешлёте документы. |
+  | *Lots of people came.* | *Many people came.* | *A considerable number of people attended.* — Присутствовало значительное число людей. |
+
+  ## Типичные ошибки
+  Смешение регистров звучит странно: ~~*Dear Sir, I wanna complain about…*~~ / ~~*Hey Tom! I am writing to inform you that the party has been postponed.*~~
+examples:
+  - "We regret to *inform* you that your application has been *unsuccessful*. | С сожалением сообщаем, что ваша заявка не одобрена."
+  - "*Further* information can be *obtained* from our website. | Дополнительную информацию можно получить на нашем сайте."
+  - "The meeting has been *postponed* until further notice. | Совещание перенесено до особого распоряжения."
+  - "Hey, wanna grab a coffee? | Привет, хочешь выпить кофе?"
+  - "I would be *grateful* if you could reply at your earliest convenience. | Буду признателен, если вы ответите при первой возможности."
+  - "*A considerable number* of complaints have been received. | Поступило значительное количество жалоб."
+exercises:
+  - type: choice
+    q: "Formal equivalent of “find out”:"
+    options: ["discover", "look up", "get"]
+    answer: 0
+  - type: choice
+    q: "Which sentence is the most formal?"
+    options: ["Can you send it?", "Could you send it?", "I would be grateful if you could send it."]
+    answer: 2
+  - type: choice
+    q: "Formal equivalent of “need”:"
+    options: ["want", "require", "got to"]
+    answer: 1
+  - type: choice
+    q: "Which is appropriate in a formal letter?"
+    options: ["Anyway, that's all.", "I look forward to hearing from you.", "Speak soon!"]
+    answer: 1
+  - type: choice
+    q: "Formal equivalent of “but” at the start of a sentence:"
+    options: ["Plus", "However", "Anyway"]
+    answer: 1
+  - type: input
+    q: "Formal: The event has been put off. → The event has been ___ ."
+    answer: ["postponed"]
+  - type: input
+    q: "Formal: Lots of people came. → A considerable ___ of people attended."
+    answer: ["number"]
+  - type: cloze
+    text: "We are writing to [[*inform/tell/let know]] you of a change to your booking."
+  - type: cloze
+    text: "Please do not hesitate to [[*contact/get hold of/drop a line to]] us if you have any questions."
+  - type: error
+    text: "Dear Sir or Madam, I {{wanna=>would like to}} complain about the service."
+    explain: "No slang or informal forms in a formal letter."
+    explain_ru: "В официальном письме не должно быть сленга и разговорных форм."
+  - type: error
+    text: "The police are {{looking into=>investigating}} the incident, a spokesperson stated in an official press release."
+  - type: match
+    q: "Match the informal and formal words"
+    pairs:
+      - ["ask for", "request"]
+      - ["get", "obtain"]
+      - ["look into", "investigate"]
+      - ["help", "assist"]
+  - type: odd
+    q: "Which is NOT typical of formal writing?"
+    options: ["passive voice", "contractions like “don't”", "nominalisation", "linkers like “furthermore”"]
+    answer: 1
+  - type: tf
+    items:
+      - ["Contractions are common in formal academic writing.", false]
+      - ["Phrasal verbs are often replaced by single Latin-based verbs in formal English.", true]
+  - type: listen
+    audio: "Passengers are kindly requested to remain seated until the aircraft has come to a complete stop."
+    q: "What register is this announcement?"
+    options: ["very informal", "formal", "slang"]
+    answer: 1
+  - type: speak
+    answer: "I would be grateful if you could reply as soon as possible."
+    ru: "Буду признателен, если вы ответите как можно скорее."

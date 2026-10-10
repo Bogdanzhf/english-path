@@ -1,0 +1,126 @@
+title: "Punctuation for Advanced Writers"
+title_ru: "Пунктуация для продвинутых"
+section: style
+summary: "commas, semicolons, colons, dashes, apostrophes — and how they differ from Russian"
+summary_ru: "запятые, точка с запятой, двоеточие, тире, апостроф — и отличия от русского"
+theory: |
+  English punctuation follows different rules from Russian. Good punctuation makes advanced writing clear and professional.
+
+  ## Commas
+  - **No comma before "that"** in reported speech or after verbs of thinking: *He said **that** he was tired.* (Russian always uses a comma before «что»!)
+  - **No comma** in defining relative clauses: *The man **who** called is my uncle.*
+  - **Commas** around non-defining clauses: *My uncle, **who** lives in Rome, called.*
+  - After introductory phrases: ***However,** … / **In 2020,** … / **Although it was late,** we continued.*
+  - Before **but / so / and** joining two full sentences: *It was late, **but** we continued.*
+  - **Oxford comma** (optional, before the final "and"): *red, white**,** and blue*
+
+  ## Semicolon ( ; )
+  - Joins two closely related full sentences: *It was late**;** we decided to stay.*
+  - Before linkers like however: *It was late**; however,** we continued.*
+  - Separates long list items that contain commas.
+
+  ## Colon ( : )
+  - Introduces a list, explanation or quotation: *You need three things**:** time, money and patience.*
+
+  ## Dash ( — )
+  - Adds emphasis or an afterthought: *She had one goal **—** to win.*
+
+  ## Apostrophe
+  - Possession: *the boy**'s** bag* (one boy), *the boys**'** bags* (many boys), *children**'s** toys*
+  - Contractions: *it**'s** = it is*. Possessive **its** has no apostrophe: *The dog wagged **its** tail.*
+
+  ## Comma splice — a common error
+  ✗ ~~*It was late, we went home.*~~ Two full sentences cannot be joined by a comma alone. Use a full stop, a semicolon or a conjunction.
+theory_ru: |
+  Пунктуация в английском подчиняется иным правилам, чем в русском. Хорошая пунктуация делает текст ясным и профессиональным.
+
+  ## Запятые
+  - **Нет запятой перед that** в косвенной речи и после глаголов мнения: *He said **that** he was tired.* (в русском перед «что» запятая обязательна!)
+  - **Нет запятой** в ограничительных придаточных: *The man **who** called is my uncle.* — Человек, который звонил, — мой дядя. (по-русски запятые нужны!)
+  - **Запятые** вокруг описательных придаточных: *My uncle, **who** lives in Rome, called.*
+  - После вводных фраз: ***However,** … / **In 2020,** … / **Although it was late,** we continued.*
+  - Перед **but / so / and**, соединяющими два полных предложения: *It was late, **but** we continued.*
+  - **Оксфордская запятая** (по желанию, перед последним and): *red, white**,** and blue*
+
+  ## Точка с запятой ( ; )
+  - Соединяет два тесно связанных полных предложения: *It was late**;** we decided to stay.*
+  - Перед связками вроде however: *It was late**; however,** we continued.*
+  - Разделяет длинные элементы списка, внутри которых есть запятые.
+
+  ## Двоеточие ( : )
+  - Вводит список, пояснение или цитату: *You need three things**:** time, money and patience.*
+
+  ## Тире ( — )
+  - Добавляет эмфазу или дополнительную мысль: *She had one goal **—** to win.*
+
+  ## Апостроф
+  - Принадлежность: *the boy**'s** bag* (один мальчик), *the boys**'** bags* (много мальчиков), *children**'s** toys*
+  - Сокращения: *it**'s** = it is*. Притяжательное **its** пишется без апострофа: *The dog wagged **its** tail.*
+
+  ## «Склейка» запятой (comma splice) — частая ошибка
+  ✗ ~~*It was late, we went home.*~~ Два полных предложения нельзя соединять одной запятой. Используйте точку, точку с запятой или союз. (В русском такое соединение допустимо, поэтому ошибка очень частая.)
+examples:
+  - "She told me *that* she was leaving. | Она сказала мне, что уезжает."
+  - "The book *that* you lent me is excellent. | Книга, которую ты мне одолжил, отличная."
+  - "It was raining*;* however, we went out. | Шёл дождь; тем не менее мы вышли."
+  - "You need three things*:* a map, water and a torch. | Тебе понадобятся три вещи: карта, вода и фонарик."
+  - "The company has changed *its* logo. | Компания сменила логотип."
+  - "The students*'* results were excellent. | Результаты студентов были отличными."
+exercises:
+  - type: choice
+    q: "Which sentence is correctly punctuated?"
+    options: ["He said, that he was busy.", "He said that he was busy.", "He said; that he was busy."]
+    answer: 1
+  - type: choice
+    q: "Which sentence is correct?"
+    options: ["The woman, who lives next door, is a doctor. (I have many neighbours)", "The woman who lives next door is a doctor.", "The woman who lives next door, is a doctor."]
+    answer: 1
+  - type: choice
+    q: "Choose the correct form: The cat licked ___ paw."
+    options: ["it's", "its", "its'"]
+    answer: 1
+  - type: choice
+    q: "Which is a comma splice (an error)?"
+    options: ["It was cold, so we stayed in.", "It was cold; we stayed in.", "It was cold, we stayed in."]
+    answer: 2
+  - type: choice
+    q: "Which mark introduces a list? “You need three things ___ time, money and patience.”"
+    options: [";", ":", ","]
+    answer: 1
+  - type: choice
+    q: "The toys belonging to the children:"
+    options: ["the childrens' toys", "the children's toys", "the childrens toys"]
+    answer: 1
+  - type: choice
+    q: "The bags of the two girls:"
+    options: ["the girl's bags", "the girls' bags", "the girls's bags"]
+    answer: 1
+  - type: cloze
+    text: "It was late[[*;/,/:]] however, we decided to continue working."
+  - type: cloze
+    text: "My brother[[*,/;/—]] who lives in Canada[[*,/;/:]] is visiting next week."
+  - type: error
+    text: "The company has changed {{it's=>its}} logo."
+    explain: "Possessive its has no apostrophe; it's = it is."
+    explain_ru: "Притяжательное its пишется без апострофа; it's = it is."
+  - type: error
+    text: "{{Its=>It's}} going to rain this afternoon."
+  - type: match
+    q: "Match the punctuation mark and its use"
+    pairs:
+      - ["semicolon", "joins two related sentences"]
+      - ["colon", "introduces a list or explanation"]
+      - ["apostrophe", "shows possession or contraction"]
+      - ["dash", "adds emphasis or an afterthought"]
+  - type: tf
+    items:
+      - ["English puts a comma before “that” in reported speech, just like Russian.", false]
+      - ["“its” without an apostrophe is the possessive form.", true]
+  - type: listen
+    audio: "Remember: in English, there's no comma before that in sentences like 'She said that she was tired'."
+    q: "What rule does the speaker mention?"
+    options: ["Always use a comma before that.", "No comma before that in reported speech.", "Never use that."]
+    answer: 1
+  - type: speak
+    answer: "She said that she was tired."
+    ru: "Она сказала, что устала."

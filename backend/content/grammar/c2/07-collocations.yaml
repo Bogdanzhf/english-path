@@ -1,0 +1,122 @@
+title: "Collocations"
+title_ru: "Устойчивые сочетания (коллокации)"
+section: words
+summary: "make a decision, do research, heavy rain, strong coffee, deeply regret, bitterly cold"
+summary_ru: "принять решение, проводить исследование, сильный дождь, крепкий кофе"
+theory: |
+  **Collocations** are words that naturally go together. Native speakers say *heavy rain* and *strong coffee*, not ~~strong rain~~ or ~~heavy coffee~~ — there's no logical rule, it's just how English works. Using the right collocations is one of the clearest signs of a C2 speaker.
+
+  ## make or do?
+  - **make**: a decision, a mistake, an effort, progress, a suggestion, a complaint, an excuse, a profit, a difference, arrangements
+  - **do**: research, homework, damage, harm, a favour, business, your best, the washing-up, an exercise
+
+  ## Other verb + noun
+  - **take**: a risk, action, responsibility, advantage of, part in, place
+  - **pay**: attention, a compliment, a visit, tribute, the price
+  - **raise**: awareness, a question, money, children, concerns
+  - **reach**: an agreement, a conclusion, a decision, a compromise
+  - **run**: a business, a risk, a test
+
+  ## Adjective + noun
+  heavy rain/traffic/smoker · strong coffee/wind/accent/opinion · high price/standard/risk · deep sleep/concern · bitter disappointment/cold · fierce competition · narrow escape · vast majority · broad agreement
+
+  ## Adverb + adjective / verb
+  deeply regret · strongly recommend · fully aware · highly unlikely · bitterly disappointed · widely believed · sincerely apologise
+
+  ## How to learn them
+  Notice collocations when you read, and learn words in chunks: not just "decision", but "**make** a **difficult** decision".
+theory_ru: |
+  **Коллокации** — слова, которые естественно сочетаются друг с другом. Носители говорят *heavy rain* (сильный дождь) и *strong coffee* (крепкий кофе), а не ~~strong rain~~ или ~~heavy coffee~~. Логического правила нет — так просто устроен язык. Правильные коллокации — один из самых заметных признаков уровня C2.
+
+  > Русские сочетания часто не совпадают с английскими: «принять решение» — **make** a decision (не ~~take~~), «сделать ошибку» — **make** a mistake, «проводить исследование» — **do/carry out** research.
+
+  ## make или do?
+  - **make**: a decision (принять решение), a mistake, an effort (приложить усилия), progress, a suggestion, a complaint, an excuse, a profit, a difference (иметь значение), arrangements
+  - **do**: research, homework, damage (нанести ущерб), harm, a favour (оказать услугу), business, your best, the washing-up, an exercise
+
+  ## Другие сочетания глагол + существительное
+  - **take**: a risk (рискнуть), action (принять меры), responsibility, advantage of (воспользоваться), part in (участвовать), place (происходить)
+  - **pay**: attention (обращать внимание), a compliment, a visit, tribute (отдать дань), the price
+  - **raise**: awareness (повышать осведомлённость), a question, money (собирать деньги), children, concerns
+  - **reach**: an agreement, a conclusion, a decision, a compromise
+  - **run**: a business (вести бизнес), a risk, a test
+
+  ## Прилагательное + существительное
+  heavy rain/traffic/smoker (сильный дождь, плотное движение, заядлый курильщик) · strong coffee/wind/accent/opinion · high price/standard/risk · deep sleep/concern · bitter disappointment/cold · fierce competition (жёсткая конкуренция) · narrow escape (чудом спастись) · vast majority (подавляющее большинство) · broad agreement (широкое согласие)
+
+  ## Наречие + прилагательное / глагол
+  deeply regret (глубоко сожалеть) · strongly recommend · fully aware · highly unlikely · bitterly disappointed · widely believed (широко распространено мнение) · sincerely apologise
+
+  ## Как их учить
+  Замечайте коллокации при чтении и учите слова блоками: не просто «decision», а «**make** a **difficult** decision».
+examples:
+  - "We need to *make a decision* by Friday. | Нам нужно принять решение к пятнице."
+  - "The storm *did* serious *damage* to the town. | Буря нанесла городу серьёзный ущерб."
+  - "There was *heavy traffic* on the motorway. | На шоссе было плотное движение."
+  - "The campaign aims to *raise awareness* of the disease. | Кампания направлена на повышение осведомлённости о болезни."
+  - "The *vast majority* of people agreed. | Подавляющее большинство людей согласилось."
+  - "I *deeply regret* what I said. | Я глубоко сожалею о сказанном."
+exercises:
+  - type: choice
+    q: "Scientists are ___ research into the virus."
+    options: ["making", "doing", "taking"]
+    answer: 1
+  - type: choice
+    q: "Could you ___ me a favour?"
+    options: ["make", "do", "give"]
+    answer: 1
+  - type: choice
+    q: "The two sides finally ___ an agreement."
+    options: ["made", "reached", "did"]
+    answer: 1
+  - type: choice
+    q: "I can't drink this — the coffee is too ___."
+    options: ["strong", "heavy", "powerful"]
+    answer: 0
+  - type: choice
+    q: "He had a ___ escape when a tree fell next to his car."
+    options: ["thin", "narrow", "small"]
+    answer: 1
+  - type: choice
+    q: "It is ___ believed that the painting is a fake."
+    options: ["widely", "largely", "broadly"]
+    answer: 0
+  - type: input
+    q: "Please ___ attention to the safety instructions. (one word)"
+    answer: ["pay"]
+  - type: input
+    q: "The meeting will ___ place in Room 4. (one word)"
+    answer: ["take"]
+  - type: cloze
+    text: "You've [[*made/done/taken]] a lot of progress this year."
+  - type: cloze
+    text: "It was [[*bitterly/heavily/strongly]] cold, so we stayed inside."
+  - type: error
+    text: "We need to {{take a decision=>make a decision}} quickly."
+    explain: "In standard English: make a decision (take a decision is mainly British and less common)."
+    explain_ru: "Основной вариант — make a decision (take a decision встречается реже, в основном в британском)."
+  - type: error
+    text: "There was {{strong=>heavy}} rain all night."
+  - type: match
+    q: "Match the verb and the noun"
+    pairs:
+      - ["raise", "awareness"]
+      - ["run", "a business"]
+      - ["take", "a risk"]
+      - ["pay", "a compliment"]
+  - type: odd
+    q: "Which noun does NOT go with “make”?"
+    options: ["a mistake", "an effort", "homework", "a profit"]
+    answer: 2
+  - type: tf
+    items:
+      - ["We say “do damage” and “make a mistake”.", true]
+      - ["“Heavy coffee” is a natural collocation.", false]
+  - type: listen
+    audio: "The vast majority of employees took part in the survey, and the results raised some serious concerns."
+    q: "What did the survey results do?"
+    options: ["They raised serious concerns.", "They made a profit.", "They reached a compromise."]
+    answer: 0
+  - type: speak
+    answer: "We need to make a decision by Friday."
+    ru: "Нам нужно принять решение к пятнице."

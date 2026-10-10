@@ -1,0 +1,108 @@
+title: "Absolute Constructions"
+title_ru: "Абсолютные (независимые) конструкции"
+section: clauses
+summary: "Weather permitting… / The work done, we left. / With prices rising, … / All things considered, …"
+summary_ru: "Если позволит погода… / Когда работа была сделана, мы ушли. / Поскольку цены растут…"
+theory: |
+  An **absolute construction** is a phrase with its **own subject** and a participle. It adds background information — time, reason or condition — and is typical of written and formal English.
+
+  ## Noun + participle
+  - ***The meeting over**, everyone went home.* (= When the meeting was over…)
+  - ***Weather permitting**, we'll eat outside.* (= If the weather permits…)
+  - ***Her work finished**, she relaxed with a book.*
+  - ***Other things being equal**, the cheaper option is better.*
+
+  ## With + noun + participle / adjective / prepositional phrase
+  Very common in both speech and writing:
+  - ***With prices rising** so fast, many families are struggling.*
+  - *She sat by the fire **with her eyes closed**.*
+  - ***With the exams over**, the students celebrated.*
+
+  ## Fixed expressions
+  ***All things considered**, …* (taking everything into account) · ***Generally speaking**, …* · ***Strictly speaking**, …* · ***Judging by/from** his face, …* · ***Given** the circumstances, …* · ***Considering** his age, …* · ***Having said that**, …*
+
+  ## Note
+  These fixed expressions don't need the same subject as the main clause: ***Judging by** the clouds, it's going to rain.* (It isn't the rain that is judging!)
+theory_ru: |
+  **Абсолютная конструкция** — это оборот со **своим собственным подлежащим** и причастием. Он сообщает фоновую информацию — время, причину или условие — и характерен для письменной и официальной речи. По-русски такие обороты обычно переводятся придаточными предложениями.
+
+  ## Существительное + причастие
+  - ***The meeting over**, everyone went home.* — Когда собрание закончилось, все разошлись.
+  - ***Weather permitting**, we'll eat outside.* — Если позволит погода, поедим на улице.
+  - ***Her work finished**, she relaxed with a book.* — Закончив работу, она отдыхала с книгой.
+  - ***Other things being equal**, the cheaper option is better.* — При прочих равных более дешёвый вариант лучше.
+
+  ## With + существительное + причастие / прилагательное / предложная группа
+  Очень употребительно и в речи, и в письме:
+  - ***With prices rising** so fast, many families are struggling.* — Поскольку цены так быстро растут, многим семьям тяжело.
+  - *She sat by the fire **with her eyes closed**.* — Она сидела у огня с закрытыми глазами.
+  - ***With the exams over**, the students celebrated.* — Когда экзамены остались позади, студенты праздновали.
+
+  ## Устойчивые выражения
+  ***All things considered**, …* (с учётом всего) · ***Generally speaking**, …* (вообще говоря) · ***Strictly speaking**, …* (строго говоря) · ***Judging by/from** his face, …* (судя по его лицу) · ***Given** the circumstances, …* (учитывая обстоятельства) · ***Considering** his age, …* (учитывая его возраст) · ***Having said that**, …* (при этом, тем не менее)
+
+  ## Обратите внимание
+  Эти устойчивые выражения не требуют совпадения подлежащих: ***Judging by** the clouds, it's going to rain.* — Судя по тучам, будет дождь. (дождь, конечно, ни о чём не судит!)
+examples:
+  - "*Dinner finished*, we went for a walk. | Поужинав, мы пошли прогуляться."
+  - "*Weather permitting*, the concert will be held outdoors. | Если позволит погода, концерт пройдёт на открытом воздухе."
+  - "*With the children asleep*, the house was finally quiet. | Когда дети уснули, в доме наконец стало тихо."
+  - "*All things considered*, it was a successful year. | В целом год был удачным."
+  - "*Judging by* his accent, he's from Scotland. | Судя по акценту, он из Шотландии."
+  - "*Given* the circumstances, you did very well. | С учётом обстоятельств ты отлично справился."
+exercises:
+  - type: choice
+    q: "___, we'll have the picnic in the park."
+    options: ["Weather permits", "Weather permitting", "Permitting weather"]
+    answer: 1
+  - type: choice
+    q: "___ the work completed, the builders left."
+    options: ["With", "By", "For"]
+    answer: 0
+  - type: choice
+    q: "___ by her smile, she got the job."
+    options: ["Judged", "Judging", "To judge"]
+    answer: 1
+  - type: choice
+    q: "The speech ___, the audience applauded."
+    options: ["ended", "ending", "was ended"]
+    answer: 0
+  - type: choice
+    q: "___ his age, he's remarkably fit."
+    options: ["Considering", "Considered", "Being considered"]
+    answer: 0
+  - type: input
+    q: "All things ___, it was a good decision. (consider)"
+    answer: ["considered"]
+  - type: input
+    q: "___ the circumstances, nobody could have done better. (Given/Giving)"
+    answer: ["Given"]
+  - type: cloze
+    text: "She listened to the music [[*with her eyes closed/her eyes closing/closed her eyes]]."
+  - type: cloze
+    text: "[[*With interest rates rising/Interest rates rose/Rising with interest rates]], fewer people are buying homes."
+  - type: error
+    text: "{{The meeting was over=>The meeting over}}, we all went to lunch."
+    explain: "Absolute construction: noun + participle/adjective, no verb 'was'."
+    explain_ru: "В абсолютной конструкции нет глагола was: существительное + причастие/прилагательное."
+  - type: error
+    text: "{{Generally speak=>Generally speaking}}, cats are independent animals."
+  - type: match
+    q: "Match the expression and its meaning"
+    pairs:
+      - ["All things considered", "taking everything into account"]
+      - ["Strictly speaking", "to be completely accurate"]
+      - ["Weather permitting", "if the weather is good"]
+      - ["Having said that", "however; despite this"]
+  - type: tf
+    items:
+      - ["Absolute constructions have their own subject.", true]
+      - ["“Judging by” must have the same subject as the main clause.", false]
+  - type: listen
+    audio: "With the deadline fast approaching and half the team off sick, we decided to postpone the launch."
+    q: "Why did they postpone the launch?"
+    options: ["The product was finished early.", "The deadline was close and many people were ill.", "The client asked them to."]
+    answer: 1
+  - type: speak
+    answer: "All things considered, it was a successful year."
+    ru: "В целом это был удачный год."

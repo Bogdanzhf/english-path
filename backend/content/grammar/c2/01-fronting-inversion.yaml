@@ -1,0 +1,122 @@
+title: "Fronting and Emphatic Inversion"
+title_ru: "Вынос в начало и эмфатическая инверсия"
+section: sentences
+summary: "So great was the noise that… / Such was his anger that… / Strange as it may seem, …"
+summary_ru: "Шум был так велик, что… / Таков был его гнев, что… / Как ни странно, …"
+theory: |
+  At C2 level, you can move words to the front of a sentence for **emphasis, contrast or style**.
+
+  ## so + adjective + be + subject + that
+  - ***So great was** the noise **that** nobody could sleep.* (= The noise was so great that…)
+  - ***So quickly did** she speak **that** I missed half of it.*
+
+  ## Such + be + noun + that
+  - ***Such was** his anger **that** he couldn't speak.*
+  - ***Such was** the demand **that** tickets sold out in minutes.*
+
+  ## Adjective/adverb + as/though + subject + verb (concession)
+  - ***Strange as it may seem**, I've never seen the sea.* (= Although it may seem strange…)
+  - ***Hard though** she tried, she couldn't open the door.*
+  - ***Much as** I like him, I can't agree.*
+  - ***Try as** he might, he couldn't remember her name.*
+
+  ## Fronting place/direction with inversion (literary)
+  - ***Into the room walked** a tall stranger.*
+  - ***On the hill stood** an old castle.*
+  - ***Here comes** the bus! / **There goes** my chance.* (but with pronouns: *Here **it** comes.*)
+
+  ## Fronting the object (spoken emphasis)
+  - ***That** I can't believe.*
+  - ***Coffee** I can live without; **tea** I can't.*
+theory_ru: |
+  На уровне C2 можно выносить слова в начало предложения ради **выразительности, контраста или стиля**. Это книжные, эффектные конструкции.
+
+  ## so + прилагательное + be + подлежащее + that — «так…, что»
+  - ***So great was** the noise **that** nobody could sleep.* — Шум был так силён, что никто не мог уснуть.
+  - ***So quickly did** she speak **that** I missed half of it.* — Она говорила так быстро, что я пропустил половину.
+
+  ## Such + be + существительное + that — «таков был…, что»
+  - ***Such was** his anger **that** he couldn't speak.* — Он был так зол, что не мог говорить.
+  - ***Such was** the demand **that** tickets sold out in minutes.* — Спрос был таким, что билеты раскупили за минуты.
+
+  ## Прилагательное/наречие + as/though + подлежащее + глагол — уступка «как ни…»
+  - ***Strange as it may seem**, I've never seen the sea.* — Как ни странно, я никогда не видел моря.
+  - ***Hard though** she tried, she couldn't open the door.* — Как она ни старалась, открыть дверь не смогла.
+  - ***Much as** I like him, I can't agree.* — Как бы он мне ни нравился, согласиться не могу.
+  - ***Try as** he might, he couldn't remember her name.* — Как он ни пытался, не мог вспомнить её имя.
+
+  ## Вынос места/направления с инверсией (литературно)
+  - ***Into the room walked** a tall stranger.* — В комнату вошёл высокий незнакомец.
+  - ***On the hill stood** an old castle.* — На холме стоял старый замок.
+  - ***Here comes** the bus! / **There goes** my chance.* — Вот и автобус! / Вот и пропал мой шанс. (но с местоимением: *Here **it** comes.*)
+
+  > Русский порядок слов свободный («На холме стоял замок» — это нормально), а в английском такая инверсия звучит книжно и эффектно.
+
+  ## Вынос дополнения (устная эмфаза)
+  - ***That** I can't believe.* — Вот в это я поверить не могу.
+  - ***Coffee** I can live without; **tea** I can't.* — Без кофе я проживу, а без чая — нет.
+examples:
+  - "*So beautiful was* the view that we stayed for hours. | Вид был настолько красив, что мы провели там несколько часов."
+  - "*Such was* the force of the storm that trees were uprooted. | Буря была такой силы, что деревья вырывало с корнем."
+  - "*Tired as* I was, I couldn't sleep. | Как я ни устал, уснуть не мог."
+  - "*Much as* I'd love to come, I have to work. | Как бы мне ни хотелось прийти, я должен работать."
+  - "*Into the room burst* a group of children. | В комнату ворвалась стайка детей."
+  - "*Try as she might*, she couldn't open the jar. | Как она ни старалась, банку открыть не смогла."
+exercises:
+  - type: choice
+    q: "So loud ___ that the neighbours complained."
+    options: ["the music was", "was the music", "did the music"]
+    answer: 1
+  - type: choice
+    q: "___ was his surprise that he dropped his glass."
+    options: ["So", "Such", "Too"]
+    answer: 1
+  - type: choice
+    q: "Strange ___ it may sound, I enjoy exams."
+    options: ["as", "so", "like"]
+    answer: 0
+  - type: choice
+    q: "Much ___ I admire her, I don't trust her."
+    options: ["though", "as", "so"]
+    answer: 1
+  - type: choice
+    q: "On the hill ___ an old windmill."
+    options: ["it stood", "stood", "did stand"]
+    answer: 1
+  - type: input
+    q: "Rewrite: The demand was so high that tickets sold out. → So high ___ the demand that tickets sold out."
+    answer: ["was"]
+  - type: input
+    q: "Rewrite: Although he tried hard, he failed. → Try ___ he might, he failed."
+    answer: ["as"]
+  - type: cloze
+    text: "[[*Such/So/Too]] was the heat that the roads began to melt."
+  - type: cloze
+    text: "Here [[*comes the bus/the bus comes/does the bus come]]! Quick!"
+  - type: error
+    text: "So {{the film was boring=>boring was the film}} that half the audience left."
+    explain: "After 'So + adjective' at the start: be + subject."
+    explain_ru: "После So + прилагательное в начале: be + подлежащее."
+  - type: error
+    text: "Here {{comes it=>it comes}}!"
+  - type: order
+    q: "Составьте: «Как он ни был богат, счастлив он не был»."
+    answer: "Rich as he was he was not happy."
+  - type: match
+    q: "Match the emphatic and neutral versions"
+    pairs:
+      - ["Such was the noise that…", "The noise was so great that…"]
+      - ["Tired as I was, …", "Although I was very tired, …"]
+      - ["Into the room ran a dog.", "A dog ran into the room."]
+  - type: tf
+    items:
+      - ["“Strange as it may seem” means “Although it may seem strange”.", true]
+      - ["Fronting with inversion is common in casual text messages.", false]
+  - type: listen
+    audio: "Such was the excitement in the stadium that you could hardly hear yourself think."
+    q: "What was the atmosphere like?"
+    options: ["very quiet", "extremely excited and loud", "sad"]
+    answer: 1
+  - type: speak
+    answer: "Strange as it may seem, I have never seen the sea."
+    ru: "Как ни странно, я никогда не видел моря."

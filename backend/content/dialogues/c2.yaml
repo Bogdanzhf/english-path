@@ -1,0 +1,239 @@
+- id: c2-conference-qa
+  title: "Questions after a conference talk"
+  title_ru: "Вопросы после доклада на конференции"
+  scene: "A researcher answers challenging questions after presenting her study."
+  scene_ru: "Исследовательница отвечает на непростые вопросы после доклада."
+  speakers: {Chair: m-uk, Speaker: f-us, Delegate: m-us}
+  lines:
+    - "Chair: Thank you, Dr Rivera, for a fascinating talk. We have a few minutes for questions. Yes, at the back. | Спасибо, доктор Ривера, за увлекательный доклад. У нас есть несколько минут на вопросы. Да, в последнем ряду."
+    - "Delegate: Thank you. I found your findings compelling, but I wonder whether your sample size of two hundred is large enough to draw such broad conclusions. | Спасибо. Ваши результаты убедительны, но мне интересно, достаточно ли выборки в двести человек для столь широких выводов."
+    - "Speaker: That's a fair point, and it's something we were very conscious of. Admittedly, the sample is modest. However, the effect was consistent across all the subgroups, which gives us some confidence. | Справедливое замечание, и мы это хорошо осознавали. Признаю, выборка скромная. Однако эффект был устойчивым во всех подгруппах, что вселяет в нас определённую уверенность."
+    - "Delegate: But couldn't the results simply reflect the fact that all your participants were university students? | Но не может ли быть так, что результаты просто отражают тот факт, что все участники были студентами?"
+    - "Speaker: It's certainly possible that the population limits how far we can generalise. I'd be the first to acknowledge that. That's precisely why we're planning a follow-up study with a more diverse sample. | Вполне возможно, что состав участников ограничивает обобщения. Я первой это признаю. Именно поэтому мы планируем повторное исследование на более разнообразной выборке."
+    - "Delegate: I see. And do you have any preliminary data from that? | Понятно. А есть ли уже предварительные данные?"
+    - "Speaker: Not yet, I'm afraid. We're still recruiting participants. I'd be happy to share the results with you once they're available. | Пока нет, к сожалению. Мы ещё набираем участников. С удовольствием поделюсь результатами, когда они появятся."
+    - "Chair: Perhaps one more question. Yes? | Возможно, ещё один вопрос. Да?"
+    - "Delegate: Just briefly — how would you respond to the argument that the effect is too small to matter in practice? | Совсем коротко: что бы вы ответили на довод, что эффект слишком мал, чтобы иметь практическое значение?"
+    - "Speaker: I'd argue that small effects can add up to something significant across a whole population. That said, I take the point that we need to demonstrate real-world impact. | Я бы возразила, что небольшие эффекты в масштабах всего населения могут складываться во что-то значимое. При этом я принимаю ваш довод, что нам нужно показать реальное влияние."
+    - "Chair: Excellent. I'm afraid that's all we have time for. Please join me in thanking Dr Rivera. | Отлично. Боюсь, на этом время вышло. Давайте поблагодарим доктора Риверу."
+    - "Speaker: Thank you all for such thought-provoking questions. | Спасибо всем за такие интересные вопросы."
+  phrases:
+    - "That's a fair point. | Справедливое замечание."
+    - "Admittedly, … However, … | Признаю, … Однако …"
+    - "I'd be the first to acknowledge that. | Я первым это признаю."
+    - "That's precisely why… | Именно поэтому…"
+    - "That said, I take the point that… | При этом я принимаю довод, что…"
+    - "thought-provoking questions | вопросы, заставляющие задуматься"
+  exercises:
+    - type: choice
+      q: "What is the delegate's first concern?"
+      options: ["The topic is boring", "The sample size is small", "The data is fake"]
+      answer: 1
+    - type: choice
+      q: "How does the speaker respond to criticism?"
+      options: ["She gets angry", "She acknowledges limitations but defends her findings", "She refuses to answer"]
+      answer: 1
+    - type: choice
+      q: "What are the researchers planning?"
+      options: ["To stop the research", "A follow-up study with a more diverse sample", "To publish immediately"]
+      answer: 1
+
+- id: c2-diplomatic-talks
+  title: "Diplomatic talks"
+  title_ru: "Дипломатические переговоры"
+  scene: "Two officials negotiate an agreement on a shared river."
+  scene_ru: "Два чиновника ведут переговоры о соглашении по общей реке."
+  speakers: {Minister: f-uk, Envoy: m-us}
+  lines:
+    - "Minister: Thank you for travelling all this way. I hope we can make some genuine progress today. | Спасибо, что проделали такой путь. Надеюсь, сегодня мы сможем добиться реального прогресса."
+    - "Envoy: As do we. My government is committed to finding a solution that works for both our countries. | Мы тоже. Моё правительство намерено найти решение, устраивающее обе наши страны."
+    - "Minister: Then let me be frank. The dam your government is building upstream could reduce the river's flow by as much as thirty percent. For our farmers, that would be devastating. | Тогда позвольте мне быть откровенной. Плотина, которую ваше правительство строит выше по течению, может сократить сток реки на целых тридцать процентов. Для наших фермеров это было бы катастрофой."
+    - "Envoy: I appreciate your concerns, and I don't wish to dismiss them. However, the dam is essential for our energy security. Several million people currently lack reliable electricity. | Я понимаю ваше беспокойство и не хочу от него отмахиваться. Однако плотина крайне важна для нашей энергетической безопасности. Несколько миллионов человек сейчас не имеют надёжного электроснабжения."
+    - "Minister: No one disputes your right to develop. The question is how. Would your government be prepared to guarantee a minimum flow during the dry season? | Никто не оспаривает ваше право на развитие. Вопрос в том, как. Готово ли ваше правительство гарантировать минимальный сток в засушливый сезон?"
+    - "Envoy: In principle, yes, provided that we can agree on how that minimum is calculated and monitored. | В принципе да, при условии что мы договоримся, как этот минимум рассчитывать и контролировать."
+    - "Minister: We'd propose an independent commission of experts from both countries, with full access to the data. | Мы предлагаем независимую комиссию из экспертов обеих стран с полным доступом к данным."
+    - "Envoy: That seems reasonable, although we'd want a neutral chair — perhaps from an international body. | Это кажется разумным, хотя мы хотели бы, чтобы председатель был нейтральным — например, из международной организации."
+    - "Minister: I think we could accept that. And in exchange, we'd be willing to discuss buying a share of the electricity the dam produces. | Думаю, на это мы могли бы согласиться. А взамен мы были бы готовы обсудить покупку части электроэнергии, которую будет вырабатывать плотина."
+    - "Envoy: Now that's an interesting proposition. It would turn a source of tension into a shared benefit. | Вот это интересное предложение. Оно превратило бы источник напряжённости в общую выгоду."
+    - "Minister: Precisely. Shall we ask our teams to draft a framework agreement along those lines? | Именно. Поручим нашим командам подготовить рамочное соглашение в этом ключе?"
+    - "Envoy: Agreed. I'll report back to my government this evening, and I'm cautiously optimistic. | Согласен. Сегодня вечером я доложу своему правительству и смотрю на это с осторожным оптимизмом."
+  phrases:
+    - "Let me be frank. | Позвольте быть откровенным."
+    - "I don't wish to dismiss your concerns. | Я не хочу отмахиваться от вашего беспокойства."
+    - "No one disputes your right to… | Никто не оспаривает ваше право…"
+    - "In principle, yes, provided that… | В принципе да, при условии что…"
+    - "along those lines | в этом ключе"
+    - "I'm cautiously optimistic. | Я настроен осторожно оптимистично."
+  exercises:
+    - type: choice
+      q: "What is the minister worried about?"
+      options: ["The cost of the dam", "The dam reducing the river's flow", "Electricity prices"]
+      answer: 1
+    - type: choice
+      q: "Why does the envoy say the dam is essential?"
+      options: ["For tourism", "For energy security", "For drinking water"]
+      answer: 1
+    - type: choice
+      q: "What does the minister offer in exchange?"
+      options: ["Money for the dam", "To buy a share of the electricity", "To build a second dam"]
+      answer: 1
+
+- id: c2-ethics-debate
+  title: "Should we edit human genes?"
+  title_ru: "Стоит ли редактировать гены человека?"
+  scene: "Two scientists debate gene editing on a radio programme."
+  scene_ru: "Двое учёных спорят о редактировании генов в радиоэфире."
+  speakers: {Host: f-us, Anil: m-uk, Grace: f-uk}
+  lines:
+    - "Host: Gene editing could allow us to eliminate inherited diseases — or to design our children. Anil, where do you stand? | Редактирование генов может позволить нам искоренить наследственные болезни — или проектировать своих детей. Анил, какова ваша позиция?"
+    - "Anil: I'm broadly in favour, with safeguards. If we can prevent a child from being born with a devastating illness, I'd argue we have a moral obligation to do so. | В целом я за, но с гарантиями. Если мы можем предотвратить рождение ребёнка с тяжёлой болезнью, я бы сказал, что мы морально обязаны это сделать."
+    - "Grace: I understand the appeal, but I'm deeply uneasy. Changes to embryos would be passed on to future generations who can't give their consent. | Я понимаю, чем это привлекательно, но мне очень тревожно. Изменения в эмбрионах будут передаваться будущим поколениям, которые не могут дать согласие."
+    - "Anil: Yet we make decisions on behalf of future generations all the time — with vaccines, for instance. | Но мы постоянно принимаем решения за будущие поколения — например, с прививками."
+    - "Grace: With respect, that's not quite comparable. A vaccine doesn't permanently alter the human genome. And the technology isn't yet precise enough; there's a real risk of unintended consequences. | При всём уважении, это не совсем сопоставимо. Прививка не меняет геном человека навсегда. И технология пока недостаточно точна: есть реальный риск непредвиденных последствий."
+    - "Anil: I wouldn't dispute that. Which is why I'm only advocating its use once it's been rigorously tested. | Не буду спорить. Именно поэтому я выступаю за её применение только после строгих испытаний."
+    - "Host: Grace, what about the argument that it could reduce suffering on a massive scale? | Грейс, а как же довод, что это может уменьшить страдания в огромных масштабах?"
+    - "Grace: My concern is where it leads. Once we accept editing for disease, the line between treatment and enhancement becomes blurred. Wealthy parents might pay for taller or more intelligent children. | Меня беспокоит, к чему это ведёт. Как только мы примем редактирование для лечения болезней, граница между лечением и «улучшением» размоется. Богатые родители смогут платить за более высоких или умных детей."
+    - "Anil: That's a legitimate worry, but it's an argument for regulation, not for a ban. | Это обоснованное опасение, но это довод в пользу регулирования, а не запрета."
+    - "Grace: Perhaps. But history suggests regulation often lags far behind technology. | Возможно. Но история показывает, что регулирование часто сильно отстаёт от технологий."
+    - "Host: It seems you agree on more than you might think — the debate is really about the pace and the rules. | Похоже, вы согласны в большем, чем кажется: спор на самом деле о темпах и правилах."
+    - "Anil: I'd go along with that. | С этим я соглашусь."
+  phrases:
+    - "Where do you stand? | Какова ваша позиция?"
+    - "I'm broadly in favour, with safeguards. | В целом я за, но с гарантиями."
+    - "I'm deeply uneasy. | Мне очень тревожно."
+    - "With respect, that's not quite comparable. | При всём уважении, это не совсем сопоставимо."
+    - "That's a legitimate worry, but… | Это обоснованное опасение, но…"
+    - "I'd go along with that. | С этим я соглашусь."
+  exercises:
+    - type: choice
+      q: "What is Anil's position?"
+      options: ["Completely against gene editing", "Broadly in favour, with safeguards", "He has no opinion"]
+      answer: 1
+    - type: choice
+      q: "What is one of Grace's main concerns?"
+      options: ["The cost", "Future generations can't consent", "It's too slow"]
+      answer: 1
+    - type: choice
+      q: "What does Anil say about the risk of 'designer babies'?"
+      options: ["It's an argument for a ban", "It's an argument for regulation", "It's impossible"]
+      answer: 1
+
+- id: c2-press-conference
+  title: "A crisis press conference"
+  title_ru: "Пресс-конференция в кризисной ситуации"
+  scene: "A company spokesperson answers journalists' questions after a data breach."
+  scene_ru: "Представитель компании отвечает на вопросы журналистов после утечки данных."
+  speakers: {Spokesperson: m-uk, Journalist: f-us}
+  lines:
+    - "Spokesperson: Good afternoon. Yesterday we became aware of a security breach affecting some of our customers' personal data. We sincerely apologise for any distress this may cause. | Добрый день. Вчера нам стало известно о нарушении безопасности, затронувшем персональные данные части наших клиентов. Приносим искренние извинения за возможные неудобства."
+    - "Journalist: How many customers are affected, exactly? | Сколько именно клиентов пострадало?"
+    - "Spokesperson: Our current estimate is approximately two hundred thousand. Our investigation is ongoing, so that figure may change. | По нашим текущим оценкам — около двухсот тысяч. Расследование продолжается, так что цифра может измениться."
+    - "Journalist: And what kind of data was stolen? Were bank details involved? | А какие данные были похищены? Были ли среди них банковские реквизиты?"
+    - "Spokesperson: Names, email addresses and phone numbers were accessed. At this stage, we have no evidence that payment details were compromised. | Был получен доступ к именам, адресам электронной почты и телефонам. На данный момент у нас нет доказательств того, что платёжные данные скомпрометированы."
+    - "Journalist: 'No evidence' isn't quite the same as 'no'. Can you rule it out completely? | «Нет доказательств» — это не совсем «нет». Вы можете полностью это исключить?"
+    - "Spokesperson: I understand why you'd press that point. I'm not in a position to rule anything out until the investigation is complete, but I can assure you we're treating it with the utmost seriousness. | Понимаю, почему вы настаиваете. Я не могу ничего исключать до завершения расследования, но могу заверить, что мы относимся к этому со всей серьёзностью."
+    - "Journalist: Reports suggest your company was warned about this vulnerability months ago. Is that true? | По сообщениям, вашу компанию предупреждали об этой уязвимости ещё несколько месяцев назад. Это правда?"
+    - "Spokesperson: I'm aware of those reports. It would be inappropriate to comment on specific allegations while the matter is under review, but we will publish the findings in full. | Мне известно об этих сообщениях. Было бы неуместно комментировать конкретные обвинения, пока дело рассматривается, но мы опубликуем выводы полностью."
+    - "Journalist: What should customers do right now? | Что клиентам делать прямо сейчас?"
+    - "Spokesperson: We've contacted everyone affected. We strongly advise them to change their passwords and to be cautious of suspicious emails. We're also offering free identity protection for a year. | Мы связались со всеми пострадавшими. Настоятельно рекомендуем им сменить пароли и остерегаться подозрительных писем. Мы также предлагаем бесплатную защиту личных данных на год."
+    - "Journalist: Thank you. | Спасибо."
+  phrases:
+    - "We sincerely apologise for any distress. | Приносим искренние извинения за неудобства."
+    - "Our investigation is ongoing. | Расследование продолжается."
+    - "At this stage, we have no evidence that… | На данный момент у нас нет доказательств того, что…"
+    - "I'm not in a position to rule anything out. | Я не могу ничего исключать."
+    - "with the utmost seriousness | со всей серьёзностью"
+    - "It would be inappropriate to comment. | Было бы неуместно комментировать."
+  exercises:
+    - type: choice
+      q: "How many customers are thought to be affected?"
+      options: ["About 2,000", "About 200,000", "About 2 million"]
+      answer: 1
+    - type: choice
+      q: "Why does the journalist press the spokesperson?"
+      options: ["'No evidence' doesn't mean payment details were definitely safe", "She wants a job", "She thinks the number is too high"]
+      answer: 0
+    - type: choice
+      q: "What is the company offering customers?"
+      options: ["Cash compensation", "Free identity protection for a year", "A new account"]
+      answer: 1
+
+- id: c2-mentoring
+  title: "A conversation with a mentor"
+  title_ru: "Разговор с наставником"
+  scene: "A young writer asks an experienced author for advice."
+  scene_ru: "Молодая писательница просит совета у опытного автора."
+  speakers: {Author: m-uk, Zoe: f-us}
+  lines:
+    - "Zoe: Thank you for agreeing to meet. I've admired your work for years, and I'm at something of a crossroads. | Спасибо, что согласились встретиться. Я много лет восхищаюсь вашими книгами, а сейчас я на распутье."
+    - "Author: The pleasure's mine. What's on your mind? | Мне только в радость. Что вас беспокоит?"
+    - "Zoe: I've had a novel rejected by twelve publishers. Part of me wants to keep going, but another part wonders whether I'm simply deluding myself. | Мой роман отвергли двенадцать издательств. Часть меня хочет продолжать, а другая задаётся вопросом, не обманываю ли я себя."
+    - "Author: Twelve rejections? That's practically a rite of passage. My first book was turned down twenty-three times. | Двенадцать отказов? Да это почти обряд посвящения. Мою первую книгу отвергли двадцать три раза."
+    - "Zoe: Really? I had no idea. | Правда? Я и не знала."
+    - "Author: Few people do. The question isn't whether you've been rejected, but what the rejections are telling you. Did any of the publishers give feedback? | Мало кто знает. Вопрос не в том, отказывали ли вам, а в том, что эти отказы вам говорят. Кто-нибудь из издателей дал отзыв?"
+    - "Zoe: A couple did. They said the writing was strong, but the middle of the story dragged. | Пара человек дали. Сказали, что язык сильный, но середина истории затянута."
+    - "Author: Then that's invaluable. If two independent readers spotted the same flaw, it's probably worth taking seriously. Have you considered putting the manuscript aside for a few months and coming back to it with fresh eyes? | Тогда это бесценно. Если двое независимых читателей заметили один и тот же недостаток, к нему, вероятно, стоит отнестись серьёзно. Вы не думали отложить рукопись на несколько месяцев и вернуться к ней свежим взглядом?"
+    - "Zoe: I suppose I've been too close to it. Every sentence feels precious. | Наверное, я к ней слишком привязалась. Каждое предложение кажется драгоценным."
+    - "Author: That's natural, but you have to be ruthless. As the saying goes, you must be willing to kill your darlings. | Это естественно, но нужно быть беспощадной. Как говорится, надо уметь расставаться с любимыми строчками."
+    - "Zoe: That's hard to hear, but I think you're right. | Это тяжело слышать, но, думаю, вы правы."
+    - "Author: For what it's worth, the fact that you're asking these questions suggests you've got what it takes. Keep writing. | Если вам это важно, то, что вы задаёте такие вопросы, говорит о том, что у вас всё получится. Продолжайте писать."
+  phrases:
+    - "I'm at something of a crossroads. | Я на распутье."
+    - "What's on your mind? | Что вас беспокоит?"
+    - "It's practically a rite of passage. | Это почти обряд посвящения."
+    - "with fresh eyes | свежим взглядом"
+    - "kill your darlings | расставаться с любимыми фрагментами (в писательстве)"
+    - "You've got what it takes. | У вас есть всё необходимое."
+  exercises:
+    - type: choice
+      q: "How many times was the author's first book rejected?"
+      options: ["Twelve", "Twenty-three", "Never"]
+      answer: 1
+    - type: choice
+      q: "What feedback did Zoe receive?"
+      options: ["The writing was weak", "The middle of the story dragged", "The ending was confusing"]
+      answer: 1
+    - type: choice
+      q: "What does the author suggest?"
+      options: ["Give up writing", "Put the manuscript aside and return with fresh eyes", "Self-publish immediately"]
+      answer: 1
+
+- id: c2-book-club
+  title: "A book club discussion"
+  title_ru: "Обсуждение в книжном клубе"
+  scene: "Friends discuss a novel with an ambiguous ending."
+  scene_ru: "Друзья обсуждают роман с неоднозначной концовкой."
+  speakers: {Hannah: f-uk, Marcus: m-us, Elena: f-us}
+  lines:
+    - "Hannah: So, what did everyone make of the ending? I've been mulling it over all week. | Ну, что все думают о концовке? Я всю неделю об этом размышляю."
+    - "Marcus: Honestly, I found it infuriating. After three hundred pages, the author simply leaves us hanging. Did she survive or not? | Честно говоря, она меня взбесила. Триста страниц — и автор просто оставляет нас в подвешенном состоянии. Выжила она или нет?"
+    - "Elena: I'd take the opposite view. I think the ambiguity is the whole point. The novel is about uncertainty, so a neat ending would have felt false. | А я придерживаюсь противоположного мнения. По-моему, неоднозначность — в этом весь смысл. Роман о неопределённости, так что аккуратная концовка была бы фальшивой."
+    - "Marcus: I see where you're coming from, but there's a fine line between ambiguity and simply not finishing the story. | Понимаю, о чём ты, но между неоднозначностью и просто недописанной историей тонкая грань."
+    - "Hannah: For me, the clue is in the last image — the open window. It suggests escape, doesn't it? Perhaps freedom rather than death. | Для меня подсказка — в последнем образе: открытом окне. Оно ведь намекает на побег? Возможно, на свободу, а не на смерть."
+    - "Elena: Exactly. And it echoes the opening chapter, when she's staring out of a window, feeling trapped. | Именно. И это перекликается с первой главой, где она смотрит в окно и чувствует себя в ловушке."
+    - "Marcus: Hmm. I hadn't picked up on that. That does put a slightly different complexion on it. | Хм. Я этого не заметил. Это немного меняет дело."
+    - "Hannah: Did you all find the narrator reliable, though? I started to doubt her about halfway through. | А рассказчица вам показалась надёжной? Я засомневалась в ней примерно с середины."
+    - "Elena: Definitely not. She contradicts herself several times. I think we're meant to question everything she tells us. | Точно нет. Она несколько раз себе противоречит. Думаю, нам и положено во всём ей не доверять."
+    - "Marcus: Well, I'll grant you it's cleverly written. I just wish the author had given us a little more to go on. | Ладно, признаю, написано мастерски. Просто жаль, что автор не дал нам чуть больше зацепок."
+    - "Hannah: Maybe that's the sign of a good book — we're still arguing about it. | Может, это и есть признак хорошей книги — мы до сих пор о ней спорим."
+    - "Elena: Shall we read something with a happy ending next time, for Marcus's sake? | Может, в следующий раз почитаем что-нибудь со счастливым концом — ради Маркуса?"
+  phrases:
+    - "What did everyone make of…? | Что все думают о…?"
+    - "I've been mulling it over. | Я об этом размышлял."
+    - "I'd take the opposite view. | Я придерживаюсь противоположного мнения."
+    - "There's a fine line between… | Есть тонкая грань между…"
+    - "That puts a different complexion on it. | Это меняет дело."
+    - "I'll grant you that… | Признаю, что…"
+  exercises:
+    - type: choice
+      q: "How did Marcus feel about the ending?"
+      options: ["He loved it", "He found it infuriating", "He didn't read it"]
+      answer: 1
+    - type: choice
+      q: "What does the open window suggest to Hannah?"
+      options: ["Death", "Escape or freedom", "A storm"]
+      answer: 1
+    - type: choice
+      q: "What do they think about the narrator?"
+      options: ["She is completely reliable", "She is unreliable and contradicts herself", "She is the author"]
+      answer: 1

@@ -1,0 +1,116 @@
+title: "Complex Noun Phrases"
+title_ru: "Сложные именные группы"
+section: nouns
+summary: "a ten-minute walk; the government's recently announced plan; a decision to be made by Friday"
+summary_ru: "десятиминутная прогулка; недавно объявленный план правительства; решение, которое нужно принять к пятнице"
+theory: |
+  Advanced and academic English packs a lot of information into **noun phrases**. Learning to build and understand them is key at C2.
+
+  ## Pre-modification (before the noun)
+  - **Compound adjectives** with numbers: *a **ten-minute** walk, a **five-star** hotel, a **two-year-old** child* (no plural -s!)
+  - **Noun + noun**: *a **city centre** car park, **customer satisfaction** levels, a **climate change** conference*
+  - **Adverb + participle**: *a **newly built** house, a **highly respected** scientist, a **fast-growing** industry*
+  - Order of adjectives: opinion – size – age – shape – colour – origin – material – purpose: *a **lovely small old round wooden** table*
+
+  ## Post-modification (after the noun)
+  - Prepositional phrase: *the man **in the grey suit***
+  - Relative clause: *the book **that I lent you***
+  - Participle: *the people **waiting outside**, the money **stolen from the bank***
+  - Infinitive: *the first person **to arrive**, a decision **to be made** by Friday*
+  - Appositive: *Ms Lee, **the company's new director**, …*
+
+  ## Combining both
+  *The **government's recently announced** plan **to reduce emissions by 2030** has been criticized.*
+  The head noun is **plan**; everything else describes it.
+
+  ## Tip for reading
+  When a sentence seems confusing, find the **head noun** and the **main verb** first.
+theory_ru: |
+  В продвинутом и академическом английском много информации «упаковывается» в **именные группы**. Умение строить и понимать их — ключевой навык на уровне C2.
+
+  ## Определения перед существительным
+  - **Сложные прилагательные** с числами: *a **ten-minute** walk* (десятиминутная прогулка), *a **five-star** hotel*, *a **two-year-old** child* (без окончания -s!)
+  - **Существительное + существительное**: *a **city centre** car park* (парковка в центре города), ***customer satisfaction** levels* (уровень удовлетворённости клиентов), *a **climate change** conference*
+  - **Наречие + причастие**: *a **newly built** house* (недавно построенный дом), *a **highly respected** scientist* (уважаемый учёный), *a **fast-growing** industry* (быстрорастущая отрасль)
+  - Порядок прилагательных: мнение – размер – возраст – форма – цвет – происхождение – материал – назначение: *a **lovely small old round wooden** table*
+
+  ## Определения после существительного
+  - Предложная группа: *the man **in the grey suit*** — мужчина в сером костюме
+  - Придаточное: *the book **that I lent you*** — книга, которую я тебе одолжил
+  - Причастие: *the people **waiting outside*** — люди, ждущие снаружи; *the money **stolen from the bank*** — деньги, украденные из банка
+  - Инфинитив: *the first person **to arrive*** — первый пришедший; *a decision **to be made** by Friday* — решение, которое нужно принять к пятнице
+  - Приложение: *Ms Lee, **the company's new director**, …* — госпожа Ли, новый директор компании, …
+
+  ## Сочетание
+  *The **government's recently announced** plan **to reduce emissions by 2030** has been criticized.* — Недавно объявленный правительством план сократить выбросы к 2030 году подвергся критике.
+  Главное слово — **plan**; всё остальное его описывает.
+
+  ## Совет при чтении
+  Если предложение кажется запутанным, сначала найдите **главное существительное** и **сказуемое**.
+
+  > В русском длинные цепочки «существительное + существительное» передаются родительным падежом или прилагательными: *customer satisfaction survey results* — результаты опроса об удовлетворённости клиентов.
+examples:
+  - "It's a *twenty-minute* drive to the airport. | До аэропорта двадцать минут на машине."
+  - "She's a *highly experienced* surgeon. | Она очень опытный хирург."
+  - "The people *living in the area* oppose the plan. | Люди, живущие в этом районе, против плана."
+  - "He was the last person *to leave* the building. | Он последним покинул здание."
+  - "The *customer satisfaction* survey showed good results. | Опрос об удовлетворённости клиентов показал хорошие результаты."
+  - "Dr Smith, *the hospital's chief surgeon*, will lead the team. | Доктор Смит, главный хирург больницы, возглавит команду."
+exercises:
+  - type: choice
+    q: "We stayed in a ___ hotel."
+    options: ["five-stars", "five-star", "five stars"]
+    answer: 1
+  - type: choice
+    q: "She has a ___ son."
+    options: ["three-years-old", "three-year-old", "three year olds"]
+    answer: 1
+  - type: choice
+    q: "Which order is correct?"
+    options: ["a wooden beautiful old table", "a beautiful old wooden table", "an old wooden beautiful table"]
+    answer: 1
+  - type: choice
+    q: "The first astronaut ___ on the Moon was Neil Armstrong."
+    options: ["walked", "to walk", "walks"]
+    answer: 1
+  - type: choice
+    q: "What is the head noun in “the newly elected city council's controversial housing policy”?"
+    options: ["council", "housing", "policy"]
+    answer: 2
+  - type: input
+    q: "a walk that lasts ten minutes → a ten-___ walk"
+    answer: ["minute"]
+  - type: input
+    q: "a scientist who is highly respected → a highly ___ scientist"
+    answer: ["respected"]
+  - type: cloze
+    text: "The documents [[*found/finding/were found]] in the attic were over 200 years old."
+  - type: cloze
+    text: "It was a [[*well-written/good-written/well-writing]] report."
+  - type: error
+    text: "We went on a {{two-weeks=>two-week}} holiday."
+    explain: "Compound adjectives with numbers have no plural -s."
+    explain_ru: "В сложных прилагательных с числами нет окончания -s."
+  - type: error
+    text: "The man {{who standing=>standing}} by the door is my uncle."
+  - type: order
+    q: "Составьте: «недавно построенный городской стадион»."
+    answer: "the newly built city stadium"
+  - type: match
+    q: "Match the long and short forms"
+    pairs:
+      - ["a flight that takes three hours", "a three-hour flight"]
+      - ["a house that was built recently", "a recently built house"]
+      - ["a bill of fifty pounds", "a fifty-pound bill"]
+  - type: tf
+    items:
+      - ["“a five-star hotel” has no plural -s on “star”.", true]
+      - ["In “the bank's new loan policy”, the head noun is “bank”.", false]
+  - type: listen
+    audio: "The recently published government report on youth unemployment makes worrying reading."
+    q: "What is the report about?"
+    options: ["the government", "youth unemployment", "reading habits"]
+    answer: 1
+  - type: speak
+    answer: "It's a ten-minute walk from the station."
+    ru: "Это в десяти минутах ходьбы от вокзала."

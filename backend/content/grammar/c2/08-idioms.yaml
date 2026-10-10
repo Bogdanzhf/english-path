@@ -1,0 +1,124 @@
+title: "Idioms and Figurative Language"
+title_ru: "Идиомы и образный язык"
+section: words
+summary: "break the ice, the last straw, a piece of cake, once in a blue moon, on the fence"
+summary_ru: "растопить лёд, последняя капля, проще простого, раз в сто лет, колебаться"
+theory: |
+  **Idioms** are fixed expressions whose meaning cannot be guessed from the individual words. They make speech colourful and natural, but they must be used carefully: in the wrong situation they can sound strange or too informal.
+
+  ## Common idioms by theme
+  | Theme | Idiom | Meaning |
+  |---|---|---|
+  | Ease / difficulty | **a piece of cake** | very easy |
+  | | **an uphill struggle** | something very difficult |
+  | Time | **once in a blue moon** | very rarely |
+  | | **in the nick of time** | at the last possible moment |
+  | Decisions | **sit on the fence** | refuse to choose a side |
+  | | **bite the bullet** | do something unpleasant that you have been avoiding |
+  | People | **break the ice** | make people feel relaxed at first meeting |
+  | | **see eye to eye** | agree |
+  | Problems | **the last straw** | the final problem that makes you lose patience |
+  | | **the tip of the iceberg** | a small visible part of a big problem |
+  | Secrets | **let the cat out of the bag** | reveal a secret by accident |
+  | Money | **cost an arm and a leg** | be very expensive |
+  | Success | **hit the nail on the head** | describe exactly what is right |
+  | Risk | **put all your eggs in one basket** | risk everything on one thing |
+
+  ## Using idioms well
+  - Keep the exact form: *It's raining cats and dogs* (not ~~cats and puppies~~).
+  - Change the verb tense as needed: *She **let** the cat out of the bag yesterday.*
+  - Avoid too many idioms in formal writing.
+theory_ru: |
+  **Идиомы** — устойчивые выражения, смысл которых нельзя вывести из отдельных слов. Они делают речь яркой и естественной, но употреблять их нужно осторожно: не к месту они звучат странно или слишком разговорно.
+
+  ## Популярные идиомы по темам
+  | Тема | Идиома | Значение |
+  |---|---|---|
+  | Лёгкость / трудность | **a piece of cake** | проще простого, раз плюнуть |
+  | | **an uphill struggle** | тяжёлая борьба, трудное дело |
+  | Время | **once in a blue moon** | очень редко, раз в сто лет |
+  | | **in the nick of time** | в самый последний момент |
+  | Решения | **sit on the fence** | занимать выжидательную позицию, не выбирать сторону |
+  | | **bite the bullet** | стиснуть зубы и сделать неприятное |
+  | Люди | **break the ice** | растопить лёд, снять напряжение при знакомстве |
+  | | **see eye to eye** | сходиться во мнениях |
+  | Проблемы | **the last straw** | последняя капля |
+  | | **the tip of the iceberg** | верхушка айсберга |
+  | Секреты | **let the cat out of the bag** | проболтаться, выдать секрет |
+  | Деньги | **cost an arm and a leg** | стоить целое состояние |
+  | Успех | **hit the nail on the head** | попасть в точку |
+  | Риск | **put all your eggs in one basket** | ставить всё на одну карту |
+
+  > Некоторые идиомы совпадают с русскими (the tip of the iceberg — верхушка айсберга, the last straw — последняя капля), но большинство — нет.
+
+  ## Как правильно употреблять идиомы
+  - Сохраняйте точную форму: *It's raining cats and dogs* — льёт как из ведра (не ~~cats and puppies~~).
+  - Меняйте время глагола по необходимости: *She **let** the cat out of the bag yesterday.* — Вчера она проболталась.
+  - Не злоупотребляйте идиомами в официальных текстах.
+examples:
+  - "The exam was *a piece of cake*. | Экзамен был проще простого."
+  - "I see my cousins *once in a blue moon*. | Я вижусь с двоюродными братьями раз в сто лет."
+  - "When he was late again, it was *the last straw*. | Когда он снова опоздал, это стало последней каплей."
+  - "We arrived *in the nick of time*. | Мы приехали в самый последний момент."
+  - "Those repairs *cost an arm and a leg*. | Этот ремонт обошёлся в целое состояние."
+  - "You've *hit the nail on the head*. | Ты попал в точку."
+exercises:
+  - type: choice
+    q: "Don't tell anyone about the surprise party. Don't ___ the cat out of the bag!"
+    options: ["put", "let", "take"]
+    answer: 1
+  - type: choice
+    q: "My boss and I don't see ___ to ___ on this issue."
+    options: ["face / face", "eye / eye", "hand / hand"]
+    answer: 1
+  - type: choice
+    q: "“Once in a blue moon” means…"
+    options: ["every month", "very rarely", "at night"]
+    answer: 1
+  - type: choice
+    q: "He told a joke to ___ at the start of the meeting."
+    options: ["break the ice", "bite the bullet", "hit the nail"]
+    answer: 0
+  - type: choice
+    q: "The reported cases are just the tip of the ___."
+    options: ["mountain", "iceberg", "island"]
+    answer: 1
+  - type: choice
+    q: "I hate going to the dentist, but I'll have to bite the ___."
+    options: ["bullet", "apple", "nail"]
+    answer: 0
+  - type: input
+    q: "Don't put all your eggs in one ___ — invest in different things."
+    answer: ["basket"]
+  - type: input
+    q: "That new car must have cost an arm and a ___!"
+    answer: ["leg"]
+  - type: cloze
+    text: "You can't sit on the [[*fence/wall/chair]] forever — you have to choose."
+  - type: cloze
+    text: "We caught the train in the [[*nick/neck/knock]] of time."
+  - type: error
+    text: "The test was a piece of {{bread=>cake}}."
+    explain: "The fixed idiom is “a piece of cake”."
+    explain_ru: "Устойчивое выражение — a piece of cake."
+  - type: error
+    text: "It's raining cats and {{puppies=>dogs}}!"
+  - type: match
+    q: "Match the idiom and its meaning"
+    pairs:
+      - ["hit the nail on the head", "say exactly the right thing"]
+      - ["the last straw", "the final problem"]
+      - ["an uphill struggle", "something very difficult"]
+      - ["sit on the fence", "avoid choosing a side"]
+  - type: tf
+    items:
+      - ["Idioms should be used a lot in formal academic essays.", false]
+      - ["We can change the verb tense in an idiom: “she let the cat out of the bag”.", true]
+  - type: listen
+    audio: "Learning to drive was an uphill struggle for me, but my sister found it a piece of cake."
+    q: "How did the speaker find learning to drive?"
+    options: ["very easy", "very difficult", "boring"]
+    answer: 1
+  - type: speak
+    answer: "The exam was a piece of cake."
+    ru: "Экзамен был проще простого."

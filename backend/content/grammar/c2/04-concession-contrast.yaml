@@ -1,0 +1,121 @@
+title: "Concession and Contrast: advanced"
+title_ru: "Уступка и противопоставление: продвинутый уровень"
+section: style
+summary: "albeit, whereas, notwithstanding, much as, however hard, be that as it may, admittedly"
+summary_ru: "хотя и, тогда как, несмотря на, как бы ни, однако, как бы то ни было, правда"
+theory: |
+  ## Formal concession
+  | Expression | Structure | Example |
+  |---|---|---|
+  | **albeit** | + adjective/adverb/phrase | *It was a success, **albeit** a small one.* |
+  | **notwithstanding** | + noun (before or after) | ***Notwithstanding** the risks, they went ahead.* / *the risks **notwithstanding*** |
+  | **even so / nevertheless / nonetheless** | new sentence | *It was expensive. **Even so**, it was worth it.* |
+  | **be that as it may** | new sentence | ***Be that as it may**, we still need a decision.* |
+  | **admittedly** | adverb | ***Admittedly**, the plan has flaws, but it's the best we have.* |
+
+  ## however / whatever / no matter + clause
+  - ***However hard** I try, I can't remember.*
+  - ***Whatever** you say, I won't change my mind.*
+  - ***No matter how** tired she is, she always helps.*
+  - ***Whoever** calls, tell them I'm out.*
+
+  ## Contrast between two facts
+  - **whereas / while**: *My brother loves sport, **whereas** I prefer reading.*
+  - **on the other hand / conversely**: *Cities offer jobs. **On the other hand**, they're expensive.*
+  - **as opposed to / unlike / in contrast to**: *Traditional schools, **as opposed to** online courses, offer social contact.*
+
+  ## Concession with "may/might"
+  *He **may** be clever, **but** he's not very wise.* / *You **might** think it's easy, **but** it isn't.*
+theory_ru: |
+  ## Официальные средства уступки
+  | Выражение | Конструкция | Пример |
+  |---|---|---|
+  | **albeit** — хотя и | + прилагательное/наречие/группа | *It was a success, **albeit** a small one.* — Это был успех, хотя и небольшой. |
+  | **notwithstanding** — несмотря на | + существительное (до или после) | ***Notwithstanding** the risks, they went ahead.* — Несмотря на риски, они продолжили. |
+  | **even so / nevertheless / nonetheless** — тем не менее | новое предложение | *It was expensive. **Even so**, it was worth it.* — Было дорого. И всё же оно того стоило. |
+  | **be that as it may** — как бы то ни было | новое предложение | ***Be that as it may**, we still need a decision.* — Как бы то ни было, решение нам всё равно нужно. |
+  | **admittedly** — правда, надо признать | наречие | ***Admittedly**, the plan has flaws, but it's the best we have.* — У плана, правда, есть недостатки, но это лучшее, что у нас есть. |
+
+  ## however / whatever / no matter + придаточное — «как бы ни», «что бы ни»
+  - ***However hard** I try, I can't remember.* — Как ни стараюсь, не могу вспомнить.
+  - ***Whatever** you say, I won't change my mind.* — Что бы ты ни говорил, я не передумаю.
+  - ***No matter how** tired she is, she always helps.* — Как бы она ни устала, она всегда помогает.
+  - ***Whoever** calls, tell them I'm out.* — Кто бы ни позвонил, скажи, что меня нет.
+
+  ## Противопоставление двух фактов
+  - **whereas / while** — тогда как: *My brother loves sport, **whereas** I prefer reading.* — Брат любит спорт, а я предпочитаю чтение.
+  - **on the other hand / conversely** — с другой стороны / напротив: *Cities offer jobs. **On the other hand**, they're expensive.*
+  - **as opposed to / unlike / in contrast to** — в отличие от: *Traditional schools, **as opposed to** online courses, offer social contact.*
+
+  ## Уступка с may/might — «может, и…, но»
+  *He **may** be clever, **but** he's not very wise.* — Может, он и умён, но не очень мудр. / *You **might** think it's easy, **but** it isn't.* — Вам может показаться, что это легко, но это не так.
+examples:
+  - "The hotel was comfortable, *albeit* rather expensive. | Отель был удобным, хотя и довольно дорогим."
+  - "*Notwithstanding* the bad weather, the event was a success. | Несмотря на плохую погоду, мероприятие прошло успешно."
+  - "*However much* he earns, he never seems to have money. | Сколько бы он ни зарабатывал, денег у него вечно нет."
+  - "*Admittedly*, I made a mistake, but it wasn't serious. | Я, правда, ошибся, но ничего серьёзного."
+  - "Some people love cities, *whereas* others prefer the countryside. | Одни любят города, а другие предпочитают деревню."
+  - "*Be that as it may*, the rules must be followed. | Как бы то ни было, правила нужно соблюдать."
+exercises:
+  - type: choice
+    q: "The plan worked, ___ not perfectly."
+    options: ["albeit", "whereas", "however"]
+    answer: 0
+  - type: choice
+    q: "___ hard she tried, she couldn't win."
+    options: ["Whatever", "However", "Whereas"]
+    answer: 1
+  - type: choice
+    q: "I like coffee, ___ my wife prefers tea."
+    options: ["albeit", "whereas", "notwithstanding"]
+    answer: 1
+  - type: choice
+    q: "___ his age, he runs marathons."
+    options: ["Notwithstanding", "Albeit", "Whereas"]
+    answer: 0
+  - type: choice
+    q: "He ___ be rich, but he's not happy."
+    options: ["must", "may", "should"]
+    answer: 1
+  - type: choice
+    q: "___, the results were disappointing, but we learned a lot."
+    options: ["Admittedly", "Whereas", "Albeit"]
+    answer: 0
+  - type: input
+    q: "No ___ what you do, don't give up. (one word)"
+    answer: ["matter"]
+  - type: input
+    q: "Be that as it ___, we must continue. (one word)"
+    answer: ["may"]
+  - type: cloze
+    text: "[[*Whatever/However/Whoever]] happens, I'll be there for you."
+  - type: cloze
+    text: "Online courses are flexible. [[*Conversely/Albeit/Whereas]], classroom lessons offer more interaction."
+  - type: error
+    text: "It was a good film, {{albeit it was=>albeit}} a little long."
+    explain: "albeit is followed by an adjective or phrase, not a full clause."
+    explain_ru: "После albeit идёт прилагательное или группа слов, а не целое предложение."
+  - type: error
+    text: "{{However I try hard=>However hard I try}}, I can't do it."
+  - type: order
+    q: "Составьте: «Как бы я ни устал, я всегда читаю перед сном»."
+    answer: "However tired I am I always read before bed."
+  - type: match
+    q: "Match the expression and its meaning"
+    pairs:
+      - ["albeit", "although"]
+      - ["notwithstanding", "despite"]
+      - ["whereas", "while in contrast"]
+      - ["be that as it may", "even if that is true"]
+  - type: tf
+    items:
+      - ["“notwithstanding” can come after the noun.", true]
+      - ["“albeit” is very informal.", false]
+  - type: listen
+    audio: "The project was completed on time, albeit slightly over budget. Even so, the client was delighted."
+    q: "What was the problem with the project?"
+    options: ["It was late.", "It cost a little more than planned.", "The client was unhappy."]
+    answer: 1
+  - type: speak
+    answer: "However hard I try, I can't remember his name."
+    ru: "Как я ни стараюсь, не могу вспомнить его имя."

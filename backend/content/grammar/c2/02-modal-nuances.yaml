@@ -1,0 +1,127 @@
+title: "Modal Nuances"
+title_ru: "Тонкости модальных глаголов"
+section: modals
+summary: "He will keep interrupting! / She would sit for hours. / How dare you! / Shall I…? / might as well"
+summary_ru: "Он вечно перебивает! / Она, бывало, часами сидела. / Как ты смеешь! / Мне…? / можно и…"
+theory: |
+  ## will / would for habits and typical behaviour
+  - *She **will** sit for hours reading.* (typical behaviour now)
+  - *When I was young, my father **would** read to me every night.* (past habit — like *used to*, but only for actions)
+  - Stressed **will/would** shows annoyance: *He **WILL** keep interrupting!* / *Of course she **WOULD** say that!*
+
+  ## will for assumptions
+  *That'**ll** be the postman.* (I'm fairly sure) / *You'**ll** be tired after your journey.*
+
+  ## shall
+  - Offers and suggestions: ***Shall** I open the window? **Shall** we go?*
+  - Formal rules and promises: *The tenant **shall** pay the rent monthly. You **shall** go to the ball!*
+
+  ## dare and need as modal verbs
+  - ***How dare you!** I **daren't** tell him.* (= I don't dare to)
+  - ***Need** I say more? You **needn't** worry.* (mainly in questions and negatives)
+
+  ## might as well / may as well
+  When there is no better option: *There's nothing on TV — we **might as well** go to bed.*
+
+  ## be bound to / be supposed to / be to
+  - *It's **bound to** rain.* (certain)
+  - *You'**re supposed to** take your shoes off.* (expected by rule or custom)
+  - *You **are to** report to the manager at nine.* (formal instruction)
+
+  ## could / might for criticism and irritation
+  *You **could have** told me! / You **might** at least say thank you.*
+theory_ru: |
+  ## will / would для привычек и типичного поведения
+  - *She **will** sit for hours reading.* — Она может часами сидеть с книгой (типично для неё).
+  - *When I was young, my father **would** read to me every night.* — В детстве отец, бывало, читал мне каждый вечер. (привычка в прошлом, как *used to*, но только для действий, не состояний)
+  - Ударное **will/would** выражает раздражение: *He **WILL** keep interrupting!* — Он вечно перебивает! / *Of course she **WOULD** say that!* — Ну конечно, кто бы сомневался, что она так скажет!
+
+  ## will для предположений
+  *That'**ll** be the postman.* — Это, наверное, почтальон. / *You'**ll** be tired after your journey.* — Вы, наверное, устали с дороги.
+
+  ## shall
+  - Предложения и вопросы: ***Shall** I open the window?* — Открыть окно? ***Shall** we go?* — Пойдём?
+  - Официальные правила и торжественные обещания: *The tenant **shall** pay the rent monthly.* — Арендатор обязуется вносить плату ежемесячно. *You **shall** go to the ball!* — Ты поедешь на бал!
+
+  ## dare и need как модальные
+  - ***How dare you!*** — Как ты смеешь! *I **daren't** tell him.* — Я не смею ему сказать.
+  - ***Need** I say more?* — Нужно ли говорить больше? *You **needn't** worry.* — Не волнуйся. (в основном в вопросах и отрицаниях)
+
+  ## might as well / may as well — «можно и…», «почему бы и нет»
+  Когда лучшего варианта нет: *There's nothing on TV — we **might as well** go to bed.* — По телевизору ничего нет — можно и спать лечь.
+
+  ## be bound to / be supposed to / be to
+  - *It's **bound to** rain.* — Дождь наверняка пойдёт.
+  - *You'**re supposed to** take your shoes off.* — Здесь положено снимать обувь.
+  - *You **are to** report to the manager at nine.* — Вам надлежит явиться к руководителю в девять.
+
+  ## could / might — упрёк и раздражение
+  *You **could have** told me!* — Мог бы и сказать! / *You **might** at least say thank you.* — Мог бы хотя бы спасибо сказать.
+examples:
+  - "He *will* leave his socks on the floor! | Он вечно бросает носки на пол!"
+  - "Every summer we *would* go camping by the lake. | Каждое лето мы, бывало, ездили в поход к озеру."
+  - "*Shall* I carry that for you? | Давай я понесу?"
+  - "*How dare* you speak to me like that! | Как ты смеешь так со мной разговаривать!"
+  - "The last bus has gone, so we *might as well* walk. | Последний автобус ушёл, так что можно и пешком."
+  - "You *might* have warned me! | Мог бы и предупредить!"
+exercises:
+  - type: choice
+    q: "When we were kids, Grandma ___ bake us a cake every Sunday."
+    options: ["would", "will", "shall"]
+    answer: 0
+  - type: choice
+    q: "The doorbell! That ___ be my pizza."
+    options: ["shall", "will", "dare"]
+    answer: 1
+  - type: choice
+    q: "___ we start the meeting?"
+    options: ["Will", "Shall", "Would"]
+    answer: 1
+  - type: choice
+    q: "How ___ you read my diary!"
+    options: ["need", "dare", "shall"]
+    answer: 1
+  - type: choice
+    q: "We've missed the film. We ___ as well go home."
+    options: ["might", "should", "must"]
+    answer: 0
+  - type: choice
+    q: "You're ___ to wear a helmet on the building site. It's the rule."
+    options: ["bound", "supposed", "due"]
+    answer: 1
+  - type: input
+    q: "You ___ at least have called me! (criticism, one word)"
+    answer: ["could", "might"]
+  - type: input
+    q: "I ___ not tell my boss about the mistake. (modal of courage, negative, one word)"
+    answer: ["dare"]
+  - type: cloze
+    text: "She [[*will/shall/would]] keep asking the same question — it's so annoying!"
+  - type: cloze
+    text: "[[*Need/Dare/Shall]] I remind you that the deadline is tomorrow?"
+  - type: error
+    text: "When I was a child, I {{would have=>used to have}} long hair."
+    explain: "would is not used for past states — use used to."
+    explain_ru: "would не употребляется для состояний в прошлом — нужно used to."
+  - type: error
+    text: "{{Will=>Shall}} I help you with your bags?"
+  - type: match
+    q: "Match the sentence and its meaning"
+    pairs:
+      - ["That'll be Tom.", "I'm fairly sure it's Tom."]
+      - ["He will talk during films!", "This annoying habit is typical of him."]
+      - ["We might as well wait.", "There's no better option."]
+      - ["You are to stay here.", "This is a formal instruction."]
+  - type: tf
+    items:
+      - ["“would” can describe past habits but not past states.", true]
+      - ["“Shall I…?” is used to make an offer.", true]
+      - ["“How need you!” is a common expression.", false]
+  - type: listen
+    audio: "Every evening after work, my grandfather would sit in the garden and play the violin for the neighbours."
+    q: "What did the grandfather regularly do?"
+    options: ["work in the garden", "play the violin", "visit the neighbours"]
+    answer: 1
+  - type: speak
+    answer: "We might as well go home."
+    ru: "Можно и домой пойти."

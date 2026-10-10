@@ -1,0 +1,120 @@
+title: "Advanced Verb Forms"
+title_ru: "Сложные глагольные формы"
+section: tenses
+summary: "was to have married; would have been doing; must have been being; will have been"
+summary_ru: "должен был жениться (но не женился); делал бы; должно быть, …"
+theory: |
+  At C2 level, you will meet complex combinations of tense, aspect, voice and modality.
+
+  ## Unfulfilled plans: was/were to have + V3
+  Something that was planned but **did not happen**:
+  - *They **were to have married** in June, but the wedding was cancelled.*
+  - *I **was to have flown** to Rome, but the flight was cancelled.*
+  Compare: *They **were to marry** in June* (we don't know if it happened, or it did).
+
+  ## Conditional continuous forms
+  - Present: *If I weren't ill, I **would be working** now.*
+  - Past: *If you hadn't called, I **would have been sleeping**.*
+  - Modal perfect continuous: *She **must have been crying** — her eyes are red. You **should have been listening**!*
+
+  ## Future in the past + perfect
+  - *By the time she arrived, he **would have left**.* (prediction about a past moment)
+  - *He thought he **would have finished** by noon.*
+
+  ## Passive with modals and continuous
+  - *The road **is being repaired**.* (present continuous passive)
+  - *The case **must have been investigated** thoroughly.*
+  - *The documents **should have been sent** yesterday.*
+  - *He **is thought to have been working** for the enemy.*
+
+  ## Future perfect for assumptions about the past
+  *You **will have heard** the news by now.* (= I'm sure you've heard)
+theory_ru: |
+  На уровне C2 встречаются сложные сочетания времени, вида, залога и модальности.
+
+  ## Несбывшиеся планы: was/were to have + V3
+  Что-то планировалось, но **не произошло**:
+  - *They **were to have married** in June, but the wedding was cancelled.* — Они должны были пожениться в июне, но свадьбу отменили.
+  - *I **was to have flown** to Rome, but the flight was cancelled.* — Я должен был лететь в Рим, но рейс отменили.
+  Сравните: *They **were to marry** in June* — Им предстояло пожениться в июне (неизвестно, состоялось ли, или состоялось).
+
+  ## Условные длительные формы
+  - Настоящее: *If I weren't ill, I **would be working** now.* — Если бы я не болел, я бы сейчас работал.
+  - Прошлое: *If you hadn't called, I **would have been sleeping**.* — Если бы ты не позвонил, я бы спал.
+  - Модальный перфектный длительный: *She **must have been crying** — her eyes are red.* — Она, должно быть, плакала: глаза красные. *You **should have been listening**!* — Тебе следовало слушать!
+
+  ## Будущее в прошедшем + перфект
+  - *By the time she arrived, he **would have left**.* — К её приходу он уже ушёл бы (прогноз о моменте в прошлом).
+  - *He thought he **would have finished** by noon.* — Он думал, что закончит к полудню.
+
+  ## Пассив с модальными и длительными формами
+  - *The road **is being repaired**.* — Дорогу ремонтируют.
+  - *The case **must have been investigated** thoroughly.* — Дело, должно быть, тщательно расследовали.
+  - *The documents **should have been sent** yesterday.* — Документы следовало отправить вчера.
+  - *He **is thought to have been working** for the enemy.* — Полагают, что он работал на врага.
+
+  ## Future Perfect для предположений о прошлом
+  *You **will have heard** the news by now.* — Вы, конечно, уже слышали новость.
+examples:
+  - "The bridge *was to have been opened* last year. | Мост должны были открыть ещё в прошлом году."
+  - "If it weren't raining, we *would be sitting* in the garden. | Если бы не дождь, мы бы сейчас сидели в саду."
+  - "He *must have been working* all night. | Он, должно быть, работал всю ночь."
+  - "The letter *should have been posted* on Monday. | Письмо следовало отправить в понедельник."
+  - "You *will have noticed* that the prices have changed. | Вы, наверное, заметили, что цены изменились."
+  - "She *is believed to have been living* abroad for years. | Считается, что она годами жила за границей."
+exercises:
+  - type: choice
+    q: "We ___ have met at six, but she never came."
+    options: ["were to", "would to", "had to"]
+    answer: 0
+  - type: choice
+    q: "Her eyes are red. She must ___."
+    options: ["be crying", "have been crying", "had cried"]
+    answer: 1
+  - type: choice
+    q: "If I hadn't lost my job, I ___ in London now."
+    options: ["would be living", "would have lived", "will live"]
+    answer: 0
+  - type: choice
+    q: "The parcel should ___ yesterday."
+    options: ["have delivered", "have been delivered", "be delivering"]
+    answer: 1
+  - type: choice
+    q: "You ___ heard about the merger by now."
+    options: ["will have", "will be", "would"]
+    answer: 0
+  - type: input
+    q: "The road ___ (repair) at the moment, so take another route. (present continuous passive)"
+    answer: ["is being repaired"]
+  - type: input
+    q: "He is thought ___ (work) for the company for decades. (perfect continuous infinitive)"
+    answer: ["to have been working"]
+  - type: cloze
+    text: "You [[*should have been listening/should listen/should have listened to]] instead of looking at your phone!"
+  - type: cloze
+    text: "The new museum [[*was to have opened/was to open/would open]] in 2020, but the plans were abandoned."
+  - type: error
+    text: "The windows {{must have cleaned=>must have been cleaned}} recently — they're spotless."
+    explain: "The windows didn't clean themselves → passive."
+    explain_ru: "Окна не мыли себя сами → пассив."
+  - type: error
+    text: "If you hadn't woken me, I {{would sleep=>would have been sleeping}} until noon."
+  - type: match
+    q: "Match the form and its meaning"
+    pairs:
+      - ["was to have married", "a plan that didn't happen"]
+      - ["must have been crying", "a deduction about a past activity"]
+      - ["will have heard", "an assumption about the past"]
+      - ["should have been sent", "a past obligation not fulfilled (passive)"]
+  - type: tf
+    items:
+      - ["“They were to have married” means the wedding happened.", false]
+      - ["“You will have heard” can express an assumption about the past.", true]
+  - type: listen
+    audio: "I was to have given a presentation this morning, but the meeting was postponed, so I'll have to wait until Friday."
+    q: "Did the speaker give the presentation?"
+    options: ["Yes, this morning", "No, it was postponed", "Yes, last Friday"]
+    answer: 1
+  - type: speak
+    answer: "She must have been working all night."
+    ru: "Она, должно быть, работала всю ночь."
