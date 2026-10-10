@@ -1,0 +1,64 @@
+title: "Machines Fighting Germs"
+title_ru: "Машины против микробов"
+words:
+  - "aggregate | adj | ˈæɡrɪɡət | | совокупный, общий | formed by adding together several amounts | The *aggregate* score over two games was 3–2. | Общий счёт по итогам двух матчей — 3:2. | in aggregate — в совокупности"
+  - "antibiotic | n | ˌæntibaɪˈɒtɪk | ˌæntibaɪˈɑːtɪk | антибиотик | a medicine that kills bacteria | The doctor prescribed a course of *antibiotics*. | Врач назначил курс антибиотиков."
+  - "circuit | n | ˈsɜːkɪt | ˈsɜːrkɪt | схема, цепь; круг | a closed path that electricity flows around | The *circuit* was broken, so the light went out. | Цепь разомкнулась, и свет погас. | ui читается как [ɪ]"
+  - "complement | v | ˈkɒmplɪment | ˈkɑːmplɪment | дополнять | to go well with something and make it better | The wine *complements* the fish perfectly. | Вино отлично дополняет рыбу. | не путайте с compliment"
+  - "compress | v | kəmˈpres | | сжимать | to press something into a smaller space | The software *compresses* large files. | Программа сжимает большие файлы."
+  - "database | n | ˈdeɪtəbeɪs | | база данных | a large collection of information stored on a computer | Our *database* contains a million customer records. | В нашей базе данных миллион записей о клиентах."
+  - "equivalent | n | ɪˈkwɪvələnt | | эквивалент | something that has the same value or meaning | Is there an English *equivalent* of this Russian word? | Есть ли у этого русского слова английский эквивалент?"
+  - "immune | adj | ɪˈmjuːn | | невосприимчивый; иммунный | protected against a disease | After the vaccine, you're *immune* to the virus. | После прививки у вас иммунитет к вирусу. | immune system — иммунная система"
+  - "input | n | ˈɪnpʊt | | ввод; вклад | information put into a computer; ideas and help given | We need more *input* from our users. | Нам нужно больше отзывов от пользователей. | output — вывод, результат"
+  - "intimate | adj | ˈɪntɪmət | | близкий, интимный; глубокий | very close and personal; detailed | She has an *intimate* knowledge of the subject. | Она глубоко знает этот предмет."
+  - "magnet | n | ˈmæɡnət | | магнит | a piece of metal that attracts iron | She stuck the photo on the fridge with a *magnet*. | Она прикрепила фото к холодильнику магнитом."
+  - "metabolism | n | məˈtæbəlɪzəm | | обмен веществ | the chemical processes in the body that use food | Exercise speeds up your *metabolism*. | Спорт ускоряет обмен веществ."
+  - "microchip | n | ˈmaɪkrəʊtʃɪp | ˈmaɪkroʊtʃɪp | микрочип | a very small piece of material with electronic circuits | Every phone contains dozens of *microchips*. | В каждом телефоне десятки микрочипов."
+  - "phase | n | feɪz | | фаза, этап | a stage in a process of change | The project is now in its final *phase*. | Проект сейчас на завершающем этапе."
+  - "pinch | v | pɪntʃ | | щипать, ущипнуть | to press skin tightly between your finger and thumb | My little brother *pinched* my arm. | Младший брат ущипнул меня за руку. | сущ. a pinch of salt — щепотка соли"
+  - "prevalent | adj | ˈprevələnt | | распространённый | common in a particular place or time | The disease is more *prevalent* in hot countries. | Это заболевание чаще встречается в жарких странах."
+  - "quantum | n | ˈkwɒntəm | ˈkwɑːntəm | квант; квантовый | the smallest amount of energy in physics; connected with this physics | *Quantum* computers could solve problems in seconds. | Квантовые компьютеры смогут решать задачи за секунды. | quantum leap — огромный скачок"
+  - "ratio | n | ˈreɪʃiəʊ | ˈreɪʃioʊ | соотношение | the relationship between two amounts | The *ratio* of students to teachers is 20 to 1. | Соотношение учеников и учителей — 20 к 1."
+  - "spiral | n | ˈspaɪrəl | | спираль | a shape that winds around a centre | DNA has the shape of a double *spiral*. | ДНК имеет форму двойной спирали."
+  - "viral | adj | ˈvaɪrəl | | вирусный | caused by a virus; spread quickly online | The video went *viral*. | Видео стало вирусным."
+reading:
+  title: "The Antibiotic Found by a Computer"
+  title_ru: "Антибиотик, найденный компьютером"
+  text: |
+    When penicillin was discovered in 1928, it changed medicine forever. Infections that had once killed millions could suddenly be cured. But there is a problem. Every time we use antibiotics, some bacteria survive and pass on their resistance. Over time, these "superbugs" become immune to our medicines. Antibiotic resistance is now prevalent in hospitals around the world, and experts warn that, without new drugs, simple infections could become deadly again.
+
+    Finding a new antibiotic is slow and expensive. Scientists may test thousands of chemicals before finding one that works, and most fail in the later phases of testing. Very few new types have been discovered in the past thirty years.
+
+    In 2020, a team of researchers in the USA tried a different approach. They trained an artificial intelligence program by giving it, as input, the structures of 2,500 molecules and information about whether each one killed bacteria. The program learned to recognize patterns that humans could not see. Then the researchers asked it to search a huge database of more than 100 million chemicals.
+
+    In just a few days, the computer found a molecule that had originally been studied as a treatment for diabetes. Tests showed that it killed many dangerous bacteria, including some that were resistant to all known antibiotics. The researchers named it "halicin", after the computer HAL in the film "2001: A Space Odyssey".
+
+    The news went viral. Of course, computers will not replace scientists. AI cannot replace their intimate knowledge of biology; rather, it complements it. But by compressing years of work into days, it could be the equivalent of having thousands of extra researchers. Some scientists believe that quantum computers, which are far more powerful than today's microchips, could speed up the search even more.
+
+    In the fight against superbugs, every new weapon counts.
+  ru: |
+    Когда в 1928 году открыли пенициллин, это навсегда изменило медицину. Инфекции, которые когда-то убивали миллионы, вдруг стало возможно вылечить. Но есть проблема. Каждый раз, когда мы применяем антибиотики, некоторые бактерии выживают и передают свою устойчивость. Со временем эти «супербактерии» становятся невосприимчивыми к нашим лекарствам. Устойчивость к антибиотикам теперь широко распространена в больницах по всему миру, и эксперты предупреждают, что без новых препаратов простые инфекции снова могут стать смертельными.
+
+    Поиск нового антибиотика — долгое и дорогое дело. Учёные могут перепробовать тысячи веществ, прежде чем найдут одно рабочее, а большинство отсеивается на поздних этапах испытаний. За последние тридцать лет открыто очень мало новых видов.
+
+    В 2020 году группа исследователей в США попробовала другой подход. Они обучили программу искусственного интеллекта, подав ей на вход структуры 2500 молекул и сведения о том, убивает ли каждая из них бактерии. Программа научилась распознавать закономерности, которые не видят люди. Затем исследователи поручили ей просмотреть огромную базу данных из более чем 100 миллионов веществ.
+
+    Всего за несколько дней компьютер нашёл молекулу, которую изначально изучали как средство от диабета. Испытания показали, что она убивает многие опасные бактерии, в том числе устойчивые ко всем известным антибиотикам. Исследователи назвали её «халицин» в честь компьютера HAL из фильма «2001: Космическая одиссея».
+
+    Новость разлетелась по интернету. Конечно, компьютеры не заменят учёных. ИИ не может заменить их глубокое знание биологии — он лишь дополняет его. Но, сжимая годы работы в дни, он может стать равноценной заменой тысячам дополнительных исследователей. Некоторые учёные считают, что квантовые компьютеры, гораздо более мощные, чем нынешние микрочипы, могут ускорить поиск ещё больше.
+
+    В борьбе с супербактериями важно любое новое оружие.
+  questions:
+    - q: "What is the problem with antibiotics?"
+      options: ["They are too expensive", "Bacteria become resistant to them", "They don't work on any bacteria", "They cause diabetes"]
+      answer: 1
+    - q: "How did the AI find halicin?"
+      options: ["By testing chemicals in a lab", "By searching a huge database after being trained", "By reading books", "By accident"]
+      answer: 1
+    - q: "Where does the name 'halicin' come from?"
+      options: ["A scientist's name", "A computer in a film", "A town", "A bacterium"]
+      answer: 1
+    - tf: "Halicin was originally studied as a treatment for diabetes."
+      answer: true
+    - tf: "The text says computers will replace scientists."
+      answer: false
