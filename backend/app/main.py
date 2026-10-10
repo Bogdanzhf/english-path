@@ -24,7 +24,7 @@ from . import passwords, srs
 from .config import settings
 from .content import get_library
 from .db import Activity, CustomWord, LessonProgress, TestResult, User, WordProgress, aware, get_session, init_db, utcnow
-from .i18n import msg, use_lang
+from .i18n import LangMiddleware, msg
 from .security import (
     LOGIN_IP_LIMIT,
     LOGIN_USER_LIMIT,
@@ -62,7 +62,7 @@ async def lifespan(_: FastAPI):
 app = FastAPI(
     title="English Path API",
     lifespan=lifespan,
-    dependencies=[Depends(use_lang), Depends(csrf_guard)],
+    dependencies=[Depends(csrf_guard)],
     docs_url="/api/docs",
     redoc_url=None,
     openapi_url="/api/openapi.json",
@@ -105,6 +105,7 @@ class SecurityHeaders(BaseHTTPMiddleware):
 
 
 app.add_middleware(SecurityHeaders)
+app.add_middleware(LangMiddleware)
 
 
 @app.exception_handler(HTTPException)
@@ -513,6 +514,8 @@ def delete_custom(cid: int, user: User = Depends(current_user), db: Session = De
 
 @app.post("/api/progress/result")
 def save_result(data: ResultIn, user: User = Depends(current_user), db: Session = Depends(get_session)):
+    if data.score > data.total:
+        raise HTTPException(status.HTTP_400_BAD_REQUEST, msg("bad_score"))
     for w in data.words:
         _check_word(db, user, w.id)
     percent = round(data.score * 100 / data.total)

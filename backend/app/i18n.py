@@ -26,6 +26,7 @@ MESSAGES: dict[str, tuple[str, str]] = {
     "wrong_password": ("Пароль указан неверно", "Wrong password"),
     "unknown_word": ("Неизвестное слово", "Unknown word"),
     "unknown_lesson": ("Неизвестный урок", "Unknown lesson"),
+    "bad_score": ("Баллов не может быть больше, чем вопросов", "Score cannot exceed the number of questions"),
     "not_found": ("Не найдено", "Not found"),
     "frontend_missing": ("Фронтенд не собран: выполните npm run build в папке frontend",
                          "Frontend is not built: run npm run build in the frontend folder"),
@@ -50,6 +51,28 @@ MESSAGES: dict[str, tuple[str, str]] = {
 def use_lang(request: Request) -> None:
     lang = (request.headers.get("x-lang") or "ru").lower()
     _lang.set("en" if lang.startswith("en") else "ru")
+
+
+class LangMiddleware:
+    """ASGI-прослойка: язык выставляется до вызова обработчика.
+
+    Синхронные зависимости FastAPI выполняются в отдельных потоках, и значение ContextVar,
+    выставленное там, не доходит до самого обработчика, — поэтому язык задаём здесь.
+    """
+
+    def __init__(self, app):
+        self.app = app
+
+    async def __call__(self, scope, receive, send):
+        if scope["type"] == "http":
+            raw = dict(scope.get("headers") or []).get(b"x-lang", b"ru").decode("latin-1").lower()
+            token = _lang.set("en" if raw.startswith("en") else "ru")
+            try:
+                await self.app(scope, receive, send)
+            finally:
+                _lang.reset(token)
+        else:
+            await self.app(scope, receive, send)
 
 
 def msg(key: str, **kwargs) -> str:
