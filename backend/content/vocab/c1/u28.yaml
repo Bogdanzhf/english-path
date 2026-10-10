@@ -1,0 +1,60 @@
+title: "The Black Death"
+title_ru: "Чёрная смерть"
+words:
+  - "avail | n | əˈveɪl | | польза, толк | use or benefit (in phrases) | They tried every cure, but to no *avail*. | Они перепробовали все средства, но безрезультатно. | to no avail — тщетно"
+  - "define | v | dɪˈfaɪn | | определять, давать определение | to explain the exact meaning of something | How do you *define* success? | Как ты определяешь успех?"
+  - "dread | n | dred | | ужас, страх | great fear of something that may happen | People lived in *dread* of the disease. | Люди жили в страхе перед болезнью."
+  - "expand | v | ɪkˈspænd | | расширять(ся) | to become larger | The city *expanded* rapidly after the plague. | После чумы город быстро разросся."
+  - "fundamental | adj | ˌfʌndəˈmentl | | фундаментальный, основной | basic and very important | The plague caused *fundamental* changes in society. | Чума вызвала коренные изменения в обществе."
+  - "horrifying | adj | ˈhɒrɪfaɪɪŋ | ˈhɔːrɪfaɪɪŋ | ужасающий | extremely shocking | The death rate was *horrifying*. | Смертность была ужасающей."
+  - "incredulous | adj | ɪnˈkredjələs | ɪnˈkredʒələs | недоверчивый | unable to believe something | She gave him an *incredulous* look. | Она недоверчиво посмотрела на него."
+  - "linger | v | ˈlɪŋɡə | ˈlɪŋɡər | задерживаться, сохраняться | to stay longer than usual | The smell of smoke *lingered* in the air. | Запах дыма ещё долго держался в воздухе."
+  - "organism | n | ˈɔːɡənɪzəm | ˈɔːrɡənɪzəm | организм | a living thing | The disease was caused by a tiny *organism*. | Болезнь вызывал крошечный организм."
+  - "paraphrase | v | ˈpærəfreɪz | | перефразировать | to say something in different words | Can you *paraphrase* the text in your own words? | Можешь пересказать текст своими словами?"
+  - "plague | n | pleɪɡ | | чума; бедствие | a deadly disease that spreads quickly | The *plague* killed millions of people. | Чума унесла миллионы жизней."
+  - "presently | adv | ˈprezntli | | вскоре; в настоящее время | soon; now (US) | He will be here *presently*. | Он вскоре будет здесь."
+  - "random | adj | ˈrændəm | | случайный | happening without a pattern | Death seemed completely *random*. | Смерть казалась совершенно случайной."
+  - "riot | n | ˈraɪət | | бунт, беспорядки | violent behaviour by a crowd | The tax led to *riots* in the streets. | Налог привёл к беспорядкам на улицах."
+  - "scribble | v | ˈskrɪbl | | царапать, писать небрежно | to write quickly and carelessly | He *scribbled* a note and left. | Он черкнул записку и ушёл."
+  - "shrine | n | ʃraɪn | | святыня, гробница | a holy place | Pilgrims visited the *shrine* to pray. | Паломники посещали святыню, чтобы помолиться."
+  - "solitude | n | ˈsɒlɪtjuːd | ˈsɑːlətuːd | уединение, одиночество | being alone, especially by choice | He spent his last years in *solitude*. | Последние годы он провёл в уединении."
+  - "stark | adj | stɑːk | stɑːrk | резкий, суровый; явный | very plain; obvious and unpleasant | The plague was a *stark* reminder of human weakness. | Чума была суровым напоминанием о человеческой слабости."
+  - "success | n | səkˈses | | успех | achieving what you wanted | The new treatment was a great *success*. | Новое лечение имело большой успех."
+  - "worsen | v | ˈwɜːsn | ˈwɜːrsn | ухудшаться | to become worse | The situation *worsened* quickly. | Положение быстро ухудшилось."
+reading:
+  title: "The Plague That Changed Europe"
+  title_ru: "Чума, изменившая Европу"
+  text: |
+    In 1347, ships arrived in Sicily carrying sailors who were dying of a terrible illness. Within weeks, the disease had spread to the mainland. Over the next five years, the Black Death swept across Europe, killing between a third and a half of its population. It was the deadliest pandemic in recorded history.
+
+    The symptoms were horrifying: high fever, painful black swellings and, often, death within days. People lived in constant dread. Death seemed random; it took the young and old, rich and poor alike. A writer in Florence scribbled that people "ate lunch with their friends and dinner with their ancestors". Doctors tried everything — bleeding patients, burning herbs, carrying flowers to block the "bad air" — but to no avail. Desperate crowds visited shrines to pray, while some people fled to the countryside in search of safety and solitude.
+
+    Nobody understood the cause. Many believed it was a punishment from God. Others blamed minorities, and in some cities, Jewish communities were attacked by angry mobs. Today we know that the plague was caused by a tiny organism, a bacterium called Yersinia pestis, carried by fleas that lived on rats and spread through crowded towns.
+
+    The consequences were fundamental. With so many workers dead, those who survived could demand higher wages. When rulers tried to stop wages from rising, there were riots, such as the Peasants' Revolt in England in 1381. Land became cheaper, and ordinary people gained new freedoms. Some historians define the Black Death as the beginning of the end of the medieval world.
+
+    The fear lingered for centuries; outbreaks continued to return until the 1700s. When modern people are incredulous that a disease could change history, historians point to the plague as a stark example. To paraphrase one scholar: pandemics do not just kill people; they reshape societies. The success of modern medicine — antibiotics now cure the plague — should not make us forget how quickly the situation can worsen when a new disease appears.
+  ru: |
+    В 1347 году в Сицилию прибыли корабли с моряками, умиравшими от ужасной болезни. Через несколько недель болезнь перекинулась на материк. За следующие пять лет Чёрная смерть пронеслась по Европе, унеся от трети до половины её населения. Это была самая смертоносная пандемия в истории.
+
+    Симптомы были ужасающими: сильный жар, болезненные чёрные опухоли и часто смерть в течение нескольких дней. Люди жили в постоянном страхе. Смерть казалась случайной: она забирала молодых и старых, богатых и бедных без разбора. Один флорентийский писатель записал, что люди «обедали с друзьями, а ужинали с предками». Врачи перепробовали всё — пускали кровь, жгли травы, носили цветы, чтобы защититься от «дурного воздуха», — но тщетно. Отчаявшиеся толпы шли к святыням молиться, а некоторые бежали в деревни в поисках безопасности и уединения.
+
+    Причину никто не понимал. Многие считали это Божьей карой. Другие обвиняли меньшинства, и в некоторых городах разъярённые толпы нападали на еврейские общины. Сегодня мы знаем, что чуму вызывал крошечный организм — бактерия Yersinia pestis, которую переносили блохи, жившие на крысах и распространявшиеся по тесным городам.
+
+    Последствия были коренными. Поскольку погибло так много работников, выжившие могли требовать более высокой оплаты. Когда правители пытались не допустить роста заработков, вспыхивали восстания — например, крестьянское восстание в Англии в 1381 году. Земля подешевела, а простые люди получили новые свободы. Некоторые историки считают Чёрную смерть началом конца средневекового мира.
+
+    Страх сохранялся веками: вспышки возвращались вплоть до XVIII века. Когда современные люди с недоверием относятся к тому, что болезнь может изменить ход истории, историки приводят чуму как наглядный пример. Перефразируя одного учёного: пандемии не просто убивают людей — они меняют общества. Успехи современной медицины — сегодня чуму излечивают антибиотиками — не должны заставлять нас забывать, как быстро всё может ухудшиться, когда появляется новая болезнь.
+  questions:
+    - q: "How much of Europe's population did the Black Death kill?"
+      options: ["About 5%", "Between a third and a half", "Almost everyone", "About 10%"]
+      answer: 1
+    - q: "What actually caused the plague?"
+      options: ["Bad air", "A bacterium carried by fleas on rats", "Punishment from God", "Dirty water"]
+      answer: 1
+    - q: "What was one economic consequence?"
+      options: ["Wages fell", "Survivors could demand higher wages", "Land became more expensive", "Trade stopped forever"]
+      answer: 1
+    - tf: "Medieval doctors found an effective cure."
+      answer: false
+    - tf: "Today the plague can be cured with antibiotics."
+      answer: true
