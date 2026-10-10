@@ -1,0 +1,64 @@
+title: "The Ghost Map"
+title_ru: "Карта-призрак"
+words:
+  - "adhere | v | ədˈhɪə | ədˈhɪr | придерживаться, соблюдать; прилипать | to follow a rule or belief; to stick to something | All staff must *adhere* to the safety rules. | Все сотрудники должны соблюдать правила безопасности. | adhere to"
+  - "administer | v | ədˈmɪnɪstə | ədˈmɪnɪstər | вводить (лекарство); управлять | to give someone medicine; to manage | The nurse *administered* the injection. | Медсестра сделала укол."
+  - "compassionate | adj | kəmˈpæʃənət | | сострадательный | showing sympathy for people who are suffering | She's a kind and *compassionate* doctor. | Она добрый и сострадательный врач."
+  - "contaminate | v | kənˈtæmɪneɪt | | загрязнять, заражать | to make something dirty or poisonous | The river was *contaminated* with chemicals. | Река была загрязнена химикатами."
+  - "deficiency | n | dɪˈfɪʃnsi | | недостаток, дефицит | a lack of something that is needed | Vitamin D *deficiency* is common in winter. | Зимой часто бывает дефицит витамина D."
+  - "emphasis | n | ˈemfəsɪs | | акцент, особое внимание | special importance given to something | The school puts great *emphasis* on sport. | Школа уделяет особое внимание спорту. | emphasize — подчёркивать"
+  - "epidemic | n | ˌepɪˈdemɪk | | эпидемия | a large number of cases of a disease at the same time | A flu *epidemic* swept the country. | Страну охватила эпидемия гриппа."
+  - "hazard | n | ˈhæzəd | ˈhæzərd | опасность, риск | something that could be dangerous | Wet floors are a safety *hazard*. | Мокрый пол — угроза безопасности."
+  - "imperative | adj | ɪmˈperətɪv | | крайне важный, необходимый | extremely important and urgent | It is *imperative* that we act now. | Крайне важно действовать прямо сейчас."
+  - "intestines | n | ɪnˈtestɪnz | | кишечник | the long tube that carries food from the stomach | Cholera attacks the *intestines*. | Холера поражает кишечник."
+  - "manifest | v | ˈmænɪfest | | проявляться | to show itself clearly | The disease *manifests* itself as a high fever. | Болезнь проявляется высокой температурой."
+  - "overcrowded | adj | ˌəʊvəˈkraʊdɪd | ˌoʊvərˈkraʊdɪd | переполненный, перенаселённый | having too many people | The poor lived in *overcrowded* houses. | Бедняки жили в перенаселённых домах."
+  - "practitioner | n | prækˈtɪʃənə | prækˈtɪʃənər | практикующий врач, специалист | a person who works in a profession, especially medicine | See your local medical *practitioner*. | Обратитесь к своему участковому врачу. | GP = general practitioner — терапевт"
+  - "provision | n | prəˈvɪʒn | | обеспечение, предоставление | the act of supplying something | The *provision* of clean water saves lives. | Обеспечение чистой водой спасает жизни. | provisions — провизия"
+  - "replenish | v | rɪˈplenɪʃ | | пополнять | to fill something up again | Drink water to *replenish* the fluids you lose. | Пейте воду, чтобы восполнить потерю жидкости."
+  - "reverse | v | rɪˈvɜːs | rɪˈvɜːrs | обращать вспять, отменять; давать задний ход | to change something to the opposite; to go backwards | The council *reversed* its decision. | Совет отменил своё решение."
+  - "sterile | adj | ˈsteraɪl | ˈsterəl | стерильный; бесплодный | completely clean and free from germs | Surgeons use *sterile* instruments. | Хирурги используют стерильные инструменты."
+  - "upgrade | v | ʌpˈɡreɪd | | модернизировать, улучшать | to improve something to a higher standard | The city *upgraded* its water system. | Город модернизировал систему водоснабжения."
+  - "viable | adj | ˈvaɪəbl | | жизнеспособный, осуществимый | able to work successfully | Is this a *viable* plan? | Это осуществимый план?"
+  - "voluntary | adj | ˈvɒləntri | ˈvɑːlənteri | добровольный | done willingly, without being paid or forced | She does *voluntary* work at the hospital. | Она работает волонтёром в больнице."
+reading:
+  title: "Dr Snow and the Broad Street Pump"
+  title_ru: "Доктор Сноу и колонка на Брод-стрит"
+  text: |
+    In the summer of 1854, a terrible cholera epidemic struck the Soho area of London. Cholera attacks the intestines and causes the body to lose water very quickly. Without treatment, a healthy person can die within a day. In just ten days, more than 500 people in a few streets died.
+
+    At the time, most doctors believed that cholera was spread by "miasma" — bad air from rubbish and dirt. London was overcrowded and dirty, so the theory seemed sensible. But one medical practitioner, Dr John Snow, did not adhere to the mainstream view. He believed that cholera was spread through contaminated water.
+
+    To prove it, Snow did something new. He visited the homes of the victims and compiled a list of every death. Then he marked each one on a map of the area. A clear pattern manifested itself: the deaths were grouped around a public water pump on Broad Street. Almost everyone who died had drunk water from it. In a nearby brewery, by contrast, not a single worker died — they drank beer instead!
+
+    Snow took his map to the local authorities. Although they didn't fully believe his theory, they agreed to remove the handle of the pump so that nobody could use it. The epidemic, which was already slowing down, soon ended. Later, investigators discovered that a cesspit full of waste from a sick baby's nappies was leaking into the well.
+
+    At first, the authorities reversed their position and refused to accept Snow's ideas. But over time, his evidence became impossible to ignore. London built a modern sewer system and upgraded the provision of clean water. Today, John Snow is remembered as the father of epidemiology.
+
+    His work also changed how we treat cholera. Because the disease kills by removing water from the body, it is imperative to replenish fluids quickly. A simple drink of clean water, salt and sugar is a viable treatment that has saved millions of lives.
+  ru: |
+    Летом 1854 года в лондонском районе Сохо разразилась страшная эпидемия холеры. Холера поражает кишечник, и организм очень быстро теряет воду. Без лечения здоровый человек может умереть за один день. Всего за десять дней на нескольких улицах умерло более 500 человек.
+
+    В то время большинство врачей считали, что холера распространяется через «миазмы» — дурной воздух от мусора и грязи. Лондон был перенаселён и грязен, так что теория казалась разумной. Но один практикующий врач, доктор Джон Сноу, не придерживался общепринятого мнения. Он считал, что холера распространяется через загрязнённую воду.
+
+    Чтобы доказать это, Сноу сделал нечто новое. Он обошёл дома погибших и составил список всех смертей. Затем он отметил каждую на карте района. Проявилась чёткая закономерность: смерти группировались вокруг общественной водяной колонки на Брод-стрит. Почти все умершие пили воду из неё. А на соседней пивоварне, напротив, не умер ни один рабочий — они пили пиво!
+
+    Сноу отнёс свою карту местным властям. Хотя они не до конца поверили в его теорию, они согласились снять с колонки ручку, чтобы никто не мог ею пользоваться. Эпидемия, которая уже шла на спад, вскоре закончилась. Позже следователи выяснили, что в колодец просачивалось содержимое выгребной ямы, куда выбрасывали пелёнки больного младенца.
+
+    Поначалу власти пошли на попятную и отказались принять идеи Сноу. Но со временем игнорировать его доказательства стало невозможно. Лондон построил современную канализацию и улучшил снабжение чистой водой. Сегодня Джона Сноу называют отцом эпидемиологии.
+
+    Его работа изменила и лечение холеры. Поскольку болезнь убивает, выводя из организма воду, крайне важно быстро восполнять жидкость. Простой напиток из чистой воды, соли и сахара — действенное лечение, спасшее миллионы жизней.
+  questions:
+    - q: "What did most doctors believe caused cholera?"
+      options: ["Contaminated water", "Bad air", "Insects", "Food"]
+      answer: 1
+    - q: "What did Snow's map show?"
+      options: ["Deaths were spread evenly", "Deaths were grouped around a water pump", "Deaths were near the river", "Only children died"]
+      answer: 1
+    - q: "Why did no workers at the brewery die?"
+      options: ["They were vaccinated", "They drank beer instead of water", "They lived far away", "They had their own doctor"]
+      answer: 1
+    - tf: "The authorities removed the pump's handle."
+      answer: true
+    - tf: "Everyone immediately accepted Snow's theory."
+      answer: false
