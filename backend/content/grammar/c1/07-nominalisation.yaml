@@ -1,0 +1,114 @@
+title: "Nominalisation and Formal Style"
+title_ru: "Номинализация и официальный стиль"
+section: style
+summary: "They decided → the decision; prices rose sharply → a sharp rise in prices"
+summary_ru: "Они решили → решение; цены резко выросли → резкий рост цен"
+theory: |
+  **Nominalisation** means turning verbs and adjectives into **nouns**. It is typical of academic, business and formal writing. It makes texts more compact, objective and impersonal.
+
+  | Spoken / informal | Formal (nominalised) |
+  |---|---|
+  | *Prices **rose sharply** last year.* | *Last year saw **a sharp rise** in prices.* |
+  | *The government **decided** to cut taxes, which **surprised** many people.* | *The government's **decision** to cut taxes came as **a surprise** to many.* |
+  | *Because the weather **was bad**, …* | *Due to **the bad weather**, …* |
+  | *If you **don't pay**, …* | ***Failure to pay** will result in …* |
+  | *We **analysed** the data carefully.* | *A careful **analysis** of the data …* |
+
+  ## Common patterns
+  - verb → noun: decide → decision, fail → failure, develop → development, increase → an increase, arrive → arrival, refuse → refusal
+  - adjective → noun: important → importance, able → ability, difficult → difficulty, aware → awareness
+  - Adverb → adjective: *rose **dramatically*** → *a **dramatic** rise*
+
+  ## Useful verbs with nominalised phrases
+  **make** a decision/an improvement, **carry out** research/an investigation, **give** consideration to, **take** action, **reach** an agreement/a conclusion, **there has been** a decline in…
+
+  ## Be careful
+  Too much nominalisation makes texts heavy and unclear. In everyday speech, use verbs.
+theory_ru: |
+  **Номинализация** — превращение глаголов и прилагательных в **существительные**. Это характерно для научного, делового и официального стиля. Текст становится компактнее, объективнее и безличнее. В русском официальном языке то же самое: «принять решение», «осуществить анализ», «в связи с ухудшением погоды».
+
+  | Разговорно | Официально (номинализация) |
+  |---|---|
+  | *Prices **rose sharply** last year.* — Цены резко выросли в прошлом году. | *Last year saw **a sharp rise** in prices.* — Прошлый год ознаменовался резким ростом цен. |
+  | *The government **decided** to cut taxes, which **surprised** many people.* | *The government's **decision** to cut taxes came as **a surprise** to many.* — Решение правительства снизить налоги стало неожиданностью для многих. |
+  | *Because the weather **was bad**, …* | *Due to **the bad weather**, …* — Из-за плохой погоды… |
+  | *If you **don't pay**, …* | ***Failure to pay** will result in …* — Неуплата повлечёт за собой… |
+  | *We **analysed** the data carefully.* | *A careful **analysis** of the data …* — Тщательный анализ данных… |
+
+  ## Типичные модели
+  - глагол → существительное: decide → decision, fail → failure, develop → development, increase → an increase, arrive → arrival, refuse → refusal
+  - прилагательное → существительное: important → importance, able → ability, difficult → difficulty, aware → awareness
+  - наречие → прилагательное: *rose **dramatically*** → *a **dramatic** rise*
+
+  ## Полезные глаголы-связки
+  **make** a decision/an improvement (принять решение / улучшить), **carry out** research/an investigation (провести исследование / расследование), **give** consideration to (рассмотреть), **take** action (принять меры), **reach** an agreement/a conclusion (достичь соглашения / прийти к выводу), **there has been** a decline in… (наблюдается снижение…)
+
+  ## Осторожно
+  Избыток номинализации делает текст тяжёлым и неясным. В обычной речи используйте глаголы.
+examples:
+  - "There has been *a significant increase* in unemployment. | Наблюдается значительный рост безработицы."
+  - "*The arrival* of the new manager changed everything. | Приход нового руководителя всё изменил."
+  - "*Failure* to comply with the rules will lead to a fine. | Несоблюдение правил повлечёт штраф."
+  - "Researchers *carried out an investigation* into the causes. | Исследователи провели расследование причин."
+  - "*Due to* the *closure* of the road, buses will be delayed. | В связи с закрытием дороги автобусы будут задерживаться."
+  - "The *importance* of sleep is often underestimated. | Важность сна часто недооценивают."
+exercises:
+  - type: choice
+    q: "Noun from “refuse”:"
+    options: ["refusement", "refusal", "refusion"]
+    answer: 1
+  - type: choice
+    q: "Prices fell dramatically. → There was a ___ fall in prices."
+    options: ["dramatically", "dramatic", "drama"]
+    answer: 1
+  - type: choice
+    q: "The company ___ an investigation into the accident."
+    options: ["made", "carried out", "did up"]
+    answer: 1
+  - type: choice
+    q: "Which sentence is the most formal?"
+    options: ["They didn't pay, so they were fined.", "Failure to pay resulted in a fine.", "They got fined 'cause they didn't pay."]
+    answer: 1
+  - type: choice
+    q: "We need to ___ action immediately."
+    options: ["do", "take", "make"]
+    answer: 1
+  - type: input
+    q: "Noun from “develop”: the ___ of new technology"
+    answer: ["development"]
+  - type: input
+    q: "Noun from “aware”: We need to raise public ___ of the problem."
+    answer: ["awareness"]
+  - type: cloze
+    text: "The government's [[decision]] (decide) to close the hospital caused anger."
+  - type: cloze
+    text: "There has been a steady [[increase]] (increase) in the number of tourists."
+  - type: error
+    text: "The two sides finally {{arrived an agreement=>reached an agreement}}."
+    explain: "Collocation: reach an agreement."
+    explain_ru: "Устойчивое сочетание: reach an agreement — достичь соглашения."
+  - type: error
+    text: "Due to the {{close=>closure}} of the bridge, traffic was diverted."
+  - type: match
+    q: "Match the verb and the noun"
+    pairs:
+      - ["arrive", "arrival"]
+      - ["fail", "failure"]
+      - ["analyse", "analysis"]
+      - ["able", "ability"]
+  - type: odd
+    q: "Which is NOT a noun?"
+    options: ["difficulty", "importance", "significantly", "decision"]
+    answer: 2
+  - type: tf
+    items:
+      - ["Nominalisation is typical of academic and formal writing.", true]
+      - ["Nominalisation always makes texts easier to read.", false]
+  - type: listen
+    audio: "Due to the sudden increase in demand, there will be a delay in the delivery of all orders."
+    q: "Why will orders be delayed?"
+    options: ["because of bad weather", "because demand has increased", "because the factory closed"]
+    answer: 1
+  - type: speak
+    answer: "There has been a sharp rise in prices."
+    ru: "Наблюдается резкий рост цен."

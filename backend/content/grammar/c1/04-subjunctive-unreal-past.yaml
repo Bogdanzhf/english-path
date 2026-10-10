@@ -1,0 +1,120 @@
+title: "Subjunctive and Unreal Past"
+title_ru: "Сослагательное наклонение и «нереальное прошлое»"
+section: verbs
+summary: "I suggest that he be told. It's time we left. I'd rather you didn't. As if…"
+summary_ru: "Предлагаю, чтобы ему сообщили. Пора бы нам уйти. Я бы предпочёл, чтобы ты не… Как будто…"
+theory: |
+  ## The subjunctive: base form after certain verbs
+  After **suggest, recommend, insist, demand, propose, request, ask** and adjectives like **essential, vital, important, necessary**, formal English uses the **base form** of the verb (no -s, no past):
+  - *I suggest that he **take** a break.* (not ~~takes~~)
+  - *The doctor insisted that she **stay** in bed.*
+  - *It is essential that every student **be** on time.*
+  - Negative: *We recommend that he **not travel** alone.*
+  British English often uses **should**: *I suggest that he **should take** a break.*
+
+  ## Unreal past: past form for present meaning
+  After these expressions, the **past** tense refers to the **present or future**:
+  | Expression | Example |
+  |---|---|
+  | **It's (high/about) time** + past | *It's time we **went** home.* |
+  | **would rather/sooner** + person + past | *I'd rather you **didn't** smoke here.* |
+  | **as if / as though** | *He talks as if he **knew** everything.* (but he doesn't) |
+  | **suppose / supposing / imagine** | *Suppose you **lost** your job — what would you do?* |
+  | **wish / if only** | *I wish I **had** more time.* |
+
+  For the past: *I'd rather you **hadn't told** her.* / *She looked as if she **had seen** a ghost.*
+
+  ## would rather + infinitive (same subject)
+  *I'd rather **stay** at home.* (I prefer) but *I'd rather **you stayed** at home.* (different subject → past)
+theory_ru: |
+  ## Сослагательное наклонение: начальная форма глагола
+  После глаголов **suggest, recommend, insist, demand, propose, request, ask** и прилагательных **essential, vital, important, necessary** в официальном английском используется **начальная форма** глагола (без -s и без прошедшего времени). По-русски это «чтобы + прошедшее время»:
+  - *I suggest that he **take** a break.* — Предлагаю, чтобы он сделал перерыв. (не ~~takes~~)
+  - *The doctor insisted that she **stay** in bed.* — Врач настоял, чтобы она лежала в постели.
+  - *It is essential that every student **be** on time.* — Крайне важно, чтобы каждый студент приходил вовремя.
+  - Отрицание: *We recommend that he **not travel** alone.* — Мы рекомендуем ему не путешествовать одному.
+  В британском английском часто используют **should**: *I suggest that he **should take** a break.*
+
+  ## «Нереальное прошлое»: прошедшая форма с настоящим значением
+  После этих выражений **прошедшее** время относится к **настоящему или будущему**:
+  | Выражение | Пример |
+  |---|---|
+  | **It's (high/about) time** + прошедшее | *It's time we **went** home.* — Нам пора домой. |
+  | **would rather/sooner** + кто-то + прошедшее | *I'd rather you **didn't** smoke here.* — Я бы предпочёл, чтобы ты здесь не курил. |
+  | **as if / as though** | *He talks as if he **knew** everything.* — Он говорит так, будто всё знает (а на самом деле нет). |
+  | **suppose / supposing / imagine** | *Suppose you **lost** your job — what would you do?* — Допустим, ты потерял работу, — что бы ты делал? |
+  | **wish / if only** | *I wish I **had** more time.* — Жаль, что у меня мало времени. |
+
+  Для прошлого — Past Perfect: *I'd rather you **hadn't told** her.* — Лучше бы ты ей не говорил. / *She looked as if she **had seen** a ghost.* — Она выглядела так, будто увидела привидение.
+
+  ## would rather + инфинитив (то же лицо)
+  *I'd rather **stay** at home.* — Я бы лучше остался дома. Но *I'd rather **you stayed** at home.* — Я бы предпочёл, чтобы ты остался дома (другое лицо → прошедшее).
+examples:
+  - "The committee recommended that the plan *be* rejected. | Комитет рекомендовал отклонить план."
+  - "It's vital that he *receive* treatment immediately. | Крайне важно, чтобы он немедленно получил лечение."
+  - "It's high time you *got* a job. | Тебе давно пора найти работу."
+  - "I'd rather you *didn't* tell anyone. | Я бы предпочёл, чтобы ты никому не говорил."
+  - "She behaves as if she *owned* the place. | Она ведёт себя так, будто она здесь хозяйка."
+  - "He looked as though he *hadn't slept* for days. | Он выглядел так, будто не спал несколько дней."
+exercises:
+  - type: choice
+    q: "The teacher insisted that every student ___ the test."
+    options: ["takes", "take", "took"]
+    answer: 1
+  - type: choice
+    q: "It's time we ___ home. It's very late."
+    options: ["go", "went", "will go"]
+    answer: 1
+  - type: choice
+    q: "I'd rather you ___ my phone without asking."
+    options: ["don't use", "didn't use", "not use"]
+    answer: 1
+  - type: choice
+    q: "He spends money as if he ___ a millionaire."
+    options: ["is", "were", "be"]
+    answer: 1
+  - type: choice
+    q: "It is essential that the documents ___ signed today."
+    options: ["are being", "be", "will be"]
+    answer: 1
+  - type: choice
+    q: "I'd rather ___ by train than fly."
+    options: ["travel", "travelled", "to travel"]
+    answer: 0
+  - type: input
+    q: "I'd rather you ___ (not / tell) her about the party yesterday. It was a surprise."
+    answer: ["hadn't told", "had not told"]
+  - type: input
+    q: "We recommend that he ___ (not / drive) after taking this medicine."
+    answer: ["not drive"]
+  - type: cloze
+    text: "It's high time the government [[*did/does/do]] something about pollution."
+  - type: cloze
+    text: "She looked as if she [[*had been crying/has cried/cries]]."
+  - type: error
+    text: "The doctor suggested that he {{stops=>stop}} smoking."
+    explain: "Subjunctive after suggest: base form."
+    explain_ru: "После suggest — начальная форма глагола (сослагательное наклонение)."
+  - type: error
+    text: "It's time you {{go=>went}} to bed."
+  - type: order
+    q: "Составьте: «Тебе давно пора научиться водить»."
+    answer: "It's high time you learned to drive."
+  - type: match
+    q: "Match the beginning and ending"
+    pairs:
+      - ["It's time we", "left."]
+      - ["I insist that he", "apologise."]
+      - ["She talks as if she", "knew everything."]
+  - type: tf
+    items:
+      - ["After “It's time” we use a past form for the present.", true]
+      - ["“I suggest that she goes” is the formal subjunctive form.", false]
+  - type: listen
+    audio: "I'd rather you didn't mention this to anyone until the contract is signed."
+    q: "What does the speaker want?"
+    options: ["to tell everyone", "to keep it secret for now", "to sign the contract today"]
+    answer: 1
+  - type: speak
+    answer: "It's time we went home."
+    ru: "Нам пора домой."

@@ -1,0 +1,124 @@
+title: "Inversion for Emphasis"
+title_ru: "Инверсия для усиления"
+section: sentences
+summary: "Never have I seen… Not only did she… Hardly had we arrived when…"
+summary_ru: "Никогда я не видел… Она не только… Едва мы приехали, как…"
+theory: |
+  In formal or dramatic English, we can put a **negative or limiting expression** at the start of a sentence. Then the word order changes as in a question: **auxiliary + subject + verb**.
+
+  ## Negative adverbials
+  - ***Never have I seen** such a beautiful sunset.* (= I have never seen…)
+  - ***Rarely/Seldom do we get** such an opportunity.*
+  - ***At no time did** he mention the money.*
+  - ***Under no circumstances should you** open this door.*
+  - ***In no way am I** responsible for this.*
+
+  ## Not only … but (also)
+  ***Not only did she win** the race, **but** she **also** broke the record.*
+
+  ## Time: hardly / scarcely / no sooner
+  - ***Hardly had we arrived when** it started to rain.*
+  - ***Scarcely had I sat down when** the phone rang.*
+  - ***No sooner had** he left **than** she called.* (note: **than**, not when)
+
+  ## Only + time/condition
+  - ***Only then did I realise** my mistake.*
+  - ***Only when** you leave home **do you appreciate** your parents.*
+  - ***Not until** I read the letter **did I understand**.*
+
+  ## Little
+  ***Little did they know** that their lives were about to change.*
+
+  If there's no auxiliary, use **do/does/did**: *Never **did** I imagine…*
+theory_ru: |
+  В официальной или эмоциональной речи можно поставить в начало предложения **отрицательное или ограничительное выражение**. Тогда порядок слов меняется, как в вопросе: **вспомогательный глагол + подлежащее + сказуемое**. Это придаёт фразе выразительность, примерно как русское «Никогда ещё я не…».
+
+  ## Отрицательные обстоятельства
+  - ***Never have I seen** such a beautiful sunset.* — Никогда я не видел такого прекрасного заката.
+  - ***Rarely/Seldom do we get** such an opportunity.* — Редко выпадает такая возможность.
+  - ***At no time did** he mention the money.* — Он ни разу не упомянул о деньгах.
+  - ***Under no circumstances should you** open this door.* — Ни при каких обстоятельствах не открывайте эту дверь.
+  - ***In no way am I** responsible for this.* — Я ни в коей мере за это не отвечаю.
+
+  ## Not only … but (also) — не только… но и
+  ***Not only did she win** the race, **but** she **also** broke the record.* — Она не только выиграла забег, но и побила рекорд.
+
+  ## Время: hardly / scarcely / no sooner — едва… как
+  - ***Hardly had we arrived when** it started to rain.* — Едва мы приехали, как пошёл дождь.
+  - ***Scarcely had I sat down when** the phone rang.* — Не успел я сесть, как зазвонил телефон.
+  - ***No sooner had** he left **than** she called.* — Не успел он уйти, как она позвонила. (обратите внимание: **than**, а не when)
+
+  ## Only + время/условие — только тогда / только когда
+  - ***Only then did I realise** my mistake.* — Только тогда я понял свою ошибку.
+  - ***Only when** you leave home **do you appreciate** your parents.* — Только уехав из дома, начинаешь ценить родителей.
+  - ***Not until** I read the letter **did I understand**.* — Только прочитав письмо, я понял.
+
+  ## Little — и не подозревали
+  ***Little did they know** that their lives were about to change.* — Они и не подозревали, что их жизнь вот-вот изменится.
+
+  Если вспомогательного глагола нет, используем **do/does/did**: *Never **did** I imagine…* — Никогда бы не подумал…
+examples:
+  - "*Never have I* felt so happy. | Никогда я не был так счастлив."
+  - "*Not only did he* forget my birthday, but he also lost my present. | Он не только забыл про мой день рождения, но и потерял мой подарок."
+  - "*Hardly had* the film started *when* the lights came on. | Едва начался фильм, как включился свет."
+  - "*Only later did I* understand what she meant. | Только позже я понял, что она имела в виду."
+  - "*Little did we* know what was waiting for us. | Мы и не подозревали, что нас ждёт."
+  - "*Under no circumstances* should you give your password to anyone. | Ни при каких обстоятельствах не сообщайте никому свой пароль."
+exercises:
+  - type: choice
+    q: "Never ___ such a strange story."
+    options: ["I have heard", "have I heard", "I heard"]
+    answer: 1
+  - type: choice
+    q: "Not only ___ late, but he also forgot the tickets."
+    options: ["he was", "was he", "did he"]
+    answer: 1
+  - type: choice
+    q: "No sooner had I arrived ___ the meeting started."
+    options: ["when", "than", "that"]
+    answer: 1
+  - type: choice
+    q: "Only when I got home ___ I had lost my wallet."
+    options: ["I realised", "did I realise", "had I realised"]
+    answer: 1
+  - type: choice
+    q: "Little ___ that he was being followed."
+    options: ["he knew", "did he know", "knew he"]
+    answer: 1
+  - type: input
+    q: "Rewrite: I have rarely eaten such good food. → Rarely ___ such good food."
+    answer: ["have I eaten"]
+  - type: input
+    q: "Rewrite: You must not touch this button under any circumstances. → Under no circumstances ___ touch this button."
+    answer: ["must you", "should you"]
+  - type: cloze
+    text: "Hardly [[*had she/she had/did she]] closed the door when someone knocked."
+  - type: cloze
+    text: "Not until the end of the film [[*did I understand/I understood/understood I]] the title."
+  - type: error
+    text: "Never {{I have been=>have I been}} so embarrassed."
+    explain: "After a negative adverbial at the start: auxiliary + subject."
+    explain_ru: "После отрицательного выражения в начале: вспомогательный глагол + подлежащее."
+  - type: error
+    text: "Not only {{she sings=>does she sing}} beautifully, but she also plays the piano."
+  - type: order
+    q: "Составьте: «Никогда ещё я не видел такого красивого места»."
+    answer: "Never have I seen such a beautiful place."
+  - type: match
+    q: "Match the beginnings and endings"
+    pairs:
+      - ["Hardly had I started", "when the phone rang."]
+      - ["No sooner had we left", "than it began to rain."]
+      - ["Not only is she clever,", "but she's also kind."]
+  - type: tf
+    items:
+      - ["Inversion is common in formal and dramatic English.", true]
+      - ["After “No sooner had…” we use “when”.", false]
+  - type: listen
+    audio: "Not only did the company lose money, but it also lost its best employees."
+    q: "What happened to the company?"
+    options: ["It only lost money.", "It lost money and its best employees.", "It gained new employees."]
+    answer: 1
+  - type: speak
+    answer: "Never have I seen such a beautiful sunset."
+    ru: "Никогда я не видел такого красивого заката."

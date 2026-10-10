@@ -1,0 +1,126 @@
+title: "Advanced Passive"
+title_ru: "Пассив: продвинутый уровень"
+section: passive
+summary: "I was given a prize. He got arrested. The issue was looked into. Having been told…"
+summary_ru: "Мне вручили приз. Его арестовали. Вопрос изучили. После того как ему сказали…"
+theory: |
+  ## Verbs with two objects
+  Verbs like **give, send, offer, show, tell, teach, lend, award** have two objects. Either can become the subject, but the **person** is more common:
+  - Active: *They gave **me** **a prize**.*
+  - Passive: ***I was given** a prize.* (more natural)
+  - Passive: ***A prize was given** to me.*
+
+  ## get-passive (informal)
+  **get + V3** is common in speech, especially for unexpected or unpleasant events:
+  - *He **got arrested** for speeding.*
+  - *Our car **got stolen** last night.*
+  - *Did you **get paid**?*
+
+  ## Prepositional verbs
+  The preposition stays after the verb:
+  - *Someone looked into the problem.* → *The problem **was looked into**.*
+  - *People laugh at him.* → *He **is laughed at**.*
+  - *We must deal with this.* → *This must **be dealt with**.*
+
+  ## Passive with modals, infinitives and -ing
+  - *The work **must have been done** by an expert.*
+  - *I hate **being lied to**.*
+  - ***Having been warned**, they were careful.*
+  - *She expects **to be promoted**.*
+
+  ## Verbs that are not usually passive
+  Intransitive verbs (happen, arrive, die, seem) and some state verbs (have = own, resemble, fit, lack) are not used in the passive: ~~The accident was happened~~ → *The accident **happened**.*
+theory_ru: |
+  ## Глаголы с двумя дополнениями
+  У глаголов **give, send, offer, show, tell, teach, lend, award** два дополнения. Подлежащим может стать любое, но чаще — **человек**:
+  - Актив: *They gave **me** **a prize**.* — Мне вручили приз.
+  - Пассив: ***I was given** a prize.* (естественнее) — Мне вручили приз.
+  - Пассив: ***A prize was given** to me.*
+
+  > Русское «мне дали», «ему предложили», «нам сказали» → в английском человек становится подлежащим: *I was given, he was offered, we were told*.
+
+  ## Пассив с get (разговорный)
+  **get + V3** часто используется в речи, особенно о неожиданных или неприятных событиях:
+  - *He **got arrested** for speeding.* — Его арестовали за превышение скорости.
+  - *Our car **got stolen** last night.* — Вчера ночью у нас угнали машину.
+  - *Did you **get paid**?* — Тебе заплатили?
+
+  ## Глаголы с предлогами
+  Предлог остаётся после глагола:
+  - *Someone looked into the problem.* → *The problem **was looked into**.* — Проблему изучили.
+  - *People laugh at him.* → *He **is laughed at**.* — Над ним смеются.
+  - *We must deal with this.* → *This must **be dealt with**.* — С этим нужно разобраться.
+
+  ## Пассив с модальными глаголами, инфинитивом и -ing
+  - *The work **must have been done** by an expert.* — Работу, должно быть, выполнил специалист.
+  - *I hate **being lied to**.* — Терпеть не могу, когда мне лгут.
+  - ***Having been warned**, they were careful.* — Получив предупреждение, они были осторожны.
+  - *She expects **to be promoted**.* — Она ожидает повышения.
+
+  ## Глаголы, которые обычно не бывают в пассиве
+  Непереходные глаголы (happen, arrive, die, seem) и некоторые глаголы состояния (have — иметь, resemble, fit, lack) в пассиве не употребляются: ~~The accident was happened~~ → *The accident **happened**.* — Произошла авария.
+examples:
+  - "I *was offered* a job in Berlin. | Мне предложили работу в Берлине."
+  - "We *were told* to wait outside. | Нам велели подождать снаружи."
+  - "He *got fired* for being late. | Его уволили за опоздания."
+  - "The complaint *is being looked into*. | Жалобу сейчас рассматривают."
+  - "I don't like *being told* what to do. | Не люблю, когда мне указывают, что делать."
+  - "The bridge *must have been built* centuries ago. | Мост, должно быть, построили века назад."
+exercises:
+  - type: choice
+    q: "They sent me a letter. → I ___ a letter."
+    options: ["sent", "was sent", "was sending"]
+    answer: 1
+  - type: choice
+    q: "The children ___ to swim by their father."
+    options: ["taught", "were taught", "have teached"]
+    answer: 1
+  - type: choice
+    q: "My bike ___ stolen while I was in the shop."
+    options: ["got", "had", "did"]
+    answer: 0
+  - type: choice
+    q: "This problem needs to be dealt ___ immediately."
+    options: ["—", "with", "by"]
+    answer: 1
+  - type: choice
+    q: "Which sentence is wrong?"
+    options: ["The accident was happened at night.", "I was given a second chance.", "The issue was looked into."]
+    answer: 0
+  - type: input
+    q: "Someone has paid the bill. → The bill ___ ."
+    answer: ["has been paid"]
+  - type: input
+    q: "People often laugh at his jokes. → His jokes are often ___ ."
+    answer: ["laughed at"]
+  - type: cloze
+    text: "She was [[*awarded/award/awarding]] a medal for bravery."
+  - type: cloze
+    text: "[[*Having been told/Having told/Being telling]] the news, he sat down in silence."
+  - type: error
+    text: "The meeting {{was taken place=>took place}} in the main hall."
+    explain: "take place is intransitive — no passive."
+    explain_ru: "take place — непереходный глагол, пассива нет."
+  - type: error
+    text: "The matter will be {{looked=>looked into}} tomorrow."
+  - type: order
+    q: "Составьте: «Мне показали, как пользоваться машиной»."
+    answer: "I was shown how to use the machine."
+  - type: match
+    q: "Match active and passive"
+    pairs:
+      - ["They gave her flowers.", "She was given flowers."]
+      - ["Someone took care of the baby.", "The baby was taken care of."]
+      - ["They fired him.", "He got fired."]
+  - type: tf
+    items:
+      - ["With verbs like “give”, the person usually becomes the subject of the passive.", true]
+      - ["“get” passive is more formal than “be” passive.", false]
+  - type: listen
+    audio: "I was told by my manager that the project had been cancelled, and I've been offered a different role."
+    q: "What happened to the speaker?"
+    options: ["They were fired.", "They were offered a different role.", "They were promoted to manager."]
+    answer: 1
+  - type: speak
+    answer: "I was given a second chance."
+    ru: "Мне дали второй шанс."

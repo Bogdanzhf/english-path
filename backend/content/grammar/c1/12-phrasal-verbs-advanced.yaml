@@ -1,0 +1,114 @@
+title: "Phrasal Verbs: advanced patterns"
+title_ru: "Фразовые глаголы: продвинутый уровень"
+section: verbs
+summary: "put up with, come up with, look forward to; turn it down; particles: up, out, off, through"
+summary_ru: "мириться с, придумывать, ждать с нетерпением; отказать; значения частиц"
+theory: |
+  ## Word order
+  1. **Separable** (transitive) phrasal verbs: the object can go before or after the particle — but a **pronoun** must go in the middle.
+     - *Turn **the music** down. / Turn down **the music**.*
+     - *Turn **it** down.* (not ~~turn down it~~)
+  2. **Inseparable** verbs: the object always goes after the particle: *I'll **look after** the kids. / I'll look after **them**.*
+  3. **Three-part** verbs are inseparable: ***put up with** (tolerate), **come up with** (invent), **look forward to** (+ -ing), **get on with**, **run out of**, **look up to** (respect), **cut down on** (reduce), **get away with** (escape punishment), **face up to** (accept)*
+
+  ## Meanings of common particles
+  | Particle | Meaning | Examples |
+  |---|---|---|
+  | **up** | increase, complete | speed up, use up, cheer up, eat up |
+  | **down** | decrease, stop, write | slow down, calm down, break down, write down |
+  | **out** | disappear, finish, find | run out, sort out, find out, figure out |
+  | **off** | depart, stop, separate | set off, call off (cancel), put off (postpone), switch off |
+  | **on** | continue | carry on, go on, keep on |
+  | **through** | complete a difficult thing | get through, go through, see it through |
+  | **over** | consider, recover | think over, get over (recover from) |
+
+  ## Formal equivalents
+  Phrasal verbs are often informal. In formal writing, single verbs are common: *find out → discover, put off → postpone, call off → cancel, look into → investigate, cut down on → reduce, put up with → tolerate.*
+theory_ru: |
+  ## Порядок слов
+  1. **Разделяемые** (переходные) фразовые глаголы: дополнение может стоять до или после частицы, но **местоимение** — только посередине.
+     - *Turn **the music** down. / Turn down **the music**.* — Сделай музыку тише.
+     - *Turn **it** down.* (не ~~turn down it~~)
+  2. **Неразделяемые** глаголы: дополнение всегда после частицы: *I'll **look after** the kids.* — Я присмотрю за детьми. / *I'll look after **them**.*
+  3. **Трёхчастные** глаголы не разделяются: ***put up with** (терпеть, мириться), **come up with** (придумать), **look forward to** + -ing (ждать с нетерпением), **get on with** (ладить; продолжать), **run out of** (исчерпать запас), **look up to** (уважать, равняться на), **cut down on** (сократить), **get away with** (выйти сухим из воды), **face up to** (признать, посмотреть в лицо)*
+
+  ## Значения частых частиц
+  | Частица | Значение | Примеры |
+  |---|---|---|
+  | **up** | увеличение, завершение | speed up (ускорить), use up (израсходовать), cheer up (подбодрить), eat up (доесть) |
+  | **down** | уменьшение, остановка, запись | slow down (замедлить), calm down (успокоиться), break down (сломаться), write down (записать) |
+  | **out** | исчезновение, конец, выяснение | run out (закончиться), sort out (уладить), find out (узнать), figure out (понять) |
+  | **off** | отправление, отмена, отделение | set off (отправиться), call off (отменить), put off (отложить), switch off (выключить) |
+  | **on** | продолжение | carry on, go on, keep on (продолжать) |
+  | **through** | преодоление трудного | get through (пережить, справиться), go through (пройти через) |
+  | **over** | обдумывание, восстановление | think over (обдумать), get over (оправиться) |
+
+  ## Официальные синонимы
+  Фразовые глаголы часто разговорные. В официальной письменной речи чаще используют однословные глаголы: *find out → discover, put off → postpone, call off → cancel, look into → investigate, cut down on → reduce, put up with → tolerate.*
+examples:
+  - "I can't *put up with* this noise any longer. | Я больше не могу терпеть этот шум."
+  - "She *came up with* a brilliant idea. | Она придумала блестящую идею."
+  - "I'm *looking forward to* seeing you. | С нетерпением жду встречи с тобой."
+  - "We've *run out of* milk. | У нас закончилось молоко."
+  - "The match was *called off* because of the snow. | Матч отменили из-за снега."
+  - "It took her months to *get over* the illness. | Ей потребовались месяцы, чтобы оправиться от болезни."
+exercises:
+  - type: choice
+    q: "That music is too loud. Please turn ___."
+    options: ["down it", "it down", "it off down"]
+    answer: 1
+  - type: choice
+    q: "I'm looking forward to ___ you next week."
+    options: ["see", "seeing", "have seen"]
+    answer: 1
+  - type: choice
+    q: "We need to cut ___ sugar."
+    options: ["down on", "off with", "up on"]
+    answer: 0
+  - type: choice
+    q: "The concert was ___ because the singer was ill."
+    options: ["called off", "called up", "called on"]
+    answer: 0
+  - type: choice
+    q: "Formal equivalent of “look into”:"
+    options: ["investigate", "tolerate", "postpone"]
+    answer: 0
+  - type: choice
+    q: "She has always looked ___ her older sister."
+    options: ["up to", "up with", "down to"]
+    answer: 0
+  - type: input
+    q: "We've run ___ of coffee. Can you buy some?"
+    answer: ["out"]
+  - type: input
+    q: "Don't give up! Carry ___ trying."
+    answer: ["on"]
+  - type: cloze
+    text: "He broke the rules, but he got [[*away with/out of/off with]] it."
+  - type: cloze
+    text: "Let me think it [[*over/up/off]] before I decide."
+  - type: error
+    text: "This is my old jacket. I'll {{throw away it=>throw it away}}."
+    explain: "Pronouns go between the verb and the particle."
+    explain_ru: "Местоимение ставится между глаголом и частицей."
+  - type: error
+    text: "I can't put up {{this=>with this}} anymore."
+  - type: match
+    q: "Match the phrasal verb and its formal equivalent"
+    pairs:
+      - ["put off", "postpone"]
+      - ["find out", "discover"]
+      - ["put up with", "tolerate"]
+      - ["call off", "cancel"]
+  - type: tf
+    items:
+      - ["Three-part phrasal verbs are inseparable.", true]
+      - ["“Turn down it” is correct.", false]
+  - type: listen
+    audio: "We've had to put off the launch until we can sort out the technical problems."
+    q: "What has happened to the launch?"
+    options: ["It has been cancelled.", "It has been postponed.", "It has happened already."]
+    answer: 1
+  - type: speak
+    answer: "I'm looking forward to hearing from you."
+    ru: "С нетерпением жду вашего ответа."

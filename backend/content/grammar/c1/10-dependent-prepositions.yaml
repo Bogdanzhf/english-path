@@ -1,0 +1,120 @@
+title: "Dependent Prepositions"
+title_ru: "Предлоги после слов (управление)"
+section: prepositions
+summary: "depend on, insist on, capable of, responsible for, an increase in, a solution to"
+summary_ru: "зависеть от, настаивать на, способный на, ответственный за, рост чего-то, решение чего-то"
+theory: |
+  Many verbs, adjectives and nouns are followed by a **fixed preposition**. They often differ from Russian, so it's best to learn them as chunks.
+
+  ## Verb + preposition
+  | Preposition | Verbs |
+  |---|---|
+  | **on** | depend on, rely on, insist on, concentrate on, comment on, congratulate on |
+  | **of** | approve of, consist of, accuse of, remind of, dream of |
+  | **for** | apologise for, blame for, apply for, search for, account for |
+  | **to** | object to, contribute to, react to, refer to, adapt to, belong to |
+  | **in** | believe in, specialise in, succeed in, invest in, result in |
+  | **from** | suffer from, benefit from, differ from, recover from, prevent from |
+  | **with** | cope with, deal with, provide with, agree with, interfere with |
+
+  ## Adjective + preposition
+  **aware of, capable of, fond of, proud of, typical of** · **responsible for, famous for, eligible for** · **keen on, dependent on** · **good at, surprised at/by** · **interested in, involved in** · **similar to, addicted to, sensitive to** · **different from, free from** · **satisfied with, familiar with**
+
+  ## Noun + preposition
+  **an increase/decrease/rise in** (prices) · **a reason for, a demand for, a need for** · **a solution/answer/key to** · **an advantage of, a lack of** · **a relationship with/between** · **an effect/impact/influence on** · **an attitude towards**
+
+  After a preposition, use a **noun** or **-ing**: *She insisted **on paying**.*
+theory_ru: |
+  Многие глаголы, прилагательные и существительные требуют **определённого предлога**. Часто он не совпадает с русским, поэтому лучше учить их целыми блоками.
+
+  ## Глагол + предлог
+  | Предлог | Глаголы |
+  |---|---|
+  | **on** | depend on (зависеть от), rely on (полагаться на), insist on (настаивать на), concentrate on (сосредоточиться на), comment on (комментировать), congratulate on (поздравить с) |
+  | **of** | approve of (одобрять), consist of (состоять из), accuse of (обвинять в), remind of (напоминать о), dream of (мечтать о) |
+  | **for** | apologise for (извиниться за), blame for (винить в), apply for (подать заявку на), search for (искать), account for (объяснять, составлять) |
+  | **to** | object to (возражать против), contribute to (способствовать), react to (реагировать на), refer to (ссылаться на), adapt to (приспосабливаться к), belong to (принадлежать) |
+  | **in** | believe in (верить в), specialise in (специализироваться на), succeed in (преуспеть в), invest in (вкладывать в), result in (приводить к) |
+  | **from** | suffer from (страдать от), benefit from (извлекать пользу из), differ from (отличаться от), recover from (оправиться от), prevent from (мешать) |
+  | **with** | cope with (справляться с), deal with (иметь дело с), provide with (обеспечивать чем-то), agree with (соглашаться с), interfere with (мешать) |
+
+  > Ловушки для русскоговорящих: **depend on** (не ~~from~~), **consist of** (не ~~from~~), **result in** (приводить к, не ~~to~~), **congratulate on** (поздравить с, не ~~with~~).
+
+  ## Прилагательное + предлог
+  **aware of, capable of, fond of, proud of, typical of** · **responsible for, famous for, eligible for** · **keen on, dependent on** · **good at, surprised at/by** · **interested in, involved in** · **similar to, addicted to, sensitive to** · **different from, free from** · **satisfied with, familiar with**
+
+  ## Существительное + предлог
+  **an increase/decrease/rise in** (prices) — рост цен · **a reason for, a demand for, a need for** — причина, спрос, потребность · **a solution/answer/key to** — решение, ответ, ключ к · **an advantage of, a lack of** · **a relationship with/between** · **an effect/impact/influence on** — влияние на · **an attitude towards** — отношение к
+
+  После предлога — **существительное** или **-ing**: *She insisted **on paying**.* — Она настояла на том, чтобы заплатить.
+examples:
+  - "It *depends on* the weather. | Это зависит от погоды."
+  - "The team *consists of* five people. | Команда состоит из пяти человек."
+  - "Smoking can *result in* serious illness. | Курение может привести к серьёзной болезни."
+  - "She's *responsible for* the marketing department. | Она отвечает за отдел маркетинга."
+  - "There has been *an increase in* crime. | Наблюдается рост преступности."
+  - "We need to find *a solution to* this problem. | Нам нужно найти решение этой проблемы."
+exercises:
+  - type: choice
+    q: "Success depends ___ hard work."
+    options: ["from", "on", "of"]
+    answer: 1
+  - type: choice
+    q: "The book consists ___ ten chapters."
+    options: ["from", "of", "in"]
+    answer: 1
+  - type: choice
+    q: "They congratulated me ___ my promotion."
+    options: ["with", "on", "for"]
+    answer: 1
+  - type: choice
+    q: "The accident resulted ___ two deaths."
+    options: ["to", "in", "with"]
+    answer: 1
+  - type: choice
+    q: "There's been a sharp rise ___ house prices."
+    options: ["of", "in", "on"]
+    answer: 1
+  - type: choice
+    q: "Social media has a big influence ___ young people."
+    options: ["on", "to", "for"]
+    answer: 0
+  - type: input
+    q: "He's very proud ___ his children."
+    answer: ["of"]
+  - type: input
+    q: "She's suffering ___ a bad cold."
+    answer: ["from"]
+  - type: cloze
+    text: "I'm not familiar [[*with/of/to]] this software, but I'm capable [[*of/for/in]] learning quickly."
+  - type: cloze
+    text: "He apologised [[*for/of/about]] being late and insisted [[*on/in/to]] paying for dinner."
+  - type: error
+    text: "It all depends {{from=>on}} the price."
+    explain: "depend on, not from."
+    explain_ru: "depend on, а не from (несмотря на русское «зависеть от»)."
+  - type: error
+    text: "I object {{to work=>to working}} at weekends."
+  - type: match
+    q: "Match the word and its preposition"
+    pairs:
+      - ["aware", "of"]
+      - ["responsible", "for"]
+      - ["similar", "to"]
+      - ["interested", "in"]
+  - type: odd
+    q: "Which word is NOT followed by “on”?"
+    options: ["rely", "insist", "consist", "concentrate"]
+    answer: 2
+  - type: tf
+    items:
+      - ["After a preposition we use the -ing form of a verb.", true]
+      - ["“a solution of the problem” is the usual collocation.", false]
+  - type: listen
+    audio: "Our success will depend largely on how quickly we can adapt to the new market and deal with the competition."
+    q: "What does success depend on?"
+    options: ["luck", "how quickly they adapt and deal with competition", "the price"]
+    answer: 1
+  - type: speak
+    answer: "It all depends on the weather."
+    ru: "Всё зависит от погоды."

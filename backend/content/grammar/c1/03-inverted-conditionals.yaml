@@ -1,0 +1,122 @@
+title: "Advanced Conditionals"
+title_ru: "Условные предложения: продвинутый уровень"
+section: conditionals
+summary: "Had I known… / Should you need… / Were it not for… / But for… / otherwise"
+summary_ru: "Знай я… / Если вам понадобится… / Если бы не… / Иначе…"
+theory: |
+  ## Inverted conditionals (formal) — without "if"
+  | Normal | Inverted |
+  |---|---|
+  | If you **should** need help, … | ***Should** you need help, call me.* |
+  | If I **were** you, … | ***Were** I you, I'd accept.* |
+  | If he **were to** resign, … | ***Were** he **to** resign, there would be chaos.* |
+  | If I **had known**, … | ***Had** I known, I would have helped.* |
+  Negative: ***Had** I **not** seen it myself, I wouldn't have believed it.* (no contraction!)
+
+  ## were to / should — unlikely future
+  - *If the company **were to** close, 500 people would lose their jobs.* (hypothetical)
+  - *If you **should** see Tom, tell him to call me.* (it's possible but not very likely)
+
+  ## Without / but for / if it weren't for / if it hadn't been for
+  - ***But for** your help, I would have failed.* = ***Without** your help…*
+  - ***If it weren't for** the rain, we'd go out.* (present)
+  - ***If it hadn't been for** the doctor, he would have died.* (past)
+  - Inverted: ***Were it not for** … / **Had it not been for** …*
+
+  ## otherwise / or else / supposing / assuming / on condition that
+  - *Hurry, **otherwise** we'll miss the train.*
+  - ***Assuming** the weather is good, we'll leave at 8.*
+  - *I'll lend it to you **on condition that** you return it tomorrow.*
+theory_ru: |
+  ## Условные предложения с инверсией (официально) — без if
+  | Обычно | С инверсией |
+  |---|---|
+  | If you **should** need help, … | ***Should** you need help, call me.* — Если вам понадобится помощь, звоните. |
+  | If I **were** you, … | ***Were** I you, I'd accept.* — Будь я на вашем месте, я бы согласился. |
+  | If he **were to** resign, … | ***Were** he **to** resign, there would be chaos.* — Если бы он ушёл в отставку, начался бы хаос. |
+  | If I **had known**, … | ***Had** I known, I would have helped.* — Знай я, я бы помог. |
+  Отрицание: ***Had** I **not** seen it myself, I wouldn't have believed it.* — Если бы я не видел этого своими глазами, не поверил бы. (без сокращений!)
+
+  > Инверсия в условных предложениях — это аналог русского «Знай я…», «Будь у меня…»: тоже без «если».
+
+  ## were to / should — маловероятное будущее
+  - *If the company **were to** close, 500 people would lose their jobs.* — Если бы компания закрылась, 500 человек потеряли бы работу (гипотетически).
+  - *If you **should** see Tom, tell him to call me.* — Если вдруг увидишь Тома, передай, чтобы позвонил.
+
+  ## without / but for / if it weren't for / if it hadn't been for — если бы не
+  - ***But for** your help, I would have failed.* = ***Without** your help…* — Если бы не твоя помощь, я бы провалился.
+  - ***If it weren't for** the rain, we'd go out.* — Если бы не дождь, мы бы пошли гулять (сейчас).
+  - ***If it hadn't been for** the doctor, he would have died.* — Если бы не врач, он бы умер (в прошлом).
+  - С инверсией: ***Were it not for** … / **Had it not been for** …*
+
+  ## otherwise / or else / supposing / assuming / on condition that
+  - *Hurry, **otherwise** we'll miss the train.* — Поторопись, иначе опоздаем на поезд.
+  - ***Assuming** the weather is good, we'll leave at 8.* — Если погода будет хорошей, выезжаем в 8.
+  - *I'll lend it to you **on condition that** you return it tomorrow.* — Одолжу при условии, что вернёшь завтра.
+examples:
+  - "*Had* I *known* you were coming, I would have baked a cake. | Знай я, что ты придёшь, я бы испёк торт."
+  - "*Should* you have any questions, please contact us. | Если у вас возникнут вопросы, свяжитесь с нами."
+  - "*Were* I in your position, I would refuse. | Будь я на вашем месте, я бы отказался."
+  - "*But for* the seatbelt, she would have been killed. | Если бы не ремень безопасности, она бы погибла."
+  - "*Were it not for* my family, I would have given up. | Если бы не семья, я бы сдался."
+  - "Take a map, *otherwise* you'll get lost. | Возьми карту, иначе заблудишься."
+exercises:
+  - type: choice
+    q: "___ I known about the problem, I would have helped."
+    options: ["If", "Had", "Should"]
+    answer: 1
+  - type: choice
+    q: "___ you need any further information, please call."
+    options: ["Should", "Had", "Were"]
+    answer: 0
+  - type: choice
+    q: "___ it not been for your support, I couldn't have done it."
+    options: ["Had", "Were", "Should"]
+    answer: 0
+    explain: "Past situation → Had it not been for…"
+    explain_ru: "Речь о прошлом → Had it not been for… (если бы не…)."
+  - type: choice
+    q: "___ the rain, the match would have finished on time."
+    options: ["But for", "Unless", "Otherwise"]
+    answer: 0
+  - type: choice
+    q: "If the government ___ raise taxes, there would be protests."
+    options: ["were to", "should to", "would"]
+    answer: 0
+  - type: input
+    q: "Rewrite: If I had not seen it, I wouldn't have believed it. → ___ not seen it, I wouldn't have believed it."
+    answer: ["Had I"]
+  - type: input
+    q: "Rewrite: If I were you, I'd apologise. → ___ you, I'd apologise."
+    answer: ["Were I"]
+  - type: cloze
+    text: "Leave now, [[*otherwise/unless/if]] you'll be late."
+  - type: cloze
+    text: "[[*Had/Should/Were]] the doctor not acted quickly, the patient would have died."
+  - type: error
+    text: "{{Hadn't I=>Had I not}} missed the bus, I would have been on time."
+    explain: "No contractions in inverted conditionals: Had I not…"
+    explain_ru: "В инвертированных условных нет сокращений: Had I not…"
+  - type: error
+    text: "{{Should you will need=>Should you need}} anything, just ask."
+  - type: order
+    q: "Составьте: «Если бы не твоя помощь, я бы не справился»."
+    answer: "Without your help I would have failed."
+  - type: match
+    q: "Match the inverted and normal forms"
+    pairs:
+      - ["Had I known,", "If I had known,"]
+      - ["Should you need help,", "If you need help,"]
+      - ["Were he to win,", "If he won,"]
+  - type: tf
+    items:
+      - ["Inverted conditionals are more formal.", true]
+      - ["“Hadn't I known” is the correct negative form.", false]
+  - type: listen
+    audio: "Had it not been for the firefighters, the whole building would have burned down."
+    q: "What saved the building?"
+    options: ["the rain", "the firefighters", "the neighbours"]
+    answer: 1
+  - type: speak
+    answer: "Had I known, I would have helped you."
+    ru: "Знай я, я бы тебе помог."

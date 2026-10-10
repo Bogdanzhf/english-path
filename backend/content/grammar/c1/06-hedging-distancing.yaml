@@ -1,0 +1,130 @@
+title: "Hedging and Distancing"
+title_ru: "Смягчение и дистанцирование"
+section: style
+summary: "It would seem that… / There appears to be… / arguably, apparently, to some extent"
+summary_ru: "Похоже, что… / По-видимому… / пожалуй, по всей видимости, в некоторой степени"
+theory: |
+  In academic writing, journalism and polite conversation, we often avoid sounding too certain. This is called **hedging**. It makes statements more cautious, polite and harder to attack.
+
+  ## seem / appear
+  - *The results **seem to** suggest a link.*
+  - ***There appears to be** a problem with your account.*
+  - ***It would seem that** the plan has failed.* (very cautious)
+
+  ## Modal verbs
+  - *This **may/might/could** explain the difference.*
+  - *The figures **would** suggest that sales are falling.*
+
+  ## Adverbs and phrases
+  **apparently, presumably, arguably, possibly, probably, relatively, largely, to some extent, in some ways, as far as we know, in theory**
+  - ***Arguably**, it's the best film of the decade.*
+  - *The project was **largely** successful.*
+  - ***Apparently**, the shop is closing.* (I heard this, but I'm not responsible for it)
+
+  ## Distancing: passive reporting
+  - ***It is thought that** the fire started in the kitchen.*
+  - *The minister **is said to be** considering resigning.*
+  - ***According to** some reports, …*
+
+  ## Softening opinions
+  - *I **tend to think** that…  / I'm **inclined to** agree.*
+  - ***I'm not sure** that's entirely true.*
+  - *That's **not quite** what I meant.*
+  - *It's **a bit/rather** expensive.*
+theory_ru: |
+  В академических текстах, журналистике и вежливом разговоре мы часто избегаем звучать слишком категорично. Это называется **хеджированием** (hedging). Высказывания становятся осторожнее, вежливее, и их сложнее оспорить.
+
+  ## seem / appear — кажется, по-видимому
+  - *The results **seem to** suggest a link.* — Результаты, по-видимому, указывают на связь.
+  - ***There appears to be** a problem with your account.* — Похоже, с вашим аккаунтом какая-то проблема.
+  - ***It would seem that** the plan has failed.* — Судя по всему, план провалился. (очень осторожно)
+
+  ## Модальные глаголы
+  - *This **may/might/could** explain the difference.* — Возможно, этим объясняется разница.
+  - *The figures **would** suggest that sales are falling.* — Цифры, по-видимому, говорят о снижении продаж.
+
+  ## Наречия и выражения
+  **apparently** (по-видимому, говорят), **presumably** (предположительно), **arguably** (пожалуй, можно утверждать), **possibly, probably, relatively** (относительно), **largely** (в основном), **to some extent** (в некоторой степени), **in some ways, as far as we know** (насколько нам известно), **in theory**
+  - ***Arguably**, it's the best film of the decade.* — Пожалуй, это лучший фильм десятилетия.
+  - *The project was **largely** successful.* — Проект был в основном успешным.
+  - ***Apparently**, the shop is closing.* — Говорят, магазин закрывается. (я это слышал, но не ручаюсь)
+
+  ## Дистанцирование: безличный пассив
+  - ***It is thought that** the fire started in the kitchen.* — Считается, что пожар начался на кухне.
+  - *The minister **is said to be** considering resigning.* — Говорят, министр подумывает об отставке.
+  - ***According to** some reports, …* — По некоторым данным, …
+
+  ## Смягчение мнений
+  - *I **tend to think** that…* — Я склонен думать, что… / *I'm **inclined to** agree.* — Я склонен согласиться.
+  - ***I'm not sure** that's entirely true.* — Не уверен, что это совсем так.
+  - *That's **not quite** what I meant.* — Я не совсем это имел в виду.
+  - *It's **a bit/rather** expensive.* — Это несколько дороговато.
+
+  > В русском языке тоже есть такие слова («пожалуй», «по-видимому», «как представляется»), но в английском академическом стиле их употребляют гораздо чаще.
+examples:
+  - "*There seems to be* some confusion about the date. | Похоже, с датой какая-то путаница."
+  - "*It would appear that* the company is in trouble. | По-видимому, компания в беде."
+  - "*Apparently*, they're getting married. | Говорят, они женятся."
+  - "This is *arguably* the most important discovery of the century. | Это, пожалуй, важнейшее открытие века."
+  - "The new law has been *largely* successful. | Новый закон оказался в основном успешным."
+  - "*I tend to think* we should wait. | Я склонен думать, что нам стоит подождать."
+exercises:
+  - type: choice
+    q: "Which sentence is the most cautious?"
+    options: ["The plan failed.", "The plan has definitely failed.", "It would seem that the plan has failed."]
+    answer: 2
+  - type: choice
+    q: "There ___ to be a mistake in your calculations."
+    options: ["seems", "seem", "is seeming"]
+    answer: 0
+  - type: choice
+    q: "___, the restaurant is closing next month. That's what I've heard."
+    options: ["Apparently", "Obviously", "Definitely"]
+    answer: 0
+  - type: choice
+    q: "The results ___ suggest that the treatment works, but more research is needed."
+    options: ["prove", "would", "must"]
+    answer: 1
+  - type: choice
+    q: "The project was ___ successful, although there were a few problems."
+    options: ["completely", "largely", "never"]
+    answer: 1
+  - type: input
+    q: "Make it more cautious: The fire started in the kitchen. → It is ___ that the fire started in the kitchen. (think)"
+    answer: ["thought", "believed"]
+  - type: input
+    q: "Make it softer: You're wrong. → I'm not ___ that's entirely correct."
+    answer: ["sure"]
+  - type: cloze
+    text: "[[*To some extent/At all/Totally]], I agree with you, but not completely."
+  - type: cloze
+    text: "The minister is [[*said/saying/says]] to be planning a new tax."
+  - type: error
+    text: "There {{seem=>seems}} to be a problem with the printer."
+    explain: "There seems to be + singular noun (a problem)."
+    explain_ru: "There seems to be + существительное в ед. ч. (a problem)."
+  - type: error
+    text: "It would {{seems=>seem}} that nobody knew about the change."
+  - type: match
+    q: "Match the hedging word and its meaning"
+    pairs:
+      - ["apparently", "according to what I've heard"]
+      - ["presumably", "I suppose that"]
+      - ["arguably", "it can be argued that"]
+      - ["largely", "mostly"]
+  - type: odd
+    q: "Which word does NOT make a statement more cautious?"
+    options: ["possibly", "arguably", "definitely", "presumably"]
+    answer: 2
+  - type: tf
+    items:
+      - ["Hedging is common in academic writing.", true]
+      - ["“It would seem that” makes a statement more certain.", false]
+  - type: listen
+    audio: "As far as we know, the virus doesn't seem to be spreading, but it's arguably too early to be sure."
+    q: "How certain is the speaker?"
+    options: ["completely certain", "cautious and not completely sure", "sure the virus is spreading"]
+    answer: 1
+  - type: speak
+    answer: "There seems to be a problem with my booking."
+    ru: "Похоже, с моим бронированием какая-то проблема."

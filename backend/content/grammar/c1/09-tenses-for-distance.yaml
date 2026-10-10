@@ -1,0 +1,118 @@
+title: "Tenses for Politeness and Distance"
+title_ru: "Времена для вежливости и дистанции"
+section: tenses
+summary: "I was wondering if… / I was hoping you could… / We were thinking of…"
+summary_ru: "Я хотел спросить, не могли бы вы… / Я надеялся, что вы… / Мы подумывали…"
+theory: |
+  English often uses **past** or **continuous** forms to make requests and suggestions **softer and more polite**. The past form doesn't mean past time — it creates **distance**, which sounds less direct.
+
+  ## Past for politeness
+  | Direct | Polite (distanced) |
+  |---|---|
+  | *Do you want something?* | *Did you want something?* |
+  | *I hope you can help.* | *I **hoped** you could help.* |
+  | *I wonder if you could…* | *I **wondered** if you could…* |
+
+  ## Continuous for extra softness
+  - ***I was wondering if** you could lend me your car.*
+  - ***I was hoping** you might have time to look at this.*
+  - ***We were thinking of** going to Spain this summer.* (tentative plan)
+  - ***I'm hoping** to finish by Friday.* (less certain than "I hope")
+
+  ## Modals and conditionals for distance
+  - ***Would** you mind…? / **Could** you possibly…?*
+  - ***Would it be possible to** change the date?*
+  - *It **would be** great **if** you **could** send it today.*
+  - ***I'd like to** ask a question.*
+
+  ## Future continuous for polite questions
+  ***Will** you **be needing** anything else?* (sounds less like pressure than "Do you need…?")
+theory_ru: |
+  В английском для смягчения просьб и предложений часто используют **прошедшее** время или **длительную** форму. Прошедшая форма здесь не означает прошлое — она создаёт **дистанцию**, и фраза звучит менее прямолинейно и более вежливо. Русские аналоги — «я хотел бы спросить…», «не могли бы вы…», частицы «бы», «не».
+
+  ## Прошедшее время для вежливости
+  | Прямо | Вежливо (с дистанцией) |
+  |---|---|
+  | *Do you want something?* — Вам что-то нужно? | *Did you want something?* — Вы что-то хотели? |
+  | *I hope you can help.* | *I **hoped** you could help.* — Я надеялся, что вы поможете. |
+  | *I wonder if you could…* | *I **wondered** if you could…* — Я хотел спросить, не могли бы вы… |
+
+  ## Длительная форма — ещё мягче
+  - ***I was wondering if** you could lend me your car.* — Я хотел спросить, не одолжите ли вы мне машину.
+  - ***I was hoping** you might have time to look at this.* — Я надеялся, что у вас найдётся время взглянуть на это.
+  - ***We were thinking of** going to Spain this summer.* — Мы тут подумывали съездить летом в Испанию (неокончательный план).
+  - ***I'm hoping** to finish by Friday.* — Надеюсь закончить к пятнице (менее уверенно, чем I hope).
+
+  ## Модальные глаголы и условные конструкции
+  - ***Would** you mind…? / **Could** you possibly…?* — Вы не возражаете…? / Не могли бы вы…?
+  - ***Would it be possible to** change the date?* — Можно ли было бы перенести дату?
+  - *It **would be** great **if** you **could** send it today.* — Было бы здорово, если бы вы могли отправить это сегодня.
+  - ***I'd like to** ask a question.* — Я хотел бы задать вопрос.
+
+  ## Future Continuous для вежливых вопросов
+  ***Will** you **be needing** anything else?* — Вам ещё что-нибудь понадобится? (звучит мягче, чем Do you need…?)
+examples:
+  - "*I was wondering if* you could help me with this report. | Я хотел спросить, не могли бы вы помочь мне с этим отчётом."
+  - "*Did you want* to see me? | Вы хотели меня видеть?"
+  - "*We were thinking of* inviting a few friends on Saturday. | Мы подумывали пригласить в субботу пару друзей."
+  - "*Would it be possible to* pay by card? | Можно ли расплатиться картой?"
+  - "*I was hoping* you'd say that. | Я надеялся, что ты это скажешь."
+  - "*Will you be staying* for dinner? | Вы останетесь на ужин?"
+exercises:
+  - type: choice
+    q: "Which request is the most polite?"
+    options: ["Lend me your pen.", "Can you lend me your pen?", "I was wondering if you could lend me your pen."]
+    answer: 2
+  - type: choice
+    q: "___ you want to speak to me? — Yes, I have a question."
+    options: ["Did", "Do", "Had"]
+    answer: 0
+  - type: choice
+    q: "We ___ of having a party next weekend. What do you think?"
+    options: ["think", "were thinking", "had thought"]
+    answer: 1
+  - type: choice
+    q: "Would it be possible ___ the meeting to Thursday?"
+    options: ["move", "to move", "moving"]
+    answer: 1
+  - type: choice
+    q: "In “I was hoping you could help”, the past tense shows…"
+    options: ["past time", "politeness", "a finished action"]
+    answer: 1
+  - type: input
+    q: "Make it more polite: I wonder if you can help. → I was ___ if you could help."
+    answer: ["wondering"]
+  - type: input
+    q: "Make it more polite: Do you need anything else? → Will you ___ anything else?"
+    answer: ["be needing"]
+  - type: cloze
+    text: "I [[*was hoping/hope/am hoped]] you might give me some advice."
+  - type: cloze
+    text: "It would be great if you [[*could/can/will]] call me back."
+  - type: error
+    text: "I was wondering if you {{can=>could}} help me move house."
+    explain: "Keep the distance: could, not can."
+    explain_ru: "Сохраняем «дистанцию»: could, а не can."
+  - type: error
+    text: "Would you mind {{to open=>opening}} the window?"
+  - type: order
+    q: "Составьте: «Я хотел спросить, не могли бы вы мне помочь»."
+    answer: "I was wondering if you could help me."
+  - type: match
+    q: "Match the direct and polite versions"
+    pairs:
+      - ["Help me.", "Could you possibly help me?"]
+      - ["I want to ask something.", "I was wondering if I could ask something."]
+      - ["Change the date.", "Would it be possible to change the date?"]
+  - type: tf
+    items:
+      - ["Past forms can be used for politeness, not past time.", true]
+      - ["“I was wondering” is less polite than “I wonder”.", false]
+  - type: listen
+    audio: "Hi, I was just wondering whether you'd had a chance to look at my proposal yet."
+    q: "What is the speaker doing?"
+    options: ["complaining", "politely asking about the proposal", "refusing the proposal"]
+    answer: 1
+  - type: speak
+    answer: "I was wondering if you could help me."
+    ru: "Я хотел спросить, не могли бы вы мне помочь."

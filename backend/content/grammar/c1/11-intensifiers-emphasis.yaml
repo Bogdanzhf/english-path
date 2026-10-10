@@ -1,0 +1,128 @@
+title: "Intensifiers and Emphasis"
+title_ru: "Усилители и эмфаза"
+section: adjectives
+summary: "absolutely furious, highly unlikely, deeply moved; I do like it; the very same; whatsoever"
+summary_ru: "в полной ярости, крайне маловероятно, глубоко тронут; мне правда нравится"
+theory: |
+  ## Gradable vs extreme adjectives
+  - **Gradable** adjectives (cold, tired, good) go with **very, extremely, really, incredibly**: *very cold*
+  - **Extreme** adjectives (freezing, exhausted, amazing, furious, tiny) go with **absolutely, totally, completely, utterly, really**: *absolutely freezing* (not ~~very freezing~~)
+  - **really** works with both.
+
+  ## Collocations: adverb + adjective
+  Some adverbs naturally go with certain adjectives:
+  - **highly**: highly unlikely, highly successful, highly recommended, highly qualified
+  - **deeply**: deeply moved, deeply concerned, deeply offended
+  - **bitterly**: bitterly disappointed, bitterly cold
+  - **utterly**: utterly ridiculous, utterly exhausted
+  - **perfectly**: perfectly normal, perfectly clear, perfectly safe
+  - **painfully**: painfully slow, painfully shy
+  - **fully**: fully aware, fully booked
+
+  ## Emphatic do / does / did
+  In positive sentences, stressed **do** adds emphasis or contrast:
+  - *I **do** like your dress!*
+  - *He **did** call — he just didn't leave a message.*
+  - ***Do** sit down.* (polite insistence)
+
+  ## Other emphatic forms
+  - **the very**: *That's **the very** book I was looking for.* (exactly)
+  - **on earth / ever** in questions: *What **on earth** are you doing? Why **ever** did you say that?*
+  - **at all / whatsoever** in negatives: *I have no idea **whatsoever**.*
+  - **such / so**: *It was **such** a relief. I'm **so** sorry.*
+  - **-self**: *The manager **himself** came to apologise.*
+theory_ru: |
+  ## Обычные и «предельные» прилагательные
+  - **Обычные** прилагательные (cold, tired, good) сочетаются с **very, extremely, really, incredibly**: *very cold* — очень холодно
+  - **Предельные** прилагательные (freezing — ледяной, exhausted — измождённый, amazing — потрясающий, furious — в ярости, tiny — крошечный) сочетаются с **absolutely, totally, completely, utterly, really**: *absolutely freezing* — жутко холодно (не ~~very freezing~~)
+  - **really** подходит к обоим.
+
+  ## Устойчивые сочетания: наречие + прилагательное
+  Некоторые наречия «дружат» с определёнными прилагательными:
+  - **highly**: highly unlikely (крайне маловероятно), highly successful, highly recommended, highly qualified (высококвалифицированный)
+  - **deeply**: deeply moved (глубоко тронут), deeply concerned, deeply offended
+  - **bitterly**: bitterly disappointed (горько разочарован), bitterly cold (жутко холодно)
+  - **utterly**: utterly ridiculous (совершенно нелепый), utterly exhausted
+  - **perfectly**: perfectly normal (совершенно нормально), perfectly clear, perfectly safe
+  - **painfully**: painfully slow (мучительно медленный), painfully shy
+  - **fully**: fully aware (полностью осознаёт), fully booked (всё забронировано)
+
+  ## Усилительное do / does / did
+  В утвердительных предложениях ударное **do** усиливает или противопоставляет:
+  - *I **do** like your dress!* — Мне правда очень нравится твоё платье!
+  - *He **did** call — he just didn't leave a message.* — Он же звонил, просто не оставил сообщения.
+  - ***Do** sit down.* — Садитесь же, прошу вас (вежливая настойчивость).
+
+  ## Другие способы усиления
+  - **the very** — тот самый: *That's **the very** book I was looking for.* — Это та самая книга, которую я искал.
+  - **on earth / ever** в вопросах — «вообще», «на свете»: *What **on earth** are you doing?* — Что ты вообще делаешь? *Why **ever** did you say that?*
+  - **at all / whatsoever** в отрицаниях — «совсем, вообще»: *I have no idea **whatsoever**.* — Понятия не имею.
+  - **such / so**: *It was **such** a relief.* — Какое это было облегчение! *I'm **so** sorry.*
+  - **-self**: *The manager **himself** came to apologise.* — Сам менеджер пришёл извиниться.
+examples:
+  - "The film was *absolutely* brilliant. | Фильм был просто великолепен."
+  - "It's *highly* unlikely that he'll come. | Крайне маловероятно, что он придёт."
+  - "We were *bitterly* disappointed with the result. | Мы были горько разочарованы результатом."
+  - "I *do* understand how you feel. | Я правда понимаю, что ты чувствуешь."
+  - "What *on earth* happened here? | Что же здесь произошло?"
+  - "She left on *the very* day I arrived. | Она уехала в тот самый день, когда я приехал."
+exercises:
+  - type: choice
+    q: "The water was ___ freezing!"
+    options: ["very", "absolutely", "a bit"]
+    answer: 1
+  - type: choice
+    q: "This hotel is ___ recommended by travellers."
+    options: ["deeply", "highly", "bitterly"]
+    answer: 1
+  - type: choice
+    q: "I was ___ moved by his speech."
+    options: ["deeply", "highly", "fully"]
+    answer: 0
+  - type: choice
+    q: "The restaurant is ___ booked tonight."
+    options: ["fully", "deeply", "perfectly"]
+    answer: 0
+  - type: choice
+    q: "Which is wrong?"
+    options: ["very tired", "absolutely exhausted", "very exhausted"]
+    answer: 2
+  - type: input
+    q: "Add emphasis: I like your new haircut! → I ___ like your new haircut!"
+    answer: ["do"]
+  - type: input
+    q: "What ___ earth are you wearing?"
+    answer: ["on"]
+  - type: cloze
+    text: "There's no evidence [[*whatsoever/at least/ever]] that he was involved."
+  - type: cloze
+    text: "The service was [[*painfully/highly/deeply]] slow — we waited an hour."
+  - type: error
+    text: "It was {{very=>absolutely}} amazing!"
+    explain: "Extreme adjectives take absolutely/really, not very."
+    explain_ru: "С «предельными» прилагательными — absolutely/really, а не very."
+  - type: error
+    text: "He {{did called=>did call}} you yesterday."
+  - type: match
+    q: "Match the adverb with a typical adjective"
+    pairs:
+      - ["highly", "unlikely"]
+      - ["bitterly", "disappointed"]
+      - ["perfectly", "normal"]
+      - ["utterly", "ridiculous"]
+  - type: odd
+    q: "Which adjective can NOT go with “absolutely”?"
+    options: ["furious", "tiny", "big", "starving"]
+    answer: 2
+  - type: tf
+    items:
+      - ["“Really” can be used with both gradable and extreme adjectives.", true]
+      - ["“very delicious” is the most natural collocation.", false]
+  - type: listen
+    audio: "I'm terribly sorry about the mix-up. I do hope it didn't cause you too much trouble."
+    q: "How does the speaker feel?"
+    options: ["angry", "very sorry", "bored"]
+    answer: 1
+  - type: speak
+    answer: "I do understand how you feel."
+    ru: "Я правда понимаю, что ты чувствуешь."

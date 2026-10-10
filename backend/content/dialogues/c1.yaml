@@ -1,0 +1,239 @@
+- id: c1-negotiating-a-deal
+  title: "Negotiating a contract"
+  title_ru: "Переговоры о контракте"
+  scene: "A supplier and a buyer discuss the terms of a deal."
+  scene_ru: "Поставщик и покупатель обсуждают условия сделки."
+  speakers: {Buyer: f-uk, Supplier: m-us}
+  lines:
+    - "Buyer: Thanks for coming in. Shall we get straight down to business? | Спасибо, что приехали. Перейдём сразу к делу?"
+    - "Supplier: By all means. You've seen our proposal — what are your thoughts? | Конечно. Вы видели наше предложение — что скажете?"
+    - "Buyer: Overall, we're impressed with the quality. However, the price is somewhat higher than we'd anticipated. | В целом качество нас впечатлило. Однако цена несколько выше, чем мы рассчитывали."
+    - "Supplier: I appreciate that. Bear in mind, though, that our materials are fully certified and we offer a five-year warranty. | Понимаю. Но учтите, что наши материалы полностью сертифицированы и мы даём пятилетнюю гарантию."
+    - "Buyer: That's certainly an advantage. Would there be any room for manoeuvre if we committed to a larger order? | Это, безусловно, плюс. Есть ли возможность для манёвра, если мы возьмём на себя обязательство сделать более крупный заказ?"
+    - "Supplier: Potentially. What sort of volume are we talking about? | Возможно. О каком объёме идёт речь?"
+    - "Buyer: We'd be looking at around ten thousand units a year, provided the first delivery meets our expectations. | Мы рассчитываем примерно на десять тысяч единиц в год — при условии, что первая поставка оправдает наши ожидания."
+    - "Supplier: In that case, I think we could offer an eight percent discount. | В таком случае, думаю, мы могли бы предложить скидку в восемь процентов."
+    - "Buyer: We were hoping for something closer to twelve. | Мы надеялись на что-то ближе к двенадцати."
+    - "Supplier: Twelve would be difficult. Let's meet halfway — ten percent, and we'll cover the delivery costs. | Двенадцать было бы сложно. Давайте сойдёмся посередине: десять процентов, и доставку берём на себя."
+    - "Buyer: That sounds like a reasonable compromise. I'll need to run it past my director, but I'm optimistic. | Это звучит как разумный компромисс. Мне нужно согласовать это с директором, но я настроена оптимистично."
+    - "Supplier: Excellent. I'll put everything in writing and send it over this afternoon. | Отлично. Я всё изложу письменно и пришлю сегодня после обеда."
+  phrases:
+    - "Shall we get straight down to business? | Перейдём сразу к делу?"
+    - "somewhat higher than we'd anticipated | несколько выше, чем мы рассчитывали"
+    - "Bear in mind that… | Учтите, что…"
+    - "Is there any room for manoeuvre? | Есть ли возможность для манёвра?"
+    - "Let's meet halfway. | Давайте сойдёмся посередине."
+    - "I'll need to run it past my director. | Мне нужно согласовать это с директором."
+  exercises:
+    - type: choice
+      q: "What is the buyer's concern?"
+      options: ["The quality", "The price", "The delivery time"]
+      answer: 1
+    - type: choice
+      q: "What does the buyer offer in exchange for a discount?"
+      options: ["Faster payment", "A larger order", "A longer warranty"]
+      answer: 1
+    - type: choice
+      q: "What is the final offer?"
+      options: ["8% discount", "10% discount plus free delivery", "12% discount"]
+      answer: 1
+
+- id: c1-competency-interview
+  title: "A competency-based interview"
+  title_ru: "Собеседование по компетенциям"
+  scene: "A candidate is interviewed for a project manager position."
+  scene_ru: "Кандидата собеседуют на должность руководителя проектов."
+  speakers: {Interviewer: m-uk, Candidate: f-us}
+  lines:
+    - "Interviewer: Could you tell me about a time when a project you were managing went wrong? | Расскажите, пожалуйста, о случае, когда проект под вашим руководством пошёл не так."
+    - "Candidate: Certainly. In my previous role, we were launching a new app, and three weeks before the deadline, our lead developer resigned. | Конечно. На прошлой работе мы запускали новое приложение, и за три недели до срока уволился наш ведущий разработчик."
+    - "Interviewer: That must have been stressful. How did you handle it? | Наверное, это был стресс. Как вы справились?"
+    - "Candidate: First, I assessed what work remained and prioritised the essential features. Then I was upfront with the client about the situation. | Сначала я оценила оставшийся объём работы и расставила приоритеты, выделив ключевые функции. Затем я честно рассказала клиенту о ситуации."
+    - "Interviewer: How did the client react? | Как отреагировал клиент?"
+    - "Candidate: They were understandably concerned, but they appreciated our honesty. We agreed to release a basic version on time and add the remaining features a month later. | Они, конечно, были обеспокоены, но оценили нашу честность. Мы договорились выпустить базовую версию в срок, а остальные функции добавить через месяц."
+    - "Interviewer: And what was the outcome? | И каков был результат?"
+    - "Candidate: The launch went smoothly, and the client renewed their contract. Looking back, I'd have built more backup into the team from the outset. | Запуск прошёл гладко, и клиент продлил контракт. Оглядываясь назад, я бы с самого начала заложила в команду больше резервов."
+    - "Interviewer: That's a very reflective answer. What would you say is your greatest weakness? | Очень вдумчивый ответ. Что бы вы назвали своей главной слабостью?"
+    - "Candidate: I tend to take on too much myself. I've been working on delegating more, and it's made a real difference to the team's motivation. | Я склонна брать слишком много на себя. Я работаю над тем, чтобы больше делегировать, и это заметно повлияло на мотивацию команды."
+    - "Interviewer: Thank you. Do you have any questions for us? | Спасибо. У вас есть вопросы к нам?"
+    - "Candidate: Yes — how would you describe the company culture, and what does success look like in this role after six months? | Да: как бы вы описали корпоративную культуру и каким должен быть успех на этой должности через полгода?"
+  phrases:
+    - "Could you tell me about a time when…? | Расскажите о случае, когда…"
+    - "I prioritised the essential features. | Я расставил приоритеты, выделив главные функции."
+    - "I was upfront with the client. | Я был откровенен с клиентом."
+    - "Looking back, I'd have… | Оглядываясь назад, я бы…"
+    - "from the outset | с самого начала"
+    - "I tend to take on too much. | Я склонен брать на себя слишком много."
+  exercises:
+    - type: choice
+      q: "What went wrong in the candidate's project?"
+      options: ["The client cancelled", "The lead developer resigned", "The budget was cut"]
+      answer: 1
+    - type: choice
+      q: "How did the candidate solve the problem?"
+      options: ["She hid it from the client", "She released a basic version on time and added features later", "She extended the deadline by six months"]
+      answer: 1
+    - type: choice
+      q: "What weakness does she mention?"
+      options: ["She is often late", "She takes on too much herself", "She doesn't like teamwork"]
+      answer: 1
+
+- id: c1-ai-debate
+  title: "Will AI take our jobs?"
+  title_ru: "Отнимет ли ИИ нашу работу?"
+  scene: "Two friends debate the impact of artificial intelligence on work."
+  scene_ru: "Двое друзей спорят о влиянии искусственного интеллекта на работу."
+  speakers: {Nina: f-uk, Owen: m-uk}
+  lines:
+    - "Owen: Did you read that article claiming that AI could replace forty percent of jobs within a decade? | Ты читала статью о том, что ИИ может заменить сорок процентов рабочих мест за десять лет?"
+    - "Nina: I did, and frankly, I think it was rather alarmist. Every new technology has prompted the same fears. | Читала, и, честно говоря, по-моему, она довольно паникёрская. Любая новая технология вызывала такие же страхи."
+    - "Owen: Granted, but this time it feels different. AI isn't just replacing physical labour; it's writing, drawing, even diagnosing illnesses. | Допустим, но в этот раз всё иначе. ИИ заменяет не только физический труд — он пишет, рисует, даже ставит диагнозы."
+    - "Nina: True, but it tends to change jobs rather than eliminate them. Doctors who use AI can see more patients, not fewer. | Верно, но он скорее меняет профессии, чем уничтожает их. Врачи, использующие ИИ, могут принять больше пациентов, а не меньше."
+    - "Owen: That may hold for highly skilled professions. What about people in admin or customer service? | Возможно, это справедливо для высококвалифицированных профессий. А как же люди в администрировании или клиентском обслуживании?"
+    - "Nina: Admittedly, they're more vulnerable. Which is why governments ought to be investing heavily in retraining. | Признаю, они более уязвимы. Именно поэтому правительствам следовало бы вкладывать большие средства в переподготовку."
+    - "Owen: I couldn't agree more. But retraining a fifty-year-old is easier said than done. | Полностью согласен. Но переобучить пятидесятилетнего человека — легче сказать, чем сделать."
+    - "Nina: Fair point. Still, I'd argue the bigger risk is how the profits are shared. If a few companies capture all the gains, inequality will soar. | Справедливо. И всё же я бы сказала, что больший риск — в том, как будет распределяться прибыль. Если все выгоды достанутся нескольким компаниям, неравенство резко вырастет."
+    - "Owen: So you're saying it's a political problem rather than a technological one? | То есть ты говоришь, что это скорее политическая проблема, чем технологическая?"
+    - "Nina: Essentially, yes. The technology itself is neutral; it's what we do with it that counts. | По сути, да. Сама технология нейтральна; важно, как мы ею распорядимся."
+    - "Owen: Well, on that note, let's ask an AI to pay for our coffee. | Что ж, раз так, давай попросим ИИ заплатить за наш кофе."
+    - "Nina: If only! | Если бы!"
+  phrases:
+    - "Frankly, I think it's rather alarmist. | Честно говоря, по-моему, это паникёрство."
+    - "Granted, but… | Допустим, но…"
+    - "Admittedly… | Признаю…"
+    - "I couldn't agree more. | Полностью согласен."
+    - "easier said than done | легче сказать, чем сделать"
+    - "I'd argue that… | Я бы сказал, что…"
+  exercises:
+    - type: choice
+      q: "What does Nina think of the article?"
+      options: ["It's accurate", "It's rather alarmist", "It's too optimistic"]
+      answer: 1
+    - type: choice
+      q: "What does Nina say governments should do?"
+      options: ["Ban AI", "Invest in retraining", "Reduce taxes"]
+      answer: 1
+    - type: choice
+      q: "What does Nina see as the bigger risk?"
+      options: ["Robots becoming dangerous", "How the profits are shared", "Doctors losing jobs"]
+      answer: 1
+
+- id: c1-giving-feedback
+  title: "Giving constructive feedback"
+  title_ru: "Конструктивная обратная связь"
+  scene: "A team leader gives feedback to a colleague after a presentation."
+  scene_ru: "Руководитель группы даёт обратную связь коллеге после презентации."
+  speakers: {Leader: f-us, Tom: m-uk}
+  lines:
+    - "Leader: Have you got a minute, Tom? I wanted to give you some feedback on this morning's presentation. | Есть минутка, Том? Хотела дать тебе обратную связь по утренней презентации."
+    - "Tom: Sure. Go ahead — I'd really welcome it. | Конечно. Говори, мне правда это важно."
+    - "Leader: First of all, your research was excellent. The data on customer trends was really insightful, and the client clearly noticed. | Прежде всего, исследование было отличным. Данные о тенденциях у клиентов были очень содержательными, и клиент это явно заметил."
+    - "Tom: Thanks, I put a lot of work into that. | Спасибо, я в это много вложил."
+    - "Leader: It showed. There are a couple of areas, though, where I think you could make it even stronger. | Это было видно. Но есть пара моментов, где, по-моему, можно сделать ещё лучше."
+    - "Tom: Okay, I'm all ears. | Хорошо, я весь внимание."
+    - "Leader: The slides were quite text-heavy, so at times the audience was reading rather than listening. Perhaps fewer words and more visuals? | Слайды были довольно перегружены текстом, и порой слушатели читали, а не слушали. Может, поменьше слов и побольше наглядности?"
+    - "Tom: That's fair. I was worried about forgetting key points. | Справедливо. Я боялся забыть ключевые моменты."
+    - "Leader: That's understandable. You could keep detailed notes for yourself instead. The other thing is timing — we ran ten minutes over, which left little room for questions. | Это понятно. Можно держать подробные заметки для себя. И второе — время: мы превысили регламент на десять минут, и на вопросы почти не осталось времени."
+    - "Tom: Yes, I noticed the client looking at their watch. I'll rehearse with a timer next time. | Да, я заметил, как клиент поглядывал на часы. В следующий раз отрепетирую с таймером."
+    - "Leader: Great idea. Overall, it was a really solid piece of work. If you'd like, we could do a practice run together before the next one. | Отличная идея. В целом это была очень добротная работа. Если хочешь, перед следующей презентацией можем провести репетицию вместе."
+    - "Tom: I'd appreciate that. Thanks for being so constructive. | Буду благодарен. Спасибо за такую конструктивную обратную связь."
+  phrases:
+    - "I wanted to give you some feedback on… | Я хотел дать тебе обратную связь по…"
+    - "It showed. | Это было видно."
+    - "There are a couple of areas where you could… | Есть пара моментов, где можно…"
+    - "I'm all ears. | Я весь внимание."
+    - "That's fair. | Справедливо."
+    - "a really solid piece of work | очень добротная работа"
+  exercises:
+    - type: choice
+      q: "What did the leader praise first?"
+      options: ["The slides", "The research", "The timing"]
+      answer: 1
+    - type: choice
+      q: "What was the problem with the slides?"
+      options: ["Too many pictures", "Too much text", "Wrong data"]
+      answer: 1
+    - type: choice
+      q: "How will Tom improve his timing?"
+      options: ["Speak faster", "Rehearse with a timer", "Skip the questions"]
+      answer: 1
+
+- id: c1-seminar-discussion
+  title: "A university seminar"
+  title_ru: "Университетский семинар"
+  scene: "Students discuss a reading about urban planning with their tutor."
+  scene_ru: "Студенты обсуждают с преподавателем текст о городском планировании."
+  speakers: {Tutor: m-uk, Maya: f-uk, Leo: m-us}
+  lines:
+    - "Tutor: So, the author argues that cities should be designed for people rather than cars. Maya, what did you make of that? | Итак, автор утверждает, что города нужно проектировать для людей, а не для машин. Майя, как вам это?"
+    - "Maya: I found it quite persuasive. The evidence from Copenhagen, where cycling has transformed the city centre, was particularly compelling. | Мне показалось довольно убедительным. Особенно впечатляют данные по Копенгагену, где велосипеды преобразили центр города."
+    - "Leo: I'd like to challenge that slightly. Copenhagen is flat and relatively compact. I'm not convinced the model would work in a sprawling city like Los Angeles. | Я бы хотел немного возразить. Копенгаген плоский и сравнительно компактный. Я не уверен, что эта модель сработает в таком растянутом городе, как Лос-Анджелес."
+    - "Tutor: That's a valid point. Does the author address it? | Справедливое замечание. Автор об этом говорит?"
+    - "Maya: To some extent. She suggests combining cycling with better public transport rather than relying on bikes alone. | В некоторой степени. Она предлагает сочетать велосипеды с улучшенным общественным транспортом, а не полагаться только на велосипеды."
+    - "Leo: Fair enough, but that would require enormous investment. Where would the funding come from? | Допустим, но это потребует огромных вложений. Откуда возьмутся деньги?"
+    - "Tutor: Good question. Bear in mind that the author also discusses the hidden costs of car dependency — pollution, health problems, traffic. | Хороший вопрос. Учтите, что автор также пишет о скрытых издержках зависимости от машин: загрязнении, проблемах со здоровьем, пробках."
+    - "Maya: Exactly. If you factor those in, the investment might actually pay for itself. | Именно. Если учесть всё это, вложения, возможно, даже окупятся."
+    - "Leo: That's an interesting angle. I hadn't thought of it in those terms. | Интересный взгляд. Я об этом в таком ключе не думал."
+    - "Tutor: So, to sum up, we seem to agree on the principle but differ on how far it can be applied. For next week, I'd like you each to find a counter-example. | Итак, подводя итог: мы, похоже, согласны с принципом, но расходимся в том, насколько широко его можно применять. К следующей неделе пусть каждый найдёт контрпример."
+    - "Leo: Could it be from any country? | Можно из любой страны?"
+    - "Tutor: Absolutely — the more diverse, the better. | Конечно — чем разнообразнее, тем лучше."
+  phrases:
+    - "What did you make of that? | Как вам это? / Что вы об этом думаете?"
+    - "I found it quite persuasive. | Мне показалось довольно убедительным."
+    - "I'd like to challenge that slightly. | Я бы хотел немного возразить."
+    - "That's a valid point. | Справедливое замечание."
+    - "If you factor those in… | Если учесть это…"
+    - "I hadn't thought of it in those terms. | Я об этом в таком ключе не думал."
+  exercises:
+    - type: choice
+      q: "What does the author argue?"
+      options: ["Cities should be designed for cars", "Cities should be designed for people rather than cars", "Cities should be smaller"]
+      answer: 1
+    - type: choice
+      q: "Why is Leo sceptical?"
+      options: ["He doesn't like bikes", "Large sprawling cities are different from Copenhagen", "Copenhagen is too expensive"]
+      answer: 1
+    - type: choice
+      q: "What is the homework?"
+      options: ["Write an essay", "Find a counter-example", "Visit Copenhagen"]
+      answer: 1
+
+- id: c1-breaking-bad-news
+  title: "Breaking difficult news"
+  title_ru: "Сообщить неприятную новость"
+  scene: "A manager tells an employee that their project has been cancelled."
+  scene_ru: "Руководитель сообщает сотруднице, что её проект закрывают."
+  speakers: {Manager: m-us, Rachel: f-uk}
+  lines:
+    - "Manager: Rachel, thanks for coming in. I'm afraid I have some disappointing news, and I wanted to tell you in person. | Рэйчел, спасибо, что зашла. Боюсь, у меня неприятная новость, и я хотел сообщить её лично."
+    - "Rachel: That doesn't sound good. What's happened? | Звучит невесело. Что случилось?"
+    - "Manager: The board has decided to discontinue the Horizon project. It's due to budget cuts across the whole division, not the quality of your team's work. | Совет директоров решил закрыть проект «Горизонт». Это связано с сокращением бюджета во всём подразделении, а не с качеством работы твоей команды."
+    - "Rachel: I see. That's a real blow. We've put two years into it. | Понятно. Это серьёзный удар. Мы вложили в него два года."
+    - "Manager: I know, and I completely understand how frustrating this must be. For what it's worth, I argued strongly for keeping it. | Знаю и прекрасно понимаю, как это обидно. Если тебе это важно, я настойчиво выступал за то, чтобы его сохранить."
+    - "Rachel: I appreciate that. What happens to the team now? | Ценю это. Что теперь будет с командой?"
+    - "Manager: Nobody is losing their job. Everyone will be moved to other projects, and you'll have a say in where they go. | Никто не теряет работу. Всех переведут на другие проекты, и ты сможешь повлиять на то, куда именно."
+    - "Rachel: That's a relief. And what about me? | Это облегчение. А что со мной?"
+    - "Manager: Actually, we'd like you to lead the new data platform project. Your experience with Horizon makes you the ideal candidate. | Вообще-то мы хотели бы, чтобы ты возглавила новый проект платформы данных. Опыт «Горизонта» делает тебя идеальным кандидатом."
+    - "Rachel: That's unexpected. Can I have a few days to think it over? | Неожиданно. Можно мне несколько дней подумать?"
+    - "Manager: Of course. Take all the time you need, and let's talk again on Friday. | Конечно. Думай сколько нужно, и давай снова поговорим в пятницу."
+    - "Rachel: Thank you for being so straightforward with me. | Спасибо, что был со мной так откровенен."
+  phrases:
+    - "I'm afraid I have some disappointing news. | Боюсь, у меня неприятная новость."
+    - "I wanted to tell you in person. | Я хотел сообщить лично."
+    - "That's a real blow. | Это серьёзный удар."
+    - "For what it's worth… | Если это что-то значит…"
+    - "You'll have a say in… | Ты сможешь повлиять на…"
+    - "Thank you for being so straightforward. | Спасибо за откровенность."
+  exercises:
+    - type: choice
+      q: "Why was the project cancelled?"
+      options: ["Poor quality", "Budget cuts", "The client left"]
+      answer: 1
+    - type: choice
+      q: "What will happen to the team?"
+      options: ["They will lose their jobs", "They will move to other projects", "They will take a holiday"]
+      answer: 1
+    - type: choice
+      q: "What is Rachel offered?"
+      options: ["A pay rise", "To lead a new project", "A transfer abroad"]
+      answer: 1

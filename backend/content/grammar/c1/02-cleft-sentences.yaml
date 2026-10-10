@@ -1,0 +1,114 @@
+title: "Cleft Sentences"
+title_ru: "Расщеплённые предложения (выделение)"
+section: sentences
+summary: "It was Tom who called. What I need is a holiday. All I want is some sleep."
+summary_ru: "Звонил именно Том. Что мне нужно — так это отпуск. Всё, чего я хочу, — поспать."
+theory: |
+  Cleft sentences split one sentence into two parts to **emphasise** one piece of information. In speech, the emphasised word is stressed.
+
+  ## It + be + … + who/that
+  Base: *Tom broke the window yesterday.*
+  - ***It was Tom who** broke the window.* (not someone else)
+  - ***It was the window that** Tom broke.* (not the door)
+  - ***It was yesterday that** Tom broke the window.* (not today)
+  - ***It's not** the money **that** worries me — it's the time.*
+
+  ## What-clauses (pseudo-cleft)
+  - ***What I need is** a long holiday.*
+  - ***What surprised me was** his calm reaction.*
+  - ***What she did was** call the police.* (for actions: What + subject + do + be + (to) verb)
+  - ***What happened was (that)** the car broke down.*
+
+  ## Other forms
+  - ***All I want is** a cup of tea.* (= the only thing)
+  - ***The thing that annoys me is** his attitude.*
+  - ***The reason (why) I came is** to apologise.*
+  - ***The place where** we met **was** a small café.*
+  - Reversed: *A long holiday **is what** I need.*
+theory_ru: |
+  Расщеплённые (cleft) предложения делят одно высказывание на две части, чтобы **выделить** одну деталь. В русском для этого используют интонацию, порядок слов или слова «именно», «вот что», «так это». В английском порядок слов жёстче, поэтому нужны такие конструкции.
+
+  ## It + be + … + who/that — «именно»
+  Исходное: *Tom broke the window yesterday.*
+  - ***It was Tom who** broke the window.* — Окно разбил именно Том (а не кто-то другой).
+  - ***It was the window that** Tom broke.* — Том разбил именно окно (а не дверь).
+  - ***It was yesterday that** Tom broke the window.* — Том разбил окно именно вчера.
+  - ***It's not** the money **that** worries me — it's the time.* — Меня беспокоят не деньги, а время.
+
+  ## Конструкции с What — «что…, так это…»
+  - ***What I need is** a long holiday.* — Что мне нужно, так это долгий отпуск.
+  - ***What surprised me was** his calm reaction.* — Меня удивила его спокойная реакция.
+  - ***What she did was** call the police.* — Она взяла и вызвала полицию. (для действий: What + подлежащее + do + be + (to) глагол)
+  - ***What happened was (that)** the car broke down.* — А случилось вот что: машина сломалась.
+
+  ## Другие формы
+  - ***All I want is** a cup of tea.* — Всё, чего я хочу, — чашка чая.
+  - ***The thing that annoys me is** his attitude.* — Меня раздражает его отношение.
+  - ***The reason (why) I came is** to apologise.* — Я пришёл, чтобы извиниться.
+  - ***The place where** we met **was** a small café.* — Мы познакомились в маленьком кафе.
+  - Обратный порядок: *A long holiday **is what** I need.* — Долгий отпуск — вот что мне нужно.
+examples:
+  - "*It was* my sister *who* told me the news. | Эту новость мне сообщила именно сестра."
+  - "*It wasn't until* midnight *that* they arrived. | Они приехали только к полуночи."
+  - "*What* I love about this city *is* the architecture. | Что мне нравится в этом городе — так это архитектура."
+  - "*All* I need *is* a good night's sleep. | Всё, что мне нужно, — хорошенько выспаться."
+  - "*What* we should do *is* ask for help. | Что нам нужно сделать, так это попросить помощи."
+  - "*The reason* I'm calling *is* to invite you to dinner. | Я звоню, чтобы пригласить тебя на ужин."
+exercises:
+  - type: choice
+    q: "___ was my brother who found the keys."
+    options: ["He", "It", "What"]
+    answer: 1
+  - type: choice
+    q: "___ I really need is some peace and quiet."
+    options: ["That", "It", "What"]
+    answer: 2
+  - type: choice
+    q: "It was in Paris ___ they first met."
+    options: ["that", "what", "which where"]
+    answer: 0
+  - type: choice
+    q: "What she did ___ resign immediately."
+    options: ["is", "was", "did"]
+    answer: 1
+  - type: choice
+    q: "All I want ___ to be left alone."
+    options: ["is", "are", "was being"]
+    answer: 0
+  - type: input
+    q: "Emphasise the person: Anna sent the flowers. → It was Anna ___ sent the flowers."
+    answer: ["who", "that"]
+  - type: input
+    q: "Emphasise: His rudeness annoyed me. → What annoyed me ___ his rudeness."
+    answer: ["was"]
+  - type: cloze
+    text: "It [[*wasn't/didn't/isn't been]] until I was thirty [[*that/what/when]] I learned to drive."
+  - type: cloze
+    text: "[[*What/That/It]] happened was that the train was cancelled."
+  - type: error
+    text: "{{What it was=>It was}} my mother who taught me to cook."
+    explain: "Use It + be + person + who."
+    explain_ru: "Нужна конструкция It + be + кто + who."
+  - type: error
+    text: "What I need {{are=>is}} more time."
+  - type: order
+    q: "Составьте: «Что мне нужно, так это чашка кофе»."
+    answer: "What I need is a cup of coffee."
+  - type: match
+    q: "Match the question and the cleft answer"
+    pairs:
+      - ["Who called you?", "It was Mark who called me."]
+      - ["What do you want?", "What I want is a new job."]
+      - ["When did they leave?", "It was at six that they left."]
+  - type: tf
+    items:
+      - ["Cleft sentences are used to emphasise information.", true]
+      - ["In “What I need is…”, the verb after “what” can be omitted.", false]
+  - type: listen
+    audio: "It wasn't the price that put me off; what I didn't like was the colour."
+    q: "Why didn't the speaker buy it?"
+    options: ["It was too expensive.", "They didn't like the colour.", "It was too big."]
+    answer: 1
+  - type: speak
+    answer: "What I need is a long holiday."
+    ru: "Что мне нужно, так это долгий отпуск."

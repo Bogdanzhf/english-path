@@ -1,0 +1,124 @@
+title: "Ellipsis and Substitution"
+title_ru: "Эллипсис и замещение"
+section: sentences
+summary: "I think so. I hope not. — Will you come? — I'd love to. He did so. the red one"
+summary_ru: "Думаю, да. Надеюсь, нет. — Придёшь? — С удовольствием. Он так и сделал. красный"
+theory: |
+  Good English avoids repeating words. We **leave words out** (ellipsis) or **replace** them with short words (substitution).
+
+  ## so / not after verbs of thinking
+  After **think, hope, expect, suppose, believe, guess, be afraid, imagine**:
+  - *Is it going to rain? — **I think so**. / **I hope not**.*
+  - *Will she come? — **I don't think so**.* (more common than ~~I think not~~)
+  - *Did they win? — **I'm afraid not**.*
+
+  ## Auxiliary verbs instead of a full verb phrase
+  - *She can speak French, and **so can** I.*
+  - *I haven't seen it, but my sister **has**.*
+  - *He said he would call, and he **did**.*
+  - *You don't like jazz? — Actually, I **do**!*
+
+  ## to instead of a full infinitive
+  - *Would you like to come? — I'd love **to**.*
+  - *I didn't want to go, but I had **to**.*
+
+  ## one / ones
+  - *I don't like this shirt. Have you got a blue **one**?*
+  - *These shoes are too small. I need bigger **ones**.*
+
+  ## do so / do that / do it (formal / neutral)
+  - *The minister promised to resign, and he **did so** the next day.*
+
+  ## Ellipsis in conversation
+  Informal speech often drops the subject and auxiliary: *(Have you) **Seen** Tom? — (I'm) **Not** sure. (Do you) **Want** a drink?*
+theory_ru: |
+  В хорошем английском избегают повторов. Слова **опускают** (эллипсис) или **заменяют** короткими словами (замещение). В русском мы тоже говорим «Думаю, да» вместо повторения всей фразы.
+
+  ## so / not после глаголов мнения
+  После **think, hope, expect, suppose, believe, guess, be afraid, imagine**:
+  - *Is it going to rain? — **I think so**. / **I hope not**.* — Будет дождь? — Думаю, да. / Надеюсь, нет.
+  - *Will she come? — **I don't think so**.* — Она придёт? — Думаю, нет. (чаще, чем ~~I think not~~)
+  - *Did they win? — **I'm afraid not**.* — Они выиграли? — Боюсь, что нет.
+
+  ## Вспомогательный глагол вместо целого сказуемого
+  - *She can speak French, and **so can** I.* — Она говорит по-французски, и я тоже.
+  - *I haven't seen it, but my sister **has**.* — Я этого не видел, а сестра видела.
+  - *He said he would call, and he **did**.* — Он обещал позвонить и позвонил.
+  - *You don't like jazz? — Actually, I **do**!* — Ты не любишь джаз? — Вообще-то люблю!
+
+  ## to вместо целого инфинитива
+  - *Would you like to come? — I'd love **to**.* — Хочешь прийти? — С удовольствием.
+  - *I didn't want to go, but I had **to**.* — Я не хотел идти, но пришлось.
+
+  ## one / ones — вместо существительного
+  - *I don't like this shirt. Have you got a blue **one**?* — Мне не нравится эта рубашка. Есть синяя?
+  - *These shoes are too small. I need bigger **ones**.* — Эти туфли малы. Мне нужны побольше.
+
+  ## do so / do that / do it (официально / нейтрально)
+  - *The minister promised to resign, and he **did so** the next day.* — Министр обещал уйти в отставку и на следующий день так и сделал.
+
+  ## Эллипсис в разговоре
+  В неформальной речи часто опускают подлежащее и вспомогательный глагол: *(Have you) **Seen** Tom?* — Тома видел? *(I'm) **Not** sure.* — Не уверен. *(Do you) **Want** a drink?* — Выпьешь чего-нибудь?
+examples:
+  - "Is the shop open? — *I think so*. | Магазин открыт? — Думаю, да."
+  - "Are you coming tomorrow? — *I'm afraid not*. | Ты придёшь завтра? — Боюсь, что нет."
+  - "I can't swim, but my brother *can*. | Я не умею плавать, а мой брат умеет."
+  - "Would you like to join us? — I'd love *to*. | Хочешь присоединиться? — С удовольствием."
+  - "I lost my umbrella, so I bought a new *one*. | Я потерял зонт и купил новый."
+  - "He was asked to leave, and he *did so* without a word. | Его попросили уйти, и он ушёл, не сказав ни слова."
+exercises:
+  - type: choice
+    q: "Will it be sunny tomorrow? — I hope ___."
+    options: ["it", "so", "yes"]
+    answer: 1
+  - type: choice
+    q: "Is he coming? — I don't think ___."
+    options: ["so", "not", "it"]
+    answer: 0
+  - type: choice
+    q: "I love chocolate, and so ___ my sister."
+    options: ["is", "does", "has"]
+    answer: 1
+  - type: choice
+    q: "Do you want to come with us? — Yes, I'd love ___."
+    options: ["it", "to", "so"]
+    answer: 1
+  - type: choice
+    q: "My phone is old. I need a new ___."
+    options: ["one", "it", "ones"]
+    answer: 0
+  - type: input
+    q: "Did they lose the match? — I'm afraid ___ . (They lost.)"
+    answer: ["so"]
+  - type: input
+    q: "I haven't finished my homework, but Anna ___ ."
+    answer: ["has"]
+  - type: cloze
+    text: "I didn't want to apologise, but I had [[*to/it/so]]."
+  - type: cloze
+    text: "These glasses are dirty. Can I have some clean [[*ones/one/them]]?"
+  - type: error
+    text: "Is it going to rain? — I {{hope it not=>hope not}}."
+    explain: "Negative short answer: I hope not."
+    explain_ru: "Краткий отрицательный ответ: I hope not."
+  - type: error
+    text: "Would you like to dance? — I'd love {{it=>to}}."
+  - type: match
+    q: "Match the question and the reply"
+    pairs:
+      - ["Is she at home?", "I think so."]
+      - ["Can you help me?", "I'd love to, but I can't."]
+      - ["Which cake do you want?", "The chocolate one."]
+      - ["Did he call?", "Yes, he did."]
+  - type: tf
+    items:
+      - ["“I don't think so” is more common than “I think not”.", true]
+      - ["We say “I hope so” to mean “I hope it won't happen”.", false]
+  - type: listen
+    audio: "Are you going to the conference? I wasn't planning to, but my boss says I have to."
+    q: "Is the speaker going to the conference?"
+    options: ["No, never.", "Yes, because the boss says so.", "They don't know about it."]
+    answer: 1
+  - type: speak
+    answer: "I don't think so."
+    ru: "Думаю, нет."
