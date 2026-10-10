@@ -1,0 +1,60 @@
+title: "Oh, the Humanity!"
+title_ru: "О, человечество!"
+words:
+  - "amid | prep | əˈmɪd | | среди, посреди | in the middle of; during | The airship landed *amid* heavy rain. | Дирижабль приземлялся под проливным дождём."
+  - "backstage | adv | ˌbækˈsteɪdʒ | | за кулисами | behind the stage in a theatre; in private | The reporters were allowed *backstage*. | Репортёров пустили за кулисы."
+  - "billionaire | n | ˌbɪljəˈneə | ˌbɪljəˈner | миллиардер | a person who has more than a billion dollars | A *billionaire* bought the company. | Компанию купил миллиардер."
+  - "brute | n | bruːt | | грубиян, скотина; грубая сила | a cruel, violent person; force without intelligence | He used *brute* force to open the door. | Он открыл дверь грубой силой."
+  - "clumsy | adj | ˈklʌmzi | | неуклюжий | moving in an awkward way and often dropping things | I'm so *clumsy* — I've broken another glass. | Я такой неуклюжий — опять разбил стакан."
+  - "collide | v | kəˈlaɪd | | сталкиваться | to hit something while moving | Two ships *collided* in the fog. | Два корабля столкнулись в тумане. | collision — столкновение"
+  - "culprit | n | ˈkʌlprɪt | | виновник | the person or thing responsible for a problem | Investigators searched for the *culprit*. | Следователи искали виновника."
+  - "evacuate | v | ɪˈvækjueɪt | | эвакуировать | to move people away from danger | The building was *evacuated* immediately. | Здание немедленно эвакуировали."
+  - "flammable | adj | ˈflæməbl | | легковоспламеняющийся | burning easily | Hydrogen is extremely *flammable*. | Водород чрезвычайно легко воспламеняется. | = inflammable"
+  - "mob | n | mɒb | mɑːb | толпа | a large, often uncontrolled crowd | A *mob* of reporters waited outside. | Снаружи ждала толпа репортёров."
+  - "premature | adj | ˈpremətʃə | ˌpriːməˈtʃʊr | преждевременный | happening too early | It's *premature* to blame anyone. | Обвинять кого-либо преждевременно."
+  - "resent | v | rɪˈzent | | возмущаться, обижаться | to feel angry about something unfair | The crew *resented* being blamed. | Экипаж был возмущён тем, что его обвинили."
+  - "satire | n | ˈsætaɪə | ˈsætaɪər | сатира | humour that criticizes people or ideas | The film is a *satire* on modern politics. | Фильм — сатира на современную политику."
+  - "scrutiny | n | ˈskruːtəni | | тщательное изучение, пристальное внимание | careful examination | The disaster came under intense *scrutiny*. | Катастрофу тщательно изучали."
+  - "segregate | v | ˈseɡrɪɡeɪt | | разделять, изолировать | to keep groups separate | Passengers were *segregated* by class. | Пассажиров разделяли по классам."
+  - "subject | adj | ˈsʌbdʒɪkt | | подверженный, зависящий | likely to be affected by something | All flights are *subject* to weather conditions. | Все рейсы зависят от погодных условий. | subject to"
+  - "testify | v | ˈtestɪfaɪ | | давать показания | to give evidence in court | Several witnesses *testified* at the inquiry. | На расследовании дали показания несколько свидетелей."
+  - "tumult | n | ˈtjuːmʌlt | ˈtuːmʌlt | смятение, шум | a state of noise and confusion | The ground was in *tumult* as people ran. | На земле царило смятение, люди бежали."
+  - "underestimate | v | ˌʌndərˈestɪmeɪt | | недооценивать | to think something is smaller or less important than it is | They *underestimated* the danger. | Они недооценили опасность."
+  - "uproar | n | ˈʌprɔː | ˈʌprɔːr | шумиха, возмущение | a lot of public anger and noise | The decision caused an *uproar*. | Решение вызвало бурю возмущения."
+reading:
+  title: "The Hindenburg Disaster"
+  title_ru: "Катастрофа «Гинденбурга»"
+  text: |
+    In the 1930s, the fastest way to cross the Atlantic was not by ship or plane, but by airship. The most famous of these giant flying machines was the German Hindenburg. At 245 metres long, it was the largest aircraft ever built — almost as long as the Titanic. Inside, wealthy passengers enjoyed a dining room, a lounge with a piano and cabins with views of the ocean below.
+
+    The Hindenburg was lifted by hydrogen, a gas that is lighter than air but extremely flammable. Its designers had wanted to use helium, which does not burn, but the USA controlled most of the world's supply and refused to sell it to Nazi Germany. The risks of hydrogen were known, but many experts underestimated them. To reduce the danger, the airship had a smoking room with special safety features, and crew members wore shoes that could not cause sparks.
+
+    On 6 May 1937, after crossing the Atlantic, the Hindenburg arrived at Lakehurst, New Jersey, amid storms. A crowd had gathered to watch, including journalists and a mob of photographers. As the airship approached its mooring mast, flames suddenly appeared near its tail. In just over thirty seconds, the whole ship was burning and crashed to the ground. In the tumult, passengers jumped from windows, and ground crew rushed to help, while others evacuated the area. Amazingly, sixty-two of the ninety-seven people on board survived. A radio reporter, describing the scene live, cried the famous words: "Oh, the humanity!"
+
+    The disaster caused an international uproar. Investigators examined the wreck with intense scrutiny, and dozens of witnesses testified. Some suggested sabotage, but it seemed premature to blame anyone without evidence. The most likely culprit was static electricity from the stormy air, which ignited leaking hydrogen. Some historians think the ship's outer skin may also have burned easily.
+
+    The images, filmed and photographed in dramatic detail, shocked the world. Public trust collapsed, and the age of passenger airships ended almost overnight. Today, the Hindenburg remains a powerful symbol of how quickly confidence in new technology can turn to fear.
+  ru: |
+    В 1930-х годах быстрее всего пересечь Атлантику можно было не на корабле и не на самолёте, а на дирижабле. Самым знаменитым из этих гигантских летательных аппаратов был немецкий «Гинденбург». Длиной 245 метров, это было крупнейшее воздушное судно из когда-либо построенных — почти таким же длинным был «Титаник». Внутри богатые пассажиры наслаждались столовой, гостиной с роялем и каютами с видом на океан.
+
+    «Гинденбург» поднимался в воздух благодаря водороду — газу легче воздуха, но чрезвычайно горючему. Конструкторы хотели использовать гелий, который не горит, но США контролировали большую часть его мировых запасов и отказались продавать его нацистской Германии. Опасность водорода была известна, но многие специалисты её недооценивали. Чтобы снизить риск, на борту устроили курительную комнату с особыми мерами безопасности, а члены экипажа носили обувь, не высекавшую искр.
+
+    6 мая 1937 года, пересёкши Атлантику, «Гинденбург» прибыл в Лейкхерст (Нью-Джерси) в разгар грозы. Посмотреть собралась толпа, в том числе журналисты и масса фотографов. Когда дирижабль приближался к причальной мачте, у его хвоста внезапно появилось пламя. Всего за тридцать с небольшим секунд весь корабль охватил огонь, и он рухнул на землю. В суматохе пассажиры прыгали из окон, наземная команда бросалась на помощь, а другие покидали опасную зону. Удивительно, но шестьдесят два человека из девяноста семи, находившихся на борту, выжили. Радиорепортёр, ведший прямой репортаж, выкрикнул знаменитые слова: «О, человечество!»
+
+    Катастрофа вызвала международный резонанс. Следователи пристально изучали обломки, десятки свидетелей дали показания. Некоторые предполагали диверсию, но обвинять кого-либо без доказательств было преждевременно. Наиболее вероятным виновником было статическое электричество в грозовом воздухе, воспламенившее протекающий водород. Некоторые историки считают, что легко могла загореться и внешняя оболочка корабля.
+
+    Кадры, снятые и сфотографированные во всех драматических подробностях, потрясли мир. Доверие публики рухнуло, и эпоха пассажирских дирижаблей закончилась почти в одночасье. Сегодня «Гинденбург» остаётся мощным символом того, как быстро доверие к новой технологии может смениться страхом.
+  questions:
+    - q: "Why did the Hindenburg use hydrogen instead of helium?"
+      options: ["Hydrogen was safer", "The USA refused to sell helium to Nazi Germany", "Helium was too heavy", "Hydrogen was cheaper to store"]
+      answer: 1
+    - q: "How long did it take for the whole ship to burn?"
+      options: ["About thirty seconds", "Ten minutes", "An hour", "A whole day"]
+      answer: 0
+    - q: "What was the most likely cause of the fire?"
+      options: ["A bomb", "Static electricity igniting leaking hydrogen", "A cigarette", "Lightning hitting the engine"]
+      answer: 1
+    - tf: "Most people on board survived."
+      answer: true
+    - tf: "Passenger airships became more popular after the disaster."
+      answer: false
