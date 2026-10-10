@@ -1,0 +1,113 @@
+title: "Passive Reporting Structures"
+title_ru: "Безличный пассив: It is said that… / He is said to…"
+section: passive
+summary: "It is believed that… / She is said to be… / He is thought to have left"
+summary_ru: "Считается, что… / Говорят, что она… / Полагают, что он уехал"
+theory: |
+  In news and formal writing, we often report opinions without saying **who** holds them. Verbs: **say, think, believe, know, report, expect, consider, claim, understand, estimate**.
+
+  ## Structure 1: It + passive + that-clause
+  - ***It is said that** the castle is haunted.*
+  - ***It is believed that** the thief escaped by car.*
+  - ***It was reported that** two people had been injured.*
+
+  ## Structure 2: Subject + passive + to-infinitive
+  - *The castle **is said to be** haunted.*
+  - *The president **is expected to arrive** tomorrow.*
+
+  The infinitive changes depending on time:
+  | Time | Infinitive | Example |
+  |---|---|---|
+  | same time (now) | **to + verb** | *He is said **to live** in Paris.* |
+  | in progress now | **to be + -ing** | *She is thought **to be working** on a new book.* |
+  | earlier (past) | **to have + V3** | *The thief is believed **to have escaped** by car.* |
+
+  ## There is/are
+  ***There are thought to be** over 1,000 species of bats.*
+theory_ru: |
+  В новостях и официальных текстах мнения часто передают, не называя, **кто** так считает. Глаголы: **say, think, believe, know, report, expect, consider, claim, understand, estimate**. По-русски это «говорят», «считается», «полагают», «сообщается».
+
+  ## Конструкция 1: It + пассив + that…
+  - ***It is said that** the castle is haunted.* — Говорят, что в замке водятся привидения.
+  - ***It is believed that** the thief escaped by car.* — Считается, что вор скрылся на машине.
+  - ***It was reported that** two people had been injured.* — Сообщалось, что пострадали два человека.
+
+  ## Конструкция 2: Подлежащее + пассив + to-инфинитив
+  - *The castle **is said to be** haunted.* — Говорят, что в замке водятся привидения.
+  - *The president **is expected to arrive** tomorrow.* — Ожидается, что президент прибудет завтра.
+
+  Форма инфинитива зависит от времени:
+  | Время | Инфинитив | Пример |
+  |---|---|---|
+  | одновременно (сейчас) | **to + глагол** | *He is said **to live** in Paris.* — Говорят, он живёт в Париже. |
+  | в процессе сейчас | **to be + -ing** | *She is thought **to be working** on a new book.* — Полагают, что она работает над новой книгой. |
+  | раньше (в прошлом) | **to have + V3** | *The thief is believed **to have escaped** by car.* — Считается, что вор скрылся на машине. |
+
+  ## There is/are
+  ***There are thought to be** over 1,000 species of bats.* — Считается, что существует более 1000 видов летучих мышей.
+examples:
+  - "*It is said that* he is the richest man in the country. | Говорят, что он самый богатый человек в стране."
+  - "He *is said to be* the richest man in the country. | Говорят, он самый богатый человек в стране."
+  - "The painting *is believed to have been* stolen in 1990. | Считается, что картину украли в 1990 году."
+  - "Thousands of people *are expected to attend* the concert. | Ожидается, что концерт посетят тысячи людей."
+  - "*It is estimated that* the repairs will cost £2 million. | По оценкам, ремонт обойдётся в 2 миллиона фунтов."
+  - "The singer *is reported to be* recovering in hospital. | Сообщается, что певец поправляется в больнице."
+exercises:
+  - type: choice
+    q: "It ___ that the company will close next year."
+    options: ["is said", "says", "is saying"]
+    answer: 0
+  - type: choice
+    q: "The president is expected ___ a speech tonight."
+    options: ["give", "to give", "giving"]
+    answer: 1
+  - type: choice
+    q: "The ship is believed ___ in a storm in 1850."
+    options: ["to sink", "to have sunk", "sinking"]
+    answer: 1
+  - type: choice
+    q: "She is thought ___ on a new album at the moment."
+    options: ["to work", "to be working", "to have worked"]
+    answer: 1
+  - type: choice
+    q: "There ___ to be more than 7,000 languages in the world."
+    options: ["are thought", "is thought", "thinks"]
+    answer: 0
+  - type: input
+    q: "People say that he is very rich. → He is said ___ very rich."
+    answer: ["to be"]
+  - type: input
+    q: "People believe the thieves escaped through a window. → The thieves are believed ___ through a window."
+    answer: ["to have escaped"]
+  - type: cloze
+    text: "It [[is known]] (know) that smoking causes cancer."
+  - type: cloze
+    text: "The castle is said [[*to have been built/to build/to be building]] in the 12th century."
+  - type: error
+    text: "The suspect is believed {{to leave=>to have left}} the country last week."
+    explain: "Last week = earlier → to have + V3."
+    explain_ru: "Last week — раньше момента речи → to have + V3."
+  - type: error
+    text: "It {{believes=>is believed}} that the river is polluted."
+  - type: order
+    q: "Составьте: «Говорят, что он очень хороший врач»."
+    answer: "He is said to be a very good doctor."
+  - type: match
+    q: "Match the two ways of saying the same thing"
+    pairs:
+      - ["It is said that she lives alone.", "She is said to live alone."]
+      - ["It is believed that he left.", "He is believed to have left."]
+      - ["It is thought that they are working.", "They are thought to be working."]
+  - type: tf
+    items:
+      - ["“He is said to have left” refers to a past action.", true]
+      - ["This structure is common in news reports.", true]
+      - ["“It is said him to be rich” is correct.", false]
+  - type: listen
+    audio: "The fire is thought to have started in the kitchen, and no one is reported to have been injured."
+    q: "Where did the fire probably start?"
+    options: ["in the bedroom", "in the kitchen", "in the garage"]
+    answer: 1
+  - type: speak
+    answer: "The castle is said to be haunted."
+    ru: "Говорят, что в замке водятся привидения."

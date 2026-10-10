@@ -1,0 +1,118 @@
+title: "Comparatives: advanced"
+title_ru: "Сравнение: продвинутые конструкции"
+section: adjectives
+summary: "far better, slightly older; the more…, the better; twice as big as; getting colder and colder"
+summary_ru: "гораздо лучше, чуть старше; чем больше…, тем лучше; вдвое больше; всё холоднее"
+theory: |
+  ## Modifying comparatives
+  - Big difference: **much, far, a lot, considerably, significantly** + comparative: *This hotel is **far better** than the last one.*
+  - Small difference: **slightly, a bit, a little, marginally**: *She's **slightly older** than me.*
+  - **even** — stronger than expected: *It's cold today, but tomorrow will be **even colder**.*
+  - With superlatives: **by far, easily**: *It's **by far the best** restaurant in town.*
+
+  ## the + comparative, the + comparative
+  When one thing changes, another changes too:
+  - ***The more** you practise, **the better** you get.*
+  - ***The sooner**, **the better**.*
+  - ***The older** I get, **the less** I sleep.*
+
+  ## comparative and comparative — continuous change
+  - *It's getting **colder and colder**.*
+  - *Prices are becoming **more and more expensive**.*
+
+  ## as … as with multipliers
+  - *My flat is **twice as big as** yours.*
+  - *This one costs **three times as much as** that one.*
+  - *It's **nowhere near as good as** the book.* (much worse)
+  - *She's **just as clever as** her sister.* (exactly the same)
+  - *It's **not quite as hot as** yesterday.* (a little less)
+theory_ru: |
+  ## Как усилить или ослабить сравнение
+  - Большая разница: **much, far, a lot, considerably, significantly** + сравнительная степень — «гораздо, намного»: *This hotel is **far better** than the last one.* — Этот отель намного лучше прошлого.
+  - Небольшая разница: **slightly, a bit, a little, marginally** — «чуть, немного»: *She's **slightly older** than me.* — Она чуть старше меня.
+  - **even** — «ещё (более)»: *It's cold today, but tomorrow will be **even colder**.* — Сегодня холодно, но завтра будет ещё холоднее.
+  - С превосходной степенью: **by far, easily** — «безусловно, однозначно»: *It's **by far the best** restaurant in town.* — Это безусловно лучший ресторан в городе.
+
+  > Не говорите ~~very better~~! С very сравнительная степень не употребляется — только much/far/a lot.
+
+  ## the + сравнительная, the + сравнительная — «чем…, тем…»
+  - ***The more** you practise, **the better** you get.* — Чем больше практикуешься, тем лучше получается.
+  - ***The sooner**, **the better**.* — Чем скорее, тем лучше.
+  - ***The older** I get, **the less** I sleep.* — Чем старше я становлюсь, тем меньше сплю.
+
+  ## сравнительная and сравнительная — «всё более и более»
+  - *It's getting **colder and colder**.* — Становится всё холоднее.
+  - *Prices are becoming **more and more expensive**.* — Цены становятся всё выше.
+
+  ## as … as с множителями
+  - *My flat is **twice as big as** yours.* — Моя квартира вдвое больше твоей.
+  - *This one costs **three times as much as** that one.* — Этот стоит втрое дороже того.
+  - *It's **nowhere near as good as** the book.* — Он и близко не так хорош, как книга.
+  - *She's **just as clever as** her sister.* — Она такая же умная, как сестра.
+  - *It's **not quite as hot as** yesterday.* — Сегодня не так жарко, как вчера.
+examples:
+  - "Travelling by train is *far more* relaxing than flying. | Путешествовать поездом гораздо приятнее, чем летать."
+  - "The *more* I learn, the *more* I realise how little I know. | Чем больше я узнаю, тем больше понимаю, как мало знаю."
+  - "The city is getting *busier and busier*. | Город становится всё оживлённее."
+  - "Their house is *twice as big as* ours. | Их дом вдвое больше нашего."
+  - "This is *by far* the hardest exam I've ever taken. | Это безусловно самый трудный экзамен в моей жизни."
+  - "The sequel was *nowhere near as good as* the first film. | Продолжение было далеко не так хорошо, как первый фильм."
+exercises:
+  - type: choice
+    q: "This test was ___ easier than the last one."
+    options: ["very", "much", "more"]
+    answer: 1
+  - type: choice
+    q: "The ___ you exercise, the fitter you will be."
+    options: ["much", "more", "most"]
+    answer: 1
+  - type: choice
+    q: "Prices are getting ___."
+    options: ["higher and higher", "high and higher", "more and higher"]
+    answer: 0
+  - type: choice
+    q: "Her new car cost ___ her old one."
+    options: ["twice as much as", "twice more as", "two times as much than"]
+    answer: 0
+  - type: choice
+    q: "It's ___ the most beautiful city I've ever visited."
+    options: ["by far", "very", "much more"]
+    answer: 0
+  - type: input
+    q: "The sooner we leave, the ___ (good) it will be."
+    answer: ["better"]
+  - type: input
+    q: "My brother is ___ (slightly / tall) than me."
+    answer: ["slightly taller"]
+  - type: cloze
+    text: "The film was good, but the book is [[*even/very/more]] better."
+  - type: cloze
+    text: "The [[*older/oldest/old]] he gets, the [[*more/most/much]] stubborn he becomes."
+  - type: error
+    text: "This phone is {{very cheaper=>much cheaper}} than that one."
+    explain: "Use much/far/a lot with comparatives, not very."
+    explain_ru: "Со сравнительной степенью — much/far/a lot, а не very."
+  - type: error
+    text: "The more you read, {{more you learn=>the more you learn}}."
+  - type: order
+    q: "Составьте: «Чем больше, тем веселее»."
+    answer: "The more the merrier."
+  - type: match
+    q: "Match the phrase and its meaning"
+    pairs:
+      - ["far better", "much better"]
+      - ["slightly better", "a little better"]
+      - ["nowhere near as good", "much worse"]
+      - ["just as good", "equally good"]
+  - type: tf
+    items:
+      - ["“very better” is correct English.", false]
+      - ["“twice as big as” means two times bigger.", true]
+  - type: listen
+    audio: "The new office is considerably larger than the old one, but it's also twice as far from my house."
+    q: "What is the problem with the new office?"
+    options: ["It's smaller.", "It's further from the speaker's house.", "It's more expensive."]
+    answer: 1
+  - type: speak
+    answer: "The more you practise, the better you speak."
+    ru: "Чем больше практикуешься, тем лучше говоришь."

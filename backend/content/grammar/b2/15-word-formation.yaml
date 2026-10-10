@@ -1,0 +1,130 @@
+title: "Word Formation: prefixes and suffixes"
+title_ru: "Словообразование: приставки и суффиксы"
+section: words
+summary: "un-, dis-, in-, mis-, re-, over-; -ness, -ment, -tion, -ity, -ful, -less, -able, -ive"
+summary_ru: "un-, dis-, in-, mis-, re-, over-; -ness, -ment, -tion, -ity, -ful, -less, -able, -ive"
+theory: |
+  Knowing prefixes and suffixes helps you understand new words and build your vocabulary quickly.
+
+  ## Negative prefixes
+  | Prefix | Examples |
+  |---|---|
+  | **un-** | unhappy, unusual, unlikely, unemployed |
+  | **in-** (im- before m/p, il- before l, ir- before r) | incorrect, impossible, illegal, irregular |
+  | **dis-** | dishonest, disagree, dislike, disappear |
+  | **non-** | non-smoker, non-fiction |
+
+  ## Other prefixes
+  **mis-** (wrongly): misunderstand, misspell · **re-** (again): rewrite, rebuild · **over-** (too much): overeat, overworked · **under-** (too little): underpaid, underestimate · **pre-** (before): prehistoric, prepay · **co-** (together): co-worker
+
+  ## Noun suffixes
+  | Suffix | From | Examples |
+  |---|---|---|
+  | **-ness** | adjectives | kindness, happiness, darkness |
+  | **-ity** | adjectives | ability, reality, popularity |
+  | **-ment** | verbs | agreement, payment, development |
+  | **-tion / -sion** | verbs | education, decision, permission |
+  | **-ance / -ence** | verbs/adjectives | performance, difference, independence |
+  | **-er / -or / -ist** | people | teacher, actor, scientist |
+
+  ## Adjective suffixes
+  **-ful** (with): helpful, careful · **-less** (without): homeless, careless · **-able/-ible** (can be): washable, visible · **-ive**: creative, attractive · **-ous**: dangerous, famous · **-al**: national, musical · **-y**: cloudy, sleepy
+
+  ## Verb suffixes
+  **-ise/-ize**: modernise, realize · **-en**: widen, strengthen, shorten · **-ify**: simplify, classify
+theory_ru: |
+  Зная приставки и суффиксы, легче понимать новые слова и быстро расширять словарный запас. Это особенно важно для экзаменов (задания на словообразование в FCE/IELTS).
+
+  ## Отрицательные приставки
+  | Приставка | Примеры |
+  |---|---|
+  | **un-** | unhappy (несчастный), unusual (необычный), unlikely (маловероятный), unemployed (безработный) |
+  | **in-** (im- перед m/p, il- перед l, ir- перед r) | incorrect (неправильный), impossible (невозможный), illegal (незаконный), irregular (неправильный) |
+  | **dis-** | dishonest (нечестный), disagree (не соглашаться), dislike (не любить), disappear (исчезать) |
+  | **non-** | non-smoker (некурящий), non-fiction (документальная литература) |
+
+  ## Другие приставки
+  **mis-** (неправильно): misunderstand (неправильно понять), misspell · **re-** (снова): rewrite (переписать), rebuild · **over-** (слишком): overeat (переедать), overworked · **under-** (недостаточно): underpaid (низкооплачиваемый), underestimate (недооценивать) · **pre-** (до): prehistoric, prepay · **co-** (вместе): co-worker (коллега)
+
+  ## Суффиксы существительных
+  | Суффикс | От чего | Примеры |
+  |---|---|---|
+  | **-ness** | прилагательные | kindness (доброта), happiness, darkness |
+  | **-ity** | прилагательные | ability (способность), reality, popularity |
+  | **-ment** | глаголы | agreement (соглашение), payment, development |
+  | **-tion / -sion** | глаголы | education, decision (решение), permission |
+  | **-ance / -ence** | глаголы/прилагательные | performance, difference, independence |
+  | **-er / -or / -ist** | люди | teacher, actor, scientist |
+
+  ## Суффиксы прилагательных
+  **-ful** (с чем-то): helpful (полезный), careful · **-less** (без): homeless (бездомный), careless (небрежный) · **-able/-ible** (можно): washable (моющийся), visible (видимый) · **-ive**: creative, attractive · **-ous**: dangerous, famous · **-al**: national, musical · **-y**: cloudy, sleepy
+
+  ## Суффиксы глаголов
+  **-ise/-ize**: modernise (модернизировать), realize · **-en**: widen (расширять), strengthen, shorten · **-ify**: simplify (упрощать), classify
+examples:
+  - "It's *impossible* to finish this by Friday. | Закончить это к пятнице невозможно."
+  - "I'm sorry, I *misunderstood* the question. | Простите, я неправильно понял вопрос."
+  - "Thank you for your *kindness*. | Спасибо за вашу доброту."
+  - "The *development* of the city took fifty years. | Развитие города заняло пятьдесят лет."
+  - "Be *careful* — the floor is wet. | Осторожно, пол мокрый."
+  - "They want to *widen* the road. | Дорогу хотят расширить."
+exercises:
+  - type: choice
+    q: "Parking here is ___ . You'll get a fine."
+    options: ["unlegal", "illegal", "dislegal"]
+    answer: 1
+  - type: choice
+    q: "Many nurses feel they are ___ for the work they do."
+    options: ["overpaid", "underpaid", "mispaid"]
+    answer: 1
+  - type: choice
+    q: "The opposite of “honest” is…"
+    options: ["unhonest", "dishonest", "inhonest"]
+    answer: 1
+  - type: choice
+    q: "Noun from “decide”:"
+    options: ["decidement", "decision", "decidity"]
+    answer: 1
+  - type: choice
+    q: "A person without a home is…"
+    options: ["homeful", "homeless", "unhomed"]
+    answer: 1
+  - type: input
+    q: "Complete with a noun from HAPPY: Money doesn't always bring ___."
+    answer: ["happiness"]
+  - type: input
+    q: "Complete with an adjective from DANGER: Climbing without a rope is very ___."
+    answer: ["dangerous"]
+  - type: cloze
+    text: "We need to [[*strengthen/strongen/strengthify]] the bridge before winter."
+  - type: cloze
+    text: "There's a big [[difference]] (DIFFER) between the two plans."
+  - type: error
+    text: "It's {{unpossible=>impossible}} to understand him."
+    explain: "Before p we use im-: impossible."
+    explain_ru: "Перед p используется im-: impossible."
+  - type: error
+    text: "She showed great {{brave=>bravery}} during the fire."
+  - type: match
+    q: "Match the word and its opposite"
+    pairs:
+      - ["agree", "disagree"]
+      - ["regular", "irregular"]
+      - ["likely", "unlikely"]
+      - ["careful", "careless"]
+  - type: odd
+    q: "Which word is NOT a noun?"
+    options: ["payment", "darkness", "creative", "ability"]
+    answer: 2
+  - type: tf
+    items:
+      - ["“re-” means “again”: rewrite = write again.", true]
+      - ["“-less” means “with”: hopeless = full of hope.", false]
+  - type: listen
+    audio: "The government has promised to modernise the railways and improve the reliability of trains."
+    q: "What does the government want to improve?"
+    options: ["the price of trains", "how reliable trains are", "the number of stations"]
+    answer: 1
+  - type: speak
+    answer: "I completely misunderstood the instructions."
+    ru: "Я совершенно неправильно понял инструкции."

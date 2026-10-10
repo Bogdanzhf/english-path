@@ -1,0 +1,115 @@
+title: "Future Perfect Continuous and other future forms"
+title_ru: "Future Perfect Continuous и другие способы говорить о будущем"
+section: tenses
+summary: "By June I'll have been working here for ten years; be about to, be due to, be on the point of"
+summary_ru: "К июню я буду работать здесь уже десять лет; be about to, be due to"
+theory: |
+  ## Future Perfect Continuous: will have been + -ing
+  We use it to say **how long** an activity will have continued by a certain time in the future.
+  - *By June, I **will have been working** here for ten years.*
+  - *Next month we**'ll have been living** in this house for exactly a year.*
+  - *When she finishes, she **will have been studying** for six hours.*
+  It's often used with **by** + a time and **for** + a period.
+
+  ## Compare the future perfect forms
+  - *By 10 pm, I **will have written** five pages.* — result, how many (Future Perfect Simple)
+  - *By 10 pm, I **will have been writing** for five hours.* — duration (Future Perfect Continuous)
+
+  ## Other ways to talk about the future
+  | Form | Meaning | Example |
+  |---|---|---|
+  | **be about to** + verb | very soon, any moment now | *Hurry up — the train **is about to** leave!* |
+  | **be on the point of** + -ing | very soon (more formal) | *She **was on the point of** giving up when she found the answer.* |
+  | **be due to** + verb | scheduled, expected | *The plane **is due to** land at 6.15.* |
+  | **be to** + verb | official plans, formal | *The President **is to** visit Paris next week.* |
+  | **be bound to** + verb | certain to happen | *Don't worry — you**'re bound to** pass.* |
+  | **be likely to** + verb | probably | *Prices **are likely to** rise.* |
+theory_ru: |
+  ## Future Perfect Continuous: will have been + -ing
+  Показывает, **как долго** будет длиться действие к определённому моменту в будущем.
+  - *By June, I **will have been working** here for ten years.* — К июню я буду работать здесь уже десять лет.
+  - *Next month we**'ll have been living** in this house for exactly a year.* — В следующем месяце будет ровно год, как мы живём в этом доме.
+  - *When she finishes, she **will have been studying** for six hours.* — Когда она закончит, окажется, что она занималась шесть часов.
+  Обычно с **by** + момент и **for** + отрезок времени.
+
+  ## Сравните
+  - *By 10 pm, I **will have written** five pages.* — К 10 вечера я напишу пять страниц (результат — Future Perfect Simple).
+  - *By 10 pm, I **will have been writing** for five hours.* — К 10 вечера я буду писать уже пять часов (длительность — Future Perfect Continuous).
+
+  ## Другие способы говорить о будущем
+  | Форма | Значение | Пример |
+  |---|---|---|
+  | **be about to** + глагол | вот-вот, сейчас | *Hurry up — the train **is about to** leave!* — Быстрее, поезд вот-вот отправится! |
+  | **be on the point of** + -ing | вот-вот (книжнее) | *She **was on the point of** giving up when she found the answer.* — Она уже готова была сдаться, когда нашла ответ. |
+  | **be due to** + глагол | по расписанию, ожидается | *The plane **is due to** land at 6.15.* — Самолёт должен приземлиться в 6:15. |
+  | **be to** + глагол | официальные планы | *The President **is to** visit Paris next week.* — Президент посетит Париж на следующей неделе. |
+  | **be bound to** + глагол | непременно, обязательно | *Don't worry — you**'re bound to** pass.* — Не волнуйся, ты обязательно сдашь. |
+  | **be likely to** + глагол | вероятно | *Prices **are likely to** rise.* — Цены, вероятно, вырастут. |
+examples:
+  - "In May I*'ll have been teaching* for twenty years. | В мае исполнится двадцать лет, как я преподаю."
+  - "By the time we arrive, we *will have been driving* for nine hours. | Когда мы приедем, окажется, что мы ехали девять часов."
+  - "The film *is about to* start — turn off your phone. | Фильм вот-вот начнётся — выключи телефон."
+  - "The new bridge *is due to* open in March. | Новый мост должен открыться в марте."
+  - "It's late. The shops *are bound to* be closed. | Уже поздно. Магазины наверняка закрыты."
+  - "I *was on the point of* calling you when you walked in. | Я как раз собирался тебе позвонить, когда ты вошёл."
+exercises:
+  - type: choice
+    q: "By next year, I ___ English for a decade."
+    options: ["will learn", "will have been learning", "am learning"]
+    answer: 1
+  - type: choice
+    q: "By 6 pm, she ___ ten reports."
+    options: ["will have written", "will have been writing", "writes"]
+    answer: 0
+    explain: "Ten reports = a result (how many) → Future Perfect Simple."
+    explain_ru: "Десять отчётов — это результат (сколько) → Future Perfect Simple."
+  - type: choice
+    q: "Quick! The bus is ___ to leave."
+    options: ["about", "due", "likely"]
+    answer: 0
+  - type: choice
+    q: "The meeting is ___ to start at 9 am, according to the schedule."
+    options: ["bound", "due", "about"]
+    answer: 1
+  - type: choice
+    q: "He's so talented — he's ___ to become famous one day."
+    options: ["bound", "due", "on the point"]
+    answer: 0
+  - type: input
+    q: "In October, they ___ (be / married) for twenty-five years. (Future Perfect)"
+    answer: ["will have been married", "'ll have been married"]
+  - type: input
+    q: "By the end of the marathon, he ___ (run) for over four hours."
+    answer: ["will have been running", "'ll have been running"]
+  - type: cloze
+    text: "I was on the point of [[*leaving/leave/to leave]] when the phone rang."
+  - type: cloze
+    text: "The Prime Minister [[*is/has/does]] to meet the King tomorrow."
+  - type: error
+    text: "By Friday I will {{be working=>have been working}} on this project for a month."
+    explain: "By + for + duration → Future Perfect Continuous."
+    explain_ru: "By + for + длительность → Future Perfect Continuous."
+  - type: error
+    text: "The train is due {{arriving=>to arrive}} at platform 4."
+  - type: order
+    q: "Составьте: «К июлю я проработаю здесь пять лет»."
+    answer: "By July I will have been working here for five years."
+  - type: match
+    q: "Match the phrase and its meaning"
+    pairs:
+      - ["be about to", "very soon"]
+      - ["be due to", "scheduled"]
+      - ["be bound to", "certain"]
+      - ["be likely to", "probable"]
+  - type: tf
+    items:
+      - ["Future Perfect Continuous focuses on duration.", true]
+      - ["“be due to” is followed by the -ing form.", false]
+  - type: listen
+    audio: "Our flight is due to leave at seven, but with this fog, it's likely to be delayed."
+    q: "What does the speaker think will happen?"
+    options: ["The flight will leave early.", "The flight will probably be delayed.", "The flight is cancelled."]
+    answer: 1
+  - type: speak
+    answer: "By next year I will have been living here for ten years."
+    ru: "В следующем году будет десять лет, как я живу здесь."

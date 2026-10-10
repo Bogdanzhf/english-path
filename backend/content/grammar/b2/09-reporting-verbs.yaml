@@ -1,0 +1,115 @@
+title: "Reporting Verbs"
+title_ru: "Глаголы для передачи чужой речи"
+section: reported
+summary: "She advised me to rest. He denied stealing it. They apologised for being late."
+summary_ru: "Она посоветовала мне отдохнуть. Он отрицал кражу. Они извинились за опоздание."
+theory: |
+  Instead of always using **say** and **tell**, we can use verbs that show the speaker's intention. Each verb has its own pattern.
+
+  | Pattern | Verbs | Example |
+  |---|---|---|
+  | verb + **to** + verb | agree, offer, promise, refuse, threaten | *He **promised to call**.* |
+  | verb + **someone** + **to** + verb | advise, ask, encourage, invite, remind, tell, warn, persuade | *She **advised me to rest**.* |
+  | verb + **-ing** | admit, deny, recommend, suggest | *He **denied stealing** the money.* |
+  | verb + **preposition** + **-ing** | apologise for, insist on, complain about | *They **apologised for being** late.* |
+  | verb + **someone** + **prep.** + **-ing** | accuse … of, blame … for, congratulate … on, thank … for | *She **accused him of lying**.* |
+  | verb + **that** | explain, admit, agree, complain, promise, suggest | *He **explained that** the shop was closed.* |
+
+  ## suggest — be careful!
+  - ✓ *She **suggested going** to the cinema.*
+  - ✓ *She **suggested that** we **go/should go** to the cinema.*
+  - ✗ ~~*She suggested us to go…*~~
+
+  ## Negatives
+  - *He **warned me not to touch** it.*
+  - *She **admitted not having** read the book.*
+theory_ru: |
+  Вместо того чтобы всё время говорить **say** и **tell**, можно использовать глаголы, которые передают намерение говорящего. У каждого глагола своя конструкция.
+
+  | Конструкция | Глаголы | Пример |
+  |---|---|---|
+  | глагол + **to** + глагол | agree (согласиться), offer (предложить), promise (обещать), refuse (отказаться), threaten (угрожать) | *He **promised to call**.* — Он пообещал позвонить. |
+  | глагол + **кого-то** + **to** + глагол | advise (советовать), ask, encourage (поощрять), invite, remind (напоминать), tell, warn (предупреждать), persuade (уговорить) | *She **advised me to rest**.* — Она посоветовала мне отдохнуть. |
+  | глагол + **-ing** | admit (признать), deny (отрицать), recommend, suggest (предложить) | *He **denied stealing** the money.* — Он отрицал, что украл деньги. |
+  | глагол + **предлог** + **-ing** | apologise for (извиниться за), insist on (настаивать на), complain about (жаловаться на) | *They **apologised for being** late.* — Они извинились за опоздание. |
+  | глагол + **кого-то** + **предлог** + **-ing** | accuse … of (обвинить в), blame … for (винить за), congratulate … on (поздравить с), thank … for | *She **accused him of lying**.* — Она обвинила его во лжи. |
+  | глагол + **that** | explain, admit, agree, complain, promise, suggest | *He **explained that** the shop was closed.* — Он объяснил, что магазин закрыт. |
+
+  ## suggest — осторожно!
+  - ✓ *She **suggested going** to the cinema.* — Она предложила пойти в кино.
+  - ✓ *She **suggested that** we **go/should go** to the cinema.*
+  - ✗ ~~*She suggested us to go…*~~ — частая ошибка русскоговорящих!
+
+  ## Отрицания
+  - *He **warned me not to touch** it.* — Он предупредил меня, чтобы я это не трогал.
+  - *She **admitted not having** read the book.* — Она призналась, что не читала книгу.
+examples:
+  - "He *offered to help* me with my bags. | Он предложил помочь мне с сумками."
+  - "The doctor *advised him to stop* smoking. | Врач посоветовал ему бросить курить."
+  - "She *denied breaking* the window. | Она отрицала, что разбила окно."
+  - "They *accused him of cheating* in the exam. | Его обвинили в списывании на экзамене."
+  - "I *apologised for forgetting* her birthday. | Я извинился за то, что забыл про её день рождения."
+  - "He *suggested meeting* at six. | Он предложил встретиться в шесть."
+exercises:
+  - type: choice
+    q: "“I'll definitely be there.” → He ___ to be there."
+    options: ["promised", "suggested", "denied"]
+    answer: 0
+  - type: choice
+    q: "“You should see a doctor.” → She advised me ___ a doctor."
+    options: ["seeing", "to see", "see"]
+    answer: 1
+  - type: choice
+    q: "“I didn't take it!” → He denied ___ it."
+    options: ["to take", "taking", "take"]
+    answer: 1
+  - type: choice
+    q: "“Let's go for a walk.” → She ___ going for a walk."
+    options: ["suggested", "offered", "advised"]
+    answer: 0
+  - type: choice
+    q: "“You broke my phone!” → She accused me ___ her phone."
+    options: ["for breaking", "of breaking", "to break"]
+    answer: 1
+  - type: choice
+    q: "“Don't swim here — it's dangerous.” → He warned us ___ there."
+    options: ["not swimming", "not to swim", "to not swimming"]
+    answer: 1
+  - type: input
+    q: "“Sorry I'm late.” → She apologised ___ late."
+    answer: ["for being"]
+  - type: input
+    q: "“No, I won't sign it.” → He refused ___ it."
+    answer: ["to sign"]
+  - type: cloze
+    text: "They congratulated me [[*on/for/of]] passing my driving test."
+  - type: cloze
+    text: "He insisted [[*on paying/to pay/paying]] for dinner."
+  - type: error
+    text: "She suggested {{me to try=>that I try}} the fish."
+    explain: "suggest + -ing or suggest that…, never suggest someone to do."
+    explain_ru: "suggest + -ing или suggest that…, но не suggest someone to do."
+  - type: error
+    text: "He admitted {{to steal=>stealing}} the money."
+  - type: order
+    q: "Составьте: «Она напомнила мне купить молоко»."
+    answer: "She reminded me to buy some milk."
+  - type: match
+    q: "Match the direct speech and the reporting verb"
+    pairs:
+      - ["“I'll carry it for you.”", "offer"]
+      - ["“It was me. I did it.”", "admit"]
+      - ["“Don't forget your keys.”", "remind"]
+      - ["“Well done on winning!”", "congratulate"]
+  - type: tf
+    items:
+      - ["“deny” is followed by the -ing form.", true]
+      - ["“She suggested us to go” is correct.", false]
+  - type: listen
+    audio: "My brother promised to pay me back, but then he denied borrowing the money at all!"
+    q: "What did the brother deny?"
+    options: ["promising to pay", "borrowing the money", "having a sister"]
+    answer: 1
+  - type: speak
+    answer: "The doctor advised me to get more sleep."
+    ru: "Врач посоветовал мне больше спать."

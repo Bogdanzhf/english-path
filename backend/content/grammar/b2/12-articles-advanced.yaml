@@ -1,0 +1,123 @@
+title: "Articles: advanced use"
+title_ru: "Артикли: трудные случаи"
+section: nouns
+summary: "the rich, the piano, go to school / the school, geographical names"
+summary_ru: "the rich, the piano, go to school / the school, географические названия"
+theory: |
+  ## General vs specific
+  - **No article** for things in general (plural or uncountable): ***Dogs** are loyal. **Life** is short. I love **music**.*
+  - **the** for a specific thing: ***The dogs** next door bark all night. **The music** in this film is great.*
+
+  ## the + adjective = a group of people
+  ***the rich**, **the poor**, **the elderly**, **the young**, **the unemployed**, **the British***
+  *The government should help **the homeless**.* (verb is plural)
+
+  ## the + singular noun for a type or invention
+  ***The tiger** is an endangered animal. Who invented **the telephone**? She plays **the piano**.*
+
+  ## Institutions: school, hospital, prison, church, university, bed
+  - No article when we use it for its **main purpose**: *He's in **hospital**.* (he's ill) *She goes to **church**.* (to pray)
+  - **the** when we visit the building for another reason: *I went to **the hospital** to visit my aunt.*
+
+  ## Geographical names
+  | No article | the |
+  |---|---|
+  | most countries: France, Japan | countries with Republic/Kingdom/States, or plural: **the** UK, **the** USA, **the** Netherlands |
+  | continents, cities: Asia, Paris | oceans, seas, rivers: **the** Atlantic, **the** Thames |
+  | single mountains, lakes: Everest, Lake Baikal | mountain ranges, island groups, deserts: **the** Alps, **the** Canaries, **the** Sahara |
+
+  ## Other fixed uses
+  - **the** + superlatives, ordinals, only, same: *the best, the first, the only, the same*
+  - No article with meals, sports, languages, days: *have **breakfast**, play **football**, speak **French**, on **Monday***
+theory_ru: |
+  ## Общее или конкретное
+  - **Без артикля** — о предметах в общем (множественное число или неисчисляемые): ***Dogs** are loyal.* — Собаки верны. ***Life** is short.* — Жизнь коротка. *I love **music**.* — Я люблю музыку.
+  - **the** — о конкретном: ***The dogs** next door bark all night.* — Соседские собаки лают всю ночь. ***The music** in this film is great.* — Музыка в этом фильме отличная.
+
+  ## the + прилагательное = группа людей
+  ***the rich** (богатые), **the poor** (бедные), **the elderly** (пожилые), **the young** (молодёжь), **the unemployed** (безработные), **the British** (британцы)*
+  *The government should help **the homeless**.* — Правительство должно помогать бездомным. (глагол во множественном числе)
+
+  ## the + единственное число — вид, изобретение, музыкальный инструмент
+  ***The tiger** is an endangered animal.* — Тигр — исчезающий вид. *Who invented **the telephone**?* — Кто изобрёл телефон? *She plays **the piano**.* — Она играет на пианино.
+
+  ## Учреждения: school, hospital, prison, church, university, bed
+  - Без артикля, когда речь о **основном назначении**: *He's in **hospital**.* — Он в больнице (лечится). *She goes to **church**.* — Она ходит в церковь (молиться).
+  - **the**, когда мы приходим в здание по другой причине: *I went to **the hospital** to visit my aunt.* — Я ездил в больницу навестить тётю.
+
+  ## Географические названия
+  | Без артикля | the |
+  |---|---|
+  | большинство стран: France, Japan | страны со словами Republic/Kingdom/States и во мн. ч.: **the** UK, **the** USA, **the** Netherlands |
+  | континенты, города: Asia, Paris | океаны, моря, реки: **the** Atlantic, **the** Thames |
+  | отдельные горы, озёра: Everest, Lake Baikal | горные цепи, архипелаги, пустыни: **the** Alps, **the** Canaries, **the** Sahara |
+
+  ## Другие устойчивые случаи
+  - **the** + превосходная степень, порядковые числительные, only, same: *the best, the first, the only, the same*
+  - Без артикля: приёмы пищи, виды спорта, языки, дни недели: *have **breakfast**, play **football**, speak **French**, on **Monday***
+examples:
+  - "*Money* doesn't buy happiness. | Счастье не купишь за деньги."
+  - "*The money* you gave me is on the table. | Деньги, которые ты мне дал, на столе."
+  - "We should do more to help *the poor*. | Нам следует больше помогать бедным."
+  - "My grandfather is in *hospital*. | Мой дедушка в больнице."
+  - "We sailed across *the* Mediterranean to *the* Canary Islands. | Мы переплыли Средиземное море до Канарских островов."
+  - "The bicycle is *the most* efficient form of transport. | Велосипед — самый эффективный вид транспорта."
+exercises:
+  - type: choice
+    q: "___ is very important for children's health."
+    options: ["The sleep", "Sleep", "A sleep"]
+    answer: 1
+  - type: choice
+    q: "My brother plays ___ guitar in a band."
+    options: ["—", "the", "a"]
+    answer: 1
+  - type: choice
+    q: "The new law will help ___ unemployed."
+    options: ["—", "the", "an"]
+    answer: 1
+  - type: choice
+    q: "Which is correct?"
+    options: ["the Mount Everest", "Mount Everest", "a Mount Everest"]
+    answer: 1
+  - type: choice
+    q: "Children go to ___ school at the age of six in Russia."
+    options: ["the", "—", "a"]
+    answer: 1
+  - type: choice
+    q: "I live near ___ Thames."
+    options: ["—", "the", "a"]
+    answer: 1
+  - type: input
+    q: "We spent a week skiing in ___ Alps."
+    answer: ["the"]
+  - type: choice
+    q: "She speaks ___ Japanese fluently."
+    options: ["the", "—", "a"]
+    answer: 1
+  - type: cloze
+    text: "[[*—/The]] cats are independent animals, but [[*the/—]] cat next door is very friendly."
+  - type: cloze
+    text: "My mum went to [[*the/—]] prison to visit a friend who is in [[*—/the]] prison for fraud."
+  - type: error
+    text: "{{The life=>Life}} is too short to worry about small things."
+    explain: "Life in general → no article."
+    explain_ru: "Жизнь вообще → без артикля."
+  - type: error
+    text: "He was born in {{Netherlands=>the Netherlands}}."
+  - type: odd
+    q: "Which one does NOT take “the”?"
+    options: ["Sahara", "Pacific", "Lake Geneva", "Philippines"]
+    answer: 2
+  - type: tf
+    items:
+      - ["“the rich” means rich people in general.", true]
+      - ["We say “play the football”.", false]
+      - ["We say “the USA” but “France”.", true]
+  - type: listen
+    audio: "After the war, the government built new homes for the homeless and new hospitals for the sick."
+    q: "Who were the new homes for?"
+    options: ["soldiers", "people without homes", "doctors"]
+    answer: 1
+  - type: speak
+    answer: "The Amazon is the longest river in South America."
+    ru: "Амазонка — самая длинная река в Южной Америке."

@@ -1,0 +1,121 @@
+title: "Perfect and Passive Infinitives and -ing forms"
+title_ru: "Перфектный и пассивный инфинитив и -ing"
+section: verbs
+summary: "to have done, to be done, having done, being done"
+summary_ru: "to have done, to be done, having done, being done"
+theory: |
+  The infinitive and the -ing form can show **time** (perfect) and **voice** (passive).
+
+  | | Active | Passive |
+  |---|---|---|
+  | Simple infinitive | **to do** | **to be done** |
+  | Perfect infinitive | **to have done** | **to have been done** |
+  | Simple -ing | **doing** | **being done** |
+  | Perfect -ing | **having done** | **having been done** |
+
+  ## Perfect forms — an earlier action
+  - *I'm glad **to have met** you.* (the meeting is finished)
+  - *She seems **to have forgotten** about the meeting.*
+  - *He denied **having taken** the money.*
+  - Also after **would like / would love / would rather**: *I **would like to have seen** her face!* (but I didn't)
+
+  ## Passive forms — the action is done to the subject
+  - *I don't like **being told** what to do.*
+  - *The report needs **to be finished** by Friday.*
+  - *Everyone wants **to be loved**.*
+  - *He was proud of **having been chosen** for the team.*
+
+  ## need + -ing (= passive)
+  In British English, **need + -ing** has a passive meaning: *The car **needs washing**.* = The car needs to be washed.
+theory_ru: |
+  Инфинитив и -ing-форма могут показывать **время** (перфект) и **залог** (пассив).
+
+  | | Действительный | Страдательный |
+  |---|---|---|
+  | Простой инфинитив | **to do** | **to be done** |
+  | Перфектный инфинитив | **to have done** | **to have been done** |
+  | Простая -ing-форма | **doing** | **being done** |
+  | Перфектная -ing-форма | **having done** | **having been done** |
+
+  ## Перфектные формы — действие произошло раньше
+  - *I'm glad **to have met** you.* — Рад, что познакомился с вами (знакомство уже состоялось).
+  - *She seems **to have forgotten** about the meeting.* — Кажется, она забыла о встрече.
+  - *He denied **having taken** the money.* — Он отрицал, что взял деньги.
+  - Также после **would like / would love / would rather**: *I **would like to have seen** her face!* — Хотел бы я видеть её лицо! (но не видел)
+
+  ## Пассивные формы — действие совершается над подлежащим
+  - *I don't like **being told** what to do.* — Не люблю, когда мне указывают, что делать.
+  - *The report needs **to be finished** by Friday.* — Отчёт нужно закончить к пятнице.
+  - *Everyone wants **to be loved**.* — Все хотят, чтобы их любили.
+  - *He was proud of **having been chosen** for the team.* — Он гордился тем, что его выбрали в команду.
+
+  ## need + -ing (= пассив)
+  В британском английском **need + -ing** имеет пассивное значение: *The car **needs washing**.* — Машину нужно помыть.
+
+  > Русские конструкции «не люблю, когда меня…», «хочу, чтобы меня…» часто переводятся пассивной формой: *I hate **being interrupted**.* — Терпеть не могу, когда меня перебивают.
+examples:
+  - "I'm sorry *to have kept* you waiting. | Простите, что заставил вас ждать."
+  - "He seems *to have lost* weight. | Похоже, он похудел."
+  - "I hate *being interrupted*. | Терпеть не могу, когда меня перебивают."
+  - "This letter needs *to be signed*. | Это письмо нужно подписать."
+  - "She was upset about *not having been invited*. | Она расстроилась, что её не пригласили."
+  - "The windows need *cleaning*. | Окна нужно помыть."
+exercises:
+  - type: choice
+    q: "I'm happy ___ you at last."
+    options: ["to have met", "to be met", "having been met"]
+    answer: 0
+  - type: choice
+    q: "Nobody likes ___ at."
+    options: ["laughing", "being laughed", "to laugh"]
+    answer: 1
+  - type: choice
+    q: "The house is said ___ in the 18th century."
+    options: ["to be built", "to have been built", "having built"]
+    answer: 1
+  - type: choice
+    q: "My hair needs ___. It's too long."
+    options: ["cutting", "to cut", "cut"]
+    answer: 0
+  - type: choice
+    q: "He seems ___ a lot recently. He looks tired."
+    options: ["to work", "to have been working", "being working"]
+    answer: 1
+  - type: input
+    q: "She remembers ___ (take) to the zoo as a child. (passive -ing)"
+    answer: ["being taken"]
+  - type: input
+    q: "I'd love ___ (see) his face when he opened the present! (perfect infinitive)"
+    answer: ["to have seen"]
+  - type: cloze
+    text: "The work has [[*to be finished/to finish/being finished]] by tomorrow."
+  - type: cloze
+    text: "He apologised for [[*having forgotten/to have forgotten/being forgotten]] my name."
+  - type: error
+    text: "I don't like {{telling=>being told}} what to do."
+    explain: "Someone tells me → passive: being told."
+    explain_ru: "Кто-то говорит мне → пассив: being told."
+  - type: error
+    text: "She claims {{to see=>to have seen}} a ghost last night."
+  - type: order
+    q: "Составьте: «Я рад, что меня пригласили»."
+    answer: "I am glad to have been invited."
+  - type: match
+    q: "Match the form and its name"
+    pairs:
+      - ["to be done", "passive infinitive"]
+      - ["to have done", "perfect infinitive"]
+      - ["being done", "passive -ing"]
+      - ["having done", "perfect -ing"]
+  - type: tf
+    items:
+      - ["“The car needs washing” has a passive meaning.", true]
+      - ["“to have done” refers to the future.", false]
+  - type: listen
+    audio: "I really hate being kept waiting, so I was annoyed when the doctor was an hour late."
+    q: "What does the speaker hate?"
+    options: ["waiting for people", "being late", "going to the doctor"]
+    answer: 0
+  - type: speak
+    answer: "I don't like being interrupted."
+    ru: "Я не люблю, когда меня перебивают."

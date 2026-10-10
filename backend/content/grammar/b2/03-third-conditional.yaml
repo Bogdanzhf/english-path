@@ -1,0 +1,104 @@
+title: "Third Conditional"
+title_ru: "Третий тип условных предложений"
+section: conditionals
+summary: "If I had known, I would have helped. — imaginary past"
+summary_ru: "Если бы я знал, я бы помог. — нереальное прошлое"
+theory: |
+  ## Form: If + Past Perfect, would have + V3
+  The third conditional is about an **imaginary past**: something that did **not** happen and its imaginary result.
+  - *If I **had known** you were ill, I **would have visited** you.* (I didn't know, so I didn't visit)
+  - *If she **hadn't missed** the bus, she **wouldn't have been** late.*
+  - *What **would** you **have done** if you**'d lost** your passport?*
+
+  ## could have / might have
+  - *If we had left earlier, we **could have caught** the train.* (it would have been possible)
+  - *If you had asked him, he **might have helped**.* (perhaps)
+
+  ## Contractions
+  In speech, **had** and **would** are both shortened to **'d**: *If I**'d** known, I**'d** have come.* The first 'd (after if) = **had**; the second (before have) = **would**.
+
+  ## Regrets and criticism
+  The third conditional is often used to talk about **regrets**: *If I **had studied** harder, I **would have passed** the exam.*
+theory_ru: |
+  ## Форма: If + Past Perfect, would have + V3
+  Третий тип — это **воображаемое прошлое**: то, чего **не произошло**, и его воображаемый результат. По-русски — «если бы… (тогда), то… бы».
+  - *If I **had known** you were ill, I **would have visited** you.* — Если бы я знал, что ты болеешь, я бы тебя навестил (но я не знал и не навестил).
+  - *If she **hadn't missed** the bus, she **wouldn't have been** late.* — Если бы она не опоздала на автобус, она бы не опоздала на работу.
+  - *What **would** you **have done** if you**'d lost** your passport?* — Что бы ты сделал, если бы потерял паспорт?
+
+  > В русском «если бы» одинаково для настоящего и прошлого, а в английском это разные типы: **If I had money** (сейчас, 2-й тип) / **If I had had money** (тогда, 3-й тип).
+
+  ## could have / might have
+  - *If we had left earlier, we **could have caught** the train.* — Если бы мы вышли раньше, мы могли бы успеть на поезд.
+  - *If you had asked him, he **might have helped**.* — Если бы ты его попросил, он, возможно, помог бы.
+
+  ## Сокращения
+  В речи и **had**, и **would** сокращаются до **'d**: *If I**'d** known, I**'d** have come.* Первое 'd (после if) — это **had**, второе (перед have) — **would**.
+
+  ## Сожаления и упрёки
+  Третий тип часто выражает **сожаление**: *If I **had studied** harder, I **would have passed** the exam.* — Если бы я больше занимался, я бы сдал экзамен.
+examples:
+  - "If I *had known* about the party, I *would have come*. | Если бы я знал о вечеринке, я бы пришёл."
+  - "If it *hadn't rained*, we *would have played* tennis. | Если бы не дождь, мы бы сыграли в теннис."
+  - "She *wouldn't have got* the job if she *hadn't spoken* French. | Она бы не получила эту работу, если бы не говорила по-французски."
+  - "If you*'d told* me earlier, I *could have helped*. | Если бы ты сказал раньше, я мог бы помочь."
+  - "What *would* you *have done* in my place? | Что бы ты сделал на моём месте?"
+  - "If we *had taken* a map, we *might not have got* lost. | Если бы мы взяли карту, возможно, не заблудились бы."
+exercises:
+  - type: choice
+    q: "If I ___ the alarm, I wouldn't have been late."
+    options: ["heard", "had heard", "would hear"]
+    answer: 1
+  - type: choice
+    q: "If she had studied, she ___ the exam."
+    options: ["would pass", "would have passed", "had passed"]
+    answer: 1
+  - type: choice
+    q: "We ___ the match if our best player hadn't been injured."
+    options: ["would win", "won", "might have won"]
+    answer: 2
+  - type: choice
+    q: "In “If I'd known, I'd have told you”, the first 'd means…"
+    options: ["would", "had", "did"]
+    answer: 1
+  - type: choice
+    q: "Which sentence is about the past?"
+    options: ["If I had a car, I'd drive.", "If I had had a car, I'd have driven.", "If I have a car, I'll drive."]
+    answer: 1
+  - type: input
+    q: "If you ___ (tell) me, I would have helped you."
+    answer: ["had told", "'d told"]
+  - type: input
+    q: "If they had left earlier, they ___ (not / miss) the plane."
+    answer: ["wouldn't have missed", "would not have missed"]
+  - type: cloze
+    text: "If I [[*hadn't eaten/didn't eat/wouldn't eat]] so much, I [[*wouldn't have felt/didn't feel/hadn't felt]] sick."
+  - type: cloze
+    text: "If he [[had driven|'d driven]] (drive) more carefully, the accident [[wouldn't have happened|would not have happened]] (not / happen)."
+  - type: error
+    text: "If I {{would have known=>had known}}, I would have come earlier."
+    explain: "No “would” in the if-clause: if + Past Perfect."
+    explain_ru: "В части с if не бывает would: if + Past Perfect."
+  - type: error
+    text: "If she had asked me, I would {{helped=>have helped}} her."
+  - type: order
+    q: "Составьте: «Если бы я знал, я бы тебе сказал»."
+    answer: "If I had known I would have told you."
+  - type: match
+    q: "Match the real past and the conditional"
+    pairs:
+      - ["I didn't study, so I failed.", "If I had studied, I wouldn't have failed."]
+      - ["It rained, so we stayed in.", "If it hadn't rained, we wouldn't have stayed in."]
+      - ["He was late, so he missed the start.", "If he hadn't been late, he wouldn't have missed the start."]
+  - type: tf
+    items:
+      - ["The third conditional talks about things that did not happen.", true]
+      - ["We use “would have” in the if-clause.", false]
+  - type: listen
+    audio: "If I hadn't gone to that party, I would never have met my wife."
+    q: "What really happened?"
+    options: ["He didn't go to the party.", "He went to the party and met his wife.", "He never met his wife."]
+    answer: 1
+  - type: speak
+    answer: "If I had known, I would have helped you."
+    ru: "Если бы я знал, я бы тебе помог."

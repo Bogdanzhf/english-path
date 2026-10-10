@@ -1,0 +1,133 @@
+title: "both, either, neither, all, none, each, every"
+title_ru: "both, either, neither, all, none, each, every"
+section: pronouns
+summary: "Both of them came. Neither answer is right. None of us knew. Each student got a book."
+summary_ru: "Пришли оба. Ни один ответ не верен. Никто из нас не знал. Каждый ученик получил книгу."
+theory: |
+  ## Two things or people
+  | Word | Meaning | Example |
+  |---|---|---|
+  | **both** | the one and the other | ***Both** (of the) answers are correct.* |
+  | **either** | one or the other (doesn't matter which) | *You can take **either** bus.* |
+  | **neither** | not one and not the other | ***Neither** answer is correct.* |
+
+  - **both … and**: *She speaks **both** English **and** French.*
+  - **either … or**: *We can go **either** today **or** tomorrow.*
+  - **neither … nor**: ***Neither** Tom **nor** Anna came.*
+  - **either/neither + singular noun**: *neither answer* (not ~~answers~~); **either/neither of + plural**: *neither of the answers*.
+
+  ## More than two
+  | Word | Meaning | Example |
+  |---|---|---|
+  | **all** | every one together | ***All** (of) the students passed.* |
+  | **none (of)** | not one | ***None of** the students failed.* |
+  | **each** | every one separately (2 or more) | ***Each** student got a certificate.* |
+  | **every** | all, as a group (3 or more) | ***Every** student passed.* |
+
+  - **every** and **each** take a **singular** verb: *Every room **has** a TV.*
+  - After **none of**, both singular and plural verbs are used: *None of them **is/are** here.*
+  - Use **no** + noun, but **none** alone or with of: *I have **no** money. — How much money do you have? — **None**.*
+
+  ## Agreeing: So do I / Neither do I
+  - *I love jazz. — **So do I**.*
+  - *I can't swim. — **Neither can I**.* (or **Nor can I**, informal: **Me neither**)
+theory_ru: |
+  ## Два предмета или человека
+  | Слово | Значение | Пример |
+  |---|---|---|
+  | **both** | оба | ***Both** (of the) answers are correct.* — Оба ответа верны. |
+  | **either** | любой из двух | *You can take **either** bus.* — Можешь сесть на любой из двух автобусов. |
+  | **neither** | ни тот, ни другой | ***Neither** answer is correct.* — Ни один из двух ответов не верен. |
+
+  - **both … and** — и… и: *She speaks **both** English **and** French.* — Она говорит и по-английски, и по-французски.
+  - **either … or** — или… или: *We can go **either** today **or** tomorrow.* — Можем пойти либо сегодня, либо завтра.
+  - **neither … nor** — ни… ни: ***Neither** Tom **nor** Anna came.* — Не пришли ни Том, ни Анна.
+  - **either/neither + существительное в ед. ч.**: *neither answer* (не ~~answers~~); **either/neither of + мн. ч.**: *neither of the answers*.
+
+  > После neither глагол **утвердительный**: *Neither of them **came*** (не ~~didn't come~~). В английском одно отрицание в предложении!
+
+  ## Больше двух
+  | Слово | Значение | Пример |
+  |---|---|---|
+  | **all** | все | ***All** (of) the students passed.* — Все студенты сдали. |
+  | **none (of)** | ни один, никто | ***None of** the students failed.* — Ни один студент не провалился. |
+  | **each** | каждый в отдельности (от 2) | ***Each** student got a certificate.* — Каждый студент получил сертификат. |
+  | **every** | каждый, все вместе (от 3) | ***Every** student passed.* — Сдали все студенты. |
+
+  - После **every** и **each** глагол в **единственном** числе: *Every room **has** a TV.* — В каждом номере есть телевизор.
+  - После **none of** возможен и единственный, и множественный глагол: *None of them **is/are** here.*
+  - **no** + существительное, но **none** — отдельно или с of: *I have **no** money.* — У меня нет денег. *How much money do you have? — **None**.* — Нисколько.
+
+  ## Согласие: So do I / Neither do I — «я тоже»
+  - *I love jazz. — **So do I**.* — Я люблю джаз. — Я тоже.
+  - *I can't swim. — **Neither can I**.* — Я не умею плавать. — Я тоже (не умею). (Также **Nor can I**, разговорно **Me neither**.)
+examples:
+  - "*Both* my parents are teachers. | Оба моих родителя — учителя."
+  - "I don't like *either* of these dresses. | Мне не нравится ни одно из этих платьев."
+  - "*Neither* of us knew the answer. | Никто из нас двоих не знал ответа."
+  - "*None of* my friends could come. | Никто из моих друзей не смог прийти."
+  - "*Each* child received a small gift. | Каждый ребёнок получил небольшой подарок."
+  - "I'm really tired. — *So am I*. | Я очень устал. — Я тоже."
+exercises:
+  - type: choice
+    q: "___ of my sisters are married."
+    options: ["Both", "Either", "Neither"]
+    answer: 0
+  - type: choice
+    q: "You can pay ___ by cash or by card."
+    options: ["both", "either", "neither"]
+    answer: 1
+  - type: choice
+    q: "___ of the two hotels was available, so we camped."
+    options: ["Neither", "Either", "Both"]
+    answer: 0
+  - type: choice
+    q: "Every student ___ to bring a dictionary."
+    options: ["have", "has", "are"]
+    answer: 1
+  - type: choice
+    q: "How many eggs are left? — ___. We ate them all."
+    options: ["No", "None", "Neither"]
+    answer: 1
+  - type: choice
+    q: "I don't like horror films. — ___."
+    options: ["So do I", "Neither do I", "Either do I"]
+    answer: 1
+  - type: input
+    q: "___ Mark nor his brother can drive. (one word)"
+    answer: ["Neither"]
+  - type: input
+    q: "I've been to Paris. — So ___ I. (one word)"
+    answer: ["have"]
+  - type: cloze
+    text: "[[*None/No/Neither]] of the twenty students failed the test."
+  - type: cloze
+    text: "She can [[*neither/either/both]] read nor write."
+  - type: error
+    text: "Neither of them {{didn't call=>called}} me."
+    explain: "Neither is already negative — only one negative in English."
+    explain_ru: "Neither уже отрицание — второе не нужно."
+  - type: error
+    text: "Each of the rooms {{have=>has}} a balcony."
+  - type: order
+    q: "Составьте: «Оба моих брата живут в Москве»."
+    answer: "Both of my brothers live in Moscow."
+  - type: match
+    q: "Match the statement and the reply"
+    pairs:
+      - ["I love pizza.", "So do I."]
+      - ["I can't cook.", "Neither can I."]
+      - ["I'm hungry.", "So am I."]
+      - ["I haven't seen it.", "Neither have I."]
+  - type: tf
+    items:
+      - ["“either” and “neither” are used for two things.", true]
+      - ["“Every students” is correct.", false]
+  - type: listen
+    audio: "I asked both of my parents, but neither of them knew the answer, so I asked my teacher."
+    q: "Who knew the answer?"
+    options: ["the mother", "the father", "neither parent"]
+    answer: 2
+  - type: speak
+    answer: "Neither of my friends could come to the party."
+    ru: "Ни один из моих двух друзей не смог прийти на вечеринку."

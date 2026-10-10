@@ -1,0 +1,239 @@
+- id: b2-asking-for-a-raise
+  title: "Asking for a pay rise"
+  title_ru: "Просьба о повышении зарплаты"
+  scene: "Sophie meets her manager to discuss her salary."
+  scene_ru: "Софи встречается с руководителем, чтобы обсудить зарплату."
+  speakers: {Sophie: f-uk, Manager: m-us}
+  lines:
+    - "Manager: Come in, Sophie. You wanted to talk to me about something? | Заходи, Софи. Ты хотела о чём-то поговорить?"
+    - "Sophie: Yes, thanks for making the time. I'd like to discuss my salary. | Да, спасибо, что нашли время. Я хотела бы обсудить мою зарплату."
+    - "Manager: Okay. Go ahead. | Хорошо. Слушаю."
+    - "Sophie: Over the past year, I've taken on a lot more responsibility. I've been managing the new client accounts, and I led the project that brought in the Henderson contract. | За последний год у меня стало гораздо больше обязанностей. Я веду новых клиентов и руководила проектом, который принёс нам контракт с Хендерсоном."
+    - "Manager: That's true. You've done an excellent job with Henderson. | Это правда. С Хендерсоном ты отлично справилась."
+    - "Sophie: Thank you. I've also looked into what people in similar positions earn, and I believe my salary is below the market rate. I'd like to ask for a ten percent increase. | Спасибо. Я также посмотрела, сколько зарабатывают люди на похожих должностях, и считаю, что моя зарплата ниже рыночной. Я хотела бы попросить повышение на десять процентов."
+    - "Manager: Ten percent is quite a lot. To be honest, the budget is tight this year. | Десять процентов — это довольно много. Честно говоря, в этом году бюджет ограничен."
+    - "Sophie: I understand. Would there be any flexibility? Perhaps a smaller increase now and a review in six months? | Понимаю. Есть ли какая-то возможность для компромисса? Скажем, небольшое повышение сейчас и пересмотр через полгода?"
+    - "Manager: That sounds more realistic. I could probably offer six percent now, and we'll look at it again in the spring. | Это звучит реалистичнее. Пожалуй, я мог бы предложить шесть процентов сейчас, а весной вернёмся к этому вопросу."
+    - "Sophie: Could we also discuss an extra day of holiday? That would make a real difference to me. | Можем мы также обсудить дополнительный день отпуска? Для меня это было бы очень важно."
+    - "Manager: I think that can be arranged. Let me speak to HR and I'll confirm everything in writing by Friday. | Думаю, это можно устроить. Я поговорю с отделом кадров и до пятницы подтвержу всё письменно."
+    - "Sophie: That's great. Thank you for being so open. | Отлично. Спасибо, что так открыто отнеслись к разговору."
+  phrases:
+    - "Thanks for making the time. | Спасибо, что нашли время."
+    - "I've taken on more responsibility. | У меня стало больше обязанностей."
+    - "below the market rate | ниже рыночного уровня"
+    - "The budget is tight. | Бюджет ограничен."
+    - "Would there be any flexibility? | Возможен ли компромисс?"
+    - "I'll confirm everything in writing. | Я подтвержу всё письменно."
+  exercises:
+    - type: choice
+      q: "What increase does Sophie ask for at first?"
+      options: ["six percent", "ten percent", "an extra day of holiday only"]
+      answer: 1
+    - type: choice
+      q: "Why does the manager hesitate?"
+      options: ["Sophie's work was poor", "The budget is tight", "She has only worked there a month"]
+      answer: 1
+    - type: choice
+      q: "What do they agree on?"
+      options: ["Ten percent now", "Six percent now, a review in spring and possibly an extra day of holiday", "No increase"]
+      answer: 1
+
+- id: b2-remote-work-debate
+  title: "Working from home: for and against"
+  title_ru: "Удалёнка: за и против"
+  scene: "Two colleagues discuss whether their company should allow more remote work."
+  scene_ru: "Двое коллег обсуждают, стоит ли компании разрешить больше удалённой работы."
+  speakers: {Raj: m-uk, Ellen: f-us}
+  lines:
+    - "Raj: Have you heard? Management is thinking of letting us work from home three days a week. | Слышала? Руководство думает разрешить нам работать из дома три дня в неделю."
+    - "Ellen: Really? That would be brilliant. I'd save nearly two hours of commuting every day. | Правда? Это было бы здорово. Я бы экономила почти два часа на дорогу каждый день."
+    - "Raj: I can see the appeal, but I'm not entirely convinced. I find it much harder to concentrate at home. | Понимаю, чем это привлекательно, но я не до конца убеждён. Мне дома гораздо сложнее сосредоточиться."
+    - "Ellen: Really? I'm the opposite. In the office, I'm constantly being interrupted. | Правда? А у меня наоборот. В офисе меня постоянно отвлекают."
+    - "Raj: That's a fair point. But don't you think we'd lose something as a team? Some of the best ideas come from chatting over coffee. | Справедливо. Но тебе не кажется, что мы потеряем что-то как команда? Лучшие идеи часто рождаются в разговорах за кофе."
+    - "Ellen: I suppose so, although video calls work pretty well these days. | Наверное, хотя видеозвонки сейчас вполне работают."
+    - "Raj: Up to a point. It's not the same as being in the same room. And what about new employees? How will they learn? | До определённой степени. Это не то же самое, что быть в одной комнате. И как быть с новыми сотрудниками? Как они будут учиться?"
+    - "Ellen: Good question. Maybe new people should be in the office more often for the first few months. | Хороший вопрос. Может, новички первые несколько месяцев должны чаще бывать в офисе."
+    - "Raj: That makes sense. So perhaps a mix is the best solution — two days at home, three in the office? | Логично. Тогда, может, лучшее решение — смешанный график: два дня дома, три в офисе?"
+    - "Ellen: I could live with that, as long as we can choose which days. | Меня бы это устроило, если мы сможем сами выбирать дни."
+    - "Raj: Agreed. Shall we suggest it at the next team meeting? | Согласен. Предложим это на следующей планёрке?"
+    - "Ellen: Definitely. Let's put together a few arguments first. | Обязательно. Давай сначала подготовим несколько аргументов."
+  phrases:
+    - "I can see the appeal, but… | Понимаю, чем это привлекательно, но…"
+    - "I'm not entirely convinced. | Я не до конца убеждён."
+    - "That's a fair point. | Справедливое замечание."
+    - "Up to a point. | До определённой степени."
+    - "That makes sense. | Логично."
+    - "I could live with that. | Меня бы это устроило."
+  exercises:
+    - type: choice
+      q: "Why does Ellen want to work from home?"
+      options: ["She doesn't like her colleagues", "She would save time on commuting", "Her office is too cold"]
+      answer: 1
+    - type: choice
+      q: "What is Raj worried about?"
+      options: ["Losing team spirit and training new staff", "Paying for internet", "Getting fired"]
+      answer: 0
+    - type: choice
+      q: "What compromise do they reach?"
+      options: ["Work from home every day", "Two days at home, three in the office", "Stay in the office full-time"]
+      answer: 1
+
+- id: b2-car-accident
+  title: "After a minor accident"
+  title_ru: "После небольшой аварии"
+  scene: "Two drivers have a minor collision in a car park."
+  scene_ru: "Два водителя попали в небольшую аварию на парковке."
+  speakers: {Driver: m-us, Lisa: f-uk}
+  lines:
+    - "Lisa: Oh no. Are you all right? | О нет. Вы в порядке?"
+    - "Driver: I'm fine, thanks. Just a bit shaken. Are you hurt? | Да, спасибо. Немного в шоке. А вы не пострадали?"
+    - "Lisa: No, I'm okay. I'm so sorry — I was reversing and I didn't see you. | Нет, всё нормально. Простите, пожалуйста, — я сдавала назад и не заметила вас."
+    - "Driver: Well, I was driving quite slowly, so I don't think the damage is too bad. Let's have a look. | Ну, я ехал довольно медленно, так что вряд ли повреждения серьёзные. Давайте посмотрим."
+    - "Lisa: There's a dent in your door, and your mirror's cracked. My bumper's scratched too. | У вас вмятина на двери и треснуло зеркало. И у меня поцарапан бампер."
+    - "Driver: It could have been worse. I think we should exchange details for the insurance. | Могло быть и хуже. Думаю, нам нужно обменяться данными для страховки."
+    - "Lisa: Of course. Here's my name, phone number and insurance company. My policy number is on this card. | Конечно. Вот моё имя, номер телефона и страховая компания. Номер полиса на этой карточке."
+    - "Driver: Thanks. Do you mind if I take some photos of both cars, just in case? | Спасибо. Не возражаете, если я сфотографирую обе машины на всякий случай?"
+    - "Lisa: Not at all. I'll take some too. Should we call the police? | Нисколько. Я тоже сделаю фото. Нам вызывать полицию?"
+    - "Driver: Since nobody's injured and we agree on what happened, I don't think it's necessary. | Раз никто не пострадал и мы согласны насчёт того, что произошло, думаю, в этом нет необходимости."
+    - "Lisa: Okay. I'll contact my insurance company this afternoon and admit it was my fault. | Хорошо. Сегодня же позвоню в страховую и признаю, что виновата я."
+    - "Driver: I appreciate that. Accidents happen. Drive safely! | Ценю это. Всякое бывает. Аккуратнее на дороге!"
+  phrases:
+    - "I'm just a bit shaken. | Я немного в шоке."
+    - "I didn't see you. | Я вас не заметил."
+    - "It could have been worse. | Могло быть и хуже."
+    - "Let's exchange details. | Давайте обменяемся данными."
+    - "just in case | на всякий случай"
+    - "It was my fault. | Это была моя вина."
+  exercises:
+    - type: choice
+      q: "What was Lisa doing when the accident happened?"
+      options: ["Driving fast", "Reversing", "Parking in the street"]
+      answer: 1
+    - type: choice
+      q: "What damage did the man's car have?"
+      options: ["A broken window", "A dent in the door and a cracked mirror", "A flat tyre"]
+      answer: 1
+    - type: choice
+      q: "Why don't they call the police?"
+      options: ["Nobody is hurt and they agree on what happened", "The police are too busy", "Lisa doesn't want to"]
+      answer: 0
+
+- id: b2-making-up
+  title: "Clearing the air"
+  title_ru: "Выяснить отношения"
+  scene: "Two friends meet after an argument."
+  scene_ru: "Двое друзей встречаются после ссоры."
+  speakers: {Jess: f-us, Mark: m-uk}
+  lines:
+    - "Mark: Thanks for agreeing to meet. I wasn't sure you would. | Спасибо, что согласилась встретиться. Я не был уверен, что ты придёшь."
+    - "Jess: Honestly, I almost didn't. I was really upset about what happened at Tom's party. | Честно говоря, я чуть было не передумала. Я очень расстроилась из-за того, что случилось на вечеринке у Тома."
+    - "Mark: I know, and I owe you an apology. I shouldn't have made that joke about your new job in front of everyone. | Знаю, и я должен перед тобой извиниться. Мне не следовало шутить про твою новую работу при всех."
+    - "Jess: It wasn't just the joke. It felt like you didn't take my decision seriously. | Дело было не только в шутке. Было ощущение, что ты не принимаешь моё решение всерьёз."
+    - "Mark: I can see why you felt that way. To be honest, I think I was a bit jealous. You're doing something brave, and I'm still stuck in the same job. | Понимаю, почему ты так почувствовала. Если честно, думаю, я немного завидовал. Ты делаешь смелый шаг, а я всё сижу на той же работе."
+    - "Jess: Oh. I had no idea you felt like that. | Ого. Я и не подозревала, что ты так к этому относишься."
+    - "Mark: I didn't really realise it myself until afterwards. Anyway, that's no excuse. I'm really sorry. | Я и сам это понял только потом. В любом случае, это не оправдание. Мне правда очень жаль."
+    - "Jess: Thank you. That means a lot. And I'm sorry I stormed off without saying goodbye. | Спасибо. Это много для меня значит. А ты прости, что я ушла, хлопнув дверью и не попрощавшись."
+    - "Mark: Fair enough — I'd probably have done the same. So, are we okay? | Справедливо — я бы, наверное, сделал то же самое. Ну что, мир?"
+    - "Jess: We're okay. And if you're unhappy at work, maybe we can talk about that sometime. | Мир. И если тебе плохо на работе, может, как-нибудь об этом поговорим."
+    - "Mark: I'd like that. Let me buy you a coffee to make up for it. | С удовольствием. Давай я угощу тебя кофе, чтобы загладить вину."
+    - "Jess: Deal. A large one, please! | Договорились. Большой, пожалуйста!"
+  phrases:
+    - "I owe you an apology. | Я должен перед тобой извиниться."
+    - "I can see why you felt that way. | Понимаю, почему ты так почувствовал."
+    - "That's no excuse. | Это не оправдание."
+    - "That means a lot. | Это много для меня значит."
+    - "So, are we okay? | Ну что, мир?"
+    - "to make up for it | чтобы загладить вину"
+  exercises:
+    - type: choice
+      q: "What did Mark do at the party?"
+      options: ["He forgot Jess's birthday", "He made a joke about Jess's new job", "He left without saying goodbye"]
+      answer: 1
+    - type: choice
+      q: "What does Mark admit?"
+      options: ["He was a bit jealous", "He didn't like the party", "He wants Jess's job"]
+      answer: 0
+    - type: choice
+      q: "What does Jess apologise for?"
+      options: ["Being late", "Leaving without saying goodbye", "Telling Tom"]
+      answer: 1
+
+- id: b2-presenting-results
+  title: "Presenting results at a meeting"
+  title_ru: "Презентация результатов на совещании"
+  scene: "Anna presents the results of a customer survey to her team."
+  scene_ru: "Анна представляет команде результаты опроса клиентов."
+  speakers: {Anna: f-uk, Director: m-us}
+  lines:
+    - "Anna: Good morning, everyone. Today I'd like to take you through the results of our customer survey. | Доброе утро, коллеги. Сегодня я хотела бы рассказать вам о результатах опроса клиентов."
+    - "Anna: We received just over two thousand responses, which is about twice as many as last year. | Мы получили чуть больше двух тысяч ответов — примерно вдвое больше, чем в прошлом году."
+    - "Anna: If you look at this first chart, you'll see that overall satisfaction has risen from seventy-two to eighty-one percent. | Если посмотрите на первый график, то увидите, что общая удовлетворённость выросла с семидесяти двух до восьмидесяти одного процента."
+    - "Director: That's impressive. What do you think is behind the increase? | Впечатляет. Как вы думаете, с чем связан рост?"
+    - "Anna: The main factor seems to be our new delivery service. Customers particularly appreciate being able to track their orders. | Главный фактор, судя по всему, — наша новая служба доставки. Клиенты особенно ценят возможность отслеживать заказы."
+    - "Anna: However, there's one area of concern. Moving on to the next slide, you can see that complaints about our website have almost doubled. | Однако есть один тревожный момент. Перейдём к следующему слайду: как видите, жалоб на наш сайт стало почти вдвое больше."
+    - "Director: Do we know why? | Мы знаем почему?"
+    - "Anna: Most people say it's too slow on mobile phones, and the checkout process is confusing. | Большинство говорит, что он слишком медленно работает на телефонах, а оформление заказа запутанное."
+    - "Director: So what would you recommend? | Что бы вы порекомендовали?"
+    - "Anna: I'd suggest that we prioritise a redesign of the mobile site. I've estimated that it would take about three months. | Я бы предложила в первую очередь переделать мобильную версию сайта. По моей оценке, это займёт около трёх месяцев."
+    - "Director: Could you put together a proposal with costs by the end of next week? | Можете подготовить предложение с расчётом затрат до конца следующей недели?"
+    - "Anna: Certainly. To sum up, we're doing well, but the website needs urgent attention. Are there any questions? | Конечно. Подводя итог: у нас всё хорошо, но сайту срочно нужно внимание. Есть вопросы?"
+  phrases:
+    - "I'd like to take you through… | Я хотела бы рассказать вам о…"
+    - "If you look at this chart, you'll see… | Если посмотрите на график, увидите…"
+    - "The main factor seems to be… | Главный фактор, судя по всему, — …"
+    - "Moving on to the next slide… | Переходя к следующему слайду…"
+    - "I'd suggest that we… | Я бы предложил…"
+    - "To sum up… | Подводя итог…"
+  exercises:
+    - type: choice
+      q: "How has overall satisfaction changed?"
+      options: ["It fell", "It rose from 72% to 81%", "It stayed the same"]
+      answer: 1
+    - type: choice
+      q: "What do customers like most?"
+      options: ["The new website", "Being able to track their orders", "Lower prices"]
+      answer: 1
+    - type: choice
+      q: "What does Anna recommend?"
+      options: ["Closing the website", "Redesigning the mobile site", "Hiring more delivery drivers"]
+      answer: 1
+
+- id: b2-internet-complaint
+  title: "A complaint on the phone"
+  title_ru: "Жалоба по телефону"
+  scene: "Peter calls his internet provider because his connection keeps failing."
+  scene_ru: "Питер звонит интернет-провайдеру, потому что связь постоянно обрывается."
+  speakers: {Agent: f-us, Peter: m-uk}
+  lines:
+    - "Agent: Thank you for calling FastNet. My name is Kelly. How can I help you today? | Спасибо, что позвонили в FastNet. Меня зовут Келли. Чем могу помочь?"
+    - "Peter: Hi, Kelly. I'm calling because my internet connection has been cutting out several times a day for the last two weeks. | Здравствуйте, Келли. Я звоню, потому что последние две недели интернет отключается по нескольку раз в день."
+    - "Agent: I'm sorry to hear that. Have you tried restarting your router? | Сочувствую. Вы пробовали перезагрузить роутер?"
+    - "Peter: Yes, many times. I've also called twice already, and both times I was told it would be fixed within forty-eight hours. | Да, много раз. Я уже дважды звонил, и оба раза мне говорили, что всё исправят в течение сорока восьми часов."
+    - "Agent: I see. Let me check your account… Yes, I can see the previous calls. It looks like there's a fault on the line outside your building. | Понятно. Сейчас проверю ваш аккаунт… Да, вижу предыдущие обращения. Похоже, неисправность на линии снаружи вашего дома."
+    - "Peter: I work from home, so this is causing me serious problems. I'm paying for a service I'm not getting. | Я работаю из дома, так что это создаёт мне серьёзные проблемы. Я плачу за услугу, которую не получаю."
+    - "Agent: I completely understand your frustration. I'm going to book an engineer to visit your property. | Я прекрасно понимаю ваше раздражение. Я запишу вас на визит мастера."
+    - "Peter: When is the earliest you can send someone? | Когда самое раннее вы можете кого-то прислать?"
+    - "Agent: The first available appointment is Thursday morning, between eight and twelve. | Ближайшее свободное время — утро четверга, с восьми до двенадцати."
+    - "Peter: Fine. And I'd like some compensation for the last two weeks. | Хорошо. И я бы хотел компенсацию за последние две недели."
+    - "Agent: That's reasonable. I can offer you a refund of half this month's bill. I'll also send you a reference number for this call. | Это справедливо. Могу предложить вернуть половину счёта за этот месяц. Я также пришлю вам номер обращения."
+    - "Peter: Thank you. I hope this is the last time I have to call. | Спасибо. Надеюсь, звоню в последний раз."
+  phrases:
+    - "My connection keeps cutting out. | Связь постоянно обрывается."
+    - "I was told it would be fixed. | Мне сказали, что это исправят."
+    - "I'm paying for a service I'm not getting. | Я плачу за услугу, которую не получаю."
+    - "I understand your frustration. | Я понимаю ваше раздражение."
+    - "When is the earliest you can…? | Когда самое раннее вы можете…?"
+    - "a reference number | номер обращения"
+  exercises:
+    - type: choice
+      q: "How long has Peter had the problem?"
+      options: ["Two days", "Two weeks", "Two months"]
+      answer: 1
+    - type: choice
+      q: "What is causing the problem?"
+      options: ["Peter's router", "A fault on the line outside the building", "Peter's computer"]
+      answer: 1
+    - type: choice
+      q: "What compensation does Peter get?"
+      options: ["A free router", "Half of this month's bill back", "A free month"]
+      answer: 1

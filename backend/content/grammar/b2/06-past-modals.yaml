@@ -1,0 +1,114 @@
+title: "Past Modals: should have, could have, needn't have"
+title_ru: "Модальные глаголы в прошлом: should have, could have, needn't have"
+section: modals
+summary: "You should have told me. I could have died! You needn't have bought flowers."
+summary_ru: "Тебе следовало мне сказать. Я мог погибнуть! Не стоило покупать цветы."
+theory: |
+  **Modal + have + V3** talks about the past.
+
+  ## should have / shouldn't have — criticism, regret
+  - *You **should have told** me earlier.* (you didn't, and that was wrong)
+  - *I **shouldn't have eaten** so much.* (I did, and now I regret it)
+  - **ought to have** = should have (more formal).
+
+  ## could have — possibility that didn't happen
+  - *You were lucky. You **could have been** killed!*
+  - *Why did you take a taxi? I **could have driven** you.* (I was able to, but I didn't)
+  - **couldn't have** = it was impossible: *I **couldn't have done** it without you.*
+
+  ## would have — what we wanted or were willing to do
+  - *I **would have come**, but I was ill.*
+
+  ## needn't have vs didn't need to
+  - *You **needn't have bought** flowers.* — you bought them, but it wasn't necessary.
+  - *I **didn't need to buy** flowers.* — it wasn't necessary (we usually understand that I didn't buy them).
+
+  ## must have / might have / can't have (deduction)
+  See the B1 topic "Modals of deduction": *She **must have forgotten**. He **can't have seen** us.*
+theory_ru: |
+  **Модальный глагол + have + V3** — говорим о прошлом.
+
+  ## should have / shouldn't have — упрёк, сожаление
+  - *You **should have told** me earlier.* — Тебе следовало сказать мне раньше (ты не сказал — и это плохо).
+  - *I **shouldn't have eaten** so much.* — Не стоило мне столько есть (съел — и жалею).
+  - **ought to have** = should have (более официально).
+
+  ## could have — возможность, которая не осуществилась
+  - *You were lucky. You **could have been** killed!* — Тебе повезло. Ты мог погибнуть!
+  - *Why did you take a taxi? I **could have driven** you.* — Зачем ты взял такси? Я мог бы тебя подвезти (мог, но не подвёз).
+  - **couldn't have** — было невозможно: *I **couldn't have done** it without you.* — Без тебя я бы не справился.
+
+  ## would have — что мы хотели или готовы были сделать
+  - *I **would have come**, but I was ill.* — Я бы пришёл, но заболел.
+
+  ## needn't have или didn't need to
+  - *You **needn't have bought** flowers.* — Не стоило покупать цветы (купил, но в этом не было нужды).
+  - *I **didn't need to buy** flowers.* — Мне не нужно было покупать цветы (обычно понимается, что и не купил).
+
+  ## must have / might have / can't have (предположения)
+  См. тему B1 «Модальные глаголы предположения»: *She **must have forgotten**.* — Она, должно быть, забыла. *He **can't have seen** us.* — Не может быть, чтобы он нас видел.
+examples:
+  - "You *should have* called me — I was worried! | Тебе надо было позвонить — я волновался!"
+  - "I *shouldn't have* said that. I'm sorry. | Мне не следовало этого говорить. Прости."
+  - "Be careful! You *could have* broken your neck! | Осторожнее! Ты мог сломать шею!"
+  - "You *needn't have* cooked — we've already eaten. | Не нужно было готовить — мы уже поели."
+  - "I *would have* helped you if you'd asked. | Я бы помог тебе, если бы ты попросил."
+  - "We *couldn't have* won without our goalkeeper. | Мы бы не выиграли без нашего вратаря."
+exercises:
+  - type: choice
+    q: "I failed the exam. I ___ harder."
+    options: ["should study", "should have studied", "must have studied"]
+    answer: 1
+  - type: choice
+    q: "You ___ the washing-up! We have a dishwasher. But thanks!"
+    options: ["needn't have done", "didn't need to do", "mustn't have done"]
+    answer: 0
+  - type: choice
+    q: "Why didn't you ask me? I ___ you some money."
+    options: ["could have lent", "must have lent", "should lend"]
+    answer: 0
+  - type: choice
+    q: "He drove too fast. He ___ an accident."
+    options: ["could have had", "can have", "needn't have had"]
+    answer: 0
+  - type: choice
+    q: "I feel sick. I ___ all that chocolate."
+    options: ["shouldn't have eaten", "couldn't have eaten", "needn't eat"]
+    answer: 0
+  - type: input
+    q: "You ___ (should / tell) me you were coming — I'd have made dinner."
+    answer: ["should have told", "should've told"]
+  - type: input
+    q: "Thanks for the help. I ___ (couldn't / do) it without you."
+    answer: ["couldn't have done", "could not have done"]
+  - type: cloze
+    text: "It was a mistake to sell the car. We [[*shouldn't have/couldn't have/needn't]] sold it."
+  - type: cloze
+    text: "I took an umbrella, but it didn't rain. I [[*needn't have/shouldn't/couldn't have]] taken it."
+  - type: error
+    text: "You should {{told=>have told}} me about the problem."
+    explain: "Past modal = modal + have + V3."
+    explain_ru: "Модальный в прошлом = модальный + have + V3."
+  - type: error
+    text: "I {{must have called=>should have called}} you yesterday, but I forgot. Sorry!"
+  - type: order
+    q: "Составьте: «Тебе следовало прийти раньше»."
+    answer: "You should have come earlier."
+  - type: match
+    q: "Match the sentence and its meaning"
+    pairs:
+      - ["You should have left earlier.", "It was a mistake not to."]
+      - ["You could have left earlier.", "It was possible, but you didn't."]
+      - ["You needn't have left early.", "You did, but it wasn't necessary."]
+  - type: tf
+    items:
+      - ["“You needn't have come” means you came, but it wasn't necessary.", true]
+      - ["“should have + V3” is used for things that happened correctly.", false]
+  - type: listen
+    audio: "I really should have checked the weather before we left. We could have stayed dry."
+    q: "What does the speaker regret?"
+    options: ["leaving early", "not checking the weather", "staying at home"]
+    answer: 1
+  - type: speak
+    answer: "I should have listened to your advice."
+    ru: "Мне следовало прислушаться к твоему совету."

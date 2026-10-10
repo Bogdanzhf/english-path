@@ -1,0 +1,106 @@
+title: "Mixed Conditionals"
+title_ru: "Смешанные условные предложения"
+section: conditionals
+summary: "If I had taken the job, I would be rich now. If I were braver, I would have said something."
+summary_ru: "Если бы я тогда согласился на работу, я был бы сейчас богат."
+theory: |
+  Sometimes the condition and the result are in **different times**. Then we "mix" the second and third conditionals.
+
+  ## Past condition → present result
+  **If + Past Perfect, would + verb**
+  - *If I **had taken** that job in London, I **would be** rich now.* (I didn't take it, and I'm not rich now)
+  - *If she **hadn't missed** the flight, she **would be** here now.*
+  - *If you **had listened** to me, we **wouldn't be** lost.*
+
+  ## Present situation → past result
+  **If + Past Simple, would have + V3**
+  This is used when a **general or permanent** situation explains something in the past.
+  - *If I **were** braver, I **would have told** him the truth.* (I'm not brave, so I didn't tell him)
+  - *If he **spoke** English, he **would have understood** the film.*
+  - *If I **didn't love** you, I **wouldn't have come** all this way.*
+
+  ## Tip
+  Look at time words: **now, today, at the moment** → present result; **yesterday, last year, then** → past result.
+theory_ru: |
+  Иногда условие и результат относятся к **разному времени**. Тогда мы «смешиваем» второй и третий типы.
+
+  ## Условие в прошлом → результат сейчас
+  **If + Past Perfect, would + глагол**
+  - *If I **had taken** that job in London, I **would be** rich now.* — Если бы я тогда согласился на работу в Лондоне, я был бы сейчас богат (не согласился — и сейчас не богат).
+  - *If she **hadn't missed** the flight, she **would be** here now.* — Если бы она не опоздала на рейс, она была бы сейчас здесь.
+  - *If you **had listened** to me, we **wouldn't be** lost.* — Если бы ты меня послушал, мы бы сейчас не заблудились.
+
+  ## Ситуация в настоящем → результат в прошлом
+  **If + Past Simple, would have + V3**
+  Используется, когда **общее или постоянное** положение дел объясняет что-то в прошлом.
+  - *If I **were** braver, I **would have told** him the truth.* — Будь я смелее, я бы сказал ему правду (я не смелый — и не сказал).
+  - *If he **spoke** English, he **would have understood** the film.* — Если бы он знал английский, он бы понял фильм.
+  - *If I **didn't love** you, I **wouldn't have come** all this way.* — Если бы я тебя не любил, я бы не проделал такой путь.
+
+  ## Подсказка
+  Смотрите на слова времени: **now, today, at the moment** → результат в настоящем; **yesterday, last year, then** → результат в прошлом.
+examples:
+  - "If I *had studied* medicine, I *would be* a doctor now. | Если бы я изучал медицину, я был бы сейчас врачом."
+  - "If we *hadn't sold* the house, we *would live* by the sea today. | Если бы мы не продали дом, сейчас жили бы у моря."
+  - "If she *wasn't* so shy, she *would have spoken* to him at the party. | Не будь она такой застенчивой, она бы заговорила с ним на вечеринке."
+  - "If you *had gone* to bed earlier, you *wouldn't be* so tired now. | Если бы ты лёг пораньше, ты бы сейчас не был таким уставшим."
+  - "If I *knew* the city better, I *wouldn't have got* lost yesterday. | Если бы я лучше знал город, я бы вчера не заблудился."
+  - "If he *hadn't broken* his leg, he *would be* playing tonight. | Если бы он не сломал ногу, он бы сегодня играл."
+exercises:
+  - type: choice
+    q: "If I had saved more money, I ___ a car now."
+    options: ["would have", "would have had", "had"]
+    answer: 0
+  - type: choice
+    q: "If she ___ more confident, she would have applied for the job."
+    options: ["is", "were", "had"]
+    answer: 1
+  - type: choice
+    q: "If they hadn't moved to Spain, they ___ Spanish now."
+    options: ["wouldn't speak", "wouldn't have spoken", "didn't speak"]
+    answer: 0
+  - type: choice
+    q: "If he wasn't so lazy, he ___ the work yesterday."
+    options: ["would finish", "would have finished", "had finished"]
+    answer: 1
+  - type: choice
+    q: "Which is a mixed conditional?"
+    options: ["If I'd won, I'd have celebrated.", "If I'd won the lottery, I'd be rich now.", "If I win, I'll celebrate."]
+    answer: 1
+  - type: input
+    q: "If I ___ (not / eat) so much cake, I wouldn't feel sick now."
+    answer: ["hadn't eaten", "had not eaten"]
+  - type: input
+    q: "If I were taller, I ___ (join) the basketball team last year."
+    answer: ["would have joined", "'d have joined"]
+  - type: cloze
+    text: "If you [[*had/have/would have]] taken my advice, you [[*wouldn't be/wouldn't have been/aren't]] in trouble now."
+  - type: cloze
+    text: "If I [[*didn't have/hadn't/don't have]] so much work, I would have come to your party."
+  - type: error
+    text: "If I had learned to swim as a child, I {{would have been=>would be}} able to swim now."
+    explain: "Present result (now) → would + verb."
+    explain_ru: "Результат в настоящем (now) → would + глагол."
+  - type: error
+    text: "If he {{would be=>were}} more careful, he wouldn't have broken the vase."
+  - type: order
+    q: "Составьте: «Если бы я не потерял ключи, я был бы сейчас дома»."
+    answer: "If I hadn't lost my keys I would be at home now."
+  - type: match
+    q: "Match the halves"
+    pairs:
+      - ["If I had gone to university,", "I would have a better job now."]
+      - ["If I spoke Chinese,", "I would have understood him."]
+      - ["If it hadn't snowed last night,", "the roads would be clear now."]
+  - type: tf
+    items:
+      - ["Mixed conditionals combine different times.", true]
+      - ["“If I had won, I would be rich now” has a past condition and a present result.", true]
+  - type: listen
+    audio: "If I hadn't missed the last train, I would be sleeping in my own bed right now."
+    q: "Where is the speaker probably now?"
+    options: ["in his own bed", "not at home", "on the train"]
+    answer: 1
+  - type: speak
+    answer: "If I had studied harder, I would have a better job now."
+    ru: "Если бы я больше учился, у меня была бы сейчас работа получше."

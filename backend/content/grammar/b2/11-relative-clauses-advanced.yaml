@@ -1,0 +1,120 @@
+title: "Relative Clauses: advanced"
+title_ru: "Определительные придаточные: продвинутый уровень"
+section: clauses
+summary: "the person to whom I spoke; most of whom; whatever, whoever; reduced clauses"
+summary_ru: "человек, с которым я говорил; большинство из которых; что бы ни; сокращённые придаточные"
+theory: |
+  ## Prepositions in relative clauses
+  In informal English, the preposition goes at the **end**. In formal English, it goes **before whom/which**.
+  - Informal: *The man (who) I spoke **to** was very kind.*
+  - Formal: *The man **to whom** I spoke was very kind.*
+  - Informal: *That's the house (that) I grew up **in**.*
+  - Formal: *That's the house **in which** I grew up.*
+  After a preposition, use **whom** (people) or **which** (things) — never ~~that~~ or ~~who~~.
+
+  ## Quantifier + of + whom/which
+  - *I have three brothers, **all of whom** live abroad.*
+  - *She wrote many books, **some of which** became films.*
+  - *There were 200 guests, **most of whom** I didn't know.*
+  Also: none of whom, both of which, each of which, many of whom.
+
+  ## whatever, whoever, wherever, whenever
+  - *You can do **whatever** you like.* (anything)
+  - ***Whoever** broke the window must pay for it.*
+  - *Sit **wherever** you want.*
+
+  ## Reduced relative clauses
+  We can shorten relative clauses with participles:
+  - *The woman **who is standing** by the door* → *The woman **standing** by the door*
+  - *The car **which was stolen** yesterday* → *The car **stolen** yesterday*
+theory_ru: |
+  ## Предлоги в придаточных
+  В разговорном английском предлог стоит **в конце**. В официальном — **перед whom/which**.
+  - Разговорно: *The man (who) I spoke **to** was very kind.* — Человек, с которым я говорил, был очень любезен.
+  - Официально: *The man **to whom** I spoke was very kind.*
+  - Разговорно: *That's the house (that) I grew up **in**.* — Это дом, в котором я вырос.
+  - Официально: *That's the house **in which** I grew up.*
+  После предлога используем только **whom** (люди) или **which** (вещи), но не ~~that~~ и не ~~who~~.
+
+  > Русские «с которым», «в котором», «о котором» → в разговоре предлог уходит в конец: *the film I told you **about*** — фильм, о котором я тебе рассказывал.
+
+  ## Количество + of + whom/which
+  - *I have three brothers, **all of whom** live abroad.* — У меня три брата, и все они живут за границей.
+  - *She wrote many books, **some of which** became films.* — Она написала много книг, некоторые из которых были экранизированы.
+  - *There were 200 guests, **most of whom** I didn't know.* — Было 200 гостей, большинство из которых я не знал.
+  Также: none of whom (ни один из которых), both of which (оба из которых), each of which, many of whom.
+
+  ## whatever, whoever, wherever, whenever
+  - *You can do **whatever** you like.* — Можешь делать всё, что хочешь.
+  - ***Whoever** broke the window must pay for it.* — Кто бы ни разбил окно, он должен за него заплатить.
+  - *Sit **wherever** you want.* — Садись куда хочешь.
+
+  ## Сокращённые придаточные
+  Придаточные можно сокращать с помощью причастий:
+  - *The woman **who is standing** by the door* → *The woman **standing** by the door* — женщина, стоящая у двери
+  - *The car **which was stolen** yesterday* → *The car **stolen** yesterday* — машина, угнанная вчера
+examples:
+  - "This is the colleague *with whom* I share an office. | Это коллега, с которым я делю кабинет."
+  - "That's the song I was telling you *about*. | Это та песня, о которой я тебе говорил."
+  - "He has two cars, *neither of which* works. | У него две машины, и ни одна не работает."
+  - "The students, *most of whom* were tired, went home early. | Студенты, большинство из которых устали, рано ушли домой."
+  - "*Whoever* wins will get a prize. | Кто бы ни победил, он получит приз."
+  - "The people *living* next door are very noisy. | Люди, живущие по соседству, очень шумные."
+exercises:
+  - type: choice
+    q: "The woman ___ I was talking is my boss."
+    options: ["to who", "to whom", "to that"]
+    answer: 1
+  - type: choice
+    q: "I bought ten apples, three of ___ were bad."
+    options: ["them", "which", "whom"]
+    answer: 1
+  - type: choice
+    q: "She has two sons, both of ___ are doctors."
+    options: ["who", "whom", "them"]
+    answer: 1
+  - type: choice
+    q: "You can invite ___ you like."
+    options: ["whoever", "whatever", "wherever"]
+    answer: 0
+  - type: choice
+    q: "The man ___ next to me on the plane was a famous actor."
+    options: ["sat", "sitting", "who sitting"]
+    answer: 1
+  - type: input
+    q: "That's the hotel ___ which we stayed. (preposition)"
+    answer: ["in", "at"]
+  - type: input
+    q: "Don't worry. ___ happens, I'll support you."
+    answer: ["Whatever"]
+  - type: cloze
+    text: "The company employs 500 people, [[*most of whom/most of them/most of who]] work part-time."
+  - type: cloze
+    text: "This is the topic [[*about which/about that/which about]] I want to write."
+  - type: error
+    text: "The person {{to who=>to whom}} you should complain is the manager."
+    explain: "After a preposition: whom (people)."
+    explain_ru: "После предлога — whom (для людей)."
+  - type: error
+    text: "I met many people, some of {{them=>whom}} were very interesting."
+  - type: order
+    q: "Составьте (официально): «Это человек, на которого я полагаюсь»."
+    answer: "This is the person on whom I rely."
+  - type: match
+    q: "Match the full and reduced clauses"
+    pairs:
+      - ["the girl who is wearing a hat", "the girl wearing a hat"]
+      - ["the bridge which was built in 1900", "the bridge built in 1900"]
+      - ["the man who lives here", "the man living here"]
+  - type: tf
+    items:
+      - ["We can use “that” after a preposition: “in that”.", false]
+      - ["“Whoever” means “any person who”.", true]
+  - type: listen
+    audio: "I applied for five jobs, none of which replied, so I decided to start my own business."
+    q: "How many companies replied?"
+    options: ["five", "one", "none"]
+    answer: 2
+  - type: speak
+    answer: "I have three sisters, all of whom live in London."
+    ru: "У меня три сестры, и все они живут в Лондоне."

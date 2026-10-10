@@ -1,0 +1,125 @@
+title: "Narrative Tenses"
+title_ru: "Времена для рассказа о прошлом"
+section: tenses
+summary: "Past Simple, Past Continuous, Past Perfect and Past Perfect Continuous in stories"
+summary_ru: "Past Simple, Past Continuous, Past Perfect и Past Perfect Continuous в рассказе"
+theory: |
+  When we tell a story about the past, we combine four tenses. Each has its own job.
+
+  | Tense | Job | Example |
+  |---|---|---|
+  | **Past Simple** | the main events, in order | *I **opened** the door and **saw** a man.* |
+  | **Past Continuous** | background, actions in progress | *It **was raining**, and people **were hurrying** home.* |
+  | **Past Perfect** | events **before** the main story | *He **had left** the keys at the office.* |
+  | **Past Perfect Continuous** | a longer activity before a past moment | *She **had been waiting** for an hour when the bus came.* |
+
+  ## A typical story
+  *It **was** a cold night. Snow **was falling**, and the streets **were** empty. Anna **had been working** late, and she **was** exhausted. When she **got** home, she **realised** she **had lost** her keys.*
+
+  ## Interrupted actions
+  Past Continuous for the longer action + Past Simple for the short one that interrupts it:
+  *I **was having** a shower when the phone **rang**.*
+
+  ## when + Past Perfect or Past Simple?
+  - *When I arrived, they **left**.* — I arrived, then they left.
+  - *When I arrived, they **had left**.* — They left before I arrived.
+
+  ## Useful linkers for stories
+  as soon as, by the time, after, before, while, meanwhile, eventually, in the end, suddenly, just then
+theory_ru: |
+  Рассказывая историю о прошлом, мы сочетаем четыре времени. У каждого своя роль.
+
+  | Время | Роль | Пример |
+  |---|---|---|
+  | **Past Simple** | основные события по порядку | *I **opened** the door and **saw** a man.* — Я открыл дверь и увидел человека. |
+  | **Past Continuous** | фон, действие в процессе | *It **was raining**, and people **were hurrying** home.* — Шёл дождь, люди спешили домой. |
+  | **Past Perfect** | события, случившиеся **раньше** основных | *He **had left** the keys at the office.* — Он (ещё до того) оставил ключи в офисе. |
+  | **Past Perfect Continuous** | длительное действие до момента в прошлом | *She **had been waiting** for an hour when the bus came.* — Она прождала час, когда пришёл автобус. |
+
+  ## Типичная история
+  *It **was** a cold night. Snow **was falling**, and the streets **were** empty. Anna **had been working** late, and she **was** exhausted. When she **got** home, she **realised** she **had lost** her keys.*
+  — Была холодная ночь. Падал снег, улицы были пусты. Анна допоздна работала и очень устала. Придя домой, она поняла, что потеряла ключи.
+
+  ## Прерванное действие
+  Past Continuous — длительное действие, Past Simple — короткое, которое его прерывает:
+  *I **was having** a shower when the phone **rang**.* — Я принимал душ, когда зазвонил телефон.
+
+  ## when + Past Perfect или Past Simple?
+  - *When I arrived, they **left**.* — Когда я пришёл, они ушли (сначала я пришёл, потом они ушли).
+  - *When I arrived, they **had left**.* — Когда я пришёл, они уже ушли.
+
+  > В русском одно прошедшее время, а в английском выбор времени показывает **порядок и характер** событий. Спрашивайте себя: это главное событие, фон или то, что случилось раньше?
+
+  ## Полезные связки для рассказа
+  as soon as (как только), by the time (к тому времени как), after, before, while (пока), meanwhile (тем временем), eventually / in the end (в конце концов), suddenly, just then (и тут)
+examples:
+  - "The sun *was shining* and the birds *were singing*. | Светило солнце, пели птицы."
+  - "While I *was walking* home, I *met* an old friend. | По дороге домой я встретил старого друга."
+  - "By the time the ambulance *arrived*, he *had stopped* breathing. | К приезду скорой он уже перестал дышать."
+  - "Her eyes were red because she *had been crying*. | У неё были красные глаза, потому что она плакала."
+  - "We *had never seen* such a beautiful place before. | Мы никогда раньше не видели такого красивого места."
+  - "As soon as he *heard* the news, he *called* his mother. | Как только он услышал новость, он позвонил матери."
+exercises:
+  - type: choice
+    q: "I ___ dinner when the lights went out."
+    options: ["cooked", "was cooking", "had cooked"]
+    answer: 1
+  - type: choice
+    q: "When we got to the cinema, the film ___. We missed the start."
+    options: ["started", "was starting", "had started"]
+    answer: 2
+  - type: choice
+    q: "They were tired because they ___ all day."
+    options: ["had been walking", "were walking", "walked"]
+    answer: 0
+  - type: choice
+    q: "She ___ the letter, put it in an envelope and posted it."
+    options: ["was writing", "wrote", "had been writing"]
+    answer: 1
+  - type: choice
+    q: "It was a beautiful morning. The sun ___ and children were playing outside."
+    options: ["shone", "was shining", "had shone"]
+    answer: 1
+  - type: input
+    q: "I ___ (not / recognise) him because he had grown a beard."
+    answer: ["didn't recognise", "did not recognise", "didn't recognize", "did not recognize"]
+  - type: input
+    q: "By the time the police arrived, the thieves ___ (escape)."
+    answer: ["had escaped"]
+  - type: cloze
+    text: "While she [[*was driving/drove/had driven]] to work, she [[*saw/was seeing/had been seeing]] an accident."
+  - type: cloze
+    text: "He [[had been living|'d been living]] (live) in Paris for ten years when he [[met]] (meet) his wife."
+  - type: error
+    text: "When I arrived at the station, the train {{already left=>had already left}}."
+    explain: "The train left before I arrived → Past Perfect."
+    explain_ru: "Поезд ушёл до моего прихода → Past Perfect."
+  - type: error
+    text: "I {{was knowing=>knew}} the answer, but I didn't say anything."
+  - type: dialog
+    q: "Put the story in order"
+    lines:
+      - "It was late on a Friday night and it was raining heavily."
+      - "Tom had been working for twelve hours and was desperate to get home."
+      - "As he was walking to his car, he heard a strange noise."
+      - "He turned around and saw a small, wet kitten under a bench."
+      - "In the end, he took it home, and it has lived with him ever since."
+  - type: match
+    q: "Match the tense and its job in a story"
+    pairs:
+      - ["Past Simple", "main events in order"]
+      - ["Past Continuous", "background actions"]
+      - ["Past Perfect", "earlier events"]
+      - ["Past Perfect Continuous", "a long activity before a past moment"]
+  - type: tf
+    items:
+      - ["“When I arrived, they left” means they left before I arrived.", false]
+      - ["We often use the Past Continuous to set the scene.", true]
+  - type: listen
+    audio: "I had been waiting at the bus stop for forty minutes when a friend drove past and offered me a lift."
+    q: "How long had the speaker been waiting?"
+    options: ["four minutes", "fourteen minutes", "forty minutes"]
+    answer: 2
+  - type: speak
+    answer: "I was walking home when it started to rain."
+    ru: "Я шёл домой, когда начался дождь."

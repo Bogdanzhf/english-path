@@ -1,0 +1,120 @@
+title: "Future in the Past"
+title_ru: "Будущее в прошедшем"
+section: tenses
+summary: "I was going to call you. She said she would come. We were about to leave."
+summary_ru: "Я собирался тебе позвонить. Она сказала, что придёт. Мы как раз уходили."
+theory: |
+  Sometimes we talk about the future **from a point in the past**: plans, predictions or promises that we made earlier.
+
+  | Present | Past (future in the past) |
+  |---|---|
+  | I **will** help. | I said I **would** help. |
+  | I**'m going to** call him. | I **was going to** call him (but I didn't / I forgot). |
+  | We**'re leaving** tomorrow. | We **were leaving** the next day. |
+  | The train **leaves** at 6. | The train **left** at 6 (timetable). |
+  | We**'re about to** start. | We **were about to** start when… |
+
+  ## was/were going to — plans that didn't happen
+  This is very common for plans that were changed or cancelled:
+  - *I **was going to** phone you, but my battery died.*
+  - *We **were going to** go to Spain, but we went to Italy instead.*
+
+  ## would — predictions and promises in the past
+  - *I knew you **would** like this film.*
+  - *He promised he **wouldn't** be late.*
+  - *Little did they know that the war **would** last six years.*
+
+  ## was/were to + verb — fate (formal, in stories)
+  - *They met in 1920. Ten years later, they **were to** become husband and wife.*
+  - *He left home at sixteen. He **was never to** see his parents again.*
+theory_ru: |
+  Иногда мы говорим о будущем **с точки зрения прошлого**: о планах, прогнозах или обещаниях, которые сделали раньше.
+
+  | Настоящее | Прошлое (будущее в прошедшем) |
+  |---|---|
+  | I **will** help. | I said I **would** help. — Я сказал, что помогу. |
+  | I**'m going to** call him. | I **was going to** call him. — Я собирался ему позвонить (но не позвонил / забыл). |
+  | We**'re leaving** tomorrow. | We **were leaving** the next day. — Мы уезжали на следующий день. |
+  | The train **leaves** at 6. | The train **left** at 6. — Поезд отправлялся в 6 (по расписанию). |
+  | We**'re about to** start. | We **were about to** start when… — Мы уже собирались начать, как вдруг… |
+
+  ## was/were going to — несостоявшиеся планы
+  Очень часто для планов, которые изменились или сорвались:
+  - *I **was going to** phone you, but my battery died.* — Я собирался тебе позвонить, но у меня сел телефон.
+  - *We **were going to** go to Spain, but we went to Italy instead.* — Мы собирались в Испанию, но поехали в Италию.
+
+  ## would — прогнозы и обещания в прошлом
+  - *I knew you **would** like this film.* — Я знал, что тебе понравится этот фильм.
+  - *He promised he **wouldn't** be late.* — Он обещал, что не опоздает.
+  - *Little did they know that the war **would** last six years.* — Они и не подозревали, что война продлится шесть лет.
+
+  > В русском «знал, что понравится» — будущее время. В английском после прошедшего глагола нужно **would**, а не will.
+
+  ## was/were to + глагол — судьба (книжный стиль)
+  - *They met in 1920. Ten years later, they **were to** become husband and wife.* — Они познакомились в 1920 году. Через десять лет им суждено было стать мужем и женой.
+  - *He left home at sixteen. He **was never to** see his parents again.* — Он ушёл из дома в шестнадцать. Больше ему не суждено было увидеть родителей.
+examples:
+  - "I *was going to* buy that dress, but someone else bought it first. | Я собиралась купить то платье, но его купили раньше."
+  - "She said she *would* call me later. | Она сказала, что перезвонит мне позже."
+  - "I knew it *would* rain. | Я знал, что пойдёт дождь."
+  - "We *were about to* go out when the phone rang. | Мы уже собирались выйти, когда зазвонил телефон."
+  - "Our flight *was leaving* at six, so we got up at three. | Наш рейс вылетал в шесть, поэтому мы встали в три."
+  - "Nobody knew then that she *was to* become a famous writer. | Тогда никто не знал, что ей суждено стать знаменитой писательницей."
+exercises:
+  - type: choice
+    q: "I ___ visit you yesterday, but I had to work late."
+    options: ["am going to", "was going to", "will"]
+    answer: 1
+  - type: choice
+    q: "He promised he ___ help me."
+    options: ["will", "would", "is going to"]
+    answer: 1
+  - type: choice
+    q: "We ___ leave when it started to snow."
+    options: ["were about to", "are about to", "will be about to"]
+    answer: 0
+  - type: choice
+    q: "I was sure you ___ the exam. Congratulations!"
+    options: ["will pass", "would pass", "passed"]
+    answer: 1
+  - type: choice
+    q: "They said goodbye at the station. They ___ never to meet again."
+    options: ["were", "would", "had"]
+    answer: 0
+  - type: input
+    q: "She said she ___ (be) back by ten, but she didn't come until midnight."
+    answer: ["would be", "'d be"]
+  - type: input
+    q: "I ___ (go) to call you, but I forgot. Sorry!"
+    answer: ["was going"]
+  - type: cloze
+    text: "I thought the film [[*would/will/is going]] be boring, but it was great."
+  - type: cloze
+    text: "We were going [[*to have/having/have]] a picnic, but it rained."
+  - type: error
+    text: "I knew you {{will=>would}} love this place."
+    explain: "After a past verb (knew) → would."
+    explain_ru: "После глагола в прошедшем (knew) → would."
+  - type: error
+    text: "He {{is going to=>was going to}} come yesterday, but he got ill."
+  - type: order
+    q: "Составьте: «Я собирался тебе написать»."
+    answer: "I was going to write to you."
+  - type: match
+    q: "Match the present and past forms"
+    pairs:
+      - ["will", "would"]
+      - ["am going to", "was going to"]
+      - ["am about to", "was about to"]
+  - type: tf
+    items:
+      - ["“I was going to call” often means I didn't call.", true]
+      - ["“He said he will come” is the usual reported form.", false]
+  - type: listen
+    audio: "We were going to drive to the coast, but the car broke down, so we took the train instead."
+    q: "How did they travel in the end?"
+    options: ["by car", "by train", "they didn't go"]
+    answer: 1
+  - type: speak
+    answer: "I was going to call you, but I forgot."
+    ru: "Я собирался тебе позвонить, но забыл."

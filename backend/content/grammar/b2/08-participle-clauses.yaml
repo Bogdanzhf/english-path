@@ -1,0 +1,118 @@
+title: "Participle Clauses"
+title_ru: "Причастные обороты"
+section: clauses
+summary: "Walking home, I saw… / Having finished, she left. / Built in 1900, the house…"
+summary_ru: "Идя домой, я увидел… / Закончив, она ушла. / Построенный в 1900 году, дом…"
+theory: |
+  Participle clauses make sentences shorter and more elegant. They are common in written English.
+
+  ## Present participle (-ing) — active, same time
+  - ***Walking** home, I saw an accident.* = While I was walking home…
+  - ***Feeling** tired, she went to bed early.* = Because she felt tired…
+  - *The man **sitting** next to me was snoring.* = who was sitting…
+
+  ## Perfect participle (having + V3) — one action before another
+  - ***Having finished** her work, she went home.* = After she had finished…
+  - ***Having lived** in Spain, he speaks Spanish well.* = Because he has lived…
+
+  ## Past participle (V3) — passive meaning
+  - ***Built** in 1900, the house needs repairs.* = The house, which was built in 1900, …
+  - *The book, **written** by a teenager, became a bestseller.*
+  - ***Shocked** by the news, he couldn't speak.*
+
+  ## Negative: not + participle
+  ***Not knowing** what to do, I called my father.*
+
+  ## Important rule: the same subject!
+  The subject of the participle clause must be the same as the main clause.
+  - ✓ ***Walking** to school, **I** saw a fox.* (I was walking)
+  - ✗ ~~*Walking to school, a fox crossed the road.*~~ (the fox wasn't walking to school!)
+theory_ru: |
+  Причастные обороты делают предложения короче и изящнее. Они характерны для письменной речи. Многие соответствуют русским деепричастным и причастным оборотам.
+
+  ## Причастие настоящего времени (-ing) — активное, одновременное действие
+  - ***Walking** home, I saw an accident.* — Идя домой, я увидел аварию. (= While I was walking home…)
+  - ***Feeling** tired, she went to bed early.* — Чувствуя усталость, она рано легла спать. (= Because she felt tired…)
+  - *The man **sitting** next to me was snoring.* — Мужчина, сидевший рядом со мной, храпел.
+
+  ## Перфектное причастие (having + V3) — одно действие раньше другого
+  - ***Having finished** her work, she went home.* — Закончив работу, она пошла домой.
+  - ***Having lived** in Spain, he speaks Spanish well.* — Пожив в Испании, он хорошо говорит по-испански.
+
+  ## Причастие прошедшего времени (V3) — страдательное значение
+  - ***Built** in 1900, the house needs repairs.* — Построенный в 1900 году, дом нуждается в ремонте.
+  - *The book, **written** by a teenager, became a bestseller.* — Книга, написанная подростком, стала бестселлером.
+  - ***Shocked** by the news, he couldn't speak.* — Потрясённый новостью, он не мог говорить.
+
+  ## Отрицание: not + причастие
+  ***Not knowing** what to do, I called my father.* — Не зная, что делать, я позвонил отцу.
+
+  ## Важное правило: тот же субъект!
+  Подлежащее причастного оборота должно совпадать с подлежащим главного предложения (как и с русским деепричастием).
+  - ✓ ***Walking** to school, **I** saw a fox.* — Идя в школу, я увидел лису.
+  - ✗ ~~*Walking to school, a fox crossed the road.*~~ — получается, что в школу шла лиса!
+examples:
+  - "*Looking* out of the window, she saw her old friend. | Выглянув в окно, она увидела старую подругу."
+  - "*Having lost* his keys, he had to wait outside. | Потеряв ключи, он был вынужден ждать на улице."
+  - "*Made* in Italy, these shoes are very expensive. | Эти туфли, сделанные в Италии, очень дорогие."
+  - "The woman *talking* to the manager is my aunt. | Женщина, которая разговаривает с менеджером, — моя тётя."
+  - "*Not wanting* to wake anyone, I crept upstairs. | Не желая никого будить, я прокрался наверх."
+  - "*Surrounded* by mountains, the village is very peaceful. | Окружённая горами, деревня очень спокойная."
+exercises:
+  - type: choice
+    q: "___ the door, she found a letter on the floor."
+    options: ["Opening", "Opened", "Having opened"]
+    answer: 0
+  - type: choice
+    q: "___ all his money, he had to walk home."
+    options: ["Spending", "Having spent", "Spent"]
+    answer: 1
+  - type: choice
+    q: "___ in 1889, the Eiffel Tower is the symbol of Paris."
+    options: ["Building", "Built", "Having built"]
+    answer: 1
+  - type: choice
+    q: "The girl ___ in the corner is my sister."
+    options: ["sits", "sitting", "sat"]
+    answer: 1
+  - type: choice
+    q: "Which sentence is correct?"
+    options: ["Running for the bus, my bag fell open.", "Running for the bus, I dropped my bag.", "Ran for the bus, I dropped my bag."]
+    answer: 1
+  - type: input
+    q: "___ (not / know) the way, we asked a police officer."
+    answer: ["Not knowing"]
+  - type: input
+    q: "___ (finish) the exam, the students left the room. (perfect participle)"
+    answer: ["Having finished"]
+  - type: cloze
+    text: "[[*Written/Writing/Having writing]] in simple English, the book is easy to read."
+  - type: cloze
+    text: "[[*Feeling/Felt/Having feel]] hungry, he made himself a sandwich."
+  - type: error
+    text: "{{Having finish=>Having finished}} dinner, we went for a walk."
+    explain: "Perfect participle = having + V3."
+    explain_ru: "Перфектное причастие = having + V3."
+  - type: error
+    text: "The letters {{writing=>written}} by Mozart are in the museum."
+  - type: order
+    q: "Составьте: «Прочитав письмо, она заплакала»."
+    answer: "Having read the letter she started to cry."
+  - type: match
+    q: "Match the long and short versions"
+    pairs:
+      - ["After he had eaten,", "Having eaten,"]
+      - ["Because she felt ill,", "Feeling ill,"]
+      - ["The car, which was made in Japan,", "The car, made in Japan,"]
+  - type: tf
+    items:
+      - ["Past participle clauses usually have a passive meaning.", true]
+      - ["The participle can have a different subject from the main clause.", false]
+  - type: listen
+    audio: "Having worked as a nurse for twenty years, she knew exactly what to do."
+    q: "Why did she know what to do?"
+    options: ["She had read about it.", "She had worked as a nurse for a long time.", "Someone told her."]
+    answer: 1
+  - type: speak
+    answer: "Walking along the beach, I found a beautiful shell."
+    ru: "Гуляя по пляжу, я нашёл красивую ракушку."
