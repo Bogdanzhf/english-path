@@ -1,0 +1,122 @@
+# Тест на определение уровня: адаптивная лестница A1 → C2.
+# Каждый вопрос — обычное упражнение (choice/cloze/input/...) с полем level.
+
+# ---------- A1 ----------
+- {level: a1, type: choice, q: "My name ___ Anna.", options: ["am", "is", "are"], answer: 1}
+- {level: a1, type: choice, q: "They ___ from Spain.", options: ["is", "am", "are"], answer: 2}
+- {level: a1, type: choice, q: "___ you like coffee?", options: ["Does", "Do", "Are"], answer: 1}
+- {level: a1, type: choice, q: "She ___ in a bank.", options: ["work", "works", "working"], answer: 1}
+- {level: a1, type: choice, q: "There ___ two books on the table.", options: ["is", "are", "be"], answer: 1}
+- {level: a1, type: choice, q: "I have ___ apple.", options: ["a", "an", "the"], answer: 1}
+- {level: a1, type: choice, q: "This is my sister. ___ name is Kate.", options: ["His", "Her", "Its"], answer: 1}
+- {level: a1, type: choice, q: "We go to school ___ Monday.", options: ["in", "at", "on"], answer: 2}
+- {level: a1, type: choice, q: "Look! The children ___ in the garden.", options: ["play", "are playing", "plays"], answer: 1}
+- {level: a1, type: choice, q: "I ___ swim, but I can run fast.", options: ["can't", "don't", "am not"], answer: 0}
+- {level: a1, type: choice, q: "Yesterday I ___ to the cinema.", options: ["go", "went", "goes"], answer: 1}
+- {level: a1, type: choice, q: "What is the opposite of “hot”?", options: ["warm", "cold", "big"], answer: 1}
+- {level: a1, type: choice, q: "How ___ is this bag? — It's ten pounds.", options: ["many", "much", "old"], answer: 1}
+- {level: a1, type: choice, q: "He ___ got a dog.", options: ["have", "has", "is"], answer: 1}
+- {level: a1, type: choice, q: "A person who works in a hospital and helps doctors is a…", options: ["teacher", "nurse", "driver"], answer: 1}
+- {level: a1, type: input, q: "one, two, three, ___", answer: ["four"]}
+- {level: a1, type: cloze, text: "I [[*was/were/am]] tired yesterday."}
+- {level: a1, type: choice, q: "Where ___ you live?", options: ["are", "do", "is"], answer: 1}
+
+# ---------- A2 ----------
+- {level: a2, type: choice, q: "I ___ TV when you called.", options: ["watched", "was watching", "am watching"], answer: 1}
+- {level: a2, type: choice, q: "Have you ever ___ to Paris?", options: ["went", "been", "go"], answer: 1}
+- {level: a2, type: choice, q: "This is the ___ film I've ever seen.", options: ["better", "best", "good"], answer: 1}
+- {level: a2, type: choice, q: "You ___ wear a seatbelt. It's the law.", options: ["must", "might", "could"], answer: 0}
+- {level: a2, type: choice, q: "If it rains, we ___ at home.", options: ["stay", "will stay", "stayed"], answer: 1}
+- {level: a2, type: choice, q: "I'm looking forward ___ you.", options: ["to see", "to seeing", "seeing"], answer: 1}
+- {level: a2, type: choice, q: "She's ___ than her brother.", options: ["taller", "more tall", "tallest"], answer: 0}
+- {level: a2, type: choice, q: "I ___ live in London, but now I live in Leeds.", options: ["use to", "used to", "was used"], answer: 1}
+- {level: a2, type: choice, q: "We've lived here ___ 2015.", options: ["for", "since", "from"], answer: 1}
+- {level: a2, type: choice, q: "There isn't ___ milk left.", options: ["some", "any", "many"], answer: 1}
+- {level: a2, type: choice, q: "The man ___ lives next door is a doctor.", options: ["which", "who", "where"], answer: 1}
+- {level: a2, type: choice, q: "I'm going ___ my grandmother this weekend.", options: ["visit", "to visit", "visiting"], answer: 1}
+- {level: a2, type: choice, q: "Please turn ___ the light — it's dark.", options: ["on", "up", "in"], answer: 0}
+- {level: a2, type: choice, q: "He drives very ___.", options: ["careful", "carefully", "care"], answer: 1}
+- {level: a2, type: choice, q: "I ___ already finished my homework.", options: ["did", "have", "was"], answer: 1}
+- {level: a2, type: choice, q: "A place where you can borrow books is a…", options: ["bookshop", "library", "museum"], answer: 1}
+- {level: a2, type: input, q: "write — wrote — ___", answer: ["written"]}
+- {level: a2, type: cloze, text: "It [[*might/must/can]] rain later, so take an umbrella just in case."}
+
+# ---------- B1 ----------
+- {level: b1, type: choice, q: "I've been waiting here ___ two hours.", options: ["since", "for", "during"], answer: 1}
+- {level: b1, type: choice, q: "If I ___ more money, I would buy a car.", options: ["have", "had", "would have"], answer: 1}
+- {level: b1, type: choice, q: "When we arrived, the film ___.", options: ["already started", "had already started", "has already started"], answer: 1}
+- {level: b1, type: choice, q: "The house ___ in 1900.", options: ["built", "was built", "has built"], answer: 1}
+- {level: b1, type: choice, q: "She said she ___ tired.", options: ["is", "was", "be"], answer: 1}
+- {level: b1, type: choice, q: "He ___ be at home — his car is outside.", options: ["can't", "must", "should"], answer: 1}
+- {level: b1, type: choice, q: "You're a teacher, ___?", options: ["are you", "aren't you", "don't you"], answer: 1}
+- {level: b1, type: choice, q: "I wish I ___ speak Chinese.", options: ["can", "could", "would"], answer: 1}
+- {level: b1, type: choice, q: "I'm not used to ___ up so early.", options: ["get", "getting", "got"], answer: 1}
+- {level: b1, type: choice, q: "It was ___ a hot day that we went to the beach.", options: ["so", "such", "too"], answer: 1}
+- {level: b1, type: choice, q: "Could you tell me where ___?", options: ["is the station", "the station is", "does the station"], answer: 1}
+- {level: b1, type: choice, q: "___ it was raining, we went for a walk.", options: ["Despite", "Although", "However"], answer: 1}
+- {level: b1, type: choice, q: "I had my hair ___ yesterday.", options: ["cut", "cutting", "to cut"], answer: 0}
+- {level: b1, type: choice, q: "He stopped ___ when he became ill.", options: ["to smoke", "smoking", "smoke"], answer: 1}
+- {level: b1, type: choice, q: "A person who is always worried that something bad will happen is…", options: ["anxious", "generous", "brave"], answer: 0}
+- {level: b1, type: choice, q: "“Reluctant” means…", options: ["happy to do something", "not wanting to do something", "very fast"], answer: 1}
+- {level: b1, type: input, q: "By next year, I ___ (finish) university. (Future Perfect)", answer: ["will have finished", "'ll have finished"]}
+- {level: b1, type: cloze, text: "Paris, [[*which/that/where]] is the capital of France, is beautiful in spring."}
+
+# ---------- B2 ----------
+- {level: b2, type: choice, q: "If I had known, I ___ you.", options: ["would help", "would have helped", "had helped"], answer: 1}
+- {level: b2, type: choice, q: "If I had taken that job, I ___ rich now.", options: ["would be", "would have been", "will be"], answer: 0}
+- {level: b2, type: choice, q: "The thief is believed ___ the country.", options: ["to leave", "to have left", "leaving"], answer: 1}
+- {level: b2, type: choice, q: "You ___ have told me! I would have helped.", options: ["should", "must", "can"], answer: 0}
+- {level: b2, type: choice, q: "Take a coat ___ it gets cold.", options: ["unless", "in case", "provided"], answer: 1}
+- {level: b2, type: choice, q: "___ finished his work, he went home.", options: ["Having", "Being", "Had"], answer: 0}
+- {level: b2, type: choice, q: "He denied ___ the money.", options: ["to take", "taking", "take"], answer: 1}
+- {level: b2, type: choice, q: "I hate ___ what to do.", options: ["telling", "being told", "to tell"], answer: 1}
+- {level: b2, type: choice, q: "She has three brothers, all of ___ are doctors.", options: ["them", "whom", "who"], answer: 1}
+- {level: b2, type: choice, q: "The ___ you practise, the better you get.", options: ["most", "more", "much"], answer: 1}
+- {level: b2, type: choice, q: "I ___ call you, but I forgot.", options: ["was going to", "am going to", "will"], answer: 0}
+- {level: b2, type: choice, q: "Neither of my parents ___ French.", options: ["speak", "speaks", "don't speak"], answer: 1}
+- {level: b2, type: choice, q: "Parking here is ___ — you'll get a fine.", options: ["unlegal", "illegal", "dislegal"], answer: 1}
+- {level: b2, type: choice, q: "By June, I'll ___ here for ten years.", options: ["work", "have been working", "be worked"], answer: 1}
+- {level: b2, type: choice, q: "“Inevitable” means…", options: ["certain to happen", "impossible", "unlikely"], answer: 0}
+- {level: b2, type: choice, q: "Scientists are trying to find a ___ for the disease.", options: ["cure", "care", "core"], answer: 0}
+- {level: b2, type: input, q: "She suggested ___ (go) to the cinema.", answer: ["going"]}
+- {level: b2, type: cloze, text: "The project was a success, [[*albeit/although/despite]] a small one."}
+
+# ---------- C1 ----------
+- {level: c1, type: choice, q: "Never ___ such a beautiful view.", options: ["I have seen", "have I seen", "I saw"], answer: 1}
+- {level: c1, type: choice, q: "___ I known, I would have come earlier.", options: ["If", "Had", "Should"], answer: 1}
+- {level: c1, type: choice, q: "It was my brother ___ broke the window.", options: ["what", "who", "which"], answer: 1}
+- {level: c1, type: choice, q: "What I need ___ a long holiday.", options: ["are", "is", "be"], answer: 1}
+- {level: c1, type: choice, q: "The doctor insisted that he ___ in bed.", options: ["stays", "stay", "stayed"], answer: 1}
+- {level: c1, type: choice, q: "It's high time we ___ home.", options: ["go", "went", "will go"], answer: 1}
+- {level: c1, type: choice, q: "There ___ to be a problem with your account.", options: ["seems", "seem", "is seeming"], answer: 0}
+- {level: c1, type: choice, q: "Not only ___ late, but he also forgot the tickets.", options: ["he was", "was he", "he did"], answer: 1}
+- {level: c1, type: choice, q: "I was ___ if you could help me.", options: ["wondering", "wonder", "wondered"], answer: 0}
+- {level: c1, type: choice, q: "The success of the project depends ___ funding.", options: ["from", "on", "of"], answer: 1}
+- {level: c1, type: choice, q: "It's ___ unlikely that he'll come.", options: ["highly", "deeply", "bitterly"], answer: 0}
+- {level: c1, type: choice, q: "I can't put ___ with this noise any longer.", options: ["off", "up", "on"], answer: 1}
+- {level: c1, type: choice, q: "A person who believes people are only motivated by selfishness is…", options: ["cynical", "naive", "generous"], answer: 0}
+- {level: c1, type: choice, q: "“Ambiguous” means…", options: ["clear", "having more than one possible meaning", "aggressive"], answer: 1}
+- {level: c1, type: choice, q: "The talks broke down, and ___, no agreement was reached.", options: ["consequently", "whereas", "albeit"], answer: 0}
+- {level: c1, type: choice, q: "He apologised ___ being late.", options: ["of", "for", "about to"], answer: 1}
+- {level: c1, type: input, q: "Hardly ___ we arrived when it started to rain. (one word)", answer: ["had"]}
+- {level: c1, type: cloze, text: "But [[*for/of/with]] your help, I would have failed."}
+
+# ---------- C2 ----------
+- {level: c2, type: choice, q: "___ was his anger that he couldn't speak.", options: ["So", "Such", "Too"], answer: 1}
+- {level: c2, type: choice, q: "Strange ___ it may seem, I've never seen the sea.", options: ["as", "so", "like"], answer: 0}
+- {level: c2, type: choice, q: "They were to ___ in June, but the wedding was cancelled.", options: ["marry", "have married", "be marrying"], answer: 1}
+- {level: c2, type: choice, q: "___ permitting, we'll eat outside.", options: ["Weather", "The weather is", "If weather"], answer: 0}
+- {level: c2, type: choice, q: "He ___ keep interrupting! It drives me mad.", options: ["will", "shall", "would to"], answer: 0}
+- {level: c2, type: choice, q: "The plan was risky; ___, it succeeded.", options: ["notwithstanding", "nonetheless", "albeit"], answer: 1}
+- {level: c2, type: choice, q: "We stayed in a ___ hotel.", options: ["five-stars", "five-star", "five star's"], answer: 1}
+- {level: c2, type: choice, q: "Which sentence is correctly punctuated?", options: ["He said, that he was tired.", "He said that he was tired.", "He said; that he was tired."], answer: 1}
+- {level: c2, type: choice, q: "Choose the natural collocation:", options: ["make research", "do research", "take research"], answer: 1}
+- {level: c2, type: choice, q: "“Let the cat out of the bag” means…", options: ["reveal a secret", "buy a pet", "make a mistake"], answer: 0}
+- {level: c2, type: choice, q: "Which word is the most formal equivalent of “put off”?", options: ["delay a bit", "postpone", "push back"], answer: 1}
+- {level: c2, type: choice, q: "“Ubiquitous” is closest in meaning to…", options: ["rare", "found everywhere", "dangerous"], answer: 1}
+- {level: c2, type: choice, q: "A “paradox” is…", options: ["a statement that seems contradictory but may be true", "a type of poem", "a mathematical formula"], answer: 0}
+- {level: c2, type: choice, q: "Try ___ he might, he couldn't open the door.", options: ["as", "though", "so"], answer: 0}
+- {level: c2, type: choice, q: "“Hence” most nearly means…", options: ["however", "for this reason", "in addition"], answer: 1}
+- {level: c2, type: choice, q: "Much ___ I admire her work, I can't agree with her.", options: ["as", "though", "so"], answer: 0}
+- {level: c2, type: input, q: "Be that as it ___, we still need a decision. (one word)", answer: ["may"]}
+- {level: c2, type: cloze, text: "You will [[*have heard/hear/be heard]] the news by now, I'm sure."}
