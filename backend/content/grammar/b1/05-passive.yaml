@@ -1,0 +1,125 @@
+title: "The Passive Voice"
+title_ru: "Страдательный залог (Passive Voice)"
+section: passive
+summary: "English is spoken here. The bridge was built in 1890."
+summary_ru: "Здесь говорят по-английски. Мост был построен в 1890 году."
+theory: |
+  ## Form: be + past participle (V3)
+  The tense is shown by the verb **be**:
+  | Tense | Active | Passive |
+  |---|---|---|
+  | Present Simple | They **make** cars here. | Cars **are made** here. |
+  | Past Simple | They **built** it in 1890. | It **was built** in 1890. |
+  | Present Continuous | They **are painting** the room. | The room **is being painted**. |
+  | Present Perfect | Someone **has stolen** my bike. | My bike **has been stolen**. |
+  | Future | They **will open** the shop. | The shop **will be opened**. |
+  | Modal | You **must wear** a helmet. | A helmet **must be worn**. |
+
+  ## When do we use the passive?
+  1. When we don't know **who** did the action, or it isn't important: *My wallet **was stolen**.*
+  2. When the action or the object is more important than the person: *The Mona Lisa **was painted** in the 16th century.*
+  3. In news, science and formal writing: *The results **were published** yesterday.*
+
+  ## by + agent
+  If we want to say who did it, we use **by**: *Hamlet **was written by** Shakespeare.* We often leave it out when it's obvious: *He was arrested* (by the police — obvious).
+
+  ## Questions and negatives
+  - ***Was** the window **broken** by the wind?*
+  - *The letter **wasn't sent**.*
+  - *Where **were** these photos **taken**?*
+theory_ru: |
+  ## Форма: be + третья форма глагола (V3)
+  Время показывает глагол **be**:
+  | Время | Действительный залог | Страдательный залог |
+  |---|---|---|
+  | Present Simple | They **make** cars here. | Cars **are made** here. — Здесь делают машины. |
+  | Past Simple | They **built** it in 1890. | It **was built** in 1890. — Его построили в 1890 году. |
+  | Present Continuous | They **are painting** the room. | The room **is being painted**. — Комнату сейчас красят. |
+  | Present Perfect | Someone **has stolen** my bike. | My bike **has been stolen**. — Мой велосипед украли. |
+  | Future | They **will open** the shop. | The shop **will be opened**. — Магазин откроют. |
+  | Модальный глагол | You **must wear** a helmet. | A helmet **must be worn**. — Шлем обязателен. |
+
+  ## Когда нужен пассив?
+  1. Мы не знаем, **кто** сделал действие, или это неважно: *My wallet **was stolen**.* — У меня украли кошелёк.
+  2. Важнее само действие или предмет, чем исполнитель: *The Mona Lisa **was painted** in the 16th century.* — «Мона Лиза» написана в XVI веке.
+  3. В новостях, науке и официальных текстах: *The results **were published** yesterday.* — Результаты опубликовали вчера.
+
+  Русские неопределённо-личные предложения («здесь говорят», «его арестовали», «мне подарили») обычно переводятся пассивом: *English **is spoken** here. He **was arrested**. I **was given** a present.*
+
+  ## by + исполнитель
+  Чтобы сказать, кем сделано, используем **by**: *Hamlet **was written by** Shakespeare.* — «Гамлет» написан Шекспиром. Если и так понятно, by опускают: *He was arrested* (ясно, что полицией).
+
+  ## Вопросы и отрицания
+  - ***Was** the window **broken** by the wind?* — Окно разбил ветер?
+  - *The letter **wasn't sent**.* — Письмо не отправили.
+  - *Where **were** these photos **taken**?* — Где сделаны эти фотографии?
+examples:
+  - "English *is spoken* all over the world. | На английском говорят по всему миру."
+  - "This house *was built* in 1750. | Этот дом был построен в 1750 году."
+  - "My car *is being repaired* at the moment. | Мою машину сейчас ремонтируют."
+  - "The thief *has been caught*. | Вора поймали."
+  - "The new bridge *will be opened* next year. | Новый мост откроют в следующем году."
+  - "Romeo and Juliet *was written by* Shakespeare. | «Ромео и Джульетту» написал Шекспир."
+exercises:
+  - type: choice
+    q: "Coffee ___ in Brazil and Colombia."
+    options: ["grows", "is grown", "is growing"]
+    answer: 1
+  - type: choice
+    q: "The Eiffel Tower ___ in 1889."
+    options: ["built", "was built", "is built"]
+    answer: 1
+  - type: choice
+    q: "My phone ___! I can't find it anywhere."
+    options: ["has stolen", "has been stolen", "was stealing"]
+    answer: 1
+  - type: choice
+    q: "The road is closed because it ___ repaired."
+    options: ["is being", "has being", "is been"]
+    answer: 0
+  - type: choice
+    q: "The Harry Potter books were written ___ J.K. Rowling."
+    options: ["from", "by", "with"]
+    answer: 1
+  - type: choice
+    q: "The results ___ announced tomorrow."
+    options: ["will be", "will", "are being be"]
+    answer: 0
+  - type: input
+    q: "Make it passive: Someone cleans the office every day. → The office ___ every day."
+    answer: ["is cleaned"]
+  - type: input
+    q: "Make it passive: They invited 200 guests. → 200 guests ___."
+    answer: ["were invited"]
+  - type: cloze
+    text: "Penicillin [[was discovered]] (discover) by Alexander Fleming in 1928."
+  - type: cloze
+    text: "Where [[*were/did/was]] these photos taken? — They [[*were/did/have]] taken in Iceland."
+  - type: error
+    text: "The letter {{was send=>was sent}} yesterday."
+    explain: "Passive = be + V3 (send → sent)."
+    explain_ru: "Пассив = be + V3 (send → sent)."
+  - type: error
+    text: "Football {{is playing=>is played}} all over the world."
+  - type: order
+    q: "Составьте: «Здание было построено в прошлом году»."
+    answer: "The building was built last year."
+  - type: match
+    q: "Match active and passive"
+    pairs:
+      - ["They make it.", "It is made."]
+      - ["They made it.", "It was made."]
+      - ["They have made it.", "It has been made."]
+      - ["They will make it.", "It will be made."]
+  - type: tf
+    items:
+      - ["In the passive, the tense is shown by the verb “be”.", true]
+      - ["We must always say who did the action with “by”.", false]
+  - type: listen
+    audio: "The museum was opened in 1990, and it is visited by over a million people every year."
+    q: "When was the museum opened?"
+    options: ["in 1909", "in 1990", "a year ago"]
+    answer: 1
+  - type: speak
+    answer: "This house was built in the nineteenth century."
+    ru: "Этот дом был построен в девятнадцатом веке."

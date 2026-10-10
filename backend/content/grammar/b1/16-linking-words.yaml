@@ -1,0 +1,123 @@
+title: "Linking Words: contrast, reason, purpose"
+title_ru: "Связующие слова: противопоставление, причина, цель"
+section: style
+summary: "although, however, despite; because of, due to; so that, in order to"
+summary_ru: "хотя, однако, несмотря на; из-за, благодаря; чтобы"
+theory: |
+  ## Contrast
+  | Word | Structure | Example |
+  |---|---|---|
+  | **although / even though** | + clause | ***Although** it was raining, we went out.* |
+  | **but** | joins two clauses | *It was raining, **but** we went out.* |
+  | **however** | new sentence, + comma | *It was raining. **However**, we went out.* |
+  | **despite / in spite of** | + noun or -ing | ***Despite** the rain, we went out. **In spite of** feeling tired, she kept working.* |
+
+  > Not ~~despite of~~! Say *despite* or *in spite of*.
+
+  ## Reason
+  - **because / as / since** + clause: *I stayed home **because** I was ill.*
+  - **because of / due to** + noun: *The flight was cancelled **because of** the storm.* (due to is more formal)
+
+  ## Purpose
+  - **to / in order to** + verb: *I went to the shop **to buy** milk. She studies hard **in order to** get a scholarship.*
+  - **so that** + clause (often with can/could/will/would): *I'll write it down **so that** I don't forget it.*
+  - Negative purpose: ***so as not to** / **in order not to***: *We left early **so as not to** miss the train.*
+
+  ## Result
+  - **so**: *It was late, **so** we took a taxi.*
+  - **therefore** (formal): *The road was closed. **Therefore**, we were late.*
+theory_ru: |
+  ## Противопоставление
+  | Слово | Что после | Пример |
+  |---|---|---|
+  | **although / even though** — хотя / даже хотя | + придаточное | ***Although** it was raining, we went out.* — Хотя шёл дождь, мы вышли на улицу. |
+  | **but** — но | соединяет две части | *It was raining, **but** we went out.* — Шёл дождь, но мы вышли. |
+  | **however** — однако | новое предложение, + запятая | *It was raining. **However**, we went out.* — Шёл дождь. Однако мы вышли. |
+  | **despite / in spite of** — несмотря на | + существительное или -ing | ***Despite** the rain, we went out.* — Несмотря на дождь, мы вышли. ***In spite of** feeling tired, she kept working.* — Несмотря на усталость, она продолжала работать. |
+
+  > Не ~~despite of~~! Либо *despite*, либо *in spite of*.
+
+  ## Причина
+  - **because / as / since** + придаточное — потому что, так как: *I stayed home **because** I was ill.* — Я остался дома, потому что заболел.
+  - **because of / due to** + существительное — из-за: *The flight was cancelled **because of** the storm.* — Рейс отменили из-за шторма. (due to — более официально)
+
+  ## Цель
+  - **to / in order to** + глагол — чтобы: *I went to the shop **to buy** milk.* — Я пошёл в магазин купить молока. *She studies hard **in order to** get a scholarship.* — Она усердно учится, чтобы получить стипендию.
+  - **so that** + придаточное (часто с can/could/will/would) — чтобы: *I'll write it down **so that** I don't forget it.* — Запишу, чтобы не забыть.
+  - Отрицательная цель — «чтобы не»: ***so as not to** / **in order not to***: *We left early **so as not to** miss the train.* — Мы вышли рано, чтобы не опоздать на поезд.
+
+  > Русское «для того чтобы» + инфинитив → просто **to**: *I came **to help** you* (не ~~for help~~ / ~~for to help~~).
+
+  ## Результат
+  - **so** — поэтому: *It was late, **so** we took a taxi.* — Было поздно, поэтому мы взяли такси.
+  - **therefore** (официально) — следовательно: *The road was closed. **Therefore**, we were late.*
+examples:
+  - "*Although* he's rich, he isn't happy. | Хотя он богат, он не счастлив."
+  - "*Despite* the traffic, we arrived on time. | Несмотря на пробки, мы приехали вовремя."
+  - "The food was great. *However*, the service was slow. | Еда была отличная. Однако обслуживание было медленным."
+  - "The match was cancelled *because of* the snow. | Матч отменили из-за снега."
+  - "I'm saving money *so that* I can travel next year. | Я коплю деньги, чтобы в следующем году поехать путешествовать."
+  - "She went to London *to* study English. | Она поехала в Лондон изучать английский."
+exercises:
+  - type: choice
+    q: "___ it was cold, she wasn't wearing a coat."
+    options: ["Despite", "Although", "However"]
+    answer: 1
+  - type: choice
+    q: "___ the bad weather, we enjoyed the trip."
+    options: ["Although", "Despite", "Because"]
+    answer: 1
+  - type: choice
+    q: "The hotel was expensive. ___, it was very comfortable."
+    options: ["However", "Although", "Despite"]
+    answer: 0
+  - type: choice
+    q: "The train was late ___ a problem with the signals."
+    options: ["because", "because of", "so that"]
+    answer: 1
+  - type: choice
+    q: "I turned on the light ___ I could read."
+    options: ["so that", "in order to", "because of"]
+    answer: 0
+  - type: choice
+    q: "He went to the bank ___ some money."
+    options: ["for get", "to get", "for getting"]
+    answer: 1
+  - type: input
+    q: "In spite ___ the noise, the baby slept well. (one word)"
+    answer: ["of"]
+  - type: input
+    q: "We took a map so as ___ to get lost. (one word)"
+    answer: ["not"]
+  - type: cloze
+    text: "[[*Even though/Despite/In spite of]] he trained hard, he didn't win the race."
+  - type: cloze
+    text: "It started to rain, [[*so/because/although]] we went inside."
+  - type: error
+    text: "{{Despite of=>Despite}} the rain, they played football."
+    explain: "Despite or in spite of — never “despite of”."
+    explain_ru: "Despite или in spite of — но не despite of."
+  - type: error
+    text: "She stayed at home {{because of=>because}} she was ill."
+  - type: order
+    q: "Составьте: «Несмотря на усталость, он закончил работу»."
+    answer: "Despite being tired he finished the work."
+  - type: match
+    q: "Match the word and its meaning"
+    pairs:
+      - ["although", "contrast"]
+      - ["because of", "reason"]
+      - ["so that", "purpose"]
+      - ["therefore", "result"]
+  - type: tf
+    items:
+      - ["“Despite” is followed by a noun or an -ing form.", true]
+      - ["“However” usually joins two parts of the same sentence without a comma.", false]
+  - type: listen
+    audio: "Although the tickets were expensive, we decided to go to the concert because it was our favourite band."
+    q: "Why did they go to the concert?"
+    options: ["The tickets were cheap.", "It was their favourite band.", "A friend invited them."]
+    answer: 1
+  - type: speak
+    answer: "Although it was raining, we went for a walk."
+    ru: "Хотя шёл дождь, мы пошли гулять."

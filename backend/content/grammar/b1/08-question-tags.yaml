@@ -1,0 +1,127 @@
+title: "Question Tags"
+title_ru: "Разделительные вопросы (question tags)"
+section: sentences
+summary: "It's cold, isn't it? You don't smoke, do you?"
+summary_ru: "Холодно, правда? Ты ведь не куришь?"
+theory: |
+  A **question tag** is a short question at the end of a sentence. We use it to check information or to ask someone to agree.
+
+  ## The rule
+  - **Positive** sentence → **negative** tag: *It's cold, **isn't it**?*
+  - **Negative** sentence → **positive** tag: *You don't smoke, **do you**?*
+
+  The tag uses the **auxiliary verb** of the sentence (be, have, do, can, will…) + a **pronoun**:
+  | Sentence | Tag |
+  |---|---|
+  | She **is** French, | **isn't she**? |
+  | They **can** swim, | **can't they**? |
+  | You **have** finished, | **haven't you**? |
+  | He **will** come, | **won't he**? |
+  | You **like** coffee, (no auxiliary → do) | **don't you**? |
+  | She **lived** in Rome, | **didn't she**? |
+
+  ## Special cases
+  - *I'm right, **aren't I**?* (not ~~amn't I~~)
+  - *Let's go, **shall we**?*
+  - *Open the door, **will you**?* (imperative)
+  - *Nobody called, **did they**?* (nobody, nothing, never = negative → positive tag)
+  - *There's a problem, **isn't there**?*
+
+  ## Intonation
+  - Falling ↘ = "I'm sure, please agree": *Lovely day, isn't it?* ↘
+  - Rising ↗ = a real question: *You're coming tomorrow, aren't you?* ↗
+theory_ru: |
+  **Разделительный вопрос** — короткий «хвостик» в конце предложения, как русские «правда?», «да?», «не так ли?», «ведь…». Им проверяют информацию или просят согласиться.
+
+  ## Правило
+  - **Утвердительное** предложение → **отрицательный** хвостик: *It's cold, **isn't it**?* — Холодно, правда?
+  - **Отрицательное** предложение → **утвердительный** хвостик: *You don't smoke, **do you**?* — Ты ведь не куришь?
+
+  В хвостике — **вспомогательный глагол** из предложения (be, have, do, can, will…) + **местоимение**:
+  | Предложение | Хвостик |
+  |---|---|
+  | She **is** French, | **isn't she**? |
+  | They **can** swim, | **can't they**? |
+  | You **have** finished, | **haven't you**? |
+  | He **will** come, | **won't he**? |
+  | You **like** coffee, (нет вспомогательного → do) | **don't you**? |
+  | She **lived** in Rome, | **didn't she**? |
+
+  ## Особые случаи
+  - *I'm right, **aren't I**?* — Я ведь прав? (не ~~amn't I~~)
+  - *Let's go, **shall we**?* — Пойдём, а?
+  - *Open the door, **will you**?* — Открой дверь, ладно? (повелительное наклонение)
+  - *Nobody called, **did they**?* — Никто ведь не звонил? (nobody, nothing, never — уже отрицание → хвостик утвердительный)
+  - *There's a problem, **isn't there**?* — Есть проблема, да?
+
+  ## Интонация
+  - Понижение ↘ = «я уверен, согласись»: *Lovely day, isn't it?* ↘
+  - Повышение ↗ = настоящий вопрос: *You're coming tomorrow, aren't you?* ↗
+examples:
+  - "It's a beautiful day, *isn't it*? | Прекрасный день, правда?"
+  - "You don't eat meat, *do you*? | Ты ведь не ешь мясо?"
+  - "She can speak Chinese, *can't she*? | Она ведь говорит по-китайски?"
+  - "They went to Paris last year, *didn't they*? | Они ведь ездили в Париж в прошлом году?"
+  - "I'm late again, *aren't I*? | Я снова опоздал, да?"
+  - "Let's have a break, *shall we*? | Давай сделаем перерыв?"
+exercises:
+  - type: choice
+    q: "You're a teacher, ___?"
+    options: ["are you", "aren't you", "don't you"]
+    answer: 1
+  - type: choice
+    q: "He doesn't like fish, ___?"
+    options: ["does he", "doesn't he", "is he"]
+    answer: 0
+  - type: choice
+    q: "They have been to Japan, ___?"
+    options: ["don't they", "haven't they", "aren't they"]
+    answer: 1
+  - type: choice
+    q: "She called you yesterday, ___?"
+    options: ["didn't she", "doesn't she", "wasn't she"]
+    answer: 0
+  - type: choice
+    q: "I'm right, ___?"
+    options: ["amn't I", "aren't I", "am I not"]
+    answer: 1
+  - type: choice
+    q: "Nobody saw us, ___?"
+    options: ["didn't they", "did they", "did nobody"]
+    answer: 1
+  - type: input
+    q: "You can drive, ___?"
+    answer: ["can't you"]
+  - type: input
+    q: "It won't rain, ___?"
+    answer: ["will it"]
+  - type: cloze
+    text: "Let's go to the cinema, [[*shall we/will we/don't we]]?"
+  - type: cloze
+    text: "There isn't any milk, [[*is there/isn't there/is it]]?"
+  - type: error
+    text: "You live in London, {{isn't it=>don't you}}?"
+    explain: "Live → auxiliary do; you → you."
+    explain_ru: "Live → вспомогательный do; местоимение то же — you."
+  - type: error
+    text: "She has finished, {{doesn't she=>hasn't she}}?"
+  - type: match
+    q: "Match the sentence and the tag"
+    pairs:
+      - ["She's from Spain,", "isn't she?"]
+      - ["You didn't call,", "did you?"]
+      - ["He'll help us,", "won't he?"]
+      - ["They can't swim,", "can they?"]
+  - type: tf
+    items:
+      - ["A positive sentence has a negative tag.", true]
+      - ["After an imperative we can use “will you?”.", true]
+      - ["“You never smoke, don't you?” is correct.", false]
+  - type: listen
+    audio: "You've met my sister before, haven't you?"
+    q: "Which tag did you hear?"
+    options: ["have you", "haven't you", "didn't you"]
+    answer: 1
+  - type: speak
+    answer: "It is a lovely day, isn't it?"
+    ru: "Чудесный день, правда?"

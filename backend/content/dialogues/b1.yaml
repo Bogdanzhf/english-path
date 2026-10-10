@@ -1,0 +1,240 @@
+- id: b1-making-a-complaint
+  title: "Making a complaint"
+  title_ru: "Жалоба в ресторане"
+  scene: "Laura is unhappy with her meal and speaks to the manager."
+  scene_ru: "Лора недовольна блюдом и обращается к менеджеру."
+  speakers: {Laura: f-uk, Manager: m-uk}
+  lines:
+    - "Laura: Excuse me, could I speak to the manager, please? | Простите, можно мне поговорить с менеджером?"
+    - "Manager: I'm the manager. Is something wrong? | Я менеджер. Что-то не так?"
+    - "Laura: I'm afraid so. I ordered the steak medium, but it's completely overcooked. And we've been waiting for over forty minutes. | Боюсь, что да. Я заказывала стейк средней прожарки, а он совершенно пережарен. И мы ждали больше сорока минут."
+    - "Manager: I'm terribly sorry about that. We're very busy tonight, but that's no excuse. | Приношу глубочайшие извинения. У нас сегодня очень много гостей, но это не оправдание."
+    - "Laura: I understand it's busy, but this isn't what I ordered. | Понимаю, что много народу, но это не то, что я заказывала."
+    - "Manager: Of course. Would you like me to get the chef to cook you another one? It'll only take ten minutes. | Конечно. Хотите, чтобы шеф приготовил вам другой? Это займёт всего десять минут."
+    - "Laura: Yes, please. But I'd rather not wait another forty minutes. | Да, пожалуйста. Но мне бы не хотелось ждать ещё сорок минут."
+    - "Manager: I promise it'll be quick. And of course, your main course will be free tonight. | Обещаю, это будет быстро. И, конечно, основное блюдо сегодня за наш счёт."
+    - "Laura: That's very kind of you. Thank you. | Это очень любезно с вашей стороны. Спасибо."
+    - "Manager: Can I bring you some drinks while you wait? On the house. | Принести вам напитки, пока вы ждёте? За счёт заведения."
+    - "Laura: Two glasses of water would be fine, thanks. | Два стакана воды будет достаточно, спасибо."
+    - "Manager: Right away. Again, I apologise for the inconvenience. | Сейчас же. Ещё раз прошу прощения за неудобства."
+  phrases:
+    - "Could I speak to the manager, please? | Можно поговорить с менеджером?"
+    - "I'm afraid there's a problem with… | Боюсь, есть проблема с…"
+    - "This isn't what I ordered. | Это не то, что я заказывал."
+    - "I'm terribly sorry about that. | Приношу глубочайшие извинения."
+    - "It's on the house. | Это за счёт заведения."
+    - "I apologise for the inconvenience. | Прошу прощения за неудобства."
+  exercises:
+    - type: choice
+      q: "What was wrong with Laura's steak?"
+      options: ["It was cold", "It was overcooked", "It was too small"]
+      answer: 1
+    - type: choice
+      q: "How long had they been waiting?"
+      options: ["ten minutes", "over forty minutes", "an hour and a half"]
+      answer: 1
+    - type: choice
+      q: "What does the manager offer?"
+      options: ["a discount on the next visit", "a free main course and drinks", "a different restaurant"]
+      answer: 1
+
+- id: b1-renting-a-flat
+  title: "Viewing a flat"
+  title_ru: "Осмотр квартиры"
+  scene: "Daniel is looking for a flat to rent and meets the landlady."
+  scene_ru: "Дэниел ищет квартиру и встречается с хозяйкой."
+  speakers: {Landlady: f-us, Daniel: m-us}
+  lines:
+    - "Landlady: Hi, you must be Daniel. Come in. This is the living room. | Здравствуйте, вы, должно быть, Дэниел. Проходите. Это гостиная."
+    - "Daniel: Oh, it's bigger than it looked in the photos. And there's a lot of light. | О, она больше, чем казалась на фотографиях. И много света."
+    - "Landlady: Yes, the windows face south, so it's sunny most of the day. The kitchen is through here. | Да, окна выходят на юг, так что солнце почти весь день. Кухня вот здесь."
+    - "Daniel: Is the flat furnished? | Квартира с мебелью?"
+    - "Landlady: Partly. The sofa, the bed and the kitchen appliances stay. You'd need to bring everything else. | Частично. Диван, кровать и кухонная техника остаются. Всё остальное нужно привезти своё."
+    - "Daniel: How much is the rent, exactly? | Сколько именно стоит аренда?"
+    - "Landlady: It's nine hundred a month, and bills aren't included. There's also a deposit of one month's rent. | Девятьсот в месяц, коммунальные услуги не включены. Ещё залог в размере месячной платы."
+    - "Daniel: I see. Roughly how much are the bills? | Понятно. А сколько примерно выходят коммунальные?"
+    - "Landlady: The last tenant paid about a hundred and twenty a month, including internet. | Прошлый жилец платил около ста двадцати в месяц, включая интернет."
+    - "Daniel: And are pets allowed? I have a cat. | А с животными можно? У меня кошка."
+    - "Landlady: A cat should be fine, as long as it doesn't damage anything. | Кошка — нормально, лишь бы ничего не портила."
+    - "Daniel: Great. I'm really interested. When would it be available? | Отлично. Мне очень интересно. Когда она будет свободна?"
+    - "Landlady: From the first of next month. Let me know by Friday if you want it. | С первого числа следующего месяца. Дайте мне знать до пятницы, если решите снять."
+  phrases:
+    - "Is the flat furnished? | Квартира с мебелью?"
+    - "How much is the rent? | Сколько стоит аренда?"
+    - "Are bills included? | Коммунальные услуги включены?"
+    - "There's a deposit of one month's rent. | Залог — месячная плата."
+    - "Are pets allowed? | Можно с животными?"
+    - "When would it be available? | Когда она освободится?"
+  exercises:
+    - type: choice
+      q: "Why is the living room sunny?"
+      options: ["It has big lights", "The windows face south", "It's on the top floor"]
+      answer: 1
+    - type: choice
+      q: "How much is the rent?"
+      options: ["£120 a month", "£900 a month", "£1,020 a month including bills"]
+      answer: 1
+    - type: choice
+      q: "What does Daniel have?"
+      options: ["a dog", "a cat", "a lot of furniture"]
+      answer: 1
+
+- id: b1-changing-plans
+  title: "Changing plans"
+  title_ru: "Планы меняются"
+  scene: "Mia phones her friend Jack to change their weekend plans."
+  scene_ru: "Мия звонит другу Джеку, чтобы поменять планы на выходные."
+  speakers: {Mia: f-us, Jack: m-uk}
+  lines:
+    - "Jack: Hello? | Алло?"
+    - "Mia: Hi, Jack, it's Mia. Listen, I'm really sorry, but I can't make it on Saturday. | Привет, Джек, это Мия. Слушай, мне очень жаль, но в субботу я не смогу."
+    - "Jack: Oh no, what's happened? | Ой, что случилось?"
+    - "Mia: My boss has asked me to work this weekend. We've got a big deadline on Monday. | Начальник попросил меня поработать в эти выходные. У нас в понедельник крупный дедлайн."
+    - "Jack: That's a shame. I've already booked the tickets for the exhibition. | Жаль. Я уже забронировал билеты на выставку."
+    - "Mia: I know, I feel terrible. Could we change them to next weekend? | Знаю, мне ужасно неловко. Может, перенесём их на следующие выходные?"
+    - "Jack: I'm not sure. Let me check the website… Yes, it looks like we can swap them for a small fee. | Не уверен. Сейчас посмотрю на сайте… Да, кажется, их можно поменять за небольшую доплату."
+    - "Mia: I'll pay the fee, of course. It's my fault. | Доплату я, конечно, возьму на себя. Это моя вина."
+    - "Jack: Don't worry about it. How about Sunday the fourteenth, at eleven? | Не переживай. Как насчёт воскресенья, четырнадцатого, в одиннадцать?"
+    - "Mia: Sunday's perfect. And let me take you out for lunch afterwards to say sorry. | Воскресенье — идеально. И давай я угощу тебя обедом после выставки в качестве извинения."
+    - "Jack: Deal! Good luck with the deadline. | Договорились! Удачи с дедлайном."
+    - "Mia: Thanks, I'll need it! Talk to you soon. | Спасибо, она мне понадобится! До связи."
+  phrases:
+    - "I can't make it on Saturday. | В субботу я не смогу."
+    - "That's a shame. | Жаль."
+    - "Could we change it to…? | Может, перенесём на…?"
+    - "How about Sunday? | Как насчёт воскресенья?"
+    - "It's my fault. | Это моя вина."
+    - "Deal! | Договорились!"
+  exercises:
+    - type: choice
+      q: "Why can't Mia go on Saturday?"
+      options: ["She's ill", "She has to work", "She has a family party"]
+      answer: 1
+    - type: choice
+      q: "What had Jack booked?"
+      options: ["tickets for an exhibition", "a table at a restaurant", "a concert"]
+      answer: 0
+    - type: choice
+      q: "What will Mia do to say sorry?"
+      options: ["buy him a present", "take him out for lunch", "pay for both tickets"]
+      answer: 1
+
+- id: b1-discussing-a-film
+  title: "What did you think of the film?"
+  title_ru: "Как тебе фильм?"
+  scene: "Two friends leave the cinema and share their opinions."
+  scene_ru: "Двое друзей выходят из кино и делятся впечатлениями."
+  speakers: {Sam: m-us, Olivia: f-uk}
+  lines:
+    - "Sam: So, what did you think? | Ну, что скажешь?"
+    - "Olivia: Honestly? I was a bit disappointed. Everyone said it was amazing, but I found it quite slow. | Честно? Я немного разочарована. Все говорили, что он потрясающий, а мне он показался довольно затянутым."
+    - "Sam: Really? I thought it was brilliant. The acting was fantastic. | Правда? А по-моему, блестящий. Актёры играли фантастически."
+    - "Olivia: I agree the acting was good, especially the main character. But the story didn't make much sense to me. | Согласна, игра была хорошей, особенно у главного героя. Но сюжет мне показался не очень логичным."
+    - "Sam: In what way? | В каком смысле?"
+    - "Olivia: Well, why did she trust her brother after everything he'd done? It just didn't seem realistic. | Ну, почему она поверила брату после всего, что он натворил? Это просто казалось неправдоподобным."
+    - "Sam: I see your point, but I think that was the whole idea. Families forgive each other. | Понимаю, о чём ты, но, по-моему, в этом и была вся идея. В семье друг друга прощают."
+    - "Olivia: Maybe. And the ending was far too long. I nearly fell asleep! | Может быть. А концовка была слишком длинной. Я чуть не уснула!"
+    - "Sam: Ha! I have to admit the last twenty minutes were a bit much. | Ха! Должен признать, последние двадцать минут были перебором."
+    - "Olivia: But the music was beautiful, I'll give it that. | Но музыка была прекрасная, этого не отнять."
+    - "Sam: Definitely. Shall we choose the next film together? | Безусловно. Давай следующий фильм выберем вместе?"
+    - "Olivia: Good idea. Something funny, please! | Хорошая мысль. Что-нибудь смешное, пожалуйста!"
+  phrases:
+    - "What did you think? | Что скажешь? / Как тебе?"
+    - "I was a bit disappointed. | Я немного разочарован."
+    - "I see your point, but… | Понимаю, о чём ты, но…"
+    - "It didn't seem realistic. | Это казалось неправдоподобным."
+    - "I have to admit… | Должен признать…"
+    - "I'll give it that. | Этого не отнять."
+  exercises:
+    - type: choice
+      q: "What did Olivia think of the film?"
+      options: ["She loved it", "She was a bit disappointed", "She didn't see it"]
+      answer: 1
+    - type: choice
+      q: "What did they both like?"
+      options: ["the story", "the ending", "the music and the acting"]
+      answer: 2
+    - type: choice
+      q: "What kind of film does Olivia want next time?"
+      options: ["something funny", "a horror film", "a long drama"]
+      answer: 0
+
+- id: b1-lost-bank-card
+  title: "Reporting a lost card"
+  title_ru: "Потеря банковской карты"
+  scene: "Chris calls his bank because he can't find his card."
+  scene_ru: "Крис звонит в банк, потому что не может найти карту."
+  speakers: {Agent: f-us, Chris: m-uk}
+  lines:
+    - "Agent: Good afternoon, City Bank, Rachel speaking. How can I help? | Добрый день, Сити Банк, Рэйчел слушает. Чем могу помочь?"
+    - "Chris: Hi. I think I've lost my debit card. I had it this morning, but now I can't find it anywhere. | Здравствуйте. Кажется, я потерял дебетовую карту. Утром она была, а теперь не могу её нигде найти."
+    - "Agent: I'm sorry to hear that. For security, can you confirm your full name and date of birth? | Сочувствую. В целях безопасности назовите, пожалуйста, полное имя и дату рождения."
+    - "Chris: Christopher Hall, the third of May, 1994. | Кристофер Холл, третье мая 1994 года."
+    - "Agent: Thank you, Mr. Hall. When did you last use the card? | Спасибо, мистер Холл. Когда вы последний раз пользовались картой?"
+    - "Chris: At a café near the station, at about nine o'clock. | В кафе у вокзала, около девяти утра."
+    - "Agent: I can see that payment. There haven't been any other transactions since then, so that's good news. | Я вижу этот платёж. С тех пор других операций не было — это хорошая новость."
+    - "Chris: What a relief. Can you block the card? | Какое облегчение. Вы можете заблокировать карту?"
+    - "Agent: I've just blocked it. Nobody can use it now. Would you like us to send you a new one? | Я только что её заблокировала. Теперь ею никто не сможет воспользоваться. Отправить вам новую?"
+    - "Chris: Yes, please. How long will it take? | Да, пожалуйста. Сколько это займёт?"
+    - "Agent: It should arrive within three to five working days. In the meantime, you can pay with your phone. | Она должна прийти в течение трёх–пяти рабочих дней. А пока можете платить телефоном."
+    - "Chris: Perfect. Thank you for your help. | Отлично. Спасибо за помощь."
+  phrases:
+    - "I think I've lost my card. | Кажется, я потерял карту."
+    - "Can you confirm your date of birth? | Назовите, пожалуйста, дату рождения."
+    - "When did you last use it? | Когда вы последний раз ею пользовались?"
+    - "Can you block the card? | Можете заблокировать карту?"
+    - "within three to five working days | в течение трёх–пяти рабочих дней"
+    - "In the meantime… | А пока…"
+  exercises:
+    - type: choice
+      q: "Where did Chris last use his card?"
+      options: ["at a supermarket", "at a café near the station", "online"]
+      answer: 1
+    - type: choice
+      q: "Has anyone used the card since then?"
+      options: ["Yes, twice", "No", "The agent doesn't know"]
+      answer: 1
+    - type: choice
+      q: "How can Chris pay until the new card arrives?"
+      options: ["with cash only", "with his phone", "with a cheque"]
+      answer: 1
+
+- id: b1-asking-for-advice
+  title: "Asking for advice"
+  title_ru: "Просьба о совете"
+  scene: "Ben is stressed about a decision and talks to his older sister."
+  scene_ru: "Бен переживает из-за решения и советуется со старшей сестрой."
+  speakers: {Ben: m-uk, Kate: f-uk}
+  lines:
+    - "Kate: You look worried. What's up? | Ты выглядишь обеспокоенным. Что случилось?"
+    - "Ben: I've been offered a job in Manchester. It's a great opportunity, but I don't know if I should take it. | Мне предложили работу в Манчестере. Это отличная возможность, но я не знаю, соглашаться ли."
+    - "Kate: That's fantastic news! What's the problem? | Это же замечательная новость! В чём проблема?"
+    - "Ben: Well, I'd have to move, and all my friends are here. And Emma has just started her course here. | Ну, придётся переезжать, а все мои друзья здесь. И Эмма только что начала здесь учёбу."
+    - "Kate: Have you talked to Emma about it? | Ты говорил об этом с Эммой?"
+    - "Ben: Not yet. I don't want her to feel she has to choose. | Пока нет. Не хочу, чтобы она думала, что должна выбирать."
+    - "Kate: If I were you, I'd talk to her first. You shouldn't decide something this big on your own. | На твоём месте я бы сначала поговорила с ней. Не стоит в одиночку решать такие важные вещи."
+    - "Ben: You're right. What else should I think about? | Ты права. О чём ещё стоит подумать?"
+    - "Kate: Why don't you make a list of pros and cons? And ask if you could work from home a few days a week. | Почему бы тебе не составить список плюсов и минусов? И спроси, можно ли несколько дней в неделю работать из дома."
+    - "Ben: That's a good idea. I hadn't thought of that. | Хорошая мысль. Я об этом не подумал."
+    - "Kate: And remember, Manchester is only two hours away. It's not the other side of the world. | И помни: Манчестер всего в двух часах езды. Это не другой конец света."
+    - "Ben: True. Thanks, Kate. I feel much better now. | Верно. Спасибо, Кейт. Мне уже гораздо лучше."
+  phrases:
+    - "What's up? | Что случилось?"
+    - "I don't know if I should… | Не знаю, стоит ли мне…"
+    - "If I were you, I'd… | На твоём месте я бы…"
+    - "Why don't you…? | Почему бы тебе не…?"
+    - "pros and cons | плюсы и минусы"
+    - "I hadn't thought of that. | Я об этом не подумал."
+  exercises:
+    - type: choice
+      q: "Why is Ben worried?"
+      options: ["He has lost his job", "He's not sure about a job in Manchester", "He has an exam"]
+      answer: 1
+    - type: choice
+      q: "What does Kate advise first?"
+      options: ["to take the job immediately", "to talk to Emma", "to refuse the offer"]
+      answer: 1
+    - type: choice
+      q: "How far is Manchester?"
+      options: ["two hours away", "on the other side of the world", "twenty minutes away"]
+      answer: 0

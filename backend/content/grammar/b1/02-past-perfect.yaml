@@ -1,0 +1,119 @@
+title: "Past Perfect"
+title_ru: "Past Perfect — прошедшее совершённое время"
+section: tenses
+summary: "When I arrived, the film had started — the earlier of two past actions"
+summary_ru: "When I arrived, the film had started — «предпрошедшее»: что случилось раньше"
+theory: |
+  ## Form: had + past participle (V3)
+  | | |
+  |---|---|
+  | + | I/you/he/she/we/they **had finished** (I'd finished). |
+  | − | I **hadn't finished**. |
+  | ? | **Had** you **finished**? — Yes, I had. / No, I hadn't. |
+
+  The form is the same for all persons.
+
+  ## Use
+  We use the Past Perfect to show that one past action happened **before** another past action or a past moment.
+  - *When I got to the cinema, the film **had** already **started**.* (first the film started, then I arrived)
+  - *When I got to the cinema, the film **started**.* (I arrived, and then the film started)
+
+  Typical words: **already, just, never, before, by the time, after, when**.
+  - *By the time the police arrived, the thieves **had escaped**.*
+  - *I **had never seen** the sea before I was ten.*
+  - *After she **had finished** her work, she went home.*
+
+  If the order is clear (with **after**, **before**), the Past Simple is often possible too: *After she finished her work, she went home.*
+
+  ## Past Perfect Continuous: had been + -ing
+  For a longer activity before a past moment: *She was tired because she **had been working** all day. They **had been waiting** for an hour when the bus finally came.*
+theory_ru: |
+  ## Форма: had + третья форма глагола (V3)
+  | | |
+  |---|---|
+  | + | I/you/he/she/we/they **had finished** (I'd finished). |
+  | − | I **hadn't finished**. |
+  | ? | **Had** you **finished**? — Yes, I had. / No, I hadn't. |
+
+  Форма одинакова для всех лиц.
+
+  ## Когда употребляется
+  Past Perfect — это «прошлое в прошлом». Он показывает, что одно действие произошло **раньше** другого прошедшего действия или момента.
+  - *When I got to the cinema, the film **had** already **started**.* — Когда я пришёл в кино, фильм уже начался (сначала начался фильм, потом пришёл я).
+  - *When I got to the cinema, the film **started**.* — Когда я пришёл, фильм начался (сначала пришёл я, потом начался фильм).
+
+  Типичные слова: **already, just, never, before, by the time** (к тому времени как), **after, when**.
+  - *By the time the police arrived, the thieves **had escaped**.* — К приезду полиции воры уже сбежали.
+  - *I **had never seen** the sea before I was ten.* — До десяти лет я ни разу не видел моря.
+  - *After she **had finished** her work, she went home.* — Закончив работу, она пошла домой.
+
+  Если порядок и так ясен (после **after**, **before**), часто можно использовать и Past Simple: *After she finished her work, she went home.*
+
+  ## Past Perfect Continuous: had been + -ing
+  Для длительного действия до момента в прошлом: *She was tired because she **had been working** all day.* — Она устала, потому что работала весь день. *They **had been waiting** for an hour when the bus finally came.* — Они прождали час, когда наконец пришёл автобус.
+examples:
+  - "When we arrived, the train *had* already *left*. | Когда мы приехали, поезд уже ушёл."
+  - "I*'d never eaten* sushi before I went to Japan. | До поездки в Японию я никогда не ел суши."
+  - "She was upset because she *had lost* her keys. | Она расстроилась, потому что потеряла ключи."
+  - "By the time I woke up, everyone *had gone* out. | К тому времени как я проснулся, все уже ушли."
+  - "*Had* you *met* him before the party? | Ты был знаком с ним до вечеринки?"
+  - "His eyes were red. He *had been crying*. | Его глаза были красными. Он плакал."
+exercises:
+  - type: choice
+    q: "When I got home, my sister ___ dinner."
+    options: ["already cooked", "had already cooked", "has already cooked"]
+    answer: 1
+  - type: choice
+    q: "I didn't recognise him because he ___ a lot."
+    options: ["had changed", "has changed", "changes"]
+    answer: 0
+  - type: choice
+    q: "By the time we arrived at the party, most guests ___."
+    options: ["left", "had left", "have left"]
+    answer: 1
+  - type: choice
+    q: "She was exhausted because she ___ for ten hours."
+    options: ["had been driving", "has been driving", "drives"]
+    answer: 0
+  - type: choice
+    q: "When the teacher came in, the students stood up. — What happened first?"
+    options: ["The students stood up", "The teacher came in"]
+    answer: 1
+  - type: input
+    q: "I ___ (never / fly) before I went to Spain last year."
+    answer: ["had never flown", "'d never flown"]
+  - type: input
+    q: "When we got to the station, the train ___ (leave)."
+    answer: ["had left", "had already left", "'d left"]
+  - type: cloze
+    text: "Tom [[didn't/*hadn't/wasn't]] eaten anything all day, so he [[*was/had been/has been]] very hungry."
+  - type: cloze
+    text: "After I [[had finished|'d finished|finished]] (finish) my homework, I [[watched]] (watch) TV."
+  - type: error
+    text: "When I arrived, the meeting {{has already started=>had already started}}."
+    explain: "We need the past of “has” — had."
+    explain_ru: "Прошлое относительно другого прошлого → had, а не has."
+  - type: error
+    text: "I couldn't get in because I {{have forgotten=>had forgotten}} my key."
+  - type: order
+    q: "Составьте: «Фильм уже начался, когда мы пришли»."
+    answer: "The film had already started when we arrived."
+  - type: dialog
+    q: "Put the story in order"
+    lines:
+      - "Last Saturday I went to the airport."
+      - "When I got there, I realised I had left my passport at home."
+      - "I took a taxi back home to get it."
+      - "By the time I returned, my plane had already taken off."
+  - type: tf
+    items:
+      - ["The Past Perfect is formed with “had” + V3.", true]
+      - ["“When I arrived, she left” and “When I arrived, she had left” mean the same.", false]
+  - type: listen
+    audio: "When I finally found the restaurant, my friends had already ordered."
+    q: "What had the friends done?"
+    options: ["They had left.", "They had ordered.", "They had paid."]
+    answer: 1
+  - type: speak
+    answer: "I had never seen snow before I moved to Canada."
+    ru: "До переезда в Канаду я никогда не видел снега."

@@ -1,0 +1,131 @@
+title: "Zero and Second Conditional"
+title_ru: "Нулевое и второе условное предложение"
+section: conditionals
+summary: "If you heat ice, it melts. If I had money, I would travel."
+summary_ru: "Если нагреть лёд, он тает. Если бы у меня были деньги, я бы путешествовал."
+theory: |
+  ## Zero conditional: general truths
+  **If + Present Simple, Present Simple**
+  - *If you heat ice, it **melts**.*
+  - *If I drink coffee at night, I **can't** sleep.*
+  Here **if** means almost the same as **when**: it is always true.
+
+  ## Second conditional: unreal or unlikely situations
+  **If + Past Simple, would + verb**
+  - *If I **had** more money, I **would buy** a house.* (but I don't have the money)
+  - *If she **lived** closer, we **would see** her more often.*
+  - *What **would** you **do** if you **won** the lottery?*
+
+  The past form does **not** mean past time here — it means **unreal** (imaginary) present or future.
+
+  ## If I were you
+  In the second conditional we often use **were** for all persons, especially in advice:
+  - *If I **were** you, I'd take the job.*
+  - *If he **were** taller, he could play basketball.* (was is also common in speech)
+
+  ## could / might instead of would
+  - *If I had a car, I **could** drive you home.* (= I would be able to)
+  - *If you asked him, he **might** help.* (= perhaps he would)
+
+  ## First or second?
+  - *If it **rains** tomorrow, I**'ll stay** home.* — real possibility (1st)
+  - *If it **snowed** in July, I**'d be** surprised.* — very unlikely (2nd)
+theory_ru: |
+  ## Нулевой тип: общие истины
+  **If + Present Simple, Present Simple**
+  - *If you heat ice, it **melts**.* — Если нагреть лёд, он тает.
+  - *If I drink coffee at night, I **can't** sleep.* — Если я пью кофе на ночь, я не могу уснуть.
+  Здесь **if** почти равно **when** (когда): так бывает всегда.
+
+  ## Второй тип: нереальные или маловероятные ситуации
+  **If + Past Simple, would + глагол**
+  - *If I **had** more money, I **would buy** a house.* — Если бы у меня было больше денег, я бы купил дом (но денег нет).
+  - *If she **lived** closer, we **would see** her more often.* — Если бы она жила ближе, мы бы виделись чаще.
+  - *What **would** you **do** if you **won** the lottery?* — Что бы ты сделал, если бы выиграл в лотерею?
+
+  Прошедшая форма здесь **не означает прошлое** — она показывает, что ситуация **воображаемая**, нереальная сейчас или в будущем. Русское «бы» → **would** в главной части и Past Simple после **if**.
+
+  > Никогда не ставьте would после if: ~~If I would have money~~ → **If I had money**.
+
+  ## If I were you
+  Во втором типе часто используют **were** для всех лиц, особенно в советах:
+  - *If I **were** you, I'd take the job.* — На твоём месте я бы согласился на эту работу.
+  - *If he **were** taller, he could play basketball.* (в разговоре часто и was)
+
+  ## could / might вместо would
+  - *If I had a car, I **could** drive you home.* — Если бы у меня была машина, я мог бы отвезти тебя домой.
+  - *If you asked him, he **might** help.* — Если бы ты его попросил, он, может быть, помог бы.
+
+  ## Первый или второй?
+  - *If it **rains** tomorrow, I**'ll stay** home.* — Если завтра будет дождь, я останусь дома (реально возможно — 1-й тип).
+  - *If it **snowed** in July, I**'d be** surprised.* — Если бы в июле пошёл снег, я бы удивился (почти невозможно — 2-й тип).
+examples:
+  - "If you *mix* red and yellow, you *get* orange. | Если смешать красный и жёлтый, получится оранжевый."
+  - "If I *had* more time, I *would learn* the piano. | Если бы у меня было больше времени, я бы научился играть на пианино."
+  - "If I *were* you, I *would call* her. | На твоём месте я бы ей позвонил."
+  - "What *would* you *do* if you *found* a wallet in the street? | Что бы ты сделал, если бы нашёл на улице кошелёк?"
+  - "If we *lived* by the sea, we *could swim* every day. | Если бы мы жили у моря, мы могли бы плавать каждый день."
+  - "She *wouldn't be* so tired if she *went* to bed earlier. | Она бы так не уставала, если бы ложилась спать раньше."
+exercises:
+  - type: choice
+    q: "If you heat water to 100°C, it ___."
+    options: ["boils", "would boil", "will boiled"]
+    answer: 0
+  - type: choice
+    q: "If I ___ rich, I would travel around the world."
+    options: ["am", "were", "would be"]
+    answer: 1
+  - type: choice
+    q: "If she knew the answer, she ___ us."
+    options: ["will tell", "would tell", "tells"]
+    answer: 1
+  - type: choice
+    q: "What would you do if you ___ a million dollars?"
+    options: ["win", "won", "would win"]
+    answer: 1
+  - type: choice
+    q: "If I were you, I ___ that jacket. It's too expensive."
+    options: ["wouldn't buy", "won't buy", "don't buy"]
+    answer: 0
+  - type: choice
+    q: "Which sentence is about a very unlikely situation?"
+    options: ["If it rains, I'll take an umbrella.", "If I met the president, I'd ask him a question.", "If you press this button, the door opens."]
+    answer: 1
+  - type: input
+    q: "If I ___ (have) a car, I would drive to work."
+    answer: ["had"]
+  - type: input
+    q: "If he studied more, he ___ (pass) the exam."
+    answer: ["would pass", "'d pass"]
+  - type: cloze
+    text: "If we [[*lived/would live/live]] in the city, we [[*would/will/did]] go to the theatre more often."
+  - type: cloze
+    text: "If plants [[don't get|do not get]] (not / get) enough light, they [[die]] (die)."
+  - type: error
+    text: "If I {{would have=>had}} more free time, I would read more."
+    explain: "No “would” after “if” — use the Past Simple."
+    explain_ru: "После if не ставим would — нужен Past Simple."
+  - type: error
+    text: "If I were you, I {{will=>would}} apologise."
+  - type: order
+    q: "Составьте: «На твоём месте я бы пошёл к врачу»."
+    answer: "If I were you I would see a doctor."
+  - type: match
+    q: "Match the halves"
+    pairs:
+      - ["If you freeze water,", "it turns into ice."]
+      - ["If I had wings,", "I would fly to you."]
+      - ["If it rains tomorrow,", "we'll stay at home."]
+      - ["If I were you,", "I'd say sorry."]
+  - type: tf
+    items:
+      - ["In the second conditional, the past form means past time.", false]
+      - ["“If I were you” is used to give advice.", true]
+  - type: listen
+    audio: "If I didn't have to work tomorrow, I would come to your party."
+    q: "Is the speaker going to the party?"
+    options: ["Yes, definitely.", "No, because he has to work.", "Maybe later."]
+    answer: 1
+  - type: speak
+    answer: "If I had more time, I would learn Japanese."
+    ru: "Если бы у меня было больше времени, я бы выучил японский."

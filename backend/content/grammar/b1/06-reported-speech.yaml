@@ -1,0 +1,138 @@
+title: "Reported Speech"
+title_ru: "Косвенная речь"
+section: reported
+summary: "She said (that) she was tired. He asked where I lived."
+summary_ru: "Она сказала, что устала. Он спросил, где я живу."
+theory: |
+  ## Statements: say / tell
+  When we report what someone said, the tense usually moves **one step back** (if the reporting verb is in the past):
+  | Direct speech | Reported speech |
+  |---|---|
+  | "I **am** tired." | She said (that) she **was** tired. |
+  | "I **like** jazz." | He said he **liked** jazz. |
+  | "I**'m working**." | She said she **was working**. |
+  | "I **saw** him." | He said he **had seen** him. |
+  | "I**'ve finished**." | She said she **had finished**. |
+  | "I **will** call." | He said he **would** call. |
+  | "I **can** swim." | She said she **could** swim. |
+
+  - **say** + (that): *He said (that) he was busy.*
+  - **tell** + person: *He **told me** (that) he was busy.* (not ~~said me~~)
+
+  ## Other changes
+  Pronouns and time/place words change too:
+  now → then; today → that day; tomorrow → the next day; yesterday → the day before; here → there; this → that; ago → before.
+
+  ## Questions
+  Use **ask**, and **normal word order** (no do/does/did, no question mark):
+  - "Where **do you live**?" → She asked me where **I lived**.
+  - "**Are** you hungry?" → He asked **if/whether** I **was** hungry.
+
+  ## Commands and requests
+  **tell / ask + someone + (not) to + verb**:
+  - "Sit down." → The teacher **told us to sit** down.
+  - "Please don't be late." → She **asked me not to be** late.
+
+  > If the situation is still true, the tense can stay the same: *He said he **lives** in London.*
+theory_ru: |
+  ## Утверждения: say / tell
+  Когда мы пересказываем чужие слова, а глагол «сказал» стоит в прошедшем времени, время обычно **сдвигается на шаг назад** (правило согласования времён). В русском такого сдвига нет — это главная трудность.
+  | Прямая речь | Косвенная речь |
+  |---|---|
+  | "I **am** tired." | She said (that) she **was** tired. — Она сказала, что устала. |
+  | "I **like** jazz." | He said he **liked** jazz. — Он сказал, что любит джаз. |
+  | "I**'m working**." | She said she **was working**. — Она сказала, что работает. |
+  | "I **saw** him." | He said he **had seen** him. — Он сказал, что видел его. |
+  | "I**'ve finished**." | She said she **had finished**. — Она сказала, что закончила. |
+  | "I **will** call." | He said he **would** call. — Он сказал, что позвонит. |
+  | "I **can** swim." | She said she **could** swim. — Она сказала, что умеет плавать. |
+
+  - **say** + (that): *He said (that) he was busy.*
+  - **tell** + кому: *He **told me** (that) he was busy.* (не ~~said me~~)
+
+  ## Другие изменения
+  Меняются местоимения и слова времени и места:
+  now → then; today → that day; tomorrow → the next day; yesterday → the day before; here → there; this → that; ago → before.
+
+  ## Вопросы
+  Используем **ask** и **прямой порядок слов** (без do/does/did, без вопросительного знака):
+  - "Where **do you live**?" → She asked me where **I lived**. — Она спросила, где я живу.
+  - "**Are** you hungry?" → He asked **if/whether** I **was** hungry. — Он спросил, голоден ли я. (Русское «ли» → if/whether.)
+
+  ## Просьбы и приказы
+  **tell / ask + кому + (not) to + глагол**:
+  - "Sit down." → The teacher **told us to sit** down. — Учитель велел нам сесть.
+  - "Please don't be late." → She **asked me not to be** late. — Она попросила меня не опаздывать.
+
+  > Если сказанное всё ещё верно, время можно не менять: *He said he **lives** in London.* — Он сказал, что живёт в Лондоне (и сейчас живёт).
+examples:
+  - "She said she *was* tired. | Она сказала, что устала."
+  - "He told me he *had lost* his job. | Он сказал мне, что потерял работу."
+  - "They said they *would come* the next day. | Они сказали, что придут на следующий день."
+  - "She asked me where I *worked*. | Она спросила, где я работаю."
+  - "He asked *if* I *could* help him. | Он спросил, могу ли я ему помочь."
+  - "The doctor told me *to stay* in bed. | Врач велел мне лежать в постели."
+exercises:
+  - type: choice
+    q: "“I'm hungry,” said Tom. → Tom said he ___ hungry."
+    options: ["is", "was", "has been"]
+    answer: 1
+  - type: choice
+    q: "She ___ me that she was leaving."
+    options: ["said", "told", "asked"]
+    answer: 1
+  - type: choice
+    q: "“I will help you.” → He said he ___ help me."
+    options: ["will", "would", "can"]
+    answer: 1
+  - type: choice
+    q: "“Where do you live?” → She asked me where ___."
+    options: ["do I live", "I lived", "did I live"]
+    answer: 1
+  - type: choice
+    q: "“Are you OK?” → He asked ___ I was OK."
+    options: ["that", "if", "what"]
+    answer: 1
+  - type: choice
+    q: "“Don't touch it!” → Mum told me ___ it."
+    options: ["don't touch", "not to touch", "to not touching"]
+    answer: 1
+  - type: input
+    q: "“I have finished.” → She said she ___ ."
+    answer: ["had finished"]
+  - type: input
+    q: "“I can't swim.” → He said he ___ swim."
+    answer: ["couldn't", "could not"]
+  - type: cloze
+    text: "“I saw the film yesterday.” → He said he [[had seen]] the film [[*the day before/yesterday/tomorrow]]."
+  - type: cloze
+    text: "“Please close the door.” → She asked me [[to close]] the door."
+  - type: error
+    text: "He {{said me=>told me}} that he was tired."
+    explain: "Tell + person; say without a person (or say to someone)."
+    explain_ru: "Tell + кому; say — без дополнения (или say to someone)."
+  - type: error
+    text: "She asked me where {{did I live=>I lived}}."
+  - type: order
+    q: "Составьте: «Он спросил меня, сколько мне лет»."
+    answer: "He asked me how old I was."
+  - type: match
+    q: "Match direct and reported speech"
+    pairs:
+      - ["“I am busy.”", "He said he was busy."]
+      - ["“I'll call you.”", "He said he would call me."]
+      - ["“I've lost my key.”", "He said he had lost his key."]
+      - ["“Are you ready?”", "He asked if I was ready."]
+  - type: tf
+    items:
+      - ["In reported questions we use normal word order: “She asked where I lived.”", true]
+      - ["“tomorrow” often changes to “the next day” in reported speech.", true]
+      - ["We say “He said me…”.", false]
+  - type: listen
+    audio: "My boss told me that I could leave early because I had worked so hard."
+    q: "What did the boss say?"
+    options: ["The speaker must stay late.", "The speaker could leave early.", "The speaker should work harder."]
+    answer: 1
+  - type: speak
+    answer: "She told me that she was very busy."
+    ru: "Она сказала мне, что очень занята."

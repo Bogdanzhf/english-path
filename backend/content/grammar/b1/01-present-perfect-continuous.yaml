@@ -1,0 +1,129 @@
+title: "Present Perfect Continuous"
+title_ru: "Present Perfect Continuous — настоящее совершённое длительное"
+section: tenses
+summary: "I have been waiting for an hour — duration up to now, recent activity"
+summary_ru: "I have been waiting for an hour — длительность до настоящего момента"
+theory: |
+  ## Form: have / has + been + verb-ing
+  | | |
+  |---|---|
+  | + | I/you/we/they **have been working** (I've been working). He/she/it **has been working**. |
+  | − | I **haven't been working**. She **hasn't been working**. |
+  | ? | **Have** you **been working**? — Yes, I have. / No, I haven't. |
+
+  ## Use
+  1. **An activity that started in the past and is still continuing**, often with **for** and **since**, or with **How long…?**
+     *I've been learning English **for** three years. She's been living here **since** 2020. **How long** have you been waiting?*
+  2. **A recent activity that explains the present situation** (we can see the result):
+     *I'm tired because I've been running. Your eyes are red — have you been crying?*
+
+  ## Perfect Continuous or Perfect Simple?
+  - Continuous = the **activity, duration**: *I've been reading this book all day.* (maybe not finished)
+  - Simple = the **result, how many / how much**: *I've read three chapters.* (finished)
+
+  > State verbs (know, like, want, believe, own, understand) are not normally used in the continuous: *I've **known** her for ten years* (not ~~have been knowing~~).
+
+  ## for or since?
+  - **for** + a period: for two hours, for a week, for ages
+  - **since** + a starting point: since Monday, since 9 o'clock, since I was a child
+theory_ru: |
+  ## Форма: have / has + been + глагол-ing
+  | | |
+  |---|---|
+  | + | I/you/we/they **have been working** (I've been working). He/she/it **has been working**. |
+  | − | I **haven't been working**. She **hasn't been working**. |
+  | ? | **Have** you **been working**? — Yes, I have. / No, I haven't. |
+
+  ## Когда употребляется
+  1. **Действие началось в прошлом и продолжается до сих пор.** Часто с **for**, **since** и в вопросе **How long…?** По-русски обычно переводим настоящим временем:
+     *I've been learning English **for** three years.* — Я учу английский уже три года.
+     *She's been living here **since** 2020.* — Она живёт здесь с 2020 года.
+     ***How long** have you been waiting?* — Сколько ты уже ждёшь?
+  2. **Недавнее длительное действие, следы которого видны сейчас:**
+     *I'm tired because I've been running.* — Я устал, потому что бегал.
+     *Your eyes are red — have you been crying?* — У тебя красные глаза — ты плакал?
+
+  ## Continuous или Simple?
+  - Continuous — важен **процесс, длительность**: *I've been reading this book all day.* — Я весь день читаю эту книгу (возможно, ещё не дочитал).
+  - Simple — важен **результат, количество**: *I've read three chapters.* — Я прочитал три главы.
+
+  > Глаголы состояния (know, like, want, believe, own, understand) обычно не ставятся в Continuous: *I've **known** her for ten years* — Я знаю её десять лет (не ~~have been knowing~~).
+
+  ## for или since?
+  - **for** + отрезок времени: for two hours, for a week, for ages (целую вечность)
+  - **since** + точка начала: since Monday, since 9 o'clock, since I was a child
+examples:
+  - "I*'ve been waiting* for you for an hour! | Я жду тебя уже целый час!"
+  - "How long *have* you *been learning* English? | Сколько ты уже учишь английский?"
+  - "It*'s been raining* since this morning. | Дождь идёт с самого утра."
+  - "She's out of breath because she*'s been running*. | Она запыхалась, потому что бегала."
+  - "We*'ve been living* in this flat since 2019. | Мы живём в этой квартире с 2019 года."
+  - "I*'ve been writing* emails all morning, and I*'ve sent* twenty. | Я всё утро пишу письма и уже отправил двадцать."
+exercises:
+  - type: choice
+    q: "I ___ for this company since 2018."
+    options: ["work", "have been working", "am working"]
+    answer: 1
+  - type: choice
+    q: "How long ___ you been waiting?"
+    options: ["have", "has", "are"]
+    answer: 0
+  - type: choice
+    q: "She has been studying ___ three hours."
+    options: ["since", "for", "from"]
+    answer: 1
+  - type: choice
+    q: "They've been living here ___ they got married."
+    options: ["for", "since", "ago"]
+    answer: 1
+  - type: choice
+    q: "I ___ her since we were at school."
+    options: ["have been knowing", "have known", "know"]
+    answer: 1
+    explain: "Know is a state verb — no continuous form."
+    explain_ru: "Know — глагол состояния, в Continuous не ставится."
+  - type: choice
+    q: "I've been reading this book all week, and I ___ 200 pages."
+    options: ["have been reading", "have read", "read"]
+    answer: 1
+    explain: "How many pages = result → Present Perfect Simple."
+    explain_ru: "Сколько страниц — это результат → Present Perfect Simple."
+  - type: input
+    q: "It ___ (rain) all day. The streets are wet."
+    answer: ["has been raining", "'s been raining"]
+  - type: input
+    q: "We ___ (wait) for the bus for twenty minutes."
+    answer: ["have been waiting", "'ve been waiting"]
+  - type: cloze
+    text: "Why are your hands dirty? — I [[have been repairing|'ve been repairing]] (repair) my bike."
+  - type: cloze
+    text: "He has been learning Spanish [[for/*since/ago]] January and he has been taking lessons [[*for/since/during]] six months."
+  - type: error
+    text: "I {{am waiting=>have been waiting}} here since ten o'clock."
+    explain: "Since + a starting point → Present Perfect Continuous."
+    explain_ru: "Since + точка начала → Present Perfect Continuous, а не Present Continuous."
+  - type: error
+    text: "She has been living in Paris {{since=>for}} five years."
+  - type: order
+    q: "Составьте: «Как долго ты здесь работаешь?»"
+    answer: "How long have you been working here?"
+  - type: match
+    q: "Match the beginning and the end"
+    pairs:
+      - ["I'm hot because", "I've been running."]
+      - ["Your eyes are red.", "Have you been crying?"]
+      - ["The ground is wet.", "It's been raining."]
+      - ["She's tired because", "she's been working all day."]
+  - type: tf
+    items:
+      - ["We use “for” with a starting point, like “for Monday”.", false]
+      - ["“I've been knowing him for years” is correct.", false]
+      - ["The Present Perfect Continuous can explain a present result: “I'm wet — I've been swimming.”", true]
+  - type: listen
+    audio: "I've been learning to play the guitar for two years, and I've learned about twenty songs."
+    q: "How long has the person been learning the guitar?"
+    options: ["twenty years", "two years", "two months"]
+    answer: 1
+  - type: speak
+    answer: "I have been learning English for three years."
+    ru: "Я учу английский уже три года."

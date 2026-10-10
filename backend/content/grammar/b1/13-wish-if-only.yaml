@@ -1,0 +1,125 @@
+title: "wish / if only"
+title_ru: "wish / if only — сожаление и желания"
+section: conditionals
+summary: "I wish I had more time. I wish I hadn't said that."
+summary_ru: "Жаль, что у меня мало времени. Жаль, что я это сказал."
+theory: |
+  We use **wish** and **if only** (stronger) to talk about things we want to be different.
+
+  ## Present: wish + Past Simple
+  For a situation **now** that we don't like:
+  - *I **wish** I **had** a car.* (I don't have a car)
+  - *I **wish** I **knew** the answer.* (I don't know it)
+  - *I **wish** I **were/was** taller.* (were is more formal)
+  - ***If only** I **lived** by the sea!*
+
+  ## Past: wish + Past Perfect
+  For **regrets** about the past:
+  - *I **wish** I **hadn't eaten** so much.* (but I did)
+  - *She **wishes** she **had studied** harder.* (but she didn't)
+  - ***If only** we **had left** earlier!*
+
+  ## wish + would
+  To complain about someone's behaviour or something annoying we want to change:
+  - *I **wish** you **would stop** talking!*
+  - *I **wish** it **would stop** raining.*
+  - Not with I: ~~I wish I would~~ → *I wish I **could**…*
+
+  ## wish + could
+  For an ability we don't have: *I **wish** I **could** swim.*
+theory_ru: |
+  **wish** и **if only** (сильнее, эмоциональнее) используются, когда мы хотим, чтобы что-то было иначе. По-русски это «жаль, что…», «хотелось бы…», «если бы только…».
+
+  > Обратите внимание: в английском смысл «наоборот». Русское «жаль, что **нет**» → английское утверждение: *I wish I **had** a car* — Жаль, что у меня нет машины.
+
+  ## Настоящее: wish + Past Simple
+  Ситуация **сейчас**, которая нам не нравится:
+  - *I **wish** I **had** a car.* — Жаль, что у меня нет машины.
+  - *I **wish** I **knew** the answer.* — Хотел бы я знать ответ.
+  - *I **wish** I **were/was** taller.* — Жаль, что я не выше ростом. (were — более литературно)
+  - ***If only** I **lived** by the sea!* — Если бы только я жил у моря!
+
+  ## Прошлое: wish + Past Perfect
+  **Сожаление** о прошлом:
+  - *I **wish** I **hadn't eaten** so much.* — Зря я столько съел.
+  - *She **wishes** she **had studied** harder.* — Она жалеет, что мало училась.
+  - ***If only** we **had left** earlier!* — Эх, если бы мы вышли раньше!
+
+  ## wish + would
+  Недовольство чьим-то поведением или раздражающей ситуацией, которую хочется изменить:
+  - *I **wish** you **would stop** talking!* — Да перестань ты болтать!
+  - *I **wish** it **would stop** raining.* — Хоть бы дождь прекратился.
+  - С I не используется: ~~I wish I would~~ → *I wish I **could**…*
+
+  ## wish + could
+  Умение, которого у нас нет: *I **wish** I **could** swim.* — Жаль, что я не умею плавать.
+examples:
+  - "I *wish* I *had* more free time. | Жаль, что у меня мало свободного времени."
+  - "I *wish* I *could* speak French. | Жаль, что я не говорю по-французски."
+  - "I *wish* I *hadn't said* that to her. | Жаль, что я сказал ей это."
+  - "*If only* I *had listened* to my parents! | Если бы только я послушал родителей!"
+  - "I *wish* you *would* clean your room! | Ну убери ты уже свою комнату!"
+  - "She *wishes* she *lived* in a bigger flat. | Ей хотелось бы жить в квартире побольше."
+exercises:
+  - type: choice
+    q: "I don't have a dog. I wish I ___ a dog."
+    options: ["have", "had", "would have"]
+    answer: 1
+  - type: choice
+    q: "I went to bed late. I wish I ___ to bed earlier."
+    options: ["went", "had gone", "would go"]
+    answer: 1
+  - type: choice
+    q: "I can't dance. I wish I ___ dance."
+    options: ["could", "can", "would"]
+    answer: 0
+  - type: choice
+    q: "My neighbour plays loud music. I wish he ___ stop!"
+    options: ["will", "would", "had"]
+    answer: 1
+  - type: choice
+    q: "If only I ___ the answer!"
+    options: ["know", "knew", "would know"]
+    answer: 1
+  - type: choice
+    q: "“I wish I hadn't bought this phone” means…"
+    options: ["I want to buy it.", "I bought it and I regret it.", "I didn't buy it."]
+    answer: 1
+  - type: input
+    q: "I live in a small town. I wish I ___ (live) in a big city."
+    answer: ["lived"]
+  - type: input
+    q: "You told everyone my secret! I wish you ___ (not / tell) anyone."
+    answer: ["hadn't told", "had not told"]
+  - type: cloze
+    text: "It's so cold! I wish I [[*had brought/brought/would bring]] a warmer coat."
+  - type: cloze
+    text: "I wish I [[*were/am/would be]] on holiday right now."
+  - type: error
+    text: "I wish I {{would have=>had}} a bigger house."
+    explain: "Present wish → Past Simple."
+    explain_ru: "Желание о настоящем → Past Simple, без would."
+  - type: error
+    text: "I wish I {{didn't eat=>hadn't eaten}} that fish yesterday. I feel sick."
+  - type: order
+    q: "Составьте: «Жаль, что я не умею играть на гитаре»."
+    answer: "I wish I could play the guitar."
+  - type: match
+    q: "Match the situation and the wish"
+    pairs:
+      - ["I'm not rich.", "I wish I were rich."]
+      - ["I didn't go to the party.", "I wish I had gone to the party."]
+      - ["It's raining all the time.", "I wish it would stop raining."]
+      - ["I can't drive.", "I wish I could drive."]
+  - type: tf
+    items:
+      - ["For past regrets we use wish + Past Perfect.", true]
+      - ["“I wish I would” is the normal way to talk about yourself.", false]
+  - type: listen
+    audio: "I wish I had taken more photos on that trip. I only have three!"
+    q: "What does the speaker regret?"
+    options: ["going on the trip", "not taking enough photos", "losing the photos"]
+    answer: 1
+  - type: speak
+    answer: "I wish I had more free time."
+    ru: "Жаль, что у меня так мало свободного времени."

@@ -1,0 +1,119 @@
+title: "Modals of Deduction"
+title_ru: "Модальные глаголы предположения: must, might, can't"
+section: modals
+summary: "He must be tired. She might be at home. That can't be true."
+summary_ru: "Он, должно быть, устал. Она, может быть, дома. Не может быть!"
+theory: |
+  We use modal verbs to say **how sure** we are about something, based on what we know.
+
+  ## Present: modal + verb
+  | How sure? | Modal | Example |
+  |---|---|---|
+  | ~100% yes | **must** | *He's been working all day. He **must be** tired.* |
+  | ~50% | **might / may / could** | *She's not answering. She **might be** asleep.* |
+  | ~100% no | **can't** | *You've just eaten! You **can't be** hungry.* |
+
+  For an action in progress: **must/might/can't + be + -ing**: *Listen — someone **must be playing** the piano.*
+
+  ## Past: modal + have + V3
+  | How sure? | Example |
+  |---|---|
+  | **must have** | *The ground is wet. It **must have rained** last night.* |
+  | **might/may/could have** | *She's late. She **might have missed** the bus.* |
+  | **can't/couldn't have** | *He **can't have stolen** it — he was with me all evening.* |
+
+  ## Careful
+  - The opposite of **must** (deduction) is **can't**, not ~~mustn't~~: *It can't be John — he's in Paris.*
+  - **must** here does not mean obligation; it means "I'm sure".
+theory_ru: |
+  Модальными глаголами можно выразить, **насколько мы уверены** в чём-то, опираясь на факты.
+
+  ## Настоящее: модальный глагол + глагол
+  | Насколько уверены? | Глагол | Пример |
+  |---|---|---|
+  | ~100% да | **must** — должно быть, наверняка | *He's been working all day. He **must be** tired.* — Он весь день работал. Он, должно быть, устал. |
+  | ~50% | **might / may / could** — может быть, возможно | *She's not answering. She **might be** asleep.* — Она не отвечает. Может, она спит. |
+  | ~100% нет | **can't** — не может быть | *You've just eaten! You **can't be** hungry.* — Ты только что поел! Не может быть, чтобы ты был голоден. |
+
+  Для действия в процессе: **must/might/can't + be + -ing**: *Listen — someone **must be playing** the piano.* — Слышишь? Кто-то, должно быть, играет на пианино.
+
+  ## Прошлое: модальный глагол + have + V3
+  | Насколько уверены? | Пример |
+  |---|---|
+  | **must have** | *The ground is wet. It **must have rained** last night.* — Земля мокрая. Должно быть, ночью шёл дождь. |
+  | **might/may/could have** | *She's late. She **might have missed** the bus.* — Она опаздывает. Возможно, она пропустила автобус. |
+  | **can't/couldn't have** | *He **can't have stolen** it — he was with me all evening.* — Не может быть, чтобы он это украл — он весь вечер был со мной. |
+
+  ## Внимание
+  - Противоположность **must** (в значении предположения) — **can't**, а не ~~mustn't~~: *It can't be John — he's in Paris.* — Это не может быть Джон: он в Париже.
+  - **must** здесь означает не обязанность, а уверенность: «наверняка».
+examples:
+  - "You *must be* Anna's brother — you look just like her. | Вы, должно быть, брат Анны — вы так на неё похожи."
+  - "Take an umbrella. It *might rain* later. | Возьми зонт. Позже может пойти дождь."
+  - "That *can't be* right. Check it again. | Это не может быть правдой. Проверь ещё раз."
+  - "The lights are off. They *must have gone* out. | Свет не горит. Должно быть, они ушли."
+  - "I can't find my keys. I *may have left* them at work. | Не могу найти ключи. Возможно, я оставил их на работе."
+  - "She *can't have seen* us — she didn't say hello. | Не может быть, чтобы она нас видела — она не поздоровалась."
+exercises:
+  - type: choice
+    q: "He's been running for two hours. He ___ be exhausted."
+    options: ["must", "can't", "might not"]
+    answer: 0
+  - type: choice
+    q: "That ___ be Sarah at the door. She's on holiday in Spain."
+    options: ["must", "can't", "might"]
+    answer: 1
+  - type: choice
+    q: "I'm not sure where Tom is. He ___ be in the library."
+    options: ["must", "can't", "might"]
+    answer: 2
+  - type: choice
+    q: "The street is wet. It ___ rained in the night."
+    options: ["must have", "can't have", "must"]
+    answer: 0
+  - type: choice
+    q: "She ___ have failed the exam — she's the best student in the class!"
+    options: ["must", "can't", "might"]
+    answer: 1
+  - type: choice
+    q: "Listen! Someone ___ in the next room."
+    options: ["must sing", "must be singing", "must have sing"]
+    answer: 1
+  - type: input
+    q: "I can't find my phone. I ___ (might / leave) it in the taxi."
+    answer: ["might have left"]
+  - type: input
+    q: "They've got a huge house and three cars. They ___ (must / be) rich."
+    answer: ["must be"]
+  - type: cloze
+    text: "The baby is crying. She [[*must/can't/mustn't]] be hungry. She hasn't eaten for four hours."
+  - type: cloze
+    text: "He didn't come to work. He [[*may/must/can't]] be ill — I'm not sure."
+  - type: error
+    text: "It {{mustn't=>can't}} be Tom — Tom is much taller."
+    explain: "For “I'm sure it isn't true” we use can't, not mustn't."
+    explain_ru: "«Не может быть» — это can't; mustn't означает запрет."
+  - type: error
+    text: "She must {{has forgotten=>have forgotten}} about the meeting."
+  - type: order
+    q: "Составьте: «Должно быть, он опоздал на поезд»."
+    answer: "He must have missed the train."
+  - type: match
+    q: "Match the sentence and the meaning"
+    pairs:
+      - ["He must be at home.", "I'm sure he is at home."]
+      - ["He might be at home.", "Perhaps he is at home."]
+      - ["He can't be at home.", "I'm sure he isn't at home."]
+  - type: tf
+    items:
+      - ["“must have + V3” is used for deductions about the past.", true]
+      - ["“could” can mean “perhaps” in deductions.", true]
+      - ["The opposite of deduction “must” is “mustn't”.", false]
+  - type: listen
+    audio: "Her car isn't outside and her lights are off. She must have gone away for the weekend."
+    q: "What does the speaker think?"
+    options: ["She is asleep.", "She has gone away.", "She has sold her car."]
+    answer: 1
+  - type: speak
+    answer: "You must be tired after such a long journey."
+    ru: "Ты, должно быть, устал после такой долгой дороги."

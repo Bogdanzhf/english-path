@@ -1,0 +1,120 @@
+title: "used to / be used to / get used to"
+title_ru: "used to, be used to, get used to"
+section: verbs
+summary: "I used to live there. I'm used to the noise. I'm getting used to it."
+summary_ru: "Раньше я жил там. Я привык к шуму. Я привыкаю к этому."
+theory: |
+  These three look similar but mean very different things.
+
+  ## used to + verb — past habits and states
+  Something that was true in the past but **isn't true now**:
+  - *I **used to smoke**, but I stopped.*
+  - *We **used to live** in Moscow.*
+  - Negative: *I **didn't use to** like coffee.* Question: ***Did** you **use to** play sport?*
+
+  ## be used to + noun / -ing — be familiar with
+  Something is **normal** for you, not strange or difficult:
+  - *I**'m used to getting** up early. (It isn't difficult for me.)*
+  - *She **isn't used to** the cold weather.*
+  - *Are you used to driving on the left?*
+
+  ## get used to + noun / -ing — become familiar with
+  The **process** of something becoming normal:
+  - *It took me a month to **get used to** my new job.*
+  - *You'll soon **get used to** living alone.*
+  - *I**'m getting used to** the food here.*
+
+  > After **be/get used to**, the verb takes **-ing**, because "to" here is a preposition: *I'm used to **working** at night* (not ~~to work~~).
+theory_ru: |
+  Три похожие конструкции с совсем разным смыслом.
+
+  ## used to + глагол — привычки и состояния в прошлом
+  Так было раньше, но **сейчас уже нет** («раньше…», «бывало…»):
+  - *I **used to smoke**, but I stopped.* — Раньше я курил, но бросил.
+  - *We **used to live** in Moscow.* — Раньше мы жили в Москве.
+  - Отрицание: *I **didn't use to** like coffee.* — Раньше я не любил кофе. Вопрос: ***Did** you **use to** play sport?* — Ты раньше занимался спортом?
+
+  ## be used to + существительное / -ing — быть привычным
+  Что-то для вас **привычно**, не странно и не трудно:
+  - *I**'m used to getting** up early.* — Я привык рано вставать.
+  - *She **isn't used to** the cold weather.* — Она не привыкла к холоду.
+  - *Are you used to driving on the left?* — Ты привык ездить по левой стороне?
+
+  ## get used to + существительное / -ing — привыкать
+  **Процесс** привыкания:
+  - *It took me a month to **get used to** my new job.* — Мне понадобился месяц, чтобы привыкнуть к новой работе.
+  - *You'll soon **get used to** living alone.* — Ты скоро привыкнешь жить один.
+  - *I**'m getting used to** the food here.* — Я привыкаю к здешней еде.
+
+  > После **be/get used to** глагол ставится в форме **-ing**, потому что to здесь — предлог: *I'm used to **working** at night* (не ~~to work~~).
+
+  Запомните: **used to do** = «раньше делал»; **be used to doing** = «привык делать»; **get used to doing** = «привыкать делать».
+examples:
+  - "I *used to* have long hair when I was a student. | В студенчестве у меня были длинные волосы."
+  - "We *didn't use to* have a car. | Раньше у нас не было машины."
+  - "I'm *used to* working at night. | Я привык работать по ночам."
+  - "He isn't *used to* such hot weather. | Он не привык к такой жаре."
+  - "You'll *get used to* the noise. | Ты привыкнешь к шуму."
+  - "I'm slowly *getting used to* my new glasses. | Я постепенно привыкаю к новым очкам."
+exercises:
+  - type: choice
+    q: "I ___ play tennis, but now I prefer golf."
+    options: ["used to", "am used to", "get used to"]
+    answer: 0
+  - type: choice
+    q: "I've lived in London for years, so I'm used to ___ on the left."
+    options: ["drive", "driving", "drove"]
+    answer: 1
+  - type: choice
+    q: "When I moved to Norway, it was hard to ___ the dark winters."
+    options: ["use to", "get used to", "used to"]
+    answer: 1
+  - type: choice
+    q: "___ you use to live in Spain?"
+    options: ["Did", "Were", "Are"]
+    answer: 0
+  - type: choice
+    q: "She's a nurse, so she ___ working at night."
+    options: ["used to", "is used to", "uses to"]
+    answer: 1
+  - type: choice
+    q: "“I used to get up early” means…"
+    options: ["I get up early now.", "I got up early in the past, but not now.", "Getting up early is normal for me."]
+    answer: 1
+  - type: input
+    q: "We ___ (not / use to) have a TV when I was a child."
+    answer: ["didn't use to", "did not use to"]
+  - type: input
+    q: "Don't worry, you'll soon get used to ___ (wear) a uniform."
+    answer: ["wearing"]
+  - type: cloze
+    text: "My grandfather [[*used to/is used to/gets used to]] work in a factory. Now he's retired."
+  - type: cloze
+    text: "I'm not used to [[*getting/get/got]] up so early. I'm always tired!"
+  - type: error
+    text: "I'm used to {{work=>working}} long hours."
+    explain: "be used to + -ing."
+    explain_ru: "be used to + форма -ing."
+  - type: error
+    text: "I {{was used to=>used to}} play the piano when I was young, but I stopped."
+  - type: order
+    q: "Составьте: «Я никак не могу привыкнуть к этой погоде»."
+    answer: "I can't get used to this weather."
+  - type: match
+    q: "Match the phrase and the meaning"
+    pairs:
+      - ["I used to swim.", "I swam in the past, but not now."]
+      - ["I'm used to swimming.", "Swimming is normal for me."]
+      - ["I'm getting used to swimming.", "Swimming is becoming normal for me."]
+  - type: tf
+    items:
+      - ["After “be used to” we use the -ing form.", true]
+      - ["“I used to live here” means I still live here.", false]
+  - type: listen
+    audio: "When I first came to Japan, I couldn't use chopsticks, but I soon got used to them."
+    q: "What did the speaker get used to?"
+    options: ["the food", "chopsticks", "the language"]
+    answer: 1
+  - type: speak
+    answer: "I used to live in a small village."
+    ru: "Раньше я жил в маленькой деревне."

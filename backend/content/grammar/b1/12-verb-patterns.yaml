@@ -1,0 +1,114 @@
+title: "Verb Patterns: -ing or to with a change in meaning"
+title_ru: "Глагол + -ing или to: когда меняется смысл"
+section: verbs
+summary: "stop smoking / stop to smoke; remember to call / remember calling"
+summary_ru: "бросить курить / остановиться, чтобы закурить; не забыть позвонить / помнить, как звонил"
+theory: |
+  Some verbs can be followed by **-ing** or **to + verb**, but the meaning **changes**.
+
+  ## remember / forget
+  - **remember / forget + to do** — before the action (a duty): *Remember **to lock** the door. I forgot **to buy** milk.*
+  - **remember / forget + doing** — a memory of the past: *I remember **meeting** her in 2015. I'll never forget **seeing** the ocean.*
+
+  ## stop
+  - **stop + doing** — finish an activity: *He stopped **smoking**.* (he doesn't smoke now)
+  - **stop + to do** — stop in order to do something: *He stopped **to smoke**.* (he stopped walking in order to smoke)
+
+  ## try
+  - **try + to do** — make an effort (it's difficult): *I tried **to open** the window, but it was stuck.*
+  - **try + doing** — do it as an experiment: *If you can't sleep, try **drinking** warm milk.*
+
+  ## regret
+  - **regret + doing** — feel sorry about the past: *I regret **saying** that.*
+  - **regret + to say/inform/tell** — formal bad news: *We regret **to inform** you that…*
+
+  ## No real change: like, love, hate, start, begin, continue
+  *It started **raining** / **to rain**. I like **swimming** / **to swim**.*
+theory_ru: |
+  Некоторые глаголы могут употребляться и с **-ing**, и с **to + глагол**, но смысл при этом **меняется**.
+
+  ## remember / forget
+  - **remember / forget + to do** — не забыть / забыть **сделать** (обязанность, ещё впереди): *Remember **to lock** the door.* — Не забудь запереть дверь. *I forgot **to buy** milk.* — Я забыл купить молоко.
+  - **remember / forget + doing** — помнить / забыть, **как делал** (воспоминание): *I remember **meeting** her in 2015.* — Я помню, как познакомился с ней в 2015-м. *I'll never forget **seeing** the ocean.* — Никогда не забуду, как увидел океан.
+
+  ## stop
+  - **stop + doing** — перестать, бросить: *He stopped **smoking**.* — Он бросил курить.
+  - **stop + to do** — остановиться, **чтобы** сделать: *He stopped **to smoke**.* — Он остановился, чтобы закурить.
+
+  ## try
+  - **try + to do** — стараться, пытаться (трудно): *I tried **to open** the window, but it was stuck.* — Я пытался открыть окно, но его заклинило.
+  - **try + doing** — попробовать (как эксперимент): *If you can't sleep, try **drinking** warm milk.* — Если не можешь уснуть, попробуй выпить тёплого молока.
+
+  ## regret
+  - **regret + doing** — сожалеть о сделанном: *I regret **saying** that.* — Жалею, что сказал это.
+  - **regret + to say/inform/tell** — с сожалением сообщить (официально): *We regret **to inform** you that…* — С сожалением сообщаем вам, что…
+
+  ## Без изменения смысла: like, love, hate, start, begin, continue
+  *It started **raining** / **to rain**.* — Начался дождь. *I like **swimming** / **to swim**.* — Я люблю плавать.
+examples:
+  - "Don't forget *to call* your grandmother. | Не забудь позвонить бабушке."
+  - "I remember *playing* in this park as a child. | Я помню, как играл в этом парке в детстве."
+  - "She stopped *eating* sweets last year. | В прошлом году она перестала есть сладкое."
+  - "We stopped *to buy* some water. | Мы остановились, чтобы купить воды."
+  - "Try *turning* it off and on again. | Попробуй выключить и снова включить."
+  - "I tried *to explain*, but she didn't listen. | Я пытался объяснить, но она не слушала."
+exercises:
+  - type: choice
+    q: "Did you remember ___ the tickets? — Oh no, I forgot!"
+    options: ["buying", "to buy", "buy"]
+    answer: 1
+  - type: choice
+    q: "I'll never forget ___ the Eiffel Tower for the first time."
+    options: ["to see", "seeing", "see"]
+    answer: 1
+  - type: choice
+    q: "My dad stopped ___ ten years ago. He's much healthier now."
+    options: ["smoking", "to smoke", "smoke"]
+    answer: 0
+  - type: choice
+    q: "We were tired, so we stopped ___ a coffee."
+    options: ["having", "to have", "have"]
+    answer: 1
+  - type: choice
+    q: "The cake isn't sweet enough. Try ___ some honey."
+    options: ["adding", "to add", "add"]
+    answer: 0
+  - type: choice
+    q: "I tried ___ the box, but it was too heavy."
+    options: ["lifting", "to lift", "lift"]
+    answer: 1
+  - type: input
+    q: "I regret ___ (not / study) harder at school."
+    answer: ["not studying"]
+  - type: input
+    q: "Please remember ___ (turn) off the lights."
+    answer: ["to turn"]
+  - type: cloze
+    text: "On the way home, I stopped [[*to buy/buying]] bread. Then I remembered I had stopped [[*eating/to eat]] bread last month!"
+  - type: cloze
+    text: "I remember [[*locking/to lock]] the door, so why is it open now?"
+  - type: error
+    text: "I forgot {{sending=>to send}} the email, so I'll do it now."
+    explain: "The email wasn't sent → forget + to do."
+    explain_ru: "Письмо не отправлено → forget + to do (забыл сделать)."
+  - type: error
+    text: "If you have a headache, try {{to drink=>drinking}} more water."
+  - type: match
+    q: "Match the sentence and the meaning"
+    pairs:
+      - ["He stopped talking.", "He was silent."]
+      - ["He stopped to talk.", "He stopped walking in order to talk."]
+      - ["I remember calling her.", "I have a memory of it."]
+      - ["Remember to call her.", "Don't forget your duty."]
+  - type: tf
+    items:
+      - ["“I stopped to eat” means I don't eat anymore.", false]
+      - ["“Try doing” means do something as an experiment.", true]
+  - type: listen
+    audio: "I tried to fix the computer myself, but in the end I had to call a technician."
+    q: "Did the speaker fix the computer?"
+    options: ["Yes, easily.", "No, he needed help.", "He didn't try."]
+    answer: 1
+  - type: speak
+    answer: "I remember meeting her for the first time."
+    ru: "Я помню, как впервые встретил её."

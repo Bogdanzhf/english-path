@@ -1,0 +1,121 @@
+title: "Indirect Questions"
+title_ru: "Косвенные (вежливые) вопросы"
+section: sentences
+summary: "Could you tell me where the station is? Do you know if he's coming?"
+summary_ru: "Не подскажете, где вокзал? Вы не знаете, придёт ли он?"
+theory: |
+  Indirect questions are **more polite** than direct questions. We often use them with strangers, in shops, hotels and at work.
+
+  ## Opening phrases
+  - *Could you tell me…?*
+  - *Do you know…?*
+  - *I'd like to know…*
+  - *I wonder…*
+  - *Do you have any idea…?*
+
+  ## Word order: subject + verb (like a statement)
+  | Direct | Indirect |
+  |---|---|
+  | Where **is the station**? | Could you tell me where **the station is**? |
+  | What time **does the shop open**? | Do you know what time **the shop opens**? |
+  | Why **did she leave**? | I wonder why **she left**. |
+
+  No **do/does/did** in the second part!
+
+  ## Yes/No questions: if / whether
+  - *Is he at home?* → *Do you know **if** he's at home?*
+  - *Can I park here?* → *Could you tell me **whether** I can park here?*
+
+  ## Question mark?
+  Only if the opening phrase is a question: *Do you know where she is**?*** but *I wonder where she is**.***
+theory_ru: |
+  Косвенные вопросы звучат **вежливее** прямых. Их используют с незнакомыми людьми, в магазинах, отелях, на работе.
+
+  ## Вводные фразы
+  - *Could you tell me…?* — Не могли бы вы сказать / подсказать…?
+  - *Do you know…?* — Вы не знаете…?
+  - *I'd like to know…* — Я хотел бы узнать…
+  - *I wonder…* — Интересно… / Хотелось бы знать…
+  - *Do you have any idea…?* — Вы не представляете…?
+
+  ## Порядок слов: подлежащее + сказуемое (как в утверждении)
+  | Прямой вопрос | Косвенный вопрос |
+  |---|---|
+  | Where **is the station**? | Could you tell me where **the station is**? — Не подскажете, где вокзал? |
+  | What time **does the shop open**? | Do you know what time **the shop opens**? — Вы не знаете, во сколько открывается магазин? |
+  | Why **did she leave**? | I wonder why **she left**. — Интересно, почему она ушла. |
+
+  Во второй части **нет do/does/did**, и порядок слов прямой!
+
+  ## Вопросы «да/нет»: if / whether
+  Русское «ли» → **if** или **whether**:
+  - *Is he at home?* → *Do you know **if** he's at home?* — Вы не знаете, дома ли он?
+  - *Can I park here?* → *Could you tell me **whether** I can park here?* — Не подскажете, можно ли здесь парковаться?
+
+  ## Вопросительный знак?
+  Только если вводная фраза — вопрос: *Do you know where she is**?***, но *I wonder where she is**.***
+examples:
+  - "Could you tell me where *the bank is*? | Не подскажете, где банк?"
+  - "Do you know what time *the film starts*? | Вы не знаете, во сколько начинается фильм?"
+  - "I wonder why *he didn't call*. | Интересно, почему он не позвонил."
+  - "Do you know *if* the museum is open on Mondays? | Вы не знаете, открыт ли музей по понедельникам?"
+  - "Could you tell me how much *this costs*? | Не подскажете, сколько это стоит?"
+  - "I'd like to know *whether* breakfast is included. | Я хотел бы узнать, включён ли завтрак."
+exercises:
+  - type: choice
+    q: "Could you tell me where ___?"
+    options: ["is the toilet", "the toilet is", "does the toilet"]
+    answer: 1
+  - type: choice
+    q: "Do you know what time ___?"
+    options: ["the train leaves", "does the train leave", "leaves the train"]
+    answer: 0
+  - type: choice
+    q: "I wonder ___ she's coming to the party."
+    options: ["that", "if", "what"]
+    answer: 1
+  - type: choice
+    q: "Can you tell me how much ___?"
+    options: ["does it cost", "it costs", "costs it"]
+    answer: 1
+  - type: choice
+    q: "Do you know why ___ the job?"
+    options: ["did he leave", "he left", "he did leave"]
+    answer: 1
+  - type: input
+    q: "Where is the post office? → Could you tell me where ___ ?"
+    answer: ["the post office is"]
+  - type: input
+    q: "Does this bus go to the airport? → Do you know ___ this bus goes to the airport? (one word)"
+    answer: ["if", "whether"]
+  - type: cloze
+    text: "Excuse me, do you know where [[*I can/can I/do I can]] buy a ticket?"
+  - type: cloze
+    text: "I'd like to know what time [[*the shop closes/does the shop close/closes the shop]]."
+  - type: error
+    text: "Can you tell me where {{does she live=>she lives}}?"
+    explain: "In indirect questions: no do/does, normal word order."
+    explain_ru: "В косвенном вопросе нет do/does, порядок слов прямой."
+  - type: error
+    text: "Do you know {{is it=>if it is}} far from here?"
+  - type: order
+    q: "Составьте: «Не подскажете, сколько сейчас времени?»"
+    answer: "Could you tell me what time it is?"
+  - type: match
+    q: "Match direct and indirect questions"
+    pairs:
+      - ["Where is it?", "Do you know where it is?"]
+      - ["When does it open?", "Do you know when it opens?"]
+      - ["Is it free?", "Do you know if it is free?"]
+  - type: tf
+    items:
+      - ["Indirect questions are more polite.", true]
+      - ["We use “do/does” in the second part of an indirect question.", false]
+  - type: listen
+    audio: "Excuse me, could you tell me whether this train stops at Oxford?"
+    q: "What does the person want to know?"
+    options: ["the price of the ticket", "if the train stops at Oxford", "when the train leaves"]
+    answer: 1
+  - type: speak
+    answer: "Could you tell me where the station is?"
+    ru: "Не подскажете, где вокзал?"

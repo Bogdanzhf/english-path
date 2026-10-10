@@ -1,0 +1,111 @@
+title: "too, enough, so, such"
+title_ru: "too, enough, so, such"
+section: adjectives
+summary: "too hot, old enough, so tired, such a nice day"
+summary_ru: "слишком жарко, достаточно взрослый, такой уставший, такой хороший день"
+theory: |
+  ## too + adjective / adverb — more than is good
+  - *This coffee is **too hot** to drink.*
+  - *You're driving **too fast**!*
+  - **too much** + uncountable noun, **too many** + plural noun: *There's **too much** sugar. There are **too many** people.*
+
+  ## enough — the right amount
+  - adjective/adverb **+ enough**: *She's **old enough** to drive. You didn't run **fast enough**.*
+  - **enough +** noun: *We have **enough money**. There aren't **enough chairs**.*
+  - Often + **to** + verb or **for** + person: *It's warm enough **to swim**. Is it big enough **for you**?*
+
+  ## so and such — very, with emphasis
+  - **so** + adjective / adverb: *The film was **so boring**! She speaks **so quickly**.*
+  - **such (a/an)** + (adjective) + noun: *It was **such a boring** film! They're **such nice** people.*
+
+  ## so / such … that — result
+  - *It was **so cold that** we stayed at home.*
+  - *It was **such a cold day that** we stayed at home.*
+theory_ru: |
+  ## too + прилагательное / наречие — слишком
+  Больше, чем нужно или хорошо:
+  - *This coffee is **too hot** to drink.* — Этот кофе слишком горячий, чтобы пить.
+  - *You're driving **too fast**!* — Ты едешь слишком быстро!
+  - **too much** + неисчисляемое, **too many** + множественное: *There's **too much** sugar.* — Слишком много сахара. *There are **too many** people.* — Слишком много людей.
+
+  ## enough — достаточно
+  - прилагательное/наречие **+ enough** (после!): *She's **old enough** to drive.* — Она достаточно взрослая, чтобы водить. *You didn't run **fast enough**.* — Ты бежал недостаточно быстро.
+  - **enough +** существительное (перед!): *We have **enough money**.* — У нас достаточно денег. *There aren't **enough chairs**.* — Не хватает стульев.
+  - Часто + **to** + глагол или **for** + кто: *It's warm enough **to swim**.* — Достаточно тепло, чтобы купаться. *Is it big enough **for you**?* — Тебе не мало?
+
+  ## so и such — такой, так (усиление)
+  - **so** + прилагательное / наречие: *The film was **so boring**!* — Фильм был такой скучный! *She speaks **so quickly**.* — Она так быстро говорит.
+  - **such (a/an)** + (прилагательное) + существительное: *It was **such a boring** film!* — Это был такой скучный фильм! *They're **such nice** people.* — Они такие милые люди.
+
+  ## so / such … that — так…, что (результат)
+  - *It was **so cold that** we stayed at home.* — Было так холодно, что мы остались дома.
+  - *It was **such a cold day that** we stayed at home.* — Был такой холодный день, что мы остались дома.
+
+  > Не путайте **too** (слишком — плохо) и **very** (очень): *It's very hot, but we can go out.* / *It's too hot — we can't go out.*
+examples:
+  - "I'm *too* tired to go out tonight. | Я слишком устал, чтобы идти куда-то сегодня."
+  - "He isn't tall *enough* to play basketball. | Он недостаточно высокий, чтобы играть в баскетбол."
+  - "Have we got *enough* eggs for a cake? | У нас хватит яиц на торт?"
+  - "The weather was *so* nice that we went to the beach. | Погода была такая хорошая, что мы пошли на пляж."
+  - "She's *such* a good cook! | Она такая хорошая повариха!"
+  - "There were *too many* people at the concert. | На концерте было слишком много людей."
+exercises:
+  - type: choice
+    q: "I can't reach the shelf. I'm not ___."
+    options: ["tall enough", "enough tall", "too tall"]
+    answer: 0
+  - type: choice
+    q: "This bag is ___ heavy. I can't carry it."
+    options: ["very", "too", "enough"]
+    answer: 1
+  - type: choice
+    q: "It was ___ a beautiful day that we had a picnic."
+    options: ["so", "such", "too"]
+    answer: 1
+  - type: choice
+    q: "The music was ___ loud that I couldn't hear anything."
+    options: ["so", "such", "enough"]
+    answer: 0
+  - type: choice
+    q: "There are ___ cars in the city centre."
+    options: ["too much", "too many", "enough many"]
+    answer: 1
+  - type: choice
+    q: "We don't have ___ to buy a new car."
+    options: ["money enough", "enough money", "too money"]
+    answer: 1
+  - type: input
+    q: "Is the water warm ___ to swim? (one word)"
+    answer: ["enough"]
+  - type: input
+    q: "They are ___ nice people! (so/such)"
+    answer: ["such"]
+  - type: cloze
+    text: "I drank [[*too much/too many/enough much]] coffee and now I can't sleep."
+  - type: cloze
+    text: "She speaks [[*so/such/such a]] quickly that I don't understand her."
+  - type: error
+    text: "He is {{enough old=>old enough}} to vote."
+    explain: "enough goes after an adjective."
+    explain_ru: "enough ставится после прилагательного."
+  - type: error
+    text: "It was {{so=>such}} a long journey."
+  - type: order
+    q: "Составьте: «Это был такой интересный фильм»."
+    answer: "It was such an interesting film."
+  - type: odd
+    q: "Which phrase is wrong?"
+    options: ["so tired", "such a nice day", "such tired", "too much noise"]
+    answer: 2
+  - type: tf
+    items:
+      - ["“enough” comes before a noun: enough time.", true]
+      - ["“too” means the same as “very”.", false]
+  - type: listen
+    audio: "The flat was nice, but it was too small for a family of five, so we didn't rent it."
+    q: "Why didn't they rent the flat?"
+    options: ["It was too expensive.", "It was too small.", "It was too far."]
+    answer: 1
+  - type: speak
+    answer: "It was such a beautiful day that we went to the beach."
+    ru: "Был такой прекрасный день, что мы пошли на пляж."

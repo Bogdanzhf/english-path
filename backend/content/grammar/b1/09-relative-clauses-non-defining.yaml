@@ -1,0 +1,127 @@
+title: "Defining and Non-defining Relative Clauses"
+title_ru: "Определительные придаточные: ограничительные и описательные"
+section: clauses
+summary: "The man who lives next door… / My brother, who lives in Paris, …"
+summary_ru: "Человек, который живёт по соседству… / Мой брат, который живёт в Париже, …"
+theory: |
+  ## Relative pronouns
+  | Pronoun | For | Example |
+  |---|---|---|
+  | **who** | people | *the woman **who** called* |
+  | **which** | things, animals | *the book **which** I read* |
+  | **that** | people or things (defining only) | *the car **that** I bought* |
+  | **whose** | possession | *the boy **whose** dog bit me* |
+  | **where** | places | *the town **where** I grew up* |
+  | **when** | times | *the day **when** we met* |
+
+  ## Defining clauses (no commas)
+  They tell us **which** person or thing we mean. Without them, the sentence is incomplete.
+  - *The man **who lives next door** is a doctor.*
+  - *Is this the bus **that goes** to the station?*
+  - You can leave out who/which/that if it is the **object**: *The film (**that**) we saw was great.*
+
+  ## Non-defining clauses (with commas)
+  They add **extra information**. The sentence is complete without them.
+  - *My brother, **who lives in Paris**, is a chef.* (I have only one brother)
+  - *The Louvre, **which** is in Paris, is the world's biggest museum.*
+  - In non-defining clauses: **no "that"** and you **can't leave out** the pronoun.
+
+  ## which referring to a whole sentence
+  *He passed the exam, **which** surprised everyone.* (= the fact that he passed)
+theory_ru: |
+  ## Относительные местоимения
+  | Слово | Для чего | Пример |
+  |---|---|---|
+  | **who** | люди | *the woman **who** called* — женщина, которая звонила |
+  | **which** | вещи, животные | *the book **which** I read* — книга, которую я читал |
+  | **that** | люди или вещи (только в ограничительных) | *the car **that** I bought* — машина, которую я купил |
+  | **whose** | принадлежность («чей») | *the boy **whose** dog bit me* — мальчик, чья собака меня укусила |
+  | **where** | места | *the town **where** I grew up* — город, где я вырос |
+  | **when** | время | *the day **when** we met* — день, когда мы познакомились |
+
+  ## Ограничительные (defining) — без запятых
+  Уточняют, **о ком/о чём именно** речь. Без них предложение теряет смысл.
+  - *The man **who lives next door** is a doctor.* — Человек, который живёт по соседству, — врач.
+  - *Is this the bus **that goes** to the station?* — Это автобус, который идёт до вокзала?
+  - Если who/which/that — **дополнение**, его можно опустить: *The film (**that**) we saw was great.* — Фильм, который мы посмотрели, был отличный.
+
+  ## Описательные (non-defining) — с запятыми
+  Дают **дополнительную информацию**. Предложение понятно и без неё.
+  - *My brother, **who lives in Paris**, is a chef.* — Мой брат, который живёт в Париже, — повар (брат у меня один).
+  - *The Louvre, **which** is in Paris, is the world's biggest museum.* — Лувр, который находится в Париже, — крупнейший музей мира.
+  - В описательных придаточных: **нельзя использовать that** и **нельзя опускать** местоимение.
+
+  > В русском запятые ставятся всегда, а в английском запятые меняют смысл! *My sister who lives in Rome…* — значит, есть и другие сёстры; *My sister, who lives in Rome, …* — сестра одна.
+
+  ## which, относящееся ко всему предложению
+  *He passed the exam, **which** surprised everyone.* — Он сдал экзамен, что всех удивило.
+examples:
+  - "The woman *who* lives upstairs is very friendly. | Женщина, которая живёт этажом выше, очень дружелюбная."
+  - "This is the restaurant *where* we had our first date. | Это ресторан, где у нас было первое свидание."
+  - "I have a friend *whose* father is a pilot. | У меня есть друг, чей отец — пилот."
+  - "London, *which* is the capital of the UK, has nine million people. | В Лондоне, столице Великобритании, живёт девять миллионов человек."
+  - "My grandmother, *who* is 90, still swims every day. | Моя бабушка, которой 90 лет, до сих пор плавает каждый день."
+  - "She didn't call me, *which* made me sad. | Она мне не позвонила, и это меня огорчило."
+exercises:
+  - type: choice
+    q: "That's the girl ___ brother is in my class."
+    options: ["who", "whose", "which"]
+    answer: 1
+  - type: choice
+    q: "Paris, ___ is my favourite city, is very expensive."
+    options: ["that", "which", "where"]
+    answer: 1
+  - type: choice
+    q: "This is the hotel ___ we stayed last summer."
+    options: ["which", "where", "when"]
+    answer: 1
+  - type: choice
+    q: "I'll never forget the day ___ I met you."
+    options: ["when", "where", "who"]
+    answer: 0
+  - type: choice
+    q: "Which sentence is correct?"
+    options: ["My mother, that is a nurse, works at night.", "My mother, who is a nurse, works at night.", "My mother who is a nurse, works at night."]
+    answer: 1
+  - type: choice
+    q: "In which sentence can you leave out the pronoun?"
+    options: ["The man who called you is here.", "The book that I bought is boring.", "My dad, who is 50, plays football."]
+    answer: 1
+  - type: input
+    q: "The people ___ live next door are very noisy. (who/which/whose)"
+    answer: ["who", "that"]
+  - type: input
+    q: "He missed the bus, ___ meant he was late for work."
+    answer: ["which"]
+  - type: cloze
+    text: "Barcelona, [[*where/which/that]] Gaudí built many of his buildings, is in Spain."
+  - type: cloze
+    text: "The film [[*which/who/where]] we watched last night was really scary."
+  - type: error
+    text: "Mount Everest, {{that=>which}} is in Nepal, is the highest mountain in the world."
+    explain: "No “that” in non-defining clauses (with commas)."
+    explain_ru: "В описательных придаточных (с запятыми) that не используется."
+  - type: error
+    text: "I know a man {{which=>who}} speaks eight languages."
+  - type: order
+    q: "Составьте: «Это девушка, чья мама — известная певица»."
+    answer: "This is the girl whose mother is a famous singer."
+  - type: match
+    q: "Match the beginning and the end"
+    pairs:
+      - ["A baker is a person", "who makes bread."]
+      - ["A library is a place", "where you can borrow books."]
+      - ["A fridge is a machine", "which keeps food cold."]
+      - ["An orphan is a child", "whose parents have died."]
+  - type: tf
+    items:
+      - ["Non-defining clauses are separated by commas.", true]
+      - ["We can use “that” in non-defining clauses.", false]
+  - type: listen
+    audio: "My uncle, who works as a pilot, has visited over sixty countries."
+    q: "What is the uncle's job?"
+    options: ["a teacher", "a pilot", "a sailor"]
+    answer: 1
+  - type: speak
+    answer: "This is the town where I was born."
+    ru: "Это город, где я родился."

@@ -1,0 +1,109 @@
+title: "have / get something done"
+title_ru: "have / get something done — «мне сделали»"
+section: passive
+summary: "I had my hair cut. We're getting the car repaired."
+summary_ru: "Я подстригся (в парикмахерской). Нам ремонтируют машину."
+theory: |
+  ## Form: have + object + past participle (V3)
+  We use this when **someone else does something for us**, usually a service we pay for.
+  - *I **cut my hair**.* — I did it myself.
+  - *I **had my hair cut**.* — A hairdresser did it.
+
+  | Tense | Example |
+  |---|---|
+  | Present Simple | *I **have** my car **washed** every week.* |
+  | Past Simple | *She **had** her nails **done** yesterday.* |
+  | Present Continuous | *We**'re having** the kitchen **painted**.* |
+  | Present Perfect | *Have you **had** your eyes **tested**?* |
+  | going to / will | *I**'m going to have** my photo **taken**.* |
+
+  ## get something done
+  **get** is more informal and very common in speech: *I need to **get** my phone **repaired**.*
+
+  ## Bad experiences
+  We also use it for unpleasant things that happen to us: *He **had** his bike **stolen**. She **had** her bag **taken**.*
+
+  ## Word order
+  have + **object** + V3: *I had **my teeth** checked* (not ~~I had checked my teeth~~ — that means I did it myself).
+theory_ru: |
+  ## Форма: have + объект + третья форма (V3)
+  Конструкция показывает, что действие для нас **сделал кто-то другой** — обычно это услуга, за которую платят. В русском мы часто говорим «я подстригся», «я починил машину», хотя на самом деле это сделали за нас. В английском это различие важно:
+  - *I **cut my hair**.* — Я сам себя подстриг.
+  - *I **had my hair cut**.* — Меня подстригли (в парикмахерской).
+
+  | Время | Пример |
+  |---|---|
+  | Present Simple | *I **have** my car **washed** every week.* — Я мою машину (на мойке) каждую неделю. |
+  | Past Simple | *She **had** her nails **done** yesterday.* — Вчера она сделала маникюр. |
+  | Present Continuous | *We**'re having** the kitchen **painted**.* — Нам сейчас красят кухню. |
+  | Present Perfect | *Have you **had** your eyes **tested**?* — Ты проверял зрение? |
+  | going to / will | *I**'m going to have** my photo **taken**.* — Я собираюсь сфотографироваться. |
+
+  ## get something done
+  **get** — более разговорный вариант, очень частый в речи: *I need to **get** my phone **repaired**.* — Мне нужно отдать телефон в ремонт.
+
+  ## Неприятности
+  Так же говорят о неприятностях, которые с нами случились: *He **had** his bike **stolen**.* — У него украли велосипед. *She **had** her bag **taken**.* — У неё отняли сумку.
+
+  ## Порядок слов
+  have + **объект** + V3: *I had **my teeth** checked* — мне проверили зубы. А *I had checked my teeth* — это Past Perfect: «я (сам) проверил зубы».
+examples:
+  - "I *had* my hair *cut* yesterday. | Вчера я подстригся."
+  - "We're *having* a new kitchen *fitted*. | Нам устанавливают новую кухню."
+  - "You should *get* your eyes *tested*. | Тебе стоит проверить зрение."
+  - "She *has* her dress *cleaned* every month. | Она каждый месяц сдаёт платье в химчистку."
+  - "He *had* his wallet *stolen* on the train. | У него в поезде украли кошелёк."
+  - "Where did you *get* your photos *printed*? | Где ты печатал фотографии?"
+exercises:
+  - type: choice
+    q: "I didn't cut my hair myself. I ___ at the hairdresser's."
+    options: ["cut it", "had it cut", "had cut it"]
+    answer: 1
+  - type: choice
+    q: "My car is at the garage. I'm ___."
+    options: ["repairing it", "having it repaired", "had it repaired"]
+    answer: 1
+  - type: choice
+    q: "She ___ her portrait painted last year."
+    options: ["has", "had", "was"]
+    answer: 1
+  - type: choice
+    q: "We need to ___ the roof fixed before winter."
+    options: ["get", "make", "do"]
+    answer: 0
+  - type: choice
+    q: "He had his phone ___ at the concert."
+    options: ["steal", "stolen", "stealing"]
+    answer: 1
+  - type: input
+    q: "I'm going to have my teeth ___ (check) next week."
+    answer: ["checked"]
+  - type: input
+    q: "We ___ (have / the house / paint) last summer. (Write: had … painted)"
+    answer: ["had the house painted"]
+  - type: cloze
+    text: "Have you [[*had/did/made]] your eyes tested recently?"
+  - type: cloze
+    text: "I don't clean my windows myself — I have them [[cleaned]] (clean) once a month."
+  - type: error
+    text: "I had {{cut my hair=>my hair cut}} yesterday."
+    explain: "Word order: have + object + V3."
+    explain_ru: "Порядок слов: have + объект + V3."
+  - type: error
+    text: "We are having our kitchen {{paint=>painted}}."
+  - type: order
+    q: "Составьте: «Ей завтра делают маникюр» (have her nails done)."
+    answer: "She is having her nails done tomorrow."
+  - type: tf
+    items:
+      - ["“I had my car washed” means I washed it myself.", false]
+      - ["“get something done” is more informal than “have something done”.", true]
+      - ["“She had her bag stolen” describes a bad experience.", true]
+  - type: listen
+    audio: "This weekend I'm having my flat cleaned because my parents are coming to visit."
+    q: "Who will clean the flat?"
+    options: ["the speaker", "the parents", "someone else"]
+    answer: 2
+  - type: speak
+    answer: "I had my hair cut last week."
+    ru: "На прошлой неделе я подстригся."
