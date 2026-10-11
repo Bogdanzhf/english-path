@@ -103,8 +103,23 @@ def save_webp(data: bytes, out: Path) -> None:
     img.save(out, "WEBP", quality=82, method=6)
 
 
+# Аватары профиля: символ эмодзи (хранится в профиле) → название в Fluent Emoji.
+AVATARS = {
+    "🦊": "fox", "🐼": "panda", "🦉": "owl", "🐯": "tiger face", "🐺": "wolf", "🦁": "lion",
+    "🐧": "penguin", "🐬": "dolphin", "🚀": "rocket", "🎧": "headphone", "📚": "books", "⚡": "high voltage",
+}
+
+
+def build_avatars(index: dict[str, str]) -> None:
+    for name in AVATARS.values():
+        out = OUT.parent / "av" / f"{slug(name)}.webp"
+        if not out.exists():
+            save_webp(cached(f"fluent_{slug(name)}.png", FLUENT_RAW + urllib.parse.quote(index[name])), out)
+
+
 def main() -> None:
     index = fluent_index()
+    build_avatars(index)
     mapping = parse_mapping()
     result: dict[str, str] = {}
     missing: list[str] = []

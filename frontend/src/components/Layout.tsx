@@ -25,6 +25,7 @@ import { useI18n } from '../i18n'
 import type { DictKey } from '../i18n/dict'
 import { isDue } from '../lib/srs'
 import { useApp } from '../state'
+import { Avatar } from './ui'
 
 interface NavItem {
   to: string
@@ -114,7 +115,7 @@ export function Layout() {
         <div className="sidebar-foot">
           {user && (
             <NavLink to="/profile" className="user-chip">
-              <span className="avatar">{user.avatar}</span>
+              <Avatar value={user.avatar} />
               <span className="label grow">
                 <b>{user.display_name}</b>
                 <div className="tiny muted">{t('nav_profile')}</div>

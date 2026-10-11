@@ -76,12 +76,17 @@ export function Flashcards({ items, mode, onDone }: { items: CardItem[]; mode: '
   const item = order[i]
   const finished = i >= order.length
 
+  // Колода начинается заново только при смене набора слов. Родитель может пересоздать массив
+  // (например, после сохранения прогресса каждые 10 карточек) — это не должно сбрасывать позицию.
+  const itemsKey = items.map((x) => x.id).join('|')
   useEffect(() => {
     setOrder(items)
     setI(0)
     setFlipped(false)
     setKnown(0)
-  }, [items])
+    setPending([])
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [itemsKey])
 
   // произносим слово при показе карточки (если включено в настройках)
   useEffect(() => {

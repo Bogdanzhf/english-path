@@ -2,11 +2,11 @@ import { Download, Info, LogOut, Upload, Users } from 'lucide-react'
 import { useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { AudioButton } from '../components/Audio'
-import { PageHead, Segmented, Switch } from '../components/ui'
+import { Avatar, PageHead, Segmented, Switch } from '../components/ui'
 import { useI18n } from '../i18n'
 import { store } from '../lib/store'
 import { useApp } from '../state'
-import { AVATARS } from './Login'
+import { AvatarPicker } from './Login'
 
 function PasswordForm() {
   const { t } = useI18n()
@@ -82,19 +82,13 @@ export default function Profile() {
 
       <section className="card stack">
         <div className="row nowrap" style={{ gap: 16 }}>
-          <span className="avatar lg">{user.avatar}</span>
+          <Avatar value={user.avatar} large />
           <div className="grow">
             <h2 className="mb-0">{user.display_name}</h2>
             {mode === 'server' && <div className="muted small">@{user.username}</div>}
           </div>
         </div>
-        <div className="row">
-          {AVATARS.map((a) => (
-            <button key={a} className="avatar" style={{ cursor: 'pointer', border: user.avatar === a ? '2px solid var(--primary)' : '2px solid transparent' }} onClick={() => saveProfile({ avatar: a })} aria-label={a}>
-              {a}
-            </button>
-          ))}
-        </div>
+        <AvatarPicker value={user.avatar} onChange={(avatar) => saveProfile({ avatar })} />
         <form
           className="row nowrap"
           onSubmit={(e) => {

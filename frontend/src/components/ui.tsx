@@ -9,6 +9,21 @@ import { useI18n } from '../i18n'
 import { CEFR } from '../lib/course'
 import type { LevelId } from '../lib/types'
 
+// Аватары — 3D-картинки Fluent Emoji (одинаково выглядят на Windows и iPhone); в профиле хранится сам символ.
+export const AVATARS: Record<string, string> = {
+  '🦊': 'fox', '🐼': 'panda', '🦉': 'owl', '🐯': 'tiger-face', '🐺': 'wolf', '🦁': 'lion',
+  '🐧': 'penguin', '🐬': 'dolphin', '🚀': 'rocket', '🎧': 'headphone', '📚': 'books', '⚡': 'high-voltage',
+}
+
+export function Avatar({ value, large }: { value?: string; large?: boolean }) {
+  const file = value ? AVATARS[value] : undefined
+  return (
+    <span className={large ? 'avatar lg' : 'avatar'} aria-hidden="true">
+      {file ? <img src={`${import.meta.env.BASE_URL}img/av/${file}.webp`} alt="" draggable={false} /> : value}
+    </span>
+  )
+}
+
 export function Loader() {
   return (
     <div className="loader" role="status" aria-label="loading">

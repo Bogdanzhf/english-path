@@ -115,13 +115,44 @@
   display: grid;
   place-items: center;
   font-size: 1.25rem;
+  line-height: 1;
   background: var(--surface-2);
   flex-shrink: 0;
+  overflow: hidden;
+}
+.avatar img {
+  width: 72%;
+  height: 72%;
+  object-fit: contain;
+  display: block;
 }
 .avatar.lg {
   width: 64px;
   height: 64px;
   font-size: 2.1rem;
+}
+.avatar-picker {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.avatar-pick {
+  padding: 0;
+  border: 0;
+  background: none;
+  border-radius: 50%;
+  box-shadow: 0 0 0 2px transparent;
+  transition: box-shadow var(--t-fast), transform var(--t-fast);
+}
+.avatar-pick:hover {
+  transform: translateY(-1px);
+}
+.avatar-pick .avatar {
+  width: 44px;
+  height: 44px;
+}
+.avatar-pick[aria-pressed='true'] {
+  box-shadow: 0 0 0 2px var(--primary);
 }
 
 .main {

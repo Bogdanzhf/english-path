@@ -45,6 +45,7 @@ export default function Unit() {
   const meta = course?.levels.find((l) => l.id === level)?.units.find((u) => u.num === n)
   const unit = data?.level.units.find((u) => u.num === n)
   const words = useMemo(() => data?.bank.byUnit(level, n) ?? [], [data, level, n])
+  const cards = useMemo(() => words.map((w) => ({ id: w.id, word: w })), [words])
   const vocabKey = lessonKeys.vocab(level, n)
 
   useEffect(() => {
@@ -120,7 +121,7 @@ export default function Unit() {
               ))}
             </div>
           )}
-          {tab === 'cards' && <Flashcards items={words.map((w) => ({ id: w.id, word: w }))} mode="learn" />}
+          {tab === 'cards' && <Flashcards items={cards} mode="learn" />}
           {tab === 'practice' && (
             <div className="stack">
               <p className="muted center">{t('practice_intro')}</p>

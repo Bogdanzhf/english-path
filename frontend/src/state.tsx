@@ -34,7 +34,7 @@ function applyTheme(theme: Prefs['theme']) {
   document.querySelector('meta[name="theme-color"]:not([media])')?.remove()
   const meta = document.createElement('meta')
   meta.name = 'theme-color'
-  meta.content = dark ? '#0e131b' : '#f7f5f2'
+  meta.content = dark ? '#1b2230' : '#e8e4dc'
   document.head.appendChild(meta)
 }
 

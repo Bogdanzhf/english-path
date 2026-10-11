@@ -3,27 +3,18 @@
 import { AlertCircle, Plus } from 'lucide-react'
 import { useEffect, useState } from 'react'
 import { Logo } from '../components/Layout'
-import { Segmented } from '../components/ui'
+import { Avatar, AVATARS, Segmented } from '../components/ui'
 import { useI18n } from '../i18n'
 import { store } from '../lib/store'
 import type { User } from '../lib/types'
 import { useApp } from '../state'
 
-export const AVATARS = ['🦊', '🐼', '🦉', '🐯', '🐺', '🦁', '🐧', '🐬', '🚀', '🎧', '📚', '⚡']
-
-function AvatarPicker({ value, onChange }: { value: string; onChange: (a: string) => void }) {
+export function AvatarPicker({ value, onChange }: { value: string; onChange: (a: string) => void }) {
   return (
-    <div className="row" style={{ gap: 6 }}>
-      {AVATARS.map((a) => (
-        <button
-          key={a}
-          type="button"
-          className="avatar"
-          style={{ border: value === a ? '2px solid var(--primary)' : '2px solid transparent', cursor: 'pointer' }}
-          onClick={() => onChange(a)}
-          aria-pressed={value === a}
-        >
-          {a}
+    <div className="avatar-picker">
+      {Object.keys(AVATARS).map((a) => (
+        <button key={a} type="button" className="avatar-pick" onClick={() => onChange(a)} aria-pressed={value === a} aria-label={AVATARS[a]}>
+          <Avatar value={a} />
         </button>
       ))}
     </div>
@@ -59,7 +50,7 @@ function ServerLogin() {
   const { t } = useI18n()
   const { signedIn } = useApp()
   const [mode, setMode] = useState<'login' | 'register'>('login')
-  const [form, setForm] = useState({ username: '', password: '', password2: '', display_name: '', avatar: AVATARS[0] })
+  const [form, setForm] = useState({ username: '', password: '', password2: '', display_name: '', avatar: Object.keys(AVATARS)[0] })
   const [error, setError] = useState('')
   const [busy, setBusy] = useState(false)
   const set = (k: keyof typeof form) => (e: React.ChangeEvent<HTMLInputElement>) => setForm((f) => ({ ...f, [k]: e.target.value }))
@@ -149,7 +140,7 @@ export function LocalProfiles() {
   const [profiles, setProfiles] = useState<User[]>([])
   const [creating, setCreating] = useState(false)
   const [name, setName] = useState('')
-  const [avatar, setAvatar] = useState(AVATARS[0])
+  const [avatar, setAvatar] = useState(Object.keys(AVATARS)[0])
   const [error, setError] = useState('')
   useEffect(() => {
     store.listProfiles!().then((p) => {
@@ -175,7 +166,7 @@ export function LocalProfiles() {
           <div className="stack">
             {profiles.map((p) => (
               <button key={p.id} className="word-row" onClick={async () => signedIn(await store.switchProfile!(String(p.id)))}>
-                <span className="avatar">{p.avatar}</span>
+                <Avatar value={p.avatar} />
                 <span className="w grow">{p.display_name}</span>
               </button>
             ))}
