@@ -15,6 +15,11 @@ function audio(): AudioContext | null {
   return ctx
 }
 
+/** Первое касание: создать и запустить звуковой контекст (iOS разрешает это только по касанию). */
+export function unlockSounds() {
+  audio()
+}
+
 /** Одна нота: частота, начало (с), длительность (с), тембр, громкость. */
 function note(ac: AudioContext, freq: number, start: number, dur: number, type: OscillatorType = 'sine', vol = 0.18, slideTo?: number) {
   const t = ac.currentTime + start

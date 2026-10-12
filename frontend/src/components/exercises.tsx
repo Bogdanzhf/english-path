@@ -2,7 +2,7 @@
 // с итогом проверки; дальше родитель (Quiz) показывает пояснение и кнопку «Дальше».
 
 import { Check, Mic, RotateCcw, Snail, Volume2 } from 'lucide-react'
-import { useEffect, useMemo, useRef, useState } from 'react'
+import { useEffect, useMemo, useRef, useState, type CSSProperties } from 'react'
 import { useI18n } from '../i18n'
 import { asset } from '../lib/course'
 import {
@@ -283,6 +283,8 @@ export function DialogView({ ex, onResult, answered }: ViewProps<DialogEx>) {
 
 // ---------- пары ----------
 
+const PAIR_COLORS = ['var(--primary)', 'var(--teal)', 'var(--violet)', 'var(--amber)', 'var(--coral)', '#d6589f']
+
 export function MatchView({ ex, onResult, answered }: ViewProps<MatchEx>) {
   const left = useMemo(() => shuffle(ex.pairs.map((p, i) => ({ text: p[0], i }))), [ex])
   const right = useMemo(() => shuffle(ex.pairs.map((p, i) => ({ text: p[1], i }))), [ex])
@@ -308,6 +310,10 @@ export function MatchView({ ex, onResult, answered }: ViewProps<MatchEx>) {
       setTimeout(() => setBad(null), 450)
     }
   }
+  // каждая найденная пара — своим цветом и номером: слово и перевод окрашены одинаково
+  const pairNo = (i: number) => done.indexOf(i)
+  const pairStyle = (i: number) => (pairNo(i) < 0 ? undefined : ({ '--pair': PAIR_COLORS[pairNo(i) % PAIR_COLORS.length] } as CSSProperties))
+  const pairMark = (i: number) => (pairNo(i) < 0 ? null : <span className="pair-no">{pairNo(i) + 1}</span>)
   return (
     <div className="match">
       <div className="match-col">
@@ -315,12 +321,14 @@ export function MatchView({ ex, onResult, answered }: ViewProps<MatchEx>) {
           <button
             key={l.i}
             className={`match-item en${done.includes(l.i) ? ' done' : ''}${sel === l.i ? ' selected' : ''}`}
+            style={pairStyle(l.i)}
             disabled={done.includes(l.i) || answered}
             onClick={() => {
               play('tap')
               setSel(l.i)
             }}
           >
+            {pairMark(l.i)}
             <Md inline>{l.text}</Md>
           </button>
         ))}
@@ -330,9 +338,11 @@ export function MatchView({ ex, onResult, answered }: ViewProps<MatchEx>) {
           <button
             key={r.i}
             className={`match-item${done.includes(r.i) ? ' done' : ''}${bad === r.i ? ' bad' : ''}`}
+            style={pairStyle(r.i)}
             disabled={done.includes(r.i) || answered}
             onClick={() => pickRight(r.i)}
           >
+            {pairMark(r.i)}
             <Md inline>{r.text}</Md>
           </button>
         ))}

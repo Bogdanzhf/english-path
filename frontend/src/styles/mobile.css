@@ -1,0 +1,157 @@
+/* Адаптация под iPhone и iPad (сенсорные экраны). Подключается последним — уточняет остальные стили. */
+
+/* Фон с градиентом — отдельным неподвижным слоем: background-attachment: fixed в Safari на iPhone
+   не работает и заставляет фон дёргаться при прокрутке. */
+body {
+  background-image: none;
+  overscroll-behavior-y: none;
+}
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background: var(--bg);
+  background-image: var(--bg-grad);
+  pointer-events: none;
+}
+
+/* Страница никогда не шире экрана (экран не «плавает» вбок). clip не мешает «липкой» шапке. */
+.main {
+  overflow-x: clip;
+}
+img,
+svg,
+video,
+table {
+  max-width: 100%;
+}
+
+/* заголовок страницы не сжимается в столбик из-за кнопки справа — кнопка уходит на новую строку */
+.page-head > .grow {
+  min-width: min(100%, 280px);
+}
+
+/* поле поиска на страницах не сжимается в иконку: если места мало, фильтры уходят на новую строку */
+.content .search.grow {
+  min-width: min(100%, 240px);
+}
+
+/* Касания: без задержки и без случайного зума двойным тапом */
+html {
+  touch-action: manipulation;
+}
+
+/* На сенсорных экранах эффекты наведения «залипают» после касания — отключаем сдвиги. */
+@media (hover: none) {
+  a.card:hover,
+  button.card:hover,
+  .card.link:hover,
+  .avatar-pick:hover {
+    transform: none;
+    box-shadow: none;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+}
+
+/* Поля ввода не меньше 16px — иначе iOS увеличивает страницу при нажатии на поле. */
+@media (pointer: coarse) {
+  .input,
+  input:not([type='checkbox']):not([type='radio']):not([type='range']),
+  select,
+  textarea {
+    font-size: 16px;
+  }
+}
+
+/* ---------- телефон ---------- */
+@media (max-width: 760px) {
+  /* длинные надписи на кнопках переносятся, а не раздвигают экран */
+  .btn {
+    white-space: normal;
+    text-align: center;
+    line-height: 1.25;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    max-width: 100%;
+  }
+  .row > * {
+    max-width: 100%;
+  }
+
+  /* подписи нижней панели — в одну строку даже на iPhone SE */
+  .bottombar a,
+  .bottombar button {
+    min-width: 0;
+    padding: 0 2px;
+    white-space: nowrap;
+    font-size: clamp(0.6rem, 2.75vw, 0.68rem);
+    letter-spacing: -0.01em;
+  }
+
+  /* переключатели (уровни, фильтры) прокручиваются пальцем внутри себя */
+  .segmented {
+    display: flex;
+    max-width: 100%;
+    overflow-x: auto;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+  }
+  .segmented::-webkit-scrollbar {
+    display: none;
+  }
+  .segmented button {
+    flex-shrink: 0;
+    min-height: 34px;
+  }
+
+  /* поиск на страницах — во всю ширину отдельной строкой */
+  .content .search.grow {
+    flex: 1 1 100%;
+    max-width: none !important;
+  }
+  .content select.input {
+    width: 100% !important;
+  }
+
+  /* вкладки разделов — прокрутка вбок вместо переполнения */
+  .tabs {
+    max-width: 100%;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+  .tabs::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* когда открыта клавиатура, нижняя панель не закрывает поле ввода */
+  html.kb-open .bottombar {
+    display: none;
+  }
+  html.kb-open .content {
+    padding-bottom: var(--space-6);
+  }
+
+  /* модальные окна — почти во весь экран, с прокруткой */
+  .modal {
+    max-height: calc(100dvh - 24px - env(safe-area-inset-top) - env(safe-area-inset-bottom));
+    overflow-y: auto;
+  }
+}
+
+/* ---------- iPad в портретной ориентации ---------- */
+@media (min-width: 761px) and (max-width: 1080px) {
+  .content {
+    padding: var(--space-5) var(--space-5) calc(var(--space-7) + env(safe-area-inset-bottom));
+  }
+}
+
+/* вырезы экрана iPhone в горизонтальной ориентации */
+@media (max-width: 760px) {
+  .content {
+    padding-left: max(var(--space-4), env(safe-area-inset-left));
+    padding-right: max(var(--space-4), env(safe-area-inset-right));
+  }
+}

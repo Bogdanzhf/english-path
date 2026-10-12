@@ -23,8 +23,18 @@ export default defineConfig({
     },
     {
       name: 'iphone',
-      testMatch: /static\.spec\.ts/,
+      testMatch: /(static|mobile)\.spec\.ts/,
       use: { ...devices['iPhone 14'], baseURL: `http://localhost:${STATIC_PORT}` },
+    },
+    {
+      name: 'iphone-se',
+      testMatch: /mobile\.spec\.ts/,
+      use: { ...devices['iPhone SE'], baseURL: `http://localhost:${STATIC_PORT}` },
+    },
+    {
+      name: 'ipad',
+      testMatch: /(static|mobile)\.spec\.ts/,
+      use: { ...devices['iPad Mini'], baseURL: `http://localhost:${STATIC_PORT}` },
     },
     {
       name: 'server',

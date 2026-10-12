@@ -146,6 +146,9 @@ export function wordExercise(word: Word, mode: WordMode, opts: WordGenOptions): 
   const meaning = (w: Word) => (ru ? w.ru : w.def)
   const key = `${word.id}:${mode}`
   const say = wordAudio(word, opts.accent)
+  // после ответа — слово с транскрипцией и переводом, чтобы закрепить значение
+  const ipa = opts.accent === 'uk' ? word.uk : word.us
+  const gloss = { explainRu: `**${word.w}** /${ipa}/ — ${word.ru}`, explain: `**${word.w}** /${ipa}/ — ${plain(word.def)}` }
   switch (mode) {
     case 'meaning':
       return {
@@ -165,7 +168,7 @@ export function wordExercise(word: Word, mode: WordMode, opts: WordGenOptions): 
       return {
         key,
         wordId: word.id,
-        ex: { type: 'choice', q: word.def, ...choice(word.w, distractors(word, pool, 3, (w) => w.w)),
+        ex: { type: 'choice', q: word.def, ...choice(word.w, distractors(word, pool, 3, (w) => w.w)), ...gloss,
           task: 'Which word matches the definition?', taskRu: 'Какое слово подходит к определению?' },
       }
     case 'cloze': {
@@ -174,7 +177,7 @@ export function wordExercise(word: Word, mode: WordMode, opts: WordGenOptions): 
       return {
         key,
         wordId: word.id,
-        ex: { type: 'choice', q: gap.text, ...choice(gap.answer, others), hint: word.exRu,
+        ex: { type: 'choice', q: gap.text, ...choice(gap.answer, others), hint: word.exRu, ...gloss,
           task: 'Complete the sentence', taskRu: 'Вставьте слово в предложение' },
       }
     }
@@ -182,7 +185,7 @@ export function wordExercise(word: Word, mode: WordMode, opts: WordGenOptions): 
       return {
         key,
         wordId: word.id,
-        ex: { type: 'listen', audio: word.w, audioKey: opts.accent === 'uk' ? word.au : word.aa, answer: [word.w],
+        ex: { type: 'listen', audio: word.w, audioKey: opts.accent === 'uk' ? word.au : word.aa, answer: [word.w], ...gloss,
           task: 'Listen and type the word', taskRu: 'Послушайте и напишите слово' },
       }
     case 'spell':
@@ -205,7 +208,7 @@ export function wordExercise(word: Word, mode: WordMode, opts: WordGenOptions): 
       return {
         key,
         wordId: word.id,
-        ex: { type: 'tf', items: [[`**${word.w}** — ${shown}`, shown === meaning(word)]], say,
+        ex: { type: 'tf', items: [[`**${word.w}** — ${shown}`, shown === meaning(word)]], say, ...gloss,
           task: 'True or false?', taskRu: 'Верно или неверно?' },
       }
     }

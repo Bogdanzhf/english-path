@@ -59,15 +59,32 @@ export function listen({
   rec.interimResults = true
   rec.maxAlternatives = 5
   let done = false
+  // Safari на iPhone часто не помечает результат как окончательный и не останавливается сам:
+  // запоминаем последний промежуточный текст и завершаем запись после паузы в речи.
+  let lastAlts: string[] = []
+  let silence: ReturnType<typeof setTimeout> | undefined
+  const finishSoon = () => {
+    clearTimeout(silence)
+    silence = setTimeout(() => {
+      try {
+        rec.stop()
+      } catch {
+        /* уже остановлено */
+      }
+    }, 1600)
+  }
   rec.onresult = (e) => {
     const last = e.results[e.results.length - 1]
+    const alts: string[] = []
+    for (let i = 0; i < last.length; i++) alts.push(last[i].transcript)
     if (last.isFinal) {
-      const alts: string[] = []
-      for (let i = 0; i < last.length; i++) alts.push(last[i].transcript)
       done = true
+      clearTimeout(silence)
       onResult(alts)
     } else {
-      onInterim?.(last[0].transcript)
+      lastAlts = alts
+      onInterim?.(alts[0] ?? '')
+      finishSoon()
     }
   }
   rec.onerror = (e) => {
@@ -80,7 +97,8 @@ export function listen({
     if (e.error !== 'aborted') onError?.(map[e.error] ?? 'other')
   }
   rec.onend = () => {
-    if (!done) onResult([])
+    clearTimeout(silence)
+    if (!done) onResult(lastAlts.filter((a) => a.trim()))
     onEnd?.()
   }
   try {
@@ -89,5 +107,10 @@ export function listen({
     onError?.('other')
     onEnd?.()
   }
-  return { stop: () => rec.stop() }
+  return {
+    stop: () => {
+      clearTimeout(silence)
+      rec.stop()
+    },
+  }
 }

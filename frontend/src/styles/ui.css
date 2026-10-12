@@ -128,6 +128,8 @@
 }
 .row.nowrap {
   flex-wrap: nowrap;
+  /* «nowrap» у строки — только про перенос блоков, текст внутри переносится как обычно */
+  white-space: normal;
 }
 .stack {
   display: flex;

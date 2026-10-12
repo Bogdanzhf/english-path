@@ -48,16 +48,54 @@ function ttsUtterance(text: string, accent: Accent, rate: number) {
 }
 
 // ---------- воспроизведение ----------
+// Один общий <audio> на всё приложение. Safari на iPhone/iPad разрешает звук только после касания:
+// элемент, запущенный хоть раз по касанию, дальше играет и без него (следующие фразы текста,
+// автопроизношение карточки). Новый Audio() на каждую фразу iOS блокировал бы.
 
-let current: HTMLAudioElement | null = null
+let el: HTMLAudioElement | null = null
+const player = () => (el ??= new Audio())
 let token = 0 // номер текущего воспроизведения: новая команда отменяет старую
+let settle: (() => void) | null = null // завершить ожидание прерванной фразы
+
+/** Короткая тишина (WAV), чтобы «разбудить» плеер при первом касании. */
+function silentWav() {
+  const n = 800
+  const buf = new Uint8Array(44 + n)
+  const v = new DataView(buf.buffer)
+  const str = (o: number, s: string) => [...s].forEach((c, i) => (buf[o + i] = c.charCodeAt(0)))
+  str(0, 'RIFF'), v.setUint32(4, 36 + n, true), str(8, 'WAVEfmt '), v.setUint32(16, 16, true)
+  v.setUint16(20, 1, true), v.setUint16(22, 1, true), v.setUint32(24, 8000, true), v.setUint32(28, 8000, true)
+  v.setUint16(32, 1, true), v.setUint16(34, 8, true), str(36, 'data'), v.setUint32(40, n, true)
+  buf.fill(128, 44)
+  let bin = ''
+  buf.forEach((b) => (bin += String.fromCharCode(b)))
+  return 'data:audio/wav;base64,' + btoa(bin)
+}
+
+let unlocked = false
+/** Вызывается при первом касании: разблокирует плеер и синтез речи на iOS. */
+export function unlockAudio() {
+  if (unlocked || typeof window === 'undefined') return
+  unlocked = true
+  const a = player()
+  if (!a.src) {
+    a.src = silentWav()
+    a.play().catch(() => (unlocked = false))
+  }
+  if (synth && !synth.speaking) {
+    const u = new SpeechSynthesisUtterance(' ')
+    u.volume = 0
+    synth.speak(u)
+  }
+}
 
 export function stop() {
   token++
-  if (current) {
-    current.pause()
-    current.src = ''
-    current = null
+  settle?.()
+  settle = null
+  if (el) {
+    el.onended = el.onerror = null
+    el.pause()
   }
   synth?.cancel()
 }
@@ -73,8 +111,12 @@ export interface Clip {
 function playOne(clip: Clip, my: number, rate: number): Promise<void> {
   return new Promise((resolve) => {
     if (my !== token) return resolve()
+    settle = resolve
     const accent = clip.accent ?? settings.accent
+    let fellBack = false
     const fallback = () => {
+      if (fellBack) return
+      fellBack = true
       if (my !== token || !synth) return resolve()
       const u = ttsUtterance(clip.text, accent, rate)
       u.onend = () => resolve()
@@ -82,13 +124,17 @@ function playOne(clip: Clip, my: number, rate: number): Promise<void> {
       synth.speak(u)
     }
     if (!clip.key) return fallback()
-    const a = new Audio(audioUrl(clip.key))
-    current = a
+    const a = player()
+    a.onended = () => my === token && resolve()
+    a.onerror = () => my === token && fallback()
+    a.src = audioUrl(clip.key)
+    a.defaultPlaybackRate = rate
     a.playbackRate = rate
     ;(a as HTMLAudioElement & { preservesPitch?: boolean }).preservesPitch = true
-    a.onended = () => resolve()
-    a.onerror = () => fallback()
-    a.play().catch(fallback)
+    a.play().catch((e: DOMException) => {
+      // AbortError — фразу прервала следующая команда, это не ошибка
+      if (my === token && e?.name !== 'AbortError') fallback()
+    })
   })
 }
 

@@ -55,7 +55,26 @@ function useDueCount() {
   }, [progress.words])
 }
 
+/** На телефоне, пока открыта экранная клавиатура, прячем нижнюю панель (иначе она закрывает поле ввода). */
+function useKeyboardFlag() {
+  useEffect(() => {
+    const isText = (el: EventTarget | null) =>
+      el instanceof HTMLTextAreaElement || (el instanceof HTMLInputElement && !['checkbox', 'radio', 'range', 'button', 'submit', 'file'].includes(el.type))
+    const root = document.documentElement
+    const onIn = (e: FocusEvent) => isText(e.target) && root.classList.add('kb-open')
+    const onOut = () => setTimeout(() => !isText(document.activeElement) && root.classList.remove('kb-open'), 50)
+    document.addEventListener('focusin', onIn)
+    document.addEventListener('focusout', onOut)
+    return () => {
+      document.removeEventListener('focusin', onIn)
+      document.removeEventListener('focusout', onOut)
+      root.classList.remove('kb-open')
+    }
+  }, [])
+}
+
 export function Layout() {
+  useKeyboardFlag()
   const { t, lang, setLang } = useI18n()
   const { user, prefs, setPrefs } = useApp()
   const due = useDueCount()

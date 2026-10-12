@@ -372,9 +372,26 @@
   box-shadow: var(--focus);
 }
 .match-item.done {
-  border-color: var(--green);
-  background: var(--green-soft);
-  opacity: 0.6;
+  --pair: var(--green);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border-color: var(--pair);
+  background: color-mix(in srgb, var(--pair) 16%, var(--surface));
+  color: var(--text);
+  opacity: 1;
+}
+.match-item .pair-no {
+  flex-shrink: 0;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  font-size: 0.75rem;
+  font-weight: 800;
+  background: var(--pair);
+  color: #fff;
 }
 .match-item.bad {
   border-color: var(--red);
@@ -629,8 +646,20 @@
   gap: var(--space-3);
   text-align: center;
 }
+.flash-face.front {
+  transform: rotateY(0deg) translateZ(1px);
+}
 .flash-face.back {
-  transform: rotateY(180deg);
+  transform: rotateY(180deg) translateZ(1px);
+}
+/* Safari (iPhone/iPad) иногда показывает оборотную сторону зеркально поверх лицевой —
+   прячем невидимую сторону ровно в середине переворота, когда карточка стоит ребром. */
+.flash-face {
+  transition: visibility 0s linear 250ms;
+}
+.flashcard:not(.flipped) .flash-face.back,
+.flashcard.flipped .flash-face.front {
+  visibility: hidden;
 }
 .flash-word {
   font-family: var(--font-head);

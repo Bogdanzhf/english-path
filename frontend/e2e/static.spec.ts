@@ -159,8 +159,8 @@ test.describe('static site', () => {
     }
   })
 
-  test('mobile bottom bar navigates', async ({ page, isMobile }) => {
-    test.skip(!isMobile, 'только для телефона')
+  test('mobile bottom bar navigates', async ({ page, isMobile, viewport }) => {
+    test.skip(!isMobile || (viewport?.width ?? 0) > 760, 'только для телефона (на iPad — боковое меню)')
     await createProfile(page)
     const bar = page.locator('nav.bottombar')
     await expect(bar).toBeVisible()
