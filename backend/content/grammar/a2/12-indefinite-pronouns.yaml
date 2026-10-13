@@ -78,7 +78,7 @@ exercises:
     q: "I have ___ (нечего) to wear!"
     answer: ["nothing"]
   - type: cloze
-    text: "I want to go [[somewhere]] quiet for the weekend. [[Everyone|Everybody]] in my family is busy, so I'll go alone. I don't need [[anyone|anybody]]."
+    text: "I want to go [[somewhere]] (куда-нибудь) quiet for the weekend. [[Everyone|Everybody]] (все) in my family is busy, so I'll go alone. I don't need [[anyone|anybody]] (никто)."
   - type: error
     text: "I don't know {{nobody=>anybody}} in this city."
   - type: error

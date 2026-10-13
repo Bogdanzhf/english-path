@@ -69,10 +69,10 @@ exercises:
     q: "We ___ (not / be) at school last Monday."
     answer: ["weren't", "were not"]
   - type: input
-    q: "___ there many people at the party? — Yes, there were."
+    q: "___ (be) there many people at the party? — Yes, there were."
     answer: ["Were"]
   - type: cloze
-    text: "Last weekend [[was]] great. The weather [[was]] sunny, and my friends [[were]] with me. We [[weren't|were not]] at home at all!"
+    text: "Last weekend [[was]] (be) great. The weather [[was]] (be) sunny, and my friends [[were]] (be) with me. We [[weren't|were not]] (not / be) at home at all!"
   - type: error
     text: "They {{was=>were}} very happy."
   - type: error

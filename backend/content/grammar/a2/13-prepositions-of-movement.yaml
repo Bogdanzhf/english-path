@@ -91,7 +91,7 @@ exercises:
     q: "The children ran ___ the stairs to the kitchen. (вниз)"
     answer: ["down"]
   - type: cloze
-    text: "Go [[out of]] the hotel and turn left. Walk [[past]] the church and go [[across]] the bridge. The museum is [[next to]] the park."
+    text: "Go [[out of]] (из) the hotel and turn left. Walk [[past]] (мимо) the church and go [[across]] (через) the bridge. The museum is [[next to]] (рядом с) the park."
   - type: error
     text: "She walked {{in=>into}} the room and sat down."
   - type: order

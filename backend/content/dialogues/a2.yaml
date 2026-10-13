@@ -195,6 +195,7 @@
       options: ["two", "four", "fourteen"]
       answer: 1
     - type: cloze
+      q: "Он идёт без пересадок или мне нужно пересаживаться?"
       text: "Is it [[direct]], or do I have to [[change]]?"
 
 - id: a2-returning-something

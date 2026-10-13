@@ -27,7 +27,7 @@ theory: |
   - *Can I park here?* → *Could you tell me **whether** I can park here?*
 
   ## Question mark?
-  Only if the opening phrase is a question: *Do you know where she is**?*** but *I wonder where she is**.***
+  Only if the opening phrase is a question: *Do you know where she is*`?` but *I wonder where she is*`.`
 theory_ru: |
   Косвенные вопросы звучат **вежливее** прямых. Их используют с незнакомыми людьми, в магазинах, отелях, на работе.
 
@@ -53,7 +53,7 @@ theory_ru: |
   - *Can I park here?* → *Could you tell me **whether** I can park here?* — Не подскажете, можно ли здесь парковаться?
 
   ## Вопросительный знак?
-  Только если вводная фраза — вопрос: *Do you know where she is**?***, но *I wonder where she is**.***
+  Только если вводная фраза — вопрос: *Do you know where she is*`?`, но *I wonder where she is*`.`
 examples:
   - "Could you tell me where *the bank is*? | Не подскажете, где банк?"
   - "Do you know what time *the film starts*? | Вы не знаете, во сколько начинается фильм?"

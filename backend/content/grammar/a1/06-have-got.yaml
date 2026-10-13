@@ -7,7 +7,7 @@ theory: |
   ## Two ways to say the same thing
   | | have got (more British, spoken) | have (everywhere) |
   |---|---|---|
-  | + | I**'ve got** a car. She**'s got** a car. | I **have** a car. She **has** a car. |
+  | + | **I've got** a car. **She's got** a car. | I **have** a car. She **has** a car. |
   | − | I **haven't got** a car. She **hasn't got** … | I **don't have** a car. She **doesn't have** … |
   | ? | **Have** you **got** a car? — Yes, I have. | **Do** you **have** a car? — Yes, I do. |
 
@@ -27,7 +27,7 @@ theory_ru: |
 
   | | have got (чаще в Британии, в разговоре) | have (везде) |
   |---|---|---|
-  | + | I**'ve got** a car. She**'s got** a car. | I **have** a car. She **has** a car. |
+  | + | **I've got** a car. **She's got** a car. | I **have** a car. She **has** a car. |
   | − | I **haven't got** a car. She **hasn't got** … | I **don't have** a car. She **doesn't have** … |
   | ? | **Have** you **got** a car? — Yes, I have. | **Do** you **have** a car? — Yes, I do. |
 
@@ -44,7 +44,7 @@ theory_ru: |
 
   > Для действий — только **have** без got: ***have** breakfast* (завтракать), ***have** a shower* (принимать душ), ***have** fun* (веселиться).
 examples:
-  - "I*'ve got* two sisters and a brother. | У меня две сестры и брат."
+  - "*I've got* two sisters and a brother. | У меня две сестры и брат."
   - "She *has* beautiful green eyes. | У неё красивые зелёные глаза."
   - "*Have* you *got* a pen? — Sorry, I *haven't*. | У тебя есть ручка? — Извини, нет."
   - "*Do* you *have* any pets? — Yes, we *have* a dog. | У вас есть домашние животные? — Да, у нас собака."
@@ -76,7 +76,7 @@ exercises:
     q: "She ___ (not / have) a sister. (с do/does)"
     answer: ["doesn't have", "does not have"]
   - type: cloze
-    text: "My friend Max [[has]] got a big family. He's [[got]] three brothers. [[Have]] you got any brothers?"
+    text: "My friend Max [[has]] (have) got a big family. He's [[got]] three brothers. [[Have]] (have) you got any brothers?"
   - type: error
     text: "{{Do=>Have}} you got a pen?"
   - type: error

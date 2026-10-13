@@ -48,10 +48,10 @@ theory_ru: |
   - *I **have lived** here **for** ten years.* — Я живу здесь десять лет (и сейчас живу). (не ~~I live here for ten years~~)
   - Вопрос: ***How long have** you **known** her?* — Как давно ты её знаешь?
 examples:
-  - "I*'ve* *lost* my glasses. Have you seen them? | Я потерял очки. Ты их не видел?"
+  - "*I've* *lost* my glasses. Have you seen them? | Я потерял очки. Ты их не видел?"
   - "I *lost* my glasses on the bus yesterday. | Вчера я потерял очки в автобусе."
-  - "We*'ve known* each other *for* twenty years. | Мы знаем друг друга двадцать лет."
-  - "She*'s worked* here *since* 2018. | Она работает здесь с 2018 года."
+  - "*We've known* each other *for* twenty years. | Мы знаем друг друга двадцать лет."
+  - "*She's worked* here *since* 2018. | Она работает здесь с 2018 года."
   - "Have you ever met a famous person? — Yes, I *met* a famous actor at the airport last year. | Ты когда-нибудь встречал знаменитость? — Да, в прошлом году в аэропорту я встретил известного актёра."
 exercises:
   - type: choice
@@ -81,7 +81,7 @@ exercises:
     explain: "When asks about a specific past time → Past Simple."
     explain_ru: "When спрашивает о конкретном времени → Past Simple."
   - type: cloze
-    text: "Have you ever [[been]] to New York? — Yes, I [[went]] there in 2022. We [[stayed]] in a hotel near Central Park."
+    text: "Have you ever [[been]] (be) to New York? — Yes, I [[went]] (go) there in 2022. We [[stayed]] (stay) in a hotel near Central Park."
   - type: cloze
     text: "I [[*have known/know/knew]] Maria for ten years. We [[met/*have met/meet]] at university."
     explain: "Second gap: we met at university — a finished event → Past Simple."

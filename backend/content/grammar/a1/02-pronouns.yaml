@@ -86,7 +86,7 @@ exercises:
     q: "We love our grandparents and visit ___ every week. (их)"
     answer: ["them"]
   - type: cloze
-    text: "Hi! [[My]] name is Lisa. This is [[my]] friend Jack. [[He]] is from Canada. I like [[him]] a lot."
+    text: "Hi! [[My]] (I) name is Lisa. This is [[my]] (I) friend Jack. [[He]] (Jack) is from Canada. I like [[him]] (he) a lot."
   - type: cloze
     text: "Is this book [[yours/*your/you]]? — No, it's [[he/*his/him]] book."
     explain: "Before a noun (book) we need a possessive adjective: your book, his book."

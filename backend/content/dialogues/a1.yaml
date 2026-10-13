@@ -32,6 +32,7 @@
       options: ["tired", "happy", "nervous"]
       answer: 2
     - type: cloze
+      q: "Приятно познакомиться. Откуда вы?"
       text: "Nice to [[meet]] you. Where [[are]] you from?"
 
 - id: a1-at-the-cafe
@@ -69,6 +70,7 @@
       options: ["£5.80", "£8.50", "£18.50"]
       answer: 1
     - type: cloze
+      q: "Можно мне кофе, пожалуйста? — Хотите что-нибудь ещё?"
       text: "Can I [[have]] a coffee, please? — Would you like anything [[else]]?"
 
 - id: a1-asking-the-way
@@ -181,6 +183,7 @@
       options: ["£60", "£45", "£40"]
       answer: 1
     - type: cloze
+      q: "Можно примерить? — Конечно, примерочные вон там."
       text: "Can I [[try]] it on? — Sure, the changing [[rooms]] are over there."
 
 - id: a1-weekend-plans

@@ -3675,11 +3675,6 @@
 "text": "Can you block the card?"
 },
 {
-"key": "0ba516ba2385fed8",
-"voice": "f-us",
-"text": "By the end of the year, I'll have read fifty books."
-},
-{
 "key": "0babe23b6388cf73",
 "voice": "f-us",
 "text": "ancestor"
@@ -5270,6 +5265,11 @@
 "text": "Some people who worshipped the old sea gods said the ocean had punished them."
 },
 {
+"key": "109826508888eae7",
+"voice": "m-us",
+"text": "I've been waiting for you for an hour!"
+},
+{
 "key": "10a1277707ea5328",
 "voice": "f-us",
 "text": "step"
@@ -5668,11 +5668,6 @@
 "key": "1201fb689580a186",
 "voice": "f-uk",
 "text": "speculate"
-},
-{
-"key": "120284f8b9965cdb",
-"voice": "m-us",
-"text": "It was raining; however, we went out."
 },
 {
 "key": "1208ccaa5364721c",
@@ -7465,11 +7460,6 @@
 "text": "Bins are collected on alternate weeks."
 },
 {
-"key": "17c4554c7da36678",
-"voice": "f-us",
-"text": "I've got two sisters and a brother."
-},
-{
 "key": "17c540e4a42cffae",
 "voice": "f-uk",
 "text": "pose"
@@ -8023,11 +8013,6 @@
 "key": "194510e58c5cfb88",
 "voice": "f-uk",
 "text": "consider"
-},
-{
-"key": "194c59868a98bfc2",
-"voice": "m-uk",
-"text": "We've known each other for twenty years."
 },
 {
 "key": "19529c7ab6667a2f",
@@ -8653,6 +8638,11 @@
 "key": "1b7fbe4b2016d478",
 "voice": "f-uk",
 "text": "nap"
+},
+{
+"key": "1b865622b5a8b78d",
+"voice": "m-uk",
+"text": "You need three things: a map, water and a torch."
 },
 {
 "key": "1b86b2c573a62727",
@@ -9313,6 +9303,11 @@
 "key": "1d85c9c5e974b1e3",
 "voice": "m-us",
 "text": "Then he lit the fuse."
+},
+{
+"key": "1d8ca2cebac22cbc",
+"voice": "f-us",
+"text": "We've known each other for twenty years."
 },
 {
 "key": "1d919176d73adf5b",
@@ -10658,11 +10653,6 @@
 "key": "219a113fadcb49b0",
 "voice": "f-uk",
 "text": "In the first quarter of the year, the café made almost no money, and she felt embarrassed when friends asked about it."
-},
-{
-"key": "219b64e0218a3650",
-"voice": "f-uk",
-"text": "Don't call at nine — I'll be watching the match."
 },
 {
 "key": "219cf8bf84f32163",
@@ -12258,6 +12248,11 @@
 "key": "26410938add66194",
 "voice": "f-uk",
 "text": "They took a boat to a quiet island and watched the ducks on the lake near the hotel."
+},
+{
+"key": "264347417a57d657",
+"voice": "m-us",
+"text": "Don't call at nine — I'll be watching the match."
 },
 {
 "key": "2643d1ef78177343",
@@ -18565,11 +18560,6 @@
 "text": "They are a quiet tribute to the young people who sacrificed their lives for a free Europe."
 },
 {
-"key": "3aa509bda3e8b6d0",
-"voice": "m-uk",
-"text": "Be quiet, please. I'm talking on the phone."
-},
-{
 "key": "3aa79a64b25c4e14",
 "voice": "f-uk",
 "text": "Most bands begin their careers touring in a small van, packed with instruments, equipment and everyone's stuff."
@@ -21470,6 +21460,11 @@
 "text": "convert"
 },
 {
+"key": "43709494481a85c9",
+"voice": "f-uk",
+"text": "It was raining; however, we went out."
+},
+{
 "key": "43709758e4bdf95f",
 "voice": "f-us",
 "text": "He had a seizure and fell to the floor."
@@ -22093,11 +22088,6 @@
 "key": "45705c4941c1ee29",
 "voice": "f-us",
 "text": "rabbit"
-},
-{
-"key": "457597cb41bc8f3b",
-"voice": "m-uk",
-"text": "In May I'll have been teaching for twenty years."
 },
 {
 "key": "45767cd83382fb98",
@@ -24060,11 +24050,6 @@
 "text": "The two men had very different plans."
 },
 {
-"key": "4b66355531349e8d",
-"voice": "f-uk",
-"text": "I've been waiting for you for an hour!"
-},
-{
 "key": "4b6cf836d751c140",
 "voice": "f-uk",
 "text": "She's very resourceful and always finds a solution."
@@ -24223,11 +24208,6 @@
 "key": "4bd53eb1250c8cbc",
 "voice": "f-uk",
 "text": "The statue is made of copper."
-},
-{
-"key": "4bd73bec2263a947",
-"voice": "m-uk",
-"text": "They aren't watching TV, they're playing chess."
 },
 {
 "key": "4bd86041d5d19118",
@@ -24445,6 +24425,11 @@
 "text": "The cat slowly approached the bird."
 },
 {
+"key": "4c9e8be8738cdcf0",
+"voice": "f-us",
+"text": "My brother usually works in Berlin, but this month he's working in Paris."
+},
+{
 "key": "4c9ea25c0bc248d1",
 "voice": "f-uk",
 "text": "sever"
@@ -24528,11 +24513,6 @@
 "key": "4cd67379215b8968",
 "voice": "f-us",
 "text": "appoint"
-},
-{
-"key": "4cd8bcc83663b9fe",
-"voice": "m-uk",
-"text": "My grandparents' garden is beautiful."
 },
 {
 "key": "4cda652a8cecde67",
@@ -26040,6 +26020,11 @@
 "text": "disrespect"
 },
 {
+"key": "517cbf0617577c28",
+"voice": "m-us",
+"text": "We're going to paint the kitchen this weekend."
+},
+{
 "key": "517e1a5adaa7b07b",
 "voice": "m-us",
 "text": "She passed the exam through hard work and determination."
@@ -26623,11 +26608,6 @@
 "key": "533c411b12d34b8e",
 "voice": "m-us",
 "text": "Few women held real power in the company."
-},
-{
-"key": "533d793e4ede0290",
-"voice": "m-uk",
-"text": "I'm tired. I think I'll go to bed."
 },
 {
 "key": "5341760b15be8236",
@@ -29410,6 +29390,11 @@
 "text": "poultry"
 },
 {
+"key": "5be2a5ceed3c3502",
+"voice": "f-us",
+"text": "If I have time, I'll help you."
+},
+{
 "key": "5be751bef38f472d",
 "voice": "f-uk",
 "text": "observe"
@@ -29638,6 +29623,11 @@
 "key": "5ca24297f324cfd4",
 "voice": "m-us",
 "text": "Medals declared that \"God blew, and they were scattered."
+},
+{
+"key": "5ca3580031eca9b1",
+"voice": "m-us",
+"text": "If you'd told me earlier, I could have helped."
 },
 {
 "key": "5cadf667a6992233",
@@ -30178,6 +30168,11 @@
 "key": "5e555b3f4e2663ed",
 "voice": "f-us",
 "text": "Smoking damages your lungs."
+},
+{
+"key": "5e5649dc75115e69",
+"voice": "f-uk",
+"text": "I've never been to Australia."
 },
 {
 "key": "5e58031301ba80b7",
@@ -32638,6 +32633,11 @@
 "key": "6640f38f2c81ae8c",
 "voice": "f-uk",
 "text": "volcano"
+},
+{
+"key": "6641cec43fd700b8",
+"voice": "f-uk",
+"text": "I've got two sisters and a brother."
 },
 {
 "key": "6642b8d29532cacf",
@@ -37190,9 +37190,19 @@
 "text": "encouragement"
 },
 {
+"key": "748a7ef0ddb7fec0",
+"voice": "f-uk",
+"text": "She's getting married in June."
+},
+{
 "key": "748cb4bc5d2f7319",
 "voice": "m-uk",
 "text": "He made an apology to his brother."
+},
+{
+"key": "7493bc00cf14779f",
+"voice": "f-uk",
+"text": "They aren't watching TV, they're playing chess."
 },
 {
 "key": "7497b1450f7157d6",
@@ -39370,11 +39380,6 @@
 "text": "She works hard every day."
 },
 {
-"key": "7b737385d3898a55",
-"voice": "m-uk",
-"text": "If you'd told me earlier, I could have helped."
-},
-{
 "key": "7b7442aeedfcee1a",
 "voice": "m-us",
 "text": "She volunteered to help at the hospital."
@@ -39743,11 +39748,6 @@
 "key": "7c80012021411801",
 "voice": "f-uk2",
 "text": "I'd suggest that we prioritise a redesign of the mobile site. I've estimated that it would take about three months."
-},
-{
-"key": "7c8d7ff2af0a5d09",
-"voice": "f-uk",
-"text": "We've been living in this flat since 2019."
 },
 {
 "key": "7c8dbb8654c9a3ec",
@@ -43515,6 +43515,11 @@
 "text": "Jeanne said the queen wanted the cardinal to buy it for her."
 },
 {
+"key": "87bba3ea01a0a003",
+"voice": "m-us",
+"text": "They've already bought the tickets."
+},
+{
 "key": "87bd0fcdb4364a5c",
 "voice": "m-us",
 "text": "\"I'll come,\" he said."
@@ -44978,11 +44983,6 @@
 "key": "8beb7dba4f98c953",
 "voice": "f-uk",
 "text": "grade"
-},
-{
-"key": "8bef6561607280ed",
-"voice": "f-us",
-"text": "The children's room is upstairs."
 },
 {
 "key": "8bf2a730aaaa715e",
@@ -46515,6 +46515,11 @@
 "text": "splash"
 },
 {
+"key": "9059d7f0d801795e",
+"voice": "f-uk",
+"text": "I've lost my glasses. Have you seen them?"
+},
+{
 "key": "90660e5ed48c7efb",
 "voice": "f-uk",
 "text": "The captain sent three men to look."
@@ -46838,11 +46843,6 @@
 "key": "915e35d16713164a",
 "voice": "m-uk",
 "text": "The driver was friendly and told them about the history of the city for the whole hour."
-},
-{
-"key": "9166852c583b00d6",
-"voice": "m-uk",
-"text": "I've never been to Australia."
 },
 {
 "key": "9167e979c97f4a34",
@@ -47620,6 +47620,11 @@
 "text": "triumph"
 },
 {
+"key": "93e97b4a3b5b2e04",
+"voice": "f-us",
+"text": "In May I'll have been teaching for twenty years."
+},
+{
 "key": "93ed17c58287a2f6",
 "voice": "f-us",
 "text": "Research shows that teams with a mix of men and women make better decisions."
@@ -47780,11 +47785,6 @@
 "text": "honesty"
 },
 {
-"key": "946be8efa071f0fb",
-"voice": "m-uk",
-"text": "It's been raining since this morning."
-},
-{
 "key": "946df3ccc852100a",
 "voice": "m-uk",
 "text": "The naughty boy hid his grandmother's glasses."
@@ -47893,6 +47893,11 @@
 "key": "94cee91afa7da8f6",
 "voice": "f-uk",
 "text": "transmit"
+},
+{
+"key": "94d11dd09a7bda8b",
+"voice": "f-us",
+"text": "My grandparents' garden is beautiful."
 },
 {
 "key": "94d1cb661f2fcbfd",
@@ -49220,11 +49225,6 @@
 "text": "battle"
 },
 {
-"key": "98ce2fd2687272eb",
-"voice": "m-us",
-"text": "You need three things: a map, water and a torch."
-},
-{
 "key": "98d143349c9c2a59",
 "voice": "f-uk",
 "text": "At my school, the wrestling team was the pride of the entire town."
@@ -50493,6 +50493,11 @@
 "key": "9c91d735fe953266",
 "voice": "f-us",
 "text": "The journalist exposed the minister's lies."
+},
+{
+"key": "9c9b20c773e9b8eb",
+"voice": "m-us",
+"text": "He's gone to the shop. He'll be back soon."
 },
 {
 "key": "9c9d9c47b2c981a3",
@@ -52485,6 +52490,11 @@
 "text": "This yoghurt is low in fat."
 },
 {
+"key": "a2d14ab7c1ce1385",
+"voice": "m-us",
+"text": "We've been living in this flat since 2019."
+},
+{
 "key": "a2d4f3dcb6a8446c",
 "voice": "f-us",
 "text": "journalism"
@@ -52903,6 +52913,11 @@
 "key": "a42b0a7ccddf33ed",
 "voice": "f-uk",
 "text": "extinction"
+},
+{
+"key": "a434d8a9674d6da4",
+"voice": "f-us",
+"text": "Be quiet, please. I'm talking on the phone."
 },
 {
 "key": "a436229d05a03339",
@@ -53893,11 +53908,6 @@
 "key": "a778cfc435d8ef2b",
 "voice": "f-us",
 "text": "charm"
-},
-{
-"key": "a77b26b04186ae66",
-"voice": "m-uk",
-"text": "She's out of breath because she's been running."
 },
 {
 "key": "a783db5407da90fc",
@@ -59730,6 +59740,11 @@
 "text": "Performers often become irritable and exhausted, and some develop serious health problems."
 },
 {
+"key": "ba35d10b1086f407",
+"voice": "f-uk",
+"text": "By the end of the year, I'll have read fifty books."
+},
+{
 "key": "ba39005a36de4c5c",
 "voice": "f-uk",
 "text": "renown"
@@ -62380,6 +62395,11 @@
 "text": "reveal"
 },
 {
+"key": "c29a03d9096b8678",
+"voice": "m-uk",
+"text": "The children's room is upstairs."
+},
+{
 "key": "c29dc30799b088d9",
 "voice": "m-us",
 "text": "They deliver pizza until midnight."
@@ -63538,6 +63558,11 @@
 "key": "c60925cda6af9995",
 "voice": "f-uk",
 "text": "dinner"
+},
+{
+"key": "c6151cdae47cfb6a",
+"voice": "f-uk",
+"text": "She's out of breath because she's been running."
 },
 {
 "key": "c61683cdc8e28a68",
@@ -65530,11 +65555,6 @@
 "text": "beforehand"
 },
 {
-"key": "cbfb26b4a6a64e96",
-"voice": "f-us",
-"text": "Whose keys are these? — They're Mark's."
-},
-{
 "key": "cbfef08aee8f4abc",
 "voice": "f-uk",
 "text": "defect"
@@ -66280,11 +66300,6 @@
 "text": "Birds congregate near the lake in winter."
 },
 {
-"key": "ce0dd8e6865fe04f",
-"voice": "m-us",
-"text": "If I have time, I'll help you."
-},
-{
 "key": "ce139374cc05ed81",
 "voice": "m-uk",
 "text": "The decision caused discord among the staff."
@@ -66493,11 +66508,6 @@
 "key": "cec68633bb3c5bca",
 "voice": "f-us",
 "text": "annual"
-},
-{
-"key": "cecb4603f6eaa770",
-"voice": "m-uk",
-"text": "She's getting married in June."
 },
 {
 "key": "cecd1cca9d264d36",
@@ -67183,11 +67193,6 @@
 "key": "d0e8c2ea88618713",
 "voice": "f-uk",
 "text": "I'd like a glass of water, please."
-},
-{
-"key": "d0eb74332a5dc34e",
-"voice": "m-uk",
-"text": "What are you doing? — I'm cooking dinner."
 },
 {
 "key": "d0eb81241ece1223",
@@ -69368,11 +69373,6 @@
 "key": "d73e5f7841551191",
 "voice": "f-uk",
 "text": "For many young musicians, going on tour seems like their destiny: travelling the world, playing to huge crowds and signing autographs for adoring fans."
-},
-{
-"key": "d7443dad4aff109b",
-"voice": "m-uk",
-"text": "I've lost my glasses. Have you seen them?"
 },
 {
 "key": "d74596663d3241f0",
@@ -72895,11 +72895,6 @@
 "text": "What's the difference between a frog and a toad?"
 },
 {
-"key": "e2798b4eeb8b0f4a",
-"voice": "m-uk",
-"text": "They've already bought the tickets."
-},
-{
 "key": "e27d37a18660c0f4",
 "voice": "m-us",
 "text": "Immigrants often assimilate into the local culture."
@@ -75760,6 +75755,11 @@
 "text": "Her parents got a divorce when she was six."
 },
 {
+"key": "eba8db53cb0b9c2c",
+"voice": "f-uk",
+"text": "It's been raining since this morning."
+},
+{
 "key": "ebac068d04e62e56",
 "voice": "f-uk",
 "text": "drag"
@@ -77940,11 +77940,6 @@
 "text": "I did, and frankly, I think it was rather alarmist. Every new technology has prompted the same fears."
 },
 {
-"key": "f28f219b22b7aecb",
-"voice": "m-uk",
-"text": "My brother usually works in Berlin, but this month he's working in Paris."
-},
-{
 "key": "f29786c996d02de1",
 "voice": "m-uk",
 "text": "Last month, I flew to Japan — a twelve-hour flight."
@@ -78880,11 +78875,6 @@
 "text": "He was an orphan raised by his aunt."
 },
 {
-"key": "f57c93ef8ef9c254",
-"voice": "f-uk",
-"text": "He's gone to the shop. He'll be back soon."
-},
-{
 "key": "f5822a61437bbea9",
 "voice": "f-us",
 "text": "integrate"
@@ -78998,6 +78988,11 @@
 "key": "f5f8166e93117f53",
 "voice": "m-us",
 "text": "Onoda handed over his sword."
+},
+{
+"key": "f5f92002f3724e70",
+"voice": "m-us",
+"text": "I'm tired. I think I'll go to bed."
 },
 {
 "key": "f5fadef208a80275",
@@ -79323,6 +79318,11 @@
 "key": "f72852ad6c45fbb6",
 "voice": "f-us",
 "text": "For a while, they prospered."
+},
+{
+"key": "f72dad0013b43165",
+"voice": "f-us",
+"text": "What are you doing? — I'm cooking dinner."
 },
 {
 "key": "f732ba81f489d2c9",
@@ -80335,11 +80335,6 @@
 "text": "I'm broadly in favour, with safeguards."
 },
 {
-"key": "fa6a861d3665489d",
-"voice": "f-uk",
-"text": "We're going to paint the kitchen this weekend."
-},
-{
 "key": "fa6bf125a915c199",
 "voice": "m-us",
 "text": "Older people thrive when they feel needed."
@@ -80708,6 +80703,11 @@
 "key": "fb87b09fc907c786",
 "voice": "f-uk",
 "text": "suicide"
+},
+{
+"key": "fb87cc3600b48335",
+"voice": "m-uk",
+"text": "Whose keys are these? — They're Mark's."
 },
 {
 "key": "fb881e82b965bb3d",

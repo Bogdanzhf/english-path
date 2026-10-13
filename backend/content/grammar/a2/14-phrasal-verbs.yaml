@@ -99,10 +99,10 @@ exercises:
     q: "Please ___ in this form with your name and address. (заполните)"
     answer: ["fill"]
   - type: input
-    q: "Can you look ___ my cat while I'm on holiday?"
+    q: "Can you look ___ (присмотреть за) my cat while I'm on holiday?"
     answer: ["after"]
   - type: cloze
-    text: "I [[woke]] up at 6, [[got]] up and [[put]] on my clothes. Then I [[turned]] on the radio."
+    text: "I [[woke]] (wake) up at 6, [[got]] (get) up and [[put]] (put) on my clothes. Then I [[turned]] (turn) on the radio."
   - type: error
     text: "I'll pick {{up you=>you up}} at 8."
     explain: "With a pronoun: pick you up."

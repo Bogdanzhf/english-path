@@ -81,7 +81,7 @@ exercises:
     q: "My grandfather ___ (used to / work) in a factory."
     answer: ["used to work"]
   - type: cloze
-    text: "When I was a child, I [[used to]] spend every summer with my grandparents. We [[used to]] go fishing every morning."
+    text: "When I was a child, I [[used to spend]] (spend) every summer with my grandparents. We [[used to go]] (go) fishing every morning."
   - type: error
     text: "I didn't {{used to=>use to}} like coffee."
   - type: error

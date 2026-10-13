@@ -85,10 +85,10 @@ exercises:
     q: "They ___ (not / be) at school today."
     answer: ["aren't", "are not", "'re not"]
   - type: input
-    q: "___ your sister a nurse? — Yes, she is."
+    q: "___ (be) your sister a nurse? — Yes, she is."
     answer: ["Is"]
   - type: cloze
-    text: "Hi! I [[am|'m]] Kate. I [[am|'m]] from London. My parents [[are]] doctors, and my brother [[is]] a student."
+    text: "Hi! I [[am|'m]] (be) Kate. I [[am|'m]] (be) from London. My parents [[are]] (be) doctors, and my brother [[is]] (be) a student."
   - type: order
     q: "Составьте вопрос: «Ты устал?»"
     answer: "Are you tired?"

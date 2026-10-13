@@ -91,7 +91,7 @@ exercises:
     q: "It's the ___ (interesting) book I have ever read."
     answer: ["most interesting"]
   - type: cloze
-    text: "Russia is the [[largest|biggest]] country in the world. It is much [[larger|bigger]] than Canada."
+    text: "Russia is the [[largest|biggest]] (large) country in the world. It is much [[larger|bigger]] (large) than Canada."
   - type: error
     text: "My brother is {{more taller=>taller}} than me."
   - type: error

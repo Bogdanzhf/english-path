@@ -89,7 +89,7 @@ exercises:
     q: "The room isn't big ___ for a party. (достаточно)"
     answer: ["enough"]
   - type: cloze
-    text: "There are [[too many]] students in this class and not [[enough]] chairs. We need [[a few]] more."
+    text: "There are [[too many]] (слишком много) students in this class and not [[enough]] (достаточно) chairs. We need [[a few]] (несколько) more."
   - type: error
     text: "There is {{too many=>too much}} noise in here."
   - type: error

@@ -53,12 +53,12 @@ theory_ru: |
   - **for** + отрезок времени: for two hours, for a week, for ages (целую вечность)
   - **since** + точка начала: since Monday, since 9 o'clock, since I was a child
 examples:
-  - "I*'ve been waiting* for you for an hour! | Я жду тебя уже целый час!"
+  - "*I've been waiting* for you for an hour! | Я жду тебя уже целый час!"
   - "How long *have* you *been learning* English? | Сколько ты уже учишь английский?"
-  - "It*'s been raining* since this morning. | Дождь идёт с самого утра."
-  - "She's out of breath because she*'s been running*. | Она запыхалась, потому что бегала."
-  - "We*'ve been living* in this flat since 2019. | Мы живём в этой квартире с 2019 года."
-  - "I*'ve been writing* emails all morning, and I*'ve sent* twenty. | Я всё утро пишу письма и уже отправил двадцать."
+  - "*It's been raining* since this morning. | Дождь идёт с самого утра."
+  - "She's out of breath because *she's been running*. | Она запыхалась, потому что бегала."
+  - "*We've been living* in this flat since 2019. | Мы живём в этой квартире с 2019 года."
+  - "*I've been writing* emails all morning, and *I've sent* twenty. | Я всё утро пишу письма и уже отправил двадцать."
 exercises:
   - type: choice
     q: "I ___ for this company since 2018."

@@ -85,7 +85,7 @@ exercises:
     q: "That's the hotel ___ which we stayed. (preposition)"
     answer: ["in", "at"]
   - type: input
-    q: "Don't worry. ___ happens, I'll support you."
+    q: "Don't worry. ___ (что бы ни) happens, I'll support you."
     answer: ["Whatever"]
   - type: cloze
     text: "The company employs 500 people, [[*most of whom/most of them/most of who]] work part-time."

@@ -94,7 +94,7 @@ exercises:
     q: "My dog ___ (go) for a walk twice a day."
     answer: ["goes"]
   - type: cloze
-    text: "Tom [[gets]] up at six. He [[has]] breakfast and [[goes]] to work by bus. He [[doesn't|does not]] drive because he [[doesn't|does not]] have a car."
+    text: "Tom [[gets]] (get) up at six. He [[has]] (have) breakfast and [[goes]] (go) to work by bus. He [[doesn't|does not]] (not) drive because he [[doesn't|does not]] (not) have a car."
   - type: error
     text: "She doesn't {{likes=>like}} coffee."
     explain: "After doesn't — no -s."

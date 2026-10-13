@@ -83,7 +83,7 @@ exercises:
     q: "one tooth → all my ___"
     answer: ["teeth"]
   - type: cloze
-    text: "There are two [[women]] and four [[men]] in the room. Their [[feet]] are wet because it's raining."
+    text: "There are two [[women]] (woman) and four [[men]] (man) in the room. Their [[feet]] (foot) are wet because it's raining."
   - type: error
     text: "I have two {{childs=>children}}."
   - type: error

@@ -95,6 +95,7 @@ test.describe('static site', () => {
   })
 
   test('placement test suggests a level', async ({ page }) => {
+    test.setTimeout(150_000) // до 80 вопросов — на телефоне под нагрузкой дольше минуты
     await createProfile(page)
     await page.goto('/#/tests/placement')
     await page.getByRole('button', { name: /Начать|Start/ }).click()

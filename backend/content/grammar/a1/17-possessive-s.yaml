@@ -7,10 +7,10 @@ theory: |
   ## 's for people and animals
   | | |
   |---|---|
-  | singular noun + **'s** | *Anna**'s** car, my brother**'s** room, the dog**'s** bed* |
-  | plural noun in -s + **'** | *my parents**'** house, the students**'** books* |
-  | irregular plural + **'s** | *the children**'s** toys, women**'s** clothes* |
-  | two people, one thing | *Tom and Kate**'s** flat* |
+  | singular noun + **'s** | ***Anna's** car, my **brother's** room, the **dog's** bed* |
+  | plural noun in -s + **'** | *my **parents'** house, the **students'** books* |
+  | irregular plural + **'s** | *the **children's** toys, **women's** clothes* |
+  | two people, one thing | *Tom and **Kate's** flat* |
 
   > 's can also mean *is* or *has*: *Anna's here* = Anna **is** here. *She's got* = she **has** got.
 
@@ -27,10 +27,10 @@ theory_ru: |
 
   | | |
   |---|---|
-  | ед. число + **'s** | *Anna**'s** car* — машина Анны, *my brother**'s** room* — комната брата |
-  | мн. число на -s + только **'** | *my parents**'** house* — дом моих родителей |
-  | особое мн. число + **'s** | *the children**'s** toys* — игрушки детей, *women**'s** clothes* — женская одежда |
-  | двое владельцев одного предмета | *Tom and Kate**'s** flat* — квартира Тома и Кейт |
+  | ед. число + **'s** | ***Anna's** car* — машина Анны, *my **brother's** room* — комната брата |
+  | мн. число на -s + только **'** | *my **parents'** house* — дом моих родителей |
+  | особое мн. число + **'s** | *the **children's** toys* — игрушки детей, ***women's** clothes* — женская одежда |
+  | двое владельцев одного предмета | *Tom and **Kate's** flat* — квартира Тома и Кейт |
 
   > Осторожно: **'s** может быть и сокращением от *is* или *has*: *Anna's here* = Anna **is** here. *She's got* = she **has** got. Смотрите по смыслу.
 
@@ -42,10 +42,10 @@ theory_ru: |
 
   > Не путайте *whose* (чей) и *who's* (= who is, кто есть).
 examples:
-  - "This is my sister*'s* bike. | Это велосипед моей сестры."
-  - "My grandparents*'* garden is beautiful. | Сад моих бабушки и дедушки красивый."
-  - "The children*'s* room is upstairs. | Детская комната наверху."
-  - "*Whose* keys are these? — They're Mark*'s*. | Чьи это ключи? — Марка."
+  - "This is my *sister's* bike. | Это велосипед моей сестры."
+  - "My *grandparents'* garden is beautiful. | Сад моих бабушки и дедушки красивый."
+  - "The *children's* room is upstairs. | Детская комната наверху."
+  - "*Whose* keys are these? — They're *Mark's*. | Чьи это ключи? — Марка."
   - "What's the name *of* this song? | Как называется эта песня?"
 exercises:
   - type: choice

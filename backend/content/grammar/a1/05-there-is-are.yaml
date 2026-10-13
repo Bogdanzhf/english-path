@@ -78,7 +78,7 @@ exercises:
     q: "Yesterday there ___ a lot of people at the concert. (past)"
     answer: ["were"]
   - type: cloze
-    text: "In my room [[there is|there's]] a bed and a desk. [[There are]] two windows. [[There isn't|There is not]] a TV."
+    text: "In my room [[there is|there's]] (there + be) a bed and a desk. [[There are]] (there + be) two windows. [[There isn't|There is not]] (there + be, –) a TV."
   - type: order
     q: "Составьте: «В моей сумке есть яблоко.»"
     answer: "There is an apple in my bag."

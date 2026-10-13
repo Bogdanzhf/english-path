@@ -53,12 +53,12 @@ theory_ru: |
   - *He has **gone** to Paris.* — Он уехал в Париж (и сейчас там).
   - *He has **been** to Paris.* — Он бывал в Париже (съездил и вернулся).
 examples:
-  - "I*'ve* never *been* to Australia. | Я никогда не был в Австралии."
+  - "*I've* never *been* to Australia. | Я никогда не был в Австралии."
   - "*Have* you *seen* my phone? I can't find it. | Ты не видел мой телефон? Не могу его найти."
-  - "She*'s* just *finished* her exams. | Она только что сдала экзамены."
+  - "*She's* just *finished* her exams. | Она только что сдала экзамены."
   - "We *haven't decided* yet. | Мы ещё не решили."
-  - "They*'ve* already *bought* the tickets. | Они уже купили билеты."
-  - "He*'s gone* to the shop. He'll be back soon. | Он ушёл в магазин. Скоро вернётся."
+  - "*They've* already *bought* the tickets. | Они уже купили билеты."
+  - "*He's gone* to the shop. He'll be back soon. | Он ушёл в магазин. Скоро вернётся."
 exercises:
   - type: choice
     q: "I ___ my homework. Can I go out now?"
