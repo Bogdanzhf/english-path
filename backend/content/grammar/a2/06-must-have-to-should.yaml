@@ -102,3 +102,10 @@ exercises:
   - type: speak
     answer: "You should drink more water."
     ru: "Тебе стоит пить больше воды."
+writing:
+  - "transform | Дайте совет со should | Eat less sugar — it's a good idea. | You should eat less sugar."
+  - "transform | Перепишите с don't have to (это не обязательно) | It isn't necessary to wear a suit. | You don't have to wear a suit."
+  - "transform | Перепишите как запрет (mustn't) | Smoking here is not allowed. | You mustn't smoke here."
+  - "translate | Мне нужно рано вставать по понедельникам. | I have to get up early on Mondays."
+  - "translate | Тебе стоит обратиться к врачу. | You should see a doctor. || You should go to the doctor."
+  - "compose | Дайте другу два совета, как выучить английский (should) | should | You should read in English every day and you should not be afraid of mistakes."

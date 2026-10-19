@@ -115,3 +115,10 @@ exercises:
   - type: speak
     answer: "I am going to learn English this year."
     ru: "В этом году я собираюсь выучить английский."
+writing:
+  - "transform | Перепишите как план (going to) | I plan to visit my grandparents at the weekend. | I'm going to visit my grandparents at the weekend."
+  - "transform | Предложите помощь с will | The bag is heavy. | I'll help you with the bag. || I'll carry the bag for you. || I'll help you."
+  - "transform | Сделайте отрицательным | It will rain tomorrow. | It won't rain tomorrow."
+  - "translate | Смотри на тучи! Сейчас пойдёт дождь. | Look at the clouds! It's going to rain."
+  - "translate | Думаю, ты сдашь экзамен. | I think you'll pass the exam. || I think you will pass the exam."
+  - "compose | Какие у вас планы на следующие выходные? (going to) | going to | Next weekend I'm going to visit my friends and go to the cinema."

@@ -122,3 +122,10 @@ exercises:
   - type: speak
     answer: "I'm learning English at the moment."
     ru: "Сейчас я учу английский."
+writing:
+  - "transform | Измените на «прямо сейчас» (now) | I read a book every evening. | I'm reading a book now."
+  - "transform | Сделайте отрицательным | They are watching TV. | They aren't watching TV."
+  - "transform | Сделайте вопросом | She is cooking dinner. | Is she cooking dinner?"
+  - "translate | Тише! Ребёнок спит. | Be quiet! The baby is sleeping."
+  - "translate | Что ты сейчас делаешь? | What are you doing now?"
+  - "compose | Что происходит вокруг вас прямо сейчас? (2–3 действия) | - | I'm sitting at my desk and drinking tea. My cat is sleeping on the sofa."

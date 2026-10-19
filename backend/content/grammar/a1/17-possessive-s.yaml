@@ -95,3 +95,10 @@ exercises:
   - type: speak
     answer: "My best friend's name is Alex."
     ru: "Моего лучшего друга зовут Алекс."
+writing:
+  - "transform | Перепишите с 's | the car of my brother | my brother's car"
+  - "transform | Перепишите с притяжательным падежом | the house of my parents | my parents' house"
+  - "translate | Чья это куртка? — Это куртка Анны. | Whose jacket is this? — It's Anna's jacket. || Whose jacket is this? — It's Anna's."
+  - "translate | Комната детей наверху. | The children's room is upstairs."
+  - "translate | Это собака моей подруги. | This is my friend's dog."
+  - "compose | Назовите две вещи, которые принадлежат членам вашей семьи ('s) | - | My mum's car is red, and my brother's phone is new."

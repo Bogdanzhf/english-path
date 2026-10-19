@@ -100,3 +100,10 @@ exercises:
   - type: speak
     answer: "I enjoy learning new words."
     ru: "Мне нравится учить новые слова."
+writing:
+  - "transform | Перепишите с enjoy | I like to cook very much. | I enjoy cooking."
+  - "transform | Перепишите с decided | I made a decision: I will learn Spanish. | I decided to learn Spanish."
+  - "transform | Перепишите с good at | She can draw very well. | She is good at drawing."
+  - "translate | Я надеюсь увидеть тебя скоро. | I hope to see you soon."
+  - "translate | Он бросил курить в прошлом году. | He stopped smoking last year. || He gave up smoking last year. || He quit smoking last year."
+  - "compose | Что вы любите и что ненавидите делать? (love / hate + -ing) | love, hate | I love walking in the forest, but I hate getting up early."

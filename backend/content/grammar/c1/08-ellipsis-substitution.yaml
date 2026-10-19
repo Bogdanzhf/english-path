@@ -122,3 +122,10 @@ exercises:
   - type: speak
     answer: "I don't think so."
     ru: "Думаю, нет."
+writing:
+  - "transform | Сократите ответ (I hope not) | Will it rain tomorrow? — I hope it won't rain. | I hope not."
+  - "transform | Замените повтор (one) | I don't like the red dress. I prefer the blue dress. | I don't like the red dress. I prefer the blue one."
+  - "transform | Сократите (I'd love to) | Will you come to the party? — Yes, I'd love to come to the party. | Yes, I'd love to."
+  - "translate | — Он сдал экзамен? — Думаю, да. | Did he pass the exam? — I think so."
+  - "translate | Я не закончил работу, а Анна закончила. | I haven't finished the work, but Anna has. || I haven't finished my work, but Anna has."
+  - "compose | Напишите короткий диалог с сокращёнными ответами (I think so / I hope not / I'd love to) | - | Are you coming tonight? — I'd love to. Will it be crowded? — I hope not."

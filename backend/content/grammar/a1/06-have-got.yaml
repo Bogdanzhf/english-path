@@ -100,3 +100,10 @@ exercises:
   - type: speak
     answer: "I have got a big family."
     ru: "У меня большая семья."
+writing:
+  - "transform | Сделайте отрицательным | I have got a car. | I haven't got a car."
+  - "transform | Сделайте вопросом | She has got blue eyes. | Has she got blue eyes?"
+  - "transform | Замените have got на have (то же значение) | We've got two cats. | We have two cats."
+  - "translate | У моей сестры длинные волосы. | My sister has got long hair. || My sister has long hair."
+  - "translate | У тебя есть велосипед? — Да. | Have you got a bike? — Yes, I have. || Do you have a bike? — Yes, I do."
+  - "compose | Расскажите о своей семье: братья, сёстры, питомцы (have got) | got | I've got one brother and a dog called Rex."

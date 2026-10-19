@@ -128,3 +128,10 @@ exercises:
   - type: speak
     answer: "I completely misunderstood the instructions."
     ru: "Я совершенно неправильно понял инструкции."
+writing:
+  - "transform | Замените выделенное словом с приставкой (un-) | He is not happy with the result. | He is unhappy with the result."
+  - "transform | Замените словом с суффиксом -ness | She was very kind, and I'll never forget it. | I'll never forget her kindness."
+  - "transform | Замените словом с суффиксом -less | This old phone has no use. | This old phone is useless."
+  - "translate | Его объяснение было очень полезным. | His explanation was very useful. || His explanation was very helpful."
+  - "translate | Я не согласен с этим решением. | I disagree with this decision."
+  - "compose | Опишите человека словами с приставками и суффиксами (un-, dis-, -ful, -less) | - | My boss is helpful and careful, but sometimes impatient and a little unfriendly."

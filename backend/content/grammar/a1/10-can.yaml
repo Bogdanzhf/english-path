@@ -100,3 +100,10 @@ exercises:
   - type: speak
     answer: "Can you help me, please?"
     ru: "Помоги мне, пожалуйста."
+writing:
+  - "transform | Сделайте отрицательным | I can swim. | I can't swim."
+  - "transform | Сделайте вопросом | She can play the guitar. | Can she play the guitar?"
+  - "transform | Сделайте вежливой просьбой (Can you …?) | Open the window. | Can you open the window, please? || Can you open the window?"
+  - "translate | Можно мне воспользоваться твоим телефоном? | Can I use your phone?"
+  - "translate | Мой сын умеет читать, но не умеет писать. | My son can read, but he can't write. || My son can read but can't write."
+  - "compose | Что вы умеете и чего не умеете делать? | can | I can drive a car, but I can't dance."

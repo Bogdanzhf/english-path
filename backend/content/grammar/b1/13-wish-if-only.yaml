@@ -123,3 +123,10 @@ exercises:
   - type: speak
     answer: "I wish I had more free time."
     ru: "Жаль, что у меня так мало свободного времени."
+writing:
+  - "transform | Выразите сожаление о настоящем (I wish) | I don't have enough time. | I wish I had more time."
+  - "transform | Выразите сожаление о прошлом (I wish + had) | I said something stupid. | I wish I hadn't said that."
+  - "transform | Перепишите с If only | I can't speak French. | If only I could speak French!"
+  - "translate | Жаль, что ты не здесь. | I wish you were here."
+  - "translate | Жаль, что я не учил английский в школе. | I wish I had studied English at school."
+  - "compose | О чём вы жалеете или чего бы хотели? (I wish …) | wish | I wish I lived closer to the sea and I wish I had started running earlier."

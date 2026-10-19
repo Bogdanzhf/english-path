@@ -105,3 +105,10 @@ exercises:
   - type: speak
     answer: "I was tired, so I went to bed early."
     ru: "Я устал, поэтому рано лёг спать."
+writing:
+  - "transform | Расставьте слова в правильном порядке | every day / I / at the gym / train | I train at the gym every day."
+  - "transform | Соедините с because | I'm tired. I worked a lot. | I'm tired because I worked a lot."
+  - "transform | Соедините с but | I like summer. I don't like the heat. | I like summer, but I don't like the heat."
+  - "translate | Холодно, поэтому я надел куртку. | It's cold, so I put on a jacket. || It's cold, so I'm wearing a jacket."
+  - "translate | Я учу английский дома каждый вечер. | I learn English at home every evening. || I study English at home every evening."
+  - "compose | Два предложения о своём дне, соединённые and / but / because | because | I go to bed late because I work in the evening, but I like it."

@@ -114,3 +114,10 @@ exercises:
   - type: speak
     answer: "I have never been to Japan."
     ru: "Я никогда не был в Японии."
+writing:
+  - "transform | Добавьте never и перепишите о жизненном опыте | I go to Japan. | I have never been to Japan."
+  - "transform | Добавьте just | She has finished her homework. | She has just finished her homework."
+  - "transform | Сделайте вопросом с yet | You have done the shopping. | Have you done the shopping yet?"
+  - "translate | Я уже прочитал эту книгу. | I have already read this book. || I've read this book already."
+  - "translate | Ты когда-нибудь пробовал суши? | Have you ever tried sushi?"
+  - "compose | Что вы уже сделали сегодня, а что ещё нет? (already / yet) | already | I have already had breakfast, but I haven't checked my emails yet."

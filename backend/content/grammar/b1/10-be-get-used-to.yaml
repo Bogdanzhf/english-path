@@ -118,3 +118,10 @@ exercises:
   - type: speak
     answer: "I used to live in a small village."
     ru: "Раньше я жил в маленькой деревне."
+writing:
+  - "transform | Перепишите с be used to (это привычно) | Getting up early isn't difficult for me. | I'm used to getting up early."
+  - "transform | Перепишите с getting used to (привыкаю) | Living in a big city is becoming easier for me. | I'm getting used to living in a big city."
+  - "transform | Перепишите с used to (привычка в прошлом) | I smoked in the past, but I don't now. | I used to smoke."
+  - "translate | Я ещё не привык к холоду. | I'm not used to the cold yet. || I haven't got used to the cold yet."
+  - "translate | Раньше я пил много кофе. | I used to drink a lot of coffee."
+  - "compose | К чему вам пришлось привыкнуть на новой работе или в новом месте? | used to | I had to get used to working from home and I'm still getting used to it."

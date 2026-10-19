@@ -122,3 +122,10 @@ exercises:
   - type: speak
     answer: "Never have I seen such a beautiful sunset."
     ru: "Никогда я не видел такого красивого заката."
+writing:
+  - "transform | Перепишите с инверсией (Never have I …) | I have never seen such a beautiful sunset. | Never have I seen such a beautiful sunset."
+  - "transform | Перепишите с Not only … but also | She sings and she also writes her own songs. | Not only does she sing, but she also writes her own songs."
+  - "transform | Перепишите с Hardly had … when | We had just arrived when it started to rain. | Hardly had we arrived when it started to rain."
+  - "translate | Ни в коем случае не открывайте эту дверь. | Under no circumstances should you open this door. || On no account should you open this door."
+  - "translate | Только тогда я понял, как сильно ошибался. | Only then did I realise how wrong I had been. || Only then did I realize how wrong I had been. || Only then did I understand how wrong I had been."
+  - "compose | Опишите яркое впечатление, начав с Never / Rarely / Seldom have I … | have I | Rarely have I felt so happy as on the day I finished university."

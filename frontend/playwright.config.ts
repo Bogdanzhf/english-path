@@ -18,12 +18,12 @@ export default defineConfig({
   projects: [
     {
       name: 'desktop',
-      testMatch: /(static|course)\.spec\.ts/,
+      testMatch: /(static|course|writing)\.spec\.ts/,
       use: { ...devices['Desktop Chrome'], baseURL: `http://localhost:${STATIC_PORT}` },
     },
     {
       name: 'iphone',
-      testMatch: /(static|mobile)\.spec\.ts/,
+      testMatch: /(static|mobile|writing)\.spec\.ts/,
       use: { ...devices['iPhone 14'], baseURL: `http://localhost:${STATIC_PORT}` },
     },
     {

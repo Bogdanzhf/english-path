@@ -121,3 +121,10 @@ exercises:
   - type: speak
     answer: "The Amazon is the longest river in South America."
     ru: "Амазонка — самая длинная река в Южной Америке."
+writing:
+  - "translate | Богатые должны платить больше налогов. | The rich should pay more taxes. || The rich should pay more tax."
+  - "translate | Она играет на пианино. | She plays the piano."
+  - "translate | Мой сын ходит в школу. | My son goes to school."
+  - "translate | Мы провели неделю в Альпах. | We spent a week in the Alps."
+  - "transform | Вставьте артикли там, где нужно | ___ Thames flows through ___ London. | The Thames flows through London."
+  - "compose | Опишите путешествие с географическими названиями (горы, реки, страны) | - | Last year we travelled across the Alps and swam in Lake Geneva."

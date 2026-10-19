@@ -128,3 +128,10 @@ exercises:
   - type: speak
     answer: "There seems to be a problem with my booking."
     ru: "Похоже, с моим бронированием какая-то проблема."
+writing:
+  - "transform | Смягчите утверждение (It would seem that) | The plan is failing. | It would seem that the plan is failing."
+  - "transform | Смягчите (There appears to be) | There is a problem with the system. | There appears to be a problem with the system."
+  - "transform | Смягчите с arguably | This is the best film of the year. | This is arguably the best film of the year. || Arguably, this is the best film of the year."
+  - "translate | Судя по всему, она уволилась. | Apparently, she has resigned. || Apparently, she quit. || She appears to have resigned."
+  - "translate | Отчасти я с вами согласен. | To some extent, I agree with you. || I agree with you to some extent."
+  - "compose | Выскажите осторожное мнение о спорной теме (seem, tend to, to some extent) | - | It seems that remote work tends to increase productivity, at least to some extent."

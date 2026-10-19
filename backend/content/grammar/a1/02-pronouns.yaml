@@ -118,3 +118,10 @@ exercises:
     q: "Who is a doctor?"
     options: ["Kate", "Kate's brother", "The speaker"]
     answer: 1
+writing:
+  - "transform | Замените выделенные слова местоимениями: *Anna* loves *her dog*. | Anna loves her dog. | She loves it."
+  - "transform | Замените Tom and Kate местоимением | I see Tom and Kate every day. | I see them every day."
+  - "transform | Замените my dad's притяжательным местоимением | This is my dad's car. | This is his car."
+  - "translate | Это моя сумка, а это её телефон. | This is my bag, and this is her phone."
+  - "translate | Позвони мне, пожалуйста. | Call me, please. || Please call me."
+  - "compose | Расскажите о друге: как его зовут и что он любит (he/she, his/her) | - | My best friend is Max. He loves football and his favourite team is Spartak."

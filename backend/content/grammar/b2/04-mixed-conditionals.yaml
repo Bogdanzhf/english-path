@@ -104,3 +104,10 @@ exercises:
   - type: speak
     answer: "If I had studied harder, I would have a better job now."
     ru: "Если бы я больше учился, у меня была бы сейчас работа получше."
+writing:
+  - "transform | Перепишите: прошлое → настоящее (mixed conditional) | I didn't take the job, so I'm not rich now. | If I had taken the job, I would be rich now."
+  - "transform | Перепишите: настоящее → прошлое | I'm not brave, so I didn't say anything. | If I were braver, I would have said something."
+  - "transform | Перепишите как mixed conditional | She didn't study medicine, so she isn't a doctor now. | If she had studied medicine, she would be a doctor now."
+  - "translate | Если бы я лёг спать раньше, я бы сейчас не был таким уставшим. | If I had gone to bed earlier, I wouldn't be so tired now."
+  - "translate | Если бы он знал английский, он бы получил ту работу. | If he spoke English, he would have got that job. || If he knew English, he would have got that job. || If he spoke English, he would have gotten that job."
+  - "complete | Как бы выглядела ваша жизнь сейчас, если бы вы когда-то поступили иначе? | If I had moved abroad, | If I had moved abroad, I would be speaking English every day now."

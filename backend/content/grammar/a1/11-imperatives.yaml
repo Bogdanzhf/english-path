@@ -94,3 +94,10 @@ exercises:
   - type: speak
     answer: "Let's go for a walk."
     ru: "Давай пойдём погуляем."
+writing:
+  - "transform | Сделайте отрицательным | Open the door. | Don't open the door."
+  - "transform | Предложите сделать это вместе (Let's …) | We can go to the cinema. | Let's go to the cinema."
+  - "translate | Не волнуйся! Всё хорошо. | Don't worry! Everything is fine. || Don't worry! Everything is OK. || Don't worry! It's all right."
+  - "translate | Садитесь, пожалуйста. | Sit down, please. || Please sit down."
+  - "translate | Давай закажем пиццу! | Let's order a pizza! || Let's order pizza!"
+  - "compose | Дайте 2–3 совета туристу в вашем городе (повелительное наклонение) | - | Visit the old town. Don't take a taxi at night. Try the local food."

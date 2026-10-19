@@ -124,3 +124,10 @@ exercises:
   - type: speak
     answer: "I was given a second chance."
     ru: "Мне дали второй шанс."
+writing:
+  - "transform | Перепишите в пассиве (личное подлежащее) | They gave me a prize. | I was given a prize."
+  - "transform | Перепишите с get-passive | The police arrested him. | He got arrested."
+  - "transform | Перепишите в пассиве с фразовым глаголом | The committee looked into the issue. | The issue was looked into by the committee. || The issue was looked into."
+  - "translate | Мне сказали подождать снаружи. | I was told to wait outside."
+  - "translate | Получив предупреждение, он уехал. | Having been warned, he left."
+  - "compose | Опишите официально, что было сделано в вашем проекте (пассив) | - | The data was collected in May and the results were presented to the board."

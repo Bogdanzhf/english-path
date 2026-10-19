@@ -102,3 +102,10 @@ exercises:
   - type: speak
     answer: "If I had known, I would have helped you."
     ru: "Если бы я знал, я бы тебе помог."
+writing:
+  - "transform | Перепишите как сожаление о прошлом (if + had) | I didn't know about the party, so I didn't come. | If I had known about the party, I would have come."
+  - "transform | Перепишите как сожаление о прошлом | We missed the train because we left late. | If we hadn't left late, we wouldn't have missed the train."
+  - "transform | Сделайте вопросом «что бы ты сделал…» | You lost your passport. What did you do? | What would you have done if you had lost your passport?"
+  - "translate | Если бы ты меня спросил, я бы тебе помог. | If you had asked me, I would have helped you."
+  - "translate | Если бы я не опоздал, я бы успел на самолёт. | If I hadn't been late, I would have caught the plane. || If I hadn't been late, I wouldn't have missed the plane."
+  - "complete | Что было бы иначе, если бы вы когда-то приняли другое решение? | If I had | If I had chosen a different university, I would have studied medicine."

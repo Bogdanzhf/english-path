@@ -130,3 +130,10 @@ exercises:
   - type: speak
     answer: "Where do you live and what do you do?"
     ru: "Где ты живёшь и чем занимаешься?"
+writing:
+  - "transform | Задайте вопрос со словом Where | She lives in Paris. | Where does she live?"
+  - "transform | Задайте вопрос со словами What time | He gets up at six. | What time does he get up?"
+  - "transform | Задайте вопрос со словом Why | They are happy because they won. | Why are they happy?"
+  - "translate | Как тебя зовут и откуда ты? | What's your name and where are you from?"
+  - "translate | Сколько стоит этот билет? | How much is this ticket? || How much does this ticket cost?"
+  - "compose | Напишите три вопроса, которые вы задали бы новому коллеге | - | Where do you live? What do you do at weekends? Do you like coffee?"

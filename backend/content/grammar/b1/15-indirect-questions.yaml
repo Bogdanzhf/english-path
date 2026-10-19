@@ -119,3 +119,10 @@ exercises:
   - type: speak
     answer: "Could you tell me where the station is?"
     ru: "Не подскажете, где вокзал?"
+writing:
+  - "transform | Сделайте вежливым вопросом (Could you tell me …?) | Where is the station? | Could you tell me where the station is?"
+  - "transform | Сделайте вопросом с Do you know if … | Is he coming? | Do you know if he is coming? || Do you know whether he is coming?"
+  - "transform | Перепишите с I wonder | What time does the shop open? | I wonder what time the shop opens."
+  - "translate | Не подскажете, сколько стоит билет? | Could you tell me how much the ticket costs? || Could you tell me how much the ticket is?"
+  - "translate | Я не знаю, где она живёт. | I don't know where she lives."
+  - "compose | Задайте вежливо два вопроса на ресепшен отеля | - | Could you tell me what time breakfast is? Do you know if there is a pharmacy nearby?"

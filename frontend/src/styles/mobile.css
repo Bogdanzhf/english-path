@@ -116,14 +116,24 @@ html {
     width: 100% !important;
   }
 
-  /* вкладки разделов — прокрутка вбок вместо переполнения */
+  /* вкладки разделов переносятся на вторую строку — все видны сразу (в юните их пять) */
   .tabs {
     max-width: 100%;
-    overflow-x: auto;
-    scrollbar-width: none;
+    flex-wrap: wrap;
+  }
+  .tabs > * {
+    flex: 1 1 auto;
+    justify-content: center;
   }
   .tabs::-webkit-scrollbar {
     display: none;
+  }
+
+  /* при автопрокрутке результат не прячется под нижней панелью */
+  .write-result,
+  .feedback,
+  .alert {
+    scroll-margin-bottom: calc(var(--bottombar-h) + env(safe-area-inset-bottom) + 16px);
   }
 
   /* когда открыта клавиатура, нижняя панель не закрывает поле ввода */

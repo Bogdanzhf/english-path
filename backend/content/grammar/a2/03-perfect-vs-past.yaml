@@ -108,3 +108,10 @@ exercises:
   - type: speak
     answer: "I have lived in this city for five years."
     ru: "Я живу в этом городе пять лет."
+writing:
+  - "transform | Перепишите с for вместо since (сейчас 2026 год) | I have lived here since 2020. | I have lived here for six years."
+  - "transform | Поставьте в Past Simple с yesterday | I have lost my keys. | I lost my keys yesterday."
+  - "transform | Перепишите в Present Perfect со словом since (знакомы с 2015 года) | We met in 2015 and we are still friends. | We have known each other since 2015. || We have been friends since 2015."
+  - "translate | Я работаю здесь три года. | I have worked here for three years. || I've been working here for three years."
+  - "translate | Мы встретились в прошлом году. | We met last year."
+  - "compose | Сколько вы живёте в своём городе и когда вы туда переехали? | - | I have lived in Moscow for ten years. I moved here in 2016."

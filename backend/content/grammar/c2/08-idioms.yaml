@@ -122,3 +122,10 @@ exercises:
   - type: speak
     answer: "The exam was a piece of cake."
     ru: "Экзамен был проще простого."
+writing:
+  - "transform | Замените на идиому (a piece of cake) | The exam was very easy. | The exam was a piece of cake."
+  - "transform | Замените на идиому (once in a blue moon) | I go to the theatre very rarely. | I go to the theatre once in a blue moon."
+  - "transform | Замените на идиому (break the ice) | He told a joke to make everyone feel relaxed. | He told a joke to break the ice."
+  - "translate | Это была последняя капля. | That was the last straw."
+  - "translate | Я ещё не решил — я колеблюсь. | I haven't decided yet — I'm on the fence. || I haven't decided yet; I'm on the fence."
+  - "compose | Расскажите случай из жизни, используя идиому | - | Moving to a new city was a piece of cake compared to finding a good flat."

@@ -117,3 +117,10 @@ exercises:
   - type: speak
     answer: "You must be tired after such a long journey."
     ru: "Ты, должно быть, устал после такой долгой дороги."
+writing:
+  - "transform | Сделайте вывод с must | I'm sure he is tired — he worked all night. | He must be tired — he worked all night. || He must be tired."
+  - "transform | Сделайте вывод с can't | I'm sure it isn't true. | It can't be true."
+  - "transform | Выразите возможность с might | Perhaps she is at the gym. | She might be at the gym."
+  - "translate | Это, должно быть, его машина. | This must be his car. || It must be his car."
+  - "translate | Не может быть, что ей сорок! Она выглядит на двадцать. | She can't be forty! She looks twenty."
+  - "compose | Кто-то стучит в дверь в полночь. Кто это может быть? (must / might / can't) | might | It might be my neighbour, but it can't be the postman at this time."

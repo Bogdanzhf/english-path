@@ -119,3 +119,10 @@ exercises:
   - type: speak
     answer: "I don't like being interrupted."
     ru: "Я не люблю, когда меня перебивают."
+writing:
+  - "transform | Перепишите с perfect infinitive (seems to have) | It seems that she has left. | She seems to have left."
+  - "transform | Перепишите с passive infinitive | I want somebody to invite me to the party. | I want to be invited to the party."
+  - "transform | Перепишите с being + V3 | I don't like it when people interrupt me. | I don't like being interrupted."
+  - "translate | Кажется, он потерял ключи. | He seems to have lost his keys."
+  - "translate | Ей не нравится, когда её фотографируют. | She doesn't like being photographed."
+  - "compose | Что вам не нравится, когда с вами делают? (being + V3) | being | I hate being told what to do and I don't like being kept waiting."

@@ -208,7 +208,7 @@ class WordAnswer(BaseModel):
 
 
 class ResultIn(BaseModel):
-    kind: str = Field(pattern="^(vocab|reading|grammar|dialogue|unit|level|words|placement|game|listening|speaking|custom)$")
+    kind: str = Field(pattern="^(vocab|reading|grammar|dialogue|unit|level|words|placement|game|listening|speaking|custom|writing)$")
     scope: str = Field(max_length=120)
     title: str = Field(default="", max_length=160)
     score: int = Field(ge=0, le=1000)

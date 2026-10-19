@@ -95,3 +95,10 @@ exercises:
   - type: speak
     answer: "Does anybody speak English here?"
     ru: "Здесь кто-нибудь говорит по-английски?"
+writing:
+  - "transform | Сделайте отрицательным с anything | I bought something. | I didn't buy anything."
+  - "transform | Перепишите с nobody | There isn't anybody at home. | There is nobody at home. || Nobody is at home."
+  - "transform | Перепишите с everyone | All the people in the room laughed. | Everyone in the room laughed. || Everybody in the room laughed."
+  - "translate | Я хочу съесть что-нибудь сладкое. | I want to eat something sweet."
+  - "translate | Ты видел кого-нибудь на улице? | Did you see anybody in the street? || Did you see anyone in the street? || Did you see anyone outside?"
+  - "compose | Куда бы вы хотели поехать? Напишите с somewhere | somewhere | I'd like to go somewhere warm, maybe to the sea."

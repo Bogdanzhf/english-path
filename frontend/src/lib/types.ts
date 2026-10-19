@@ -45,8 +45,13 @@ export interface TfEx extends ExBase { type: 'tf'; q?: string; items: [string, b
 export interface DialogEx extends ExBase { type: 'dialog'; q?: string; lines: string[] }
 export interface SpeakEx extends ExBase { type: 'speak'; q?: string; answer: string; ru?: string }
 
+/** Письмо: перевод (q — русская фраза) или трансформация (text — исходное предложение, q — что сделать). */
+export interface WriteEx extends ExBase { type: 'write'; q: string; text?: string; answer: string[]; must?: string[]; hint?: string; strict?: boolean }
+/** Своё предложение: нужные слова (must), начало (start), образцы для сравнения (model). */
+export interface ComposeEx extends ExBase { type: 'compose'; q: string; must?: string[]; start?: string; model: string[]; min?: number }
+
 export type Exercise =
-  | ChoiceEx | ListenChoiceEx | ListenInputEx | InputEx | OrderEx | MatchEx | ClozeEx | ErrorEx | TfEx | DialogEx | SpeakEx
+  | ChoiceEx | ListenChoiceEx | ListenInputEx | InputEx | OrderEx | MatchEx | ClozeEx | ErrorEx | TfEx | DialogEx | SpeakEx | WriteEx | ComposeEx
 
 // ---------- курс ----------
 
@@ -87,6 +92,7 @@ export interface GrammarTopic extends Omit<GrammarMeta, 'exercises'> {
   theoryRu: string
   examples: { en: string; ru: string; a: string | null }[]
   exercises: Exercise[]
+  writing?: (WriteEx | ComposeEx)[]
 }
 export interface DialogueLine { speaker: string; en: string; ru: string; a: string | null }
 export interface Dialogue {

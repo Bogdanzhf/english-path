@@ -120,3 +120,10 @@ exercises:
   - type: speak
     answer: "Had I known, I would have helped you."
     ru: "Знай я, я бы тебе помог."
+writing:
+  - "transform | Перепишите без if (Had I …) | If I had known, I would have helped. | Had I known, I would have helped."
+  - "transform | Перепишите без if (Should you …) | If you need any help, call me. | Should you need any help, call me."
+  - "transform | Перепишите с Were it not for | If it weren't for your help, I would fail. | Were it not for your help, I would fail."
+  - "translate | Если бы не дождь, мы бы пошли гулять. | But for the rain, we would have gone for a walk. || Had it not been for the rain, we would have gone for a walk. || If it hadn't been for the rain, we would have gone for a walk."
+  - "translate | Если у вас возникнут вопросы, пишите мне. | Should you have any questions, write to me. || Should you have any questions, email me. || If you have any questions, write to me."
+  - "complete | Напишите официальное предложение для письма клиенту | Should you require any further information, | Should you require any further information, please do not hesitate to contact us."

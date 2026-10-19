@@ -127,3 +127,10 @@ exercises:
   - type: speak
     answer: "I have been learning English for three years."
     ru: "Я учу английский уже три года."
+writing:
+  - "transform | Перепишите с Present Perfect Continuous и for | I started waiting an hour ago. I'm still waiting. | I have been waiting for an hour."
+  - "transform | Объясните результат (Present Perfect Continuous) | She is tired. She ran. | She is tired because she has been running."
+  - "transform | Сделайте вопросом с How long | You have been learning English. | How long have you been learning English?"
+  - "translate | Я жду тебя уже двадцать минут! | I have been waiting for you for twenty minutes!"
+  - "translate | Сколько времени ты здесь работаешь? | How long have you been working here?"
+  - "compose | Чем вы занимаетесь в последнее время и как долго? | been | I have been learning English for two years and I have been running every morning lately."

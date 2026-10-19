@@ -124,3 +124,10 @@ exercises:
   - type: speak
     answer: "I went to the cinema last weekend."
     ru: "В прошлые выходные я ходил в кино."
+writing:
+  - "transform | Поставьте в прошедшее время (yesterday) | I go to work by bus. | I went to work by bus yesterday. || Yesterday I went to work by bus."
+  - "transform | Сделайте отрицательным | She bought a new dress. | She didn't buy a new dress."
+  - "transform | Сделайте вопросом | They visited their grandparents. | Did they visit their grandparents?"
+  - "translate | Мы смотрели фильм и ели пиццу. | We watched a film and ate pizza. || We watched a movie and ate pizza."
+  - "translate | Когда ты приехал? | When did you arrive? || When did you come?"
+  - "compose | Что вы делали в прошлые выходные? (3 действия в прошедшем времени) | - | Last weekend I met my friends, went to the cinema and cooked dinner."

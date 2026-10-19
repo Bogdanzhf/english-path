@@ -116,3 +116,10 @@ exercises:
   - type: speak
     answer: "The more you practise, the better you speak."
     ru: "Чем больше практикуешься, тем лучше говоришь."
+writing:
+  - "transform | Перепишите с the more …, the … | If you practise more, you get better. | The more you practise, the better you get."
+  - "transform | Перепишите с twice as … as | My flat is 40 m², hers is 80 m². | Her flat is twice as big as mine."
+  - "transform | Перепишите с getting … and … | The weather is becoming colder every day. | It's getting colder and colder."
+  - "translate | Этот вариант гораздо лучше. | This option is much better. || This option is far better."
+  - "translate | Чем раньше мы начнём, тем раньше закончим. | The sooner we start, the sooner we finish. || The earlier we start, the earlier we'll finish. || The sooner we start, the sooner we'll finish."
+  - "compose | Сравните свою жизнь сейчас и пять лет назад (much / far / slightly + сравнительная степень) | - | My life is much busier now, but I'm slightly happier than five years ago."

@@ -1,4 +1,4 @@
-import { Brain, Pencil, Plus, Search, Trash2 } from 'lucide-react'
+import { Brain, ListChecks, Pencil, Plus, Search, Trash2 } from 'lucide-react'
 import { useEffect, useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { AudioButton } from '../components/Audio'
@@ -120,6 +120,11 @@ export default function MyWords() {
             <button className="btn btn-secondary" onClick={() => setForm('new')}>
               <Plus size={17} /> {t('add_own_word')}
             </button>
+            {counts.all > 0 && (
+              <Link className="btn btn-secondary" to="/review?source=pick">
+                <ListChecks size={17} /> {t('train_picked')}
+              </Link>
+            )}
             {counts.all >= 4 && (
               <Link className="btn btn-primary" to="/review?source=dict">
                 <Brain size={17} /> {t('train_dict')}

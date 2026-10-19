@@ -112,3 +112,10 @@ exercises:
   - type: speak
     answer: "I'm looking forward to hearing from you."
     ru: "С нетерпением жду вашего ответа."
+writing:
+  - "transform | Замените на фразовый глагол (put up with) | I can't tolerate this noise any more. | I can't put up with this noise any more. || I can't put up with this noise anymore."
+  - "transform | Замените на фразовый глагол (come up with) | She thought of a brilliant idea. | She came up with a brilliant idea."
+  - "transform | Замените на фразовый глагол с местоимением (turn it down) | They offered me the job, but I refused it. | They offered me the job, but I turned it down."
+  - "translate | Я с нетерпением жду встречи с тобой. | I'm looking forward to seeing you. || I look forward to seeing you. || I'm looking forward to meeting you."
+  - "translate | Встречу пришлось отменить. | The meeting had to be called off. || We had to call off the meeting."
+  - "compose | Опишите проблему на работе и её решение с 2 фразовыми глаголами | - | We ran out of time, so we had to come up with a quick solution."

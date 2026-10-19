@@ -131,3 +131,10 @@ exercises:
   - type: speak
     answer: "Neither of my friends could come to the party."
     ru: "Ни один из моих двух друзей не смог прийти на вечеринку."
+writing:
+  - "transform | Перепишите с both | Tom likes tennis. Anna likes tennis too. | Both Tom and Anna like tennis."
+  - "transform | Перепишите с neither … nor | Tom doesn't eat meat. Anna doesn't eat meat. | Neither Tom nor Anna eats meat. || Neither Tom nor Anna eat meat."
+  - "transform | Перепишите с either … or | You can take the bus, or you can take the train. | You can take either the bus or the train."
+  - "translate | Никто из нас не знал ответа. | None of us knew the answer."
+  - "translate | Каждый студент получил книгу. | Each student got a book. || Every student got a book. || Each student received a book."
+  - "compose | Сравните двух своих друзей с both / neither | both | Both of my best friends love travelling, but neither of them can cook."

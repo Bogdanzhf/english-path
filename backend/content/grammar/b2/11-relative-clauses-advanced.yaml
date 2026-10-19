@@ -118,3 +118,10 @@ exercises:
   - type: speak
     answer: "I have three sisters, all of whom live in London."
     ru: "У меня три сестры, и все они живут в Лондоне."
+writing:
+  - "transform | Перепишите формально (to whom) | The person who I spoke to was very helpful. | The person to whom I spoke was very helpful."
+  - "transform | Соедините с most of whom | I have many friends. Most of them live abroad. | I have many friends, most of whom live abroad."
+  - "transform | Сократите придаточное (reduced clause) | The man who is standing over there is my boss. | The man standing over there is my boss."
+  - "translate | Что бы ни случилось, я буду рядом. | Whatever happens, I'll be there for you. || Whatever happens, I will be there for you. || Whatever happens, I'll be there."
+  - "translate | У неё двое детей, оба из которых — врачи. | She has two children, both of whom are doctors."
+  - "compose | Расскажите о группе людей, используя most of whom / some of which | of whom | I work with ten people, most of whom are younger than me."

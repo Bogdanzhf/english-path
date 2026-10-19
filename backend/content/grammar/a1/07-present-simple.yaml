@@ -122,3 +122,10 @@ exercises:
   - type: speak
     answer: "I usually get up at seven o'clock."
     ru: "Я обычно встаю в семь часов."
+writing:
+  - "transform | Замените I на he | I work in an office and I like my job. | He works in an office and he likes his job."
+  - "transform | Сделайте отрицательным | She drinks coffee in the morning. | She doesn't drink coffee in the morning."
+  - "transform | Сделайте вопросом | They live in London. | Do they live in London?"
+  - "translate | Мой папа не говорит по-английски. | My dad doesn't speak English. || My father doesn't speak English."
+  - "translate | Во сколько ты обычно встаёшь? | What time do you usually get up?"
+  - "compose | Опишите свой обычный день (3–4 действия) | - | I get up at seven, have breakfast and go to work by metro."

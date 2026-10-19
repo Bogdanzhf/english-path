@@ -117,3 +117,10 @@ exercises:
   - type: speak
     answer: "I had never seen snow before I moved to Canada."
     ru: "До переезда в Канаду я никогда не видел снега."
+writing:
+  - "transform | Соедините, показав, что уехал раньше (had) | The train left. Then we arrived at the station. | When we arrived at the station, the train had left. || When we arrived at the station, the train had already left."
+  - "transform | Соедините с because + Past Perfect | She was upset. She lost her keys before that. | She was upset because she had lost her keys."
+  - "transform | Перепишите с never … before | It was my first time on a plane. | I had never flown before. || I had never been on a plane before."
+  - "translate | Когда я пришёл, все уже ушли. | When I came, everyone had already left. || When I arrived, everybody had already gone."
+  - "translate | Он понял, что забыл паспорт дома. | He realised that he had left his passport at home. || He realized he had forgotten his passport at home. || He realised he had left his passport at home."
+  - "complete | Расскажите, что уже случилось к моменту вашего прихода | When I got to work this morning, | When I got to work this morning, my colleagues had already started the meeting."

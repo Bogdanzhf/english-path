@@ -112,3 +112,10 @@ exercises:
   - type: speak
     answer: "I remember meeting her for the first time."
     ru: "Я помню, как впервые встретил её."
+writing:
+  - "transform | Перепишите: он бросил курить (stop + -ing) | He doesn't smoke now. | He has stopped smoking. || He stopped smoking."
+  - "transform | Перепишите: остановился, чтобы купить (stop + to) | I stopped. I wanted to buy some bread. | I stopped to buy some bread."
+  - "transform | Перепишите с remember + to (не забыть сделать) | Don't forget to lock the door. | Remember to lock the door."
+  - "translate | Я помню, как встретил её впервые. | I remember meeting her for the first time."
+  - "translate | Попробуй выключить и снова включить. | Try turning it off and on again."
+  - "compose | Что вы давно перестали делать и что пытаетесь начать? | stop | I stopped eating fast food last year, and now I'm trying to cook at home."

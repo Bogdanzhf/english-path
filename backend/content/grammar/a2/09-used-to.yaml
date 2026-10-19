@@ -106,3 +106,10 @@ exercises:
   - type: speak
     answer: "I used to play the piano when I was a child."
     ru: "В детстве я играл на пианино."
+writing:
+  - "transform | Перепишите с used to | When I was a child, I played in the street every day. | When I was a child, I used to play in the street every day. || I used to play in the street every day when I was a child."
+  - "transform | Сделайте отрицательным | She used to like coffee. | She didn't use to like coffee."
+  - "transform | Сделайте вопросом | You used to have long hair. | Did you use to have long hair?"
+  - "translate | Раньше я жил в маленьком городе. | I used to live in a small town."
+  - "translate | Раньше он не занимался спортом, а теперь бегает каждый день. | He didn't use to do sport, but now he runs every day. || He didn't use to do sports, but now he runs every day."
+  - "compose | Что вы делали в детстве, но больше не делаете? (used to) | used to | I used to watch cartoons every morning, but now I read the news."

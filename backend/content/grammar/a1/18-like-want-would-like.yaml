@@ -96,3 +96,10 @@ exercises:
   - type: speak
     answer: "I would like a cup of tea, please."
     ru: "Я бы хотел чашку чая, пожалуйста."
+writing:
+  - "transform | Скажите вежливее (would like) | I want a coffee. | I'd like a coffee. || I'd like a coffee, please."
+  - "transform | Перепишите с enjoy | I like swimming in the sea. | I enjoy swimming in the sea."
+  - "translate | Я хочу поехать в Италию. | I want to go to Italy."
+  - "translate | Моя сестра любит танцевать. | My sister loves dancing. || My sister likes dancing. || My sister loves to dance."
+  - "translate | Не хотите ли чаю? | Would you like some tea? || Would you like a cup of tea?"
+  - "compose | Что вы любите делать и что хотели бы попробовать? | like | I like cooking, and I'd like to try surfing one day."

@@ -107,3 +107,10 @@ exercises:
   - type: speak
     answer: "I had my hair cut last week."
     ru: "На прошлой неделе я подстригся."
+writing:
+  - "transform | Перепишите с have something done | A hairdresser cut my hair yesterday. | I had my hair cut yesterday."
+  - "transform | Перепишите с getting … repaired | A mechanic is repairing our car. | We are getting our car repaired. || We're having our car repaired."
+  - "transform | Сделайте вопросом | You have your eyes tested every year. | Do you have your eyes tested every year?"
+  - "translate | Мне нужно почистить пальто. | I need to have my coat cleaned. || I need to get my coat cleaned."
+  - "translate | Они покрасили дом (наняли маляров). | They had their house painted. || They had the house painted."
+  - "compose | Что вы делаете сами, а что поручаете специалистам? (have/get … done) | - | I cook myself, but I have my car serviced at a garage."

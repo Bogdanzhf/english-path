@@ -129,3 +129,10 @@ exercises:
   - type: speak
     answer: "If I had more time, I would learn Japanese."
     ru: "Если бы у меня было больше времени, я бы выучил японский."
+writing:
+  - "transform | Перепишите как воображаемую ситуацию (if + Past) | I don't have a car, so I can't drive to work. | If I had a car, I would drive to work. || If I had a car, I could drive to work."
+  - "transform | Перепишите с If I were you | I advise you to talk to her. | If I were you, I would talk to her. || If I were you, I'd talk to her."
+  - "transform | Сделайте вопросом «что бы ты сделал…» | You win a million. What do you do? | What would you do if you won a million? || If you won a million, what would you do?"
+  - "translate | Если бы я жил у моря, я бы плавал каждый день. | If I lived by the sea, I would swim every day. || If I lived near the sea, I would swim every day."
+  - "translate | Будь я на твоём месте, я бы не волновался. | If I were you, I wouldn't worry."
+  - "complete | Что бы вы сделали, если бы у вас был свободный год? | If I had a whole year off, | If I had a whole year off, I would travel around South America."

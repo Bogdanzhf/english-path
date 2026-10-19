@@ -123,3 +123,10 @@ exercises:
   - type: speak
     answer: "I was walking home when it started to rain."
     ru: "Я шёл домой, когда начался дождь."
+writing:
+  - "transform | Соедините, показав фон и событие (Past Continuous + Past Simple) | I walked home. I saw an accident. | I was walking home when I saw an accident."
+  - "transform | Соедините, показав, что одно случилось раньше (Past Perfect) | We got to the cinema. The film started before that. | When we got to the cinema, the film had already started. || When we got to the cinema, the film had started."
+  - "transform | Объясните, чем человек занимался до этого (Past Perfect Continuous) | Her eyes were red. She cried for an hour. | Her eyes were red because she had been crying for an hour."
+  - "translate | Когда зазвонил телефон, я принимал душ. | When the phone rang, I was having a shower. || I was taking a shower when the phone rang. || I was having a shower when the phone rang."
+  - "translate | Она устала, потому что весь день работала в саду. | She was tired because she had been working in the garden all day."
+  - "compose | Начните небольшую историю: фон, событие и то, что случилось раньше (3 времени) | - | It was raining and I was waiting for the bus. Suddenly I realised I had left my wallet at home."

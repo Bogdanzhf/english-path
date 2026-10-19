@@ -118,3 +118,10 @@ exercises:
   - type: speak
     answer: "It's time we went home."
     ru: "Нам пора домой."
+writing:
+  - "transform | Перепишите с it's time + Past | We should leave now. | It's time we left."
+  - "transform | Перепишите с I'd rather + Past | Please don't smoke here. | I'd rather you didn't smoke here."
+  - "transform | Перепишите с suggest that + субъюнктив | He should be told the truth — that's my suggestion. | I suggest that he be told the truth."
+  - "translate | Он ведёт себя так, будто он здесь главный. | He behaves as if he were the boss here. || He acts as if he were in charge here. || He behaves as if he was the boss here."
+  - "translate | Важно, чтобы каждый студент присутствовал. | It is essential that every student be present. || It's important that every student be present. || It is important that every student attend."
+  - "complete | Что давно пора сделать вам или обществу? | It's high time | It's high time we started taking climate change seriously."

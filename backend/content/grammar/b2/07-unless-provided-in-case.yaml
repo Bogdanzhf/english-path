@@ -120,3 +120,10 @@ exercises:
   - type: speak
     answer: "You can borrow my car as long as you drive carefully."
     ru: "Можешь взять мою машину, если будешь ездить аккуратно."
+writing:
+  - "transform | Перепишите с unless | I'll go if it doesn't rain. | I'll go unless it rains."
+  - "transform | Перепишите с as long as | You can borrow it, but you must return it. | You can borrow it as long as you return it."
+  - "transform | Перепишите с in case | Take a coat because it might get cold. | Take a coat in case it gets cold."
+  - "translate | Я возьму зонт на случай дождя. | I'll take an umbrella in case it rains."
+  - "translate | Можешь взять машину при условии, что вернёшь её к вечеру. | You can take the car provided that you bring it back by the evening. || You can take the car as long as you return it by the evening. || You can take the car provided you bring it back by evening."
+  - "compose | Что вы всегда берёте с собой в поездку на всякий случай? (in case) | in case | I always take a power bank in case my phone battery dies."

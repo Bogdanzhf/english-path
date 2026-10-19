@@ -116,3 +116,10 @@ exercises:
     q: "What haven't they got?"
     options: ["apples", "bananas", "oranges"]
     answer: 1
+writing:
+  - "transform | Сделайте вопросом | There is some milk in the fridge. | Is there any milk in the fridge?"
+  - "transform | Сделайте отрицательным | I have some friends here. | I don't have any friends here. || I haven't got any friends here."
+  - "transform | Задайте вопрос о количестве (How much / How many) | She drinks a lot of coffee. | How much coffee does she drink?"
+  - "translate | Сколько у тебя братьев? | How many brothers do you have? || How many brothers have you got?"
+  - "translate | У нас мало времени. | We don't have much time. || We haven't got much time."
+  - "compose | Что есть у вас в холодильнике, а чего нет? (some, any) | some, any | There is some cheese in my fridge, but there isn't any milk."

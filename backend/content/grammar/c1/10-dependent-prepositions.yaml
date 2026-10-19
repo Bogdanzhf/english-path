@@ -118,3 +118,10 @@ exercises:
   - type: speak
     answer: "It all depends on the weather."
     ru: "Всё зависит от погоды."
+writing:
+  - "translate | Всё зависит от погоды. | Everything depends on the weather. || It all depends on the weather."
+  - "translate | Он настоял на том, чтобы заплатить. | He insisted on paying."
+  - "translate | Кто отвечает за этот проект? | Who is responsible for this project?"
+  - "translate | Мы нашли решение проблемы. | We found a solution to the problem."
+  - "translate | Произошёл рост цен на жильё. | There has been an increase in house prices. || There was an increase in house prices. || There has been a rise in house prices."
+  - "compose | Расскажите о своих сильных сторонах (good at, interested in, capable of) | - | I'm good at solving problems and I'm interested in new technologies."

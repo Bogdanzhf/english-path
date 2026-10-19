@@ -112,3 +112,10 @@ exercises:
   - type: speak
     answer: "What I need is a long holiday."
     ru: "Что мне нужно, так это долгий отпуск."
+writing:
+  - "transform | Выделите Tom (It was … who) | Tom called you yesterday. | It was Tom who called you yesterday."
+  - "transform | Выделите главное (What I need is …) | I need a long holiday. | What I need is a long holiday."
+  - "transform | Перепишите с All I want is | I only want some sleep. | All I want is some sleep."
+  - "translate | Меня раздражает именно его грубость. | What annoys me is his rudeness. || It's his rudeness that annoys me."
+  - "translate | Именно в Риме они познакомились. | It was in Rome that they met."
+  - "complete | Что вам на самом деле нужно для счастья? | What I really need is | What I really need is more time with my family."

@@ -114,3 +114,10 @@ exercises:
   - type: speak
     answer: "It's a ten-minute walk from the station."
     ru: "Это в десяти минутах ходьбы от вокзала."
+writing:
+  - "transform | Сожмите в составное прилагательное | The walk takes ten minutes. | It's a ten-minute walk."
+  - "transform | Сожмите в одну именную группу | The government recently announced a plan. The plan is controversial. | The government's recently announced plan is controversial."
+  - "transform | Сожмите (a decision to be made) | We have to make a decision by Friday. | There is a decision to be made by Friday."
+  - "translate | У меня трёхлетняя дочь. | I have a three-year-old daughter."
+  - "translate | Это был тщательно спланированный и дорогой проект. | It was a carefully planned and expensive project."
+  - "compose | Опишите предмет одной насыщенной именной группой | - | I bought a lightweight, waterproof hiking jacket with two zip pockets."

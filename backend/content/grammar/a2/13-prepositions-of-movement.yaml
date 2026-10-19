@@ -112,3 +112,10 @@ exercises:
   - type: speak
     answer: "The bus stop is opposite the bank."
     ru: "Автобусная остановка напротив банка."
+writing:
+  - "translate | Кошка прыгнула на стол. | The cat jumped onto the table. || The cat jumped on the table."
+  - "translate | Мы шли вдоль реки. | We walked along the river."
+  - "translate | Поезд проехал через туннель. | The train went through the tunnel."
+  - "translate | Он вышел из комнаты. | He went out of the room. || He left the room."
+  - "transform | Вставьте предлог движения (через мост) | Walk ___ the bridge and turn right. | Walk across the bridge and turn right."
+  - "compose | Объясните, как дойти от вашего дома до магазина (along, past, across …) | - | Go out of the house, walk along the street and turn left at the bank."

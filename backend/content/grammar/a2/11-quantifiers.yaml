@@ -109,3 +109,10 @@ exercises:
   - type: speak
     answer: "I don't have enough time."
     ru: "У меня недостаточно времени."
+writing:
+  - "transform | Перепишите с too many | There are more people here than we need. | There are too many people here."
+  - "transform | Перепишите с not enough | We need more chairs. | There aren't enough chairs. || We don't have enough chairs."
+  - "transform | Перепишите с a few | I have some friends in London — not many. | I have a few friends in London."
+  - "translate | У меня мало свободного времени. | I have little free time. || I don't have much free time."
+  - "translate | Добавь немного сахара. | Add a little sugar. || Add some sugar."
+  - "compose | Чего у вас слишком много, а чего не хватает? | too, enough | I have too much work and not enough time for sport."

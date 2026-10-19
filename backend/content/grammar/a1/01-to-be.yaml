@@ -122,3 +122,10 @@ exercises:
   - type: speak
     answer: "I am a student and I am from Russia."
     ru: "Я студент, и я из России."
+writing:
+  - "transform | Сделайте отрицательным | I am a teacher. | I'm not a teacher."
+  - "transform | Сделайте вопросом | They are from Spain. | Are they from Spain?"
+  - "transform | Замените подлежащее на she | I am tired today. | She is tired today."
+  - "translate | Мой брат — студент, а мои родители — врачи. | My brother is a student, and my parents are doctors."
+  - "translate | Ты дома? — Нет, я на работе. | Are you at home? — No, I'm at work."
+  - "compose | Представьтесь: имя, откуда вы, кто по профессии (2–3 предложения с am / is / are) | am | Hi, I'm Bogdan. I'm from Russia and I'm a developer."

@@ -125,3 +125,10 @@ exercises:
   - type: speak
     answer: "We might as well go home."
     ru: "Можно и домой пойти."
+writing:
+  - "transform | Выразите раздражение (will keep + -ing) | He interrupts me all the time and it annoys me. | He will keep interrupting me!"
+  - "transform | Опишите привычку в прошлом (would) | My grandmother usually sat by the window for hours. | My grandmother would sit by the window for hours."
+  - "transform | Перепишите с might as well | There's nothing better to do, so let's go home. | We might as well go home."
+  - "translate | Как ты смеешь так со мной разговаривать! | How dare you talk to me like that! || How dare you speak to me like that!"
+  - "translate | Мне открыть окно? | Shall I open the window?"
+  - "compose | Опишите привычку близкого человека в прошлом с would | would | When I was a child, my father would read to me every evening."

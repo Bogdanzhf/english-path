@@ -1,19 +1,21 @@
-import { BookOpen, Dumbbell, Layers, List, Star } from 'lucide-react'
+import { BookOpen, Dumbbell, Layers, List, PencilLine, Star } from 'lucide-react'
 import { useEffect, useMemo, useState } from 'react'
 import { Link, useParams, useSearchParams } from 'react-router-dom'
 import { Flashcards } from '../components/Flashcards'
 import { Quiz } from '../components/Quiz'
 import { Reading } from '../components/Reading'
 import { WordCard } from '../components/WordCard'
+import { WritingPractice } from '../components/WritingPractice'
 import { Empty, LevelBadge, Loader, Tabs } from '../components/ui'
 import { useI18n } from '../i18n'
 import { lessonKeys, loadLevel, loadWords, type WordBank } from '../lib/course'
 import { toItems, wordQuiz } from '../lib/quiz'
 import { rememberVisit } from '../lib/stats'
+import { unitWriting } from '../lib/writing'
 import type { LevelData, LevelId } from '../lib/types'
 import { useApp } from '../state'
 
-type Tab = 'words' | 'cards' | 'practice' | 'story'
+type Tab = 'words' | 'cards' | 'practice' | 'writing' | 'story'
 
 export function useLevelData(lv: LevelId | undefined) {
   const [data, setData] = useState<{ level: LevelData; bank: WordBank } | null>(null)
@@ -46,6 +48,7 @@ export default function Unit() {
   const unit = data?.level.units.find((u) => u.num === n)
   const words = useMemo(() => data?.bank.byUnit(level, n) ?? [], [data, level, n])
   const cards = useMemo(() => words.map((w) => ({ id: w.id, word: w })), [words])
+  const writing = useMemo(() => unitWriting(words, `w.${level}.${String(n).padStart(2, '0')}`), [words, level, n])
   const vocabKey = lessonKeys.vocab(level, n)
 
   useEffect(() => {
@@ -106,6 +109,7 @@ export default function Unit() {
           { id: 'words', label: t('tab_words'), icon: <List size={16} /> },
           { id: 'cards', label: t('tab_cards'), icon: <Layers size={16} /> },
           { id: 'practice', label: t('tab_practice'), icon: <Dumbbell size={16} /> },
+          { id: 'writing', label: t('tab_writing'), icon: <PencilLine size={16} /> },
           ...(meta.reading ? [{ id: 'story' as Tab, label: t('tab_story'), icon: <BookOpen size={16} /> }] : []),
         ]}
       />
@@ -132,6 +136,9 @@ export default function Unit() {
                 onRestart={() => setQuizSeed((s) => s + 1)}
               />
             </div>
+          )}
+          {tab === 'writing' && (
+            <WritingPractice items={writing} intro={t('writing_intro_unit')} saveAs={{ scope: `w.${vocabKey}`, title: `${t('tab_writing')}: ${tr(meta.titleRu, meta.title)} · ${level.toUpperCase()}` }} />
           )}
           {tab === 'story' && unit?.reading && (
             <Reading reading={unit.reading} words={words} scope={lessonKeys.reading(level, n)} title={`${unit.reading.title} · ${level.toUpperCase()}`} />

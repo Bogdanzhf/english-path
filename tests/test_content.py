@@ -89,3 +89,20 @@ def test_exported_media_files_exist():
     with_audio = [w for w in words if w.get("au")]
     assert len(with_audio) > 3000
     assert all((public / "audio" / w["au"][:2] / f"{w['au']}.mp3").exists() for w in with_audio[:200])
+
+
+def test_every_grammar_topic_has_writing_tasks(lib):
+    """«Письмо»: в каждой теме — не меньше 5 заданий на свои предложения, всех трёх видов в сумме по уровню."""
+    from app.content import ContentError, parse_writing
+
+    for level in LEVELS:
+        kinds = set()
+        for g in lib.grammar[level]:
+            assert len(g["writing"]) >= 5, f"{level}/{g['id']}: мало заданий «Письмо»"
+            for ex in g["writing"]:
+                kinds.add("transform" if ex.get("text") else ex["type"])
+        assert {"write", "transform", "compose"} <= kinds, level
+    with pytest.raises(ContentError):
+        parse_writing("translate | только фраза", "test")
+    with pytest.raises(ContentError):
+        parse_writing("complete | о себе | If I had time, | I would read more.", "test")  # образец не с того начала

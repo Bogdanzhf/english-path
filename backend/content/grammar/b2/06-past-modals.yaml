@@ -112,3 +112,10 @@ exercises:
   - type: speak
     answer: "I should have listened to your advice."
     ru: "Мне следовало прислушаться к твоему совету."
+writing:
+  - "transform | Выразите упрёк (should have) | You didn't tell me about the problem. | You should have told me about the problem."
+  - "transform | Выразите, что это было лишним (needn't have) | You bought flowers, but it wasn't necessary. | You needn't have bought flowers."
+  - "transform | Сделайте вывод о прошлом (must have) | I'm sure she forgot about the meeting. | She must have forgotten about the meeting."
+  - "translate | Ты мог бы меня предупредить! | You could have warned me!"
+  - "translate | Он не мог этого сказать — его там не было. | He can't have said that — he wasn't there. || He couldn't have said that — he wasn't there."
+  - "compose | Что вам стоило сделать иначе на прошлой неделе? (should have / shouldn't have) | should | I should have gone to bed earlier and I shouldn't have eaten so much cake."

@@ -97,6 +97,7 @@ def export_level(lib: Library, level: str, audio: AudioIndex) -> dict:
             "summary": g["summary"], "summaryRu": g["summary_ru"], "theory": g["theory"], "theoryRu": g["theory_ru"],
             "examples": [{"en": en, "ru": ru, "a": audio.ref(audio.narrator(en), en)} for en, ru in g["examples"]],
             "exercises": [_exercise_audio(e, audio, f"{level}.{g['id']}.{i}") for i, e in enumerate(g["exercises"])],
+            "writing": g["writing"],
         })
     dialogues = []
     for d in lib.dialogues[level]:

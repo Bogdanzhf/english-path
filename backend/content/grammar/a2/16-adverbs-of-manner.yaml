@@ -117,3 +117,10 @@ exercises:
   - type: speak
     answer: "She speaks French very well."
     ru: "Она очень хорошо говорит по-французски."
+writing:
+  - "transform | Перепишите с наречием | She is a careful driver. | She drives carefully."
+  - "transform | Перепишите с наречием | He is a good singer. | He sings well."
+  - "transform | Перепишите с наречием | They are fast runners. | They run fast."
+  - "translate | Говори, пожалуйста, медленнее. | Please speak more slowly. || Speak more slowly, please."
+  - "translate | Он очень хорошо говорит по-английски. | He speaks English very well."
+  - "compose | Как вы делаете то, что умеете? (наречия образа действия) | - | I cook quickly, but I write slowly and carefully."

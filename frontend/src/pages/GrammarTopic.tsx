@@ -1,19 +1,21 @@
-import { BookOpenText, Dumbbell, ListChecks } from 'lucide-react'
+import { BookOpenText, Dumbbell, ListChecks, PencilLine } from 'lucide-react'
 import { useEffect, useMemo, useState } from 'react'
 import { Link, useParams, useSearchParams } from 'react-router-dom'
 import { AudioButton } from '../components/Audio'
 import { Quiz } from '../components/Quiz'
+import { WritingPractice } from '../components/WritingPractice'
 import { Empty, LevelBadge, Loader, Md, Tabs } from '../components/ui'
 import { useI18n } from '../i18n'
 import { lessonKeys } from '../lib/course'
 import { toItems } from '../lib/quiz'
 import { rememberVisit } from '../lib/stats'
 import { shuffle } from '../lib/text'
+import { grammarWriting } from '../lib/writing'
 import type { LevelId } from '../lib/types'
 import { useApp } from '../state'
 import { useLevelData } from './Unit'
 
-type Tab = 'rule' | 'examples' | 'practice'
+type Tab = 'rule' | 'examples' | 'practice' | 'writing'
 
 export default function GrammarTopic() {
   const { lv, id } = useParams()
@@ -36,6 +38,7 @@ export default function GrammarTopic() {
   }, [topic, key, level, openLesson])
 
   const items = useMemo(() => (topic ? toItems(topic.exercises, key) : []), [topic, key])
+  const writing = useMemo(() => (topic ? grammarWriting(topic, `w.${key}`) : []), [topic, key])
   // при «Ещё раз» упражнения перемешиваются
   const shuffled = useMemo(() => (seed ? shuffle(items) : items), [items, seed])
 
@@ -65,6 +68,7 @@ export default function GrammarTopic() {
           { id: 'rule', label: t('tab_rule'), icon: <BookOpenText size={16} /> },
           ...(topic.examples.length ? [{ id: 'examples' as Tab, label: t('tab_examples'), icon: <ListChecks size={16} /> }] : []),
           { id: 'practice', label: `${t('tab_practice')} · ${topic.exercises.length}`, icon: <Dumbbell size={16} /> },
+          ...(writing.length ? [{ id: 'writing' as Tab, label: t('tab_writing'), icon: <PencilLine size={16} /> }] : []),
         ]}
       />
       {tab === 'rule' && (
@@ -102,6 +106,7 @@ export default function GrammarTopic() {
       {tab === 'practice' && (
         <Quiz key={seed} items={shuffled} saveAs={{ kind: 'grammar', scope: key, title: topic.title }} onRestart={() => setSeed((s) => s + 1)} />
       )}
+      {tab === 'writing' && <WritingPractice items={writing} intro={t('writing_intro_grammar')} saveAs={{ scope: `w.${key}`, title: `${t('tab_writing')}: ${topic.title}` }} />}
       <div className="row between mt-5">
         {prev ? (
           <Link className="btn btn-ghost" to={`/level/${level}/grammar/${prev.id}`}>

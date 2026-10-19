@@ -124,3 +124,10 @@ exercises:
   - type: speak
     answer: "I would be grateful if you could reply as soon as possible."
     ru: "Буду признателен, если вы ответите как можно скорее."
+writing:
+  - "transform | Перепишите формально (obtain) | You can get a visa at the embassy. | A visa can be obtained at the embassy. || You can obtain a visa at the embassy."
+  - "transform | Перепишите формально (request) | I'm writing to ask for more information. | I am writing to request further information. || I am writing to request more information."
+  - "transform | Перепишите формально (a considerable number of) | A lot of people complained. | A considerable number of people complained."
+  - "translate | Благодарим вас за терпение. | Thank you for your patience. || We thank you for your patience."
+  - "translate | К сожалению, мы не можем принять ваше предложение. | Unfortunately, we are unable to accept your offer. || Unfortunately, we cannot accept your offer. || Regrettably, we are unable to accept your offer."
+  - "compose | Начните официальное письмо в компанию (кто вы и зачем пишете) | writing | Dear Sir or Madam, I am writing to enquire about the position advertised on your website."

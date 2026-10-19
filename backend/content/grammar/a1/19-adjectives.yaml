@@ -105,3 +105,10 @@ exercises:
   - type: speak
     answer: "This film is really interesting."
     ru: "Этот фильм очень интересный."
+writing:
+  - "transform | Перепишите с прилагательным перед существительным (It's a …) | The house is big. | It's a big house."
+  - "transform | Добавьте too | This tea is hot. I can't drink it. | This tea is too hot. I can't drink it."
+  - "transform | Соедините, используя old enough | He is 16. He can't drive. | He isn't old enough to drive."
+  - "translate | Это очень интересная книга. | It's a very interesting book. || This is a very interesting book."
+  - "translate | Сегодня слишком холодно для пляжа. | It's too cold for the beach today. || Today it's too cold for the beach."
+  - "compose | Опишите свой город тремя прилагательными | - | My city is big, green and quite noisy."

@@ -95,3 +95,10 @@ exercises:
   - type: speak
     answer: "I have a friend who lives in London."
     ru: "У меня есть друг, который живёт в Лондоне."
+writing:
+  - "transform | Соедините с who | I have a friend. She speaks five languages. | I have a friend who speaks five languages."
+  - "transform | Соедините с which | This is the phone. I bought it yesterday. | This is the phone which I bought yesterday. || This is the phone that I bought yesterday. || This is the phone I bought yesterday."
+  - "transform | Соедините с where | That's the café. We first met there. | That's the café where we first met."
+  - "translate | Человек, который живёт рядом, — врач. | The man who lives next door is a doctor. || The person who lives next door is a doctor."
+  - "translate | Это книга, которую я тебе советовал. | This is the book that I recommended to you. || This is the book which I recommended to you. || This is the book I recommended to you."
+  - "compose | Опишите любимое место с помощью where или which | - | My favourite place is a small park where I walk every evening."

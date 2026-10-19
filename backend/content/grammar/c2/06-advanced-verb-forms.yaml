@@ -118,3 +118,10 @@ exercises:
   - type: speak
     answer: "She must have been working all night."
     ru: "Она, должно быть, работала всю ночь."
+writing:
+  - "transform | Выразите несостоявшийся план (was to have + V3) | She planned to marry him, but the wedding was cancelled. | She was to have married him, but the wedding was cancelled."
+  - "transform | Перепишите с would have been + -ing | I was going to be working all night if you hadn't helped. | If you hadn't helped, I would have been working all night."
+  - "transform | Выразите уверенное предположение о прошлом процессе (must have been + -ing) | I'm sure she was sleeping when I called. | She must have been sleeping when I called."
+  - "translate | Он должен был выступить, но заболел. | He was to have spoken, but he fell ill. || He was supposed to speak, but he fell ill. || He was to have given a speech, but he fell ill."
+  - "translate | К тому времени она будет работать здесь уже десять лет. | By then she will have been working here for ten years."
+  - "compose | Что должно было случиться, но не случилось? (was to have …) | was to have | The concert was to have taken place in June, but it was cancelled."

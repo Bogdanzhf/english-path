@@ -119,3 +119,10 @@ exercises:
   - type: speak
     answer: "However hard I try, I can't remember his name."
     ru: "Как я ни стараюсь, не могу вспомнить его имя."
+writing:
+  - "transform | Соедините с albeit | It was a good result. It was a small one. | It was a good result, albeit a small one."
+  - "transform | Перепишите с Much as | Although I like him very much, I can't agree. | Much as I like him, I can't agree."
+  - "transform | Перепишите с however hard | It doesn't matter how hard I try, I can't remember her name. | However hard I try, I can't remember her name."
+  - "translate | Как бы то ни было, решение уже принято. | Be that as it may, the decision has already been made."
+  - "translate | Надо признать, план был рискованным. | Admittedly, the plan was risky."
+  - "compose | Выразите сложное мнение с уступкой (Much as …, whereas, albeit) | whereas | My brother loves big cities, whereas I prefer quiet villages."

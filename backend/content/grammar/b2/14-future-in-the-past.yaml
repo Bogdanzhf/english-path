@@ -118,3 +118,10 @@ exercises:
   - type: speak
     answer: "I was going to call you, but I forgot."
     ru: "Я собирался тебе позвонить, но забыл."
+writing:
+  - "transform | Перепишите с was going to (намерение не осуществилось) | I planned to call you, but I forgot. | I was going to call you, but I forgot."
+  - "transform | Передайте с would | She said, “I will come.” | She said she would come."
+  - "transform | Перепишите с were about to | We were ready to leave when it started raining. | We were about to leave when it started raining."
+  - "translate | Я думал, что ты опоздаешь. | I thought you would be late."
+  - "translate | Мы собирались поехать на море, но заболели. | We were going to go to the sea, but we got ill. || We were going to go to the seaside, but we fell ill."
+  - "compose | Что вы собирались сделать, но так и не сделали? (was going to) | going to | I was going to learn the guitar last year, but I never found the time."

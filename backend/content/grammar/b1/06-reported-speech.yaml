@@ -136,3 +136,10 @@ exercises:
   - type: speak
     answer: "She told me that she was very busy."
     ru: "Она сказала мне, что очень занята."
+writing:
+  - "transform | Передайте в косвенной речи | “I am tired,” she said. | She said that she was tired. || She said she was tired."
+  - "transform | Передайте в косвенной речи | “We will call you tomorrow,” they said. | They said that they would call me the next day. || They said they would call me the next day. || They said they would call me the following day."
+  - "transform | Передайте вопрос в косвенной речи | “Where do you live?” he asked me. | He asked me where I lived."
+  - "transform | Передайте просьбу | “Please close the window,” she said to me. | She asked me to close the window."
+  - "translate | Он сказал, что не видел этот фильм. | He said that he hadn't seen the film. || He said he hadn't seen that film. || He said he had not seen the film."
+  - "compose | Перескажите, что вам недавно сказал кто-то из знакомых (said / told me that…) | - | My friend told me that she was moving to Spain next month."

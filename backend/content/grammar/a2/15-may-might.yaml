@@ -92,3 +92,10 @@ exercises:
   - type: speak
     answer: "It might rain this afternoon."
     ru: "Сегодня днём может пойти дождь."
+writing:
+  - "transform | Перепишите с might (возможно) | Perhaps it will rain later. | It might rain later."
+  - "transform | Перепишите с may not | Perhaps she isn't at home. | She may not be at home."
+  - "transform | Сделайте вежливой просьбой (Could I …?) | I want to ask a question. | Could I ask a question? || Could I ask you a question?"
+  - "translate | Возможно, я опоздаю. | I might be late. || I may be late."
+  - "translate | Можно мне открыть окно? | May I open the window? || Could I open the window?"
+  - "compose | Что вы, возможно, будете делать вечером? (might / may) | might | Tonight I might watch a film or I may go for a walk."

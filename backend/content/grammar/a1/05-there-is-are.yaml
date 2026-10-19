@@ -103,3 +103,10 @@ exercises:
   - type: speak
     answer: "There are two bedrooms in my flat."
     ru: "В моей квартире две спальни."
+writing:
+  - "transform | Сделайте отрицательным | There is a cinema in our town. | There isn't a cinema in our town. || There is no cinema in our town."
+  - "transform | Сделайте вопросом | There are some eggs in the fridge. | Are there any eggs in the fridge?"
+  - "transform | Поставьте во множественное число (three cats) | There is a cat in the garden. | There are three cats in the garden."
+  - "translate | В моём городе есть большой парк. | There is a big park in my town. || There is a big park in my city."
+  - "translate | На столе две чашки. | There are two cups on the table."
+  - "compose | Опишите свою улицу: что на ней есть, а чего нет | there | There is a small shop on my street, but there are no cafés."

@@ -125,3 +125,10 @@ exercises:
   - type: speak
     answer: "It is a lovely day, isn't it?"
     ru: "Чудесный день, правда?"
+writing:
+  - "transform | Добавьте разделительный вопрос | It's a beautiful day. | It's a beautiful day, isn't it?"
+  - "transform | Добавьте разделительный вопрос | You don't eat meat. | You don't eat meat, do you?"
+  - "transform | Добавьте разделительный вопрос | She has finished. | She has finished, hasn't she?"
+  - "translate | Ты ведь поедешь с нами, да? | You'll come with us, won't you? || You will come with us, won't you?"
+  - "translate | Он не звонил, правда? | He didn't call, did he?"
+  - "compose | Напишите две фразы с разделительным вопросом, которые вы сказали бы коллеге | - | It's very hot in here, isn't it? You haven't seen my keys, have you?"

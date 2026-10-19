@@ -124,3 +124,10 @@ exercises:
   - type: speak
     answer: "She said that she was tired."
     ru: "Она сказала, что устала."
+writing:
+  - "transform! | Исправьте comma splice (точка с запятой) | It was late, we went home. | It was late; we went home."
+  - "transform! | Добавьте запятые (неограничительное придаточное) | My sister who lives in Rome is a doctor. | My sister, who lives in Rome, is a doctor."
+  - "transform! | Добавьте двоеточие перед списком | You need three things a map, water and a torch. | You need three things: a map, water and a torch."
+  - "translate | Он сказал, что устал. | He said that he was tired. || He said he was tired."
+  - "translate | Было поздно; однако мы продолжили работу. | It was late; however, we continued working. || It was late; however, we carried on working. || It was late; however, we continued to work."
+  - "compose | Напишите предложение с точкой с запятой и списком через двоеточие | - | The trip was long; however, we had everything we needed: food, water and good music."

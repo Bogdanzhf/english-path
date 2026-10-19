@@ -121,3 +121,10 @@ exercises:
   - type: speak
     answer: "Although it was raining, we went for a walk."
     ru: "Хотя шёл дождь, мы пошли гулять."
+writing:
+  - "transform | Соедините с although | It was raining. We went for a walk. | Although it was raining, we went for a walk. || We went for a walk although it was raining."
+  - "transform | Перепишите с despite + -ing | Although he was tired, he finished the work. | Despite being tired, he finished the work."
+  - "transform | Соедините с so that | I left early. I wanted to catch the train. | I left early so that I could catch the train."
+  - "translate | Рейс отменили из-за погоды. | The flight was cancelled because of the weather. || The flight was canceled due to the weather. || The flight was cancelled due to the weather."
+  - "translate | Он много работает. Однако денег у него мало. | He works a lot. However, he doesn't have much money. || He works hard. However, he doesn't have much money."
+  - "compose | Опишите плюсы и минусы своей работы или учёбы (however, although) | however | My job is interesting. However, I often have to work late."

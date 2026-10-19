@@ -116,3 +116,10 @@ exercises:
   - type: speak
     answer: "I was wondering if you could help me."
     ru: "Я хотел спросить, не могли бы вы мне помочь."
+writing:
+  - "transform | Сделайте просьбу мягче (I was wondering if) | Can you help me? | I was wondering if you could help me."
+  - "transform | Сделайте мягче (I was hoping) | I want you to check my essay. | I was hoping you could check my essay."
+  - "transform | Сделайте мягче (We were thinking of) | We plan to leave early. | We were thinking of leaving early."
+  - "translate | Я хотел спросить, не могли бы вы перенести встречу. | I was wondering if you could move the meeting. || I was wondering if you could reschedule the meeting. || I was wondering whether you could postpone the meeting."
+  - "translate | Мы думали пригласить вас на ужин. | We were thinking of inviting you to dinner."
+  - "compose | Вежливо попросите коллегу о помощи (I was wondering / I was hoping) | wondering | I was wondering if you could help me with the report tomorrow."

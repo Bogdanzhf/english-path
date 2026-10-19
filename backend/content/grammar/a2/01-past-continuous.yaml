@@ -103,3 +103,10 @@ exercises:
   - type: speak
     answer: "I was sleeping when the phone rang."
     ru: "Я спал, когда зазвонил телефон."
+writing:
+  - "transform | Соедините с when (долгое действие + короткое) | I was cooking. The phone rang. | I was cooking when the phone rang."
+  - "transform | Соедините с while (два долгих действия) | She was reading. He was watching TV. | She was reading while he was watching TV. || While she was reading, he was watching TV."
+  - "transform | Сделайте вопросом | They were playing football at 5 pm. | Were they playing football at 5 pm?"
+  - "translate | Что ты делал вчера в восемь вечера? | What were you doing at eight yesterday evening? || What were you doing at 8 pm yesterday? || What were you doing yesterday at eight in the evening?"
+  - "translate | Когда я проснулся, шёл дождь. | When I woke up, it was raining. || It was raining when I woke up."
+  - "complete | Опишите момент из прошлого: что происходило, когда что-то случилось | When I got home yesterday, | When I got home yesterday, my brother was playing video games."

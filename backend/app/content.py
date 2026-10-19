@@ -20,7 +20,7 @@ CONTENT = Path(__file__).resolve().parent.parent / "content"
 
 LEVELS = ["a1", "a2", "b1", "b2", "c1", "c2"]
 POS = {"n", "v", "adj", "adv", "prep", "conj", "pron", "phr", "num", "det", "interj", "phv"}
-EXERCISE_TYPES = {"choice", "input", "order", "match", "cloze", "error", "tf", "odd", "dialog", "listen", "speak"}
+EXERCISE_TYPES = {"choice", "input", "order", "match", "cloze", "error", "tf", "odd", "dialog", "listen", "speak", "write", "compose"}
 VOICES = {"f-us", "m-us", "f-uk", "m-uk", "f-au", "m-au"}
 
 
@@ -108,7 +108,60 @@ def check_exercise(ex: dict, where: str) -> dict:
             raise ContentError(f"{where}: в «dialog» нужно хотя бы 3 реплики")
     elif t == "speak":
         need("answer")
+    elif t == "write":
+        need("q", "answer")
+        if isinstance(ex["answer"], str):
+            ex["answer"] = [ex["answer"]]
+    elif t == "compose":
+        need("q", "model")
+        if isinstance(ex["model"], str):
+            ex["model"] = [ex["model"]]
+        start = ex.get("start")
+        if start and not all(m.startswith(start.rstrip(" ,")) for m in ex["model"]):
+            raise ContentError(f"{where}: образец должен начинаться с «{start}»")
     return ex
+
+
+WRITING_TASKS = {
+    "translate": ("Translate into English", "Переведите на английский"),
+    "transform": ("Rewrite the sentence", "Перепишите предложение"),
+    "compose": ("Write your own sentence", "Напишите своё предложение"),
+    "complete": ("Finish the sentence about yourself", "Закончите предложение о себе"),
+}
+
+
+def parse_writing(line: str, where: str) -> dict:
+    """Задание «Письмо» одной строкой:
+    translate | русская фраза | ответ || ещё вариант
+    transform | что сделать | исходное предложение | ответ || вариант
+    compose   | о чём написать | нужные слова через запятую (или -) | образец || образец
+    complete  | о чём написать | начало предложения | образец
+    """
+    if not isinstance(line, str):
+        raise ContentError(f"{where}: задание «Письмо» — строка «вид | …»")
+    parts = [p.strip() for p in line.split(" | ")]
+    kind = parts[0]
+    strict = kind.endswith("!")  # «transform!» — знаки препинания тоже проверяются (тема «Пунктуация»)
+    kind = kind.rstrip("!")
+    alts = lambda s: [a.strip() for a in s.split("||") if a.strip()]  # noqa: E731
+    task, task_ru = WRITING_TASKS.get(kind, ("", ""))
+    if kind == "translate" and len(parts) == 3:
+        ex = {"type": "write", "q": parts[1], "answer": alts(parts[2])}
+    elif kind == "transform" and len(parts) == 4:
+        ex = {"type": "write", "q": parts[1], "text": parts[2], "answer": alts(parts[3])}
+    elif kind == "compose" and len(parts) == 4:
+        must = [] if parts[2] in ("", "-") else [m.strip() for m in parts[2].split(",") if m.strip()]
+        ex = {"type": "compose", "q": parts[1], "must": must, "model": alts(parts[3]), "min": 5}
+    elif kind == "complete" and len(parts) == 4:
+        ex = {"type": "compose", "q": parts[1], "start": parts[2], "must": [], "model": alts(parts[3]), "min": len(parts[2].split()) + 3}
+    else:
+        raise ContentError(f"{where}: не понял задание «Письмо»: {line!r}")
+    if not ex.get("answer", True) or not ex.get("model", True):
+        raise ContentError(f"{where}: пустой ответ/образец в {line!r}")
+    if strict:
+        ex["strict"] = True
+    ex["task"], ex["taskRu"] = task, task_ru
+    return check_exercise(ex, where)
 
 
 def _require(d: dict, key: str, where: str):
@@ -235,6 +288,7 @@ def load_grammar(path: Path, level: str) -> dict:
     data["exercises"] = [check_exercise(e, f"{where}, упражнение {i + 1}") for i, e in enumerate(data["exercises"])]
     if len(data["exercises"]) < 6:
         raise ContentError(f"{where}: нужно хотя бы 6 упражнений")
+    data["writing"] = [parse_writing(w, f"{where}, письмо {i + 1}") for i, w in enumerate(data.get("writing") or [])]
     return data
 
 

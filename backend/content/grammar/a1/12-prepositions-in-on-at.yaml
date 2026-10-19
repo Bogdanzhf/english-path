@@ -108,3 +108,10 @@ exercises:
   - type: speak
     answer: "I was born in May."
     ru: "Я родился в мае."
+writing:
+  - "translate | Встретимся в пятницу в 6 часов. | Let's meet on Friday at six o'clock. || Let's meet on Friday at 6. || Let's meet at six o'clock on Friday."
+  - "translate | Я родился в мае. | I was born in May."
+  - "translate | Ключи на столе, а телефон в сумке. | The keys are on the table, and the phone is in the bag."
+  - "translate | Она сейчас дома. | She is at home now. || She's at home now."
+  - "transform | Вставьте in / on / at | I get up ___ 7 o'clock ___ the morning. | I get up at 7 o'clock in the morning."
+  - "compose | Когда у вас день рождения и где вы обычно его празднуете? | - | My birthday is on the 3rd of June, and I usually celebrate it at home."

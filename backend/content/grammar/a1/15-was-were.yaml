@@ -97,3 +97,10 @@ exercises:
   - type: speak
     answer: "I was born in a small town."
     ru: "Я родился в маленьком городе."
+writing:
+  - "transform | Поставьте в прошедшее время (yesterday) | I am at home today. | I was at home yesterday."
+  - "transform | Сделайте отрицательным | They were in London last week. | They weren't in London last week."
+  - "transform | Сделайте вопросом | The film was interesting. | Was the film interesting?"
+  - "translate | Вчера было холодно. | It was cold yesterday. || Yesterday it was cold."
+  - "translate | Где ты был в субботу? | Where were you on Saturday?"
+  - "compose | Где вы были вчера вечером и каким был день? | was | Yesterday evening I was at home. The day was long but nice."

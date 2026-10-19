@@ -120,3 +120,10 @@ exercises:
   - type: speak
     answer: "Strange as it may seem, I have never seen the sea."
     ru: "Как ни странно, я никогда не видел моря."
+writing:
+  - "transform | Перепишите с So … that (инверсия) | The noise was so loud that nobody could sleep. | So loud was the noise that nobody could sleep."
+  - "transform | Перепишите с Such was … that | His anger was so great that he left the room. | Such was his anger that he left the room."
+  - "transform | Перепишите с Strange as it may seem | Although it may seem strange, I enjoy rainy days. | Strange as it may seem, I enjoy rainy days."
+  - "translate | Как бы я ни старался, у меня не получалось. | Try as I might, I couldn't do it. || However hard I tried, I couldn't do it. || Try as I might, I failed."
+  - "translate | Так велико было её удивление, что она не могла говорить. | So great was her surprise that she couldn't speak."
+  - "compose | Опишите сильное событие с фронтингом (So … was / Such was … that) | was | So beautiful was the city that we decided to stay another week."

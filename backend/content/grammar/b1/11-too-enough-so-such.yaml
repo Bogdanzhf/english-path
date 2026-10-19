@@ -109,3 +109,10 @@ exercises:
   - type: speak
     answer: "It was such a beautiful day that we went to the beach."
     ru: "Был такой прекрасный день, что мы пошли на пляж."
+writing:
+  - "transform | Перепишите с too | The coffee is very hot. I can't drink it. | The coffee is too hot to drink."
+  - "transform | Перепишите с so … that | It was very cold. We stayed at home. | It was so cold that we stayed at home."
+  - "transform | Перепишите с such … that | It was a very good film. I watched it twice. | It was such a good film that I watched it twice."
+  - "translate | Он недостаточно взрослый, чтобы водить машину. | He isn't old enough to drive."
+  - "translate | Сегодня такой хороший день! | It's such a nice day today! || It's such a beautiful day today!"
+  - "compose | Опишите недавний день с so или such | so | I was so tired yesterday that I went to bed at nine."

@@ -119,3 +119,10 @@ exercises:
   - type: speak
     answer: "Please turn off your phone."
     ru: "Пожалуйста, выключите телефон."
+writing:
+  - "transform | Замените выделенное фразовым глаголом (look for) | I'm trying to find my glasses. | I'm looking for my glasses."
+  - "transform | Замените на фразовый глагол (turn off) | Please stop the TV — it's late. | Please turn off the TV. || Please turn the TV off."
+  - "transform | Замените на фразовый глагол (give up) | Don't stop trying! | Don't give up!"
+  - "translate | Я встаю в семь каждое утро. | I get up at seven every morning."
+  - "translate | Надень куртку — на улице холодно. | Put on your jacket — it's cold outside. || Put your jacket on — it's cold outside."
+  - "compose | Опишите своё утро с 2–3 фразовыми глаголами (wake up, get up, put on…) | - | I wake up at seven, get up at once and put on my clothes."

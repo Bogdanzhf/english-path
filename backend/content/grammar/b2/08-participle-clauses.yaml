@@ -116,3 +116,10 @@ exercises:
   - type: speak
     answer: "Walking along the beach, I found a beautiful shell."
     ru: "Гуляя по пляжу, я нашёл красивую ракушку."
+writing:
+  - "transform | Сократите с причастием (-ing) | While I was walking home, I saw an old friend. | Walking home, I saw an old friend."
+  - "transform | Сократите с Having + V3 | After she had finished her work, she went home. | Having finished her work, she went home."
+  - "transform | Сократите с причастием прошедшего времени | The house was built in 1900 and it needs repairs. | Built in 1900, the house needs repairs."
+  - "translate | Не зная дороги, мы спросили прохожего. | Not knowing the way, we asked a passer-by. || Not knowing the way, we asked a passerby."
+  - "translate | Закончив ужин, они пошли гулять. | Having finished dinner, they went for a walk."
+  - "compose | Опишите своё утро, начав предложение с причастия (Having…, Walking…) | - | Having had breakfast, I checked my emails and left for work."

@@ -112,3 +112,10 @@ exercises:
   - type: speak
     answer: "There has been a sharp rise in prices."
     ru: "Наблюдается резкий рост цен."
+writing:
+  - "transform | Перепишите с существительным (the decision) | They decided to close the factory, which shocked everyone. | Their decision to close the factory shocked everyone."
+  - "transform | Перепишите с существительным (a sharp rise) | Prices rose sharply last year. | There was a sharp rise in prices last year."
+  - "transform | Перепишите с существительным (the arrival) | The guests arrived late, so the dinner was delayed. | The late arrival of the guests delayed the dinner."
+  - "translate | Рост безработицы беспокоит правительство. | The rise in unemployment worries the government. || The increase in unemployment worries the government."
+  - "translate | Развитие технологий меняет нашу жизнь. | The development of technology is changing our lives. || The development of technology changes our lives."
+  - "compose | Опишите изменение в вашей сфере в формальном стиле (существительные: increase, growth, decline) | - | The growth of online shopping has led to a decline in small local shops."

@@ -120,3 +120,10 @@ exercises:
   - type: speak
     answer: "We need to make a decision by Friday."
     ru: "Нам нужно принять решение к пятнице."
+writing:
+  - "translate | Нам нужно принять решение. | We need to make a decision. || We have to make a decision."
+  - "translate | Она проводит исследование в области медицины. | She is doing research in medicine. || She does research in medicine. || She is doing medical research."
+  - "translate | Вчера шёл сильный дождь. | There was heavy rain yesterday. || It rained heavily yesterday."
+  - "translate | Я глубоко сожалею о своём решении. | I deeply regret my decision."
+  - "translate | Было ужасно холодно. | It was bitterly cold."
+  - "compose | Опишите свой день с 3 коллокациями (make a decision, do research, strong coffee …) | - | I had a strong coffee, did some research and made an important decision."

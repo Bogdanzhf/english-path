@@ -108,3 +108,10 @@ exercises:
   - type: speak
     answer: "If I have time, I will call you."
     ru: "Если у меня будет время, я тебе позвоню."
+writing:
+  - "transform | Соедините в условное предложение с if | It rains. We stay at home. | If it rains, we'll stay at home. || We'll stay at home if it rains."
+  - "transform | Соедините с unless (если не) | You don't hurry. You'll miss the bus. | Unless you hurry, you'll miss the bus. || You'll miss the bus unless you hurry."
+  - "transform | Перепишите как общий факт (zero conditional) | Ice melts when somebody heats it. | If you heat ice, it melts."
+  - "translate | Если у меня будет время, я тебе позвоню. | If I have time, I'll call you. || I'll call you if I have time."
+  - "translate | Если ты не поторопишься, мы опоздаем. | If you don't hurry, we'll be late. || We'll be late if you don't hurry."
+  - "complete | Что вы сделаете, если завтра будет хорошая погода? | If the weather is nice tomorrow, | If the weather is nice tomorrow, I will go to the park with my dog."

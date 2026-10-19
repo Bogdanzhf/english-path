@@ -125,3 +125,10 @@ exercises:
   - type: speak
     answer: "This is the town where I was born."
     ru: "Это город, где я родился."
+writing:
+  - "transform | Соедините с who (дополнительная информация, запятые) | My brother lives in Paris. He is a chef. | My brother, who lives in Paris, is a chef."
+  - "transform | Соедините с which | The museum is very old. It opened in 1850. | The museum, which opened in 1850, is very old."
+  - "transform | Соедините с which (о всей ситуации) | He missed the bus. This meant he was late. | He missed the bus, which meant he was late."
+  - "translate | Москва, где я живу, — очень большой город. | Moscow, where I live, is a very big city."
+  - "translate | Моя мама, которой шестьдесят лет, всё ещё работает. | My mother, who is sixty, still works. || My mum, who is sixty, is still working."
+  - "compose | Расскажите о человеке, добавив информацию через , who … , | who | My grandfather, who is eighty, still works in his garden every day."

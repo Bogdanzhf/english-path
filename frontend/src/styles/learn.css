@@ -982,3 +982,109 @@
   margin-top: 8px;
   font-size: 0.95rem;
 }
+
+/* ---------- письмо ---------- */
+.sentence-box {
+  min-height: 64px;
+  resize: vertical;
+  font-size: 1.05rem;
+  line-height: 1.45;
+}
+.input.near {
+  border-color: var(--amber);
+  background: var(--amber-soft);
+}
+.write-source {
+  padding: 10px 14px;
+  border-radius: var(--radius-sm);
+  background: var(--surface-2);
+  border-left: 3px solid var(--primary);
+  font-size: 1.05rem;
+}
+.write-result {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 12px 14px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border);
+  background: var(--surface-2);
+}
+.write-result.ok {
+  border-color: color-mix(in srgb, var(--green) 45%, transparent);
+  background: var(--green-soft);
+}
+.write-result.near {
+  border-color: color-mix(in srgb, var(--amber) 50%, transparent);
+  background: var(--amber-soft);
+}
+.write-result.wrong {
+  border-color: color-mix(in srgb, var(--red) 40%, transparent);
+  background: var(--red-soft);
+}
+.diff {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 6px;
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+.diff span {
+  padding: 0 3px;
+  border-radius: 4px;
+}
+.diff-missing {
+  background: color-mix(in srgb, var(--green) 22%, transparent);
+  color: var(--green);
+  font-weight: 700;
+}
+.diff-extra {
+  background: color-mix(in srgb, var(--red) 18%, transparent);
+  color: var(--red);
+  text-decoration: line-through;
+}
+.diff-typo {
+  background: color-mix(in srgb, var(--amber) 25%, transparent);
+  color: var(--text);
+  font-weight: 700;
+}
+.diff-legend span {
+  padding: 0 4px;
+  border-radius: 4px;
+  margin-right: 6px;
+}
+.writing-setup .chip {
+  min-height: 34px;
+}
+
+/* ---------- выбор слов для тренажёра ---------- */
+.pick-list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  max-height: 340px;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  padding-right: 2px;
+}
+.pick-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 44px;
+  padding: 6px 10px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border);
+  background: var(--surface);
+  cursor: pointer;
+}
+.pick-row.on {
+  border-color: var(--primary);
+  background: var(--primary-soft);
+}
+.pick-row input {
+  width: 18px;
+  height: 18px;
+  accent-color: var(--primary);
+  flex-shrink: 0;
+}

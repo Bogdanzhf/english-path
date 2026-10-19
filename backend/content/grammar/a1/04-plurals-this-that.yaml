@@ -105,3 +105,10 @@ exercises:
     q: "Which books are near the speaker?"
     options: ["the speaker's books", "the sister's books", "all the books"]
     answer: 0
+writing:
+  - "transform | Поставьте во множественное число | This child has a new toy. | These children have new toys."
+  - "transform | Поставьте во множественное число | That woman is my friend. | Those women are my friends."
+  - "transform | Поставьте в единственное число | These boxes are heavy. | This box is heavy."
+  - "translate | Эти туфли новые, а те — старые. | These shoes are new, and those are old. || These shoes are new, and those shoes are old."
+  - "translate | Мои ступни устали. | My feet are tired."
+  - "compose | Что рядом с вами, а что дальше? (this/these, that/those) | this, that | This is my laptop and that is my phone over there."

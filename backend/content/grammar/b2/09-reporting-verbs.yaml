@@ -113,3 +113,10 @@ exercises:
   - type: speak
     answer: "The doctor advised me to get more sleep."
     ru: "Врач посоветовал мне больше спать."
+writing:
+  - "transform | Перескажите с advise | “You should rest,” the doctor said to me. | The doctor advised me to rest."
+  - "transform | Перескажите с deny | “I didn't steal the money,” he said. | He denied stealing the money. || He denied that he had stolen the money."
+  - "transform | Перескажите с apologise for | “Sorry we're late,” they said. | They apologised for being late. || They apologized for being late."
+  - "translate | Она предложила пойти в кино. | She suggested going to the cinema."
+  - "translate | Он пообещал позвонить завтра. | He promised to call tomorrow. || He promised to phone tomorrow."
+  - "compose | Перескажите разговор с другом с помощью suggested / promised / refused | suggested | My friend suggested going to the mountains, and I promised to think about it."

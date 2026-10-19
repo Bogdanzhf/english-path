@@ -101,3 +101,10 @@ exercises:
   - type: speak
     answer: "I usually have breakfast at home."
     ru: "Я обычно завтракаю дома."
+writing:
+  - "transform | Добавьте always на правильное место | I drink tea in the morning. | I always drink tea in the morning."
+  - "transform | Добавьте never на правильное место | He is late. | He is never late."
+  - "transform | Добавьте usually | We go to the park on Sundays. | We usually go to the park on Sundays."
+  - "translate | Я редко смотрю телевизор. | I rarely watch TV. || I seldom watch TV."
+  - "translate | Она всегда счастлива. | She is always happy."
+  - "compose | Что вы делаете всегда, а что никогда? | always, never | I always read before bed, but I never watch horror films."

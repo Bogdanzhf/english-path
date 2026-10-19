@@ -173,7 +173,9 @@ export function Flashcards({ items, mode, onDone }: { items: CardItem[]; mode: '
         </button>
       </div>
       <div className="flashcard-wrap">
-        <div className={`flashcard${flipped ? ' flipped' : ''}`} onClick={() => setFlipped((f) => !f)} role="button" aria-label={t('flip_card')} tabIndex={0}>
+        {/* key: следующая карточка появляется сразу лицевой стороной, без обратного переворота —
+            иначе на полсекунды был виден перевод следующего слова */}
+        <div key={`${i}:${item.id}`} className={`flashcard${flipped ? ' flipped' : ''}`} onClick={() => setFlipped((f) => !f)} role="button" aria-label={t('flip_card')} tabIndex={0}>
           <div className="flash-face front">
             <Front item={item} />
             <span className="muted tiny">{t('flip_card')}</span>

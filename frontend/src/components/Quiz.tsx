@@ -25,6 +25,7 @@ import {
   type ExResult,
 } from './exercises'
 import { Md, ProgressBar, Ring } from './ui'
+import { ComposeView, WriteView } from './writing'
 
 const TASK_KEYS = {
   choice: 'task_choice',
@@ -39,6 +40,8 @@ const TASK_KEYS = {
   listen: 'task_listen',
   speak: 'task_speak',
   letters: 'task_letters',
+  write: 'task_write',
+  compose: 'task_compose',
 } as const
 
 export function ExerciseView({ ex, onResult, answered }: { ex: QuizEx; onResult: (r: ExResult) => void; answered: boolean }) {
@@ -66,6 +69,10 @@ export function ExerciseView({ ex, onResult, answered }: { ex: QuizEx; onResult:
       return <DialogView ex={ex} onResult={onResult} answered={answered} />
     case 'speak':
       return <SpeakView ex={ex} onResult={onResult} answered={answered} />
+    case 'write':
+      return <WriteView ex={ex} onResult={onResult} answered={answered} />
+    case 'compose':
+      return <ComposeView ex={ex} onResult={onResult} answered={answered} />
   }
 }
 

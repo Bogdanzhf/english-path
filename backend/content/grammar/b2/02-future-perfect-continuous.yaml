@@ -113,3 +113,10 @@ exercises:
   - type: speak
     answer: "By next year I will have been living here for ten years."
     ru: "В следующем году будет десять лет, как я живу здесь."
+writing:
+  - "transform | Перепишите с Future Perfect Continuous | In June it will be ten years since I started working here. | By June I will have been working here for ten years."
+  - "transform | Перепишите с be about to | The train is going to leave in a moment. | The train is about to leave."
+  - "transform | Перепишите с be due to | The plane is scheduled to land at six. | The plane is due to land at six."
+  - "translate | К вечеру мы будем ехать уже восемь часов. | By the evening we will have been driving for eight hours."
+  - "translate | Я как раз собирался тебе позвонить. | I was just about to call you."
+  - "complete | Сколько вы будете заниматься чем-то к концу года? | By the end of this year, I will have been | By the end of this year, I will have been learning English for three years."

@@ -123,3 +123,10 @@ exercises:
   - type: speak
     answer: "This house was built in the nineteenth century."
     ru: "Этот дом был построен в девятнадцатом веке."
+writing:
+  - "transform | Перепишите в пассиве | They speak English in many countries. | English is spoken in many countries."
+  - "transform | Перепишите в пассиве (Past Simple) | Someone stole my bike yesterday. | My bike was stolen yesterday."
+  - "transform | Перепишите в пассиве с by | Shakespeare wrote Hamlet. | Hamlet was written by Shakespeare."
+  - "translate | Этот мост построили в 1890 году. | This bridge was built in 1890."
+  - "translate | Здесь говорят по-русски? | Is Russian spoken here?"
+  - "compose | Расскажите о своём городе в пассиве (когда основан, чем известен) | - | My city was founded in the 12th century and it is known for its old churches."

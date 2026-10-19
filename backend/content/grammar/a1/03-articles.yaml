@@ -115,3 +115,10 @@ exercises:
     q: "Which animal is small?"
     options: ["the dog", "the cat", "both"]
     answer: 1
+writing:
+  - "translate | У меня есть кошка. Кошка очень умная. | I have a cat. The cat is very clever. || I've got a cat. The cat is very clever. || I have a cat. The cat is very smart. || I've got a cat. The cat is very smart."
+  - "translate | Она — инженер. | She is an engineer."
+  - "translate | Солнце — звезда. | The sun is a star."
+  - "translate | Я люблю музыку. | I love music. || I like music."
+  - "transform | Вставьте a или an | She has ___ umbrella and ___ big bag. | She has an umbrella and a big bag."
+  - "compose | Опишите свою комнату: что в ней есть (a / an / the) | - | There is a bed and a desk in my room. The desk is near the window."

@@ -118,3 +118,10 @@ exercises:
   - type: speak
     answer: "By next year I will have finished my course."
     ru: "К следующему году я закончу свой курс."
+writing:
+  - "transform | Перепишите с Future Continuous (this time tomorrow) | Tomorrow at this time I'm on a plane to Rome. | This time tomorrow I'll be flying to Rome."
+  - "transform | Перепишите с Future Perfect (by Friday) | I will finish the report before Friday. | I will have finished the report by Friday."
+  - "transform | Сделайте вопросом (Future Continuous) | You will be using the car tonight. | Will you be using the car tonight?"
+  - "translate | К лету я накоплю на новый ноутбук. | By the summer I will have saved enough for a new laptop. || By summer I'll have saved for a new laptop."
+  - "translate | Не звони в восемь — я буду ужинать. | Don't call at eight — I'll be having dinner. || Don't call me at eight — I'll be having dinner."
+  - "complete | Что вы будете делать завтра в это же время? | This time tomorrow I'll be | This time tomorrow I'll be sitting in a meeting at work."

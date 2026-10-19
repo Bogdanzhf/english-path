@@ -106,3 +106,10 @@ exercises:
   - type: speak
     answer: "All things considered, it was a successful year."
     ru: "В целом это был удачный год."
+writing:
+  - "transform | Перепишите с Weather permitting | We'll have lunch outside if the weather allows it. | Weather permitting, we'll have lunch outside."
+  - "transform | Перепишите абсолютной конструкцией | When the work was done, we left. | The work done, we left."
+  - "transform | Перепишите с With + -ing | Prices are rising, so many people are saving money. | With prices rising, many people are saving money."
+  - "translate | С учётом всех обстоятельств, это был успех. | All things considered, it was a success."
+  - "translate | Поскольку времени оставалось мало, мы взяли такси. | With little time left, we took a taxi. || There being little time left, we took a taxi."
+  - "compose | Опишите поездку, начав с абсолютной конструкции (With …, All things considered, …) | - | All things considered, the trip was a success despite the bad weather."

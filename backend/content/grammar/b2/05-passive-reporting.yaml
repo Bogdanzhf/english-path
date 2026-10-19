@@ -111,3 +111,10 @@ exercises:
   - type: speak
     answer: "The castle is said to be haunted."
     ru: "Говорят, что в замке водятся привидения."
+writing:
+  - "transform | Перепишите с It is believed that | People believe that the castle is haunted. | It is believed that the castle is haunted."
+  - "transform | Перепишите с is said to | People say that she is very rich. | She is said to be very rich."
+  - "transform | Перепишите с is thought to have | People think that he left the country. | He is thought to have left the country."
+  - "translate | Считается, что эта картина стоит миллионы. | It is believed that this painting is worth millions. || This painting is believed to be worth millions. || It is thought that this painting is worth millions."
+  - "translate | Говорят, что он лучший повар в городе. | He is said to be the best cook in the city. || It is said that he is the best cook in the city. || He is said to be the best chef in town."
+  - "compose | Перескажите слух или легенду о своём городе (It is said / is believed to…) | said | It is said that a hidden treasure lies under the old church."

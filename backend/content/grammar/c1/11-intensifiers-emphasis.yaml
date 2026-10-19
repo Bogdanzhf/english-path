@@ -126,3 +126,10 @@ exercises:
   - type: speak
     answer: "I do understand how you feel."
     ru: "Я правда понимаю, что ты чувствуешь."
+writing:
+  - "transform | Усильте (absolutely) | She was very angry. | She was absolutely furious."
+  - "transform | Усильте с do (эмфаза) | I like your new haircut. | I do like your new haircut."
+  - "transform | Усильте отрицание (whatsoever) | I have no idea. | I have no idea whatsoever."
+  - "translate | Крайне маловероятно, что он придёт. | It's highly unlikely that he will come. || He is highly unlikely to come."
+  - "translate | Я был глубоко тронут его словами. | I was deeply moved by his words."
+  - "compose | Опишите сильное впечатление с усилителями (absolutely, utterly, deeply) | - | The view from the mountain was absolutely stunning and I was deeply impressed."

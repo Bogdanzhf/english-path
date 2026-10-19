@@ -113,3 +113,10 @@ exercises:
   - type: speak
     answer: "This is the best day of my life!"
     ru: "Это лучший день в моей жизни!"
+writing:
+  - "transform | Сравните с помощью than | My car is fast. Your car is very fast. | Your car is faster than my car. || Your car is faster than mine."
+  - "transform | Перепишите в превосходной степени | No river in Europe is longer than the Volga. | The Volga is the longest river in Europe."
+  - "transform | Перепишите с as … as | Tom is 180 cm. Jack is 180 cm too. | Tom is as tall as Jack."
+  - "translate | Этот фильм интереснее, чем тот. | This film is more interesting than that one. || This film is more interesting than that film."
+  - "translate | Это лучший день в моей жизни! | This is the best day of my life! || It's the best day of my life!"
+  - "compose | Сравните два города (или две вещи), которые вы хорошо знаете | than | Moscow is bigger than Kazan, but Kazan is quieter."
