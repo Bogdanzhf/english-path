@@ -20,19 +20,20 @@ def lib():
 @pytest.mark.parametrize("level", LEVELS)
 def test_each_level_is_complete(lib, level):
     units = lib.units[level]
-    assert len(units) == 30
-    assert all(len(u.words) == 20 for u in units)
+    # v2: тематические уроки, их число зависит от уровня; в уроке 8–30 карточек
+    assert len(units) >= 30
+    assert all(8 <= len(u.words) <= 30 for u in units)
     assert len(lib.grammar[level]) >= 10
     assert len(lib.dialogues[level]) == 6
 
 
 def test_total_word_count(lib):
-    assert len(lib.words) == 3600
+    assert len(lib.words) >= 9000
 
 
 def test_word_ids_unique_and_well_formed(lib):
     for wid, w in lib.words.items():
-        assert re.fullmatch(r"(a1|a2|b1|b2|c1|c2)\.\d\d\.[a-z0-9-]+", wid), wid
+        assert re.fullmatch(r"(a1|a2|b1|b2|c1|c2)\.\d{2,3}\.[a-z0-9-]+", wid), wid
         assert w.ru and w.definition and w.example and w.example_ru
 
 
@@ -40,6 +41,8 @@ def test_readings_have_translation_and_questions(lib):
     for level in LEVELS:
         for u in lib.units[level]:
             r = u.reading
+            if r is None:  # v2: тексты к тематическим урокам появятся на этапе 6
+                continue
             assert r["title"] and r["text"] and r["ru"]
             assert len(r["questions"]) >= 3
 

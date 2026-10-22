@@ -15,7 +15,7 @@ from app.security import limiter  # noqa: E402
 
 CSRF = {"X-Requested-With": "english-path"}
 GOOD_PASSWORD = "Violet-Harbour-Lantern-42"
-WORD_ID = "a1.01.agree"  # первое слово первого юнита A1
+WORD_ID = "a1.01.adult"  # слово первого урока A1
 
 
 def make_client() -> TestClient:

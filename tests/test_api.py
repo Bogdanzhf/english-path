@@ -105,7 +105,7 @@ def test_reviews_follow_srs(user_client):
 
 def test_personal_dictionary(user_client):
     c = user_client
-    ids = [WORD_ID, "c2.30.paradox"]
+    ids = [WORD_ID, "c2.30.arcane"]
     assert c.post("/api/dict", json={"ids": ids, "in_dict": True}).status_code == 200
     words = c.get("/api/progress").json()["words"]
     assert all(words[i]["in_dict"] and words[i]["added_at"] for i in ids)

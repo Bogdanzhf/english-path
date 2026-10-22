@@ -306,14 +306,14 @@ files = [
 
 [[package]]
 name = "edge-tts"
-version = "7.2.8"
+version = "7.3.1"
 description = "Microsoft Edge's TTS"
 optional = false
 python-versions = ">=3.7"
 groups = ["dev"]
 files = [
-    {file = "edge_tts-7.2.8-py3-none-any.whl", hash = "sha256:361fe48ce7ef613adbe30f664e3765dd71029c6cb57427279eff8ad6df2eb211"},
-    {file = "edge_tts-7.2.8.tar.gz", hash = "sha256:fcf185a0d527a0d2d003f9d5841facc1d5e0e7b3b88d5df9c32990402c6b8cd0"},
+    {file = "edge_tts-7.3.1-py3-none-any.whl", hash = "sha256:2a3c79d6235a7a736d681233823ce5492e829b43eb47beae49aa181237a8f9a4"},
+    {file = "edge_tts-7.3.1.tar.gz", hash = "sha256:ee1fabf911b9ea83b38ae93aee5619ee41eaf0b109fef6e65d797dc4ebf1f20f"},
 ]
 
 [package.dependencies]
@@ -624,6 +624,23 @@ files = [
 
 [package.extras]
 all = ["coverage (>=7.10.0)", "hypothesis (>=6.141.1)", "mypy (>=1.11.2)", "pytest (>=8.3.2)", "ruff (>=0.16.0)", "ty (>=0.0.37)"]
+
+[[package]]
+name = "imageio-ffmpeg"
+version = "0.6.0"
+description = "FFMPEG wrapper for Python"
+optional = false
+python-versions = ">=3.9"
+groups = ["dev"]
+files = [
+    {file = "imageio_ffmpeg-0.6.0-py3-none-macosx_10_9_intel.macosx_10_9_x86_64.whl", hash = "sha256:9d2baaf867088508d4a3458e61eeb30e945c4ad8016025545f66c4b5aaef0a61"},
+    {file = "imageio_ffmpeg-0.6.0-py3-none-macosx_11_0_arm64.whl", hash = "sha256:b1ae3173414b5fc5f538a726c4e48ea97edc0d2cdc11f103afee655c463fa742"},
+    {file = "imageio_ffmpeg-0.6.0-py3-none-manylinux2014_aarch64.whl", hash = "sha256:1d47bebd83d2c5fc770720d211855f208af8a596c82d17730aa51e815cdee6dc"},
+    {file = "imageio_ffmpeg-0.6.0-py3-none-manylinux2014_x86_64.whl", hash = "sha256:c7e46fcec401dd990405049d2e2f475e2b397779df2519b544b8aab515195282"},
+    {file = "imageio_ffmpeg-0.6.0-py3-none-win32.whl", hash = "sha256:196faa79366b4a82f95c0f4053191d2013f4714a715780f0ad2a68ff37483cc2"},
+    {file = "imageio_ffmpeg-0.6.0-py3-none-win_amd64.whl", hash = "sha256:02fa47c83703c37df6bfe4896aab339013f62bf02c5ebf2dce6da56af04ffc0a"},
+    {file = "imageio_ffmpeg-0.6.0.tar.gz", hash = "sha256:e2556bed8e005564a9f925bb7afa4002d82770d6b08825078b7697ab88ba1755"},
+]
 
 [[package]]
 name = "iniconfig"
@@ -2057,4 +2074,4 @@ propcache = ">=0.2.1"
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.11,<4.0"
-content-hash = "a44c9a8c926551f78a403723e80983c10ead28735661ceb7faa3293aa998aec6"
+content-hash = "6d51b1d84827205ca8cbd468b6080c88ad61bbc695cc5d64cf44a4781ad509c8"
