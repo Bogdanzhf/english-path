@@ -42,6 +42,14 @@ function PasswordForm() {
   )
 }
 
+// образцы цветов: фон, поверхность, акцент, текст (светлый вариант)
+const PALETTES: { id: 'classic' | 'sage' | 'paper' | 'ocean'; colors: string[] }[] = [
+  { id: 'classic', colors: ['#e8e4dc', '#f4f1ea', '#2c58d4', '#1d2430'] },
+  { id: 'sage', colors: ['#e9eee8', '#f6f8f4', '#2a7563', '#1b2721'] },
+  { id: 'paper', colors: ['#f1ebe1', '#fbf7f0', '#b04a27', '#2a211b'] },
+  { id: 'ocean', colors: ['#e8eef6', '#f7f9fd', '#2b57cc', '#121d2f'] },
+]
+
 export default function Profile() {
   const { t, lang, setLang } = useI18n()
   const { user, setUser, prefs, setPrefs, logout, mode, refresh, toast, progress } = useApp()
@@ -128,6 +136,28 @@ export default function Profile() {
             value={prefs.theme}
             onChange={(theme) => setPrefs({ theme })}
           />
+        </div>
+        <div style={{ padding: '8px 0' }}>
+          <div className="mb-2">{t('palette')}</div>
+          <div className="palette-grid">
+            {PALETTES.map((p) => (
+              <button
+                key={p.id}
+                type="button"
+                className={`palette-card${(prefs.palette ?? 'classic') === p.id ? ' active' : ''}`}
+                aria-pressed={(prefs.palette ?? 'classic') === p.id}
+                onClick={() => setPrefs({ palette: p.id })}
+              >
+                <span className="palette-swatches" aria-hidden="true">
+                  {p.colors.map((c) => (
+                    <span key={c} style={{ background: c }} />
+                  ))}
+                </span>
+                <b>{t(`palette_${p.id}` as never)}</b>
+                <span className="muted small">{t(`palette_${p.id}_desc` as never)}</span>
+              </button>
+            ))}
+          </div>
         </div>
       </section>
 

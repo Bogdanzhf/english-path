@@ -124,6 +124,8 @@ export interface LevelData { id: LevelId; units: UnitData[]; grammar: GrammarTop
 export interface Prefs {
   lang?: 'ru' | 'en'
   theme?: 'light' | 'dark' | 'system'
+  /** цветовая палитра v2: classic — исходная */
+  palette?: 'classic' | 'sage' | 'paper' | 'ocean'
   accent?: 'uk' | 'us'
   rate?: number
   showRu?: boolean

@@ -25,6 +25,16 @@ const unlock = () => {
 }
 for (const ev of ['touchend', 'pointerdown', 'keydown']) document.addEventListener(ev, unlock, true)
 
+// палитра и тема до первой отрисовки — без вспышки другой расцветки при загрузке
+try {
+  const saved = JSON.parse(localStorage.getItem('ep:prefs') || '{}') as { theme?: string; palette?: string }
+  const dark = saved.theme === 'dark' || (saved.theme !== 'light' && window.matchMedia?.('(prefers-color-scheme: dark)').matches)
+  document.documentElement.dataset.theme = dark ? 'dark' : 'light'
+  document.documentElement.dataset.palette = saved.palette || 'classic'
+} catch {
+  /* настройки повреждены — останутся значения по умолчанию */
+}
+
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <ErrorBoundary>

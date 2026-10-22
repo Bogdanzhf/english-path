@@ -50,7 +50,7 @@ CUSTOM_LIMIT = 5000
 AVATARS = ["🦊", "🐼", "🦉", "🐯", "🐺", "🦁", "🐧", "🐬", "🚀", "🎧", "📚", "⚡"]
 USERNAME_RE = re.compile(r"^[a-z0-9._-]{3,40}$")
 CUSTOM_ID_RE = re.compile(r"^c:(\d{1,10})$")
-PREF_KEYS = {"lang", "theme", "accent", "rate", "showRu", "sound", "autoplay", "suggestedLevel", "level", "dailyGoal"}
+PREF_KEYS = {"lang", "theme", "palette", "accent", "rate", "showRu", "sound", "autoplay", "suggestedLevel", "level", "dailyGoal"}
 
 
 @asynccontextmanager

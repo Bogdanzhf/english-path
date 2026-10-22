@@ -122,3 +122,34 @@
   align-items: center;
   margin-bottom: var(--space-4);
 }
+
+/* выбор палитры в профиле */
+.palette-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  gap: 10px;
+}
+.palette-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  padding: 12px;
+  text-align: left;
+  background: var(--surface-2);
+  border: 2px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text);
+  cursor: pointer;
+  transition: border-color var(--t-fast), transform var(--t-fast);
+}
+.palette-card:hover { border-color: var(--border-strong); }
+.palette-card.active { border-color: var(--primary); box-shadow: var(--focus); }
+.palette-card:focus-visible { outline: none; box-shadow: var(--focus); }
+.palette-swatches { display: flex; gap: 4px; margin-bottom: 4px; }
+.palette-swatches span {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}

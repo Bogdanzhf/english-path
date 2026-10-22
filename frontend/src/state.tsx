@@ -28,13 +28,22 @@ function readPrefs(): FullPrefs {
   }
 }
 
-function applyTheme(theme: Prefs['theme']) {
+// цвет строки состояния браузера (фон страницы) для каждой палитры
+const THEME_COLOR: Record<NonNullable<Prefs['palette']>, [string, string]> = {
+  classic: ['#e8e4dc', '#1b2230'],
+  sage: ['#e9eee8', '#151d1a'],
+  paper: ['#f1ebe1', '#1e1a17'],
+  ocean: ['#e8eef6', '#0e1524'],
+}
+
+function applyTheme(theme: Prefs['theme'], palette: Prefs['palette'] = 'classic') {
   const dark = theme === 'dark' || (theme === 'system' && window.matchMedia?.('(prefers-color-scheme: dark)').matches)
   document.documentElement.dataset.theme = dark ? 'dark' : 'light'
+  document.documentElement.dataset.palette = palette
   document.querySelector('meta[name="theme-color"]:not([media])')?.remove()
   const meta = document.createElement('meta')
   meta.name = 'theme-color'
-  meta.content = dark ? '#1b2230' : '#e8e4dc'
+  meta.content = THEME_COLOR[palette][dark ? 1 : 0]
   document.head.appendChild(meta)
 }
 
@@ -84,13 +93,13 @@ export function AppProvider({ children }: { children: ReactNode }) {
 
   // применяем настройки: тема, озвучка, звуки
   useEffect(() => {
-    applyTheme(prefs.theme)
+    applyTheme(prefs.theme, prefs.palette)
     configureAudio({ rate: prefs.rate, accent: prefs.accent })
     setSoundOn(prefs.sound)
     localStorage.setItem(PREFS_KEY, JSON.stringify(prefs))
     if (prefs.theme !== 'system') return
     const mq = window.matchMedia?.('(prefers-color-scheme: dark)')
-    const on = () => applyTheme('system')
+    const on = () => applyTheme('system', prefs.palette)
     mq?.addEventListener?.('change', on)
     return () => mq?.removeEventListener?.('change', on)
   }, [prefs])
