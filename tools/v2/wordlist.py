@@ -277,8 +277,13 @@ def add_ielts(cards: list[dict]) -> None:
     print("IELTS: добавлено карточек:", added)
 
 
+V1_POS: dict[str, set[str]] = defaultdict(set)
+
+
 def main() -> None:
     sys.stdout.reconfigure(encoding="utf-8")
+    for w in json.load(open(ROOT / "frontend" / "public" / "data" / "words.json", encoding="utf-8")):
+        V1_POS[w["w"].lower()].add(w["pos"])
     entries = load()
     manual = load_manual()
     lemmas = {e.lemma.lower() for e in entries.values()}
@@ -323,8 +328,11 @@ def main() -> None:
     by_lemma = defaultdict(list)
     for r in rows:
         by_lemma[r["lemma"].lower()].append(r)
+    POS_PRIORITY = {"v": 0, "n": 1, "adj": 2, "adv": 3, "prep": 4, "conj": 5, "pron": 6, "det": 7, "num": 8}
     for rs in by_lemma.values():
-        rs.sort(key=lambda r: (RANK[r["level"]], -float(r["zipf"])))
+        # основная часть речи: та, что была в курсе v1, иначе глагол → существительное → прилагательное → наречие
+        rs.sort(key=lambda r: (RANK[r["level"]], 0 if r["v1"] and r["pos"] in V1_POS.get(r["lemma"].lower(), ()) else 1,
+                               POS_PRIORITY.get(r["pos"], 9)))
         main_r = dict(rs[0])
         main_r["also"] = ",".join(r["pos"] for r in rs[1:] if r["level"] == main_r["level"] and r["pos"])
         main_r["card"] = "main"

@@ -19,7 +19,7 @@ import yaml
 CONTENT = Path(__file__).resolve().parent.parent / "content"
 
 LEVELS = ["a1", "a2", "b1", "b2", "c1", "c2"]
-POS = {"n", "v", "adj", "adv", "prep", "conj", "pron", "phr", "num", "det", "interj", "phv"}
+POS = {"n", "v", "adj", "adv", "prep", "conj", "pron", "phr", "num", "det", "interj", "phv", "part"}
 EXERCISE_TYPES = {"choice", "input", "order", "match", "cloze", "error", "tf", "odd", "dialog", "listen", "speak", "write", "compose"}
 VOICES = {"f-us", "m-us", "f-uk", "m-uk", "f-au", "m-au"}
 
@@ -201,7 +201,9 @@ def parse_word(line: str, level: str, unit: int, where: str) -> Word:
     if len(parts) not in (8, 9):
         raise ContentError(f"{where}: в строке слова должно быть 8–9 полей через |, найдено {len(parts)}: {line!r}")
     word, pos, uk, us, ru, definition, example, example_ru, *rest = parts
-    for name, val in (("слово", word), ("часть речи", pos), ("транскрипция", uk), ("перевод", ru),
+    # у выражений и фразовых глаголов транскрипции нет — есть озвучка
+    need_ipa = pos not in ("phr", "phv") and " " not in word
+    for name, val in (("слово", word), ("часть речи", pos), ("транскрипция", uk if need_ipa else "-"), ("перевод", ru),
                       ("определение", definition), ("пример", example), ("перевод примера", example_ru)):
         if not val:
             raise ContentError(f"{where}: пустое поле «{name}» у {word or line!r}")

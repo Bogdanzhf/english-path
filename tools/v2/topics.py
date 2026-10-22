@@ -330,6 +330,18 @@ def main() -> None:
                 "body": "people", "food": "home", "people": "feelings", "nature": "animals", "grammar": "describing",
                 "phrases": "communication", "mind": "events", "actions": "events", "describing": "mind"}
     cards = [c for c in cards if c["lemma"].lower() not in FORMS and c["topic"] != "drop"]
+    # выражение, совпадающее со словом (each other, swimming pool), — не дублируем
+    words_set = {c["lemma"].lower() for c in cards if c["card"] != "phrase"}
+    seen_phr: set[str] = set()
+    kept = []
+    for c in cards:
+        k = c["lemma"].lower()
+        if c["card"] == "phrase" and (k in words_set or k in seen_phr):
+            continue
+        if c["card"] == "phrase":
+            seen_phr.add(k)
+        kept.append(c)
+    cards = kept
     for lv in LEVELS:
         counts = Counter(c["topic"] for c in cards if c["level"] == lv)
         if counts["nature"] < MIN_LESSON or counts["animals"] < MIN_LESSON:

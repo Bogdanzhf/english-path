@@ -176,3 +176,9 @@ essay: ubiquitous, exacerbate
 nature: moor
 clothes: romper
 drop: floodgates
+
+# --- найдено при наполнении ---
+food: burger
+leisure: kite
+drop: color, gray, favorite
+time: may
