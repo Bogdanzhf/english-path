@@ -80,7 +80,7 @@ test.describe('static site', () => {
     }
 
     await page.goto('/#/my-words')
-    await expect(page.getByText('agree').first()).toBeVisible()
+    await expect(page.getByText('adult').first()).toBeVisible()
   })
 
   test('grammar topic shows theory and checks answers', async ({ page }) => {

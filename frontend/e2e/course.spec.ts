@@ -1,7 +1,7 @@
 import { expect, test, type Page } from '@playwright/test'
 
-// Полный обход курса: каждая ссылка на уровнях открывается, количество слов на карточке юнита
-// совпадает с фактическим, а карточки проходятся до конца (все 20 слов, без сброса на середине).
+// Полный обход курса: каждая ссылка на уровнях открывается, количество слов на карточке урока
+// совпадает с фактическим, а карточки проходятся до конца (все слова урока, без сброса на середине).
 
 const LEVELS = ['a1', 'a2', 'b1', 'b2', 'c1', 'c2']
 
@@ -28,7 +28,7 @@ async function hrefs(page: Page, tab: string, pattern: RegExp) {
 
 test.describe('course crawl', () => {
   test.skip(({ isMobile }) => isMobile, 'обход один раз, на компьютере')
-  test.setTimeout(600_000)
+  test.setTimeout(1_800_000) // v2: до 150 уроков на уровень
 
   for (const lv of LEVELS) {
     test(`level ${lv}: every unit, reading, grammar topic and dialogue opens`, async ({ page }) => {
@@ -37,17 +37,17 @@ test.describe('course crawl', () => {
       await createProfile(page)
       await page.goto(`/#/level/${lv}`)
 
-      // юниты: число на карточке = числу карточек слов на странице = 20
+      // уроки (v2: тематические, 35–151 на уровень): число на карточке = числу карточек слов на странице
       await expect(page.locator('a.unit-card').first()).toBeVisible()
       const units = await page.locator('a.unit-card').evaluateAll((els) =>
-        els.map((e) => ({ href: e.getAttribute('href') ?? '', n: Number(/(\d+)\s+(слов|word)/.exec(e.textContent ?? '')?.[1]) })),
+        els.map((e) => ({ href: e.getAttribute('href') ?? '', n: Number(/(\d+)\s+(слов|word)/.exec(e.querySelector('.muted')?.textContent ?? '')?.[1]) })),
       )
-      expect(units).toHaveLength(30)
+      expect(units.length).toBeGreaterThanOrEqual(30)
       for (const u of units) {
         await page.goto('/' + u.href)
         await expectPageOk(page, u.href)
         await expect(page.locator('article.word-card'), u.href).toHaveCount(u.n)
-        expect(u.n, u.href).toBe(20)
+        expect(u.n, u.href).toBeGreaterThanOrEqual(8)
       }
 
       await page.goto(`/#/level/${lv}`)
@@ -65,11 +65,15 @@ test.describe('course crawl', () => {
     })
   }
 
-  test('flashcards go through all 20 words of a unit', async ({ page }) => {
+  test('flashcards go through all words of a lesson', async ({ page }) => {
     await createProfile(page)
     await page.goto('/#/level/b1/unit/5?tab=cards')
-    for (let i = 1; i <= 20; i++) {
-      await expect(page.getByText(`${i}/20`, { exact: true })).toBeVisible()
+    const first = page.getByText(/^1\/\d+$/)
+    await expect(first).toBeVisible()
+    const total = Number((await first.textContent())!.split('/')[1])
+    expect(total).toBeGreaterThanOrEqual(8)
+    for (let i = 1; i <= total; i++) {
+      await expect(page.getByText(`${i}/${total}`, { exact: true })).toBeVisible()
       await page.getByRole('button', { name: /Показать ответ|Show answer/ }).click()
       await page.getByRole('button', { name: i % 3 ? /^(Знаю|I know it)$/ : /Не знаю|I don.t know/ }).click()
     }

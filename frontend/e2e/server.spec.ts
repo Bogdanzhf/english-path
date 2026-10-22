@@ -23,7 +23,7 @@ test('register, save progress, log out and log back in', async ({ page }) => {
     .poll(async () =>
       page.evaluate(async () => {
         const r = await fetch('/api/progress')
-        return (await r.json()).words?.['a1.01.agree']?.in_dict ?? false
+        return (await r.json()).words?.['a1.01.adult']?.in_dict ?? false
       }),
     )
     .toBe(true)
@@ -36,7 +36,7 @@ test('register, save progress, log out and log back in', async ({ page }) => {
   await page.getByRole('button', { name: /^(Войти|Sign in)$/ }).last().click()
   await expect(page.locator('main.content')).toBeVisible()
   await page.goto('/my-words')
-  await expect(page.getByText('agree').first()).toBeVisible()
+  await expect(page.getByText('adult').first()).toBeVisible()
 })
 
 test('wrong password shows an error', async ({ page }) => {
