@@ -20,3 +20,52 @@ words:
 - son | n | sʌn |  | сын | a male child of a parent | They have one *son* and two daughters. | У них один сын и две дочери.
 - teenager | n | ˈtiːneɪdʒə | ˈtiːneɪdʒər | подросток | a person between 13 and 19 years old | My cousin is a *teenager*. | Мой двоюродный брат — подросток.
 - wife | n | waɪf |  | жена | the woman someone is married to | His *wife* is a teacher. | Его жена — учительница. | мн. ч. wives
+reading:
+  title: The Wise Prince
+  title_ru: Мудрый принц
+  text: |
+    Long ago, a famous king ruled a large country. When he became old, he wanted to divide his kingdom between his two sons. But the princes were very different. The older prince believed in force. The younger prince believed in peace.
+
+    One day, the king announced a challenge. "Our neighbours claim that the land beside the river is theirs," he said. "Find a way to protect it. The winner will get the whole kingdom."
+
+    The older prince called his soldiers. "We will fight," he said. But the younger prince sensed that a war would bring only harm. He asked experts for advice, and then he went to the neighbouring king alone.
+
+    "Why should our people suffer?" he asked. "Let's share the river. Your farmers and our farmers can use the water together. In return, you will contribute part of your harvest." The neighbouring king agreed, on one condition: there must be no soldiers near the river.
+
+    When the young prince came home, he laid the agreement in front of his father. The king smiled. "You won without a single fight," he said. "Therefore, the kingdom is yours." There was no sudden war, and the two countries lived in peace for a hundred years.
+  ru: |
+    Давным-давно знаменитый король правил большой страной. Когда он состарился, он захотел разделить королевство между двумя сыновьями. Но принцы были очень разными. Старший верил в силу. Младший верил в мир.
+
+    Однажды король объявил испытание. «Соседи утверждают, что земля у реки принадлежит им, — сказал он. — Найдите способ её защитить. Победитель получит всё королевство».
+
+    Старший принц созвал солдат. «Мы будем сражаться», — сказал он. Но младший принц чувствовал, что война принесёт только вред. Он спросил совета у знатоков, а потом один поехал к соседнему королю.
+
+    «Зачем страдать нашим народам? — спросил он. — Давайте делить реку. Ваши и наши крестьяне смогут пользоваться водой вместе. А взамен вы будете отдавать часть урожая». Соседний король согласился с одним условием: у реки не должно быть солдат.
+
+    Вернувшись домой, младший принц положил договор перед отцом. Король улыбнулся. «Ты победил без единого сражения, — сказал он. — Поэтому королевство твоё». Внезапной войны не случилось, и две страны жили в мире сто лет.
+  questions:
+  - q: What did the older prince believe in?
+    options:
+    - Peace
+    - Force
+    - Books
+    - Money
+    answer: 1
+  - q: What did the neighbours claim?
+    options:
+    - The river land was theirs
+    - The king was ill
+    - They wanted peace
+    - The prince was evil
+    answer: 0
+  - q: What was the neighbouring king's condition?
+    options:
+    - More money
+    - No soldiers near the river
+    - A new castle
+    - The prince must stay with him
+    answer: 1
+  - tf: The younger prince went to the neighbouring king with an army.
+    answer: false
+  - tf: The two countries lived in peace for a long time.
+    answer: true

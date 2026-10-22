@@ -23,3 +23,52 @@ words:
 - succeed | v | səkˈsiːd |  | преуспеть, добиться | to do what you tried to do | She *succeeded* in passing her driving test. | Ей удалось сдать экзамен по вождению. | succeed in + -ing; success — успех
 - support | v | səˈpɔːt | səˈpɔːrt | поддерживать | to help someone; to like and follow a team | My family always *supports* me. | Моя семья всегда меня поддерживает.
 - variety | n | vəˈraɪəti |  | разнообразие | a range of different things | Earth has an amazing *variety* of life. | На Земле удивительное разнообразие жизни.
+reading:
+  title: From Nothing to Everything
+  title_ru: С нуля до всего
+  text: |
+    Statistics show that many immigrants start their own businesses. This is the story of one of them. Thirty years ago, Ahmed arrived in Canada with his wife, two children and one suitcase. They came from a country where poverty and war were part of everyday life.
+
+    Life in the new country was hard. Ahmed's English was elementary, and the language was a big barrier. He had been an engineer at home, but here nobody approved his diploma. To pay the rent, he worked nights in a factory. His wife cleaned offices. They never pretended that life was easy, but they never complained.
+
+    After five years, they had saved enough money to open a small food shop. The first shop was a failure — it was in the wrong area, and they closed it after a year. But Ahmed felt it was his duty to try again. The second shop was better. They sold fresh bread, sweets from their home country and refrigerated meals that people could heat in an instant.
+
+    The success was gradual. First one shop, then three, then ten. Today, the family company has an approximate value of twenty million dollars. Ahmed's son, who started in the company at the lowest rank, is now the manager. Last year, Ahmed received recognition from the city for helping other immigrants find jobs.
+
+    Ahmed retired last month. When journalists asked him how he accomplished so much, he smiled. "In the beginning, nobody could detect our talents," he said. "We just had to show them, one day at a time."
+  ru: |
+    Статистика показывает, что многие иммигранты открывают собственный бизнес. Это история одного из них. Тридцать лет назад Ахмед приехал в Канаду с женой, двумя детьми и одним чемоданом. Они приехали из страны, где бедность и война были частью повседневной жизни.
+
+    Жизнь в новой стране была трудной. Английский у Ахмеда был начального уровня, и язык стал большим барьером. На родине он был инженером, но здесь его диплом никто не признал. Чтобы платить за жильё, он работал по ночам на заводе. Жена убирала офисы. Они никогда не притворялись, что жизнь лёгкая, но никогда и не жаловались.
+
+    Через пять лет они накопили достаточно денег, чтобы открыть маленький продуктовый магазин. Первый магазин провалился — он был в неудачном районе, и через год его закрыли. Но Ахмед считал своим долгом попробовать снова. Второй магазин оказался лучше. Они продавали свежий хлеб, сладости с родины и охлаждённые готовые блюда, которые можно разогреть за мгновение.
+
+    Успех пришёл постепенно. Сначала один магазин, потом три, потом десять. Сегодня семейная компания стоит примерно двадцать миллионов долларов. Сын Ахмеда, начинавший в компании с самой низкой должности, теперь её руководитель. В прошлом году город отметил Ахмеда за помощь другим иммигрантам в поиске работы.
+
+    В прошлом месяце Ахмед вышел на пенсию. Когда журналисты спросили, как ему удалось добиться так многого, он улыбнулся. «В начале никто не мог разглядеть наших талантов, — сказал он. — Нам просто нужно было показать их, день за днём».
+  questions:
+  - q: What was Ahmed's profession in his home country?
+    options:
+    - A shop owner
+    - An engineer
+    - A factory worker
+    - A teacher
+    answer: 1
+  - q: Why did the first shop fail?
+    options:
+    - The food was bad
+    - It was in the wrong area
+    - Ahmed was ill
+    - The rent was too high
+    answer: 1
+  - q: Who is the manager of the company now?
+    options:
+    - Ahmed
+    - Ahmed's wife
+    - Ahmed's son
+    - A journalist
+    answer: 2
+  - tf: The success came very quickly.
+    answer: false
+  - tf: Ahmed helped other immigrants find jobs.
+    answer: true

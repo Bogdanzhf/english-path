@@ -30,3 +30,56 @@ words:
 - vandalism | n | ˈvændəlɪzəm |  | вандализм | damaging property on purpose | *Vandalism* is a problem in the area. | В районе проблема с вандализмом.
 - violence | n | ˈvaɪələns |  | насилие | physical force intended to hurt | The film contains scenes of *violence*. | В фильме есть сцены насилия.
 - witness | n | ˈwɪtnəs |  | свидетель | a person who sees a crime or an accident | Police are looking for *witnesses* to the accident. | Полиция ищет свидетелей аварии.
+reading:
+  title: The Piltdown Man
+  title_ru: Пилтдаунский человек
+  text: |
+    In 1912, an amateur archeologist called Charles Dawson made an astonishing announcement. While digging in a gravel pit near a country estate in Piltdown, in southern England, he said he had found pieces of a prehistoric human skull and jaw. The skull looked human, but the jaw looked like an ape's. Dawson and his proponents claimed it was the "missing link" between apes and humans — and that it was British.
+
+    The discovery fitted the outlook of many British scientists at the time perfectly. They wanted to believe that humans had first developed in Europe. Leading experts examined the bones and declared them genuine. For the next forty years, books and articles cited "Piltdown Man" as one of the most important archeological finds ever.
+
+    But some scientists had doubts. As more human fossils were discovered in Africa and Asia, Piltdown Man did not correspond with any of them. It simply didn't fit.
+
+    In 1953, a team of researchers decided to test the bones using new chemical methods. The results were shocking. The skull was human, but only a few hundred years old. The jaw belonged to an orangutan. Someone had stained the bones with chemicals to make them look ancient and had filed down the teeth to make them look human. It was a fraud.
+
+    Who did it? To this day, nobody knows for sure. Dawson, who died in 1916, is the main suspect. Investigators later discovered that many of his other "discoveries" were also fakes. Other names have been brainstormed over the years, including the famous writer Arthur Conan Doyle, creator of Sherlock Holmes.
+
+    The Piltdown Man fraud is now used to teach students an important lesson about scientific integrity. Science is not perfect, but it can refine its ideas. Eventually, the evidence will expose the truth.
+  ru: |
+    В 1912 году археолог-любитель Чарльз Доусон сделал сенсационное заявление. По его словам, копая в гравийном карьере возле поместья в Пилтдауне на юге Англии, он нашёл фрагменты черепа и челюсти доисторического человека. Череп выглядел человеческим, а челюсть — обезьяньей. Доусон и его сторонники утверждали, что это «недостающее звено» между обезьянами и людьми — и к тому же британское.
+
+    Находка идеально соответствовала взглядам многих британских учёных того времени. Им хотелось верить, что человек впервые появился в Европе. Ведущие специалисты изучили кости и объявили их подлинными. Следующие сорок лет книги и статьи ссылались на «пилтдаунского человека» как на одну из важнейших археологических находок всех времён.
+
+    Но у некоторых учёных были сомнения. По мере того как в Африке и Азии находили всё новые окаменелости людей, пилтдаунский человек не соответствовал ни одной из них. Он просто не вписывался.
+
+    В 1953 году группа исследователей решила проверить кости новыми химическими методами. Результаты были ошеломляющими. Череп был человеческим, но ему было всего несколько сотен лет. Челюсть принадлежала орангутану. Кто-то окрасил кости химикатами, чтобы они выглядели древними, и подпилил зубы, чтобы они казались человеческими. Это была фальсификация.
+
+    Кто это сделал? До сих пор никто не знает наверняка. Главный подозреваемый — Доусон, умерший в 1916 году. Позже следователи обнаружили, что многие другие его «открытия» тоже были подделками. За эти годы звучали и другие имена, в том числе знаменитого писателя Артура Конан Дойла, создателя Шерлока Холмса.
+
+    Сегодня история пилтдаунской фальсификации служит студентам важным уроком научной честности. Наука несовершенна, но она умеет уточнять свои идеи. Рано или поздно факты раскроют правду.
+  questions:
+  - q: What did Dawson claim to have found?
+    options:
+    - A dinosaur
+    - The 'missing link' between apes and humans
+    - Gold coins
+    - A prehistoric house
+    answer: 1
+  - q: What did the 1953 tests show about the jaw?
+    options:
+    - It was human
+    - It belonged to an orangutan
+    - It was a million years old
+    - It was made of wax
+    answer: 1
+  - q: Why did many British scientists want to believe the find?
+    options:
+    - They wanted humans to have developed in Europe
+    - They were paid
+    - Dawson was famous
+    - The bones were beautiful
+    answer: 0
+  - tf: We know for certain who created the fraud.
+    answer: false
+  - tf: The skull was only a few hundred years old.
+    answer: true

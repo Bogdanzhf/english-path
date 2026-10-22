@@ -17,3 +17,52 @@ words:
 - study | v | ˈstʌdi |  | учиться, изучать | to learn about a subject | She *studies* medicine at university. | Она изучает медицину в университете.
 - think | v | θɪŋk |  | думать, считать | to have an opinion; to use your mind | What do you *think* about the new film? | Что ты думаешь о новом фильме? | think — thought — thought
 - understand | v | ˌʌndəˈstænd | ˌʌndərˈstænd | понимать | to know what something means | I don't *understand* this word. | Я не понимаю это слово. | understand — understood — understood
+reading:
+  title: Across the Lake
+  title_ru: Через озеро
+  text: |
+    Every summer, the small town of Lakeside has a swimming race. The swimmers go across the lake, a length of three kilometers. The winner gets a prize of a thousand dollars and a silver cup. The race excites everyone in town.
+
+    This year, fifteen-year-old Nina decided to take part. Her friends wondered if it was a good idea. "You're too young," they said. "There's a big risk. The water is extremely cold." Nina had a fear of deep water, but she saw the race as an opportunity to fight that fear.
+
+    For two months, she trained every day. She learned to breathe correctly and to consume enough food for energy. Her coach observed her and corrected every mistake. "Your best characteristic is that you never stop," he said.
+
+    On the day of the race, something happened that nobody expected. In the middle of the lake, an older swimmer suddenly stopped. He was in trouble. Nina realized that he needed help. She responded immediately: she swam to him and held him until the boat arrived.
+
+    Nina did not win the race — she finished last. But the town gave her a special prize for courage. "I'm fortunate," she said. "I didn't win yet, but I lost my fear. That is better than any cup."
+  ru: |
+    Каждое лето в маленьком городке Лейксайд проходит заплыв. Пловцы переплывают озеро — это три километра. Победитель получает приз в тысячу долларов и серебряный кубок. Заплыв волнует весь город.
+
+    В этом году пятнадцатилетняя Нина решила участвовать. Друзья сомневались, что это хорошая идея. «Ты слишком юная, — говорили они. — Это большой риск. Вода ужасно холодная». Нина боялась глубокой воды, но увидела в заплыве возможность побороть этот страх.
+
+    Два месяца она тренировалась каждый день. Она научилась правильно дышать и есть достаточно, чтобы хватало сил. Тренер наблюдал за ней и исправлял каждую ошибку. «Твоя лучшая черта в том, что ты никогда не останавливаешься», — говорил он.
+
+    В день заплыва случилось то, чего никто не ожидал. Посреди озера пловец постарше вдруг остановился. Он попал в беду. Нина поняла, что ему нужна помощь. Она отреагировала мгновенно: подплыла к нему и держала его, пока не подошла лодка.
+
+    Нина не выиграла заплыв — она приплыла последней. Но город вручил ей особый приз за смелость. «Мне повезло, — сказала она. — Я пока не победила, но я победила свой страх. Это лучше любого кубка».
+  questions:
+  - q: How long is the swimming race?
+    options:
+    - One kilometer
+    - Three kilometers
+    - Ten kilometers
+    - Fifty meters
+    answer: 1
+  - q: Why did Nina want to take part?
+    options:
+    - To win money
+    - To fight her fear of deep water
+    - Her coach made her
+    - Her friends asked her
+    answer: 1
+  - q: What happened in the middle of the lake?
+    options:
+    - Nina stopped
+    - An older swimmer got into trouble
+    - The boat broke
+    - It started to rain
+    answer: 1
+  - tf: Nina won the race.
+    answer: false
+  - tf: Nina got a special prize for courage.
+    answer: true

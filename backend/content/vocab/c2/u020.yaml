@@ -25,3 +25,52 @@ words:
 - testimonial | n | ˌtestɪˈməʊnɪəl | ˌtestəˈmoʊniəl | рекомендация, отзыв | a statement praising someone | The website has customer *testimonials*. | На сайте есть отзывы клиентов.
 - truism | n | ˈtruːɪzəm |  | трюизм, банальность | an obvious truth | It's a *truism* that health matters. | Банально говорить, что здоровье важно.
 - vernacular | n | vɜːˈnækjʊlə | vərˈnækjələr | разговорный язык, местный язык | the everyday language of a place | He wrote in the local *vernacular*. | Он писал на местном наречии.
+reading:
+  title: Who Built Stonehenge?
+  title_ru: Кто построил Стоунхендж?
+  text: |
+    On Salisbury Plain, in southern England, a ring of enormous stones stands on the green turf, surrounded by pasture where sheep graze. Stonehenge is one of the most famous prehistoric monuments in the world. Every year, more than a million visitors come to see it, and at the summer solstice, thousands assemble to watch the sun rise over the stones.
+
+    The monument was built in stages over more than a thousand years, beginning around 3000 BC. The largest stones, called sarsens, weigh up to twenty-five tonnes. They were erected in a circle, and huge horizontal stone slabs, called lintels, were placed on top, creating structures that look like giant arches. Remarkably, the builders used woodworking joints to lock the stones together. The smaller "bluestones" are even more mysterious: tests have shown that they came from the Preseli Hills in Wales, more than 200 kilometres away.
+
+    How and why did people with no metal tools or wheels move such huge stones? Many theories have been proposed. It has been alleged that the monument was built by giants or by the wizard Merlin. More realistic explanations suggest that hundreds of people dragged the stones on wooden sledges, perhaps over rollers or tracks. In recent years, archaeologists have found the remains of a large village nearby where workers may have lived, enjoying feasts of pork during the building seasons.
+
+    Stonehenge was clearly aligned with the sun. At midsummer, the sun rises in line with the entrance; at midwinter, it sets in line with the opposite side. This has led scientists to revise older theories and suggest that the site was used for ceremonies marking the seasons and possibly for burials.
+
+    Today, the monument faces new challenges. In summer, visitors greatly outnumber local residents, and nearby roads are often congested. When the government announced plans to build a road tunnel close to the site, campaigners organized a petition, fearing damage to undiscovered archaeology. Whatever the future holds, the mystery continues to heighten Stonehenge's appeal. As one archaeologist said, overjoyed after a new discovery: "Every answer we find raises three more questions."
+  ru: |
+    На Солсберийской равнине на юге Англии на зелёной траве стоит кольцо огромных камней, окружённое пастбищами, где пасутся овцы. Стоунхендж — один из самых известных доисторических памятников мира. Ежегодно его посещают более миллиона человек, а в день летнего солнцестояния тысячи людей собираются, чтобы встретить восход солнца над камнями.
+
+    Памятник строился поэтапно более тысячи лет, начиная примерно с 3000 года до н. э. Самые большие камни, называемые сарсенами, весят до двадцати пяти тонн. Их установили по кругу, а сверху положили огромные горизонтальные каменные плиты — перекладины, образовавшие сооружения, похожие на гигантские арки. Удивительно, но строители использовали столярные соединения, чтобы скрепить камни. Меньшие «голубые камни» ещё загадочнее: анализы показали, что их привезли с холмов Пресели в Уэльсе — более чем за 200 километров.
+
+    Как и зачем люди без металлических орудий и колёс перемещали такие огромные камни? Предлагалось множество теорий. Утверждали, что памятник построили великаны или волшебник Мерлин. Более реалистичные объяснения предполагают, что сотни людей тащили камни на деревянных санях, возможно, по каткам или настилам. В последние годы археологи нашли неподалёку остатки большой деревни, где, вероятно, жили строители, устраивая в строительные сезоны пиршества со свининой.
+
+    Стоунхендж явно ориентирован по солнцу. В середине лета солнце восходит точно напротив входа, а в середине зимы садится напротив противоположной стороны. Это заставило учёных пересмотреть старые теории и предположить, что памятник использовался для обрядов, отмечавших смену времён года, и, возможно, для погребений.
+
+    Сегодня памятник сталкивается с новыми трудностями. Летом туристов гораздо больше, чем местных жителей, а соседние дороги часто забиты. Когда правительство объявило о планах построить рядом автомобильный туннель, активисты организовали петицию, опасаясь повредить ещё не открытые археологические объекты. Что бы ни ждало памятник в будущем, тайна лишь усиливает притягательность Стоунхенджа. Как сказал один археолог, вне себя от радости после очередной находки: «Каждый найденный ответ порождает ещё три вопроса».
+  questions:
+  - q: Where did the bluestones come from?
+    options:
+    - From the local area
+    - From the Preseli Hills in Wales
+    - From France
+    - From Scotland
+    answer: 1
+  - q: What do realistic theories suggest about how the stones were moved?
+    options:
+    - Giants carried them
+    - Hundreds of people dragged them on wooden sledges
+    - They used metal machines
+    - They floated them on the sea
+    answer: 1
+  - q: How is Stonehenge aligned?
+    options:
+    - With the North Star
+    - With the sun at midsummer and midwinter
+    - With the Moon
+    - With a river
+    answer: 1
+  - tf: Stonehenge was built in a single year.
+    answer: false
+  - tf: Campaigners organized a petition against a planned road tunnel.
+    answer: true

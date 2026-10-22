@@ -22,3 +22,52 @@ words:
 - stringent | adj | ˈstrɪndʒənt |  | строгий | very strict | There are *stringent* safety rules. | Действуют строгие правила безопасности.
 - vis-a-vis | prep | ˈvizəvi | ˈviːzəvi | по отношению к, в сравнении с | in relation to | What's our position *vis-a-vis* the competition? | Каково наше положение по сравнению с конкурентами?
 - vortex | n | ˈvɔːteks | ˈvɔːrteks | вихрь, водоворот | a spinning mass | They were sucked into a *vortex* of debt. | Их затянуло в водоворот долгов.
+reading:
+  title: A Labour of Love
+  title_ru: Дело любви
+  text: |
+    When Tom and Lucy first saw the house, they knew it was a reckless idea. It stood alone at the end of a muddy lane in the Welsh countryside: a dilapidated stone farmhouse that had been empty for twenty years. Half of the slate roof had fallen in, the timber beams were rotten, and the floors were covered in filth. In the garden, a mound of old furniture was slowly disappearing under the weeds. Yet something about the place evoked a feeling they could not explain.
+
+    They bought it the same week. Friends thought they were mad. "Every house has a flaw," Tom said, grinning, "but this one has about a hundred."
+
+    The first winter was brutal. There was no heating, and they lived in a caravan in the garden. Lucy remembers waking up with numb fingers and getting cramp in her legs from working on her knees all day. When they finally reconnected the water, the main valve burst, flooding the kitchen. Every faucet in the house had to be replaced.
+
+    But slowly, the house came back to life. A local builder taught them how to repair the roof with traditional slate. They replaced the rotten beams with oak timber from a nearby forest. In the attic, they found a box of letters and photographs from the 1920s, when the house had belonged to a wealthy family who employed a cook and even a butler. One letter described the housekeeping routines in detail — how the floors were scrubbed every morning and the fires lit before dawn.
+
+    After three years, they finished decorating the last room. On the first warm evening of summer, they sat on two old wooden stools in the garden, drinking tea and watching the sunset. It was pure bliss. Today, the house is a testament to their patience — and to the idea that some things are worth the effort. "We nearly said farewell to the whole project many times," Lucy admits. "I'm so glad we didn't."
+  ru: |
+    Когда Том и Люси впервые увидели дом, они понимали, что идея безрассудна. Он стоял особняком в конце грязной дороги в сельском Уэльсе: полуразрушенный каменный фермерский дом, пустовавший двадцать лет. Половина сланцевой крыши обвалилась, деревянные балки сгнили, полы покрывала грязь. В саду под сорняками медленно исчезала куча старой мебели. И всё же это место вызывало у них чувство, которое они не могли объяснить.
+
+    Они купили его на той же неделе. Друзья сочли их сумасшедшими. «У каждого дома есть недостаток, — с широкой улыбкой сказал Том, — а у этого их примерно сотня».
+
+    Первая зима была суровой. Отопления не было, и они жили в фургоне в саду. Люси вспоминает, как просыпалась с онемевшими пальцами, а ноги сводило судорогой от того, что она целыми днями работала на коленях. Когда они наконец снова подключили воду, лопнул главный вентиль и затопил кухню. Пришлось заменить все краны в доме.
+
+    Но понемногу дом оживал. Местный строитель научил их чинить крышу традиционной сланцевой плиткой. Сгнившие балки они заменили дубовым брусом из ближайшего леса. На чердаке они нашли коробку с письмами и фотографиями 1920-х годов, когда дом принадлежал богатой семье, державшей повара и даже дворецкого. В одном письме подробно описывался распорядок ведения хозяйства — как каждое утро скоблили полы и разжигали камины до рассвета.
+
+    Через три года они закончили отделку последней комнаты. В первый тёплый летний вечер они сидели в саду на двух старых деревянных табуретах, пили чай и смотрели на закат. Это было настоящее блаженство. Сегодня дом — свидетельство их терпения и того, что некоторые вещи стоят усилий. «Мы много раз чуть не распрощались со всей этой затеей, — признаётся Люси. — Я так рада, что не сделали этого».
+  questions:
+  - q: What condition was the house in?
+    options:
+    - Modern and clean
+    - Dilapidated and empty for twenty years
+    - Recently renovated
+    - Partly built
+    answer: 1
+  - q: Where did Tom and Lucy live during the first winter?
+    options:
+    - In the house
+    - In a caravan in the garden
+    - With friends
+    - In a hotel
+    answer: 1
+  - q: What did they find in the attic?
+    options:
+    - Money
+    - Letters and photographs from the 1920s
+    - A butler's uniform
+    - Tools
+    answer: 1
+  - tf: Friends thought buying the house was a sensible idea.
+    answer: false
+  - tf: It took them three years to finish the house.
+    answer: true

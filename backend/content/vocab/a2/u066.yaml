@@ -21,3 +21,52 @@ words:
 - thought | n | θɔːt |  | мысль | an idea | That's an interesting *thought*. | Интересная мысль.
 - trouble | n | ˈtrʌbl |  | беда, неприятности, трудность | problems or difficulties | I had *trouble* finding your house. | Я с трудом нашёл твой дом. | be in trouble — быть в беде
 - view | n | vjuː |  | вид (из окна, на что-либо) | what you can see from a place | Our room has a beautiful *view* of the sea. | Из нашего номера открывается красивый вид на море.
+reading:
+  title: The Lifeguard
+  title_ru: Спасатель
+  text: |
+    Jake was nineteen and worked as a lifeguard on a quiet beach. Most days, the job was easy. He sat in the shade of a big umbrella, watched the swimmers and supplemented his student money. But one summer afternoon, everything changed.
+
+    The weather was hot, but the sea was rough because of a strong wind. Jake estimated the waves at two metres high. He put up a red flag and asked people not to swim. Most people obeyed, but two teenage boys did not want anyone to disturb their fun. They ran into the water, laughing.
+
+    A few minutes later, Jake heard a scream. One of the boys was in trouble. The waves were pulling him away from the beach. People on the sand watched in terror. Jake knew the consequences of waiting: the boy could die. He grabbed his rescue board and ran into the sea.
+
+    It took all his strength to swim through the waves. When he reached the boy, the victim was pale and could hardly breathe. Jake pulled him onto the board, and slowly they got back to the beach through a narrow gap between the rocks.
+
+    The boy was fine. Later, the town honored Jake for his courage. "I was scared too," he said. "But you can't let fear stop you." The experience gave him great confidence. Today, Jake trains young lifeguards. "The sea is beautiful," he tells them, "but it is never without threat."
+  ru: |
+    Джейку было девятнадцать, и он работал спасателем на тихом пляже. Обычно работа была лёгкой. Он сидел в тени большого зонта, следил за пловцами и подрабатывал к студенческим деньгам. Но однажды летом всё изменилось.
+
+    Было жарко, но море из-за сильного ветра было бурным. Джейк оценил высоту волн в два метра. Он поднял красный флаг и попросил людей не купаться. Большинство послушались, но двое подростков не хотели, чтобы им мешали веселиться. Смеясь, они побежали в воду.
+
+    Через несколько минут Джейк услышал крик. Один из мальчиков попал в беду. Волны уносили его от берега. Люди на песке смотрели в ужасе. Джейк знал, к чему может привести промедление: мальчик мог погибнуть. Он схватил спасательную доску и бросился в море.
+
+    Чтобы проплыть сквозь волны, понадобились все его силы. Когда он добрался до мальчика, тот был бледным и едва дышал. Джейк вытащил его на доску, и они медленно вернулись на пляж через узкий проход между скалами.
+
+    С мальчиком всё было в порядке. Позже город наградил Джейка за смелость. «Мне тоже было страшно, — сказал он. — Но нельзя позволять страху тебя останавливать». Этот опыт придал ему огромную уверенность. Сегодня Джейк обучает молодых спасателей. «Море прекрасно, — говорит он им, — но оно всегда таит угрозу».
+  questions:
+  - q: Why was the sea dangerous that day?
+    options:
+    - There were sharks
+    - There was a strong wind and big waves
+    - The water was cold
+    - It was very dark
+    answer: 1
+  - q: What did Jake do before the accident?
+    options:
+    - He went home
+    - He put up a red flag
+    - He swam with the boys
+    - He called the police
+    answer: 1
+  - q: How did the boy look when Jake reached him?
+    options:
+    - Happy
+    - Pale and could hardly breathe
+    - Angry
+    - Asleep
+    answer: 1
+  - tf: Jake said he was not afraid at all.
+    answer: false
+  - tf: Now Jake trains other lifeguards.
+    answer: true

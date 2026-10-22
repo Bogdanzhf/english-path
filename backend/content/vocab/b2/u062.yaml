@@ -23,3 +23,56 @@ words:
 - spreadsheet | n | ˈspredʃiːt |  | электронная таблица | a computer document with rows and columns | I keep my budget in a *spreadsheet*. | Я веду бюджет в таблице.
 - telegraph | n | ˈtelɪɡrɑːf | ˈtelɪɡræf | телеграф | an old system for sending messages along wires | News came by *telegraph*. | Новости пришли по телеграфу.
 - viral | adj | ˈvaɪrəl |  | вирусный | caused by a virus; spread quickly online | The video went *viral*. | Видео стало вирусным.
+reading:
+  title: The Antibiotic Found by a Computer
+  title_ru: Антибиотик, найденный компьютером
+  text: |
+    When penicillin was discovered in 1928, it changed medicine forever. Infections that had once killed millions could suddenly be cured. But there is a problem. Every time we use antibiotics, some bacteria survive and pass on their resistance. Over time, these "superbugs" become immune to our medicines. Antibiotic resistance is now prevalent in hospitals around the world, and experts warn that, without new drugs, simple infections could become deadly again.
+
+    Finding a new antibiotic is slow and expensive. Scientists may test thousands of chemicals before finding one that works, and most fail in the later phases of testing. Very few new types have been discovered in the past thirty years.
+
+    In 2020, a team of researchers in the USA tried a different approach. They trained an artificial intelligence program by giving it, as input, the structures of 2,500 molecules and information about whether each one killed bacteria. The program learned to recognize patterns that humans could not see. Then the researchers asked it to search a huge database of more than 100 million chemicals.
+
+    In just a few days, the computer found a molecule that had originally been studied as a treatment for diabetes. Tests showed that it killed many dangerous bacteria, including some that were resistant to all known antibiotics. The researchers named it "halicin", after the computer HAL in the film "2001: A Space Odyssey".
+
+    The news went viral. Of course, computers will not replace scientists. AI cannot replace their intimate knowledge of biology; rather, it complements it. But by compressing years of work into days, it could be the equivalent of having thousands of extra researchers. Some scientists believe that quantum computers, which are far more powerful than today's microchips, could speed up the search even more.
+
+    In the fight against superbugs, every new weapon counts.
+  ru: |
+    Когда в 1928 году открыли пенициллин, это навсегда изменило медицину. Инфекции, которые когда-то убивали миллионы, вдруг стало возможно вылечить. Но есть проблема. Каждый раз, когда мы применяем антибиотики, некоторые бактерии выживают и передают свою устойчивость. Со временем эти «супербактерии» становятся невосприимчивыми к нашим лекарствам. Устойчивость к антибиотикам теперь широко распространена в больницах по всему миру, и эксперты предупреждают, что без новых препаратов простые инфекции снова могут стать смертельными.
+
+    Поиск нового антибиотика — долгое и дорогое дело. Учёные могут перепробовать тысячи веществ, прежде чем найдут одно рабочее, а большинство отсеивается на поздних этапах испытаний. За последние тридцать лет открыто очень мало новых видов.
+
+    В 2020 году группа исследователей в США попробовала другой подход. Они обучили программу искусственного интеллекта, подав ей на вход структуры 2500 молекул и сведения о том, убивает ли каждая из них бактерии. Программа научилась распознавать закономерности, которые не видят люди. Затем исследователи поручили ей просмотреть огромную базу данных из более чем 100 миллионов веществ.
+
+    Всего за несколько дней компьютер нашёл молекулу, которую изначально изучали как средство от диабета. Испытания показали, что она убивает многие опасные бактерии, в том числе устойчивые ко всем известным антибиотикам. Исследователи назвали её «халицин» в честь компьютера HAL из фильма «2001: Космическая одиссея».
+
+    Новость разлетелась по интернету. Конечно, компьютеры не заменят учёных. ИИ не может заменить их глубокое знание биологии — он лишь дополняет его. Но, сжимая годы работы в дни, он может стать равноценной заменой тысячам дополнительных исследователей. Некоторые учёные считают, что квантовые компьютеры, гораздо более мощные, чем нынешние микрочипы, могут ускорить поиск ещё больше.
+
+    В борьбе с супербактериями важно любое новое оружие.
+  questions:
+  - q: What is the problem with antibiotics?
+    options:
+    - They are too expensive
+    - Bacteria become resistant to them
+    - They don't work on any bacteria
+    - They cause diabetes
+    answer: 1
+  - q: How did the AI find halicin?
+    options:
+    - By testing chemicals in a lab
+    - By searching a huge database after being trained
+    - By reading books
+    - By accident
+    answer: 1
+  - q: Where does the name 'halicin' come from?
+    options:
+    - A scientist's name
+    - A computer in a film
+    - A town
+    - A bacterium
+    answer: 1
+  - tf: Halicin was originally studied as a treatment for diabetes.
+    answer: true
+  - tf: The text says computers will replace scientists.
+    answer: false

@@ -26,3 +26,52 @@ words:
 - rent | n | rent |  | арендная плата | money you pay to live in or use a place | The *rent* for this flat is very high. | Аренда этой квартиры очень высокая. | гл. rent — снимать
 - saucepan | n | ˈsɔːspən | ˈsɔːspæn | кастрюля (с ручкой) | a deep pan with a handle | Heat the milk in a *saucepan*. | Подогрейте молоко в кастрюле.
 - wardrobe | n | ˈwɔːdrəʊb | ˈwɔːrdroʊb | шкаф для одежды; гардероб | a tall cupboard for clothes; all the clothes a person has | The family hid behind a heavy *wardrobe*. | Семья спряталась за тяжёлым шкафом.
+reading:
+  title: The Earthquake
+  title_ru: Землетрясение
+  text: |
+    It was a quiet Sunday evening in the eastern district of the city. Maria was in the kitchen, chopping vegetables and stirring a pot of soup. Her eight-year-old son Pablo was playing in his room. On the radio, a music broadcast was playing softly.
+
+    Suddenly, there was a tremendous noise, like a train passing under the house. The floor began to shake. Plates fell out of the cupboards, and drawers slid open by themselves. Maria remembered what she had learned at school: "Drop, cover and hold on." She ran to Pablo's room, grasped his hand and pulled him underneath his strong wooden desk.
+
+    The shaking lasted only forty seconds, but it felt like hours. When it stopped, the house was dark and silent. Pablo was crying. Maria held him and tried to console him. "We're safe," she said. "We just have to wait." They stayed there, listening. Then they heard someone tapping on the wall from the rear of the building. It was their old neighbour, Mr. Kim, who had bumped his head and was trapped in his closet.
+
+    Maria found a flashlight and helped him out. He had a small cut on his head, but his skull was fine. Together, they went outside, where other neighbours were gathering. A news bulletin on someone's phone alerted everyone that more shaking was possible.
+
+    The families endured a long night outside in the cold. The next day, a senator visited the district and promised help to rebuild damaged homes. Pablo still talks about that night. "I was scared," he says, "but Mum executed the plan perfectly — like a real hero."
+  ru: |
+    Был тихий воскресный вечер в восточном районе города. Мария была на кухне: резала овощи и помешивала суп в кастрюле. Её восьмилетний сын Пабло играл у себя в комнате. По радио тихо шла музыкальная передача.
+
+    Вдруг раздался страшный грохот, будто под домом проходил поезд. Пол затрясся. Из шкафов падали тарелки, ящики сами выдвигались. Мария вспомнила, чему её учили в школе: «Пригнись, укройся и держись». Она бросилась в комнату Пабло, схватила его за руку и затащила под крепкий деревянный стол.
+
+    Тряска длилась всего сорок секунд, но казалось, что прошли часы. Когда она прекратилась, в доме было темно и тихо. Пабло плакал. Мария обнимала его и пыталась утешить. «Мы в безопасности, — сказала она. — Надо просто подождать». Они сидели и прислушивались. Потом услышали, как кто-то стучит в стену в задней части здания. Это был их пожилой сосед, мистер Ким: он ударился головой и оказался заперт в кладовке.
+
+    Мария нашла фонарик и помогла ему выбраться. У него был небольшой порез на голове, но череп был цел. Вместе они вышли на улицу, где собирались другие соседи. Срочная сводка новостей на чьём-то телефоне предупредила всех, что возможны новые толчки.
+
+    Семьи провели долгую ночь на холоде под открытым небом. На следующий день район посетил сенатор и пообещал помощь в восстановлении пострадавших домов. Пабло до сих пор рассказывает о той ночи. «Мне было страшно, — говорит он, — но мама выполнила план идеально — как настоящий герой».
+  questions:
+  - q: What was Maria doing when the earthquake started?
+    options:
+    - Listening to the news
+    - Cooking in the kitchen
+    - Sleeping
+    - Playing with Pablo
+    answer: 1
+  - q: Where did Maria and Pablo hide?
+    options:
+    - In the closet
+    - Underneath a wooden desk
+    - In the kitchen
+    - Outside
+    answer: 1
+  - q: What happened to Mr. Kim?
+    options:
+    - He was badly hurt
+    - He bumped his head and was trapped in his closet
+    - He ran outside first
+    - He was not at home
+    answer: 1
+  - tf: The shaking lasted several hours.
+    answer: false
+  - tf: A senator promised to help rebuild the homes.
+    answer: true

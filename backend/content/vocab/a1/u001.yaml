@@ -20,3 +20,52 @@ words:
 - person | n | ˈpɜːsən | ˈpɜːrsən | человек | a man, woman or child | She is a very kind *person*. | Она очень добрый человек. | мн. ч. обычно people
 - visitor | n | ˈvɪzɪtə | ˈvɪzɪtər | посетитель; гость | someone who goes to see a place or a person | The museum has many *visitors* every day. | В музее каждый день много посетителей.
 - woman | n | ˈwʊmən |  | женщина | an adult female person | The *woman* in the red coat is my aunt. | Женщина в красном пальто — моя тётя. | мн. ч. women [ˈwɪmɪn]
+reading:
+  title: A Week on the Coast
+  title_ru: Неделя на побережье
+  text: |
+    Every year in August, Tom and his family travel to a small town on the coast of Portugal. They love this month because the weather is always warm and sunny. This year, Tom's friend Leo also came with them. Tom's parents invited him in spring.
+
+    They arrived on a Saturday evening. On the first morning, they had a typical Portuguese breakfast: fresh bread, cheese and strong coffee. Then they went to the beach.
+
+    During the week, they did many things. They took a boat to a quiet island and watched the ducks on the lake near the hotel. Leo tried to catch fish, but he did not catch anything! Tom took a lot of photos with his new camera.
+
+    On Thursday, they visited Lisbon, the capital of Portugal. Tom's parents enjoyed a glass of local wine at dinner. The boys drank orange juice, because children cannot drink alcohol.
+
+    At the end of the week, everyone agreed: it was the best holiday ever. Leo hopes they will invite him again next year.
+  ru: |
+    Каждый год в августе Том и его семья ездят в небольшой город на побережье Португалии. Они любят этот месяц, потому что погода всегда тёплая и солнечная. В этом году с ними поехал и друг Тома Лео. Родители Тома пригласили его ещё весной.
+
+    Они приехали в субботу вечером. В первое утро у них был типичный португальский завтрак: свежий хлеб, сыр и крепкий кофе. Потом они пошли на пляж.
+
+    За неделю они много чего успели. Они сплавали на лодке на тихий остров и наблюдали за утками на озере возле отеля. Лео пытался поймать рыбу, но ничего не поймал! Том сделал много фотографий новым фотоаппаратом.
+
+    В четверг они побывали в Лиссабоне, столице Португалии. Родители Тома за ужином с удовольствием выпили по бокалу местного вина. Мальчики пили апельсиновый сок, потому что детям нельзя алкоголь.
+
+    В конце недели все согласились: это был лучший отпуск в жизни. Лео надеется, что в следующем году его пригласят снова.
+  questions:
+  - q: When does Tom's family travel to Portugal?
+    options:
+    - In July
+    - In August
+    - In spring
+    - Every month
+    answer: 1
+  - q: Who invited Leo?
+    options:
+    - Tom
+    - Tom's parents
+    - Leo's parents
+    - Nobody
+    answer: 1
+  - q: What did they do on Thursday?
+    options:
+    - They took a boat to an island
+    - They went fishing
+    - They visited the capital
+    - They went home
+    answer: 2
+  - tf: Leo caught a lot of fish.
+    answer: false
+  - tf: The boys drank wine at dinner.
+    answer: false

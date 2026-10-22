@@ -20,3 +20,52 @@ words:
 - taciturn | adj | ˈtæsɪtɜːn | ˈtæsɪtɜːrn | неразговорчивый | not saying much | He's a *taciturn* man. | Он неразговорчивый человек.
 - tetchy | adj | ˈtetʃi | tˈetʃi | раздражительный (брит.) | easily annoyed | He gets *tetchy* when he's tired. | Когда он устаёт, становится раздражительным.
 - vehement | adj | ˈviːəmənt |  | яростный, страстный | showing very strong feelings | There was *vehement* opposition to the plan. | План встретил яростное сопротивление.
+reading:
+  title: Gladiators
+  title_ru: Гладиаторы
+  text: |
+    In ancient Rome, few spectacles were as popular as the gladiator games. Thousands of people would crowd into huge arenas, such as the Colosseum, which was completed during the reign of Emperor Titus in 80 AD and could hold around 50,000 spectators. There they watched trained fighters face each other in deadly combat.
+
+    The games began as sacred rituals. Originally, they were held at the funerals of important men, perhaps to honour the dead. Over time, they became public entertainment, paid for by emperors and politicians to win popularity. The poet Juvenal complained that the Roman people only wanted "bread and circuses" — food and entertainment that distracted them from politics.
+
+    Most gladiators were slaves, criminals or captives taken in Rome's wars. However, some free men volunteered, attracted by fame and money. Gladiators lived in a guarded compound called a school, where they underwent strict training. Contrary to popular belief, they were valuable, and their owners did not want them to die. Many fights ended when one fighter was wounded or gave up. Doctors treated their injuries, and some gladiators survived for years, becoming celebrities whose names were scratched on walls like modern graffiti.
+
+    Nonetheless, death was commonplace. The crowd could be aggressive, and when a defeated gladiator raised his finger to ask for mercy, the emperor often listened to the audience before deciding his fate. Famous gladiators were sometimes granted their freedom, receiving a wooden sword as a symbol. Others were less fortunate and died facing a stronger foe.
+
+    The games ended in the early fifth century, partly as a result of Christian opposition. Today, the ruins of the Colosseum attract millions of tourists every year. Films and books continue to provoke fascination with the gladiators — and to raise uncomfortable questions about why humans have always been drawn to watching violence.
+  ru: |
+    В Древнем Риме мало какие зрелища были так популярны, как гладиаторские бои. Тысячи людей заполняли огромные арены, например Колизей, достроенный в правление императора Тита в 80 году н. э. и вмещавший около 50 000 зрителей. Там они смотрели, как обученные бойцы сходятся в смертельной схватке.
+
+    Игры начинались как священные обряды. Изначально их проводили на похоронах знатных людей — возможно, чтобы почтить умершего. Со временем они превратились в публичное развлечение, которое оплачивали императоры и политики, чтобы завоевать популярность. Поэт Ювенал сетовал, что римскому народу нужны лишь «хлеба и зрелищ» — еда и развлечения, отвлекавшие от политики.
+
+    Большинство гладиаторов были рабами, преступниками или пленными, захваченными в войнах Рима. Однако некоторые свободные люди шли в гладиаторы добровольно, привлечённые славой и деньгами. Гладиаторы жили на охраняемой территории — в так называемой школе, где проходили суровую подготовку. Вопреки распространённому мнению, они были ценны, и хозяева не хотели их гибели. Многие бои заканчивались, когда один из бойцов был ранен или сдавался. Врачи лечили их раны, и некоторые гладиаторы жили годами, становясь знаменитостями, чьи имена выцарапывали на стенах, как современные граффити.
+
+    Тем не менее смерть была обычным делом. Толпа могла быть агрессивной, и когда побеждённый гладиатор поднимал палец, прося пощады, император часто прислушивался к публике, прежде чем решить его судьбу. Знаменитым гладиаторам иногда даровали свободу, вручая деревянный меч как символ. Другим везло меньше, и они погибали, встретив более сильного противника.
+
+    Игры прекратились в начале V века, отчасти из-за противодействия христиан. Сегодня руины Колизея ежегодно привлекают миллионы туристов. Фильмы и книги по-прежнему разжигают интерес к гладиаторам — и поднимают неудобные вопросы о том, почему людей всегда тянуло смотреть на насилие.
+  questions:
+  - q: How did the gladiator games begin?
+    options:
+    - As sports competitions
+    - As sacred rituals at funerals
+    - As military training
+    - As punishments
+    answer: 1
+  - q: Why did owners not want gladiators to die?
+    options:
+    - They were valuable
+    - It was illegal
+    - The emperor forbade it
+    - They were family
+    answer: 0
+  - q: What did a wooden sword symbolize?
+    options:
+    - Defeat
+    - Freedom
+    - Victory in battle
+    - Death
+    answer: 1
+  - tf: All gladiators were slaves or criminals.
+    answer: false
+  - tf: The Colosseum could hold around 50,000 spectators.
+    answer: true

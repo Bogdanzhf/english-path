@@ -24,3 +24,52 @@ words:
 - user-friendly | adj | ˌjuːzə ˈfrendli | ˌjuːzər ˈfrendli | удобный, простой в использовании | easy to use | The app is very *user-friendly*. | Приложение очень удобное.
 - virtual reality | n | ˈvɜːtʃuːəl rɪˈælɪti | ˈvɜːrtʃuːəl ˌriːˈælətiː | виртуальная реальность | a computer world you can enter | He tried a *virtual reality* game. | Он попробовал игру в виртуальной реальности. | сокр. VR
 - wireless | adj | ˈwaɪələs | ˈwaɪrlɪs | беспроводной | without wires | Is there *wireless* internet here? | Здесь есть беспроводной интернет?
+reading:
+  title: Are Likes Making Us Lonely?
+  title_ru: Делают ли нас лайки одинокими?
+  text: |
+    Social media platforms were created to bring people together. Yet a growing number of researchers believe they may be doing the opposite. A recent survey of 5,000 young adults found that those who spent more than three hours a day on social media were twice as likely to report feelings of loneliness and depression.
+
+    Of course, correlation is not the same as cause. It is possible that people who already feel lonely spend more time online. However, many experts point out that social media apps are designed to be addictive. Every notification and every "like" gives the brain a small reward, and users keep scrolling to get more. Some former employees of tech companies have even admitted that this was part of the companies' agenda: the more time you spend on their platform, the more adverts they can target at you.
+
+    The problem is not just the time we spend in front of a screen. Many users compare their ordinary lives with the perfect images they see online. A psychologist coined the term "compare and despair" to describe this trend. Teenagers, who often need others to validate their opinions and appearance, are especially at risk. Some are also subjected to online bullying, which can follow them home in a way that playground bullying never did.
+
+    So what can be done? Some countries now want to hold tech companies accountable for the effects of their products. Others are teaching "digital wellbeing" in schools. And there has been a surge in apps that limit screen time.
+
+    Experts agree on the importance of balance. Social media can help us keep in touch and build a presence for our work. But a poor night's sleep, spent tapping on a keyboard or touchscreen, is no substitute for real conversation with a friend.
+  ru: |
+    Социальные сети создавались для того, чтобы объединять людей. Однако всё больше исследователей считает, что они, возможно, делают обратное. Недавний опрос 5000 молодых людей показал, что те, кто проводит в соцсетях больше трёх часов в день, вдвое чаще сообщают о чувстве одиночества и депрессии.
+
+    Разумеется, корреляция — это не то же самое, что причина. Возможно, люди, которые уже чувствуют себя одинокими, просто больше времени проводят в сети. Тем не менее многие эксперты указывают, что приложения соцсетей специально сделаны так, чтобы вызывать привыкание. Каждое уведомление и каждый «лайк» дают мозгу небольшую награду, и пользователи продолжают листать ленту, чтобы получить ещё. Некоторые бывшие сотрудники технологических компаний даже признавали, что в этом и состояла цель компаний: чем больше времени вы проводите на платформе, тем больше рекламы можно на вас нацелить.
+
+    Проблема не только во времени, проведённом перед экраном. Многие пользователи сравнивают свою обычную жизнь с идеальными картинками, которые видят в сети. Один психолог придумал выражение «сравни и отчайся», чтобы описать эту тенденцию. Подростки, которым часто нужно, чтобы другие одобряли их мнения и внешность, находятся в особой группе риска. Некоторые к тому же подвергаются травле в интернете, которая может преследовать их и дома — чего никогда не бывало с травлей на школьном дворе.
+
+    Что же делать? Некоторые страны теперь хотят привлекать технологические компании к ответственности за последствия их продуктов. Другие обучают «цифровому благополучию» в школах. Кроме того, резко выросло число приложений, ограничивающих экранное время.
+
+    Эксперты сходятся в том, как важен баланс. Соцсети помогают поддерживать связь и создавать присутствие для своей работы. Но плохой сон из-за ночи, проведённой за клавиатурой или сенсорным экраном, не заменит настоящего разговора с другом.
+  questions:
+  - q: What did the survey find?
+    options:
+    - Social media users are happier
+    - Heavy users reported more loneliness and depression
+    - Teenagers don't use social media
+    - People sleep better after using apps
+    answer: 1
+  - q: According to some former employees, what was the companies' aim?
+    options:
+    - To make people happier
+    - To keep users on the platform to show more adverts
+    - To reduce screen time
+    - To teach digital skills
+    answer: 1
+  - q: What does 'compare and despair' describe?
+    options:
+    - Comparing prices online
+    - Feeling bad after comparing your life with perfect online images
+    - A new social media app
+    - A school subject
+    answer: 1
+  - tf: The text says social media definitely causes depression.
+    answer: false
+  - tf: Some schools teach 'digital wellbeing'.
+    answer: true

@@ -22,3 +22,52 @@ words:
 - term | n | tɜːm | tɜːrm | семестр, четверть; термин | a part of the school year; a word with a special meaning | The summer *term* ends in July. | Летний семестр заканчивается в июле.
 - timetable | n | ˈtaɪmteɪbl |  | расписание | a list of times of trains, classes, etc. | Check the train *timetable*. | Посмотри расписание поездов.
 - vocabulary | n | vəʊˈkæbjʊləri | voʊˈkæbjəleri | словарный запас, лексика | all the words someone knows | Reading helps you build *vocabulary*. | Чтение помогает пополнить словарный запас.
+reading:
+  title: The Honey of the Mountain
+  title_ru: Горный мёд
+  text: |
+    High in the mountains of Georgia, there is an old monastery where twelve monks live. For centuries, they have worked in agriculture. They grow grain and vegetables and keep bees. Their honey is famous because it has an odd, wonderful taste that nobody can copy.
+
+    Last year, a young scientist named Nina visited the monastery. She was curious about the honey. In her profession, she studied food chemistry, and she wanted to investigate what made it so special. The monks greeted her warmly, but at first they didn't want to share their secrets.
+
+    Nina stayed for a month. She helped in the fields and listened to the old monks' stories. Every evening, she wrote in her diary. Slowly, she convinced them that she wanted to learn, not to steal. Finally, the oldest monk, Brother Ilya, showed her a small room with a low ceiling. Inside were hundreds of jars with handwritten labels.
+
+    "The secret has three elements," he said, and paused. "The wild flowers on the mountain, the clean air — and patience. We never take all the honey. We leave enough for the bees." Nina realized that this simple ability — to wait and to share — was more important than any chemistry.
+
+    When Nina returned home, she delayed writing her scientific report. Instead, she drew a small cartoon of Brother Ilya and his bees and sent it to the monastery with a letter. The local priest read it to the monks, and they laughed with joy. "She understood," Brother Ilya said. "Faith is not only about God. It's also about trusting nature."
+  ru: |
+    Высоко в горах Грузии есть старый монастырь, где живут двенадцать монахов. Веками они занимаются сельским хозяйством. Они выращивают зерно и овощи и держат пчёл. Их мёд знаменит своим необычным чудесным вкусом, который никому не удаётся повторить.
+
+    В прошлом году в монастырь приехала молодая учёная по имени Нина. Её заинтересовал мёд. По профессии она изучала химию продуктов и хотела выяснить, что делает его таким особенным. Монахи тепло её встретили, но сначала не хотели делиться секретами.
+
+    Нина прожила там месяц. Она помогала в полях и слушала истории старых монахов. Каждый вечер она писала в дневник. Постепенно она убедила их, что хочет учиться, а не красть. Наконец самый старый монах, брат Илья, показал ей маленькую комнату с низким потолком. Внутри стояли сотни банок с подписанными от руки этикетками.
+
+    «У секрета три составляющие», — сказал он и сделал паузу. — «Дикие цветы на горе, чистый воздух — и терпение. Мы никогда не забираем весь мёд. Мы оставляем достаточно для пчёл». Нина поняла, что эта простая способность — ждать и делиться — важнее любой химии.
+
+    Вернувшись домой, Нина отложила научный отчёт. Вместо этого она нарисовала маленькую карикатуру на брата Илью с его пчёлами и отправила её в монастырь вместе с письмом. Местный священник прочитал его монахам, и они радостно рассмеялись. «Она поняла, — сказал брат Илья. — Вера — это не только о Боге. Это ещё и доверие к природе».
+  questions:
+  - q: What is special about the monks' honey?
+    options:
+    - It is very cheap
+    - It has an odd, wonderful taste
+    - It is blue
+    - It is made in a factory
+    answer: 1
+  - q: What was Nina's profession?
+    options:
+    - A priest
+    - A food chemist
+    - A farmer
+    - An artist
+    answer: 1
+  - q: What are the three elements of the secret?
+    options:
+    - Sugar, water and heat
+    - Wild flowers, clean air and patience
+    - Old jars, labels and chemistry
+    - Bees, grain and vegetables
+    answer: 1
+  - tf: The monks shared their secret on the first day.
+    answer: false
+  - tf: Nina sent the monks a cartoon.
+    answer: true

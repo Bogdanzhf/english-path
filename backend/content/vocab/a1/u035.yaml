@@ -22,3 +22,52 @@ words:
 - waitress | n | ˈweɪtrəs |  | официантка | a woman who brings food in a restaurant | The *waitress* gave us the menu. | Официантка дала нам меню.
 - worker | n | ˈwɜːkə | ˈwɜːrkər | работник, рабочий | a person who works | The factory has 200 *workers*. | На фабрике 200 рабочих.
 - writer | n | ˈraɪtə | ˈraɪtər | писатель | a person who writes books | Tolstoy was a great *writer*. | Толстой был великим писателем.
+reading:
+  title: The Glassmaker's Choice
+  title_ru: Выбор стеклодува
+  text: |
+    For forty years, Mr. Rossi crafted glass in his small workshop. His vases and cups were fragile and beautiful, and people came from far away to buy them. But Mr. Rossi was getting old. His son, Marco, was sociable and talkative, the opposite of his quiet father, and he had different ideas.
+
+    One day, a big company asked for a meeting. They wanted to merge with Mr. Rossi's workshop. "We will produce your glass in our factory," the manager said. "Faster and cheaper." The payment was huge — half a million euros.
+
+    Marco was excited, but his father felt a shiver of fear. "Glass made by machines has no soul," he said. For Mr. Rossi, the workshop was not a burden but his whole life. Marco's perception was different: "Father, we can't speed up our work by hand. This money is our future."
+
+    They argued for weeks. At last, they decided to settle it with a compromise. The company could produce simple cups in the factory, but the most special pieces would remain handmade in the workshop. Marco would lead the business, and his father would teach young glassmakers.
+
+    The result overwhelmed both of them. The business grew at a moderate, healthy speed, and the old workshop became famous. "It's not the usual way to do business," Marco says. "But Father taught me something: you can grow without losing your heart." And sometimes, when he watches his father work, Marco feels the same innocence he felt as a child, when he first saw hot glass turn into art.
+  ru: |
+    Сорок лет мистер Росси создавал изделия из стекла в своей маленькой мастерской. Его вазы и чашки были хрупкими и красивыми, и люди приезжали издалека, чтобы купить их. Но мистер Росси старел. Его сын Марко был общительным и разговорчивым — полной противоположностью тихого отца, и у него были другие идеи.
+
+    Однажды крупная компания попросила о встрече. Они хотели объединиться с мастерской мистера Росси. «Мы будем производить ваше стекло на нашей фабрике, — сказал менеджер. — Быстрее и дешевле». Сумма была огромной — полмиллиона евро.
+
+    Марко был в восторге, а отец почувствовал дрожь страха. «У стекла, сделанного машинами, нет души», — сказал он. Для мистера Росси мастерская была не бременем, а всей жизнью. Марко смотрел на это иначе: «Отец, мы не сможем работать быстрее вручную. Эти деньги — наше будущее».
+
+    Они спорили неделями. Наконец они решили уладить дело компромиссом. Компания могла выпускать на фабрике простые чашки, но самые особенные изделия по-прежнему делались бы вручную в мастерской. Марко должен был руководить бизнесом, а отец — учить молодых стеклодувов.
+
+    Результат превзошёл ожидания обоих. Бизнес рос умеренно и надёжно, а старая мастерская прославилась. «Это не обычный способ вести дела, — говорит Марко. — Но отец научил меня кое-чему: можно расти, не теряя души». А иногда, глядя, как работает отец, Марко чувствует ту же детскую наивность, что и в детстве, когда впервые увидел, как горячее стекло превращается в искусство.
+  questions:
+  - q: What was Marco like?
+    options:
+    - Quiet and shy
+    - Sociable and talkative
+    - Angry and rude
+    - Old and tired
+    answer: 1
+  - q: What did the big company want?
+    options:
+    - To buy the building
+    - To merge with the workshop
+    - To close the workshop
+    - To hire Marco
+    answer: 1
+  - q: What was the compromise?
+    options:
+    - Everything made by machines
+    - Simple cups in the factory, special pieces by hand
+    - They closed the workshop
+    - Mr. Rossi kept all the money
+    answer: 1
+  - tf: Mr. Rossi thought that machine-made glass has no soul.
+    answer: true
+  - tf: The business grew too fast and failed.
+    answer: false

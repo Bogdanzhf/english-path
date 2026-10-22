@@ -21,3 +21,52 @@ words:
 - round | adj | raʊnd |  | круглый | shaped like a circle | We have a *round* table in the kitchen. | На кухне у нас круглый стол. | предл. round — вокруг
 - solution | n | səˈluːʃn |  | решение (проблемы) | a way to solve a problem | We need to find a *solution* quickly. | Нам нужно быстро найти решение.
 - 'structure | n | ˈstrʌktʃə | ˈstrʌktʃər | структура, строение | the way parts are arranged or organized | The *structure* of the meal was simple: three courses. | Структура обеда была простой: три блюда.'
+reading:
+  title: The Lost City on the Volcano
+  title_ru: Затерянный город на вулкане
+  text: |
+    Dr. Sarah Kent is a scholar of ancient history. Her occupation often takes her overseas, but her most significant mission began on a small island in the Pacific Ocean. The island has an old volcano, and local people told stories about a lost city on its side.
+
+    Many experts did not believe the stories. They debated the question for years. "There is no factual basis for this legend," one of her colleagues said. Nevertheless, Sarah wanted to find out the truth. It took her two years to persuade a university to pay for the trip.
+
+    The team departed in March: Sarah, two students of biology and a local guide. The route to the volcano was difficult. There were no roads, only narrow paths through the forest. It rained every day, and some team members felt depressed. Once, they found a colony of rare birds, and the biology students wanted to stay there for weeks!
+
+    On the tenth day, the guide stopped and pointed. Through the trees, they saw stone walls covered with plants. It was the ruins of a city, more than a thousand years old. Sarah could not speak. Everything fascinated her: the houses, the stone streets, even an old stone box that looked like a cage for animals.
+
+    Today, scientists from around the world come to study the lost city. "Never stop asking questions," Sarah tells her students. "Sometimes old stories are true."
+  ru: |
+    Доктор Сара Кент — исследователь древней истории. Её работа часто приводит её за границу, но самая важная её экспедиция началась на маленьком острове в Тихом океане. На острове есть старый вулкан, и местные жители рассказывали истории о затерянном городе на его склоне.
+
+    Многие эксперты не верили в эти истории. Годами они спорили об этом. «У этой легенды нет никакой фактической основы», — говорил один из её коллег. Тем не менее Сара хотела узнать правду. Ей потребовалось два года, чтобы убедить университет оплатить поездку.
+
+    Команда отправилась в путь в марте: Сара, двое студентов-биологов и местный проводник. Маршрут к вулкану был трудным. Дорог не было, только узкие тропы через лес. Каждый день шёл дождь, и у некоторых участников испортилось настроение. Однажды они нашли колонию редких птиц, и студенты-биологи хотели остаться там на несколько недель!
+
+    На десятый день проводник остановился и указал рукой. Сквозь деревья они увидели каменные стены, покрытые растениями. Это были руины города возрастом более тысячи лет. Сара не могла вымолвить ни слова. Её завораживало всё: дома, каменные улицы, даже старый каменный ящик, похожий на клетку для животных.
+
+    Сегодня учёные со всего мира приезжают изучать затерянный город. «Никогда не переставайте задавать вопросы, — говорит Сара своим студентам. — Иногда старые истории оказываются правдой».
+  questions:
+  - q: What did the local people tell stories about?
+    options:
+    - A dangerous volcano
+    - A lost city
+    - Rare birds
+    - A sunken ship
+    answer: 1
+  - q: How long did it take Sarah to get money for the trip?
+    options:
+    - Two weeks
+    - Ten days
+    - Two years
+    - Ten years
+    answer: 2
+  - q: What did the biology students find?
+    options:
+    - A colony of rare birds
+    - A stone box
+    - Old coins
+    - A new volcano
+    answer: 0
+  - tf: All the experts believed the legend from the start.
+    answer: false
+  - tf: The city is more than a thousand years old.
+    answer: true

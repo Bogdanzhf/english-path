@@ -19,3 +19,52 @@ words:
 - slice | n | slaɪs |  | ломтик, кусок | a thin flat piece cut from something | Would you like a *slice* of cake? | Хочешь кусочек торта?
 - strawberry | n | ˈstrɔːbəri | ˈstrɔːberi | клубника | a small red fruit with seeds on the outside | I love *strawberries* with cream. | Обожаю клубнику со сливками.
 - tuna | n | ˈtjuːnə |  | тунец | a large sea fish | I made a *tuna* salad. | Я сделал салат с тунцом.
+reading:
+  title: The Emperor's Soup
+  title_ru: Суп для императора
+  text: |
+    Long ago, in a massive palace in the east, there lived a young apprentice called Li. He worked in the kitchen under the great chef Master Wu. Li was diligent: he chopped vegetables from morning to night, and he never complained when Master Wu scolded him.
+
+    One day, a terrible thing happened. The emperor had fallen ill and refused to eat. The doctors were worried. "Cook something special," the emperor's advisor told Master Wu. "His health is our only priority." But that evening, Master Wu cut his hand badly with a knife. It bled so much that he needed a bandage, and he couldn't cook.
+
+    Everyone in the kitchen started to panic. Who would cook for the emperor? Li stepped forward. "I'll do it," he said. Master Wu looked at him for a long moment. "Don't make anything fancy," he said. "The emperor has eaten every luxury in the world. Cook something simple, from the heart."
+
+    Li thought about the soup his grandmother used to make when he was sick: rice, ginger, a few vegetables full of fiber, and a little chicken. He cooked it carefully and carried the bowl to the emperor's room himself. The emperor was sitting in a golden robe, with his crown on the table beside him. Li knelt and offered him the bowl.
+
+    The emperor tasted the soup. Then he ate the whole bowl. "This is not horrible palace food," he said with a smile. "This tastes like home." Over the next weeks, the emperor got better, and he and Li bonded over their love of simple food. When Master Wu retired, the emperor made Li the new head chef. Before his departure, Master Wu assured Li: "I always knew you were ready. I only scolded you because I believed in you."
+  ru: |
+    Давным-давно в огромном дворце на востоке жил юный подмастерье по имени Ли. Он работал на кухне под началом великого повара мастера У. Ли был старательным: он резал овощи с утра до ночи и никогда не жаловался, когда мастер У его ругал.
+
+    Однажды случилась беда. Император заболел и отказывался есть. Врачи беспокоились. «Приготовьте что-нибудь особенное, — сказал мастеру У советник императора. — Его здоровье — наш единственный приоритет». Но в тот вечер мастер У сильно порезал руку ножом. Кровь шла так сильно, что понадобилась повязка, и готовить он не мог.
+
+    На кухне началась паника. Кто будет готовить для императора? Ли шагнул вперёд. «Я сделаю это», — сказал он. Мастер У долго смотрел на него. «Не готовь ничего изысканного, — сказал он. — Император перепробовал все деликатесы мира. Приготовь что-нибудь простое, от души».
+
+    Ли вспомнил суп, который варила ему бабушка, когда он болел: рис, имбирь, немного овощей, богатых клетчаткой, и чуть-чуть курицы. Он аккуратно сварил его и сам отнёс миску в покои императора. Император сидел в золотом халате, а рядом на столе лежала его корона. Ли опустился на колени и подал ему миску.
+
+    Император попробовал суп. А затем съел всю миску. «Это не ужасная дворцовая еда, — сказал он с улыбкой. — Это вкус дома». В последующие недели император поправился, и они с Ли сдружились на почве любви к простой еде. Когда мастер У ушёл на покой, император сделал Ли новым шеф-поваром. Перед отъездом мастер У заверил Ли: «Я всегда знал, что ты готов. Я ругал тебя только потому, что верил в тебя».
+  questions:
+  - q: Why couldn't Master Wu cook for the emperor?
+    options:
+    - He was ill
+    - He had cut his hand badly
+    - He was too old
+    - He had left the palace
+    answer: 1
+  - q: What advice did Master Wu give Li?
+    options:
+    - Use expensive food
+    - Cook something simple, from the heart
+    - Ask the doctors
+    - Make a big feast
+    answer: 1
+  - q: What happened to Li in the end?
+    options:
+    - He left the palace
+    - He became the head chef
+    - He became a doctor
+    - He was punished
+    answer: 1
+  - tf: The emperor didn't like the soup.
+    answer: false
+  - tf: Master Wu scolded Li because he believed in him.
+    answer: true

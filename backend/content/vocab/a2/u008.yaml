@@ -26,3 +26,52 @@ words:
 - stove | n | stəʊv | stoʊv | плита, печь | a device for cooking or heating | There's a pot of soup on the *stove*. | На плите стоит кастрюля супа.
 - toothbrush | n | ˈtuːθbrʌʃ | ˈtuːθbrəʃ | зубная щётка | a small brush for cleaning your teeth | I forgot my *toothbrush*. | Я забыл зубную щётку.
 - washing machine | n | ˈwɒʃɪŋ məˈʃiːn | ˈwɑːʃɪŋ məˈʃiːn | стиральная машина | a machine for washing clothes | Put the towels in the *washing machine*. | Положи полотенца в стиральную машину.
+reading:
+  title: The Butterfly in the Laundry Room
+  title_ru: Бабочка в прачечной
+  text: |
+    Ten-year-old Lily hated housework. Every Saturday, her mother gave her a list: sweep the floor with a broom, clean the basin in the bathroom and help with the laundry. Lily was always reluctant. "I swear this is the most boring day of the week," she said.
+
+    One Saturday, Lily opened the cupboard in the laundry room to get a clean towel. On the door, on a small metal hook, she saw something strange: a green caterpillar. It was hanging upside down, very still. Lily called her mother. "Don't touch it," her mother said. "It's very delicate. It's going to change."
+
+    Over the next few days, the caterpillar made a hard shell around itself. It looked like a small brown leaf. Lily checked it every morning before school. She even used a strip of paper to make a sign on the cupboard: "Do not open — butterfly at work!" Her family laughed, but they stopped using that cupboard.
+
+    Two weeks later, early in the morning, Lily saw a small hole in the shell. Slowly, a butterfly emerged. Its wings were wet and folded, but after an hour they opened. They were orange and black, with white dots like the stains on her father's work sleeves.
+
+    Lily opened the window, and the butterfly flew out into the garden. It landed on the swing, then hopped from flower to flower. Lily smiled. "Housework isn't so bad," she told her mother. "You never know what you'll find in a cupboard!"
+  ru: |
+    Десятилетняя Лили терпеть не могла работу по дому. Каждую субботу мама давала ей список: подмести пол веником, помыть раковину в ванной и помочь со стиркой. Лили всегда делала это неохотно. «Клянусь, это самый скучный день недели», — говорила она.
+
+    Однажды в субботу Лили открыла шкаф в прачечной, чтобы взять чистое полотенце. На дверце, на маленьком металлическом крючке, она увидела что-то странное — зелёную гусеницу. Та висела вниз головой, совершенно неподвижно. Лили позвала маму. «Не трогай её, — сказала мама. — Она очень хрупкая. Скоро она превратится».
+
+    В следующие несколько дней гусеница сделала вокруг себя твёрдую оболочку. Она была похожа на маленький коричневый листок. Лили проверяла её каждое утро перед школой. Она даже сделала из полоски бумаги табличку на шкаф: «Не открывать — работает бабочка!» Семья посмеялась, но этим шкафом пользоваться перестала.
+
+    Через две недели рано утром Лили увидела в оболочке маленькую дырочку. Медленно из неё появилась бабочка. Её крылья были влажными и сложенными, но через час они раскрылись. Они были оранжево-чёрными, с белыми точками — как пятна на рукавах папиной рабочей одежды.
+
+    Лили открыла окно, и бабочка вылетела в сад. Она села на качели, а потом запорхала с цветка на цветок. Лили улыбнулась. «Работа по дому не так уж плоха, — сказала она маме. — Никогда не знаешь, что найдёшь в шкафу!»
+  questions:
+  - q: How did Lily feel about housework?
+    options:
+    - She loved it
+    - She was reluctant to do it
+    - She never did it
+    - She did it every day
+    answer: 1
+  - q: Where did Lily find the caterpillar?
+    options:
+    - In the garden
+    - On a hook in the cupboard
+    - In the basin
+    - On the swing
+    answer: 1
+  - q: What did Lily put on the cupboard?
+    options:
+    - A lock
+    - A sign made from a strip of paper
+    - A picture of a butterfly
+    - A towel
+    answer: 1
+  - tf: The butterfly's wings were orange and black.
+    answer: true
+  - tf: Lily kept the butterfly in the house.
+    answer: false

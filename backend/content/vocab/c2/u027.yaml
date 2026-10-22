@@ -22,3 +22,52 @@ words:
 - unfeasible | adj | ʌnˈfiːzəbl | ənˈfiːzəbl | неосуществимый | not possible | The plan is *unfeasible*. | План неосуществим.
 - unobtrusive | adj | ʌnɒbˈtruːsɪv | ˌʌnəbˈtruːsɪv | ненавязчивый, незаметный | not noticeable | The service was *unobtrusive*. | Обслуживание было ненавязчивым.
 - unsuspected | adj | ʌnsəˈspektɪd | ˌʌnsəˈspektɪd | неожиданный, непредвиденный | not known about | She revealed an *unsuspected* talent. | У неё обнаружился неожиданный талант.
+reading:
+  title: An Army for Eternity
+  title_ru: Армия для вечности
+  text: |
+    In March 1974, a group of farmers in central China were digging a well when their shovels hit something hard. They pulled out pieces of baked clay with jagged edges — part of a human head and a body. At first, they thought it was a dubious find of little value. In fact, they had stumbled on one of the greatest archaeological discoveries of the twentieth century.
+
+    The pieces belonged to the tomb of Qin Shi Huang, the first emperor of a unified China, who died in 210 BC. A powerful but vicious ruler, he had conquered rival kingdoms and ordered the construction of an early version of the Great Wall. He also conceived an extraordinary plan: an entire army made of terracotta clay to protect him in the afterlife.
+
+    The magnitude of the project is hard to imagine. Archaeologists have excavated only a fraction of the site, yet they have already found around 8,000 soldiers, as well as horses, chariots and weapons. The figures were made in workshops using molds for the basic shapes, but each soldier's face was then carved individually from the soft, elastic clay. No two faces are exactly alike. Many of the bronze weapons are engraved with the names of the officials responsible for them. Kneeling archers, standing infantry and generals with swords at their thighs were arranged in battle formation in underground pits on the periphery of the tomb.
+
+    Originally, the figures were brightly painted, but when they were exposed to air, much of the paint flaked off within minutes. For this reason, archaeologists now move slowly, preserving every fragment before continuing their endeavor. Skeletal remains suggest that many of the workers who built the tomb were buried nearby.
+
+    The emperor's own burial chamber has never been opened. Ancient texts claim it contains rivers of mercury, and soil tests have found high levels of the metal. Some believe the project reflects the emperor's enormous ego; others see it as an incredible artistic achievement. Today, past and present coexist at the site, where millions of visitors come each year to see an army that has been waiting for over 2,000 years.
+  ru: |
+    В марте 1974 года группа крестьян в центральном Китае копала колодец, когда их лопаты наткнулись на что-то твёрдое. Они вытащили обломки обожжённой глины с неровными краями — часть человеческой головы и туловища. Сначала они решили, что это сомнительная и малоценная находка. На самом деле они случайно сделали одно из величайших археологических открытий XX века.
+
+    Обломки принадлежали гробнице Цинь Шихуанди — первого императора объединённого Китая, умершего в 210 году до н. э. Могущественный, но жестокий правитель, он покорил соперничающие царства и приказал строить раннюю версию Великой стены. Он же задумал необыкновенный план: целую армию из терракотовой глины, которая охраняла бы его в загробной жизни.
+
+    Масштаб проекта трудно себе представить. Археологи раскопали лишь малую часть памятника, но уже нашли около 8000 воинов, а также лошадей, колесницы и оружие. Фигуры изготавливали в мастерских, используя формы для основных частей, но лицо каждого воина затем вылепляли отдельно из мягкой, пластичной глины. Нет двух одинаковых лиц. На многих бронзовых клинках выгравированы имена ответственных за них чиновников. Коленопреклонённые лучники, стоящие пехотинцы и генералы с мечами на бедре были выстроены в боевом порядке в подземных ямах по периметру гробницы.
+
+    Первоначально фигуры были ярко раскрашены, но на воздухе большая часть краски отслаивалась за считаные минуты. Поэтому теперь археологи продвигаются медленно, сохраняя каждый фрагмент, прежде чем продолжить работу. Скелетные останки говорят о том, что многих рабочих, строивших гробницу, похоронили неподалёку.
+
+    Погребальную камеру самого императора так и не вскрыли. Древние тексты утверждают, что в ней текут реки ртути, и анализы почвы действительно показали высокое содержание этого металла. Одни считают, что проект отражает огромное самомнение императора, другие видят в нём невероятное художественное достижение. Сегодня здесь соседствуют прошлое и настоящее: миллионы посетителей ежегодно приезжают посмотреть на армию, которая ждёт уже более 2000 лет.
+  questions:
+  - q: How was the Terracotta Army discovered?
+    options:
+    - By archaeologists searching for it
+    - By farmers digging a well
+    - During road construction
+    - From ancient maps
+    answer: 1
+  - q: Why was the army created?
+    options:
+    - For a museum
+    - To protect the emperor in the afterlife
+    - To train real soldiers
+    - As a gift to another king
+    answer: 1
+  - q: What happened to the paint when the figures were exposed to air?
+    options:
+    - It became brighter
+    - Much of it flaked off within minutes
+    - It turned gold
+    - Nothing
+    answer: 1
+  - tf: All of the soldiers' faces are identical.
+    answer: false
+  - tf: The emperor's burial chamber has never been opened.
+    answer: true

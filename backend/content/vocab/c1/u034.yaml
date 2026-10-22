@@ -28,3 +28,52 @@ words:
 - vegetation | n | ˌvedʒɪˈteɪʃən | ˌvedʒəˈteɪʃən | растительность | plants in an area | The island has thick *vegetation*. | Остров покрыт густой растительностью.
 - watershed | n | ˈwɔːtəʃed | ˈwɑːtərʃed | переломный момент; водораздел | a turning point | The election was a *watershed* in history. | Выборы стали поворотным моментом в истории.
 - weed | n | wiːd |  | сорняк | a wild unwanted plant | The garden is full of *weeds*. | Сад зарос сорняками.
+reading:
+  title: The Endurance
+  title_ru: «Эндьюранс»
+  text: |
+    In 1914, the explorer Ernest Shackleton set out to make the first crossing of the Antarctic continent on foot. His ship, the Endurance, sailed into the frozen Weddell Sea with twenty-eight men. Shackleton had advertised for crew with enthusiasm, but honestly: "Men wanted for hazardous journey. Low wages, bitter cold, long hours of complete darkness. Safe return doubtful."
+
+    The plan never began. In January 1915, the ship became trapped in the ice. For ten months, the men lived on board as the ice slowly crushed the wooden hull. In November, the Endurance sank. It was a terrible blow, but Shackleton calmly announced that the new plan was simply to get everyone home alive.
+
+    For months, the men camped on floating ice, dragging three small lifeboats behind them across the harsh terrain. They grew lean as food ran out; they ate seals and penguins and, finally, their dogs. When the ice broke up, they sailed the lifeboats through a succession of storms to Elephant Island, a rocky, empty place far from any shipping routes. No one would ever find them there. There was no alternative: someone had to go for help.
+
+    Shackleton and five men set off in a seven-metre lifeboat to sail 1,300 kilometres across the most dangerous ocean on Earth to the island of South Georgia. Strong currents and enormous waves threatened to sink them at every moment. After sixteen days, they reached the island — but on the wrong side. Exhausted, they climbed across unmapped mountains and glaciers for thirty-six hours to reach a whaling station.
+
+    In the meantime, the remaining twenty-two men waited on Elephant Island, sheltering under the upturned boats. Shackleton tried four times to rescue them. In August 1916, he finally succeeded. Every single man survived. Remarkably, there had been little conflict or violence throughout the ordeal. Shackleton treated every man, from the timid to the strong, with respect, and his leadership is still studied today.
+  ru: |
+    В 1914 году исследователь Эрнест Шеклтон отправился в путь, чтобы впервые пересечь Антарктиду пешком. Его корабль «Эндьюранс» вошёл в замёрзшее море Уэдделла с двадцатью восемью людьми на борту. Набирая команду, Шеклтон дал объявление с воодушевлением, но честно: «Требуются люди для опасного путешествия. Маленькое жалованье, жуткий холод, долгие месяцы полной темноты. Благополучное возвращение сомнительно».
+
+    План так и не начал осуществляться. В январе 1915 года корабль оказался в ледовом плену. Десять месяцев люди жили на борту, пока лёд медленно раздавливал деревянный корпус. В ноябре «Эндьюранс» затонул. Это был страшный удар, но Шеклтон спокойно объявил, что новый план прост: вернуть всех домой живыми.
+
+    Месяцами люди жили лагерем на дрейфующих льдинах, волоча за собой по суровой местности три маленькие шлюпки. Они исхудали, когда кончилась еда; ели тюленей и пингвинов, а в конце концов и своих собак. Когда лёд вскрылся, они под парусами провели шлюпки сквозь череду штормов к острову Элефант — скалистому, пустынному месту вдали от морских путей. Там их никто бы никогда не нашёл. Иного выхода не было: кто-то должен был отправиться за помощью.
+
+    Шеклтон и пятеро его спутников вышли в семиметровой шлюпке, чтобы проплыть 1300 километров по самому опасному океану на Земле до острова Южная Георгия. Сильные течения и огромные волны каждую минуту грозили их потопить. Через шестнадцать дней они добрались до острова — но не с той стороны. Измученные, они тридцать шесть часов шли через неизведанные горы и ледники к китобойной станции.
+
+    Тем временем оставшиеся двадцать два человека ждали на острове Элефант, укрываясь под перевёрнутыми лодками. Шеклтон четыре раза пытался их спасти. В августе 1916 года ему наконец это удалось. Выжили все до единого. Примечательно, что за всё это испытание почти не было ни конфликтов, ни насилия. Шеклтон с уважением относился к каждому, от робкого до сильного, и его стиль руководства изучают до сих пор.
+  questions:
+  - q: What happened to the Endurance?
+    options:
+    - It reached Antarctica safely
+    - It was crushed by ice and sank
+    - It hit a rock
+    - It was burned
+    answer: 1
+  - q: Why did someone have to go for help from Elephant Island?
+    options:
+    - It was dangerous
+    - No one would ever find them there
+    - There were enemies
+    - They had no boats
+    answer: 1
+  - q: How many men died?
+    options:
+    - Half of them
+    - Six
+    - None
+    - Twenty-two
+    answer: 2
+  - tf: Shackleton's advertisement promised a safe journey.
+    answer: false
+  - tf: Shackleton reached the whaling station by crossing mountains on foot.
+    answer: true

@@ -25,3 +25,52 @@ words:
 - tour guide | n | tɔː ɡaɪd | tʊr ɡaɪd | экскурсовод, гид | a person who shows tourists around | Our *tour guide* spoke three languages. | Наш гид говорил на трёх языках.
 - wedding | n | ˈwedɪŋ |  | свадьба | a ceremony when two people get married | Their *wedding* is in June. | Их свадьба в июне.
 - winner | n | ˈwɪnə | ˈwɪnər | победитель | a person who wins | The *winner* gets a prize. | Победитель получает приз.
+reading:
+  title: The Prize Pup
+  title_ru: Щенок-победитель
+  text: |
+    Every summer, the town of Millbrook has a festival with music, food and a famous dog contest. This year, a ten-year-old girl named Rosie entered her pup, Biscuit. He was not an expensive breed — just a small, fluffy brown dog that Rosie found in her yard one winter. But he was clever and somewhat funny, and he qualified for the final.
+
+    On the morning of the final, there was a problem. Biscuit was gone! Someone had opened the garage where he slept. Rosie cried and cried, and her mother gave her tissue after tissue. Her father called the police.
+
+    A journalist from the local newspaper heard the story and wrote about it online. Hundreds of people started looking for Biscuit. Then, at lunchtime, a man saw something strange: another contestant, a rich man with three champion dogs, was carrying a bucket into his car. Inside the bucket, under a towel, was a small brown dog!
+
+    The man tried to run, but he slipped on the wet grass and fell. A police officer arrested him. Later, he was convicted of stealing. He wanted to make sure that his expensive dogs won the award. People said he had robbed the contest of its fun.
+
+    The contest resumed in the afternoon. Biscuit was a little scared but stable, and he did all his tricks perfectly. He won first prize! The next week, Rosie's father repaired the garage door and put an alarm on it. "Biscuit is our champion," Rosie said, "but more importantly, he's home."
+  ru: |
+    Каждое лето в городке Миллбрук проходит фестиваль с музыкой, едой и знаменитым конкурсом собак. В этом году десятилетняя девочка по имени Рози записала на конкурс своего щенка Бисквита. Он не был дорогой породы — просто маленький пушистый коричневый пёс, которого Рози однажды зимой нашла у себя во дворе. Но он был умным и довольно забавным и прошёл в финал.
+
+    Утром в день финала случилась беда. Бисквит пропал! Кто-то открыл гараж, где он спал. Рози плакала не переставая, а мама давала ей салфетку за салфеткой. Папа позвонил в полицию.
+
+    Журналист местной газеты услышал эту историю и написал о ней в интернете. Сотни людей начали искать Бисквита. А в обед один мужчина заметил странную вещь: другой участник, богач с тремя собаками-чемпионами, нёс к своей машине ведро. В ведре, под полотенцем, сидел маленький коричневый пёс!
+
+    Мужчина попытался убежать, но поскользнулся на мокрой траве и упал. Полицейский его арестовал. Позже его осудили за кражу. Он хотел, чтобы награду наверняка получили его дорогие собаки. Люди говорили, что он украл у конкурса всё веселье.
+
+    После обеда конкурс продолжился. Бисквит был немного напуган, но держался уверенно и безупречно выполнил все трюки. Он занял первое место! На следующей неделе папа Рози починил дверь гаража и поставил на неё сигнализацию. «Бисквит — наш чемпион, — сказала Рози, — но, что важнее, он дома».
+  questions:
+  - q: Where did Rosie find Biscuit?
+    options:
+    - In a pet shop
+    - In her yard one winter
+    - At the festival
+    - In a garage
+    answer: 1
+  - q: Who took Biscuit?
+    options:
+    - A journalist
+    - A rich man with champion dogs
+    - Rosie's father
+    - A police officer
+    answer: 1
+  - q: What happened when the man tried to run?
+    options:
+    - He got away
+    - He slipped on the wet grass
+    - He fell into a bucket
+    - He crashed his car
+    answer: 1
+  - tf: Biscuit was an expensive breed.
+    answer: false
+  - tf: Biscuit won first prize.
+    answer: true

@@ -1,0 +1,1818 @@
+- id: c1-01
+  v1_unit: The Art of Coffee
+  title: From Goat to Global Habit
+  title_ru: От козы до мировой привычки
+  text: 'According to a popular legend, coffee was discovered in Ethiopia over a thousand years ago by a goat herder named Kaldi. He noticed that his goats became unusually lively after eating the red berries of a certain bush. Curious, he tried them himself and felt a burst of energy. Whether or not the story is true, coffee''s journey from the Ethiopian highlands to almost every corner of the world is remarkable.
+
+
+    By the fifteenth century, coffee was being cultivated in Yemen, where religious scholars drank it to stay awake during night prayers. Some called it a divine gift. Others were suspicious, and the beverage was even banned for a time in several cities. Nevertheless, coffee houses spread at a rapid rate across the Middle East and later Europe, becoming centres of conversation, politics and business.
+
+
+    Today, coffee is grown on plantations in more than seventy countries, most of them close to the equator, where the climate is warm and humid. The coffee cherries grow in clusters, and each contains two seeds — the beans. The taste of coffee varies enormously depending on where and how it is grown. Experts, much like wine tasters, train their palates to recognize subtle differences in aroma, acidity and texture. A coffee from Kenya might have a bright, fruity flavour, while one from Brazil might taste of nuts and chocolate.
+
+
+    Preparation methods also differ widely. Italians prefer a short, strong espresso; Turks boil finely ground coffee in a small pot; and in Vietnam, coffee is combined with sweet condensed milk and ice. Contemporary coffee shops have turned the drink into an art form, with baristas competing in international championships.
+
+
+    For many, a morning cup is a soothing ritual. However, too much caffeine can cause anxiety and sleep problems. In very large quantities it can even be toxic — though you would need to drink around a hundred cups to reach that point. For most of us, a few cups a day is closer to paradise than to danger.
+
+    '
+  ru: 'Согласно популярной легенде, кофе был открыт в Эфиопии более тысячи лет назад пастухом по имени Калди. Он заметил, что его козы становились необычайно резвыми, поев красных ягод одного куста. Из любопытства он сам попробовал их и почувствовал прилив сил. Правдива ли эта история или нет, путь кофе от эфиопского нагорья почти до каждого уголка мира поразителен.
+
+
+    К XV веку кофе выращивали в Йемене, где религиозные учёные пили его, чтобы не спать во время ночных молитв. Некоторые называли его божественным даром. Другие относились к нему с подозрением, и одно время напиток даже запрещали в нескольких городах. Тем не менее кофейни стремительно распространялись по Ближнему Востоку, а затем и по Европе, становясь центрами общения, политики и деловой жизни.
+
+
+    Сегодня кофе выращивают на плантациях более чем в семидесяти странах, в основном вблизи экватора, где климат тёплый и влажный. Кофейные ягоды растут гроздьями, и в каждой — по два семени, то есть зерна. Вкус кофе очень сильно зависит от того, где и как его выращивают. Эксперты, подобно дегустаторам вина, тренируют свой вкус, чтобы распознавать тонкие различия в аромате, кислотности и текстуре. Кофе из Кении может иметь яркий фруктовый вкус, а из Бразилии — отдавать орехами и шоколадом.
+
+
+    Способы приготовления тоже сильно различаются. Итальянцы предпочитают короткий крепкий эспрессо; турки варят мелко молотый кофе в маленькой турке; а во Вьетнаме кофе смешивают со сладким сгущённым молоком и льдом. Современные кофейни превратили напиток в искусство, а бариста соревнуются на международных чемпионатах.
+
+
+    Для многих утренняя чашка — успокаивающий ритуал. Однако избыток кофеина может вызывать тревожность и проблемы со сном. В очень больших количествах он даже может быть ядовит — правда, для этого нужно выпить около сотни чашек. Для большинства из нас несколько чашек в день — это скорее рай, чем опасность.
+
+    '
+  questions:
+  - q: According to legend, who discovered coffee?
+    options:
+    - A Yemeni scholar
+    - A goat herder named Kaldi
+    - An Italian barista
+    - A Turkish merchant
+    answer: 1
+  - q: Why did scholars in Yemen drink coffee?
+    options:
+    - For its taste
+    - To stay awake during night prayers
+    - As a medicine
+    - To sell it
+    answer: 1
+  - q: What does the text say about the taste of coffee?
+    options:
+    - It is always the same
+    - It varies depending on where and how it is grown
+    - Brazilian coffee is fruity
+    - Only experts can taste it
+    answer: 1
+  - tf: Coffee was banned in some cities for a time.
+    answer: true
+  - tf: A few cups of coffee a day are toxic.
+    answer: false
+- id: c1-02
+  v1_unit: Shipwreck
+  title: The Whaleship Essex
+  title_ru: Китобойное судно «Эссекс»
+  text: 'In 1819, the whaleship Essex sailed from the island of Nantucket, off the coast of Massachusetts. Its crew of twenty men hoped to return in two or three years with barrels of whale oil, which, before kerosene became common, was used to light lamps across America and Europe.
+
+
+    Fifteen months into the voyage, in the middle of the Pacific Ocean, something extraordinary happened. A huge sperm whale, around twenty-five metres long, swam straight at the ship and struck it with its head. Then it turned in a wide arc, came back and hit the ship again. The sailors watched, horrified, as water poured in. Within minutes, the Essex began to sink.
+
+
+    The men managed to escape in three small whaleboats with some bread, water and a few tortoises. They were more than 3,000 kilometres from the nearest land. The captain wanted to sail to the Marquesas Islands, but the crew had heard terrible stories about the islanders there, so they chose a much longer route to South America.
+
+
+    What followed was one of the most terrible survival stories in history. The men paddled and sailed for weeks under a fiery sun. Their food ran out. Their skin burned and their lips cracked. They briefly reached a small island, where they found birds, eggs and a little fresh water, but it was not enough to keep them alive, and most of them sailed on.
+
+
+    The rest of the story tested the character of every man. Starving and desperate, the survivors were eventually forced to do things that troubled their consciences for the rest of their lives. Only eight of the twenty men survived.
+
+
+    The disaster later inspired the writer Herman Melville. In 1851 he published "Moby-Dick", a novel about an obsessed captain and a white whale that sends his ship to the bottom of the sea. Today, the wreck of the Essex has never been found, but its story lives on.
+
+    '
+  ru: 'В 1819 году китобойное судно «Эссекс» вышло с острова Нантакет у побережья Массачусетса. Его экипаж из двадцати человек надеялся вернуться через два-три года с бочками китового жира, которым, пока не распространился керосин, освещали лампы по всей Америке и Европе.
+
+
+    Через пятнадцать месяцев плавания, посреди Тихого океана, случилось нечто невероятное. Огромный кашалот длиной около двадцати пяти метров поплыл прямо на корабль и ударил его головой. Затем он развернулся по широкой дуге, вернулся и снова ударил корабль. Моряки в ужасе смотрели, как внутрь хлещет вода. Через несколько минут «Эссекс» начал тонуть.
+
+
+    Людям удалось спастись на трёх маленьких вельботах с запасом хлеба, воды и несколькими черепахами. До ближайшей земли было более 3000 километров. Капитан хотел плыть к Маркизским островам, но экипаж наслушался страшных историй о тамошних жителях, и они выбрали гораздо более длинный путь к Южной Америке.
+
+
+    Дальше последовала одна из самых страшных историй выживания. Неделями люди гребли и шли под парусом под палящим солнцем. Еда кончилась. Кожа обгорала, губы трескались. Ненадолго они добрались до маленького острова, где нашли птиц, яйца и немного пресной воды, но этого не хватило бы, чтобы выжить, и большинство поплыло дальше.
+
+
+    Остальная часть истории подвергла испытанию характер каждого. Умирающие от голода и доведённые до отчаяния, выжившие в конце концов были вынуждены совершать поступки, которые мучили их совесть всю оставшуюся жизнь. Из двадцати человек выжили лишь восемь.
+
+
+    Позже эта катастрофа вдохновила писателя Германа Мелвилла. В 1851 году он опубликовал «Моби Дика» — роман об одержимом капитане и белом ките, который отправляет его корабль на дно моря. Обломки «Эссекса» так и не были найдены, но его история продолжает жить.
+
+    '
+  questions:
+  - q: What was whale oil used for?
+    options:
+    - Cooking
+    - Lighting lamps
+    - Medicine
+    - Painting ships
+    answer: 1
+  - q: What sank the Essex?
+    options:
+    - A storm
+    - A whale that struck the ship twice
+    - A fire
+    - Pirates
+    answer: 1
+  - q: Why didn't the crew sail to the Marquesas Islands?
+    options:
+    - They were too far
+    - They had heard terrible stories about the islanders
+    - The captain refused
+    - They had no map
+    answer: 1
+  - tf: All twenty men survived.
+    answer: false
+  - tf: The disaster inspired the novel 'Moby-Dick'.
+    answer: true
+- id: c1-03
+  v1_unit: Bragging Rights
+  title: Why Do We Show Off?
+  title_ru: Зачем мы хвастаемся?
+  text: 'We all know someone who loves to brag. They tell everyone about their new car, their holiday or their promotion. Most of us find this annoying. Yet psychologists say that showing off is a natural human behaviour — and that almost all of us do it, even if we are not conscious of it.
+
+
+    Why do we do it? One reason is that, for most of human history, our survival depended on the group. Being admired by others gave people better options: more allies, more food and better partners. Signalling our success was a way to raise our status. Today, the instinct remains, although the methods have changed.
+
+
+    Some forms of showing off are obvious. Others are more indirect. A popular modern strategy is the "humblebrag": a boast disguised as a complaint or as modesty. "I''m so tired of people asking me to be in their films," someone might say. Or: "Ugh, I can''t believe I have to give a speech at Harvard again." Researchers who studied this behaviour came to a clear eventual conclusion: people dislike humblebraggers even more than honest braggers. We find them insincere, and we can easily pinpoint what they are really doing.
+
+
+    Social media has turned showing off into a popular pastime. Every photo of an awesome sunset, a perfect meal or a gym session sends a message about who we are. The echo of "likes" and comments can be addictive. However, studies suggest that people who constantly compare themselves with others online may be tormented by feelings of inadequacy.
+
+
+    So what should we do? Psychologists disagree on the details, but most offer a simple hint: if you are proud of something, say so honestly, but don''t overdo it. And beware of turning every conversation into a competition. Being a good listener is an immense social skill — one that takes far longer to perfect than any boast.
+
+    '
+  ru: 'Все мы знаем кого-то, кто любит хвастаться. Такие люди рассказывают всем о своей новой машине, отпуске или повышении. Большинство из нас это раздражает. И всё же психологи говорят, что хвастовство — естественное человеческое поведение и что почти все мы так делаем, даже если этого не осознаём.
+
+
+    Зачем мы это делаем? Одна из причин в том, что на протяжении большей части истории человечества выживание зависело от группы. Восхищение окружающих давало людям больше возможностей: больше союзников, больше еды и лучших партнёров. Демонстрация успеха была способом повысить свой статус. Сегодня инстинкт остался, хотя методы изменились.
+
+
+    Некоторые формы хвастовства очевидны. Другие — более завуалированные. Популярная современная стратегия — «скромнохвастовство»: похвальба, замаскированная под жалобу или скромность. «Как же я устал, что меня зовут сниматься в кино», — может сказать кто-то. Или: «Ох, не могу поверить, что мне снова выступать в Гарварде». Исследователи, изучавшие такое поведение, пришли к однозначному итоговому выводу: скромнохвастов люди не любят даже больше, чем честных хвастунов. Мы считаем их неискренними и легко понимаем, что они на самом деле делают.
+
+
+    Соцсети превратили хвастовство в популярное времяпрепровождение. Каждое фото потрясающего заката, идеального блюда или тренировки в спортзале что-то сообщает о том, кто мы есть. Эхо «лайков» и комментариев может вызывать зависимость. Однако исследования показывают, что люди, постоянно сравнивающие себя с другими в сети, могут мучиться чувством собственной неполноценности.
+
+
+    Что же делать? Психологи расходятся в деталях, но большинство даёт простую подсказку: если вы чем-то гордитесь, скажите об этом честно, но не перестарайтесь. И остерегайтесь превращать каждый разговор в соревнование. Умение слушать — огромное социальное преимущество, и на его совершенствование уходит куда больше времени, чем на любое хвастовство.
+
+    '
+  questions:
+  - q: Why did showing off help people in the past?
+    options:
+    - It made them rich
+    - It raised their status in the group
+    - It helped them hunt
+    - It was a religious ritual
+    answer: 1
+  - q: What is a 'humblebrag'?
+    options:
+    - An honest boast
+    - A boast disguised as a complaint or modesty
+    - A compliment
+    - A type of social media
+    answer: 1
+  - q: How do people feel about humblebraggers?
+    options:
+    - They like them
+    - They dislike them even more than honest braggers
+    - They don't notice them
+    - They admire them
+    answer: 1
+  - tf: Psychologists say almost everyone shows off sometimes.
+    answer: true
+  - tf: The text advises never talking about your successes.
+    answer: false
+- id: c1-04
+  v1_unit: Why We Believe Conspiracies
+  title: The Appeal of Conspiracy Theories
+  title_ru: Чем привлекают теории заговора
+  text: 'On 22 November 1963, President John F. Kennedy was shot dead while driving through Dallas, Texas. Within hours, police arrested a man named Lee Harvey Oswald. Two days later, before he could stand trial, Oswald himself was shot. An official investigation concluded that he had acted alone. Yet more than half of Americans still believe that the assassination was a conspiracy.
+
+
+    Why are conspiracy theories so popular? Psychologists have several explanations. One is that big events seem to demand big causes. It feels wrong that a lonely, unimportant man could change history so abruptly. A secret plot by powerful people seems more fitting. Conspiracy theories also offer a sense of control. In a chaotic world, believing that someone is secretly in charge — even someone evil — can be strangely comforting.
+
+
+    Other factors make some people more likely to believe. People who feel powerless or ignored by society are often more cynical about official explanations. Those who enjoy feeling special may like having "secret knowledge" that others lack. And the internet has made it easier than ever to share theories. Online forums allow people to find others who agree with them, creating "echo chambers" where doubts are never heard.
+
+
+    Of course, real conspiracies do happen. Political coups have been planned in secret, and companies have hidden the dangers of their products. The problem is not asking questions; it''s refusing to accept evidence. When the scientific consensus is clear, conspiracy theories can be dangerous. Some have inflamed anger against minorities, and people who disagree are sometimes harassed online.
+
+
+    How should we respond? Experts warn that mocking believers usually makes them more stubborn. Instead, it helps to ask calm questions, listen, and focus on how we know what we know. As one commentator put it, the cure for a bad idea is not silence, but a better conversation.
+
+    '
+  ru: '22 ноября 1963 года президент Джон Кеннеди был застрелен, когда проезжал по Далласу (Техас). Через несколько часов полиция арестовала Ли Харви Освальда. Через два дня, ещё до суда, застрелили и самого Освальда. Официальное расследование пришло к выводу, что он действовал в одиночку. Тем не менее более половины американцев до сих пор считают, что убийство было заговором.
+
+
+    Почему теории заговора так популярны? У психологов есть несколько объяснений. Одно из них — большие события словно требуют больших причин. Кажется неправильным, что одинокий, ничем не примечательный человек может так внезапно изменить ход истории. Тайный сговор могущественных людей кажется более подходящим объяснением. Кроме того, теории заговора дают чувство контроля. В хаотичном мире вера в то, что кто-то тайно всем управляет — пусть даже злодей, — может как ни странно успокаивать.
+
+
+    Другие факторы делают некоторых людей более склонными верить. Люди, которые чувствуют себя бессильными или забытыми обществом, часто циничнее относятся к официальным объяснениям. Тем, кому нравится чувствовать себя особенными, может нравиться обладать «тайным знанием», которого нет у других. А интернет сделал распространение теорий проще, чем когда-либо. Онлайн-форумы позволяют находить единомышленников, создавая «эхо-камеры», где сомнения никогда не звучат.
+
+
+    Конечно, настоящие заговоры случаются. Политические перевороты планировались тайно, а компании скрывали опасность своих продуктов. Проблема не в том, чтобы задавать вопросы, а в отказе принимать доказательства. Когда в науке есть ясный консенсус, теории заговора могут быть опасны. Некоторые из них разжигали ненависть к меньшинствам, а несогласных порой травят в интернете.
+
+
+    Как же реагировать? Эксперты предупреждают, что насмешки обычно делают верящих ещё упрямее. Вместо этого полезно спокойно задавать вопросы, слушать и обсуждать, откуда мы знаем то, что знаем. Как сказал один обозреватель, лекарство от плохой идеи — не молчание, а более содержательный разговор.
+
+    '
+  questions:
+  - q: What did the official investigation conclude about Kennedy's death?
+    options:
+    - It was a conspiracy
+    - Oswald acted alone
+    - It was an accident
+    - The case was never investigated
+    answer: 1
+  - q: According to psychologists, why do big events seem to need big causes?
+    options:
+    - Because they are always planned
+    - It feels wrong that an unimportant person could change history
+    - Because the media says so
+    - Because of the internet
+    answer: 1
+  - q: What do experts recommend?
+    options:
+    - Mocking believers
+    - Asking calm questions and listening
+    - Ignoring them
+    - Banning forums
+    answer: 1
+  - tf: The text says real conspiracies never happen.
+    answer: false
+  - tf: Online forums can create 'echo chambers'.
+    answer: true
+- id: c1-05
+  v1_unit: University Then and Now
+  title: From Typewriters to Cyberspace
+  title_ru: От пишущих машинок к киберпространству
+  text: 'When my grandmother went to university in 1965, students were expected to attend every lecture in person. She took notes by hand, spent hours in the library searching the index of dusty books, and handed in typewritten essays. If she made a mistake, she had to type the whole page again. "Editing was a nightmare," she says. "I used so much correction fluid that some pages were stiff."
+
+
+    It seems weird today, but most students then had no idea what their classmates in other countries were studying. Information travelled slowly. The only way to find out about recent research was to read journals that arrived weeks after publication.
+
+
+    Fast forward to today. My younger brother is in his second semester at a large university. He watches many of his lectures online, sometimes at double speed. He writes essays on a laptop, uses software that highlights grammar mistakes, and collaborates with students across the world in cyberspace. His exams are sometimes held in a huge gymnasium, but many of his assignments are submitted and evaluated online.
+
+
+    Has university become better? In some ways, clearly. Education is more global, more flexible and more accessible. Online courses allow people to study from home, and many top universities now operate free courses for anyone with an internet connection.
+
+
+    But my grandmother is not convinced that it''s all progress. "We had to think for a while before we wrote anything," she says. "Now students can find any information in seconds, but that doesn''t mean they understand it." She also raises a moral question: with artificial intelligence able to write essays, how can teachers know what students really think?
+
+
+    There''s a faint smile on her face as she adds: "Of course, I was completely ignorant about computers. Maybe I''d have loved them." Perhaps her next New Year''s resolution should be to try an online course.
+
+    '
+  ru: 'Когда моя бабушка поступила в университет в 1965 году, студенты должны были лично посещать каждую лекцию. Она писала конспекты от руки, часами сидела в библиотеке, листая указатели пыльных книг, и сдавала эссе, напечатанные на машинке. Если она ошибалась, приходилось перепечатывать всю страницу. «Редактирование было кошмаром, — говорит она. — Я использовала столько корректора, что некоторые страницы становились жёсткими».
+
+
+    Сегодня это кажется странным, но большинство студентов тогда понятия не имели, что изучают их сверстники в других странах. Информация распространялась медленно. Единственным способом узнать о новых исследованиях было читать журналы, приходившие через несколько недель после выхода.
+
+
+    Перенесёмся в наши дни. Мой младший брат учится во втором семестре в крупном университете. Многие лекции он смотрит онлайн, иногда на двойной скорости. Он пишет эссе на ноутбуке, пользуется программой, которая выделяет грамматические ошибки, и работает вместе со студентами со всего мира в киберпространстве. Экзамены у него иногда проходят в огромном спортзале, но многие задания сдаются и оцениваются онлайн.
+
+
+    Стал ли университет лучше? В чём-то — безусловно. Образование стало более глобальным, гибким и доступным. Онлайн-курсы позволяют учиться из дома, а многие ведущие университеты теперь ведут бесплатные курсы для всех, у кого есть интернет.
+
+
+    Но бабушка не уверена, что всё это прогресс. «Нам приходилось подумать какое-то время, прежде чем что-то написать, — говорит она. — Сейчас студенты могут найти любую информацию за секунды, но это не значит, что они её понимают». Она также поднимает нравственный вопрос: если искусственный интеллект может писать эссе, как преподаватели узнают, что на самом деле думают студенты?
+
+
+    С лёгкой улыбкой она добавляет: «Конечно, я совершенно не разбиралась в компьютерах. Может, я бы их полюбила». Возможно, её следующим новогодним обещанием должно стать прохождение онлайн-курса.
+
+    '
+  questions:
+  - q: Why was editing a nightmare for the grandmother?
+    options:
+    - She had no paper
+    - She had to retype the whole page after a mistake
+    - Her teacher was strict
+    - She couldn't type
+    answer: 1
+  - q: How does the brother often watch lectures?
+    options:
+    - Only in person
+    - Online, sometimes at double speed
+    - On TV
+    - He doesn't watch them
+    answer: 1
+  - q: What moral question does the grandmother raise?
+    options:
+    - Whether university is too expensive
+    - How teachers can know what students think when AI can write essays
+    - Whether students should use laptops
+    - Whether lectures are too long
+    answer: 1
+  - tf: The grandmother thinks all modern changes are progress.
+    answer: false
+  - tf: Many top universities offer free online courses.
+    answer: true
+- id: c1-06
+  v1_unit: The Alpha Wolf Myth
+  title: The Truth About Alpha Wolves
+  title_ru: Правда об альфа-волках
+  text: 'You have probably heard the idea of the "alpha wolf": a powerful leader that fights its way to the top of the pack and controls the others through aggression. The term has become popular far beyond biology. Self-help books tell men how to become "alpha males", and business writers compare successful bosses to pack leaders. There is just one problem: in the wild, alpha wolves, in this sense, do not really exist.
+
+
+    The idea comes mainly from studies in the 1940s, which were later made famous in a popular book in 1970. Scientists observed wolves that had been brought together in custody in zoos. These wolves were unrelated adults, forced to live together in a small space. Unsurprisingly, they clashed often. The strongest animals fought for the best food and places to sleep, and the others showed signs of fear and compliance. It seemed obvious that wolf society was based on a constant struggle for dominance.
+
+
+    In the following decades, a researcher named David Mech, who had helped spread the term, spent many years studying wild wolves in the Arctic. His empirical observations told a different story. A normal wild pack is simply a family: a mother, a father and their young. The so-called "alphas" are just the parents. They lead the pack not because they won fights, but because they are older and more experienced. Young wolves do not need to battle for their place; when they grow up, they leave and disperse to start their own families.
+
+
+    Mech has spent years trying to correct the mistake, even asking his publisher to stop printing his old book. Yet the myth clings on. People seem to find it hard to comprehend that a dramatic story could be wrong.
+
+
+    The lesson is important. Animals in captivity often behave very differently from those in the wild, just as a flock of sheep grazing in a field behaves differently from one crowded into a truck. Scientists must be careful about drawing conclusions from unnatural situations — and the rest of us should be careful about the stories we choose to believe.
+
+    '
+  ru: 'Вы наверняка слышали об «альфа-волке» — сильном вожаке, который пробивается на вершину стаи в драках и подчиняет остальных агрессией. Этот термин стал популярен далеко за пределами биологии. Книги по саморазвитию учат мужчин становиться «альфа-самцами», а бизнес-авторы сравнивают успешных начальников с вожаками стаи. Есть лишь одна проблема: в дикой природе альфа-волков в этом смысле по сути не существует.
+
+
+    Эта идея в основном возникла из исследований 1940-х годов, которые позже прославила популярная книга 1970 года. Учёные наблюдали за волками, собранными вместе в неволе, в зоопарках. Это были неродственные взрослые особи, вынужденные жить вместе на небольшом пространстве. Неудивительно, что они часто дрались. Самые сильные боролись за лучшую еду и места для сна, а остальные проявляли страх и покорность. Казалось очевидным, что волчье общество построено на постоянной борьбе за господство.
+
+
+    В последующие десятилетия исследователь Дэвид Мек, который сам помог распространить этот термин, много лет изучал диких волков в Арктике. Его наблюдения в природе рассказывали иную историю. Обычная дикая стая — это просто семья: мать, отец и их потомство. Так называемые «альфы» — всего лишь родители. Они возглавляют стаю не потому, что победили в драках, а потому что старше и опытнее. Молодым волкам не нужно сражаться за своё место: повзрослев, они уходят и расселяются, чтобы создать собственные семьи.
+
+
+    Мек годами пытался исправить ошибку и даже просил издателя прекратить печатать свою старую книгу. И всё же миф держится. Людям, похоже, трудно осознать, что эффектная история может оказаться неверной.
+
+
+    Урок важен. Животные в неволе часто ведут себя совсем не так, как в дикой природе, — так же как отара овец, пасущаяся в поле, ведёт себя иначе, чем набитая в грузовик. Учёные должны осторожно делать выводы из неестественных ситуаций, а всем остальным стоит осторожно выбирать истории, в которые мы верим.
+
+    '
+  questions:
+  - q: Where did the original 'alpha wolf' studies take place?
+    options:
+    - In the wild Arctic
+    - With unrelated wolves kept in zoos
+    - In laboratories with dogs
+    - In the jungle
+    answer: 1
+  - q: What is a normal wild wolf pack, according to Mech?
+    options:
+    - A group of fighters
+    - A family of parents and their young
+    - A group of males only
+    - A random group of adults
+    answer: 1
+  - q: What did Mech ask his publisher to do?
+    options:
+    - Print more copies
+    - Stop printing his old book
+    - Write a new film
+    - Change the title
+    answer: 1
+  - tf: Young wild wolves must fight their parents for their place.
+    answer: false
+  - tf: Animals in captivity can behave very differently from wild animals.
+    answer: true
+- id: c1-07
+  v1_unit: Witnesses Who Did Nothing?
+  title: The Bystander Effect
+  title_ru: Эффект свидетеля
+  text: 'In March 1964, a young woman named Kitty Genovese was attacked and killed outside her apartment in New York. Two weeks later, the New York Times published a shocking account of the crime. It claimed that thirty-eight witnesses had watched or heard the attack, and that not one of them had called the police. The newspaper proclaimed it a sign that city life had made people cold and selfish.
+
+
+    The story horrified the nation and inspired two psychologists, John Darley and Bibb Latané, to investigate why people fail to intervene. In a series of landmark experiments, they discovered what is now called the "bystander effect". When people are alone and see someone in trouble, they usually help. But when there are many people present, each person is less likely to act. Everyone assumes that someone else will do something. The responsibility is spread across the crowd until no one feels obliged to help.
+
+
+    However, later research revealed that the original newspaper account was seriously inaccurate. Many of the thirty-eight "witnesses" had only heard noises and didn''t realize a crime was happening. At least two neighbours did call the police, and one woman rushed outside and held Kitty in her arms as she died. The story of complete indifference was simply false. Some historians believe that the reporters concealed or ignored facts to create a more memorable story.
+
+
+    The attacker was caught and sentenced to life in prison. But the case had a positive legacy. It encouraged cities to create a single emergency number, 911, in the United States. It also inspired training programmes that teach people how to overcome the bystander effect — for example, by pointing at one specific person and saying, "You, call an ambulance!"
+
+
+    Today, studies of real situations, recorded by security cameras, suggest that people help more often than we think. In about ninety percent of public conflicts, at least one person intervenes. When a crisis happens, communities often rally together, and many people volunteer their time and resources. Perhaps we are kinder than the old story suggested.
+
+    '
+  ru: 'В марте 1964 года молодая женщина по имени Китти Дженовезе подверглась нападению и была убита у своего дома в Нью-Йорке. Через две недели газета New York Times опубликовала шокирующий рассказ о преступлении. В нём утверждалось, что тридцать восемь свидетелей видели или слышали нападение и ни один из них не позвонил в полицию. Газета объявила это признаком того, что городская жизнь сделала людей холодными и эгоистичными.
+
+
+    История потрясла страну и вдохновила двух психологов, Джона Дарли и Бибба Латане, выяснить, почему люди не вмешиваются. В серии ставших классикой экспериментов они обнаружили то, что сейчас называют «эффектом свидетеля». Когда человек один и видит, что кто-то в беде, он обычно помогает. Но когда вокруг много людей, каждый с меньшей вероятностью начнёт действовать. Все считают, что кто-то другой что-нибудь сделает. Ответственность распределяется по толпе, пока никто уже не чувствует себя обязанным помочь.
+
+
+    Однако позднейшие исследования показали, что исходный газетный рассказ был сильно неточен. Многие из тридцати восьми «свидетелей» лишь слышали шум и не поняли, что происходит преступление. По меньшей мере двое соседей всё же позвонили в полицию, а одна женщина выбежала на улицу и держала Китти на руках, пока та умирала. История о полном равнодушии оказалась попросту ложной. Некоторые историки считают, что репортёры скрыли или проигнорировали факты, чтобы история лучше запоминалась.
+
+
+    Нападавшего поймали и приговорили к пожизненному заключению. Но у этого дела было и положительное наследие. Оно подтолкнуло к созданию в США единого номера экстренных служб — 911. Оно также вдохновило программы обучения, которые учат людей преодолевать эффект свидетеля — например, указать на конкретного человека и сказать: «Вы, вызовите скорую!»
+
+
+    Сегодня исследования реальных ситуаций, записанных камерами наблюдения, показывают, что люди помогают чаще, чем мы думаем. Примерно в девяноста процентах публичных конфликтов хотя бы один человек вмешивается. Когда случается беда, люди часто сплачиваются, и многие добровольно отдают своё время и ресурсы. Возможно, мы добрее, чем предполагала старая история.
+
+    '
+  questions:
+  - q: What did the New York Times claim about the witnesses?
+    options:
+    - They all helped
+    - Thirty-eight people watched and nobody called the police
+    - There were no witnesses
+    - They caught the attacker
+    answer: 1
+  - q: What is the 'bystander effect'?
+    options:
+    - People help more in groups
+    - People are less likely to help when many others are present
+    - People always call the police
+    - Witnesses forget what they saw
+    answer: 1
+  - q: What did later research show?
+    options:
+    - The newspaper account was accurate
+    - The newspaper account was seriously inaccurate
+    - There were more witnesses
+    - Nobody heard anything
+    answer: 1
+  - tf: The case helped lead to the creation of the 911 emergency number.
+    answer: true
+  - tf: Modern studies show people almost never intervene in public conflicts.
+    answer: false
+- id: c1-08
+  v1_unit: Can a Machine Detect Lies?
+  title: The Polygraph
+  title_ru: Полиграф
+  text: 'For centuries, people have tried to find a reliable way to detect lies. In ancient China, suspects were made to chew dry rice; if the rice was still dry when they spat it out, they were believed to be lying, because fear makes the mouth dry. In the 1920s, an American police officer invented a more scientific-looking method: the polygraph, often called the "lie detector".
+
+
+    The polygraph is a device that measures changes in the body. While a trained examiner conducts an interview, sensors record the person''s breathing, heart rate, blood pressure and how much they perspire. The idea is simple: lying causes stress, and stress causes physical changes. If a suspect''s heart suddenly races when asked "Did you take the money?", it may suggest guilt.
+
+
+    The polygraph quickly became popular with police and governments, and it has helped crack some famous cases. In the USA, it is still used to screen people applying for jobs in security services, where candidates may be given access to secret information. Television shows have made it famous, presenting it as a machine that can see into a person''s mind.
+
+
+    But is it valid? Most scientists say no. The polygraph does not detect lies; it detects anxiety. An innocent person may be terrified of being accused and react strongly to every question. Meanwhile, a sly, calm liar may show no reaction whatsoever. Studies also show that people can be trained to beat the test, for example by controlling their breathing or causing themselves slight pain. The examiner''s own opinion can also have a strong influence on the result.
+
+
+    For these reasons, the law in many countries does not accept polygraph results as evidence in court. Researchers are now looking for new methods to replace it, such as brain scans and software that analyses tiny changes in the face or voice. But critics warn that these versions may share the same constant problem: the human mind is far more complicated than any machine.
+
+    '
+  ru: 'Веками люди пытались найти надёжный способ распознавать ложь. В Древнем Китае подозреваемых заставляли жевать сухой рис: если, выплюнув его, он оставался сухим, считалось, что человек лжёт, ведь от страха пересыхает во рту. В 1920-х годах американский полицейский изобрёл способ, который выглядел научнее, — полиграф, который часто называют «детектором лжи».
+
+
+    Полиграф — это прибор, который измеряет изменения в организме. Пока обученный специалист проводит опрос, датчики записывают дыхание человека, пульс, давление и то, насколько сильно он потеет. Идея проста: ложь вызывает стресс, а стресс — физические изменения. Если у подозреваемого резко учащается пульс в ответ на вопрос «Вы взяли деньги?», это может указывать на вину.
+
+
+    Полиграф быстро стал популярен у полиции и правительств и помог раскрыть ряд громких дел. В США его до сих пор используют при проверке кандидатов на работу в спецслужбах, где они могут получить доступ к секретной информации. Телешоу прославили его, представляя машиной, способной заглянуть человеку в душу.
+
+
+    Но обоснован ли он? Большинство учёных говорят «нет». Полиграф распознаёт не ложь, а тревогу. Невиновный человек может до ужаса бояться обвинения и бурно реагировать на каждый вопрос. А хитрый, хладнокровный лжец может не проявить вообще никакой реакции. Исследования также показывают, что можно научиться обманывать тест — например, контролируя дыхание или причиняя себе лёгкую боль. На результат может сильно влиять и собственное мнение проверяющего.
+
+
+    По этим причинам закон во многих странах не принимает результаты полиграфа как доказательство в суде. Сейчас исследователи ищут новые методы на замену — например, сканирование мозга или программы, анализирующие мельчайшие изменения лица или голоса. Но критики предупреждают, что у этих вариантов может быть та же неизменная проблема: человеческий разум гораздо сложнее любой машины.
+
+    '
+  questions:
+  - q: How did the ancient Chinese rice test work?
+    options:
+    - Liars ate more rice
+    - If the rice stayed dry, the person was thought to be lying
+    - Liars couldn't swallow
+    - The rice changed colour
+    answer: 1
+  - q: What does the polygraph actually detect, according to scientists?
+    options:
+    - Lies
+    - Anxiety
+    - Thoughts
+    - Intelligence
+    answer: 1
+  - q: Why is the polygraph not accepted in many courts?
+    options:
+    - It is too expensive
+    - It is not considered valid
+    - It takes too long
+    - It was banned by the USA
+    answer: 1
+  - tf: A calm liar may show no reaction on a polygraph.
+    answer: true
+  - tf: Scientists agree that brain scans have completely solved the problem.
+    answer: false
+- id: c1-09
+  v1_unit: The Power of Forgiveness
+  title: Mandela's Choice
+  title_ru: Выбор Манделы
+  text: 'For most of the twentieth century, South Africa was ruled by a white minority. Under a system called apartheid, black South Africans were denied the right to vote, forced to live in separate areas and treated as second-class citizens. Many people were outraged, and some began to defy the government''s laws.
+
+
+    One of them was a young lawyer named Nelson Mandela. Together with others, he waged a long campaign against apartheid. In 1964, he was sentenced to life in prison. For the next twenty-seven years, he lived in a tiny cell, most of it on Robben Island, where prisoners broke rocks in the sun. Guards insulted and sometimes slapped the prisoners. Mandela''s eyesight was damaged by the bright light, and by the end, he was feeble from illness.
+
+
+    By the late 1980s, South Africa was in crisis. There was violence in the streets, protesters smashed shop windows, and the world had placed heavy sanctions on the country. Many observers were pessimistic; they believed a terrible civil war was inevitable. Under huge pressure, the government released Mandela in 1990.
+
+
+    What Mandela did next amazed the world. Instead of seeking revenge, he chose to forgive. He invited one of his former prison guards to his presidential inauguration in 1994. He worked alongside the men who had imprisoned him to write a new constitution. When the national rugby team, a symbol of white South Africa, played in the 1995 World Cup, Mandela wore their shirt and cheered for them, displaying a desire for unity that surprised both black and white citizens.
+
+
+    Mandela believed that hatred would destroy the country, whereas forgiveness could heal it. "Resentment is like drinking poison and hoping it will kill your enemies," he is often quoted as saying. His country was far from perfect, nor did the problems of poverty disappear. But the transition to democracy was more peaceful and successful than almost anyone had expected. Today, Mandela is remembered as one of the most majestic moral figures of modern times.
+
+    '
+  ru: 'Большую часть XX века Южной Африкой управляло белое меньшинство. При системе под названием апартеид чернокожих южноафриканцев лишали права голоса, заставляли жить в отдельных районах и считали гражданами второго сорта. Многие были возмущены, и некоторые начали открыто нарушать законы правительства.
+
+
+    Одним из них был молодой юрист Нельсон Мандела. Вместе с другими он вёл долгую борьбу против апартеида. В 1964 году его приговорили к пожизненному заключению. Следующие двадцать семь лет он провёл в крошечной камере, большую часть — на острове Роббен, где заключённые дробили камни под палящим солнцем. Охранники оскорбляли заключённых, а иногда и били их. Яркий свет повредил Манделе зрение, а к концу срока болезнь сделала его слабым.
+
+
+    К концу 1980-х Южная Африка была в кризисе. На улицах царило насилие, протестующие били витрины, а мир ввёл против страны жёсткие санкции. Многие наблюдатели были настроены пессимистично и считали, что страшная гражданская война неизбежна. Под огромным давлением правительство освободило Манделу в 1990 году.
+
+
+    То, что Мандела сделал дальше, поразило мир. Вместо того чтобы мстить, он решил простить. Он пригласил одного из своих бывших тюремщиков на свою президентскую инаугурацию в 1994 году. Он работал бок о бок с людьми, посадившими его в тюрьму, над новой конституцией. Когда национальная сборная по регби — символ белой Южной Африки — играла на чемпионате мира 1995 года, Мандела надел её футболку и болел за неё, проявив стремление к единству, которое удивило и чернокожих, и белых граждан.
+
+
+    Мандела считал, что ненависть разрушит страну, тогда как прощение может её исцелить. «Обида — это как пить яд и надеяться, что он убьёт твоих врагов», — часто приводят его слова. Его страна была далека от совершенства, и проблемы бедности не исчезли. Но переход к демократии оказался мирнее и успешнее, чем почти кто-либо ожидал. Сегодня Манделу вспоминают как одну из самых величественных нравственных фигур современности.
+
+    '
+  questions:
+  - q: How long was Mandela in prison?
+    options:
+    - Seven years
+    - Twenty-seven years
+    - Forty years
+    - Life
+    answer: 1
+  - q: What did many observers expect in the late 1980s?
+    options:
+    - A peaceful election
+    - A terrible civil war
+    - Mandela's death
+    - An economic boom
+    answer: 1
+  - q: What did Mandela do at the 1995 Rugby World Cup?
+    options:
+    - He refused to attend
+    - He wore the team's shirt and supported them
+    - He played in the team
+    - He criticized the team
+    answer: 1
+  - tf: Mandela sought revenge on his former guards.
+    answer: false
+  - tf: The transition to democracy was more peaceful than expected.
+    answer: true
+- id: c1-10
+  v1_unit: Bringing Toys to Life
+  title: The Making of Toy Story
+  title_ru: Как создавали «Историю игрушек»
+  text: 'In 1995, a film was released that changed animation forever. "Toy Story" was the first feature-length film made entirely with computers. Today, computer-animated films are everywhere, but at the time, the concept seemed almost impossible.
+
+
+    For most of the twentieth century, animation was done by hand. Artists drew each frame on paper, and a single film could require hundreds of thousands of drawings. In the 1980s, a small team of computer scientists and artists in California began experimenting with a new idea: constructing characters and worlds inside a computer. The company, Pixar, was isolated from the big studios and had little money. For nearly a decade, it survived by selling computer hardware and making short films and adverts.
+
+
+    The technical problems were enormous. Every character had to be built from mathematical shapes, rather like a sophisticated diagram. Computers then were slow; some frames took hours or even days to process. Animating human skin and hair was too difficult, which is one reason why the team chose toys as the main characters. Plastic toys, with their simple shapes and smooth surfaces, were handy subjects for the technology of the time.
+
+
+    The story itself almost failed. At one point, the studio''s partners at Disney watched an early version and hated it. The main character, Woody, was rude and unpleasant. Production was halted, and the writers had to concede that something was wrong. They rewrote the script, turning Woody into a jealous but loving character with a longing to remain his owner''s favourite toy.
+
+
+    The final film was a huge success. Critics wrote glowing reviews, and it won numerous awards. More importantly, it showed that computer animation could tell emotional stories. Today, technology allows animators to create every particle of dust and every hair on a character''s head. But Pixar''s directors refuse to surrender to technology alone. As they often say, the story always comes first — and that is what makes all the hard work worthwhile.
+
+    '
+  ru: 'В 1995 году вышел фильм, который навсегда изменил анимацию. «История игрушек» стала первым полнометражным фильмом, полностью созданным на компьютере. Сегодня компьютерные мультфильмы повсюду, но тогда эта идея казалась почти невозможной.
+
+
+    Большую часть XX века мультипликацию делали вручную. Художники рисовали каждый кадр на бумаге, и одному фильму могли понадобиться сотни тысяч рисунков. В 1980-х небольшая команда программистов и художников в Калифорнии начала экспериментировать с новой идеей — создавать персонажей и миры внутри компьютера. Компания Pixar была оторвана от крупных студий, и денег у неё было мало. Почти десять лет она выживала, продавая компьютерное оборудование и снимая короткометражки и рекламу.
+
+
+    Технические трудности были огромными. Каждого персонажа приходилось собирать из математических форм, почти как сложную схему. Компьютеры тогда были медленными: обработка некоторых кадров занимала часы и даже дни. Анимировать человеческую кожу и волосы было слишком сложно — это одна из причин, по которой команда выбрала главными героями игрушки. Пластиковые игрушки с их простыми формами и гладкой поверхностью были удобными объектами для технологий того времени.
+
+
+    Сам сюжет едва не провалился. В какой-то момент партнёры студии из Disney посмотрели раннюю версию и возненавидели её. Главный герой, Вуди, был грубым и неприятным. Производство остановили, и сценаристам пришлось признать, что что-то не так. Они переписали сценарий, превратив Вуди в ревнивого, но любящего персонажа, который мечтает остаться любимой игрушкой своего хозяина.
+
+
+    Готовый фильм имел огромный успех. Критики писали восторженные рецензии, и он получил многочисленные награды. Что ещё важнее, он показал, что компьютерная анимация может рассказывать трогательные истории. Сегодня технологии позволяют аниматорам создать каждую пылинку и каждый волосок на голове персонажа. Но режиссёры Pixar отказываются сдаваться на милость одних лишь технологий. Как они часто говорят, история всегда на первом месте — и именно поэтому весь тяжёлый труд того стоит.
+
+    '
+  questions:
+  - q: What was special about 'Toy Story'?
+    options:
+    - It was the first film in colour
+    - It was the first feature film made entirely with computers
+    - It was hand-drawn
+    - It was made in one year
+    answer: 1
+  - q: Why did the team choose toys as main characters?
+    options:
+    - Children love toys
+    - Their simple shapes were easier to animate
+    - Disney asked them to
+    - Toys were cheap
+    answer: 1
+  - q: What was wrong with the early version of Woody?
+    options:
+    - He was too small
+    - He was rude and unpleasant
+    - He couldn't move
+    - He had no voice
+    answer: 1
+  - tf: Pixar survived by selling computer hardware for years.
+    answer: true
+  - tf: Pixar directors say technology is more important than the story.
+    answer: false
+- id: c1-11
+  v1_unit: The Code Talkers
+  title: The Code No One Could Break
+  title_ru: Шифр, который никто не смог взломать
+  text: 'During the Second World War, the United States was fighting Japan across the islands of the Pacific. Every message sent by radio could be heard by the enemy, so armed forces used secret codes. But Japanese experts were very good at breaking codes. The Americans needed a new solution — one so unusual that it would be impossible to crack.
+
+
+    The answer came from an unexpected source: the Navajo people of the American Southwest. The Navajo language was extremely complex, had no written alphabet at the time and was spoken by very few people outside the community. A former missionary''s son who had grown up among the Navajo suggested using it as a code. After a successful test, the Marines recruited twenty-nine young Navajo men in 1942. Eventually, around four hundred served.
+
+
+    The code talkers developed a system in which Navajo words stood for military terms. A submarine was called "iron fish", a bomb was "egg", and a tank was "tortoise". Each man memorized the entire code; nothing was written down in the field. Equipped with radios, they could send and receive messages in seconds, a task that took coding machines thirty minutes.
+
+
+    Their impact was enormous. During the famous battle of Iwo Jima, six Navajo code talkers sent more than eight hundred messages without a single error. One officer later said that without them, the Marines would never have taken the island. All Japanese attempts to break the code were in vain. It remains one of the few military codes in history that was never broken.
+
+
+    Yet the code talkers faced painful obstacles at home. As children, many had been punished at government schools for speaking their language — the same language that now served the nation''s defense. Their work remained secret until 1968. In 2001, the surviving code talkers were finally honoured at a ceremony in Washington, to long applause. Today, their story is told in books and films, a powerful reminder that diverse cultures can be a nation''s greatest strength.
+
+    '
+  ru: 'Во время Второй мировой войны Соединённые Штаты воевали с Японией на островах Тихого океана. Любое радиосообщение мог услышать противник, поэтому вооружённые силы пользовались секретными шифрами. Но японские специалисты очень хорошо их взламывали. Американцам требовалось новое решение — настолько необычное, чтобы его невозможно было разгадать.
+
+
+    Ответ пришёл с неожиданной стороны — от народа навахо с юго-запада Америки. Язык навахо был чрезвычайно сложным, в то время не имел письменного алфавита и почти не был известен за пределами общины. Сын бывшего миссионера, выросший среди навахо, предложил использовать его как шифр. После успешной проверки в 1942 году морская пехота набрала двадцать девять молодых навахо. В итоге служили около четырёхсот человек.
+
+
+    Шифровальщики разработали систему, в которой слова языка навахо обозначали военные термины. Подводную лодку называли «железной рыбой», бомбу — «яйцом», а танк — «черепахой». Каждый выучивал весь код наизусть; в полевых условиях ничего не записывалось. Вооружённые рациями, они могли передавать и принимать сообщения за секунды — шифровальные машины тратили на это по полчаса.
+
+
+    Их вклад был огромным. Во время знаменитой битвы за Иводзиму шесть шифровальщиков навахо передали более восьмисот сообщений без единой ошибки. Один офицер позже сказал, что без них морская пехота никогда бы не взяла остров. Все попытки японцев взломать код были тщетны. Это один из немногих военных шифров в истории, который так и не был взломан.
+
+
+    И всё же дома шифровальщики сталкивались с горькими препятствиями. В детстве многих наказывали в государственных школах за то, что они говорили на своём языке, — том самом языке, который теперь служил обороне страны. Их работа оставалась секретной до 1968 года. В 2001 году выжившие шифровальщики наконец были удостоены награды на церемонии в Вашингтоне под долгие аплодисменты. Сегодня их историю рассказывают книги и фильмы — мощное напоминание о том, что многообразие культур может быть величайшей силой нации.
+
+    '
+  questions:
+  - q: Why was the Navajo language a good code?
+    options:
+    - It was easy to learn
+    - It was complex, unwritten and known by very few outsiders
+    - The Japanese spoke it
+    - It used numbers
+    answer: 1
+  - q: What did the code word 'iron fish' mean?
+    options:
+    - A tank
+    - A submarine
+    - A bomb
+    - A ship
+    answer: 1
+  - q: When was the code talkers' work made public?
+    options:
+    - In 1942
+    - In 1945
+    - In 1968
+    - In 2001
+    answer: 2
+  - tf: The Japanese eventually broke the Navajo code.
+    answer: false
+  - tf: Many code talkers had been punished at school for speaking Navajo.
+    answer: true
+- id: c1-12
+  v1_unit: Shackleton's Rescue
+  title: The Endurance
+  title_ru: «Эндьюранс»
+  text: 'In 1914, the explorer Ernest Shackleton set out to make the first crossing of the Antarctic continent on foot. His ship, the Endurance, sailed into the frozen Weddell Sea with twenty-eight men. Shackleton had advertised for crew with enthusiasm, but honestly: "Men wanted for hazardous journey. Low wages, bitter cold, long hours of complete darkness. Safe return doubtful."
+
+
+    The plan never began. In January 1915, the ship became trapped in the ice. For ten months, the men lived on board as the ice slowly crushed the wooden hull. In November, the Endurance sank. It was a terrible blow, but Shackleton calmly announced that the new plan was simply to get everyone home alive.
+
+
+    For months, the men camped on floating ice, dragging three small lifeboats behind them across the harsh terrain. They grew lean as food ran out; they ate seals and penguins and, finally, their dogs. When the ice broke up, they sailed the lifeboats through a succession of storms to Elephant Island, a rocky, empty place far from any shipping routes. No one would ever find them there. There was no alternative: someone had to go for help.
+
+
+    Shackleton and five men set off in a seven-metre lifeboat to sail 1,300 kilometres across the most dangerous ocean on Earth to the island of South Georgia. Strong currents and enormous waves threatened to sink them at every moment. After sixteen days, they reached the island — but on the wrong side. Exhausted, they climbed across unmapped mountains and glaciers for thirty-six hours to reach a whaling station.
+
+
+    In the meantime, the remaining twenty-two men waited on Elephant Island, sheltering under the upturned boats. Shackleton tried four times to rescue them. In August 1916, he finally succeeded. Every single man survived. Remarkably, there had been little conflict or violence throughout the ordeal. Shackleton treated every man, from the timid to the strong, with respect, and his leadership is still studied today.
+
+    '
+  ru: 'В 1914 году исследователь Эрнест Шеклтон отправился в путь, чтобы впервые пересечь Антарктиду пешком. Его корабль «Эндьюранс» вошёл в замёрзшее море Уэдделла с двадцатью восемью людьми на борту. Набирая команду, Шеклтон дал объявление с воодушевлением, но честно: «Требуются люди для опасного путешествия. Маленькое жалованье, жуткий холод, долгие месяцы полной темноты. Благополучное возвращение сомнительно».
+
+
+    План так и не начал осуществляться. В январе 1915 года корабль оказался в ледовом плену. Десять месяцев люди жили на борту, пока лёд медленно раздавливал деревянный корпус. В ноябре «Эндьюранс» затонул. Это был страшный удар, но Шеклтон спокойно объявил, что новый план прост: вернуть всех домой живыми.
+
+
+    Месяцами люди жили лагерем на дрейфующих льдинах, волоча за собой по суровой местности три маленькие шлюпки. Они исхудали, когда кончилась еда; ели тюленей и пингвинов, а в конце концов и своих собак. Когда лёд вскрылся, они под парусами провели шлюпки сквозь череду штормов к острову Элефант — скалистому, пустынному месту вдали от морских путей. Там их никто бы никогда не нашёл. Иного выхода не было: кто-то должен был отправиться за помощью.
+
+
+    Шеклтон и пятеро его спутников вышли в семиметровой шлюпке, чтобы проплыть 1300 километров по самому опасному океану на Земле до острова Южная Георгия. Сильные течения и огромные волны каждую минуту грозили их потопить. Через шестнадцать дней они добрались до острова — но не с той стороны. Измученные, они тридцать шесть часов шли через неизведанные горы и ледники к китобойной станции.
+
+
+    Тем временем оставшиеся двадцать два человека ждали на острове Элефант, укрываясь под перевёрнутыми лодками. Шеклтон четыре раза пытался их спасти. В августе 1916 года ему наконец это удалось. Выжили все до единого. Примечательно, что за всё это испытание почти не было ни конфликтов, ни насилия. Шеклтон с уважением относился к каждому, от робкого до сильного, и его стиль руководства изучают до сих пор.
+
+    '
+  questions:
+  - q: What happened to the Endurance?
+    options:
+    - It reached Antarctica safely
+    - It was crushed by ice and sank
+    - It hit a rock
+    - It was burned
+    answer: 1
+  - q: Why did someone have to go for help from Elephant Island?
+    options:
+    - It was dangerous
+    - No one would ever find them there
+    - There were enemies
+    - They had no boats
+    answer: 1
+  - q: How many men died?
+    options:
+    - Half of them
+    - Six
+    - None
+    - Twenty-two
+    answer: 2
+  - tf: Shackleton's advertisement promised a safe journey.
+    answer: false
+  - tf: Shackleton reached the whaling station by crossing mountains on foot.
+    answer: true
+- id: c1-13
+  v1_unit: Life on Tour
+  title: The Hidden Cost of Fame
+  title_ru: Скрытая цена славы
+  text: 'For many young musicians, going on tour seems like their destiny: travelling the world, playing to huge crowds and signing autographs for adoring fans. The reality, however, is often far less glamorous.
+
+
+    Most bands begin their careers touring in a small van, packed with instruments, equipment and everyone''s stuff. They drive for hours between cities, sleep in cheap hotels or on friends'' floors, and eat whatever they can find at petrol stations. Even for successful artists flying between continents, the schedule can be a nightmare. A world tour might include a hundred concerts in six months, with performers crossing several time zones in a single week.
+
+
+    One of the biggest problems is jet lag. When we travel quickly across time zones, our body clock lags behind the local time. This affects sleep, digestion and concentration. Performers often become irritable and exhausted, and some develop serious health problems. Doctors warn that constant touring can also take a toll on mental health. Loneliness, pressure and the sudden silence after a concert can be overwhelming. In interviews, several famous musicians have described the strange, empty feeling of returning to a hotel room after performing for 50,000 people.
+
+
+    Many artists now take their health more seriously. Some travel with a personal chef who prepares nutritious meals rich in protein and vegetables. Others bring a fitness coach and do a daily workout, even in the busiest weeks. A popular singer recently explained that she avoids caffeine late in the day and brews herbal tea before bed. Several bands have even cancelled tours to protect their wellbeing — something that would once have been unthinkable.
+
+
+    Of course, the stage still has its charm. The roar of the crowd, the lights and the music can make all the difficulties disappear, at least for two hours. But behind the beads of sweat and the signature songs, there are human beings who need rest like everyone else.
+
+    '
+  ru: 'Многим молодым музыкантам гастроли кажутся их судьбой: путешествовать по миру, выступать перед огромными толпами и раздавать автографы обожающим фанатам. Однако реальность часто куда менее блестящая.
+
+
+    Большинство групп начинают карьеру, гастролируя в маленьком фургоне, набитом инструментами, аппаратурой и вещами всех участников. Они часами едут между городами, спят в дешёвых гостиницах или на полу у друзей и едят то, что найдут на заправках. Даже для успешных артистов, летающих между континентами, график может быть кошмаром. Мировое турне может включать сто концертов за полгода, причём за одну неделю исполнители пересекают несколько часовых поясов.
+
+
+    Одна из главных проблем — смена часовых поясов. Когда мы быстро перемещаемся через часовые пояса, наши внутренние часы отстают от местного времени. Это сказывается на сне, пищеварении и концентрации. Артисты часто становятся раздражительными и измотанными, а у некоторых возникают серьёзные проблемы со здоровьем. Врачи предупреждают, что постоянные гастроли могут подорвать и психическое здоровье. Одиночество, давление и внезапная тишина после концерта могут быть невыносимы. В интервью несколько знаменитых музыкантов описывали странное чувство пустоты, когда возвращаешься в гостиничный номер после выступления перед 50 000 человек.
+
+
+    Сегодня многие артисты относятся к здоровью серьёзнее. Некоторые путешествуют с личным поваром, который готовит питательную еду с большим количеством белка и овощей. Другие берут с собой фитнес-тренера и тренируются каждый день, даже в самые загруженные недели. Одна популярная певица недавно рассказала, что избегает кофеина во второй половине дня и заваривает травяной чай перед сном. Несколько групп даже отменили туры, чтобы сохранить здоровье, — раньше такое было бы немыслимо.
+
+
+    Конечно, у сцены по-прежнему есть своё очарование. Рёв толпы, огни и музыка способны заставить исчезнуть все трудности — хотя бы на два часа. Но за каплями пота и фирменными хитами стоят живые люди, которым нужен отдых, как и всем остальным.
+
+    '
+  questions:
+  - q: How do most bands begin touring?
+    options:
+    - In private jets
+    - In a small van
+    - By train
+    - They don't tour
+    answer: 1
+  - q: What does jet lag affect, according to the text?
+    options:
+    - Only sleep
+    - Sleep, digestion and concentration
+    - The voice
+    - Nothing important
+    answer: 1
+  - q: What have some bands done recently to protect their wellbeing?
+    options:
+    - Played more concerts
+    - Cancelled tours
+    - Stopped making music
+    - Moved abroad
+    answer: 1
+  - tf: Touring is always glamorous and relaxing.
+    answer: false
+  - tf: Some artists travel with a personal chef.
+    answer: true
+- id: c1-14
+  v1_unit: The Family Bakery
+  title: Bread and Forgiveness
+  title_ru: Хлеб и прощение
+  text: 'For three generations, the Moretti family had run a small bakery in the old part of town. Every morning at five, Giorgio Moretti opened the shutters, lit the brick oven and began to mix the dough. He sifted the flour by hand, the way his grandfather had taught him, and he sprinkled the loaves with seeds before baking. By seven, a queue of customers would be waiting outside.
+
+
+    Giorgio''s son, Luca, had grown up in the bakery, but he wanted something different. At eighteen, he announced that he was going to study business in Milan. Giorgio flushed red and banged his fist on the counter. "Our family has made bread for eighty years," he shouted. "You''re ruining everything!" Luca left the next day. For seven years, the two men did not utter a single word to each other.
+
+
+    Then, one winter, Giorgio injured his back lifting heavy bags of flour. The doctor told him to rest for three months. The bakery would have to close. Luca''s mother called him in Milan. There was a slight pause on the line. "I''ll come," he said.
+
+
+    At first, the atmosphere in the bakery was tense. Luca had modern ideas: flexible opening hours, online orders, new recipes. Giorgio sat in a chair in the corner and criticized everything. "The mixture is too wet. There are lumps in the dough. That bread will be stale by lunchtime." But slowly, something changed. Luca began to ask his father for advice, and Giorgio began to listen to his son''s ideas.
+
+
+    One morning, Luca baked the old family loaf exactly as his great-grandfather had. When Giorgio tasted it, the hard crust crumbled in his hand, and his eyes sparkled with tears. He found it hard to express his feelings, so he simply said, "It''s perfect." Something that had been shattered years before was finally mended. Father and son were reconciled. Today, the bakery sells both the traditional loaves and Luca''s new creations — and the queue outside is longer than ever.
+
+    '
+  ru: 'Три поколения семья Моретти держала маленькую пекарню в старой части города. Каждое утро в пять Джорджо Моретти открывал ставни, разжигал кирпичную печь и начинал замешивать тесто. Он просеивал муку вручную, как учил его дед, и посыпал буханки семечками перед выпечкой. К семи у дверей уже выстраивалась очередь покупателей.
+
+
+    Сын Джорджо, Лука, вырос в пекарне, но хотел чего-то другого. В восемнадцать он объявил, что едет изучать бизнес в Милан. Джорджо побагровел и ударил кулаком по прилавку. «Наша семья печёт хлеб восемьдесят лет! — кричал он. — Ты всё губишь!» На следующий день Лука уехал. Семь лет отец и сын не сказали друг другу ни слова.
+
+
+    А потом однажды зимой Джорджо повредил спину, поднимая тяжёлые мешки с мукой. Врач велел ему три месяца отдыхать. Пекарню пришлось бы закрыть. Мать Луки позвонила ему в Милан. На линии повисла небольшая пауза. «Я приеду», — сказал он.
+
+
+    Сначала обстановка в пекарне была напряжённой. У Луки были современные идеи: гибкий график работы, онлайн-заказы, новые рецепты. Джорджо сидел на стуле в углу и всё критиковал: «Смесь слишком жидкая. В тесте комки. Этот хлеб к обеду зачерствеет». Но понемногу что-то изменилось. Лука стал спрашивать у отца совета, а Джорджо — прислушиваться к идеям сына.
+
+
+    Однажды утром Лука испёк старый семейный хлеб точно так, как пёк его прадед. Когда Джорджо попробовал, твёрдая корочка раскрошилась у него в руке, а в глазах блеснули слёзы. Ему было трудно выразить свои чувства, и он просто сказал: «Идеально». То, что разбилось много лет назад, наконец было склеено. Отец и сын помирились. Сегодня пекарня продаёт и традиционный хлеб, и новые творения Луки — а очередь у дверей длиннее, чем когда-либо.
+
+    '
+  questions:
+  - q: Why did Giorgio get angry with Luca?
+    options:
+    - Luca broke the oven
+    - Luca decided to study business in Milan
+    - Luca sold the bakery
+    - Luca was late
+    answer: 1
+  - q: Why did Luca come back?
+    options:
+    - He lost his job
+    - His father injured his back
+    - He missed the bread
+    - The bakery was sold
+    answer: 1
+  - q: What does the bakery sell today?
+    options:
+    - Only traditional loaves
+    - Only Luca's new creations
+    - Both traditional loaves and new creations
+    - Cakes only
+    answer: 2
+  - tf: Father and son spoke regularly during the seven years.
+    answer: false
+  - tf: Giorgio was moved when he tasted the traditional loaf.
+    answer: true
+- id: c1-15
+  v1_unit: Earth's Evil Twin
+  title: 'Venus: A Warning From Space'
+  title_ru: 'Венера: предупреждение из космоса'
+  text: 'On a clear evening, Venus is often the brightest object in the sky after the Moon. People sometimes confuse it with a star, and in many cultures it was a beloved symbol of beauty and love. Venus is almost exactly the same size as Earth and is our nearest planetary neighbour. For this reason, it is often called Earth''s twin. Yet anyone who arrived there in a spaceship would find not paradise, but a place of unimaginable misery.
+
+
+    The surface of Venus is a furnace. Temperatures reach around 465°C — hot enough to melt lead — and it is even hotter than Mercury, although Mercury is closer to the Sun. The air pressure is about ninety times higher than on Earth, similar to being a kilometre under the sea. Thick clouds of sulphuric acid cover the entire planet.
+
+
+    Prior to the 1960s, some scientists imagined that Venus might be covered in warm swamps or oceans. Then the Soviet Union sent a series of probes to measure conditions on the surface. The first ones were crushed by the pressure before they arrived. In 1970, Venera 7 became the first spacecraft to land and send back data from another planet. It survived for just twenty-three minutes.
+
+
+    Why did Venus become so different from Earth? Research has established that it may once have had liquid water and a milder climate. However, as the young Sun grew brighter, the water evaporated. Water vapour and carbon dioxide trapped more and more heat in a "runaway greenhouse effect". The planet''s temperature rose, and the process could not be stopped. Today, its atmosphere is ninety-six percent carbon dioxide.
+
+
+    Of course, the same physical laws apply on Earth. Scientists stress that our planet is not in danger of becoming another Venus. But as we find ourselves in the midst of our own climate crisis, Venus is a powerful reminder of what greenhouse gases can do. Several new missions are due to visit the planet in the 2030s, and scientists eagerly await what they will discover.
+
+    '
+  ru: 'Ясным вечером Венера часто бывает самым ярким объектом на небе после Луны. Её порой путают со звездой, и во многих культурах она была любимым символом красоты и любви. Венера почти точно такого же размера, как Земля, и это наша ближайшая соседка среди планет. Поэтому её часто называют близнецом Земли. Однако тот, кто прибыл бы туда на космическом корабле, нашёл бы не рай, а место невообразимых страданий.
+
+
+    Поверхность Венеры — раскалённая печь. Температура достигает около 465 °C — этого хватит, чтобы расплавить свинец, — и там даже жарче, чем на Меркурии, хотя Меркурий ближе к Солнцу. Атмосферное давление примерно в девяносто раз выше земного — как на глубине километра под водой. Всю планету окутывают плотные облака серной кислоты.
+
+
+    До 1960-х годов некоторые учёные представляли, что Венера может быть покрыта тёплыми болотами или океанами. Затем Советский Союз отправил серию зондов для измерения условий на поверхности. Первые из них были раздавлены давлением ещё до посадки. В 1970 году «Венера-7» стала первым космическим аппаратом, совершившим посадку на другую планету и передавшим оттуда данные. Он проработал всего двадцать три минуты.
+
+
+    Почему Венера стала такой непохожей на Землю? Исследования установили, что когда-то на ней, возможно, была жидкая вода и более мягкий климат. Но по мере того как молодое Солнце становилось ярче, вода испарилась. Водяной пар и углекислый газ удерживали всё больше тепла — возник «неудержимый парниковый эффект». Температура планеты росла, и остановить процесс было невозможно. Сегодня её атмосфера на девяносто шесть процентов состоит из углекислого газа.
+
+
+    Разумеется, на Земле действуют те же законы физики. Учёные подчёркивают, что нашей планете не грозит стать второй Венерой. Но сейчас, когда мы находимся в разгаре собственного климатического кризиса, Венера служит мощным напоминанием о том, на что способны парниковые газы. В 2030-х годах к планете должны отправиться несколько новых миссий, и учёные с нетерпением ждут, что они обнаружат.
+
+    '
+  questions:
+  - q: Why is Venus called Earth's twin?
+    options:
+    - It has life
+    - It is almost the same size as Earth
+    - It has oceans
+    - It has the same temperature
+    answer: 1
+  - q: How long did Venera 7 survive on the surface?
+    options:
+    - Twenty-three days
+    - Twenty-three minutes
+    - Two hours
+    - One year
+    answer: 1
+  - q: What made Venus so hot?
+    options:
+    - Volcanoes only
+    - A runaway greenhouse effect
+    - Its distance from the Sun
+    - Its moons
+    answer: 1
+  - tf: Venus is hotter than Mercury.
+    answer: true
+  - tf: Scientists say Earth will soon become another Venus.
+    answer: false
+- id: c1-16
+  v1_unit: Discipline Then and Now
+  title: Spare the Rod?
+  title_ru: Пожалеть розгу?
+  text: 'In a small museum in northern England, visitors can step into a classroom from 1900. There are wooden desks in neat rows, slates for writing, and hoops that children played with during break. On the teacher''s desk lies a long, thin stick called a cane. It offers a glimpse into a time when physical punishment was a normal part of school life.
+
+
+    For centuries, it was the custom in many countries for teachers to hit children who were disobedient, lazy or simply slow. Pupils could be caned for talking, for being late or even for writing with their left hand. School records, an excellent source for historians, show some teachers recording dozens of punishments per week. Many adults who went to school in the mid-twentieth century still remember the misfortune of facing a stern headmaster, pleading for mercy, and going home with bruises on their hands.
+
+
+    People who supported the practice argued that it was for the children''s own sake. "Spare the rod and spoil the child," went a well-known saying: without punishment, children would grow up badly behaved. Few could foresee the negative effects it would have.
+
+
+    However, from the 1960s onwards, attitudes began to change. Researchers found that physical punishment did not improve behaviour in the long term. Instead, it was linked to anxiety, aggression and poorer learning. Parents and teachers became increasingly vehement in their opposition. Gradually, countries began to ban it. Sweden banned smacking children altogether, even at home, in 1979. Britain banned it in state schools in 1987.
+
+
+    Today, more than sixty countries have banned all forms of physical punishment of children, and international agreements bind many governments to protect children from violence. Modern teachers use very different methods: praise, clear rules and conversation. Of course, discipline is still needed. But most experts agree that a child who feels respected is far more likely to learn than one who is afraid.
+
+    '
+  ru: 'В небольшом музее на севере Англии посетители могут войти в класс 1900 года. Там стоят ровные ряды деревянных парт, грифельные доски для письма и обручи, с которыми дети играли на перемене. На учительском столе лежит длинная тонкая палка — трость для наказаний. Она позволяет заглянуть во времена, когда телесные наказания были обычной частью школьной жизни.
+
+
+    Веками во многих странах учителя по обычаю били детей, которые были непослушными, ленивыми или просто медлительными. Учеников могли наказать тростью за разговоры, опоздание или даже за то, что они писали левой рукой. Школьные журналы — превосходный источник для историков — показывают, что некоторые учителя записывали десятки наказаний в неделю. Многие взрослые, ходившие в школу в середине XX века, до сих пор помнят, как им не повезло оказаться перед суровым директором, как они умоляли о пощаде и уходили домой с синяками на руках.
+
+
+    Сторонники этой практики утверждали, что это делается для блага самих детей. «Пожалеешь розгу — испортишь ребёнка», — гласила известная поговорка: без наказаний дети вырастут невоспитанными. Мало кто мог предвидеть, к каким негативным последствиям это приведёт.
+
+
+    Однако с 1960-х годов отношение начало меняться. Исследователи обнаружили, что телесные наказания не улучшают поведение в долгосрочной перспективе. Напротив, они связаны с тревожностью, агрессией и худшей успеваемостью. Родители и учителя всё яростнее выступали против. Постепенно страны начали их запрещать. Швеция в 1979 году полностью запретила шлепать детей, даже дома. Британия запретила телесные наказания в государственных школах в 1987 году.
+
+
+    Сегодня более шестидесяти стран запретили все формы телесных наказаний детей, а международные соглашения обязывают многие правительства защищать детей от насилия. Современные учителя используют совсем другие методы: похвалу, чёткие правила и разговор. Конечно, дисциплина по-прежнему нужна. Но большинство экспертов согласны: ребёнок, который чувствует уважение, учится гораздо охотнее, чем тот, кто боится.
+
+    '
+  questions:
+  - q: What can visitors see in the museum?
+    options:
+    - A modern classroom
+    - A classroom from 1900
+    - A prison
+    - A sports hall
+    answer: 1
+  - q: What did supporters of physical punishment believe?
+    options:
+    - It harmed children
+    - It was for the children's own good
+    - It was illegal
+    - It was only for adults
+    answer: 1
+  - q: What did researchers find about physical punishment?
+    options:
+    - It improved behaviour in the long term
+    - It was linked to anxiety, aggression and poorer learning
+    - It had no effect
+    - It made children more intelligent
+    answer: 1
+  - tf: Sweden banned smacking children altogether in 1979.
+    answer: true
+  - tf: Children were never punished for writing with their left hand.
+    answer: false
+- id: c1-17
+  v1_unit: The Lady with the Lamp
+  title: Florence Nightingale
+  title_ru: Флоренс Найтингейл
+  text: 'Florence Nightingale was born in 1820 into a wealthy British family. Women of her class were expected to marry and stay at home, but Florence believed she had a calling to care for the sick. Her parents were appalled. In those days, nursing was seen as a job for poor, uneducated women. Her family called her plans nonsense, but she refused to give up.
+
+
+    In 1854, Britain went to war against Russia in Crimea. Reports soon reached London about the grim conditions in army hospitals. Florence travelled to Turkey with thirty-eight nurses. What she found there was shocking. Wounded and ailing soldiers lay on dirty floors without blankets. There was little clean water, the drains were blocked, and rats ran everywhere. More soldiers were dying from fever and gut infections, such as cholera, than from their wounds.
+
+
+    At first, the army physicians resented her. But Florence''s energy seemed to know no bounds. She organized the cleaning of the wards, set up kitchens and laundries, and made sure patients were bathed and fed. At night, she walked through the wards carrying a lamp, checking on the soldiers in distress. They called her "the Lady with the Lamp", and her name became famous across Britain.
+
+
+    Her greatest contribution, however, may have been with numbers. Florence was a talented mathematician. She collected detailed statistics and used them to show that most deaths were preventable. Her colourful diagrams were among the first of their kind and made her critique of army hospitals impossible to ignore. Today she is regarded as a pioneer in the use of statistics and demography in medicine.
+
+
+    After the war, she founded the first professional school for nurses in London. Her ideas about hygiene, fresh air and careful observation transformed hospitals. Some saw her as a miracle worker; others found her too militant and demanding. When she died in 1910, the nation mourned. Every year, International Nurses Day is celebrated on her birthday, 12 May — a tribute honoured by nurses and patients alike.
+
+    '
+  ru: 'Флоренс Найтингейл родилась в 1820 году в богатой британской семье. От женщин её круга ожидали, что они выйдут замуж и будут сидеть дома, но Флоренс считала своим призванием заботу о больных. Родители были в ужасе. В те времена работа сиделки считалась занятием для бедных необразованных женщин. Семья называла её планы вздором, но она не сдавалась.
+
+
+    В 1854 году Британия вступила в войну с Россией в Крыму. Вскоре в Лондон стали приходить сообщения об ужасающих условиях в армейских госпиталях. Флоренс с тридцатью восемью медсёстрами отправилась в Турцию. Увиденное там потрясало. Раненые и больные солдаты лежали на грязном полу без одеял. Чистой воды почти не было, стоки были забиты, повсюду бегали крысы. От лихорадки и кишечных инфекций, например холеры, умирало больше солдат, чем от ран.
+
+
+    Поначалу армейские врачи отнеслись к ней с неприязнью. Но энергия Флоренс, казалось, не знала границ. Она организовала уборку палат, устроила кухни и прачечные и следила, чтобы больных мыли и кормили. По ночам она обходила палаты с лампой в руках, проверяя страдающих солдат. Её называли «Дамой с лампой», и её имя прославилось по всей Британии.
+
+
+    Однако её главный вклад, возможно, был связан с цифрами. Флоренс была талантливым математиком. Она собирала подробную статистику и с её помощью показала, что большинства смертей можно было избежать. Её красочные диаграммы были одними из первых в своём роде и сделали её критику армейских госпиталей невозможной для игнорирования. Сегодня её считают первопроходцем в применении статистики и демографии в медицине.
+
+
+    После войны она основала в Лондоне первую профессиональную школу медсестёр. Её идеи о гигиене, свежем воздухе и внимательном наблюдении преобразили больницы. Одни видели в ней чудотворицу, другие считали её слишком воинственной и требовательной. Когда она умерла в 1910 году, страна была в трауре. Каждый год в её день рождения, 12 мая, отмечается Международный день медицинской сестры — дань уважения, которую чтят как медсёстры, так и пациенты.
+
+    '
+  questions:
+  - q: How did Florence's family react to her plans?
+    options:
+    - They supported her
+    - They were appalled
+    - They paid for her training
+    - They didn't care
+    answer: 1
+  - q: What were most soldiers dying from in the hospitals?
+    options:
+    - Their wounds
+    - Fever and gut infections
+    - Cold
+    - Old age
+    answer: 1
+  - q: What was one of her greatest contributions?
+    options:
+    - Inventing a new medicine
+    - Using statistics to show deaths were preventable
+    - Leading the army
+    - Building ships
+    answer: 1
+  - tf: The army physicians welcomed her immediately.
+    answer: false
+  - tf: International Nurses Day is celebrated on her birthday.
+    answer: true
+- id: c1-18
+  v1_unit: The Hermit of the Woods
+  title: 27 Years Alone
+  title_ru: 27 лет в одиночестве
+  text: 'In 1986, a twenty-year-old man named Christopher Knight drove into the forests of Maine, in the north-east of the United States, left his car and walked into the woods. He told no one where he was going. He did not return for twenty-seven years.
+
+
+    Knight built a hidden camp in the forest, near a lake. He covered his tent with branches so it could not be seen. During the freezing Maine winters, when temperatures fell to −30°C, he survived by waking at two in the morning and walking around to keep warm. In all those years, he spoke to another person only once, when he passed a walker in the woods and said "hi".
+
+
+    But Knight was not completely self-sufficient. To get food and supplies, he broke into nearby holiday cabins, usually when their owners were away. Over the years, he committed about a thousand burglaries, taking tinned food, books, batteries, gloves and warm clothes. For local people, the mysterious thief became a legend. Some found it almost comic; others were frightened. Many locked their basements and fitted alarms, which only complicated his life.
+
+
+    In 2013, a game warden finally caught him stealing from a summer camp. When police questioned him, Knight blinked nervously and spoke slowly, as if he had forgotten how. At first, he declined to say much. Later, he explained that he had never felt comfortable around people. He had pondered his decision many times but felt no regret. In the forest, he said, he had found a peace that society could not offer.
+
+
+    Knight was sentenced to seven months in jail. Many people argued about whether he had been treated justly. He was a thief, but he had never hurt anyone. After his release, he moved in with family, got a job and ran errands for his mother — but he never seemed happy in the modern world. His strange story has inspired books, articles and even a film script, all asking the same question: what makes a person choose to live as a hermit?
+
+    '
+  ru: 'В 1986 году двадцатилетний Кристофер Найт заехал в леса штата Мэн на северо-востоке США, бросил машину и ушёл в чащу. Он никому не сказал, куда направляется. Вернулся он только через двадцать семь лет.
+
+
+    Найт устроил в лесу у озера скрытый лагерь. Он маскировал палатку ветками, чтобы её не было видно. Суровыми зимами в Мэне, когда температура опускалась до −30 °C, он выживал, просыпаясь в два часа ночи и расхаживая, чтобы не замёрзнуть. За все эти годы он заговорил с человеком лишь однажды — когда встретил в лесу туриста и сказал ему «привет».
+
+
+    Но Найт не был полностью самодостаточным. Чтобы добыть еду и необходимые вещи, он проникал в соседние дачные домики — обычно когда хозяев не было. За эти годы он совершил около тысячи краж, забирая консервы, книги, батарейки, перчатки и тёплую одежду. Для местных таинственный вор стал легендой. Одним это казалось почти комичным, другие боялись. Многие запирали подвалы и ставили сигнализацию, что лишь усложняло ему жизнь.
+
+
+    В 2013 году егерь наконец поймал его, когда он воровал в летнем лагере. Когда полиция его допрашивала, Найт нервно моргал и говорил медленно, словно разучился. Поначалу он отказывался много рассказывать. Позже он объяснил, что никогда не чувствовал себя комфортно среди людей. Он много раз обдумывал своё решение, но ни о чём не жалел. В лесу, по его словам, он нашёл покой, который общество дать не могло.
+
+
+    Найта приговорили к семи месяцам тюрьмы. Многие спорили, справедливо ли с ним обошлись. Он был вором, но никому никогда не причинил вреда. После освобождения он переехал к родным, устроился на работу и выполнял поручения матери, но в современном мире так и не выглядел счастливым. Его странная история вдохновила книги, статьи и даже сценарий фильма, и все они задаются одним вопросом: что заставляет человека выбрать жизнь отшельника?
+
+    '
+  questions:
+  - q: How long did Knight live in the forest?
+    options:
+    - Seven years
+    - Twenty-seven years
+    - Seven months
+    - Forty years
+    answer: 1
+  - q: How did Knight get food and supplies?
+    options:
+    - He hunted animals
+    - He broke into holiday cabins
+    - Friends brought them
+    - He grew vegetables
+    answer: 1
+  - q: How did Knight survive the cold winters?
+    options:
+    - He lit large fires
+    - He woke at 2 am and walked around to keep warm
+    - He stayed in cabins
+    - He slept all day
+    answer: 1
+  - tf: Knight spoke to many people while living in the woods.
+    answer: false
+  - tf: Knight never hurt anyone.
+    answer: true
+- id: c1-19
+  v1_unit: Afraid of Flying
+  title: How I Beat My Fear of Flying
+  title_ru: Как я победил страх полётов
+  text: 'For fifteen years, I refused to get on a plane. My fear began with an unfortunate experience when I was twenty: a flight through a storm, during which the plane dropped suddenly and several passengers screamed. I still have a vivid memory of the drinks flying off the trays. From then on, even the thought of flying put me in a state of panic. I missed weddings, holidays and a job opportunity abroad.
+
+
+    I''m not alone. Experts estimate that as many as one in four people are afflicted by some degree of fear of flying. For some, it''s a mild nervousness; for others, it can lead to a kind of breakdown. The irony is that flying is extremely safe. Statistically, you are far more likely to be hurt driving to the airport than on the plane itself.
+
+
+    Eventually, I signed up for a course run by an airline. A pilot explained how planes work, why turbulence is uncomfortable but not dangerous, and what all the strange noises mean — the engines changing speed, the wheels moving, the cargo doors closing. Simply understanding the facts helped me retain a sense of calm. A psychologist taught us breathing techniques that help you connect with your body and slow down your heart.
+
+
+    At the end of the course, we took a short flight together. I chose an aisle seat so I didn''t have to look out of the window. While the plane sat idle on the runway, I flipped through a magazine without reading a word. When we took off, I felt sick and was sure I would vomit. But I kept breathing slowly, and after twenty minutes, something changed. I looked around and noticed that the atmosphere was relaxed. People were reading, sleeping, eating raisins and peas from their meal boxes, etc. Nobody else was afraid.
+
+
+    Last month, I flew to Japan — a twelve-hour flight. I read four chapters of a novel by my favourite author and even slept a little. When the captain notified us that we were beginning our descent, I realized I was almost sorry it was over.
+
+    '
+  ru: 'Пятнадцать лет я отказывался садиться в самолёт. Мой страх начался с неудачного опыта, когда мне было двадцать: полёт сквозь грозу, во время которого самолёт резко провалился вниз и несколько пассажиров закричали. Я до сих пор ярко помню, как напитки слетали со столиков. С тех пор даже мысль о полёте вызывала у меня панику. Я пропускал свадьбы, отпуска и возможность работать за границей.
+
+
+    Я не одинок. По оценкам специалистов, в той или иной степени от страха полётов страдает каждый четвёртый. У одних это лёгкое волнение, у других может дойти до своего рода срыва. Ирония в том, что летать чрезвычайно безопасно. По статистике, куда вероятнее пострадать по дороге в аэропорт, чем в самом самолёте.
+
+
+    В конце концов я записался на курс, который проводила одна авиакомпания. Пилот объяснил, как устроены самолёты, почему турбулентность неприятна, но не опасна, и что означают все эти странные звуки: двигатели меняют обороты, выпускаются шасси, закрываются двери грузового отсека. Простое понимание фактов помогло мне сохранять спокойствие. Психолог научил нас дыхательным техникам, которые помогают почувствовать своё тело и замедлить сердцебиение.
+
+
+    В конце курса мы вместе совершили короткий полёт. Я выбрал место у прохода, чтобы не смотреть в окно. Пока самолёт стоял на взлётной полосе, я листал журнал, не прочитав ни слова. Когда мы взлетели, меня замутило, и я был уверен, что меня вырвет. Но я продолжал медленно дышать, и минут через двадцать что-то изменилось. Я огляделся и заметил, что атмосфера спокойная. Люди читали, спали, ели изюм и горошек из своих ланч-боксов и так далее. Больше никто не боялся.
+
+
+    В прошлом месяце я летал в Японию — двенадцать часов полёта. Я прочитал четыре главы романа любимого автора и даже немного поспал. Когда капитан объявил, что мы начинаем снижение, я понял, что мне почти жаль, что полёт закончился.
+
+    '
+  questions:
+  - q: What caused the writer's fear of flying?
+    options:
+    - A film
+    - A flight through a storm
+    - A plane crash on TV
+    - A dream
+    answer: 1
+  - q: What did the pilot explain on the course?
+    options:
+    - How to fly a plane
+    - How planes work and why turbulence isn't dangerous
+    - How to avoid airports
+    - How to sleep on planes
+    answer: 1
+  - q: Why did the writer choose an aisle seat?
+    options:
+    - To get food first
+    - So he didn't have to look out of the window
+    - To be near the toilet
+    - It was cheaper
+    answer: 1
+  - tf: Flying is statistically more dangerous than driving to the airport.
+    answer: false
+  - tf: The writer flew to Japan last month.
+    answer: true
+- id: c1-20
+  v1_unit: The Price of Ambition
+  title: Traffic Jam on Everest
+  title_ru: Пробка на Эвересте
+  text: 'In May 2019, a photograph shocked the world. It showed a long line of climbers standing in the snow on a narrow ridge just below the summit of Mount Everest. They were not admiring the view; they were waiting. Hundreds of people had arrived at the top of the world at the same time, and the queue lasted for hours.
+
+
+    For most climbers, reaching the summit of Everest, at 8,849 metres, is the ambition of a lifetime. In the past, only highly experienced mountaineers attempted it. Today, commercial companies offer guided expeditions to anyone who can pay — often more than $50,000. As a result, large contingents of climbers, some with limited experience, crowd the mountain every spring.
+
+
+    There is only a short period each year, usually in mid-May, when the winds are calm enough to reach the top. Teams check their calendars and weather forecasts constantly, waiting for the right moment. When the window opens, everyone goes at once.
+
+
+    Above 8,000 metres lies what climbers call the "death zone". Here, the air contains only a third of the oxygen at sea level. Every step requires enormous effort, and climbers must exert themselves while their bodies are slowly dying. Lack of oxygen impairs judgement, making people impatient or confused. Even with excellent nutrition, it is impossible to eat enough to replace the thousands of calories burned each day.
+
+
+    That is why climbers set a strict deadline: if they have not reached the summit by a certain time, usually around two in the afternoon, they must turn back. But after months of training and huge expense, many find it hard to give up so close to the top. In 2019, the long queues meant many climbers spent too long in the death zone. Eleven people died that season.
+
+
+    There is no ambulance on Everest. If someone collapses or breaks an ankle high on the mountain, rescue is extremely difficult. Some experts now want to limit the number of permits or forbid inexperienced climbers. Others remain optimists, believing that better organization can make the mountain safer. Either way, Everest teaches a hard lesson: on the world''s highest mountain, knowing when to turn back may be the greatest skill of all.
+
+    '
+  ru: 'В мае 2019 года мир потрясла одна фотография. На ней была длинная очередь альпинистов, стоявших в снегу на узком гребне чуть ниже вершины Эвереста. Они не любовались видом — они ждали. Сотни людей одновременно оказались на вершине мира, и очередь растянулась на часы.
+
+
+    Для большинства альпинистов покорить вершину Эвереста высотой 8849 метров — мечта всей жизни. Раньше на это решались только очень опытные альпинисты. Сегодня коммерческие компании предлагают экспедиции с гидами всем, кто может заплатить, — нередко более 50 000 долларов. В результате каждую весну на гору приходят большие группы альпинистов, причём некоторые с небольшим опытом.
+
+
+    Каждый год есть лишь короткий период, обычно в середине мая, когда ветер достаточно слаб, чтобы подняться на вершину. Команды постоянно сверяются с календарём и прогнозами погоды, ожидая подходящего момента. Когда окно открывается, идут все сразу.
+
+
+    Выше 8000 метров начинается то, что альпинисты называют «зоной смерти». Здесь в воздухе лишь треть того кислорода, что на уровне моря. Каждый шаг требует огромных усилий, и альпинистам приходится выкладываться, пока их организм медленно умирает. Недостаток кислорода ухудшает способность рассуждать, люди становятся нетерпеливыми или растерянными. Даже при отличном питании невозможно съесть достаточно, чтобы восполнить тысячи сжигаемых за день калорий.
+
+
+    Поэтому альпинисты устанавливают строгий крайний срок: если к определённому времени, обычно около двух часов дня, они не достигли вершины, они должны повернуть назад. Но после месяцев тренировок и огромных затрат многим трудно сдаться так близко к цели. В 2019 году из-за длинных очередей многие альпинисты провели в зоне смерти слишком много времени. В тот сезон погибли одиннадцать человек.
+
+
+    На Эвересте нет скорой помощи. Если кто-то падает без сил или ломает лодыжку высоко на горе, спасти его крайне трудно. Некоторые эксперты хотят ограничить количество разрешений или запретить восхождения неопытным альпинистам. Другие остаются оптимистами и считают, что лучшая организация может сделать гору безопаснее. Так или иначе, Эверест преподаёт жёсткий урок: на самой высокой горе мира умение вовремя повернуть назад — возможно, важнейший навык.
+
+    '
+  questions:
+  - q: What did the 2019 photograph show?
+    options:
+    - An avalanche
+    - A long queue of climbers near the summit
+    - A helicopter rescue
+    - An empty mountain
+    answer: 1
+  - q: What is the 'death zone'?
+    options:
+    - The base camp
+    - The area above 8,000 metres with very little oxygen
+    - A dangerous glacier
+    - The way down
+    answer: 1
+  - q: Why do climbers set a deadline?
+    options:
+    - To catch their flight
+    - To turn back if they haven't reached the summit in time
+    - To save money
+    - To take photos
+    answer: 1
+  - tf: Only highly experienced climbers attempt Everest today.
+    answer: false
+  - tf: Lack of oxygen can make people confused and impatient.
+    answer: true
+- id: c1-21
+  v1_unit: 'Snakes: Myth and Medicine'
+  title: From Poison to Medicine
+  title_ru: От яда к лекарству
+  text: 'For thousands of years, snakes have inspired fear and fascination in equal measure. They appear in myths, religions and folklore all over the world. In the Bible, a snake tempts Eve in the Garden of Eden. In ancient Egypt, the cobra was a symbol of royal power. In Hindu tradition, snakes are protectors of water and treasure. Snakes have also slithered through world literature, from ancient Greek plays to modern fantasy novels.
+
+
+    One of the oldest symbols in medicine is a snake wrapped around a stick. It belongs to Asclepius, the Greek god of healing, and has been used by doctors for well over two millennia. Ancient storytellers related how snakes, which shed their skin, represented renewal and healing. Even today, many ambulances and medical organizations carry the symbol.
+
+
+    It may seem strange to connect snakes with healing, given that their venom kills tens of thousands of people every year, mostly in poor rural areas. But modern science has discovered that venom is not just a poison. It is a complex mixture of proteins that act very precisely on the body — on the blood, the heart and the nerves. Scientists from a pharmaceutical background realized that these powerful substances could be turned into medicines.
+
+
+    One of the most famous examples came from a Brazilian pit viper. Researchers noticed that its venom caused a sudden fall in blood pressure. In the 1970s, they used this discovery to develop a drug that has since helped millions of people with heart disease. Other drugs based on venom help to prevent blood clots in veins and arteries. Scientists are also studying venoms to treat pain, cancer and diseases of the brain.
+
+
+    Snake bites remain a serious problem, and the World Health Organization is working to promote better treatment and update guidelines. Researchers are developing new antivenoms that are cheaper and more trustworthy than those made the traditional way. Unfortunately, these projects require large sums of money, and funding is limited. Still, the story of venom shows how something we fear can become a source of healing.
+
+    '
+  ru: 'Тысячи лет змеи вызывают в равной мере страх и восхищение. Они встречаются в мифах, религиях и фольклоре по всему миру. В Библии змей искушает Еву в Эдемском саду. В Древнем Египте кобра была символом царской власти. В индуизме змеи — хранители воды и сокровищ. Змеи проползли и через мировую литературу — от древнегреческих пьес до современных фэнтези-романов.
+
+
+    Один из древнейших символов медицины — змея, обвивающая посох. Он принадлежит Асклепию, греческому богу врачевания, и врачи используют его уже более двух тысячелетий. Древние рассказчики объясняли, что змеи, сбрасывающие кожу, олицетворяют обновление и исцеление. Этот символ и сегодня можно увидеть на многих машинах скорой помощи и эмблемах медицинских организаций.
+
+
+    Может показаться странным связывать змей с исцелением, ведь от их яда ежегодно умирают десятки тысяч людей, в основном в бедных сельских районах. Но современная наука обнаружила, что яд — это не просто отрава. Это сложная смесь белков, которые очень точно действуют на организм — на кровь, сердце и нервы. Учёные с фармацевтическим образованием поняли, что эти мощные вещества можно превратить в лекарства.
+
+
+    Один из самых известных примеров связан с бразильской ямкоголовой змеёй. Исследователи заметили, что её яд вызывает резкое падение давления. В 1970-х годах на основе этого открытия создали препарат, который с тех пор помог миллионам людей с болезнями сердца. Другие лекарства на основе ядов помогают предотвращать образование тромбов в венах и артериях. Учёные изучают яды и для лечения боли, рака и заболеваний мозга.
+
+
+    Укусы змей по-прежнему серьёзная проблема, и Всемирная организация здравоохранения работает над тем, чтобы продвигать более эффективное лечение и обновлять рекомендации. Исследователи разрабатывают новые противоядия — дешевле и надёжнее, чем изготовленные традиционным способом. К сожалению, такие проекты требуют больших сумм, а финансирование ограничено. И всё же история змеиного яда показывает, как то, чего мы боимся, может стать источником исцеления.
+
+    '
+  questions:
+  - q: What does the snake on a stick symbolize?
+    options:
+    - Danger
+    - Medicine and healing
+    - Royal power
+    - Treasure
+    answer: 1
+  - q: What is snake venom, according to modern science?
+    options:
+    - A simple poison
+    - A complex mixture of proteins that act precisely on the body
+    - A type of blood
+    - Water
+    answer: 1
+  - q: What did the Brazilian pit viper's venom lead to?
+    options:
+    - A cure for cancer
+    - A drug for heart disease
+    - A new antivenom
+    - A painkiller
+    answer: 1
+  - tf: Snake venom kills tens of thousands of people every year.
+    answer: true
+  - tf: Funding for antivenom research is unlimited.
+    answer: false
+- id: c1-22
+  v1_unit: The Emperor Who Changed
+  title: Ashoka the Great
+  title_ru: Ашока Великий
+  text: 'Around 268 BC, a young prince named Ashoka came to the throne of the Mauryan Empire, which covered much of what is now India. According to some later accounts, he had fought his brothers for power and was known for his violent temper. He wanted to expand the empire even further.
+
+
+    In about 261 BC, Ashoka invaded the kingdom of Kalinga, on India''s east coast. The war was terrible. Ancient sources describe how a hundred thousand people were killed and many more were taken away from their homes. Ashoka was the victor, but when he walked through the battlefield, he was filled with horror and pity. Instead of celebrating, he began to condemn what he had done.
+
+
+    What happened next is extraordinary in world history. Ashoka turned to Buddhism and its teachings of non-violence. He gave up wars of conquest and devoted himself to ruling with compassion. He ordered his scribes to carve his new ideas onto huge stone pillars and rocks across the empire, so that everyone could heed them. In these "edicts", he expressed deep regret for the war in Kalinga and asked his people to respect all living creatures.
+
+
+    Ashoka also put his ideas into practice. He built hospitals for people and animals, planted trees along roads, dug wells and created rest houses for travellers. Rather than favouring one religion, he tried to stay neutral and taught that no one should be persecuted for their beliefs. He believed that tolerance would bring unity to his vast empire of many peoples. Under his rule, commerce flourished, and goods travelled along safe roads to distant lands.
+
+
+    Some historians warn against seeing Ashoka as a perfect saint; he still ruled with a strong army, and he kept the death penalty. But his reforms showed a new idea of what a ruler could be. Today, the lion symbol from one of his pillars appears on India''s national emblem and banknotes — a reminder of an emperor who learned that the greatest victory is over oneself.
+
+    '
+  ru: 'Около 268 года до н. э. на престол империи Маурьев, охватывавшей большую часть нынешней Индии, взошёл молодой царевич Ашока. По некоторым более поздним свидетельствам, он боролся за власть со своими братьями и славился жестоким нравом. Он хотел ещё больше расширить империю.
+
+
+    Примерно в 261 году до н. э. Ашока вторгся в царство Калинга на восточном побережье Индии. Война была ужасной. Древние источники описывают, как сто тысяч человек были убиты, а ещё больше — угнаны из родных мест. Ашока победил, но, проходя по полю битвы, он был охвачен ужасом и жалостью. Вместо того чтобы праздновать, он начал осуждать содеянное.
+
+
+    То, что произошло дальше, — исключительный случай в мировой истории. Ашока обратился к буддизму и его учению о ненасилии. Он отказался от захватнических войн и посвятил себя милосердному правлению. Он приказал писцам высекать свои новые идеи на огромных каменных колоннах и скалах по всей империи, чтобы каждый мог им внять. В этих «эдиктах» он выражал глубокое сожаление о войне в Калинге и призывал народ уважать всех живых существ.
+
+
+    Ашока воплощал свои идеи на практике. Он строил больницы для людей и животных, сажал деревья вдоль дорог, копал колодцы и создавал постоялые дворы для путников. Вместо того чтобы отдавать предпочтение одной религии, он старался сохранять нейтралитет и учил, что никого нельзя преследовать за убеждения. Он верил, что терпимость принесёт единство его огромной империи, населённой многими народами. При нём процветала торговля, а товары шли по безопасным дорогам в далёкие земли.
+
+
+    Некоторые историки предостерегают от того, чтобы видеть в Ашоке безупречного святого: он по-прежнему правил с сильной армией и сохранил смертную казнь. Но его реформы показали новое представление о том, каким может быть правитель. Сегодня лев с одной из его колонн изображён на государственном гербе и банкнотах Индии — напоминание об императоре, который понял, что величайшая победа — победа над собой.
+
+    '
+  questions:
+  - q: What happened after the war in Kalinga?
+    options:
+    - Ashoka celebrated
+    - Ashoka was filled with horror and regret
+    - Ashoka lost the war
+    - Ashoka invaded another kingdom
+    answer: 1
+  - q: How did Ashoka spread his ideas?
+    options:
+    - Through books
+    - By carving them on stone pillars and rocks
+    - Through his army
+    - Through songs
+    answer: 1
+  - q: What was Ashoka's attitude to religion?
+    options:
+    - He banned all religions except Buddhism
+    - He tried to stay neutral and opposed persecution
+    - He didn't care about religion
+    - He forced people to convert
+    answer: 1
+  - tf: Some historians say Ashoka was a perfect saint.
+    answer: false
+  - tf: A symbol from Ashoka's pillar appears on India's national emblem.
+    answer: true
+- id: c1-23
+  v1_unit: After the Asteroid
+  title: The Day the Dinosaurs Died
+  title_ru: День, когда погибли динозавры
+  text: 'For more than 160 million years, dinosaurs ruled the Earth. Some were giant vegetarians that ate the leaves of tall trees; others were fierce hunters. Then, around 66 million years ago, they suddenly disappeared, together with about three quarters of all species on the planet. What happened?
+
+
+    In 1980, a father-and-son team, the physicist Luis Alvarez and the geologist Walter Alvarez, proposed a dramatic answer. They had analyzed a thin layer of clay found in rocks of that age around the world. It contained unusually high levels of iridium, a metal that is rare on Earth but common in asteroids. Their conclusion: a huge asteroid had hit the planet.
+
+
+    At first, the theory caused great controversy. Many scientists believed that slower factors, such as massive volcanic eruptions or gradual climate change, were responsible. But in the early 1990s, researchers identified an enormous crater, around 180 kilometres wide, buried beneath the Yucatán Peninsula in Mexico. Its age was identical to that of the clay layer. The discovery reinforced the asteroid theory, and today the majority of scientists accept it, although volcanoes may also have played a role.
+
+
+    Accurate computer models show what probably happened. The asteroid, about ten kilometres across, struck with the force of billions of atomic bombs. Fires spread across continents, and a vast cloud of dust and soot blocked the sunlight for months or even years. Plants died, and the animals that ate them starved.
+
+
+    Yet this disaster created an opportunity. Small mammals, which could regulate their body temperature and survive on little food, lived through the catastrophe. With the dinosaurs gone, they multiplied and evolved into a huge variety of forms — from whales to bats to primates. Genetic studies of the genomes of modern mammals show that many groups appeared soon after the impact. Without the asteroid, humans and our intellectual achievements might never have existed. And not all dinosaurs vanished: their feathered offspring are still with us today. We call them birds.
+
+    '
+  ru: 'Более 160 миллионов лет на Земле господствовали динозавры. Одни были гигантскими травоядными, поедавшими листья высоких деревьев, другие — свирепыми хищниками. А затем, около 66 миллионов лет назад, они внезапно исчезли вместе с примерно тремя четвертями всех видов на планете. Что произошло?
+
+
+    В 1980 году отец и сын — физик Луис Альварес и геолог Уолтер Альварес — предложили драматический ответ. Они проанализировали тонкий слой глины, обнаруженный в породах этого возраста по всему миру. Он содержал необычно много иридия — металла, редкого на Земле, но распространённого в астероидах. Их вывод: в планету врезался огромный астероид.
+
+
+    Сначала теория вызвала бурную полемику. Многие учёные считали, что виноваты более медленные факторы — например, мощные извержения вулканов или постепенное изменение климата. Но в начале 1990-х исследователи обнаружили огромный кратер шириной около 180 километров, погребённый под полуостровом Юкатан в Мексике. Его возраст совпал с возрастом глиняного слоя. Открытие подкрепило теорию астероида, и сегодня большинство учёных её принимает, хотя вулканы, возможно, тоже сыграли свою роль.
+
+
+    Точные компьютерные модели показывают, что, вероятно, произошло. Астероид диаметром около десяти километров ударил с силой миллиардов атомных бомб. По континентам распространились пожары, а огромное облако пыли и сажи на месяцы или даже годы закрыло солнечный свет. Растения погибли, а животные, питавшиеся ими, умерли от голода.
+
+
+    И всё же эта катастрофа открыла новые возможности. Мелкие млекопитающие, способные регулировать температуру тела и выживать на скудной пище, пережили бедствие. Когда динозавров не стало, они размножились и эволюционировали в огромное разнообразие форм — от китов до летучих мышей и приматов. Генетические исследования геномов современных млекопитающих показывают, что многие группы появились вскоре после удара. Без астероида люди и наши интеллектуальные достижения, возможно, никогда бы не появились. А динозавры исчезли не все: их пернатые потомки по-прежнему с нами. Мы называем их птицами.
+
+    '
+  questions:
+  - q: What did the Alvarez team find in the clay layer?
+    options:
+    - Dinosaur bones
+    - High levels of iridium
+    - Volcanic ash only
+    - Water
+    answer: 1
+  - q: Where was the crater found?
+    options:
+    - In Africa
+    - Under the Yucatán Peninsula in Mexico
+    - In the Pacific Ocean
+    - In Siberia
+    answer: 1
+  - q: Why did small mammals survive?
+    options:
+    - They hid in water
+    - They could regulate body temperature and survive on little food
+    - They were very large
+    - They ate dinosaurs
+    answer: 1
+  - tf: The asteroid theory was accepted immediately by all scientists.
+    answer: false
+  - tf: Birds are descendants of dinosaurs.
+    answer: true
+- id: c1-24
+  v1_unit: The Pot That Keeps Food Fresh
+  title: The Pot-in-Pot Cooler
+  title_ru: Охладитель «горшок в горшке»
+  text: 'In the hot, dry north of Nigeria, farming dominates the economy. But for families without electricity, there is a serious problem: food goes bad very quickly. Tomatoes and peppers picked in the morning may be rotten by the end of the day. Many families are forced to sell their vegetables immediately, often at low prices, which keeps them trapped in poverty.
+
+
+    In the 1990s, an obscure teacher named Mohammed Bah Abba found a brilliant solution. It did not require a machine or electricity — only two earthen pots, some sand and water. The idea was based on an ancient principle that skillful potters in the region had used for centuries to keep water cool.
+
+
+    The design is simple. A smaller clay pot is placed inside a larger one, and the space between them is filled with wet sandy soil. Food is placed in the inner pot, which is covered with a damp cloth. As the water in the sand evaporates through the outer pot, it takes heat away with it, cooling the inside. In a hostile climate where temperatures reach 40°C, the inner pot can stay as much as 15 degrees cooler.
+
+
+    The results were remarkable. Tomatoes that would have spoiled in two days stayed fresh for three weeks. Families could sell their produce when prices were higher. Bah Abba also noticed an important social change. Girls in the region were often kept home to sell food quickly at the market. With the cooler, they had time to go to school. Many families said the pots gave them a sense of dignity and control over their lives.
+
+
+    The pots can also keep certain medications cool, which is useful in rural clinics far from any pharmacy. Bah Abba won international awards, and the idea spread to other countries facing shortages of electricity. His invention shows that progress doesn''t always depend on high technology. Sometimes the best solutions are as simple as a bowl of wet sand.
+
+    '
+  ru: 'На жарком сухом севере Нигерии основа экономики — сельское хозяйство. Но у семей без электричества есть серьёзная проблема: еда очень быстро портится. Помидоры и перцы, сорванные утром, к концу дня могут сгнить. Многим семьям приходится продавать овощи сразу, часто по низким ценам, и это не даёт им вырваться из бедности.
+
+
+    В 1990-х годах никому не известный учитель Мохаммед Ба Абба нашёл гениальное решение. Для него не требовались ни машины, ни электричество — лишь два глиняных горшка, немного песка и вода. Идея опиралась на древний принцип, который искусные местные гончары веками использовали, чтобы держать воду прохладной.
+
+
+    Устройство простое. Горшок поменьше ставят в горшок побольше, а пространство между ними заполняют влажным песком. Еду кладут во внутренний горшок и накрывают его мокрой тканью. Когда вода в песке испаряется через внешний горшок, она уносит с собой тепло, охлаждая содержимое. В суровом климате, где температура доходит до 40 °C, внутри горшка может быть на целых 15 градусов прохладнее.
+
+
+    Результаты были поразительными. Помидоры, которые испортились бы за два дня, оставались свежими три недели. Семьи могли продавать урожай, когда цены были выше. Ба Абба заметил и важное социальное изменение. Девочек в регионе часто оставляли дома, чтобы они быстро продавали еду на рынке. С охладителем у них появилось время ходить в школу. Многие семьи говорили, что горшки дали им чувство собственного достоинства и контроль над своей жизнью.
+
+
+    В таких горшках можно хранить в прохладе и некоторые лекарства, что полезно для сельских больниц вдали от аптек. Ба Абба получил международные награды, а идея распространилась в другие страны, где не хватает электричества. Его изобретение показывает, что прогресс не всегда зависит от высоких технологий. Иногда лучшие решения просты, как миска мокрого песка.
+
+    '
+  questions:
+  - q: What problem did families in northern Nigeria face?
+    options:
+    - Too much rain
+    - Food went bad quickly without refrigeration
+    - No markets
+    - Too many vegetables
+    answer: 1
+  - q: How does the pot-in-pot cooler work?
+    options:
+    - With electricity
+    - Evaporating water from wet sand takes heat away
+    - With ice
+    - With a fan
+    answer: 1
+  - q: What social change did Bah Abba notice?
+    options:
+    - Boys stopped working
+    - Girls had time to go to school
+    - Families moved to cities
+    - Prices fell
+    answer: 1
+  - tf: The cooler requires expensive technology.
+    answer: false
+  - tf: Tomatoes could stay fresh for three weeks in the cooler.
+    answer: true
+- id: c1-25
+  v1_unit: Champions of Migration
+  title: 11 Days Without Stopping
+  title_ru: 11 дней без остановки
+  text: 'In October 2022, a small bird made headlines around the world. A five-month-old bar-tailed godwit, known only by its tag number, flew from Alaska to Tasmania in eleven days without stopping once. It traversed 13,560 kilometres of open ocean, setting a new world record for non-stop bird flight. Overnight, the bird became a celebrity.
+
+
+    Many species of birds migrate, but the bar-tailed godwit is one of the most extraordinary. Each spring, these hardy birds fly north to breed in the secluded tundra of Alaska. There, the parents nurture their chicks during the short Arctic summer. In autumn, they return to New Zealand and Australia, crossing the Pacific Ocean in a single journey. They do not eat, drink or sleep in the normal way during the flight.
+
+
+    How do they do it? Scientists have discovered several secrets. Before leaving, godwits eat so much that fat makes up more than half of their body weight. At the same time, their digestive organs shrink to save weight, since they won''t be needed during the journey. Their long, narrow wings allow them to glide efficiently, using the same basic principle that keeps aircraft in the air. Weather is a decisive factor: godwits wait for strong winds to help push them south.
+
+
+    Until recently, much of this was guesswork. Concrete data became available only when researchers began fitting birds with tiny satellite tags weighing just a few grams. Some people have raised ethical questions about tagging wild animals, but esteemed zoology institutes argue that the devices are light and safe, and the information helps protect the species.
+
+
+    And protection is needed. Godwits stop to feed in rural wetlands and swamps along the coast of China and Korea, many of which are being turned into concrete for ports and cities. Numbers have fallen sharply, and scientists warn that the bird could one day become extinct. When you next see a flock flying overhead, consider the incredible journeys they make — journeys that even pilots view with a little jealousy.
+
+    '
+  ru: 'В октябре 2022 года маленькая птица попала в заголовки по всему миру. Пятимесячный малый веретенник, известный лишь по номеру метки, пролетел от Аляски до Тасмании за одиннадцать дней, ни разу не остановившись. Он пересёк 13 560 километров открытого океана, установив новый мировой рекорд беспосадочного полёта птиц. В одночасье птица стала знаменитостью.
+
+
+    Многие виды птиц мигрируют, но малый веретенник — один из самых удивительных. Каждую весну эти выносливые птицы летят на север, чтобы вывести потомство в уединённой тундре Аляски. Там родители выкармливают птенцов коротким арктическим летом. Осенью они возвращаются в Новую Зеландию и Австралию, пересекая Тихий океан за один перелёт. Во время полёта они не едят, не пьют и не спят в обычном смысле.
+
+
+    Как им это удаётся? Учёные раскрыли несколько секретов. Перед отлётом веретенники едят так много, что жир составляет более половины их веса. При этом их пищеварительные органы уменьшаются, чтобы сэкономить вес, — в пути они не понадобятся. Длинные узкие крылья позволяют им экономно планировать, используя тот же основной принцип, что удерживает в воздухе самолёты. Решающий фактор — погода: веретенники ждут сильного ветра, который поможет им лететь на юг.
+
+
+    До недавнего времени многое здесь было догадками. Конкретные данные появились лишь тогда, когда исследователи начали крепить к птицам крошечные спутниковые метки весом всего несколько граммов. Некоторые поднимали этические вопросы о мечении диких животных, но уважаемые зоологические институты утверждают, что устройства лёгкие и безопасные, а получаемые сведения помогают защищать вид.
+
+
+    А защита нужна. Веретенники останавливаются покормиться на сельских болотах и топях вдоль побережья Китая и Кореи, многие из которых закатывают в бетон под порты и города. Их численность резко сократилась, и учёные предупреждают, что однажды птица может вымереть. Когда в следующий раз увидите стаю над головой, подумайте о невероятных путешествиях, которые они совершают, — путешествиях, которым даже пилоты немного завидуют.
+
+    '
+  questions:
+  - q: What record did the godwit set?
+    options:
+    - Highest flight
+    - Longest non-stop bird flight
+    - Fastest flight
+    - Oldest bird
+    answer: 1
+  - q: How do godwits prepare for the journey?
+    options:
+    - They sleep a lot
+    - They eat so much that fat makes up over half their weight
+    - They train by flying short distances
+    - They drink a lot of water
+    answer: 1
+  - q: What threatens the godwits?
+    options:
+    - Satellite tags
+    - Wetlands being turned into concrete
+    - Too much food
+    - Aircraft
+    answer: 1
+  - tf: Godwits stop to eat several times while crossing the Pacific.
+    answer: false
+  - tf: Weather is a decisive factor in their migration.
+    answer: true
+- id: c1-26
+  v1_unit: Out of Context
+  title: Did Einstein Really Say That?
+  title_ru: Правда ли Эйнштейн это сказал?
+  text: '"Insanity is doing the same thing over and over again and expecting different results." You have probably seen this quote attributed to Albert Einstein. It appears on posters, in business presentations and in countless social media posts. There is only one problem: there is no evidence that Einstein ever said it. The earliest known versions appear decades after his death.
+
+
+    Misquotes are surprisingly frequent. Famous names give words authority, so people attach them to clever sayings. Mark Twain, Winston Churchill and Abraham Lincoln are popular targets. Often, the quotes are not entirely invented; instead, they are based on secondhand reports or memories that have been changed with each retelling.
+
+
+    A more serious problem arises when genuine words are taken out of context. A politician might say, "Some people claim that we should close our borders, but I disagree." If a journalist omits the second half of the sentence, the meaning is distorted completely. This tactic can cause real damage to a person''s reputation. Even respected news anchors have been forced to apologize after playing short clips that misrepresented what someone meant.
+
+
+    Why do such errors spread so easily? Psychologists point out that we are more likely to share something if it confirms what we already believe. Our beliefs and the "facts" we accept overlap. A surprising or emotional quote spreads with great energy online, while the correction, published later, reaches far fewer people.
+
+
+    The good news is that checking quotes is a skill anyone can learn. Look for the original source: a book, a speech or a recording. Be suspicious of quotes that sound too perfect or too modern for the person who supposedly said them. Websites that specialize in fact-checking can also help. If something turns out to be false, act accordingly: don''t share it, and politely let others know. In an age when information travels faster than ever, knowledge of where it comes from is more valuable than ever.
+
+    '
+  ru: '«Безумие — это делать одно и то же снова и снова и ожидать других результатов». Вы наверняка видели эту цитату с подписью «Альберт Эйнштейн». Она встречается на плакатах, в деловых презентациях и в бесчисленных постах в соцсетях. Есть лишь одна проблема: нет никаких доказательств, что Эйнштейн когда-либо это говорил. Самые ранние известные варианты появляются через десятилетия после его смерти.
+
+
+    Неверные цитаты встречаются удивительно часто. Известные имена придают словам авторитет, поэтому их приписывают к остроумным высказываниям. Марк Твен, Уинстон Черчилль и Авраам Линкольн — излюбленные «авторы». Часто цитаты не выдуманы полностью — они основаны на пересказах из вторых рук или воспоминаниях, которые менялись с каждым пересказом.
+
+
+    Более серьёзная проблема возникает, когда подлинные слова вырывают из контекста. Политик может сказать: «Некоторые утверждают, что нам следует закрыть границы, но я с этим не согласен». Если журналист опустит вторую половину фразы, смысл полностью исказится. Такой приём может нанести реальный ущерб репутации человека. Даже уважаемым ведущим новостей приходилось извиняться после показа коротких фрагментов, искажавших смысл сказанного.
+
+
+    Почему такие ошибки так легко распространяются? Психологи отмечают, что мы охотнее делимся тем, что подтверждает наши убеждения. Наши взгляды и «факты», которые мы принимаем, пересекаются. Неожиданная или эмоциональная цитата разлетается по сети с огромной энергией, а опровержение, опубликованное позже, доходит до куда меньшего числа людей.
+
+
+    Хорошая новость в том, что проверять цитаты может научиться каждый. Ищите первоисточник: книгу, речь или запись. Относитесь с подозрением к цитатам, которые звучат слишком гладко или слишком современно для того, кто их якобы произнёс. Помогут и сайты, специализирующиеся на проверке фактов. Если что-то окажется ложью, действуйте соответственно: не распространяйте и вежливо сообщите об этом другим. В эпоху, когда информация движется быстрее, чем когда-либо, знание её происхождения ценнее, чем когда-либо.
+
+    '
+  questions:
+  - q: What is true about the famous 'insanity' quote?
+    options:
+    - Einstein wrote it in a book
+    - There is no evidence Einstein said it
+    - Mark Twain said it
+    - It comes from a speech
+    answer: 1
+  - q: What happens when words are taken out of context?
+    options:
+    - The meaning can be completely distorted
+    - Nothing changes
+    - They become more accurate
+    - They are deleted
+    answer: 0
+  - q: Why do false quotes spread easily?
+    options:
+    - Corrections reach more people
+    - We share things that confirm what we already believe
+    - They are always funny
+    - They are short
+    answer: 1
+  - tf: Some misquotes are based on secondhand reports.
+    answer: true
+  - tf: The text says checking quotes requires special training.
+    answer: false
+- id: c1-27
+  v1_unit: The Lungs of the Planet?
+  title: Why the Amazon Matters
+  title_ru: Почему важна Амазония
+  text: 'The Amazon rainforest covers about 5.5 million square kilometres, mostly in Brazil, close to the equator. It is home to around ten percent of all known species on Earth, including countless exotic birds, insects and plants, many of which have never been studied. Scientists consider it the birthplace of a huge variety of life.
+
+
+    The Amazon is often called "the lungs of the planet", because it produces large amounts of oxygen. In fact, this is slightly misleading: the forest uses most of the oxygen it produces, so its overall contribution to the air we breathe is small. Its true importance lies elsewhere. The rainforest stores enormous amounts of carbon in its trees and soil. Its capacity to absorb carbon dioxide makes it crucial in the fight against climate change.
+
+
+    The forest also creates its own weather. Trees draw water from the soil and release it into the air, where it contributes to the formation of clouds. These "flying rivers" distribute rain across South America, watering farms thousands of kilometres away. Without the forest, much of the continent could become far drier.
+
+
+    Unfortunately, the Amazon is under threat. Large areas have been cleared for cattle farms and soya plantations. Illegal miners search for gold deposits, poisoning rivers with mercury. Every year, fires destroy wooded areas, and the cumulative damage is huge. Scientists warn that the frequency of droughts is increasing, and that if too much forest is lost, parts of the Amazon could turn into dry grassland — a change that might not be reversible.
+
+
+    There is hope, however. Studies show that forests managed by indigenous communities suffer far less destruction than other areas. Comprehensive monitoring by satellites helps authorities find illegal logging quickly. When the federal government has made protection a clear objective, deforestation has fallen dramatically. A successful strategy must also offer local people beneficial ways to earn a living without cutting down trees. Conserving the Amazon is not only Brazil''s responsibility; it matters to everyone on Earth.
+
+    '
+  ru: 'Тропический лес Амазонии занимает около 5,5 миллиона квадратных километров, в основном в Бразилии, недалеко от экватора. Здесь обитает около десяти процентов всех известных видов на Земле, в том числе бесчисленные экзотические птицы, насекомые и растения, многие из которых никогда не изучались. Учёные считают Амазонию родиной огромного разнообразия жизни.
+
+
+    Амазонию часто называют «лёгкими планеты», потому что она вырабатывает много кислорода. На самом деле это не совсем верно: лес сам расходует большую часть производимого кислорода, так что его вклад в воздух, которым мы дышим, невелик. Его настоящая ценность в другом. Тропический лес хранит в деревьях и почве огромное количество углерода. Способность поглощать углекислый газ делает его крайне важным в борьбе с изменением климата.
+
+
+    Лес также создаёт собственную погоду. Деревья вытягивают воду из почвы и выпускают её в воздух, где она участвует в образовании облаков. Эти «летающие реки» разносят дожди по Южной Америке, орошая фермы в тысячах километров. Без леса большая часть континента могла бы стать гораздо засушливее.
+
+
+    К сожалению, Амазония под угрозой. Большие территории вырублены под пастбища для скота и плантации сои. Незаконные старатели ищут месторождения золота, отравляя реки ртутью. Ежегодно пожары уничтожают лесные участки, и совокупный ущерб огромен. Учёные предупреждают, что засухи случаются всё чаще и что при потере слишком большой части леса отдельные районы Амазонии могут превратиться в сухую саванну — и это изменение может оказаться необратимым.
+
+
+    И всё же надежда есть. Исследования показывают, что леса, которыми управляют коренные общины, страдают гораздо меньше других. Всесторонний спутниковый мониторинг помогает властям быстро находить незаконную вырубку. Когда федеральное правительство делало охрану леса чёткой целью, темпы вырубки резко падали. Успешная стратегия должна также давать местным жителям полезные способы зарабатывать, не вырубая деревья. Сохранение Амазонии — ответственность не только Бразилии; это важно для каждого жителя Земли.
+
+    '
+  questions:
+  - q: Why is 'the lungs of the planet' slightly misleading?
+    options:
+    - The forest produces no oxygen
+    - The forest uses most of the oxygen it produces
+    - The forest is too small
+    - Oxygen comes only from the ocean
+    answer: 1
+  - q: What are 'flying rivers'?
+    options:
+    - Rivers in the mountains
+    - Water released by trees that brings rain to other areas
+    - Waterfalls
+    - Floods
+    answer: 1
+  - q: Which forests suffer less destruction?
+    options:
+    - Forests near cities
+    - Forests managed by indigenous communities
+    - Forests with gold
+    - Young forests
+    answer: 1
+  - tf: Illegal miners pollute rivers with mercury.
+    answer: true
+  - tf: Scientists are sure that any damage to the Amazon can be easily reversed.
+    answer: false
+- id: c1-28
+  v1_unit: The Black Death
+  title: The Plague That Changed Europe
+  title_ru: Чума, изменившая Европу
+  text: 'In 1347, ships arrived in Sicily carrying sailors who were dying of a terrible illness. Within weeks, the disease had spread to the mainland. Over the next five years, the Black Death swept across Europe, killing between a third and a half of its population. It was the deadliest pandemic in recorded history.
+
+
+    The symptoms were horrifying: high fever, painful black swellings and, often, death within days. People lived in constant dread. Death seemed random; it took the young and old, rich and poor alike. A writer in Florence scribbled that people "ate lunch with their friends and dinner with their ancestors". Doctors tried everything — bleeding patients, burning herbs, carrying flowers to block the "bad air" — but to no avail. Desperate crowds visited shrines to pray, while some people fled to the countryside in search of safety and solitude.
+
+
+    Nobody understood the cause. Many believed it was a punishment from God. Others blamed minorities, and in some cities, Jewish communities were attacked by angry mobs. Today we know that the plague was caused by a tiny organism, a bacterium called Yersinia pestis, carried by fleas that lived on rats and spread through crowded towns.
+
+
+    The consequences were fundamental. With so many workers dead, those who survived could demand higher wages. When rulers tried to stop wages from rising, there were riots, such as the Peasants'' Revolt in England in 1381. Land became cheaper, and ordinary people gained new freedoms. Some historians define the Black Death as the beginning of the end of the medieval world.
+
+
+    The fear lingered for centuries; outbreaks continued to return until the 1700s. When modern people are incredulous that a disease could change history, historians point to the plague as a stark example. To paraphrase one scholar: pandemics do not just kill people; they reshape societies. The success of modern medicine — antibiotics now cure the plague — should not make us forget how quickly the situation can worsen when a new disease appears.
+
+    '
+  ru: 'В 1347 году в Сицилию прибыли корабли с моряками, умиравшими от ужасной болезни. Через несколько недель болезнь перекинулась на материк. За следующие пять лет Чёрная смерть пронеслась по Европе, унеся от трети до половины её населения. Это была самая смертоносная пандемия в истории.
+
+
+    Симптомы были ужасающими: сильный жар, болезненные чёрные опухоли и часто смерть в течение нескольких дней. Люди жили в постоянном страхе. Смерть казалась случайной: она забирала молодых и старых, богатых и бедных без разбора. Один флорентийский писатель записал, что люди «обедали с друзьями, а ужинали с предками». Врачи перепробовали всё — пускали кровь, жгли травы, носили цветы, чтобы защититься от «дурного воздуха», — но тщетно. Отчаявшиеся толпы шли к святыням молиться, а некоторые бежали в деревни в поисках безопасности и уединения.
+
+
+    Причину никто не понимал. Многие считали это Божьей карой. Другие обвиняли меньшинства, и в некоторых городах разъярённые толпы нападали на еврейские общины. Сегодня мы знаем, что чуму вызывал крошечный организм — бактерия Yersinia pestis, которую переносили блохи, жившие на крысах и распространявшиеся по тесным городам.
+
+
+    Последствия были коренными. Поскольку погибло так много работников, выжившие могли требовать более высокой оплаты. Когда правители пытались не допустить роста заработков, вспыхивали восстания — например, крестьянское восстание в Англии в 1381 году. Земля подешевела, а простые люди получили новые свободы. Некоторые историки считают Чёрную смерть началом конца средневекового мира.
+
+
+    Страх сохранялся веками: вспышки возвращались вплоть до XVIII века. Когда современные люди с недоверием относятся к тому, что болезнь может изменить ход истории, историки приводят чуму как наглядный пример. Перефразируя одного учёного: пандемии не просто убивают людей — они меняют общества. Успехи современной медицины — сегодня чуму излечивают антибиотиками — не должны заставлять нас забывать, как быстро всё может ухудшиться, когда появляется новая болезнь.
+
+    '
+  questions:
+  - q: How much of Europe's population did the Black Death kill?
+    options:
+    - About 5%
+    - Between a third and a half
+    - Almost everyone
+    - About 10%
+    answer: 1
+  - q: What actually caused the plague?
+    options:
+    - Bad air
+    - A bacterium carried by fleas on rats
+    - Punishment from God
+    - Dirty water
+    answer: 1
+  - q: What was one economic consequence?
+    options:
+    - Wages fell
+    - Survivors could demand higher wages
+    - Land became more expensive
+    - Trade stopped forever
+    answer: 1
+  - tf: Medieval doctors found an effective cure.
+    answer: false
+  - tf: Today the plague can be cured with antibiotics.
+    answer: true
+- id: c1-29
+  v1_unit: The Return of the Electric Car
+  title: An Old Idea Comes Back
+  title_ru: Старая идея возвращается
+  text: 'Electric cars may seem like a modern phenomenon, but they are older than you might think. In 1900, electric vehicles made up about a third of all cars on the roads of American cities. They were quiet, clean and easy to drive. Unlike petrol cars, which had to be started with a heavy handle and often broke down, electric cars simply started at the touch of a button. They were especially popular with wealthy city dwellers.
+
+
+    So why did they disappear? Several factors changed the course of history. Henry Ford''s mass-produced Model T made petrol automobiles far cheaper. The invention of the electric starter removed the need for a hand crank. Huge oil discoveries made petrol cheap, and new roads allowed people to travel long distances — far beyond the range of the heavy batteries of the time. By the 1930s, electric cars had almost vanished. The petrol era had begun.
+
+
+    For decades, the idea of an electric car was treated as a joke. In the 1990s, a major carmaker produced an electric model in California but later recalled and destroyed most of them. Its corporate reasons remain a subject of debate. When a small company called Tesla announced in the early 2000s that it would build exciting electric sports cars, many experts ridiculed the plan.
+
+
+    Today, the situation has changed dramatically. As concern grows about how petrol and diesel cars pollute the air and contribute to climate change, governments have introduced strict guidelines on emissions. Many countries plan to stop selling new petrol cars in the coming decades. Battery technology has been enhanced so much that some electric cars can travel over 600 kilometres on a single charge. Companies are incorporating new features: some cars have solar panels on the roof, while drivers interact with their vehicles through apps on their mobile phones.
+
+
+    Challenges remain. Charging stations need to be available at regular intervals, and mining for battery materials raises its own environmental questions. Still, there is a striking parallel with the past: once again, the electric car is a serious candidate to become the future of transportation.
+
+    '
+  ru: 'Электромобили могут показаться современным явлением, но они старше, чем вы думаете. В 1900 году электромобили составляли около трети всех машин на улицах американских городов. Они были тихими, чистыми и простыми в управлении. В отличие от бензиновых машин, которые приходилось заводить тяжёлой рукояткой и которые часто ломались, электромобили просто заводились нажатием кнопки. Особенно они нравились состоятельным горожанам.
+
+
+    Почему же они исчезли? Ход истории изменили несколько факторов. Массовая «Модель Т» Генри Форда сделала бензиновые автомобили гораздо дешевле. Изобретение электростартера избавило от необходимости заводить мотор рукояткой. Крупные месторождения нефти сделали бензин дешёвым, а новые дороги позволили ездить на большие расстояния — далеко за пределы запаса хода тяжёлых аккумуляторов того времени. К 1930-м годам электромобили почти исчезли. Началась эпоха бензина.
+
+
+    Десятилетиями идея электромобиля воспринималась как шутка. В 1990-х один крупный автопроизводитель выпустил электрическую модель в Калифорнии, но позже отозвал и уничтожил большую часть машин. Корпоративные причины этого до сих пор обсуждаются. Когда в начале 2000-х небольшая компания Tesla объявила, что будет выпускать захватывающие электрические спорткары, многие эксперты высмеяли этот план.
+
+
+    Сегодня ситуация кардинально изменилась. По мере роста беспокойства из-за того, что бензиновые и дизельные машины загрязняют воздух и способствуют изменению климата, правительства ввели строгие нормы по выбросам. Многие страны планируют в ближайшие десятилетия прекратить продажу новых бензиновых машин. Технологии аккумуляторов улучшились настолько, что некоторые электромобили проезжают более 600 километров на одной зарядке. Компании внедряют новые функции: у некоторых машин на крыше солнечные панели, а водители управляют своими автомобилями через приложения на телефоне.
+
+
+    Трудности остаются. Зарядные станции должны располагаться через равные промежутки, а добыча материалов для аккумуляторов порождает свои экологические вопросы. И всё же есть поразительная параллель с прошлым: электромобиль снова всерьёз претендует на роль будущего транспорта.
+
+    '
+  questions:
+  - q: What share of cars in American cities were electric in 1900?
+    options:
+    - Almost none
+    - About a third
+    - Half
+    - All of them
+    answer: 1
+  - q: Which factor helped petrol cars win?
+    options:
+    - Electric cars were too noisy
+    - Cheap oil and the mass-produced Model T
+    - Electric cars were illegal
+    - Batteries were too cheap
+    answer: 1
+  - q: How did experts react to Tesla's early plans?
+    options:
+    - They invested immediately
+    - Many ridiculed the plan
+    - They ignored it
+    - They copied it
+    answer: 1
+  - tf: Some modern electric cars can travel over 600 km on one charge.
+    answer: true
+  - tf: Electric cars face no challenges today.
+    answer: false
+- id: c1-30
+  v1_unit: The Great Storm
+  title: Galveston, 1900
+  title_ru: Галвестон, 1900 год
+  text: 'In 1900, Galveston was one of the richest cities in Texas. Built on a low sandy island in the Gulf of Mexico, it was a busy port full of banks, shops and grand houses. Its highest point was less than three metres above the sea. Some residents had argued for building a sea wall, but the city''s leaders believed it was unnecessary.
+
+
+    In early September, a message arrived by telegraph: a tropical storm was moving across Cuba. Today, we know that hurricanes, cyclones and typhoons are the same kind of storm, just in different oceans. But at the time, forecasting was primitive. The US Weather Bureau''s official stance was that the storm would turn north towards Florida. Cuban meteorologists disagreed, warning that it would head west, towards Texas. Their warnings were ignored.
+
+
+    On 8 September, the storm struck Galveston with sheer, terrifying force. Winds of over 200 kilometres per hour wailed through the streets, and a wave nearly five metres high swept across the island. There was chaos everywhere. People scrambled onto roofs or climbed into the upper floors of strong buildings. In one house, a family hid behind a wardrobe as walls collapsed around them. Houses, shops, textile warehouses and churches were smashed into pieces.
+
+
+    By the next morning, the city looked doomed. Between 6,000 and 12,000 people had died — still the deadliest natural disaster in American history. Martial law was declared, and soldiers led by a local sergeant searched the ruins for survivors. Farm animals and poultry were lost, and fresh water was polluted. Some families lost every member; children became heirs to empty land.
+
+
+    Yet Galveston refused to give up. The city built a huge concrete sea wall and, remarkably, raised the level of the entire island by several metres, lifting buildings with jacks. Later, Congress passed bills to improve weather forecasting. Today, satellites and computers give consistent warnings days in advance, and people are evacuated long before a storm arrives.
+
+    '
+  ru: 'В 1900 году Галвестон был одним из самых богатых городов Техаса. Построенный на низком песчаном острове в Мексиканском заливе, он был оживлённым портом с банками, магазинами и роскошными домами. Его самая высокая точка находилась менее чем в трёх метрах над уровнем моря. Некоторые жители настаивали на строительстве волнолома, но руководство города считало, что в этом нет необходимости.
+
+
+    В начале сентября по телеграфу пришло сообщение: над Кубой движется тропический шторм. Сегодня мы знаем, что ураганы, циклоны и тайфуны — один и тот же тип бури, только в разных океанах. Но тогда прогнозирование было примитивным. Официальная позиция Бюро погоды США состояла в том, что шторм повернёт на север, к Флориде. Кубинские метеорологи не соглашались и предупреждали, что он пойдёт на запад, к Техасу. Их предупреждения проигнорировали.
+
+
+    8 сентября шторм обрушился на Галвестон с ошеломляющей силой. Ветер скоростью более 200 километров в час выл на улицах, а волна высотой почти пять метров прокатилась по острову. Повсюду царил хаос. Люди карабкались на крыши или забирались на верхние этажи прочных зданий. В одном доме семья пряталась за шкафом, пока вокруг рушились стены. Дома, магазины, текстильные склады и церкви разбивались в щепки.
+
+
+    К утру казалось, что город обречён. Погибли от 6000 до 12 000 человек — это до сих пор самое смертоносное стихийное бедствие в истории США. Было введено военное положение, и солдаты под командованием местного сержанта искали в руинах выживших. Погибли скот и домашняя птица, пресная вода была загрязнена. Некоторые семьи погибли целиком; дети становились наследниками пустой земли.
+
+
+    И всё же Галвестон не сдался. Город построил огромную бетонную дамбу и, что удивительно, поднял уровень всего острова на несколько метров, приподнимая здания домкратами. Позже Конгресс принял законы об улучшении прогнозирования погоды. Сегодня спутники и компьютеры стабильно предупреждают о буре за несколько дней, и людей эвакуируют задолго до её прихода.
+
+    '
+  questions:
+  - q: Why was Galveston especially vulnerable?
+    options:
+    - It was on a mountain
+    - It was on a low island less than 3 metres above the sea
+    - It had no port
+    - It was far from the sea
+    answer: 1
+  - q: Whose warnings were ignored?
+    options:
+    - The US Weather Bureau's
+    - Cuban meteorologists'
+    - The army's
+    - The mayor's
+    answer: 1
+  - q: What did Galveston do after the storm?
+    options:
+    - The city was abandoned
+    - It built a sea wall and raised the island
+    - It moved to the mainland
+    - Nothing changed
+    answer: 1
+  - tf: Hurricanes, cyclones and typhoons are the same kind of storm.
+    answer: true
+  - tf: The Galveston storm killed fewer than 1,000 people.
+    answer: false

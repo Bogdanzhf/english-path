@@ -22,3 +22,52 @@ words:
 - surrealist | n | səˈriəlɪst | sərˈiəlɪst | сюрреалист | an artist of the surrealist movement | Dalí was a famous *surrealist*. | Дали — знаменитый сюрреалист.
 - vandal | n | ˈvændl |  | вандал | a person who damages property | *Vandals* broke the windows. | Вандалы разбили окна.
 - virtuoso | n | ˌvɜːtjuːˈəʊsəʊ | vərtʃuːˈoʊsoʊ | виртуоз | a very skilled performer | He's a piano *virtuoso*. | Он пианист-виртуоз.
+reading:
+  title: Twenty-Nine Years in the Jungle
+  title_ru: Двадцать девять лет в джунглях
+  text: |
+    In December 1944, a young Japanese intelligence officer named Hiroo Onoda was sent to Lubang, a small island in the Philippines covered in lush jungle. He had enlisted in the army at eighteen and had been trained in guerilla warfare. His orders were clear: he must never surrender or take his own life, and he must continue fighting until he received new orders. The army handbook he had studied taught that surrender was the ultimate shame.
+
+    A few months later, American forces took control of the island. Most Japanese soldiers were killed or captured, but Onoda and three companions escaped into the vast tracts of forest. They wore camouflage, moved constantly and contended with heat, monsoon rain, insects and hunger. They slept on rough cots made from branches and kept a constant vigil against the enemy.
+
+    In August 1945, the war ended. Leaflets were dropped from planes announcing Japan's surrender, but Onoda believed they were enemy tricks. He refused to contemplate the possibility that the war was over. For decades, he continued his mission, occasionally attacking local farmers, whom he regarded as enemy soldiers. Local people were understandably hesitant to enter the jungle. One by one, his companions died or surrendered. By 1972, Onoda was alone.
+
+    In 1974, a Japanese student named Norio Suzuki travelled to Lubang, saying he wanted to find "Lieutenant Onoda, a panda and the Abominable Snowman, in that order". Remarkably, he found Onoda within days. The weary soldier still wore his patched military outfit and carried his rifle. But he still refused to surrender without an order from a superior officer.
+
+    Suzuki returned to Japan and found Onoda's former commander, now working in a bookshop. The old officer flew to the island and formally confronted Onoda with the truth: the war had ended twenty-nine years earlier. Onoda handed over his sword. He returned to a splendid welcome in Japan, but he found the modern world strange. He later moved to Brazil and became a farmer. His story raises difficult questions about loyalty and obedience: was he a hero, or a victim of a system that demanded too much?
+  ru: |
+    В декабре 1944 года молодого японского офицера разведки Хиро Онода отправили на Лубанг — небольшой остров на Филиппинах, покрытый буйными джунглями. Он пошёл в армию в восемнадцать лет и был обучен партизанской войне. Приказ был чётким: никогда не сдаваться и не лишать себя жизни, продолжать сражаться до получения новых приказов. Армейское руководство, которое он изучал, учило, что сдача в плен — высший позор.
+
+    Через несколько месяцев американские войска взяли остров под контроль. Большинство японских солдат были убиты или попали в плен, но Онода и трое его товарищей скрылись в огромных лесных массивах. Они носили камуфляж, постоянно перемещались и боролись с жарой, муссонными дождями, насекомыми и голодом. Спали они на грубых настилах из веток и постоянно были начеку, ожидая врага.
+
+    В августе 1945 года война закончилась. С самолётов сбрасывали листовки о капитуляции Японии, но Онода считал их вражескими уловками. Он даже не допускал мысли, что война окончена. Десятилетиями он продолжал выполнять задание, время от времени нападая на местных крестьян, которых считал вражескими солдатами. Местные жители, что вполне понятно, не решались заходить в джунгли. Один за другим его товарищи погибли или сдались. К 1972 году Онода остался один.
+
+    В 1974 году японский студент Норио Судзуки отправился на Лубанг, заявив, что хочет найти «лейтенанта Оноду, панду и снежного человека — именно в таком порядке». Удивительно, но он нашёл Оноду за несколько дней. Измученный солдат по-прежнему носил залатанную военную форму и не расставался с винтовкой. Но сдаваться без приказа старшего офицера он всё равно отказывался.
+
+    Судзуки вернулся в Японию и разыскал бывшего командира Оноды, который теперь работал в книжном магазине. Пожилой офицер прилетел на остров и официально сообщил Оноде правду: война закончилась двадцать девять лет назад. Онода отдал свой меч. В Японии его встретили с почестями, но современный мир показался ему чужим. Позже он переехал в Бразилию и стал фермером. Его история поднимает трудные вопросы о верности и послушании: был ли он героем или жертвой системы, требовавшей слишком многого?
+  questions:
+  - q: What were Onoda's orders?
+    options:
+    - To surrender if the war ended
+    - Never to surrender and to keep fighting until new orders
+    - To return to Japan
+    - To find the enemy's base
+    answer: 1
+  - q: Why did Onoda ignore the leaflets announcing the end of the war?
+    options:
+    - He couldn't read them
+    - He believed they were enemy tricks
+    - He never saw them
+    - He wanted to stay
+    answer: 1
+  - q: What finally made Onoda surrender?
+    options:
+    - Norio Suzuki asked him
+    - His former commander gave him the order
+    - He was captured
+    - He was ill
+    answer: 1
+  - tf: Onoda was alone for the whole twenty-nine years.
+    answer: false
+  - tf: Onoda later moved to Brazil and became a farmer.
+    answer: true

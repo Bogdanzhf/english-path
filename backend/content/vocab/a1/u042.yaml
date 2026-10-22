@@ -18,3 +18,52 @@ words:
 - snake | n | sneɪk |  | змея | a long animal with no legs | Some *snakes* are very dangerous. | Некоторые змеи очень опасны.
 - turkey | n | ˈtɜːki | ˈtɜːrki | индейка | a large bird eaten at Christmas and Thanksgiving | We cook a *turkey* at Christmas. | На Рождество мы готовим индейку. | Turkey — Турция
 - zoo | n | zuː |  | зоопарк | a place where people can see wild animals | We took the kids to the *zoo*. | Мы сводили детей в зоопарк.
+reading:
+  title: Rex Gets a Chance
+  title_ru: У Рекса появился шанс
+  text: |
+    Rex was a young dog who lived on a big farm, far from the city. His primary function was to guard the sheep. But Rex had a problem: he could not focus. He chased birds, played with his tail and rested on the grass in the sun. The farmer was not proud of him.
+
+    The old dog on the farm, Bess, often said, "Our job is essential. The sheep depend on us." But Rex did not listen.
+
+    One night, a terrible storm came. The wind was so strong that it broke the fence, and the sheep ran away into the dark. The farmer was certain that he would lose them all. Bess was old and tired, so she had to remain at the house. This was Rex's chance.
+
+    Rex ran into the storm without any immediate plan. He found the sheep in a separate field near an old building site. He barked and ran around them until they walked back home together. It took him all night.
+
+    In the morning, the farmer counted the sheep. Not a single one was missing! "No more trouble from you," he laughed, and he gave Rex a big piece of meat. The storm had a strange effect on Rex: from that day, he was the best guard on the farm. The image of the brave young dog in the storm stayed in the farmer's mind forever.
+  ru: |
+    Рекс был молодым псом, который жил на большой ферме далеко от города. Его главной задачей было охранять овец. Но у Рекса была проблема: он не мог сосредоточиться. Он гонялся за птицами, играл со своим хвостом и отдыхал на траве под солнцем. Фермер им не гордился.
+
+    Старая собака с фермы, Бесс, часто говорила: «Наша работа очень важна. Овцы зависят от нас». Но Рекс не слушал.
+
+    Однажды ночью разразилась страшная буря. Ветер был таким сильным, что сломал забор, и овцы разбежались в темноте. Фермер был уверен, что потеряет их всех. Бесс была старой и уставшей, поэтому ей пришлось остаться у дома. Это был шанс Рекса.
+
+    Рекс бросился в бурю без всякого плана. Он нашёл овец на отдельном поле возле старой стройки. Он лаял и бегал вокруг них, пока они все вместе не пошли домой. На это ушла вся ночь.
+
+    Утром фермер пересчитал овец. Не пропала ни одна! «Больше никаких неприятностей от тебя», — засмеялся он и дал Рексу большой кусок мяса. Буря странно подействовала на Рекса: с того дня он стал лучшим сторожем на ферме. А образ храброго молодого пса в бурю навсегда остался в памяти фермера.
+  questions:
+  - q: What was Rex's job on the farm?
+    options:
+    - To catch birds
+    - To guard the sheep
+    - To help the farmer cook
+    - To find water
+    answer: 1
+  - q: Why did the sheep run away?
+    options:
+    - Rex scared them
+    - The storm broke the fence
+    - A wolf came
+    - The farmer opened the gate
+    answer: 1
+  - q: Why did Bess stay at the house?
+    options:
+    - She was afraid
+    - She was old and tired
+    - She was eating
+    - She did not like sheep
+    answer: 1
+  - tf: Rex lost two sheep in the storm.
+    answer: false
+  - tf: After the storm, Rex became a good guard.
+    answer: true

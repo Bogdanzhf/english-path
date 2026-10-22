@@ -28,3 +28,52 @@ words:
 - transmitter | n | trænˈsmɪtə | trænsˈmɪtər | передатчик | a device that sends signals | The radio *transmitter* was damaged. | Радиопередатчик был повреждён.
 - unsustainable | adj | ʌnsəˈsteɪnəbl | ˌʌnsəˈsteɪnəbl | неустойчивый, невыносимый в долгосрочной перспективе | not able to continue | Current spending is *unsustainable*. | Нынешние расходы нельзя поддерживать долго.
 - zoology | n | zuˈɒlədʒi | zoʊˈɑːlədʒi | зоология | the scientific study of animals | She has a degree in *zoology*. | У неё диплом по зоологии.
+reading:
+  title: The Reusable Spaceship
+  title_ru: Многоразовый космический корабль
+  text: |
+    For the first decades of space travel, rockets could be used only once. After each launch, they fell into the ocean or burned up. In the 1970s, NASA developed an innovative solution: a spacecraft that could fly into orbit, return to Earth and be launched anew. It was called the Space Shuttle.
+
+    The design was ingenious. At launch, two huge rocket boosters and three main engines provided propulsion, accelerating the shuttle to around 28,000 kilometres per hour in just eight minutes. In orbit, astronauts could launch satellites, repair telescopes and carry out experiments. Then, instead of falling into the sea in a capsule, the shuttle returned like an aeroplane. During re-entry, its belly was protected from temperatures of over 1,500°C by thousands of special heat-resistant tiles. Without any engine power, it glided down to land on a runway.
+
+    The programme achieved remarkable things. Shuttle crews launched and later repaired the Hubble Space Telescope, which transformed our understanding of the universe. They helped to build the International Space Station. Satellites carried by the shuttle improved communication and meteorology, and the programme stimulated new technologies on Earth.
+
+    But there were tragedies too. On a dreary, freezing morning in January 1986, the shuttle Challenger exploded seventy-three seconds after launch. The cause was a defect in a rubber seal that had become stiff in the cold. Engineers had warned that the meteorological conditions were dangerous, but their concerns were ignored. In 2003, the shuttle Columbia broke apart during re-entry. A piece of foam had fallen off during launch and penetrated the edge of a wing, allowing hot gases inside. Fourteen astronauts died in the two disasters.
+
+    Despite engineers who duplicated critical systems and simulated every phase of flight, the shuttle never became as cheap or safe as hoped, and persistent problems led NASA to end the programme in 2011. Today, private companies are building new reusable rockets that land upright on their own. The dream that began with the shuttle continues — along with the lessons learned at such a terrible cost.
+  ru: |
+    В первые десятилетия космических полётов ракеты можно было использовать только один раз. После каждого запуска они падали в океан или сгорали. В 1970-х годах НАСА разработало новаторское решение — космический корабль, который мог выйти на орбиту, вернуться на Землю и быть запущенным снова. Его назвали «Спейс Шаттл».
+
+    Конструкция была остроумной. При старте два огромных ракетных ускорителя и три основных двигателя создавали тягу, разгоняя шаттл примерно до 28 000 километров в час всего за восемь минут. На орбите астронавты могли выводить спутники, ремонтировать телескопы и проводить эксперименты. А затем, вместо того чтобы падать в море в капсуле, шаттл возвращался как самолёт. При входе в атмосферу его днище защищали от температур свыше 1500 °C тысячи особых жаростойких плиток. Без всякой тяги двигателей он планировал вниз и садился на взлётно-посадочную полосу.
+
+    Программа достигла замечательных результатов. Экипажи шаттлов вывели на орбиту, а позже отремонтировали космический телескоп «Хаббл», изменивший наше понимание Вселенной. Они помогали строить Международную космическую станцию. Спутники, доставленные шаттлами, улучшили связь и метеорологию, а сама программа стимулировала появление новых технологий на Земле.
+
+    Но были и трагедии. Унылым морозным утром в январе 1986 года шаттл «Челленджер» взорвался через семьдесят три секунды после старта. Причиной стал дефект резинового уплотнителя, затвердевшего на холоде. Инженеры предупреждали, что погодные условия опасны, но их опасения проигнорировали. В 2003 году шаттл «Колумбия» разрушился при входе в атмосферу. Кусок пеноматериала отвалился во время старта и пробил кромку крыла, впустив внутрь раскалённые газы. В двух катастрофах погибли четырнадцать астронавтов.
+
+    Хотя инженеры дублировали важнейшие системы и моделировали каждый этап полёта, шаттл так и не стал таким дешёвым и безопасным, как надеялись, и постоянные проблемы привели к тому, что НАСА закрыло программу в 2011 году. Сегодня частные компании строят новые многоразовые ракеты, которые сами садятся вертикально. Мечта, начавшаяся с шаттла, продолжается — как и уроки, усвоенные такой страшной ценой.
+  questions:
+  - q: What was new about the Space Shuttle?
+    options:
+    - It was the fastest rocket
+    - It was reusable
+    - It had no crew
+    - It went to the Moon
+    answer: 1
+  - q: How did the shuttle land?
+    options:
+    - In the sea with parachutes
+    - It glided to a runway without engine power
+    - Vertically on its engines
+    - On the Moon
+    answer: 1
+  - q: What caused the Challenger disaster?
+    options:
+    - A storm
+    - A defect in a rubber seal stiffened by the cold
+    - A piece of foam
+    - Pilot error
+    answer: 1
+  - tf: Shuttle crews helped to build the International Space Station.
+    answer: true
+  - tf: The shuttle programme is still running today.
+    answer: false

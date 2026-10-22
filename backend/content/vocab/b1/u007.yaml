@@ -19,3 +19,52 @@ words:
 - spinach | n | ˈspɪnɪtʃ | ˈspɪnətʃ | шпинат | a vegetable with dark green leaves | *Spinach* is rich in iron. | Шпинат богат железом.
 - takeaway | n | ˈteɪkəweɪ |  | еда навынос (брит.) | a meal you buy and eat at home | Let's get a Chinese *takeaway*. | Давай закажем китайскую еду навынос. | амер. takeout
 - vegetarian | n | ˌvedʒəˈteəriən | ˌvedʒəˈteriən | вегетарианец | a person or animal that doesn't eat meat | Many large dinosaurs were *vegetarians*. | Многие крупные динозавры были травоядными.
+reading:
+  title: Joseph and the Pharaoh's Dream
+  title_ru: Иосиф и сон фараона
+  text: |
+    This is a very old story, told in many countries. Long ago in Egypt, a young man called Joseph was in prison for a theft he did not commit. He was always cheerful and helpful, and he had a special gift: he could explain dreams.
+
+    One night, the pharaoh had a strange dream. Seven fat, healthy cows came out of the river. Then seven slim, sick cows came and ate them. None of the wise men at the palace could explain it. Then one of the pharaoh's servants remembered Joseph. "There's a man in prison who understands dreams," he said.
+
+    Joseph was brought to the palace. He listened to the dream and said: "God has shown you the future. There will be seven years of rich harvests. After that, there will be seven years of terrible famine." Then Joseph offered a scheme: "Collect part of every harvest during the good years and keep it safe. Then, when the famine comes, people will have food."
+
+    The pharaoh was impressed. He pardoned Joseph and put him in charge of the whole affair. For seven years, the fields were full of ripe cereal, fruit and nuts. Joseph built huge storehouses and filled them with grain. Every morning he followed the same routine: he checked the stores, counted the grain and blessed the workers.
+
+    When the famine came, other countries suffered, but Egypt had enough. People came from far away to buy bread. Joseph didn't exploit them; he sold the grain at fair prices. At the end of the famine, there was a great assembly in the city. People roasted meat over fires, and everyone was merry once more.
+  ru: |
+    Это очень старая история, которую рассказывают во многих странах. Давным-давно в Египте юноша по имени Иосиф сидел в тюрьме за кражу, которой не совершал. Он всегда был жизнерадостным и отзывчивым, и у него был особый дар: он умел толковать сны.
+
+    Однажды ночью фараону приснился странный сон. Из реки вышли семь тучных, здоровых коров. Затем пришли семь тощих, больных коров и съели их. Никто из мудрецов при дворе не смог его объяснить. И тут один из слуг фараона вспомнил об Иосифе. «В тюрьме есть человек, который понимает сны», — сказал он.
+
+    Иосифа привели во дворец. Он выслушал сон и сказал: «Бог показал тебе будущее. Будет семь лет богатых урожаев. А после них — семь лет страшного голода». И Иосиф предложил план: «В хорошие годы собирай часть каждого урожая и храни его. Тогда, когда придёт голод, у людей будет еда».
+
+    Фараон был впечатлён. Он помиловал Иосифа и поручил ему всё это дело. Семь лет поля были полны спелых злаков, фруктов и орехов. Иосиф построил огромные хранилища и наполнил их зерном. Каждое утро он следовал одному и тому же распорядку: проверял запасы, пересчитывал зерно и благословлял работников.
+
+    Когда пришёл голод, другие страны страдали, но в Египте еды хватало. Люди приходили издалека, чтобы купить хлеба. Иосиф не наживался на них — он продавал зерно по честной цене. В конце голода в городе собралось большое собрание. Люди жарили мясо на кострах, и все снова веселились.
+  questions:
+  - q: Why was Joseph in prison?
+    options:
+    - For a theft he didn't commit
+    - For killing someone
+    - For lying to the pharaoh
+    - For not paying taxes
+    answer: 0
+  - q: What did the seven slim cows mean?
+    options:
+    - Seven years of rich harvests
+    - Seven years of famine
+    - Seven wars
+    - Seven new kings
+    answer: 1
+  - q: What was Joseph's scheme?
+    options:
+    - To buy food from other countries
+    - To store part of every harvest
+    - To kill the sick cows
+    - To build pyramids
+    answer: 1
+  - tf: Joseph sold grain at very high prices.
+    answer: false
+  - tf: The pharaoh pardoned Joseph.
+    answer: true

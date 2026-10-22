@@ -22,3 +22,52 @@ words:
 - superfluous | adj | suːˈpɜːfluːəs | ˈsuːpərflwʌs | излишний | more than needed | Remove *superfluous* words. | Уберите лишние слова.
 - 'utter | adj | ˈʌtə | ˈʌtər | полный, совершенный | complete | It was *utter* nonsense. | Это была полная чушь. | гл.: utter — произносить'
 - vocational | adj | vəʊˈkeɪʃənl | voʊˈkeɪʃənl | профессиональный | relating to job skills | He took a *vocational* course. | Он прошёл профессиональный курс.
+reading:
+  title: Racing Against Time
+  title_ru: Гонка со временем
+  text: |
+    For centuries, avalanches have been one of the greatest dangers in the mountains. In the Alps, people living in secluded villages watched the sky for omens, fearing the moment when snow that had accumulated on the slopes would suddenly break away. When it did, a whole hillside of snow could rush down at more than 100 kilometres per hour, destroying everything in its path.
+
+    The first organized rescuers were monks at the Great St Bernard Pass between Switzerland and Italy. From the eighteenth century, they used large dogs to find travellers lost in the snow. The most famous, a dog named Barry, is said to have saved more than forty lives in the early 1800s. His body is still displayed in a museum in Bern.
+
+    Today, rescue is far more scientific, but the principle remains a race against time. When an avalanche stops, the snow sets with the consistency of concrete. Victims cannot move and quickly run out of air. Statistics are sober: most people found within fifteen minutes survive, but after thirty-five minutes, the chances fall dramatically. Mountain rangers advise anyone caught in an avalanche to try to move sideways, out of its path, and, if buried, to create an air pocket in front of their face.
+
+    Modern skiers carry special apparatus: an electronic beacon that sends out a signal, a probe for searching the snow and a small shovel. Rescue teams use helicopters for aerial searches, where victims may appear only as tiny specks on the white surface. Trained dogs are still among the most effective tools, able to search an area in minutes that would take twenty people hours.
+
+    Sometimes, there are miracles. In one famous episode, rescuers searching through the rubble of a hotel buried by an avalanche found survivors alive after more than two days, sheltered in a part of the building that had remained intact. When they were finally discharged from hospital, there were poignant scenes as families sobbed and embraced. One survivor said her mountain upbringing had taught her never to give up. The mountains are beautiful, but they remind us that we are mortal.
+  ru: |
+    Веками лавины были одной из главных опасностей в горах. В Альпах жители уединённых деревень всматривались в небо, ища дурные знамения и боясь того момента, когда скопившийся на склонах снег внезапно сорвётся. А когда он срывался, целый склон снега мог нестись вниз со скоростью более 100 километров в час, сметая всё на своём пути.
+
+    Первыми организованными спасателями были монахи с перевала Большой Сен-Бернар между Швейцарией и Италией. С XVIII века они использовали крупных собак, чтобы находить заблудившихся в снегу путников. Самый знаменитый пёс по кличке Барри, говорят, спас в начале 1800-х годов более сорока жизней. Его чучело до сих пор выставлено в музее в Берне.
+
+    Сегодня спасательные работы гораздо научнее, но принцип прежний — гонка со временем. Когда лавина останавливается, снег уплотняется до консистенции бетона. Пострадавшие не могут пошевелиться, и им быстро начинает не хватать воздуха. Статистика неумолима: большинство людей, найденных в течение пятнадцати минут, выживают, но после тридцати пяти минут шансы резко падают. Горные спасатели советуют попавшим в лавину пытаться уйти вбок, с её пути, а если засыпало — создать воздушный карман перед лицом.
+
+    Современные лыжники носят специальное снаряжение: электронный датчик-маяк, посылающий сигнал, щуп для поиска в снегу и небольшую лопату. Спасатели используют вертолёты для поиска с воздуха, откуда пострадавшие могут выглядеть лишь крошечными точками на белой поверхности. Обученные собаки по-прежнему остаются одним из самых эффективных средств: за несколько минут они обследуют участок, на который у двадцати человек ушли бы часы.
+
+    Иногда случаются чудеса. В одной известной истории спасатели, разбиравшие обломки отеля, накрытого лавиной, нашли выживших спустя более двух суток — они укрылись в части здания, которая осталась целой. Когда их наконец выписали из больницы, были трогательные сцены: родные рыдали и обнимались. Одна из выживших сказала, что детство в горах научило её никогда не сдаваться. Горы прекрасны, но они напоминают нам, что мы смертны.
+  questions:
+  - q: Who were the first organized avalanche rescuers?
+    options:
+    - Soldiers
+    - Monks at the Great St Bernard Pass
+    - Skiers
+    - Scientists
+    answer: 1
+  - q: Why is time so important after an avalanche?
+    options:
+    - The snow melts
+    - Victims quickly run out of air in the hard snow
+    - Rescuers get tired
+    - Night falls
+    answer: 1
+  - q: What do rangers advise if you are caught in an avalanche?
+    options:
+    - Run straight down
+    - Try to move sideways out of its path
+    - Stand still
+    - Shout loudly
+    answer: 1
+  - tf: Trained dogs are no longer used in rescues.
+    answer: false
+  - tf: Most people found within fifteen minutes survive.
+    answer: true

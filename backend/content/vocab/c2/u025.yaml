@@ -21,3 +21,52 @@ words:
 - teem | v | tiːm |  | кишеть | to be full of | The river *teems* with fish. | Река кишит рыбой.
 - topple | v | ˈtɒpl | ˈtɑːpl | опрокидывать; свергать | to fall over; to remove from power | The government was *toppled*. | Правительство было свергнуто.
 - trifle | n | ˈtraɪfl |  | пустяк; трайфл (десерт) | something unimportant; a layered dessert | Don't worry about such *trifles*. | Не переживай из-за пустяков.
+reading:
+  title: The Whale That Shocked the World
+  title_ru: Кит, который потряс мир
+  text: |
+    In 2019, a young whale was found dead on a beach in the Philippines. When scientists examined its body, they were horrified: its stomach was stuffed with forty kilograms of plastic bags and packaging. The animal had starved to death because there was no room left for food. The tragic image spread around the world and became a symbol of a growing crisis.
+
+    Plastic is cheap, light and convenient, which is why we use so much of it. Since the 1950s, humans have produced more than eight billion tonnes. Much of it is designed to be used once and discarded within minutes — think of boxed take-away meals, plastic cutlery and drinks bottles. Astonishingly, only around nine percent of all plastic ever made has been recycled. The rest is burned, buried or ends up in the environment, where it can last for centuries.
+
+    Every year, millions of tonnes reach the oceans, carried by rivers and wind. The adverse effects on marine life are well documented. Turtles mistake plastic bags for jellyfish and choke on them. Seabirds feed bottle tops to their chicks. Dolphins and seals become tangled in abandoned fishing nets, which can prove fatal. Scientists have also recorded a rising incidence of tiny "microplastics" in fish, salt and even drinking water.
+
+    What can be done? Many governments have banned single-use bags and straws. Some municipal authorities collect plastic on alternate weeks to encourage recycling, while others charge for waste. Businesses are developing biodegradable packaging, and some utilize old fishing nets to make carpets and swimwear.
+
+    Experts stress, however, that recycling alone cannot solve the problem. The real solution is reducing overuse. Choosing reusable bottles and bags, refusing unnecessary packaging and supporting stronger laws can all make a difference. As one marine biologist put it: "The ocean is not a pond we can clean up in a weekend. The best plastic is the plastic that is never made."
+  ru: |
+    В 2019 году на пляже на Филиппинах нашли мёртвого молодого кита. Осмотрев его тело, учёные пришли в ужас: желудок был набит сорока килограммами пластиковых пакетов и упаковки. Животное умерло от голода, потому что для пищи просто не осталось места. Трагичный снимок облетел мир и стал символом нарастающего кризиса.
+
+    Пластик дешёвый, лёгкий и удобный, поэтому мы используем его так много. С 1950-х годов человечество произвело более восьми миллиардов тонн пластика. Значительная его часть рассчитана на одно использование и выбрасывается через несколько минут — вспомните еду навынос в коробках, пластиковые приборы и бутылки для напитков. Поразительно, но переработано лишь около девяти процентов всего когда-либо произведённого пластика. Остальное сжигают, закапывают или оно попадает в окружающую среду, где может сохраняться веками.
+
+    Ежегодно миллионы тонн пластика попадают в океаны, принесённые реками и ветром. Вредное воздействие на морскую жизнь хорошо задокументировано. Черепахи принимают пакеты за медуз и задыхаются. Морские птицы кормят птенцов крышками от бутылок. Дельфины и тюлени запутываются в брошенных рыболовных сетях, что может стоить им жизни. Учёные также фиксируют всё более частое присутствие крошечных «микропластиков» в рыбе, соли и даже питьевой воде.
+
+    Что можно сделать? Многие правительства запретили одноразовые пакеты и трубочки. Некоторые городские власти вывозят пластик через неделю, чтобы стимулировать переработку, другие берут плату за отходы. Компании разрабатывают биоразлагаемую упаковку, а некоторые используют старые рыболовные сети для производства ковров и купальников.
+
+    Однако эксперты подчёркивают, что одна лишь переработка проблему не решит. Настоящее решение — сократить чрезмерное потребление. Выбор многоразовых бутылок и сумок, отказ от лишней упаковки и поддержка более строгих законов — всё это имеет значение. Как сказал один морской биолог: «Океан — не пруд, который можно вычистить за выходные. Лучший пластик — тот, который так и не произвели».
+  questions:
+  - q: Why did the whale die?
+    options:
+    - It was caught in a net
+    - Its stomach was full of plastic, so it starved
+    - It was poisoned
+    - It was hit by a ship
+    answer: 1
+  - q: What percentage of plastic has ever been recycled?
+    options:
+    - About 9%
+    - About 50%
+    - About 90%
+    - None
+    answer: 0
+  - q: What do experts say is the real solution?
+    options:
+    - More recycling
+    - Reducing overuse of plastic
+    - Cleaning the oceans
+    - Burning plastic
+    answer: 1
+  - tf: Microplastics have been found in drinking water.
+    answer: true
+  - tf: Recycling alone can solve the plastic problem.
+    answer: false

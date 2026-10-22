@@ -21,3 +21,52 @@ words:
 - traveller | n | ˈtrævələ | ˈtrævələr | путешественник (брит.) | a person who travels | The hotel is popular with young *travellers*. | Отель популярен у молодых путешественников. | амер. traveler
 - truck | n | trʌk |  | грузовик (амер.) | a large vehicle for carrying goods | A big *truck* was parked outside. | Снаружи стоял большой грузовик. | брит. lorry
 - vehicle | n | ˈviəkl | ˈviːhɪkl | транспортное средство | a car, bus, truck, etc. | No *vehicles* are allowed in the park. | Въезд транспорта в парк запрещён.
+reading:
+  title: Two Days in Istanbul
+  title_ru: Два дня в Стамбуле
+  text: |
+    Last spring, Jack and his girlfriend Maya planned a short trip to Istanbul. They had only two days, so they wanted to see the best places. They booked a small hotel near the old part of the city. When they arrived, they took a taxi from the airport. The driver was friendly and told them about the history of the city for the whole hour.
+
+    On the first day, they visited the famous mosques and palaces. There were crowds of tourists everywhere, but the buildings were incredible. In the afternoon, they went to the Grand Bazaar, one of the oldest markets in the world. Maya loves shopping, and she spent hours looking at lamps, carpets and jewellery. The prices were not fixed, so she had to discuss them with the sellers.
+
+    In the evening, they tried many local dishes: grilled fish, rice, salads and sweet baklava. Everything was delicious and not expensive. They paid by card, which was easy.
+
+    On the second day, Jack had a surprise for Maya. He took her on a boat trip across the Bosphorus, the water between Europe and Asia. When the sun went down, the light on the water was golden. Jack took out a small box and asked Maya to marry him. She said yes!
+
+    On the way back to the station, Maya said, "In two days, I experienced more than in a whole year." They are now planning to return to Istanbul for their honeymoon.
+  ru: |
+    Прошлой весной Джек и его девушка Майя спланировали короткую поездку в Стамбул. У них было всего два дня, поэтому они хотели увидеть лучшие места. Они забронировали маленький отель рядом со старой частью города. По прилёте они взяли такси из аэропорта. Водитель был дружелюбным и целый час рассказывал им об истории города.
+
+    В первый день они посетили знаменитые мечети и дворцы. Повсюду были толпы туристов, но здания были невероятными. После обеда они пошли на Гранд-базар, один из старейших рынков мира. Майя обожает ходить по магазинам и часами рассматривала лампы, ковры и украшения. Цены не были фиксированными, поэтому приходилось торговаться с продавцами.
+
+    Вечером они попробовали много местных блюд: рыбу на гриле, рис, салаты и сладкую пахлаву. Всё было вкусным и недорогим. Они расплачивались картой, и это было удобно.
+
+    На второй день у Джека был сюрприз для Майи. Он повёз её на прогулку на лодке по Босфору — проливу между Европой и Азией. Когда солнце садилось, свет на воде был золотым. Джек достал маленькую коробочку и попросил Майю выйти за него замуж. Она согласилась!
+
+    По дороге на вокзал Майя сказала: «За два дня я пережила больше, чем за целый год». Сейчас они планируют вернуться в Стамбул в медовый месяц.
+  questions:
+  - q: How long was the trip?
+    options:
+    - One day
+    - Two days
+    - A week
+    - Two weeks
+    answer: 1
+  - q: What is the Grand Bazaar?
+    options:
+    - A hotel
+    - One of the oldest markets in the world
+    - A palace
+    - A boat
+    answer: 1
+  - q: What was Jack's surprise?
+    options:
+    - A new hotel
+    - A carpet
+    - A proposal of marriage on a boat
+    - Tickets home
+    answer: 2
+  - tf: The prices at the market were fixed.
+    answer: false
+  - tf: Maya said yes to Jack.
+    answer: true

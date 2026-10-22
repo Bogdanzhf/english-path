@@ -21,3 +21,52 @@ words:
 - train | n | treɪn |  | поезд | a line of cars that move on rails | The *train* to Paris leaves at eight. | Поезд в Париж отправляется в восемь.
 - university | n | ˌjuːnɪˈvɜːsəti | ˌjuːnɪˈvɜːrsəti | университет | a place where people study after school to get a degree | My brother goes to *university* in Moscow. | Мой брат учится в университете в Москве.
 - writing | n | ˈraɪtɪŋ |  | письмо (навык); почерк | the activity of writing | Her *writing* is very good. | Она очень хорошо пишет.
+reading:
+  title: Emma's Novel
+  title_ru: Роман Эммы
+  text: |
+    Emma was sixteen, and she had two dreams. Her coach wanted her to become a professional runner, but Emma wanted to be a writer. Every night, she wrote stories on sheets of paper and hid them under her bed.
+
+    Her parents thought writing was silly. "You have an exam next month," her mother said. "Focus on your studies." Emma suffered. She couldn't control her feelings, so she wrote even more.
+
+    One evening, she found a strange old book in a local store. Inside, there was no story — only an outline: "A girl finds a magical door in a library." Emma read it and immediately saw the first scene in her mind. She went home and started her first novel.
+
+    For three months, she wrote every day. She used technology to help her: she typed on her computer and printed every chapter. She also read famous poets to learn how to choose beautiful words. Her descriptions of the library and the magical door became better and better.
+
+    When the novel was finished, Emma sent it by mail to a publisher. There was no limit to her hope. Six weeks later, a letter came. It was a direct answer: "We love your book. We want to publish it." Emma's mother cried. "You were right," she said. "This is the best example of following your dream."
+  ru: |
+    Эмме было шестнадцать, и у неё было две мечты. Тренер хотел, чтобы она стала профессиональной бегуньей, а Эмма хотела быть писательницей. Каждый вечер она писала рассказы на листах бумаги и прятала их под кроватью.
+
+    Родители считали писательство глупостью. «Через месяц у тебя экзамен, — говорила мама. — Сосредоточься на учёбе». Эмма страдала. Она не могла справиться со своими чувствами, поэтому писала ещё больше.
+
+    Однажды вечером она нашла в местном магазине странную старую книгу. Внутри не было истории — только план: «Девочка находит волшебную дверь в библиотеке». Эмма прочитала его и сразу увидела в воображении первую сцену. Она пришла домой и начала свой первый роман.
+
+    Три месяца она писала каждый день. Ей помогала техника: она печатала на компьютере и распечатывала каждую главу. А ещё она читала знаменитых поэтов, чтобы научиться выбирать красивые слова. Её описания библиотеки и волшебной двери становились всё лучше.
+
+    Когда роман был закончен, Эмма отправила его по почте в издательство. Её надежде не было предела. Через шесть недель пришло письмо. Ответ был прямым: «Нам очень понравилась ваша книга. Мы хотим её издать». Мама Эммы плакала. «Ты была права, — сказала она. — Это лучший пример того, как надо следовать мечте».
+  questions:
+  - q: What did Emma's coach want?
+    options:
+    - Emma to become a writer
+    - Emma to become a professional runner
+    - Emma to study maths
+    - Emma to work in a store
+    answer: 1
+  - q: What did Emma find in the old book?
+    options:
+    - A full story
+    - An outline of a story
+    - A letter from a poet
+    - Money
+    answer: 1
+  - q: How did Emma send her novel to the publisher?
+    options:
+    - By email
+    - By mail
+    - She took it herself
+    - Her coach sent it
+    answer: 1
+  - tf: Emma's parents liked her writing from the start.
+    answer: false
+  - tf: The publisher wanted to publish Emma's book.
+    answer: true

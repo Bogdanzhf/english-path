@@ -23,3 +23,52 @@ words:
 - tabloid | n | ˈtæblɔɪd |  | бульварная газета, таблоид | a newspaper with short stories and gossip | The story was in all the *tabloids*. | Эта история была во всех таблоидах.
 - tragedy | n | ˈtrædʒədi |  | трагедия | a very sad event | The accident was a terrible *tragedy*. | Авария стала ужасной трагедией.
 - watercolour | n | ˈwɔːtəkʌlə | wˈɔːtəkʌlɐ | акварель | paint mixed with water; a painting made with it | She paints in *watercolour*. | Она пишет акварелью. | амер. watercolor
+reading:
+  title: Painting the Light
+  title_ru: Писать свет
+  text: |
+    In the 1860s, the art world in Paris was controlled by the Academy of Fine Arts. Its rules were strict. Good paintings were supposed to be realistic and carefully finished, with no visible brushstrokes. Traditional subjects — gods, kings and great battles — were preferred. Every year, the Academy held an exhibition called the Salon, and acceptance by the Salon was the key to success for any artist.
+
+    A group of young painters, including Claude Monet, Pierre-Auguste Renoir and Berthe Morisot, began to break these rules. Unlike academic painters, who worked in their studios, they took their canvases outside. They wanted to capture how sunlight changed the colours of the world from minute to minute. To work quickly, they used short, thick strokes of bright colour. Up close, their paintings looked unfinished, and the edges of objects were blurred. But from a distance, the colours mixed in the viewer's eye and seemed to shine.
+
+    They also painted modern life: people dancing in cafés, walking in parks or travelling by train. Their subjects were not heroes, but ordinary members of the middle and working classes.
+
+    The Salon rejected their work again and again. So in 1874, they organized their own exhibition. One critic laughed at a painting by Monet called "Impression, Sunrise", which showed the reflection of the morning sun on the water. He called the whole group "Impressionists" — and the name stuck.
+
+    At first, the public agreed with the critics. But within twenty years, the movement had won the hearts of collectors around the world. Today, Impressionist paintings attract huge crowds. Monet's distinctive water lilies, some of which are several metres in width, fill entire rooms. Their influence can be seen in a wide array of later art, from painting to photography and even cinema.
+  ru: |
+    В 1860-х годах миром искусства в Париже управляла Академия изящных искусств. Её правила были строгими. Хорошая картина должна была быть реалистичной и тщательно законченной, без видимых мазков. Предпочитались традиционные сюжеты — боги, короли и великие сражения. Каждый год Академия устраивала выставку под названием Салон, и признание Салона было ключом к успеху для любого художника.
+
+    Группа молодых художников, в том числе Клод Моне, Пьер Огюст Ренуар и Берта Моризо, начала нарушать эти правила. В отличие от академистов, работавших в мастерских, они выносили холсты на улицу. Они хотели уловить, как солнечный свет меняет краски мира с каждой минутой. Чтобы работать быстро, они писали короткими густыми мазками ярких красок. Вблизи их картины казались незаконченными, а контуры предметов — размытыми. Но на расстоянии цвета смешивались в глазах зрителя и словно светились.
+
+    Они писали и современную жизнь: людей, танцующих в кафе, гуляющих в парках или едущих в поезде. Их героями были не полководцы, а обычные представители среднего и рабочего класса.
+
+    Салон снова и снова отвергал их работы. Поэтому в 1874 году они устроили собственную выставку. Один критик высмеял картину Моне «Впечатление. Восходящее солнце», на которой было изображено отражение утреннего солнца в воде. Он назвал всю группу «импрессионистами» — и название прижилось.
+
+    Поначалу публика соглашалась с критиками. Но уже через двадцать лет это течение покорило сердца коллекционеров по всему миру. Сегодня картины импрессионистов собирают огромные толпы. Узнаваемые «Кувшинки» Моне, некоторые из которых шириной в несколько метров, занимают целые залы. Их влияние заметно в самом разном более позднем искусстве — от живописи до фотографии и даже кино.
+  questions:
+  - q: What did the Academy prefer?
+    options:
+    - Quick, bright paintings
+    - Realistic, carefully finished paintings of traditional subjects
+    - Paintings of cafés
+    - Photography
+    answer: 1
+  - q: Why did the Impressionists paint outside?
+    options:
+    - Their studios were too small
+    - To capture how sunlight changed colours
+    - The Academy told them to
+    - It was cheaper
+    answer: 1
+  - q: Where does the name 'Impressionists' come from?
+    options:
+    - A critic laughing at Monet's painting
+    - A famous café
+    - The Academy
+    - A book by Renoir
+    answer: 0
+  - tf: The Salon accepted the Impressionists' work from the start.
+    answer: false
+  - tf: Their influence can be seen in photography and cinema.
+    answer: true

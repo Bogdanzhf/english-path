@@ -22,3 +22,52 @@ words:
 - table | n | ˈteɪbl |  | стол | a piece of furniture with a flat top and legs | The keys are on the *table*. | Ключи на столе.
 - umbrella | n | ʌmˈbrelə | ˈʌmbrelə | зонт | a thing you hold over your head when it rains | Don't forget your *umbrella*. | Не забудь зонт.
 - vase | n | vɑːz | veɪs | ваза | a container for flowers | She put the roses in a glass *vase*. | Она поставила розы в стеклянную вазу.
+reading:
+  title: The Street Cleaners
+  title_ru: Уборщики улиц
+  text: |
+    Leo lives in a big city. Every day on his way to school, he walks down the same street. A year ago, he noticed a problem: the street was very dirty. There were plastic bottles, broken glass and old batteries everywhere.
+
+    "Why don't people think about nature?" he asked his history teacher, Ms. Lane. "Many people are simply not aware of the problem," she said. "And companies advertise new things every day, so we buy more and throw away more."
+
+    Leo decided to do something. He told his friends a few facts: plastic stays in nature for hundreds of years, and one old battery can make a lot of water dirty. His friends were surprised. Together, they decided to clean the street every Saturday morning.
+
+    At first, only five children came. People in the street laughed at them. But eventually, the parents joined, and then the neighbours. They put black bags for rubbish and boxes for glass and batteries on every corner.
+
+    Today, the street is clean, and the group has developed into a club with sixty members. The city even gave them an electric car to carry the bags. "I never thought one small idea could change so much," says Leo. "Maybe one day we can clean the whole country!"
+  ru: |
+    Лео живёт в большом городе. Каждый день по дороге в школу он ходит по одной и той же улице. Год назад он заметил проблему: улица была очень грязной. Повсюду валялись пластиковые бутылки, битое стекло и старые батарейки.
+
+    «Почему люди не думают о природе?» — спросил он учительницу истории, мисс Лейн. «Многие просто не знают об этой проблеме, — ответила она. — А компании каждый день рекламируют новые вещи, поэтому мы покупаем больше и больше выбрасываем».
+
+    Лео решил что-то сделать. Он рассказал друзьям несколько фактов: пластик остаётся в природе сотни лет, а одна старая батарейка может загрязнить много воды. Друзья удивились. Вместе они решили каждое субботнее утро убирать улицу.
+
+    Сначала пришли только пятеро детей. Люди на улице над ними смеялись. Но в конце концов присоединились родители, а затем и соседи. На каждом углу они поставили чёрные мешки для мусора и ящики для стекла и батареек.
+
+    Сегодня улица чистая, а группа выросла в клуб из шестидесяти человек. Город даже дал им электромобиль, чтобы возить мешки. «Я никогда не думал, что одна маленькая идея может так много изменить, — говорит Лео. — Может быть, однажды мы очистим всю страну!»
+  questions:
+  - q: What problem did Leo notice?
+    options:
+    - The street was dirty
+    - The school was closed
+    - The bus was late
+    - The city was too loud
+    answer: 0
+  - q: What did Ms. Lane say about many people?
+    options:
+    - They are lazy
+    - They are not aware of the problem
+    - They love nature
+    - They never buy plastic
+    answer: 1
+  - q: What did the city give the club?
+    options:
+    - Money
+    - An electric car
+    - A new street
+    - Black bags
+    answer: 1
+  - tf: At first, a lot of people joined Leo's group.
+    answer: false
+  - tf: Plastic stays in nature for a very long time.
+    answer: true

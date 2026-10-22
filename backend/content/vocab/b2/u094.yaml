@@ -22,3 +22,52 @@ words:
 - terrorism | n | ˈterərɪzəm |  | терроризм | violence for political aims | The country fights *terrorism*. | Страна борется с терроризмом.
 - threat | n | θret |  | угроза | a danger; something that might cause harm | Pollution is a serious *threat* to wildlife. | Загрязнение — серьёзная угроза для дикой природы.
 - voter | n | ˈvəʊtə | ˈvoʊtər | избиратель | a person who votes | *Voters* go to the polls tomorrow. | Завтра избиратели идут на выборы.
+reading:
+  title: The Longest Day
+  title_ru: Самый длинный день
+  text: |
+    By 1944, the Second World War had been going on for almost five years. Since the outbreak of the war, Germany had taken control of most of Europe. The Allied nations — including Britain, the USA, Canada and the Free French — knew they had to open a new front in the west. After months of planning, they mobilized the largest sea invasion in history.
+
+    The landing was originally planned for 5 June, but bad weather forced the commanders to wait a day. Early on the morning of 6 June, more than 150,000 soldiers crossed the English Channel in thousands of ships and landed on five beaches in Normandy, France. It was a joint operation of land, sea and air forces. Many of the soldiers were teenagers who had never seen battle. On the ships, some of them prayed quietly.
+
+    The fighting on some beaches was terrible. On the beach code-named "Omaha", German guns waited on the cliffs, and thousands of American soldiers were killed or wounded in the first hours. But the soldiers' determination was extraordinary. By the end of the day, the Allies had a foothold in France. Thus began the long march towards Berlin.
+
+    Less than a year later, in May 1945, Germany surrendered. When the news of victory reached London, Paris and New York, crowds went wild in the streets. Soldiers who had been prisoners for years finally came home.
+
+    Today, D-Day is marked every year in Normandy. Veterans — now very old men — return to the beaches where their friends died. Leaders lay flowers, national anthems are played, and the crowds stand in silence. Beyond the beaches, rows of white stones stand in the war cemeteries. They are a quiet tribute to the young people who sacrificed their lives for a free Europe.
+  ru: |
+    К 1944 году Вторая мировая война шла уже почти пять лет. С самого начала войны Германия захватила большую часть Европы. Страны-союзники — в том числе Великобритания, США, Канада и Свободная Франция — понимали, что им нужно открыть новый фронт на западе. После многомесячной подготовки они мобилизовали силы для крупнейшей морской высадки в истории.
+
+    Первоначально высадка планировалась на 5 июня, но из-за плохой погоды командованию пришлось подождать день. Рано утром 6 июня более 150 000 солдат пересекли Ла-Манш на тысячах судов и высадились на пяти пляжах Нормандии во Франции. Это была совместная операция сухопутных, морских и воздушных сил. Многие солдаты были подростками, никогда не видевшими боя. На кораблях некоторые из них тихо молились.
+
+    Бои на некоторых пляжах были страшными. На пляже под кодовым названием «Омаха» на скалах поджидали немецкие орудия, и в первые же часы тысячи американских солдат были убиты или ранены. Но решимость солдат была поразительной. К концу дня союзники закрепились во Франции. Так начался долгий путь к Берлину.
+
+    Меньше чем через год, в мае 1945-го, Германия капитулировала. Когда весть о победе пришла в Лондон, Париж и Нью-Йорк, толпы на улицах ликовали без удержу. Солдаты, годами находившиеся в плену, наконец вернулись домой.
+
+    Сегодня день высадки ежегодно отмечают в Нормандии. Ветераны — теперь уже глубокие старики — возвращаются на пляжи, где погибли их друзья. Руководители стран возлагают цветы, звучат национальные гимны, и люди стоят в молчании. За пляжами на военных кладбищах выстроились ряды белых надгробий. Это безмолвная дань памяти молодым людям, отдавшим жизни за свободную Европу.
+  questions:
+  - q: Why was the landing delayed by a day?
+    options:
+    - The soldiers weren't ready
+    - Bad weather
+    - The ships were broken
+    - The enemy attacked first
+    answer: 1
+  - q: How many soldiers crossed the Channel on 6 June?
+    options:
+    - About 15,000
+    - More than 150,000
+    - 1.5 million
+    - '500'
+    answer: 1
+  - q: What happens in Normandy every year?
+    options:
+    - A sports competition
+    - D-Day is remembered with ceremonies
+    - A new invasion is practised
+    - Nothing
+    answer: 1
+  - tf: The fighting on Omaha beach was easy.
+    answer: false
+  - tf: Germany surrendered less than a year after D-Day.
+    answer: true

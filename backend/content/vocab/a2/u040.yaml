@@ -18,3 +18,52 @@ words:
 - rat | n | ræt |  | крыса | an animal like a big mouse | There's a *rat* in the basement! | В подвале крыса!
 - robin | n | ˈrɒbɪn | ˈrɑːbən | малиновка | a small bird with a red front | A *robin* is singing in the garden. | В саду поёт малиновка.
 - spider | n | ˈspaɪdə | ˈspaɪdər | паук | a small creature with eight legs that makes webs | There's a big *spider* in the bath! | В ванне огромный паук!
+reading:
+  title: A Job at the Pet Shop
+  title_ru: Работа в зоомагазине
+  text: |
+    When Ella was sixteen, she wanted a summer job. She loved animals, so she was very happy when a small pet shop in her town offered her a job. The owner, Mr. Green, was an old man with a white beard who drank tea all day.
+
+    On her first day, Ella learned that the job was not only about playing with animals. She had to clean the cages, feed the fish and sell products like food, toys and balls for dogs. "You are responsible for the animals now," Mr. Green said. "They depend on you."
+
+    The shop had many types of animals: cats, rabbits, birds — and a long green snake called Monty. Ella was afraid of him at first. He stood very still in his glass box, and only his tongue moved in and out. "He's tasting the air," Mr. Green explained. "Snakes are strange, but they are not evil."
+
+    One day, a big pet company visited the shop. They wanted to buy it and sell expensive products. Mr. Green said no. "Few people care about animals as much as they care about money," he said. A long line of customers waited outside that afternoon to support him.
+
+    At the end of the summer, Ella had a test at school about animals. She got the highest grade in her class. "The best teacher was not at school," she said. "It was an old man and a snake at the bottom of the street."
+  ru: |
+    Когда Элле было шестнадцать, она захотела найти работу на лето. Она любила животных, поэтому очень обрадовалась, когда маленький зоомагазин в её городе предложил ей работу. Хозяин, мистер Грин, был стариком с белой бородой, который целыми днями пил чай.
+
+    В первый же день Элла узнала, что работа — это не только игры с животными. Ей нужно было чистить клетки, кормить рыбок и продавать товары — корм, игрушки и мячики для собак. «Теперь ты отвечаешь за животных, — сказал мистер Грин. — Они зависят от тебя».
+
+    В магазине было много видов животных: кошки, кролики, птицы — и длинная зелёная змея по кличке Монти. Сначала Элла её боялась. Монти неподвижно стоял в стеклянном ящике, и двигался только его язык — туда-сюда. «Он пробует воздух на вкус, — объяснил мистер Грин. — Змеи странные, но не злые».
+
+    Однажды в магазин пришли представители крупной компании товаров для животных. Они хотели купить магазин и продавать дорогие товары. Мистер Грин отказал. «Мало кто заботится о животных так же, как о деньгах», — сказал он. В тот день у магазина выстроилась длинная очередь покупателей, чтобы поддержать его.
+
+    В конце лета у Эллы в школе была контрольная о животных. Она получила самую высокую оценку в классе. «Лучший учитель был не в школе, — сказала она. — Это был старик со змеёй в конце улицы».
+  questions:
+  - q: What did Mr. Green drink all day?
+    options:
+    - Coffee
+    - Water
+    - Tea
+    - Juice
+    answer: 2
+  - q: Why does the snake move its tongue?
+    options:
+    - It is hungry
+    - It is tasting the air
+    - It is angry
+    - It wants to play
+    answer: 1
+  - q: What did the big company want?
+    options:
+    - To give Ella a job
+    - To buy the shop
+    - To buy Monty
+    - To close the street
+    answer: 1
+  - tf: Ella was afraid of the snake at first.
+    answer: true
+  - tf: Mr. Green agreed to sell the shop.
+    answer: false

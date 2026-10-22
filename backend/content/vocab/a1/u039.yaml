@@ -30,3 +30,52 @@ words:
 - tennis | n | ˈtenɪs | ˈtenəs | теннис | a game for two or four players with rackets and a ball | We play *tennis* every Sunday. | Мы играем в теннис по воскресеньям.
 - volleyball | n | ˈvɒlɪbɔːl | ˈvɑːliːbɔːl | волейбол | a game where two teams hit a ball over a high net | They're playing *volleyball* on the beach. | Они играют в волейбол на пляже.
 - win | v | wɪn |  | выигрывать, побеждать | to be the best in a game or competition | Our team *won* the match! | Наша команда выиграла матч! | win – won – won
+reading:
+  title: The Water Polo Team
+  title_ru: Команда по водному поло
+  text: |
+    Daniel was an average student and an average athlete. He was not very fast or very strong. But he had one great quality: he loved to swim. When he was fifteen, he became a member of his school's water polo team.
+
+    At first, Daniel was always behind the others. In every match, he sat on the bench. Some players laughed at him. But the coach, Mrs. Ortiz, saw something special in his personality. "You never give up," she said. "That's half of the game."
+
+    The coach paid attention not only to the body but also to mental strength. Before each match, she asked the team to sit quietly, lower their heads and listen to the sound of their breathing. She even read them a short poem about courage.
+
+    The season was difficult, but the team advanced to the final. During the last match, two players got hurt, and the coach had to remove them from the pool for their safety. She looked at the bench. "Daniel, your turn," she said.
+
+    There were only thirty seconds left. Daniel swam as fast as he could, caught the ball and shot. Goal! The team won. On the bus home, every passenger was singing. After that day, Daniel's behavior changed — he was more confident in everything. He still keeps a photo of the team on his wall, and he often reads the coach's poem before important exams.
+  ru: |
+    Дэниел был средним учеником и средним спортсменом. Он не был ни особенно быстрым, ни особенно сильным. Но у него было одно замечательное качество: он обожал плавать. В пятнадцать лет он стал членом школьной команды по водному поло.
+
+    Сначала Дэниел всегда отставал от остальных. На каждом матче он сидел на скамейке. Некоторые игроки над ним смеялись. Но тренер, миссис Ортис, увидела в его характере что-то особенное. «Ты никогда не сдаёшься, — сказала она. — Это половина игры».
+
+    Тренер уделяла внимание не только телу, но и силе духа. Перед каждым матчем она просила команду посидеть в тишине, опустить головы и послушать звук своего дыхания. Она даже читала им короткое стихотворение о смелости.
+
+    Сезон был трудным, но команда вышла в финал. Во время последнего матча два игрока получили травмы, и тренеру пришлось вывести их из бассейна ради их безопасности. Она посмотрела на скамейку. «Дэниел, твоя очередь», — сказала она.
+
+    Оставалось всего тридцать секунд. Дэниел поплыл так быстро, как только мог, поймал мяч и бросил. Гол! Команда победила. В автобусе по дороге домой пели все пассажиры. После того дня поведение Дэниела изменилось — он стал увереннее во всём. Он до сих пор хранит на стене фото команды и часто перечитывает стихотворение тренера перед важными экзаменами.
+  questions:
+  - q: What was Daniel's great quality?
+    options:
+    - He was very fast
+    - He loved to swim and never gave up
+    - He was very strong
+    - He was the best student
+    answer: 1
+  - q: What did the coach do before each match?
+    options:
+    - She shouted at the team
+    - She asked the team to sit quietly
+    - She gave them chocolate
+    - She played loud music
+    answer: 1
+  - q: Why did the coach remove two players?
+    options:
+    - They played badly
+    - They got hurt
+    - They were late
+    - They broke the rules
+    answer: 1
+  - tf: Daniel scored the winning goal.
+    answer: true
+  - tf: Daniel played in every match from the start of the season.
+    answer: false

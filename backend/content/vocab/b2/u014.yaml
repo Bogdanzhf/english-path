@@ -21,3 +21,56 @@ words:
 - vessel | n | ˈvesl |  | судно; сосуд | a large ship or boat; a container for liquid | A cargo *vessel* entered the harbour. | В гавань вошло грузовое судно. | blood vessel — кровеносный сосуд
 - waist | n | weɪst |  | талия | the middle part of the body | She tied a belt around her *waist*. | Она повязала пояс на талии.
 - wrist | n | rɪst |  | запястье | the joint between your hand and arm | He wears a watch on his left *wrist*. | Он носит часы на левом запястье.
+reading:
+  title: 'From Dogs to Bacteria: The Discovery of Insulin'
+  title_ru: 'От собак к бактериям: открытие инсулина'
+  text: |
+    For thousands of years, people noticed that the urine of some patients tasted sweet, like nectar. The disease was called diabetes, and until the 1920s it was a death sentence. Children with the most serious form usually died within months. The only treatment was a starvation regime, which kept patients alive a little longer but left them weak and thin.
+
+    Scientists suspected that the pancreas, an organ near the stomach, had a mechanism for controlling sugar in the blood. In 1921, a young Canadian surgeon, Frederick Banting, and his student assistant Charles Best decided to test this notion. Working in a small laboratory in Toronto, they removed the pancreas from dogs, which then developed diabetes. When they injected the dogs with an extract from healthy pancreas tissue, the dogs' blood sugar fell.
+
+    In January 1922, the extract was given to a fourteen-year-old boy who was dying of diabetes. After some problems with impurities, a chemist on the team found a way to purify it, and the boy made a dramatic recovery. The substance was named insulin. Within a year, it was being manufactured on a large scale, and thousands of lives were saved.
+
+    Banting and his team made an explicit decision about the ethics of their discovery. They sold the patent to the University of Toronto for just one dollar each. "Insulin does not belong to me," Banting said. "It belongs to the world."
+
+    For decades, insulin was taken from the pancreases of pigs and cows. Then, in 1978, scientists used biotechnology to make bacteria produce human insulin. This straightforward-sounding idea was a revolution: it eliminated the need for animals and minimized allergic reactions.
+
+    Sadly, the story does not end happily for everyone. In some countries, insulin prices have risen so much that patients cannot afford it. Coalitions of doctors and patients are now asking governments to create a legal framework to bring prices down — in the spirit of the scientists who gave their discovery away.
+  ru: |
+    Тысячи лет люди замечали, что моча некоторых больных сладкая на вкус, как нектар. Болезнь назвали диабетом, и до 1920-х годов она была смертным приговором. Дети с самой тяжёлой формой обычно умирали за несколько месяцев. Единственным лечением был голодный режим, который продлевал жизнь, но оставлял больных слабыми и истощёнными.
+
+    Учёные подозревали, что поджелудочная железа — орган рядом с желудком — содержит механизм, регулирующий уровень сахара в крови. В 1921 году молодой канадский хирург Фредерик Бантинг и его ассистент, студент Чарльз Бест, решили проверить эту идею. Работая в маленькой лаборатории в Торонто, они удаляли у собак поджелудочную железу, после чего у тех развивался диабет. Когда собакам вводили экстракт из здоровой ткани поджелудочной железы, уровень сахара в крови падал.
+
+    В январе 1922 года экстракт ввели четырнадцатилетнему мальчику, умиравшему от диабета. После проблем с примесями химик из команды нашёл способ его очистить, и мальчик поразительно быстро пошёл на поправку. Вещество назвали инсулином. Уже через год его производили в больших масштабах, и были спасены тысячи жизней.
+
+    Бантинг и его команда приняли однозначное решение об этической стороне открытия. Они продали патент Университету Торонто всего за один доллар каждый. «Инсулин принадлежит не мне, — сказал Бантинг. — Он принадлежит миру».
+
+    Десятилетиями инсулин получали из поджелудочной железы свиней и коров. Затем, в 1978 году, учёные с помощью биотехнологий заставили бактерии производить человеческий инсулин. Эта на первый взгляд простая идея стала революцией: она избавила от необходимости использовать животных и свела к минимуму аллергические реакции.
+
+    К сожалению, эта история не для всех заканчивается счастливо. В некоторых странах цены на инсулин выросли настолько, что больные не могут его себе позволить. Коалиции врачей и пациентов теперь призывают правительства создать правовые рамки для снижения цен — в духе учёных, которые подарили своё открытие миру.
+  questions:
+  - q: What was the treatment for diabetes before insulin?
+    options:
+    - Eating more sugar
+    - A starvation regime
+    - Surgery
+    - Antibiotics
+    answer: 1
+  - q: How much did Banting and his team sell the patent for?
+    options:
+    - A million dollars
+    - One dollar each
+    - Nothing
+    - Ten thousand dollars
+    answer: 1
+  - q: What happened in 1978?
+    options:
+    - Insulin was discovered
+    - Bacteria were used to produce human insulin
+    - Insulin prices fell
+    - The first dog was treated
+    answer: 1
+  - tf: Until 1978, insulin was taken from pigs and cows.
+    answer: true
+  - tf: Insulin is cheap for everyone today.
+    answer: false

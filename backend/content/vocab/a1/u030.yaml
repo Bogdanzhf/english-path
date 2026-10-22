@@ -19,3 +19,52 @@ words:
 - wall | n | wɔːl |  | стена | one of the sides of a room or building | There's a picture on the *wall*. | На стене висит картина.
 - west | n | west |  | запад | the direction where the sun goes down | The sun sets in the *west*. | Солнце садится на западе.
 - window | n | ˈwɪndəʊ | ˈwɪndoʊ | окно | an opening in a wall with glass | Can you open the *window*? | Можешь открыть окно?
+reading:
+  title: Anna's Café
+  title_ru: Кафе Анны
+  text: |
+    For eight years, Anna worked in accounting for a big company downtown. Her salary was good, and the job was practical, but it was dull. Every day, she paid the bus fare, sat at a computer, worked with numbers and went home tired.
+
+    Anna's real dream was to found her own café. Cooking had always appealed to her. When she was a student, she got a scholarship to a cooking school in Paris, but she didn't go. Her parents urged her to choose a "safe" job instead.
+
+    One day, Anna's former teacher from the cooking school came to her office as a client. They talked for an hour. "You have a treasure," the teacher said. "Your talent. Don't waste it."
+
+    That night, Anna made a decision. She left her job, borrowed some money from her brother and got a loan from the bank. She invested everything in a small café near her home. At first, she assumed she would fail. In the first quarter of the year, the café made almost no money, and she felt embarrassed when friends asked about it.
+
+    But slowly, people discovered her food. Now there is a line outside the door every morning. "My office job was only temporary," Anna laughs. "This is my real life."
+  ru: |
+    Восемь лет Анна работала в бухгалтерии крупной компании в центре города. Зарплата была хорошей, работа — практичной, но скучной. Каждый день она платила за автобус, сидела за компьютером, работала с цифрами и возвращалась домой уставшей.
+
+    Настоящей мечтой Анны было открыть своё кафе. Готовка всегда привлекала её. Когда она была студенткой, она получила стипендию в кулинарную школу в Париже, но не поехала. Родители уговорили её выбрать «надёжную» профессию.
+
+    Однажды бывший преподаватель Анны из кулинарной школы пришёл к ней в офис как клиент. Они проговорили целый час. «У тебя есть сокровище, — сказал учитель. — Твой талант. Не трать его зря».
+
+    В тот вечер Анна приняла решение. Она ушла с работы, заняла немного денег у брата и взяла кредит в банке. Всё это она вложила в маленькое кафе рядом с домом. Сначала она думала, что у неё ничего не выйдет. В первом квартале кафе почти не приносило денег, и ей было неловко, когда друзья спрашивали, как дела.
+
+    Но постепенно люди распробовали её еду. Теперь каждое утро у дверей стоит очередь. «Моя офисная работа была лишь временной, — смеётся Анна. — А это моя настоящая жизнь».
+  questions:
+  - q: Where did Anna work for eight years?
+    options:
+    - In a café
+    - In accounting for a big company
+    - In a cooking school
+    - In a bank
+    answer: 1
+  - q: Who came to Anna's office as a client?
+    options:
+    - Her brother
+    - Her former teacher
+    - Her parents
+    - A famous cook
+    answer: 1
+  - q: How did Anna get money for the café?
+    options:
+    - She found treasure
+    - She borrowed from her brother and got a loan
+    - She won a prize
+    - Her parents gave it to her
+    answer: 1
+  - tf: The café was very successful in the first quarter.
+    answer: false
+  - tf: Anna did not go to the cooking school in Paris.
+    answer: true

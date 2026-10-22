@@ -21,3 +21,52 @@ words:
 - resident | n | ˈrezɪdənt |  | житель, проживающий | a person who lives in a place | Local *residents* complained about the noise. | Местные жители жаловались на шум.
 - warrior | n | ˈwɒriə | ˈwɔːriər | воин | a brave soldier, especially in the past | The Vikings were fierce *warriors*. | Викинги были свирепыми воинами.
 - wed | v | wed |  | вступать в брак (книжн.) | to marry | They *wed* in a small church. | Они обвенчались в маленькой церкви.
+reading:
+  title: Breaking the Glass Ceiling
+  title_ru: Пробить стеклянный потолок
+  text: |
+    A hundred years ago, women in most countries could not vote, and very few received a university education. Today, in many parts of the world, more women than men graduate from university. In some fields, such as medicine and law, the number of female students has soared. Yet women still face a "glass ceiling" — an invisible barrier that stops them from reaching top positions.
+
+    The numbers tell the story. Women make up nearly half of the workforce, but they hold a mere 10% of top leadership positions in large companies. In science and engineering, the gap is even wider. Why is this?
+
+    Experts point to several reasons. One is that women often carry more responsibility for children and elderly parents, which makes long working hours difficult. Another is that many workplaces were designed by men, for men. Women who are vocal and confident are sometimes seen as "aggressive", while men with the same qualities are called "strong leaders". Many women also say they lack guidance from senior colleagues who could help them make the right career decisions.
+
+    Many organizations are now trying to change this. Some offer flexible working hours, so that employees can feel comfortable balancing work and family. Others have created mentoring programmes, in which experienced managers give younger employees encouragement and advice. A growing number of governments have endorsed laws that require equal pay for equal work. Inclusion is no longer just a nice idea; it is a tool for better business. Research shows that teams with a mix of men and women make better decisions.
+
+    Role models matter too. When girls see women in power — as scientists, CEOs or presidents — it inspires them to aim higher. As one engineer put it: "You can't be what you can't see." Fostering the next generation of female leaders may be the most important step of all.
+  ru: |
+    Сто лет назад в большинстве стран женщины не могли голосовать, и очень немногие получали высшее образование. Сегодня во многих частях мира университеты оканчивает больше женщин, чем мужчин. В некоторых областях, например в медицине и юриспруденции, число студенток резко выросло. И всё же женщины по-прежнему сталкиваются со «стеклянным потолком» — невидимым барьером, который не даёт им занять высшие должности.
+
+    Цифры говорят сами за себя. Женщины составляют почти половину работающих, но занимают лишь 10% высших руководящих должностей в крупных компаниях. В науке и инженерии разрыв ещё больше. Почему так?
+
+    Эксперты называют несколько причин. Одна из них — на женщинах часто лежит больше обязанностей по уходу за детьми и пожилыми родителями, из-за чего долгий рабочий день даётся им тяжело. Другая — многие рабочие места создавались мужчинами и для мужчин. Женщин, которые открыто высказываются и уверены в себе, порой считают «агрессивными», тогда как мужчин с теми же качествами называют «сильными лидерами». Многие женщины также говорят, что им не хватает наставничества со стороны старших коллег, которые помогли бы принять правильные карьерные решения.
+
+    Многие организации сейчас пытаются это изменить. Некоторые предлагают гибкий график, чтобы сотрудникам было комфортно совмещать работу и семью. Другие создали программы наставничества, в которых опытные руководители поддерживают и консультируют молодых сотрудников. Всё больше правительств одобряют законы, требующие равной оплаты за равный труд. Инклюзивность — уже не просто красивая идея, а инструмент для более успешного бизнеса. Исследования показывают, что смешанные команды из мужчин и женщин принимают более удачные решения.
+
+    Важны и образцы для подражания. Когда девочки видят женщин у власти — учёных, руководителей компаний, президентов, — это вдохновляет их ставить более высокие цели. Как сказала одна инженер: «Нельзя стать тем, кого не видишь». Воспитание следующего поколения женщин-лидеров, возможно, самый важный шаг из всех.
+  questions:
+  - q: What is the 'glass ceiling'?
+    options:
+    - A type of office building
+    - An invisible barrier that stops women reaching top jobs
+    - A university course
+    - A law about equal pay
+    answer: 1
+  - q: What percentage of top leadership positions do women hold, according to the text?
+    options:
+    - About half
+    - About 10%
+    - About 30%
+    - Almost none
+    answer: 1
+  - q: What do mentoring programmes offer?
+    options:
+    - Higher salaries
+    - Encouragement and advice from experienced managers
+    - Free childcare
+    - Shorter working hours
+    answer: 1
+  - tf: In some countries more women than men graduate from university.
+    answer: true
+  - tf: Research shows that mixed teams make worse decisions.
+    answer: false

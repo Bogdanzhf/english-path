@@ -21,3 +21,52 @@ words:
 - summarize | v | ˈsəmɜːaɪz | ˈsʌməraɪz | подводить итог, резюмировать | to give the main points | Can you *summarize* the article? | Можете кратко изложить статью? | брит. также summarise
 - volunteer | v | ˌvɒlənˈtɪə | ˌvɑːlənˈtɪr | вызываться добровольно | to offer to do something without being paid or asked | She *volunteered* to help at the hospital. | Она вызвалась помогать в больнице.
 - warn | v | wɔːn | wɔːrn | предупреждать | to tell someone about possible danger | Doctors *warn* that touring can damage your health. | Врачи предупреждают, что гастроли могут навредить здоровью.
+reading:
+  title: The Thousand Paper Cranes
+  title_ru: Тысяча бумажных журавликов
+  text: |
+    In August 1945, at the end of the Second World War, an American plane dropped a nuclear bomb on the Japanese city of Hiroshima. In seconds, the bomb devastated the city. Tens of thousands of people died, and many more suffered for years afterwards.
+
+    One of the survivors was a girl called Sadako Sasaki. She was two years old at the time. For ten years, she grew up as a happy, healthy child who loved running. But in 1955, at the age of twelve, she became ill. Doctors studied her blood under a microscope and found that she had leukaemia, a cancer that many children in Hiroshima developed because of the bomb.
+
+    In hospital, Sadako's best friend told her about an old Japanese legend: anyone who folds a thousand paper cranes will be granted a wish. Sadako began folding. She used any paper she could find — medicine wrappers, pieces of newspaper, even the paper from her get-well cards. Her family watched her with grief, but Sadako didn't frown or complain. She was coping with her illness with amazing courage. She often gazed at the cranes hanging from the ceiling, rotating slowly in the air.
+
+    Sadako died in October 1955. Some stories say she folded over a thousand cranes; others say she didn't finish. Either way, her friends and classmates were moved by her story. They collected money to build a memorial for her and all the children who died because of the bomb.
+
+    Today, in the Hiroshima Peace Park, there is a statue of Sadako holding a golden crane. Every year, visitors leave thousands of paper cranes there. Many people buy small cranes as souvenirs. Books and films portray her story, and it has become a symbol of hope and peace all over the world.
+  ru: |
+    В августе 1945 года, в конце Второй мировой войны, американский самолёт сбросил атомную бомбу на японский город Хиросиму. За секунды бомба опустошила город. Десятки тысяч людей погибли, а ещё больше страдали долгие годы.
+
+    Одной из выживших была девочка по имени Садако Сасаки. Ей тогда было два года. Десять лет она росла счастливым, здоровым ребёнком и обожала бегать. Но в 1955 году, в двенадцать лет, она заболела. Врачи изучили её кровь под микроскопом и обнаружили лейкоз — рак, которым из-за бомбы заболели многие дети Хиросимы.
+
+    В больнице лучшая подруга рассказала Садако старинную японскую легенду: тот, кто сложит тысячу бумажных журавликов, получит исполнение желания. Садако начала складывать. Она использовала любую бумагу, какую могла найти, — обёртки от лекарств, обрывки газет, даже бумагу от открыток с пожеланиями выздоровления. Семья смотрела на неё с горем, но Садако не хмурилась и не жаловалась. Она справлялась с болезнью с удивительным мужеством. Она часто подолгу смотрела на журавликов, висевших под потолком и медленно вращавшихся в воздухе.
+
+    Садако умерла в октябре 1955 года. Одни истории говорят, что она сложила больше тысячи журавликов; другие — что не успела закончить. Как бы то ни было, её история тронула друзей и одноклассников. Они собрали деньги на памятник ей и всем детям, погибшим из-за бомбы.
+
+    Сегодня в Парке мира в Хиросиме стоит статуя Садако, держащей золотого журавлика. Каждый год посетители оставляют там тысячи бумажных журавликов. Многие покупают маленьких журавликов на память. Её историю рассказывают книги и фильмы, и она стала символом надежды и мира во всём мире.
+  questions:
+  - q: How old was Sadako when the bomb fell?
+    options:
+    - Two
+    - Twelve
+    - Ten
+    - Five
+    answer: 0
+  - q: What does the legend say about a thousand paper cranes?
+    options:
+    - They bring money
+    - The person who folds them gets a wish
+    - They protect a house
+    - They cure illness
+    answer: 1
+  - q: What did Sadako use to fold cranes?
+    options:
+    - Only special paper
+    - Any paper she could find
+    - Silk
+    - Leaves
+    answer: 1
+  - tf: Sadako complained a lot about her illness.
+    answer: false
+  - tf: There is a statue of Sadako in Hiroshima.
+    answer: true

@@ -17,3 +17,52 @@ words:
 - science | n | ˈsaɪəns |  | наука | the study of the natural world | I'm interested in *science*. | Я интересуюсь наукой.
 - scientist | n | ˈsaɪəntɪst |  | учёный | a person who works in science | She wants to be a *scientist*. | Она хочет стать учёным.
 - type | n | taɪp |  | тип, вид | a kind or sort | What *type* of music do you like? | Какую музыку ты любишь?
+reading:
+  title: Lost in the Desert
+  title_ru: Потерявшиеся в пустыне
+  text: |
+    Mia and her brother Leo went on a trip to Morocco. They spent a week on the coast, and then they decided to take a tour into the desert. They imagined a romantic journey on camels under the stars. But the reality was rather different.
+
+    On the second day, the group stopped near some rocks. Mia and Leo walked away to take photos. When they came back, the group was gone! The guide thought they were already in the jeep. They were alone in the desert.
+
+    At first, they were quite calm. But after a few hours, hunger and the heat became a real problem. Leo had a small bite on his arm — a spider in the rocks. Mia examined it carefully. "It's not dangerous," she said, though she was not completely sure.
+
+    They had to figure out which way to go. It was like a big puzzle. Then Mia remembered a specific fact from a book: in the evening, the sun goes down in the west, and the town was west of the rocks. It was a simple but effective idea. They walked towards the sunset.
+
+    After two hours, they saw the lights of the town. The guide was very sorry. As a gift, he gave them a free trip the next week. "It's a deal," Leo laughed, "but this time, we won't leave the group!" Actually, Mia now says it was the best day of the whole holiday. The story that they almost died is false — but they still like to tell it that way.
+  ru: |
+    Мия и её брат Лео поехали в Марокко. Неделю они провели на побережье, а потом решили съездить на экскурсию в пустыню. Они представляли себе романтическое путешествие на верблюдах под звёздами. Но в реальности всё оказалось довольно иначе.
+
+    На второй день группа остановилась у каких-то скал. Мия и Лео отошли, чтобы сделать фотографии. Когда они вернулись, группы уже не было! Гид думал, что они уже в джипе. Они остались в пустыне одни.
+
+    Сначала они были вполне спокойны. Но через несколько часов голод и жара стали настоящей проблемой. На руке у Лео был небольшой укус — паук в скалах. Мия внимательно его осмотрела. «Это не опасно», — сказала она, хотя совсем не была уверена.
+
+    Им нужно было понять, куда идти. Это была будто большая головоломка. И тут Мия вспомнила один конкретный факт из книги: вечером солнце садится на западе, а город был к западу от скал. Идея была простой, но действенной. Они пошли навстречу закату.
+
+    Через два часа они увидели огни города. Гид очень извинялся. В подарок он предложил им бесплатную поездку на следующей неделе. «Договорились, — засмеялся Лео, — но на этот раз мы от группы не отойдём!» На самом деле Мия теперь говорит, что это был лучший день за весь отпуск. История о том, что они чуть не погибли, — неправда, но им всё равно нравится рассказывать её именно так.
+  questions:
+  - q: Where did Mia and Leo spend their first week?
+    options:
+    - In the desert
+    - On the coast
+    - In the mountains
+    - In a big city
+    answer: 1
+  - q: Why were they alone in the desert?
+    options:
+    - They wanted to be alone
+    - The group left without them
+    - Their jeep broke
+    - They got lost at night
+    answer: 1
+  - q: How did they find the way to the town?
+    options:
+    - They used a phone
+    - They walked towards the sunset
+    - A camel showed them
+    - They followed a road
+    answer: 1
+  - tf: Leo had a spider bite on his arm.
+    answer: true
+  - tf: Mia thinks it was the worst day of the holiday.
+    answer: false

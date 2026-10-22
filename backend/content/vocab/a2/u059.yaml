@@ -14,3 +14,52 @@ words:
 - steal | v | stiːl |  | красть | to take something that is not yours | Someone *stole* my bike last night. | Вчера ночью кто-то украл мой велосипед. | steal — stole — stolen
 - 'terrorist | adj | ˈterərɪst |  | террористический | relating to terrorism | There was a *terrorist* attack in the city. | В городе произошёл теракт. | сущ.: terrorist — террорист'
 - thief | n | θiːf |  | вор | a person who steals | The police caught the *thief* at the station. | Полиция поймала вора на вокзале. | мн. ч. thieves
+reading:
+  title: The Wrong Twin
+  title_ru: Не тот близнец
+  text: |
+    Adam and Sam are twins. They resemble each other so much that even their mother sometimes mixes them up. But their lives are very different. Adam is a quiet, ordinary office worker. Sam is bold and loves risk. He works as a photographer who captures pictures for newspapers.
+
+    One morning, the police knocked on Adam's door. "You are under arrest," they said. Someone had broken into the house of a minister the night before and stolen important documents. A camera had recorded a man's face — and it was Adam's face! Adam was shocked. "I'm innocent!" he said. "I was at home all night."
+
+    Adam hired a lawyer, but things looked bad. The police said he looked nervous and guilty. Then the lawyer noticed something in the video. The man in the video had a small tattoo of a bug on his hand. Adam had no tattoo. But Sam did.
+
+    When Sam heard about the arrest, he went to the police himself. He explained everything. He had entered the house to expose the minister, who was secretly taking money from a tobacco company. Sam wanted to preserve the documents as proof for a newspaper story. "I was wrong to break the law," he said, "but I'm not a thief."
+
+    The story became big news. The minister lost his job, and Sam had to pay a large fine. He made an apology to his brother. "Sorry, Adam," he said. "I didn't think about the consequences." Adam laughed. "From now on, please get a permanent tattoo on your face — so people can tell us apart!"
+  ru: |
+    Адам и Сэм — близнецы. Они так похожи друг на друга, что даже мама иногда их путает. Но живут они совсем по-разному. Адам — тихий, обычный офисный работник. Сэм смелый и любит риск. Он работает фотографом и делает снимки для газет.
+
+    Однажды утром в дверь Адама постучала полиция. «Вы арестованы», — сказали они. Накануне ночью кто-то проник в дом министра и украл важные документы. Камера записала лицо мужчины — и это было лицо Адама! Адам был потрясён. «Я невиновен! — сказал он. — Я всю ночь был дома».
+
+    Адам нанял юриста, но дела шли плохо. Полиция говорила, что он выглядит нервным и виноватым. Потом юрист кое-что заметил на видео. У мужчины на руке была маленькая татуировка в виде жука. У Адама татуировки не было. А у Сэма была.
+
+    Когда Сэм узнал об аресте, он сам пришёл в полицию. Он всё объяснил. Он проник в дом, чтобы разоблачить министра, который тайно получал деньги от табачной компании. Сэм хотел сохранить документы как доказательство для газетной статьи. «Я был неправ, нарушив закон, — сказал он, — но я не вор».
+
+    История стала громкой новостью. Министр лишился должности, а Сэму пришлось заплатить крупный штраф. Он извинился перед братом. «Прости, Адам, — сказал он. — Я не подумал о последствиях». Адам рассмеялся. «Отныне, пожалуйста, сделай себе постоянную татуировку на лице — чтобы люди могли нас различать!»
+  questions:
+  - q: What is Sam's job?
+    options:
+    - Office worker
+    - Photographer
+    - Police officer
+    - Minister
+    answer: 1
+  - q: How did the lawyer know that Adam was innocent?
+    options:
+    - Adam had a witness
+    - The man in the video had a tattoo of a bug
+    - The camera was broken
+    - Sam told him
+    answer: 1
+  - q: Why did Sam enter the minister's house?
+    options:
+    - To steal money
+    - To expose the minister's secret deal with a tobacco company
+    - To visit a friend
+    - To take holiday photos
+    answer: 1
+  - tf: Sam made an apology to Adam.
+    answer: true
+  - tf: The minister kept his job.
+    answer: false

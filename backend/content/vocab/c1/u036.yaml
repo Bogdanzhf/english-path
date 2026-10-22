@@ -21,3 +21,52 @@ words:
 - primate | n | ˈpraɪmeɪt |  | примат | a member of the group of mammals that includes humans, apes and monkeys | Chimpanzees are our closest *primate* relatives. | Шимпанзе — наши ближайшие родственники среди приматов.
 - snail | n | sneɪl |  | улитка | a small slow animal with a shell | The *snail* moved slowly across the leaf. | Улитка медленно ползла по листу.
 - venom | n | ˈvenəm |  | яд (змеи, насекомого) | poison from a snake, spider or insect | Some snake *venom* can kill a person in minutes. | Яд некоторых змей может убить человека за минуты. | venomous — ядовитый
+reading:
+  title: 11 Days Without Stopping
+  title_ru: 11 дней без остановки
+  text: |
+    In October 2022, a small bird made headlines around the world. A five-month-old bar-tailed godwit, known only by its tag number, flew from Alaska to Tasmania in eleven days without stopping once. It traversed 13,560 kilometres of open ocean, setting a new world record for non-stop bird flight. Overnight, the bird became a celebrity.
+
+    Many species of birds migrate, but the bar-tailed godwit is one of the most extraordinary. Each spring, these hardy birds fly north to breed in the secluded tundra of Alaska. There, the parents nurture their chicks during the short Arctic summer. In autumn, they return to New Zealand and Australia, crossing the Pacific Ocean in a single journey. They do not eat, drink or sleep in the normal way during the flight.
+
+    How do they do it? Scientists have discovered several secrets. Before leaving, godwits eat so much that fat makes up more than half of their body weight. At the same time, their digestive organs shrink to save weight, since they won't be needed during the journey. Their long, narrow wings allow them to glide efficiently, using the same basic principle that keeps aircraft in the air. Weather is a decisive factor: godwits wait for strong winds to help push them south.
+
+    Until recently, much of this was guesswork. Concrete data became available only when researchers began fitting birds with tiny satellite tags weighing just a few grams. Some people have raised ethical questions about tagging wild animals, but esteemed zoology institutes argue that the devices are light and safe, and the information helps protect the species.
+
+    And protection is needed. Godwits stop to feed in rural wetlands and swamps along the coast of China and Korea, many of which are being turned into concrete for ports and cities. Numbers have fallen sharply, and scientists warn that the bird could one day become extinct. When you next see a flock flying overhead, consider the incredible journeys they make — journeys that even pilots view with a little jealousy.
+  ru: |
+    В октябре 2022 года маленькая птица попала в заголовки по всему миру. Пятимесячный малый веретенник, известный лишь по номеру метки, пролетел от Аляски до Тасмании за одиннадцать дней, ни разу не остановившись. Он пересёк 13 560 километров открытого океана, установив новый мировой рекорд беспосадочного полёта птиц. В одночасье птица стала знаменитостью.
+
+    Многие виды птиц мигрируют, но малый веретенник — один из самых удивительных. Каждую весну эти выносливые птицы летят на север, чтобы вывести потомство в уединённой тундре Аляски. Там родители выкармливают птенцов коротким арктическим летом. Осенью они возвращаются в Новую Зеландию и Австралию, пересекая Тихий океан за один перелёт. Во время полёта они не едят, не пьют и не спят в обычном смысле.
+
+    Как им это удаётся? Учёные раскрыли несколько секретов. Перед отлётом веретенники едят так много, что жир составляет более половины их веса. При этом их пищеварительные органы уменьшаются, чтобы сэкономить вес, — в пути они не понадобятся. Длинные узкие крылья позволяют им экономно планировать, используя тот же основной принцип, что удерживает в воздухе самолёты. Решающий фактор — погода: веретенники ждут сильного ветра, который поможет им лететь на юг.
+
+    До недавнего времени многое здесь было догадками. Конкретные данные появились лишь тогда, когда исследователи начали крепить к птицам крошечные спутниковые метки весом всего несколько граммов. Некоторые поднимали этические вопросы о мечении диких животных, но уважаемые зоологические институты утверждают, что устройства лёгкие и безопасные, а получаемые сведения помогают защищать вид.
+
+    А защита нужна. Веретенники останавливаются покормиться на сельских болотах и топях вдоль побережья Китая и Кореи, многие из которых закатывают в бетон под порты и города. Их численность резко сократилась, и учёные предупреждают, что однажды птица может вымереть. Когда в следующий раз увидите стаю над головой, подумайте о невероятных путешествиях, которые они совершают, — путешествиях, которым даже пилоты немного завидуют.
+  questions:
+  - q: What record did the godwit set?
+    options:
+    - Highest flight
+    - Longest non-stop bird flight
+    - Fastest flight
+    - Oldest bird
+    answer: 1
+  - q: How do godwits prepare for the journey?
+    options:
+    - They sleep a lot
+    - They eat so much that fat makes up over half their weight
+    - They train by flying short distances
+    - They drink a lot of water
+    answer: 1
+  - q: What threatens the godwits?
+    options:
+    - Satellite tags
+    - Wetlands being turned into concrete
+    - Too much food
+    - Aircraft
+    answer: 1
+  - tf: Godwits stop to eat several times while crossing the Pacific.
+    answer: false
+  - tf: Weather is a decisive factor in their migration.
+    answer: true

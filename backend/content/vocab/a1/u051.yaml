@@ -25,3 +25,52 @@ words:
 - teach | v | tiːtʃ |  | учить, преподавать | to help someone learn | She *teaches* English at a school. | Она преподаёт английский в школе. | teach – taught – taught
 - tell | v | tel |  | рассказывать; говорить (кому-то) | to give information to someone | *Tell* me about your family. | Расскажи мне о своей семье. | tell – told – told; tell someone something
 - thank | v | θæŋk |  | благодарить | to say that you are grateful | I want to *thank* you for your help. | Хочу поблагодарить тебя за помощь.
+reading:
+  title: The Donkey Who Knew the Way
+  title_ru: Ослик, который знал дорогу
+  text: |
+    Tom and his sister Amy loved the mountains. Last summer, they decided to climb Eagle Peak, a mountain situated about fifty kilometers from their town. It was a difficult climb, and their father gave them some advice: "Hire a donkey to carry your bags. Otherwise, you'll be too tired."
+
+    At the bottom of the mountain, an old man rented them a donkey called Pepe. "Pepe knows the way," the old man said. "Pay attention to him." Tom laughed. "A donkey can't know more than our map," he said.
+
+    They walked along a narrow path for three hours. Then the path divided. The map showed the left path, but Pepe stopped and refused to go further. He started walking to the right. "Silly donkey," Tom said. But neither of them could make Pepe go left.
+
+    Finally, Amy suggested a compromise: "Let's follow Pepe for ten minutes." They did, and soon they saw why Pepe had reacted so strangely. Part of the left path had dropped into the valley after heavy rain. It was very dangerous!
+
+    They reached the top in the evening. The view was amazing. On their way home, they thanked the old man. "Pepe proved that you can't judge someone by how they look," Amy said. Tom agreed. He did not want to imply that the map was useless, but now he knew that experience is sometimes more important than any standard rule. The next morning they rode their bikes home, tired but happy.
+  ru: |
+    Том и его сестра Эми обожали горы. Прошлым летом они решили подняться на Орлиный пик — гору примерно в пятидесяти километрах от их города. Подъём был трудным, и папа дал им совет: «Возьмите ослика, чтобы он нёс сумки. Иначе слишком устанете».
+
+    У подножия горы пожилой мужчина дал им напрокат ослика по имени Пепе. «Пепе знает дорогу, — сказал старик. — Прислушивайтесь к нему». Том рассмеялся. «Осёл не может знать больше, чем наша карта», — сказал он.
+
+    Три часа они шли по узкой тропе. Потом тропа разделилась. Карта показывала левую тропу, но Пепе остановился и отказался идти дальше. Он пошёл направо. «Глупый ослик», — сказал Том. Но ни один из них не смог заставить Пепе свернуть налево.
+
+    Наконец Эми предложила компромисс: «Давай десять минут пойдём за Пепе». Так они и сделали и вскоре поняли, почему Пепе повёл себя так странно. Часть левой тропы обрушилась в долину после сильного дождя. Там было очень опасно!
+
+    На вершину они поднялись к вечеру. Вид был потрясающий. По дороге домой они поблагодарили старика. «Пепе доказал, что нельзя судить о ком-то по внешности», — сказала Эми. Том согласился. Он не хотел сказать, что карта бесполезна, но теперь знал: опыт иногда важнее любого стандартного правила. На следующее утро они поехали домой на велосипедах — уставшие, но счастливые.
+  questions:
+  - q: What advice did their father give them?
+    options:
+    - Don't go to the mountains
+    - Hire a donkey to carry the bags
+    - Take a taxi
+    - Buy a new map
+    answer: 1
+  - q: What did Pepe do when the path divided?
+    options:
+    - He went left
+    - He went right
+    - He went home
+    - He sat down and slept
+    answer: 1
+  - q: Why was the left path dangerous?
+    options:
+    - There were wolves
+    - Part of it had fallen into the valley
+    - It was too long
+    - It was closed by the police
+    answer: 1
+  - tf: Tom trusted the donkey from the start.
+    answer: false
+  - tf: They reached the top of the mountain.
+    answer: true

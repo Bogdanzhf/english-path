@@ -21,3 +21,52 @@ words:
 - when | adv | wen | hwen | когда | at what time | *When* is your birthday? | Когда у тебя день рождения?
 - where | adv | weə | hwer | где; куда | in or to what place | *Where* do you live? | Где ты живёшь?
 - why | adv | waɪ | hwaɪ | почему, зачем | for what reason | *Why* are you sad? | Почему ты грустишь?
+reading:
+  title: The Last Concert
+  title_ru: Последний концерт
+  text: |
+    Alex and Ben became friends on their first day at school. They lived in the same block, and they both loved music. When they were fourteen, they started a band. Alex sang and Ben played the guitar. For four years, their friendship was the most important thing in their lives.
+
+    In their last term at school, the boys planned a big event: a public concert in the town park. There was a lot of pressure. They practised every day after school, and Ben even wrote a complex new song.
+
+    Two weeks before the concert, they had a terrible argument. Alex wanted to perform a famous song, but Ben wanted to play only their own music. They stopped talking. It was like a part of their friendship was buried.
+
+    Their music teacher, Ms. Wood, was their guide. "A band is like a family," she said. "You need each other. Probably, you're both right." She was smart. She suggested that they play both kinds of songs. Slowly, the boys started talking again.
+
+    On the night of the concert, it started to rain, and lightning struck a tree near the park. But nobody left. Hundreds of people cheered and supported them. Even a local music critic wrote that the concert united the whole town. After the last song, Alex said into the microphone, "Thank you, Ben. Wherever life takes us, in whatever direction, we'll always be friends."
+  ru: |
+    Алекс и Бен подружились в первый же день в школе. Они жили в одном квартале, и оба любили музыку. В четырнадцать лет они создали группу. Алекс пел, а Бен играл на гитаре. Четыре года их дружба была самым важным в их жизни.
+
+    В последнем семестре мальчики задумали большое событие — открытый концерт в городском парке. Давление было огромным. Они репетировали каждый день после школы, а Бен даже написал новую сложную песню.
+
+    За две недели до концерта они ужасно поссорились. Алекс хотел исполнить известную песню, а Бен — играть только свою музыку. Они перестали разговаривать. Казалось, что часть их дружбы похоронена.
+
+    Их учительница музыки, мисс Вуд, была для них наставником. «Группа — это как семья, — сказала она. — Вы нужны друг другу. Наверное, вы оба правы». Она была мудрой. Она предложила сыграть песни обоих видов. Понемногу мальчики снова начали разговаривать.
+
+    В вечер концерта пошёл дождь, а молния ударила в дерево рядом с парком. Но никто не ушёл. Сотни людей кричали и поддерживали их. Даже местный музыкальный критик написал, что концерт объединил весь город. После последней песни Алекс сказал в микрофон: «Спасибо, Бен. Куда бы ни повела нас жизнь, в каком бы направлении, мы всегда будем друзьями».
+  questions:
+  - q: What did Alex and Ben do in the band?
+    options:
+    - Both sang
+    - Alex sang and Ben played the guitar
+    - Both played the guitar
+    - Ben sang and Alex played the drums
+    answer: 1
+  - q: Why did the boys argue?
+    options:
+    - About money
+    - About which songs to play
+    - About a girl
+    - About school
+    answer: 1
+  - q: What did Ms. Wood suggest?
+    options:
+    - To stop the band
+    - To play both kinds of songs
+    - To cancel the concert
+    - To find a new singer
+    answer: 1
+  - tf: People left the park when it started to rain.
+    answer: false
+  - tf: A music critic wrote about the concert.
+    answer: true

@@ -29,3 +29,52 @@ words:
 - sale | n | seɪl |  | продажа; распродажа | the act of selling; a time when things are cheaper | This house is for *sale*. | Этот дом продаётся. | on sale — со скидкой
 - shop | v | ʃɒp | ʃɑːp | делать покупки | to buy things in shops | I usually *shop* at the weekend. | Обычно я хожу за покупками в выходные.
 - store | n | stɔː | stɔːr | магазин | a place where you buy things | I need to go to the *store* for some milk. | Мне нужно сходить в магазин за молоком. | амер.; брит. shop
+reading:
+  title: The Bakery on Rose Street
+  title_ru: Пекарня на Роуз-стрит
+  text: |
+    For thirty years, Mr. Bianchi baked bread in his small bakery on Rose Street. He used simple ingredients — flour, water, salt — and his bread was the best in town. But when a big supermarket opened nearby, the number of customers decreased. Soon Mr. Bianchi was in debt. He couldn't afford to pay the rent.
+
+    The owner of the building was not a generous man. He wanted to convert the bakery into an expensive shop. He insisted that Mr. Bianchi leave by the end of the month. "It's not my fault," Mr. Bianchi said sadly, "but I am too old to fight." He was a quiet, passive man.
+
+    His granddaughter Sofia was different. "We can't just accept this," she said. She started an online fund called "Save Our Bakery" and asked people to help. She monitored the fund every day. At first, only small quantities of money came in. Then a local newspaper wrote about the story, and everything changed.
+
+    People from all over the city came to buy bread. They brought candles and flowers and left messages on the door. Some people opposed the owner's plan at a town meeting. One customer, a lawyer, even offered to sue the owner for free, because he was abusing his power.
+
+    In the end, there was enough money to pay the debt and buy the building. The bakery is now busier than ever. Every morning there is a mess of flour on the floor and a queue outside. "I learned something," says Mr. Bianchi. "Good bread is like good friends — you never know how much you have until you need them."
+  ru: |
+    Тридцать лет мистер Бьянки пёк хлеб в своей маленькой пекарне на Роуз-стрит. Он использовал простые ингредиенты — муку, воду, соль, — и его хлеб был лучшим в городе. Но когда рядом открылся большой супермаркет, покупателей стало меньше. Вскоре мистер Бьянки влез в долги. Он не мог позволить себе платить аренду.
+
+    Владелец здания не был щедрым человеком. Он хотел переделать пекарню в дорогой магазин. Он настаивал, чтобы мистер Бьянки съехал к концу месяца. «Я не виноват, — грустно говорил мистер Бьянки, — но я слишком стар, чтобы бороться». Он был тихим, пассивным человеком.
+
+    Его внучка София была другой. «Мы не можем просто смириться», — сказала она. Она открыла онлайн-фонд «Спасём нашу пекарню» и попросила людей помочь. Каждый день она следила за фондом. Сначала поступали лишь небольшие суммы. Потом о этой истории написала местная газета, и всё изменилось.
+
+    Люди со всего города приходили покупать хлеб. Они приносили свечи и цветы и оставляли записки на двери. Некоторые выступили против плана владельца на городском собрании. Один покупатель, юрист, даже предложил бесплатно подать на владельца в суд, потому что тот злоупотреблял своей властью.
+
+    В итоге денег хватило, чтобы погасить долг и выкупить здание. Теперь в пекарне больше покупателей, чем когда-либо. Каждое утро на полу мука, а снаружи — очередь. «Я кое-что понял, — говорит мистер Бьянки. — Хороший хлеб — как хорошие друзья: не знаешь, сколько их у тебя, пока они не понадобятся».
+  questions:
+  - q: Why did the bakery lose customers?
+    options:
+    - The bread was bad
+    - A big supermarket opened nearby
+    - Mr. Bianchi was ill
+    - The prices were too high
+    answer: 1
+  - q: What did the building owner want to do?
+    options:
+    - Buy the bakery
+    - Convert it into an expensive shop
+    - Help Mr. Bianchi
+    - Open a second bakery
+    answer: 1
+  - q: What did Sofia start?
+    options:
+    - A new bakery
+    - An online fund
+    - A newspaper
+    - A lawsuit
+    answer: 1
+  - tf: Mr. Bianchi was an active, fighting person.
+    answer: false
+  - tf: In the end, they bought the building.
+    answer: true

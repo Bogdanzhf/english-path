@@ -19,3 +19,52 @@ words:
 - tomato | n | təˈmɑːtəʊ | təˈmeɪtoʊ | помидор | a soft red fruit eaten as a vegetable | She grows *tomatoes* to sell at the market. | Она выращивает помидоры на продажу.
 - vegetable | n | ˈvedʒtəbl |  | овощ | a plant you eat, like a carrot or potato | Eat your *vegetables*! | Ешь овощи!
 - yogurt | n | ˈjɒɡɜːt | ˈjoʊɡərt | йогурт | a thick food made from milk | I have *yogurt* with fruit for breakfast. | На завтрак я ем йогурт с фруктами.
+reading:
+  title: Grandma's Recipe Book
+  title_ru: Бабушкина книга рецептов
+  text: |
+    Jack loved food, but his diet was not very healthy. He always ate burgers, chips and chocolate, and he drank sweet fizzy drinks instead of water. He often felt tired, and his doctor was worried about his health.
+
+    One day, Jack visited his grandmother. She was eighty-five, but she was full of energy. "What do you eat, Grandma?" he asked. She smiled and showed him an old book. It contained more than a hundred recipes, all written by hand.
+
+    "These recipes are special," she said. "They come from my mother and her mother. The secret is simple: fresh food. Fruit, vegetables, bread that you bake yourself, a little chicken or fish." She cooked lunch for Jack: chicken soup with carrots and fresh bread. It was delicious!
+
+    For dessert, she made a cake without any sugar. Instead, she used bananas and apples. Jack couldn't believe it. "This is great!" he said. "It tastes better than the cakes in a restaurant."
+
+    Jack asked his grandmother if he could copy the book. Now he cooks at home three times a week. He feels much better, and he has more energy. "I eat everything I like," he says. "I just eat it the way Grandma does."
+  ru: |
+    Джек любил поесть, но его рацион был не очень здоровым. Он всё время ел бургеры, чипсы и шоколад, а вместо воды пил сладкую газировку. Он часто чувствовал усталость, и врач беспокоился о его здоровье.
+
+    Однажды Джек приехал к бабушке. Ей было восемьдесят пять, но она была полна сил. «Бабушка, что ты ешь?» — спросил он. Она улыбнулась и показала ему старую книгу. В ней было больше сотни рецептов, все написаны от руки.
+
+    «Это особенные рецепты, — сказала она. — Они достались мне от мамы и бабушки. Секрет прост: свежая еда. Фрукты, овощи, хлеб, который печёшь сам, немного курицы или рыбы». Она приготовила Джеку обед: куриный суп с морковью и свежий хлеб. Было очень вкусно!
+
+    На десерт она испекла торт совсем без сахара. Вместо него она использовала бананы и яблоки. Джек не мог поверить. «Это здорово! — сказал он. — На вкус лучше, чем торты в ресторане».
+
+    Джек спросил бабушку, можно ли ему переписать книгу. Теперь он готовит дома три раза в неделю. Он чувствует себя гораздо лучше, и сил у него стало больше. «Я ем всё, что люблю, — говорит он. — Просто готовлю это так, как бабушка».
+  questions:
+  - q: What did Jack usually drink?
+    options:
+    - Water
+    - Sweet fizzy drinks
+    - Tea
+    - Milk
+    answer: 1
+  - q: Where did Grandma's recipes come from?
+    options:
+    - From a restaurant
+    - From the internet
+    - From her mother and grandmother
+    - From a doctor
+    answer: 2
+  - q: What did Grandma use in the cake instead of sugar?
+    options:
+    - Chocolate
+    - Bananas and apples
+    - Carrots
+    - Honey
+    answer: 1
+  - tf: Jack's grandmother was very tired and ill.
+    answer: false
+  - tf: Now Jack cooks at home three times a week.
+    answer: true

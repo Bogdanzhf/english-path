@@ -21,3 +21,52 @@ words:
 - thunderstorm | n | ˈθʌndəstɔːm | ˈθʌndərstɔːrm | гроза | a storm with thunder and lightning | There was a *thunderstorm* last night. | Ночью была гроза.
 - valley | n | ˈvæli |  | долина | low land between hills or mountains | A river runs through the *valley*. | По долине течёт река.
 - wind | n | wɪnd |  | ветер | moving air | The *wind* is very strong today. | Сегодня очень сильный ветер.
+reading:
+  title: After the Hurricane
+  title_ru: После урагана
+  text: |
+    Marco owned a small surf school on an island in the Caribbean. Every morning, he taught tourists to surf, and in the afternoons he took them on his boat to see the coral reef. He was strict about safety but also loved to amuse his students with funny stories.
+
+    One September, a hurricane hit the island. The wind was so strong that it crashed boats against the rocks and tore roofs off houses. Marco shut the doors of his school and hid with his family in a firm stone building in the centre of town. When the storm finished, the island looked like a war zone.
+
+    The loss was huge. Marco's school was destroyed, and his boat was lying on its side on the beach. Even worse, the hurricane had damaged part of the reef. Some people accused tourists and boats of making the reef weak. Marco felt sad, but he knew the real problem was bigger: the warming of the ocean.
+
+    Marco decided to engage the whole island in a grand task: to save the reef. Scientists taught volunteers how to grow small pieces of coral in the sea and adjust them on the rocks. Marco repaired his boat and used it to carry volunteers, using as little fuel as possible.
+
+    Two years later, the reef is slowly coming back to life. Marco's new school is simple — a plain wooden building with cotton curtains and a big deck. But every lesson now ends with a dive to the reef. "Nature can destroy," Marco says, "but people can help it heal."
+  ru: |
+    У Марко была небольшая школа сёрфинга на одном из Карибских островов. Каждое утро он учил туристов сёрфингу, а после обеда возил их на лодке смотреть коралловый риф. Он строго относился к безопасности, но любил развлекать учеников забавными историями.
+
+    Однажды в сентябре на остров обрушился ураган. Ветер был таким сильным, что разбивал лодки о скалы и срывал крыши с домов. Марко запер двери школы и укрылся с семьёй в крепком каменном здании в центре города. Когда буря закончилась, остров выглядел как зона боевых действий.
+
+    Потери были огромными. Школа Марко была разрушена, а его лодка лежала на боку на пляже. Хуже того, ураган повредил часть рифа. Некоторые обвиняли туристов и лодки в том, что риф ослаб. Марко было грустно, но он знал, что настоящая проблема больше: потепление океана.
+
+    Марко решил вовлечь весь остров в грандиозное дело — спасти риф. Учёные научили добровольцев выращивать небольшие кусочки кораллов в море и закреплять их на скалах. Марко починил лодку и возил на ней добровольцев, расходуя как можно меньше топлива.
+
+    Прошло два года, и риф понемногу оживает. Новая школа Марко простая — скромное деревянное здание с хлопковыми занавесками и большой террасой. Но теперь каждое занятие заканчивается погружением к рифу. «Природа может разрушать, — говорит Марко, — но люди могут помочь ей исцелиться».
+  questions:
+  - q: What did Marco do in the afternoons?
+    options:
+    - He fixed boats
+    - He took tourists to see the coral reef
+    - He worked in a hotel
+    - He went fishing
+    answer: 1
+  - q: Where did Marco's family hide during the hurricane?
+    options:
+    - On the boat
+    - In the surf school
+    - In a stone building in the town centre
+    - On the beach
+    answer: 2
+  - q: What is the real problem for the reef, according to Marco?
+    options:
+    - Tourists
+    - Boats
+    - The warming of the ocean
+    - Fishermen
+    answer: 2
+  - tf: Marco's new school is a grand stone building.
+    answer: false
+  - tf: The reef is slowly coming back to life.
+    answer: true

@@ -22,3 +22,52 @@ words:
 - terminology | n | ˌtɜːmɪˈnɒlədʒi | ˌtɜːrmɪˈnɑːlədʒi | терминология | special words of a subject | Medical *terminology* is hard to learn. | Медицинскую терминологию трудно выучить.
 - testify | v | ˈtestɪfaɪ |  | давать показания | to give evidence in court | Several witnesses *testified* at the inquiry. | На расследовании дали показания несколько свидетелей.
 - 'warrant | n | ˈwɒrənt | ˈwɔːrənt | ордер | an official document allowing arrest or search | The police had a search *warrant*. | У полиции был ордер на обыск. | гл.: warrant — оправдывать'
+reading:
+  title: The Appeal of Conspiracy Theories
+  title_ru: Чем привлекают теории заговора
+  text: |
+    On 22 November 1963, President John F. Kennedy was shot dead while driving through Dallas, Texas. Within hours, police arrested a man named Lee Harvey Oswald. Two days later, before he could stand trial, Oswald himself was shot. An official investigation concluded that he had acted alone. Yet more than half of Americans still believe that the assassination was a conspiracy.
+
+    Why are conspiracy theories so popular? Psychologists have several explanations. One is that big events seem to demand big causes. It feels wrong that a lonely, unimportant man could change history so abruptly. A secret plot by powerful people seems more fitting. Conspiracy theories also offer a sense of control. In a chaotic world, believing that someone is secretly in charge — even someone evil — can be strangely comforting.
+
+    Other factors make some people more likely to believe. People who feel powerless or ignored by society are often more cynical about official explanations. Those who enjoy feeling special may like having "secret knowledge" that others lack. And the internet has made it easier than ever to share theories. Online forums allow people to find others who agree with them, creating "echo chambers" where doubts are never heard.
+
+    Of course, real conspiracies do happen. Political coups have been planned in secret, and companies have hidden the dangers of their products. The problem is not asking questions; it's refusing to accept evidence. When the scientific consensus is clear, conspiracy theories can be dangerous. Some have inflamed anger against minorities, and people who disagree are sometimes harassed online.
+
+    How should we respond? Experts warn that mocking believers usually makes them more stubborn. Instead, it helps to ask calm questions, listen, and focus on how we know what we know. As one commentator put it, the cure for a bad idea is not silence, but a better conversation.
+  ru: |
+    22 ноября 1963 года президент Джон Кеннеди был застрелен, когда проезжал по Далласу (Техас). Через несколько часов полиция арестовала Ли Харви Освальда. Через два дня, ещё до суда, застрелили и самого Освальда. Официальное расследование пришло к выводу, что он действовал в одиночку. Тем не менее более половины американцев до сих пор считают, что убийство было заговором.
+
+    Почему теории заговора так популярны? У психологов есть несколько объяснений. Одно из них — большие события словно требуют больших причин. Кажется неправильным, что одинокий, ничем не примечательный человек может так внезапно изменить ход истории. Тайный сговор могущественных людей кажется более подходящим объяснением. Кроме того, теории заговора дают чувство контроля. В хаотичном мире вера в то, что кто-то тайно всем управляет — пусть даже злодей, — может как ни странно успокаивать.
+
+    Другие факторы делают некоторых людей более склонными верить. Люди, которые чувствуют себя бессильными или забытыми обществом, часто циничнее относятся к официальным объяснениям. Тем, кому нравится чувствовать себя особенными, может нравиться обладать «тайным знанием», которого нет у других. А интернет сделал распространение теорий проще, чем когда-либо. Онлайн-форумы позволяют находить единомышленников, создавая «эхо-камеры», где сомнения никогда не звучат.
+
+    Конечно, настоящие заговоры случаются. Политические перевороты планировались тайно, а компании скрывали опасность своих продуктов. Проблема не в том, чтобы задавать вопросы, а в отказе принимать доказательства. Когда в науке есть ясный консенсус, теории заговора могут быть опасны. Некоторые из них разжигали ненависть к меньшинствам, а несогласных порой травят в интернете.
+
+    Как же реагировать? Эксперты предупреждают, что насмешки обычно делают верящих ещё упрямее. Вместо этого полезно спокойно задавать вопросы, слушать и обсуждать, откуда мы знаем то, что знаем. Как сказал один обозреватель, лекарство от плохой идеи — не молчание, а более содержательный разговор.
+  questions:
+  - q: What did the official investigation conclude about Kennedy's death?
+    options:
+    - It was a conspiracy
+    - Oswald acted alone
+    - It was an accident
+    - The case was never investigated
+    answer: 1
+  - q: According to psychologists, why do big events seem to need big causes?
+    options:
+    - Because they are always planned
+    - It feels wrong that an unimportant person could change history
+    - Because the media says so
+    - Because of the internet
+    answer: 1
+  - q: What do experts recommend?
+    options:
+    - Mocking believers
+    - Asking calm questions and listening
+    - Ignoring them
+    - Banning forums
+    answer: 1
+  - tf: The text says real conspiracies never happen.
+    answer: false
+  - tf: Online forums can create 'echo chambers'.
+    answer: true

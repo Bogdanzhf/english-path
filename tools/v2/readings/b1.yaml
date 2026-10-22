@@ -1,0 +1,1824 @@
+- id: b1-01
+  v1_unit: Ancient Mysteries
+  title: The Lion Chamber
+  title_ru: Зал львов
+  text: 'For more than a century, archaeologists believed they knew everything about the small pyramid near the village of Kerma. It was the tomb of a queen who had founded a powerful kingdom three thousand years ago. But in 2021, a young Sudanese archaeologist named Amira Hassan noticed something that everyone else had overlooked.
+
+
+    While studying old photographs, she saw a distinct line on the surface of one of the walls. It looked like a gap between two stones. "Ancient builders engineered everything perfectly," she said. "A gap like this is not a mistake. It must be a door."
+
+
+    Her team spent two months removing sand from the area. Finally, they found a narrow corridor that led deep into the core of the pyramid. At the end, a set of stone stairs went down to a hidden chamber. When they entered, their torches lit up an incredible interior. The walls were covered with paintings of the queen''s royal life: her elite soldiers, her boats on the Nile channels, and the hundreds of acres of farmland she controlled.
+
+
+    But the most amazing discovery was in the centre of the room: two stone lions, almost two metres tall, guarding a golden box. The ancient people believed that the queen needed protection in the afterlife, and lions played the role of guards.
+
+
+    The discovery made Amira famous, but she does not care about personal glory. "My sole aim is to understand how people lived," she says. "Every object tells a story. We just have to learn how to listen."
+
+    '
+  ru: 'Больше века археологи считали, что знают всё о небольшой пирамиде возле деревни Керма. Это была гробница царицы, которая основала могущественное царство три тысячи лет назад. Но в 2021 году молодой суданский археолог Амира Хасан заметила то, что все остальные упустили.
+
+
+    Изучая старые фотографии, она увидела отчётливую линию на поверхности одной из стен. Она была похожа на щель между двумя камнями. «Древние строители всё делали безупречно, — сказала она. — Такая щель — не ошибка. Это должна быть дверь».
+
+
+    Её команда два месяца расчищала песок на этом участке. Наконец они нашли узкий коридор, ведущий в самое сердце пирамиды. В его конце каменная лестница спускалась в потайной зал. Когда они вошли, факелы осветили невероятное убранство. Стены были покрыты росписями о царской жизни царицы: её отборные воины, её лодки на нильских каналах и сотни акров пахотной земли, которыми она владела.
+
+
+    Но самая удивительная находка была в центре зала: два каменных льва почти двухметровой высоты, охранявшие золотой ларец. Древние люди верили, что царице нужна защита в загробной жизни, и львы играли роль стражей.
+
+
+    Открытие прославило Амиру, но личная слава её не волнует. «Моя единственная цель — понять, как жили люди, — говорит она. — Каждый предмет рассказывает историю. Нам просто нужно научиться слушать».
+
+    '
+  questions:
+  - q: What did Amira notice in the old photographs?
+    options:
+    - A painting of a lion
+    - A line that looked like a gap between stones
+    - A golden box
+    - A broken stair
+    answer: 1
+  - q: Why did Amira think the gap was a door?
+    options:
+    - The villagers told her
+    - Ancient builders didn't make mistakes like that
+    - She found a key
+    - It was on an old map
+    answer: 1
+  - q: What role did the stone lions play?
+    options:
+    - Decoration only
+    - Guards for the queen in the afterlife
+    - Symbols of the river
+    - Gifts from another king
+    answer: 1
+  - tf: The team found the chamber in a few days.
+    answer: false
+  - tf: Amira says personal glory is not important to her.
+    answer: true
+- id: b1-02
+  v1_unit: Humble Beginnings
+  title: The Blacksmith's Son
+  title_ru: Сын кузнеца
+  text: 'In the 1850s, in a poor province in the north of England, there lived a humble blacksmith named John Harper. Every day, he forged horseshoes, tools and gates from iron. His small workshop had a tall chimney, and the sound of his hammer could be heard all over the village. The work was hard, and it barely sustained his family. Sometimes they had only a few pennies to buy bread.
+
+
+    John''s son, William, helped his father from the age of eight. He climbed the ladder to clean the chimney, carried heavy pieces of metal and learned how fire changes iron. But William also had a talent: he loved drawing machines. At night, by candlelight, he designed new tools that could make his father''s work easier.
+
+
+    One day, William encountered a rich factory owner whose carriage had broken near the village. While his father repaired the wheel, William showed the man his drawings. The man was amazed. "This boy''s ideas exceed anything my engineers have done," he said. He offered to become William''s benefactor and pay for his education in the city.
+
+
+    At first, a problem arose: John didn''t want to lose his only helper. But the factory owner made an agreement with him. He compensated the family for William''s work and paid for a new workshop.
+
+
+    William studied hard and later founded his own company that built steam engines. The business prospered, and he became one of the richest men in the country. But he remained modest. He never preached about success and always said, "I''m just a blacksmith''s son." His greatest satisfaction was the school he built in his home village, which still occupies the place where his father''s workshop once stood.
+
+    '
+  ru: 'В 1850-х годах в бедной провинции на севере Англии жил скромный кузнец по имени Джон Харпер. Каждый день он ковал из железа подковы, инструменты и ворота. У его маленькой мастерской была высокая труба, а стук его молота был слышен по всей деревне. Работа была тяжёлой и едва кормила семью. Порой у них было всего несколько пенни на хлеб.
+
+
+    Сын Джона, Уильям, помогал отцу с восьми лет. Он забирался по лестнице чистить трубу, таскал тяжёлые куски металла и узнал, как огонь меняет железо. Но у Уильяма был и талант: он обожал рисовать машины. По ночам, при свече, он придумывал новые инструменты, которые могли бы облегчить работу отца.
+
+
+    Однажды Уильям повстречал богатого владельца фабрики, у которого рядом с деревней сломалась карета. Пока отец чинил колесо, Уильям показал ему свои чертежи. Мужчина был поражён. «Идеи этого мальчика превосходят всё, что сделали мои инженеры», — сказал он. Он предложил стать покровителем Уильяма и оплатить его учёбу в городе.
+
+
+    Сначала возникла проблема: Джон не хотел терять единственного помощника. Но владелец фабрики заключил с ним договор. Он возместил семье работу Уильяма и оплатил новую мастерскую.
+
+
+    Уильям усердно учился, а позже основал собственную компанию, строившую паровые машины. Дело процветало, и он стал одним из богатейших людей страны. Но он остался скромным. Он никогда не поучал других, как добиться успеха, и всегда говорил: «Я просто сын кузнеца». Его самой большой радостью была школа, которую он построил в родной деревне. Она до сих пор стоит на месте, где когда-то была мастерская его отца.
+
+    '
+  questions:
+  - q: What did William love doing at night?
+    options:
+    - Reading novels
+    - Drawing machines
+    - Making horseshoes
+    - Playing music
+    answer: 1
+  - q: How did William meet the factory owner?
+    options:
+    - At school
+    - The owner's carriage broke near the village
+    - At a market in the city
+    - His father introduced them
+    answer: 1
+  - q: What did the factory owner do for John?
+    options:
+    - He gave him a job in the factory
+    - He compensated the family and paid for a new workshop
+    - He bought his horse
+    - Nothing
+    answer: 1
+  - tf: William became proud and forgot his family.
+    answer: false
+  - tf: William built a school in his home village.
+    answer: true
+- id: b1-03
+  v1_unit: Trust and Deception
+  title: The Newcomer and the Shepherd
+  title_ru: Приезжий и пастух
+  text: 'When Daniel moved from the city to a small mountain village, the local people were not friendly. He was a newcomer, and they didn''t trust him. He bought an old lodge that had been neglected for years. The roof was broken, and the garden was full of weeds. Everyone said it was ridiculous to pay so much money for it.
+
+
+    Daniel didn''t let them discourage him. He worked every day to repair the house. The only person who helped him was an old shepherd named Luka, who lived in a hut on the hill above the village. Luka taught him how to grow wheat and vegetables and how to look after animals. Slowly, Daniel acquired the skills he needed to live in the mountains.
+
+
+    One autumn, a man in an expensive suit came to the village. He said he was from the government and that the villagers had to pay a new tax on their land. Many people were frightened. Some even started to show hatred towards Daniel, because they thought the man was his friend from the city.
+
+
+    But Daniel had seen this kind of trick before. He looked closely at the man''s documents and realized they were fake. "This is an offense," he said. "You are trying to deceive these people." The man ran to his car and left. Later, the police caught him in another village.
+
+
+    The villagers felt awkward. They had treated Daniel as inferior, and he had saved their money. The next week, the village caretaker knocked on his door with a basket of food. "We want to repay you," he said. "Our welcome was not satisfactory. Please forgive us." Today, Daniel''s lodge, which overlooks the whole valley, is the place where the villagers meet every Friday evening.
+
+    '
+  ru: 'Когда Дэниел переехал из города в маленькую горную деревню, местные жители встретили его недружелюбно. Он был приезжим, и ему не доверяли. Он купил старый домик, который годами стоял заброшенным. Крыша была сломана, а сад зарос сорняками. Все говорили, что платить за него столько денег — нелепо.
+
+
+    Дэниел не позволил им себя обескуражить. Он каждый день работал, ремонтируя дом. Единственным, кто ему помогал, был старый пастух Лука, живший в хижине на холме над деревней. Лука научил его выращивать пшеницу и овощи и ухаживать за животными. Постепенно Дэниел приобрёл навыки, необходимые для жизни в горах.
+
+
+    Однажды осенью в деревню приехал человек в дорогом костюме. Он сказал, что он из правительства и жители должны платить новый налог на землю. Многие испугались. Некоторые даже начали проявлять ненависть к Дэниелу, думая, что этот человек — его друг из города.
+
+
+    Но Дэниел уже видел подобные уловки. Он внимательно посмотрел на документы мужчины и понял, что они поддельные. «Это преступление, — сказал он. — Вы пытаетесь обмануть этих людей». Мужчина бросился к машине и уехал. Позже полиция поймала его в другой деревне.
+
+
+    Жителям стало неловко. Они считали Дэниела хуже себя, а он сберёг их деньги. На следующей неделе к нему постучал деревенский сторож с корзиной еды. «Мы хотим тебя отблагодарить, — сказал он. — Мы встретили тебя не лучшим образом. Пожалуйста, прости нас». Сегодня домик Дэниела, из которого видна вся долина, — место, где жители деревни собираются каждую пятницу вечером.
+
+    '
+  questions:
+  - q: Why didn't the villagers trust Daniel?
+    options:
+    - He was rude
+    - He was a newcomer from the city
+    - He was a thief
+    - He didn't speak their language
+    answer: 1
+  - q: Who helped Daniel learn to live in the mountains?
+    options:
+    - The caretaker
+    - An old shepherd
+    - The man from the government
+    - His family
+    answer: 1
+  - q: What did Daniel notice about the man's documents?
+    options:
+    - They were old
+    - They were fake
+    - They were in another language
+    - They were lost
+    answer: 1
+  - tf: The villagers apologized to Daniel.
+    answer: true
+  - tf: The man from the city was Daniel's friend.
+    answer: false
+- id: b1-04
+  v1_unit: Brothers and Sisters
+  title: The Sled Race
+  title_ru: Гонка на санках
+  text: 'Sam and his little sister Ellie were always arguing. Sam was twelve, and he loved to tease Ellie. He hid her toys, made jokes about her loose front tooth and laughed when she got irritated. "I''m only kidding!" he always said. But Ellie was often offended, and their mother said Sam''s behaviour was disgraceful.
+
+
+    One winter, a lot of snow fell overnight. In the morning, the whole town was white. The children finished their chores quickly and ran to the big hill behind the pine forest with their sleds. Every year, the kids from the town had a sled race there.
+
+
+    Sam wanted to win. He went down the hill first, very fast. But halfway down, his sled hit a rock. He flew into the air and landed badly, hurting his elbow and cutting his face. He couldn''t stand up. The other kids didn''t notice him because they were busy with the race.
+
+
+    But Ellie saw everything. She persisted through the deep snow, pulled her own sled to her brother and helped him onto it. Then, slowly, she pulled him all the way home, through the narrow alley behind their house. It took an hour, and she was exhausted.
+
+
+    Sam needed stitches, and he still has a small scar above his eye. But something changed that day. He felt a strange sensation when he looked at his sister — not irritation, but respect. "I''m really grateful," he said. "You''re a decent person, Ellie. Better than me." On the 14th of February, Ellie found a card on her bed. It was her first valentine — from her brother, with a bunch of her favourite sweets.
+
+    '
+  ru: 'Сэм и его младшая сестра Элли постоянно ссорились. Сэму было двенадцать, и он обожал дразнить Элли. Он прятал её игрушки, шутил над её шатающимся передним зубом и смеялся, когда она злилась. «Я просто шучу!» — всегда говорил он. Но Элли часто обижалась, а мама говорила, что Сэм ведёт себя возмутительно.
+
+
+    Однажды зимой за ночь выпало много снега. Утром весь город был белым. Дети быстро закончили домашние дела и побежали со своими санками к большому холму за сосновым лесом. Каждый год ребята из городка устраивали там гонки на санках.
+
+
+    Сэм хотел победить. Он первым помчался с холма, очень быстро. Но на полпути его санки налетели на камень. Он взлетел в воздух и неудачно приземлился, ушиб локоть и порезал лицо. Он не мог встать. Другие дети его не заметили — они были заняты гонкой.
+
+
+    Но Элли всё видела. Она упорно пробиралась по глубокому снегу, дотащила свои санки до брата и помогла ему на них лечь. А потом медленно повезла его домой через узкий переулок за их домом. Это заняло час, и она совсем выбилась из сил.
+
+
+    Сэму наложили швы, и у него до сих пор маленький шрам над глазом. Но в тот день что-то изменилось. Глядя на сестру, он испытывал странное чувство — не раздражение, а уважение. «Я правда очень благодарен, — сказал он. — Ты хороший человек, Элли. Лучше меня». Четырнадцатого февраля Элли нашла на кровати открытку. Это была её первая валентинка — от брата, вместе с пакетом её любимых конфет.
+
+    '
+  questions:
+  - q: How did Sam treat his sister at the start?
+    options:
+    - He was very kind
+    - He teased her a lot
+    - He never spoke to her
+    - He helped her with homework
+    answer: 1
+  - q: What happened to Sam during the race?
+    options:
+    - He won
+    - His sled hit a rock and he got hurt
+    - He got lost in the forest
+    - He lost his sled
+    answer: 1
+  - q: How did Ellie help him?
+    options:
+    - She called an ambulance
+    - She pulled him home on her sled
+    - She ran to get their mother
+    - She carried him
+    answer: 1
+  - tf: Sam has a scar above his eye.
+    answer: true
+  - tf: Ellie sent Sam a valentine.
+    answer: false
+- id: b1-05
+  v1_unit: Legends and Pirates
+  title: The Pirate's Riddle
+  title_ru: Загадка пирата
+  text: 'For three hundred years, the inhabitants of the small fishing town of Port Raven have told a story about a wicked pirate called Black Tom. People said he buried a huge treasure somewhere near the town before he died. Some even said he cursed anyone who tried to find it.
+
+
+    Last October, three teenagers — Mia, Josh and Leo — decided to find out if the legend was true. They had found an old publication in the town library: a book from 1820 that contained a strange riddle. "Where the dead sleep and the old tree weeps, my gold you''ll keep," it said.
+
+
+    "The dead sleep... in a cemetery!" said Mia. "And the old tree must be the big willow in the old churchyard." On Halloween night, they put on dark hoods as a disguise, took their flashlights and went there. It was a real thrill, but also a little scary. They could hear strange creatures moving in the bushes.
+
+
+    Under the willow, they found a rotten wooden box. Josh opened it slowly. Inside, there was no gold — only a skeleton of a small bird and a piece of paper. On the paper, someone had written: "The real treasure is the adventure. Black Tom."
+
+
+    The teenagers laughed. Shortly after that, they discovered that the note was a joke by a local writer, who had acquainted himself with the legend and wanted to give young people a fun night. The story spread quickly, and the town decided to make a game of it. Now, every Halloween, children in fancy costumes follow riddles around Port Raven. Nobody starves — the hunt ends with a big party where hot soup nourishes everyone after a cold night.
+
+    '
+  ru: 'Уже триста лет жители маленького рыбацкого городка Порт-Рейвен рассказывают историю о злом пирате по прозвищу Чёрный Том. Говорят, перед смертью он зарыл где-то возле города огромный клад. Некоторые даже утверждали, что он проклял всякого, кто попытается его найти.
+
+
+    Прошлым октябрём трое подростков — Мия, Джош и Лео — решили выяснить, правдива ли легенда. В городской библиотеке они нашли старое издание: книгу 1820 года, в которой была странная загадка. «Где спят мёртвые и плачет старое дерево, там моё золото сбережёшь», — говорилось в ней.
+
+
+    «Мёртвые спят... на кладбище! — сказала Мия. — А старое дерево — это, наверное, большая ива на старом церковном кладбище». В ночь на Хэллоуин они надели тёмные капюшоны для маскировки, взяли фонарики и пошли туда. Это было по-настоящему захватывающе, но и немного страшно. В кустах шевелились какие-то странные существа.
+
+
+    Под ивой они нашли сгнивший деревянный ящик. Джош медленно его открыл. Внутри не было золота — только скелет маленькой птицы и листок бумаги. На нём было написано: «Настоящее сокровище — это приключение. Чёрный Том».
+
+
+    Подростки рассмеялись. Вскоре они узнали, что записка была шуткой местного писателя, который хорошо знал легенду и хотел устроить молодёжи весёлую ночь. История быстро разлетелась, и город решил превратить её в игру. Теперь каждый Хэллоуин дети в нарядных костюмах разгадывают загадки по всему Порт-Рейвену. Никто не остаётся голодным — охота заканчивается большим праздником, где после холодной ночи всех согревает горячий суп.
+
+    '
+  questions:
+  - q: Where did the teenagers find the riddle?
+    options:
+    - In a cemetery
+    - In an old book in the library
+    - On the beach
+    - From a pirate
+    answer: 1
+  - q: Where did they look for the treasure?
+    options:
+    - Under a willow in the old churchyard
+    - In the sea
+    - In the library
+    - In a cave
+    answer: 0
+  - q: Who really wrote the note in the box?
+    options:
+    - Black Tom
+    - A local writer
+    - Mia's father
+    - The librarian
+    answer: 1
+  - tf: The teenagers found a lot of gold.
+    answer: false
+  - tf: Now the town organizes a riddle game every Halloween.
+    answer: true
+- id: b1-06
+  v1_unit: News and Emergencies
+  title: The Earthquake
+  title_ru: Землетрясение
+  text: 'It was a quiet Sunday evening in the eastern district of the city. Maria was in the kitchen, chopping vegetables and stirring a pot of soup. Her eight-year-old son Pablo was playing in his room. On the radio, a music broadcast was playing softly.
+
+
+    Suddenly, there was a tremendous noise, like a train passing under the house. The floor began to shake. Plates fell out of the cupboards, and drawers slid open by themselves. Maria remembered what she had learned at school: "Drop, cover and hold on." She ran to Pablo''s room, grasped his hand and pulled him underneath his strong wooden desk.
+
+
+    The shaking lasted only forty seconds, but it felt like hours. When it stopped, the house was dark and silent. Pablo was crying. Maria held him and tried to console him. "We''re safe," she said. "We just have to wait." They stayed there, listening. Then they heard someone tapping on the wall from the rear of the building. It was their old neighbour, Mr. Kim, who had bumped his head and was trapped in his closet.
+
+
+    Maria found a flashlight and helped him out. He had a small cut on his head, but his skull was fine. Together, they went outside, where other neighbours were gathering. A news bulletin on someone''s phone alerted everyone that more shaking was possible.
+
+
+    The families endured a long night outside in the cold. The next day, a senator visited the district and promised help to rebuild damaged homes. Pablo still talks about that night. "I was scared," he says, "but Mum executed the plan perfectly — like a real hero."
+
+    '
+  ru: 'Был тихий воскресный вечер в восточном районе города. Мария была на кухне: резала овощи и помешивала суп в кастрюле. Её восьмилетний сын Пабло играл у себя в комнате. По радио тихо шла музыкальная передача.
+
+
+    Вдруг раздался страшный грохот, будто под домом проходил поезд. Пол затрясся. Из шкафов падали тарелки, ящики сами выдвигались. Мария вспомнила, чему её учили в школе: «Пригнись, укройся и держись». Она бросилась в комнату Пабло, схватила его за руку и затащила под крепкий деревянный стол.
+
+
+    Тряска длилась всего сорок секунд, но казалось, что прошли часы. Когда она прекратилась, в доме было темно и тихо. Пабло плакал. Мария обнимала его и пыталась утешить. «Мы в безопасности, — сказала она. — Надо просто подождать». Они сидели и прислушивались. Потом услышали, как кто-то стучит в стену в задней части здания. Это был их пожилой сосед, мистер Ким: он ударился головой и оказался заперт в кладовке.
+
+
+    Мария нашла фонарик и помогла ему выбраться. У него был небольшой порез на голове, но череп был цел. Вместе они вышли на улицу, где собирались другие соседи. Срочная сводка новостей на чьём-то телефоне предупредила всех, что возможны новые толчки.
+
+
+    Семьи провели долгую ночь на холоде под открытым небом. На следующий день район посетил сенатор и пообещал помощь в восстановлении пострадавших домов. Пабло до сих пор рассказывает о той ночи. «Мне было страшно, — говорит он, — но мама выполнила план идеально — как настоящий герой».
+
+    '
+  questions:
+  - q: What was Maria doing when the earthquake started?
+    options:
+    - Listening to the news
+    - Cooking in the kitchen
+    - Sleeping
+    - Playing with Pablo
+    answer: 1
+  - q: Where did Maria and Pablo hide?
+    options:
+    - In the closet
+    - Underneath a wooden desk
+    - In the kitchen
+    - Outside
+    answer: 1
+  - q: What happened to Mr. Kim?
+    options:
+    - He was badly hurt
+    - He bumped his head and was trapped in his closet
+    - He ran outside first
+    - He was not at home
+    answer: 1
+  - tf: The shaking lasted several hours.
+    answer: false
+  - tf: A senator promised to help rebuild the homes.
+    answer: true
+- id: b1-07
+  v1_unit: Loyal Friends
+  title: Lucky, the Deaf Dog
+  title_ru: Лаки, глухая собака
+  text: 'Emma was an ambitious young veterinarian who worked in a busy clinic in the city. One winter morning, a fisherman brought her a dog he had found on the beach near the bay. Someone had abandoned it there. The dog was thin, cold and frightened, and it didn''t respond when Emma called it.
+
+
+    After examining the dog, Emma realized why. "She''s deaf," she said. "She can''t hear anything." That''s probably why her owners left her. Many people think a deaf dog is difficult to train. But Emma was enthusiastic. "Her other senses are fine," she said. "She can see and smell perfectly."
+
+
+    Emma took the dog home and called her Lucky. She learned to communicate with Lucky using hand signs. When Lucky did something well, Emma rubbed her under the chin. Lucky quickly became the most loyal friend Emma had ever had. She never barked, but she followed Emma everywhere.
+
+
+    A year later, Emma joined an expedition to the mountains to study wild animals, and Lucky came too. One evening, a storm came, and a member of the team didn''t come back. While everyone looked at the horizon, Lucky put her nose to the ground. She followed the smell for two kilometres and found the man in a small cave, where he had taken refuge with a broken leg.
+
+
+    When they returned, the town''s mayor gave Lucky a medal. Some people had made complaints that a deaf dog shouldn''t join an expedition, but now nobody did. Emma used the money from the prize to restore an old barn and open a shelter for abandoned animals. "Lucky and I have a mutual agreement," she says with a smile. "I listen for her, and she sees for me. Together, we''re brilliant."
+
+    '
+  ru: 'Эмма была амбициозным молодым ветеринаром и работала в оживлённой городской клинике. Однажды зимним утром рыбак принёс ей собаку, которую нашёл на пляже у бухты. Кто-то её там бросил. Собака была худой, замёрзшей и испуганной и не откликалась, когда Эмма её звала.
+
+
+    Осмотрев собаку, Эмма поняла почему. «Она глухая, — сказала она. — Она ничего не слышит». Наверное, поэтому хозяева её и бросили. Многие думают, что глухую собаку трудно дрессировать. Но Эмма была полна энтузиазма. «Остальные чувства у неё в порядке, — сказала она. — Она прекрасно видит и чувствует запахи».
+
+
+    Эмма забрала собаку домой и назвала её Лаки. Она научилась общаться с Лаки с помощью жестов. Когда Лаки делала что-то хорошо, Эмма чесала её под подбородком. Вскоре Лаки стала самым преданным другом, который когда-либо был у Эммы. Она никогда не лаяла, но всюду ходила за Эммой.
+
+
+    Через год Эмма отправилась в экспедицию в горы изучать диких животных, и Лаки поехала с ней. Однажды вечером началась буря, и один из участников экспедиции не вернулся. Пока все смотрели на горизонт, Лаки уткнулась носом в землю. Она два километра шла по следу и нашла мужчину в маленькой пещере, где он укрылся со сломанной ногой.
+
+
+    Когда они вернулись, мэр города вручил Лаки медаль. Раньше некоторые жаловались, что глухой собаке нечего делать в экспедиции, но теперь все замолчали. На деньги от премии Эмма отреставрировала старый сарай и открыла приют для брошенных животных. «У нас с Лаки взаимный договор, — говорит она с улыбкой. — Я слушаю за неё, а она видит за меня. Вместе мы — сила».
+
+    '
+  questions:
+  - q: Where was the dog found?
+    options:
+    - In the city
+    - On the beach near the bay
+    - In the mountains
+    - At the clinic
+    answer: 1
+  - q: How did Emma communicate with Lucky?
+    options:
+    - By whistling
+    - By using hand signs
+    - By shouting
+    - With a special phone
+    answer: 1
+  - q: How did Lucky find the lost man?
+    options:
+    - She heard him calling
+    - She followed his smell
+    - She saw his light
+    - Emma showed her the way
+    answer: 1
+  - tf: Lucky barked a lot.
+    answer: false
+  - tf: Emma opened a shelter for abandoned animals.
+    answer: true
+- id: b1-08
+  v1_unit: Handmade Treasures
+  title: Grandma's Dress
+  title_ru: Бабушкино платье
+  text: 'My grandparents live in a stone cottage in the Scottish Highlands, next to an old mill. My grandfather was a carpenter, and my grandmother made clothes. As a child, I spent every summer with them. I remember the smell of coal in the fireplace and the sound of rain dripping from the roof.
+
+
+    Last year was their fiftieth wedding anniversary. My mother wanted to buy Grandma an elegant new dress, but Grandma refused. "I already have the perfect dress," she said. She went to the shed and came back with an old wooden box. Inside was her wedding dress, wrapped in paper. The fabric was the colour of ivory, but it was old, and the seams had burst in several places.
+
+
+    "I''ll repair it myself," Grandma said. I sat on the couch next to her for three evenings and watched her work. Her hands moved slowly but carefully. She put the thread through the needle and sewed each small tear. She trimmed the edges of the sleeves and added new silk buttons. She even used simple arithmetic to change the size: "Two centimetres here, three there."
+
+
+    Meanwhile, Grandpa was busy in the shed. He polished the old table he had made for their wedding and fixed its broken leg.
+
+
+    On the day of the party, Grandma came down the stairs in her dress. Everyone went silent. She looked beautiful. Grandpa looked upwards at her and his eyes filled with tears. I felt ashamed that I had never asked her to teach me to sew. The next morning, I asked. Now, every summer, we sit together and she teaches me, one stitch at a time.
+
+    '
+  ru: 'Мои бабушка и дедушка живут в каменном домике в Шотландском высокогорье, рядом со старой мельницей. Дедушка был плотником, а бабушка шила одежду. В детстве я проводил у них каждое лето. Я помню запах угля в камине и звук дождя, капающего с крыши.
+
+
+    В прошлом году была их золотая свадьба — пятидесятая годовщина. Мама хотела купить бабушке новое элегантное платье, но бабушка отказалась. «У меня уже есть идеальное платье», — сказала она. Она сходила в сарай и вернулась со старой деревянной шкатулкой. Внутри, завёрнутое в бумагу, лежало её свадебное платье. Ткань была цвета слоновой кости, но старая, и швы в нескольких местах разошлись.
+
+
+    «Я сама его починю», — сказала бабушка. Три вечера я сидел рядом с ней на диване и смотрел, как она работает. Её руки двигались медленно, но аккуратно. Она вдевала нитку в иголку и зашивала каждую маленькую дырочку. Она подрезала края рукавов и пришила новые шёлковые пуговицы. Она даже использовала простую арифметику, чтобы изменить размер: «Два сантиметра здесь, три там».
+
+
+    Тем временем дедушка возился в сарае. Он отполировал старый стол, который сделал к их свадьбе, и починил сломанную ножку.
+
+
+    В день праздника бабушка спустилась по лестнице в своём платье. Все замолчали. Она выглядела прекрасно. Дедушка поднял на неё глаза, и они наполнились слезами. Мне стало стыдно, что я никогда не просил её научить меня шить. На следующее утро я попросил. Теперь каждое лето мы сидим вместе, и она учит меня — стежок за стежком.
+
+    '
+  questions:
+  - q: What did the grandfather do for work?
+    options:
+    - He was a miller
+    - He was a carpenter
+    - He sold coal
+    - He made dresses
+    answer: 1
+  - q: Why didn't Grandma want a new dress?
+    options:
+    - She had no money
+    - She wanted to wear her old wedding dress
+    - She didn't like shopping
+    - She was ill
+    answer: 1
+  - q: What did Grandpa do while Grandma sewed?
+    options:
+    - He cooked dinner
+    - He polished and repaired their wedding table
+    - He bought flowers
+    - He slept on the couch
+    answer: 1
+  - tf: The dress was in perfect condition.
+    answer: false
+  - tf: Now the narrator is learning to sew.
+    answer: true
+- id: b1-09
+  v1_unit: Rivals and Allies
+  title: The Wrestling Match
+  title_ru: Схватка
+  text: 'At my school, the wrestling team was the pride of the entire town. The dominant wrestler was a big boy called Rick. Rick was also a bully. He boasted about his strength and pushed younger kids in the corridors. Everyone was afraid of him.
+
+
+    I was small and quiet, and Rick loved to make fun of me. But my uncle had been a wrestling coach, and he started training me in his garage. He made me eat plenty of carbohydrates and run every morning. He taught me to crawl, roll and bounce back up quickly. "Your opponent may be stronger," he said, "but you can be faster."
+
+
+    At the end of the year, there was a school competition. Of course, my first opponent was Rick. When he saw me, he laughed. "This won''t take long," he said. The match was torture. My muscles were sore, and I strained every part of my body to stay on my feet. The clock''s dial seemed to move so slowly. But I used my speed, and in the final seconds, I pinned him to the floor.
+
+
+    The room went silent. Then everyone cheered. It was Rick''s first defeat in three years. He lay on the mat, red and angry. For a moment, I wanted to boast like he always did. But I remembered how his words used to sting, and I decided to show mercy. I offered him my hand.
+
+
+    Rick looked at me for a long time. Then he nodded and took it. After that day, we stopped quarrelling. We were still rivals on the mat, but outside of it, Rick became my ally. He even stopped bullying the younger kids.
+
+    '
+  ru: 'В нашей школе борцовская команда была гордостью всего города. Сильнейшим борцом был здоровяк по имени Рик. А ещё Рик был задирой. Он хвастался своей силой и толкал младших в коридорах. Все его боялись.
+
+
+    Я был маленьким и тихим, и Рик обожал надо мной издеваться. Но мой дядя когда-то был тренером по борьбе, и он начал тренировать меня у себя в гараже. Он заставлял меня есть побольше углеводов и бегать каждое утро. Он научил меня ползать, перекатываться и быстро вскакивать. «Соперник может быть сильнее, — говорил он, — но ты можешь быть быстрее».
+
+
+    В конце года в школе устроили соревнования. Конечно же, моим первым соперником оказался Рик. Увидев меня, он рассмеялся. «Это ненадолго», — сказал он. Схватка была мучением. Мышцы болели, и я напрягал каждую частичку тела, чтобы устоять на ногах. Стрелка на циферблате, казалось, двигалась ужасно медленно. Но я использовал свою скорость и в последние секунды прижал его к полу.
+
+
+    Зал затих. А потом все закричали от восторга. Это было первое поражение Рика за три года. Он лежал на ковре, красный и злой. На миг мне захотелось похвастаться, как всегда делал он. Но я вспомнил, как больно жалили его слова, и решил проявить великодушие. Я протянул ему руку.
+
+
+    Рик долго смотрел на меня. Потом кивнул и взял её. С того дня мы перестали ссориться. На ковре мы по-прежнему были соперниками, но вне его Рик стал моим союзником. Он даже перестал задирать младших.
+
+    '
+  questions:
+  - q: Who trained the narrator?
+    options:
+    - His father
+    - His uncle
+    - Rick
+    - The school coach
+    answer: 1
+  - q: How did the narrator win?
+    options:
+    - He was stronger
+    - He used his speed
+    - Rick was injured
+    - The judge helped him
+    answer: 1
+  - q: What did the narrator do after winning?
+    options:
+    - He boasted
+    - He offered Rick his hand
+    - He left the room
+    - He laughed at Rick
+    answer: 1
+  - tf: Rick had lost many matches before.
+    answer: false
+  - tf: Rick and the narrator became allies.
+    answer: true
+- id: b1-10
+  v1_unit: Babies and Bedtime
+  title: The Night Grandpa Disappeared
+  title_ru: Ночь, когда пропал дедушка
+  text: 'After my parents'' divorce, my mother and I moved in with my grandfather. Grandpa was a funny old man: bald, with a face full of wrinkles and a big laugh. He helped Mum look after my baby brother, Leo, who was still an infant.
+
+
+    Every evening, Grandpa sat by Leo''s bed and read rhymes aloud. Leo loved them. He sucked his thumb and tried to imitate the sounds. Then Grandpa patted him gently and covered him with a soft blue blanket. Grandpa always had a nap in the afternoon, so he was never tired in the evening.
+
+
+    One night, I woke up and went to the kitchen for some water. Leo''s bed was empty. His blanket was gone, and Grandpa was nowhere to be seen. My heart stopped. Had someone kidnapped them? I ran to Mum''s room. "Leo has vanished!" I shouted. "And Grandpa too!"
+
+
+    Mum jumped out of bed. This was urgent. She grabbed her phone to call the police. But then we heard a strange noise from the garden. We crept to the back door and looked outside.
+
+
+    There, in the moonlight, was Grandpa. He was pulling my old red wagon very slowly around the garden. Inside the wagon, wrapped in his blue blanket, Leo was fast asleep. "He wouldn''t stop crying," Grandpa whispered. "When your mother was a baby, this was the only thing that worked."
+
+
+    Mum laughed and cried at the same time. The relief was enormous. "Next time, please leave a note," she said. "We were really scared by your absence." Grandpa just smiled. "Some things," he said, "you can reproduce with every new generation."
+
+    '
+  ru: 'После развода родителей мы с мамой переехали к дедушке. Дедушка был забавным стариком: лысым, с лицом в морщинах и громким смехом. Он помогал маме ухаживать за моим братиком Лео, который был ещё младенцем.
+
+
+    Каждый вечер дедушка садился у кроватки Лео и читал вслух стишки. Лео их обожал. Он сосал палец и пытался повторять звуки. Потом дедушка ласково гладил его и укрывал мягким голубым одеялом. Дедушка всегда дремал днём, поэтому вечером никогда не уставал.
+
+
+    Однажды ночью я проснулся и пошёл на кухню попить воды. Кроватка Лео была пуста. Одеяла не было, и дедушки тоже нигде не было видно. У меня замерло сердце. Неужели их кто-то похитил? Я побежал в мамину комнату. «Лео исчез! — закричал я. — И дедушка тоже!»
+
+
+    Мама вскочила с кровати. Дело было срочное. Она схватила телефон, чтобы позвонить в полицию. Но тут мы услышали странный шум из сада. Мы прокрались к задней двери и выглянули наружу.
+
+
+    Там, в лунном свете, был дедушка. Он очень медленно возил мою старую красную тележку по саду. Внутри, завёрнутый в голубое одеяло, крепко спал Лео. «Он никак не переставал плакать, — прошептал дедушка. — Когда твоя мама была маленькой, помогало только это».
+
+
+    Мама смеялась и плакала одновременно. Облегчение было огромным. «В следующий раз, пожалуйста, оставь записку, — сказала она. — Мы очень испугались, когда тебя не оказалось на месте». Дедушка лишь улыбнулся. «Некоторые вещи, — сказал он, — можно повторять с каждым новым поколением».
+
+    '
+  questions:
+  - q: What did Grandpa do every evening?
+    options:
+    - He watched TV
+    - He read rhymes aloud to Leo
+    - He went for a walk
+    - He cooked dinner
+    answer: 1
+  - q: What did the family think had happened?
+    options:
+    - Leo was ill
+    - Someone had kidnapped Leo and Grandpa
+    - Grandpa had gone shopping
+    - Leo was in the kitchen
+    answer: 1
+  - q: Why was Grandpa in the garden?
+    options:
+    - He was looking for a cat
+    - He was pulling Leo in a wagon to stop him crying
+    - He couldn't sleep
+    - He was fixing the wagon
+    answer: 1
+  - tf: Mum called the police.
+    answer: false
+  - tf: Grandpa had done the same thing when Mum was a baby.
+    answer: true
+- id: b1-11
+  v1_unit: A Visit to the City
+  title: A Week in Copenhagen
+  title_ru: Неделя в Копенгагене
+  text: 'Last July, I flew to Copenhagen to visit my cousin Freya. It was my first time on a plane alone, and I was a bit nervous. But when I arrived, Freya was waiting for me with a big pink sign that said "WELCOME!" I laughed and immediately felt better.
+
+
+    Freya and her husband were wonderful hosts. Their flat was small but modern, with a soft grey carpet and a huge window in the upper part of the living room. On my first evening, they welcomed me with a traditional Danish dinner. There were other guests too — friends from Freya''s work — and we talked until midnight.
+
+
+    The temperature in Copenhagen was perfect: about twenty-two degrees every day. We spent the mornings walking around the city. I loved the architecture: old colourful houses next to modern glass buildings. In the parks, the flowers were blooming everywhere. We visited a museum about the Vikings, where I saw an ancient boat that looked like a long canoe. In the afternoon, we went to an art gallery. One evening, we even went to the theater, although I didn''t understand a word of the Danish play!
+
+
+    On Saturday, we took a basket of food to the beach and had a picnic. Freya''s husband had packed it the night before and kept it in the refrigerator, so the drinks were still cold.
+
+
+    On my last day, I sat at Freya''s desk and wrote a thank-you card. "You must come to visit me next year," I wrote. It was the best holiday of my life.
+
+    '
+  ru: 'Прошлым июлем я полетел в Копенгаген в гости к двоюродной сестре Фрейе. Я впервые летел один и немного нервничал. Но когда я прилетел, Фрейя ждала меня с большой розовой табличкой «ДОБРО ПОЖАЛОВАТЬ!». Я рассмеялся и сразу почувствовал себя лучше.
+
+
+    Фрейя и её муж оказались чудесными хозяевами. Их квартира была небольшой, но современной, с мягким серым ковролином и огромным окном в верхней части гостиной. В первый вечер они угостили меня традиционным датским ужином. Были и другие гости — друзья Фрейи с работы, — и мы проговорили до полуночи.
+
+
+    Погода в Копенгагене была идеальной: около двадцати двух градусов каждый день. По утрам мы гуляли по городу. Мне очень понравилась архитектура: старые разноцветные дома рядом с современными стеклянными зданиями. В парках повсюду цвели цветы. Мы побывали в музее викингов, где я увидел древнюю лодку, похожую на длинное каноэ. После обеда мы пошли в художественную галерею. Однажды вечером мы даже сходили в театр, хотя я не понял ни слова из датской пьесы!
+
+
+    В субботу мы взяли корзину с едой на пляж и устроили пикник. Муж Фрейи собрал её накануне вечером и поставил в холодильник, так что напитки были ещё холодными.
+
+
+    В последний день я сел за стол Фрейи и написал открытку с благодарностью. «Обязательно приезжайте ко мне в следующем году», — написал я. Это был лучший отпуск в моей жизни.
+
+    '
+  questions:
+  - q: Who did the narrator visit?
+    options:
+    - His sister
+    - His cousin
+    - His friend
+    - His uncle
+    answer: 1
+  - q: What did the narrator see in the Viking museum?
+    options:
+    - A painting
+    - An ancient boat
+    - A golden crown
+    - A modern plane
+    answer: 1
+  - q: Why were the picnic drinks cold?
+    options:
+    - The weather was cold
+    - The basket had been in the refrigerator
+    - They bought them at the beach
+    - They had ice
+    answer: 1
+  - tf: The narrator understood the Danish play.
+    answer: false
+  - tf: The weather was about twenty-two degrees.
+    answer: true
+- id: b1-12
+  v1_unit: Science Experiments
+  title: The Volcano Project
+  title_ru: Проект «Вулкан»
+  text: 'Every year, our school has a science fair. Most students choose casual, easy projects, but my friend Omar and I wanted something exciting. "Let''s build a volcano that really explodes," Omar said. I wasn''t sure. "We have to use caution," I said. "We can''t hurt anyone."
+
+
+    Our teacher gave us a basic science kit and some advice. We used a small plastic barrel as the inside of the volcano and built the mountain around it with paper, glue and paint. To make it strong, we put a thin steel beam in the middle.
+
+
+    The chemistry was simple. When you mix baking soda with vinegar, they react and produce gas. We added red food colouring to the vinegar and a little soap to make foam. We also added a few drops of orange oil, so the "lava" would have a nice scent instead of smelling like vinegar.
+
+
+    On the day of the fair, we fastened our goggles and got ready. We anticipated a small eruption — maybe a few bubbles. But Omar, without telling me, had made a deliberate change: he''d doubled the amount of baking soda. When I poured in the vinegar, the result was swift and dramatic. With a loud puff, red foam exploded out of the top and scattered all over the table, the floor and the judges'' shoes!
+
+
+    For a moment, there was silence. Then the judges started to laugh. Contrary to our fears, they loved it. We quickly cleaned up with rags, and one judge tossed us a towel. In the end, we won first prize. It was a total triumph — and the cleanest our classroom floor has ever been, because no germ could survive all that vinegar!
+
+    '
+  ru: 'Каждый год в нашей школе проходит научная ярмарка. Большинство учеников выбирают простые, лёгкие проекты, но нам с другом Омаром хотелось чего-то захватывающего. «Давай построим вулкан, который по-настоящему извергается», — предложил Омар. Я сомневался. «Надо быть осторожными, — сказал я. — Мы не должны никого поранить».
+
+
+    Учительница дала нам простой научный набор и несколько советов. Мы взяли маленький пластиковый бочонок для внутренней части вулкана и вокруг него построили гору из бумаги, клея и краски. Для прочности мы вставили в середину тонкую стальную балку.
+
+
+    Химия была простой. Если смешать пищевую соду с уксусом, они вступают в реакцию и выделяют газ. Мы добавили в уксус красный пищевой краситель и немного мыла для пены. А ещё капнули апельсинового масла, чтобы «лава» приятно пахла, а не уксусом.
+
+
+    В день ярмарки мы застегнули защитные очки и приготовились. Мы ожидали маленького извержения — может, несколько пузырьков. Но Омар, ничего мне не сказав, кое-что нарочно изменил: он удвоил количество соды. Когда я налил уксус, всё произошло быстро и эффектно. С громким хлопком красная пена вырвалась из жерла и разлетелась по столу, полу и ботинкам жюри!
+
+
+    На мгновение повисла тишина. А потом судьи начали смеяться. Вопреки нашим страхам, им очень понравилось. Мы быстро убрали всё тряпками, а один из судей кинул нам полотенце. В итоге мы получили первый приз. Это был полный триумф — и наш пол в классе никогда ещё не был таким чистым, ведь ни один микроб не выжил бы после такого количества уксуса!
+
+    '
+  questions:
+  - q: What did they use inside the volcano?
+    options:
+    - A glass bottle
+    - A small plastic barrel
+    - A steel box
+    - A paper cup
+    answer: 1
+  - q: Why did they add orange oil?
+    options:
+    - To change the colour
+    - To give the lava a nice scent
+    - To make more foam
+    - To make it explode
+    answer: 1
+  - q: What change did Omar make?
+    options:
+    - He added more vinegar
+    - He doubled the baking soda
+    - He removed the soap
+    - He used real lava
+    answer: 1
+  - tf: The judges were angry about the mess.
+    answer: false
+  - tf: The boys won first prize.
+    answer: true
+- id: b1-13
+  v1_unit: Ships and Harbours
+  title: The Ghost Ship
+  title_ru: Корабль-призрак
+  text: 'In 1872, a British vessel was crossing the Atlantic when its sailors saw a strange ship drifting in the waves. Nobody was on deck. The captain sent three men to look. When they climbed aboard, they found something that would startle the world: the ship, called the Mary Celeste, was completely empty.
+
+
+    The ship had left the port of New York a month earlier with ten people aboard, including the captain, his wife and their little daughter. Now everyone had vanished. Their food and water were still there. Their clothes were dry and tidy. There was no sign of a fight — no blood, no bullets. Only the small lifeboat was missing.
+
+
+    The sailors took the ship to the harbour of Gibraltar, where officials tried to understand what had happened. Some people believed the crew had stolen the cargo — barrels of alcohol — and escaped. But nothing was taken. Others had wilder ideas. Sailors said a sea monster or even the devil had taken the crew. Some people who worshipped the old sea gods said the ocean had punished them.
+
+
+    Today, scientists have a more sensible theory. Nine of the barrels were empty, and alcohol can leak and produce gas. Perhaps the captain smelled it and feared an explosion. That fear might have been the trigger for leaving the ship. Everyone got into the lifeboat, sweating and frightened, and planned to wait nearby. But the rope broke, and the ship sailed away without them.
+
+
+    Nobody knows for sure. The voyage of the Mary Celeste remains one of the greatest mysteries of the sea, and the bitter truth is that we may never learn what happened.
+
+    '
+  ru: 'В 1872 году британское судно пересекало Атлантику, когда моряки заметили странный корабль, дрейфовавший по волнам. На палубе никого не было. Капитан отправил троих людей посмотреть. Поднявшись на борт, они обнаружили то, что потрясёт весь мир: корабль под названием «Мэри Селест» был совершенно пуст.
+
+
+    Месяцем раньше корабль вышел из порта Нью-Йорка с десятью людьми на борту, среди которых были капитан, его жена и их маленькая дочь. Теперь все исчезли. Еда и вода оставались на месте. Одежда была сухой и аккуратно сложенной. Никаких следов борьбы — ни крови, ни пуль. Не хватало только маленькой спасательной шлюпки.
+
+
+    Моряки привели корабль в гавань Гибралтара, где власти пытались понять, что произошло. Некоторые считали, что экипаж украл груз — бочки со спиртом — и сбежал. Но ничего не пропало. У других были идеи пофантастичнее. Моряки говорили, что команду забрало морское чудовище или даже сам дьявол. Те, кто поклонялся древним морским богам, утверждали, что экипаж наказал океан.
+
+
+    Сегодня у учёных есть более здравая версия. Девять бочек оказались пустыми, а спирт может протекать и выделять пары. Возможно, капитан почувствовал запах и испугался взрыва. Этот страх и мог стать причиной, по которой все покинули корабль. Люди сели в шлюпку, обливаясь потом от страха, и собирались переждать рядом. Но верёвка оборвалась, и корабль уплыл без них.
+
+
+    Никто не знает наверняка. Плавание «Мэри Селест» остаётся одной из величайших загадок моря, и горькая правда в том, что мы, возможно, никогда не узнаем, что случилось.
+
+    '
+  questions:
+  - q: What did the sailors find on the Mary Celeste?
+    options:
+    - Dead bodies
+    - Nobody at all
+    - Pirates
+    - A sea monster
+    answer: 1
+  - q: What was missing from the ship?
+    options:
+    - The food
+    - The lifeboat
+    - The cargo
+    - The captain's clothes
+    answer: 1
+  - q: What do scientists think may have caused the crew to leave?
+    options:
+    - A storm
+    - Fear of an explosion from alcohol gas
+    - A fight
+    - Illness
+    answer: 1
+  - tf: There were signs of a violent fight on the ship.
+    answer: false
+  - tf: The mystery has never been completely solved.
+    answer: true
+- id: b1-14
+  v1_unit: The Emperor's Chef
+  title: The Emperor's Soup
+  title_ru: Суп для императора
+  text: 'Long ago, in a massive palace in the east, there lived a young apprentice called Li. He worked in the kitchen under the great chef Master Wu. Li was diligent: he chopped vegetables from morning to night, and he never complained when Master Wu scolded him.
+
+
+    One day, a terrible thing happened. The emperor had fallen ill and refused to eat. The doctors were worried. "Cook something special," the emperor''s advisor told Master Wu. "His health is our only priority." But that evening, Master Wu cut his hand badly with a knife. It bled so much that he needed a bandage, and he couldn''t cook.
+
+
+    Everyone in the kitchen started to panic. Who would cook for the emperor? Li stepped forward. "I''ll do it," he said. Master Wu looked at him for a long moment. "Don''t make anything fancy," he said. "The emperor has eaten every luxury in the world. Cook something simple, from the heart."
+
+
+    Li thought about the soup his grandmother used to make when he was sick: rice, ginger, a few vegetables full of fiber, and a little chicken. He cooked it carefully and carried the bowl to the emperor''s room himself. The emperor was sitting in a golden robe, with his crown on the table beside him. Li knelt and offered him the bowl.
+
+
+    The emperor tasted the soup. Then he ate the whole bowl. "This is not horrible palace food," he said with a smile. "This tastes like home." Over the next weeks, the emperor got better, and he and Li bonded over their love of simple food. When Master Wu retired, the emperor made Li the new head chef. Before his departure, Master Wu assured Li: "I always knew you were ready. I only scolded you because I believed in you."
+
+    '
+  ru: 'Давным-давно в огромном дворце на востоке жил юный подмастерье по имени Ли. Он работал на кухне под началом великого повара мастера У. Ли был старательным: он резал овощи с утра до ночи и никогда не жаловался, когда мастер У его ругал.
+
+
+    Однажды случилась беда. Император заболел и отказывался есть. Врачи беспокоились. «Приготовьте что-нибудь особенное, — сказал мастеру У советник императора. — Его здоровье — наш единственный приоритет». Но в тот вечер мастер У сильно порезал руку ножом. Кровь шла так сильно, что понадобилась повязка, и готовить он не мог.
+
+
+    На кухне началась паника. Кто будет готовить для императора? Ли шагнул вперёд. «Я сделаю это», — сказал он. Мастер У долго смотрел на него. «Не готовь ничего изысканного, — сказал он. — Император перепробовал все деликатесы мира. Приготовь что-нибудь простое, от души».
+
+
+    Ли вспомнил суп, который варила ему бабушка, когда он болел: рис, имбирь, немного овощей, богатых клетчаткой, и чуть-чуть курицы. Он аккуратно сварил его и сам отнёс миску в покои императора. Император сидел в золотом халате, а рядом на столе лежала его корона. Ли опустился на колени и подал ему миску.
+
+
+    Император попробовал суп. А затем съел всю миску. «Это не ужасная дворцовая еда, — сказал он с улыбкой. — Это вкус дома». В последующие недели император поправился, и они с Ли сдружились на почве любви к простой еде. Когда мастер У ушёл на покой, император сделал Ли новым шеф-поваром. Перед отъездом мастер У заверил Ли: «Я всегда знал, что ты готов. Я ругал тебя только потому, что верил в тебя».
+
+    '
+  questions:
+  - q: Why couldn't Master Wu cook for the emperor?
+    options:
+    - He was ill
+    - He had cut his hand badly
+    - He was too old
+    - He had left the palace
+    answer: 1
+  - q: What advice did Master Wu give Li?
+    options:
+    - Use expensive food
+    - Cook something simple, from the heart
+    - Ask the doctors
+    - Make a big feast
+    answer: 1
+  - q: What happened to Li in the end?
+    options:
+    - He left the palace
+    - He became the head chef
+    - He became a doctor
+    - He was punished
+    answer: 1
+  - tf: The emperor didn't like the soup.
+    answer: false
+  - tf: Master Wu scolded Li because he believed in him.
+    answer: true
+- id: b1-15
+  v1_unit: Harvest and Famine
+  title: Joseph and the Pharaoh's Dream
+  title_ru: Иосиф и сон фараона
+  text: 'This is a very old story, told in many countries. Long ago in Egypt, a young man called Joseph was in prison for a theft he did not commit. He was always cheerful and helpful, and he had a special gift: he could explain dreams.
+
+
+    One night, the pharaoh had a strange dream. Seven fat, healthy cows came out of the river. Then seven slim, sick cows came and ate them. None of the wise men at the palace could explain it. Then one of the pharaoh''s servants remembered Joseph. "There''s a man in prison who understands dreams," he said.
+
+
+    Joseph was brought to the palace. He listened to the dream and said: "God has shown you the future. There will be seven years of rich harvests. After that, there will be seven years of terrible famine." Then Joseph offered a scheme: "Collect part of every harvest during the good years and keep it safe. Then, when the famine comes, people will have food."
+
+
+    The pharaoh was impressed. He pardoned Joseph and put him in charge of the whole affair. For seven years, the fields were full of ripe cereal, fruit and nuts. Joseph built huge storehouses and filled them with grain. Every morning he followed the same routine: he checked the stores, counted the grain and blessed the workers.
+
+
+    When the famine came, other countries suffered, but Egypt had enough. People came from far away to buy bread. Joseph didn''t exploit them; he sold the grain at fair prices. At the end of the famine, there was a great assembly in the city. People roasted meat over fires, and everyone was merry once more.
+
+    '
+  ru: 'Это очень старая история, которую рассказывают во многих странах. Давным-давно в Египте юноша по имени Иосиф сидел в тюрьме за кражу, которой не совершал. Он всегда был жизнерадостным и отзывчивым, и у него был особый дар: он умел толковать сны.
+
+
+    Однажды ночью фараону приснился странный сон. Из реки вышли семь тучных, здоровых коров. Затем пришли семь тощих, больных коров и съели их. Никто из мудрецов при дворе не смог его объяснить. И тут один из слуг фараона вспомнил об Иосифе. «В тюрьме есть человек, который понимает сны», — сказал он.
+
+
+    Иосифа привели во дворец. Он выслушал сон и сказал: «Бог показал тебе будущее. Будет семь лет богатых урожаев. А после них — семь лет страшного голода». И Иосиф предложил план: «В хорошие годы собирай часть каждого урожая и храни его. Тогда, когда придёт голод, у людей будет еда».
+
+
+    Фараон был впечатлён. Он помиловал Иосифа и поручил ему всё это дело. Семь лет поля были полны спелых злаков, фруктов и орехов. Иосиф построил огромные хранилища и наполнил их зерном. Каждое утро он следовал одному и тому же распорядку: проверял запасы, пересчитывал зерно и благословлял работников.
+
+
+    Когда пришёл голод, другие страны страдали, но в Египте еды хватало. Люди приходили издалека, чтобы купить хлеба. Иосиф не наживался на них — он продавал зерно по честной цене. В конце голода в городе собралось большое собрание. Люди жарили мясо на кострах, и все снова веселились.
+
+    '
+  questions:
+  - q: Why was Joseph in prison?
+    options:
+    - For a theft he didn't commit
+    - For killing someone
+    - For lying to the pharaoh
+    - For not paying taxes
+    answer: 0
+  - q: What did the seven slim cows mean?
+    options:
+    - Seven years of rich harvests
+    - Seven years of famine
+    - Seven wars
+    - Seven new kings
+    answer: 1
+  - q: What was Joseph's scheme?
+    options:
+    - To buy food from other countries
+    - To store part of every harvest
+    - To kill the sick cows
+    - To build pyramids
+    answer: 1
+  - tf: Joseph sold grain at very high prices.
+    answer: false
+  - tf: The pharaoh pardoned Joseph.
+    answer: true
+- id: b1-16
+  v1_unit: Justice and Privacy
+  title: The Secret Diary
+  title_ru: Тайный дневник
+  text: 'Anna was a quiet adolescent with a real aptitude for writing. Every evening, she wrote in her diary: stories, poems and her honest thoughts about life. Her English teacher often complimented her work. "You have a literary gift," he said. "You should think about journalism."
+
+
+    One day, Anna came home from school and found her room unusually tidy. Her mother had cleaned it. On the desk, next to a slice of cake and a glass of juice with a straw, was her diary. It was open. Anna''s heart sank. "Did you read it?" she asked. Her mother looked away. "I presumed it was just homework," she said. "I only read a page."
+
+
+    Anna felt anger and sorrow at the same time. "That''s my private life!" she shouted. "I have a right to privacy!" Her mother was hurt. "I''m your mother," she said. "I worry about you." Anna ran to her room and cried until her eyes began to swell.
+
+
+    That night, Anna couldn''t sleep. She took a headache pill her mum had bought at the pharmacy and lay thinking. In her diary, she had written that she felt lonely at school. Maybe her mother had read that page and was frightened.
+
+
+    The next morning, they sat down together. "Let''s be sensible," said her mother. "I shouldn''t have read your diary. I''m sorry." Anna nodded. "And I should talk to you more," she said. They made a deal: Mum would respect Anna''s liberty, and Anna would share her problems. There was no punishment and no jury — just justice and an apology. Nothing hindered their friendship after that. Years later, Anna became a journalist, and her first article was about trust between parents and teenagers.
+
+    '
+  ru: 'Анна была тихим подростком с настоящими способностями к письму. Каждый вечер она писала в дневник: рассказы, стихи и свои честные мысли о жизни. Учитель английского часто хвалил её работы. «У тебя литературный дар, — говорил он. — Тебе стоит подумать о журналистике».
+
+
+    Однажды Анна пришла из школы и обнаружила, что в её комнате необычно чисто. Мама сделала уборку. На столе, рядом с кусочком торта и стаканом сока с трубочкой, лежал её дневник. Он был открыт. У Анны упало сердце. «Ты его читала?» — спросила она. Мама отвела взгляд. «Я думала, это просто домашнее задание, — сказала она. — Я прочитала только одну страницу».
+
+
+    Анна почувствовала одновременно злость и печаль. «Это моя личная жизнь! — закричала она. — Я имею право на личное пространство!» Маму это задело. «Я твоя мать, — сказала она. — Я за тебя волнуюсь». Анна убежала к себе и плакала, пока у неё не опухли глаза.
+
+
+    В ту ночь Анна не могла уснуть. Она выпила таблетку от головной боли, которую мама купила в аптеке, и лежала, размышляя. В дневнике она написала, что чувствует себя одинокой в школе. Возможно, мама прочитала именно эту страницу и испугалась.
+
+
+    На следующее утро они сели поговорить. «Давай будем благоразумными, — сказала мама. — Мне не следовало читать твой дневник. Прости меня». Анна кивнула. «А мне нужно больше с тобой разговаривать», — сказала она. Они договорились: мама будет уважать свободу Анны, а Анна будет делиться своими проблемами. Ни наказаний, ни присяжных — только справедливость и извинение. После этого ничто не мешало их дружбе. Спустя годы Анна стала журналисткой, и её первая статья была о доверии между родителями и подростками.
+
+    '
+  questions:
+  - q: What did Anna's teacher say about her?
+    options:
+    - She was lazy
+    - She had a literary gift
+    - She should study science
+    - She talked too much
+    answer: 1
+  - q: Why was Anna upset?
+    options:
+    - Her mother threw away her diary
+    - Her mother read her diary
+    - Her room was messy
+    - She failed a test
+    answer: 1
+  - q: What deal did they make?
+    options:
+    - Anna would stop writing
+    - Mum would respect her liberty and Anna would share problems
+    - Anna would clean her room
+    - Mum would buy a new diary
+    answer: 1
+  - tf: Anna's mother apologized.
+    answer: true
+  - tf: Anna became a doctor.
+    answer: false
+- id: b1-17
+  v1_unit: The Volcano
+  title: The Last Days of Pompeii
+  title_ru: Последние дни Помпеи
+  text: 'In the year 79, Pompeii was a busy Roman town near the Bay of Naples. People wandered through its markets, sold bread and wine, and relaxed in public baths. Above the town stood a large green mountain called Vesuvius. Nobody knew it was a volcano.
+
+
+    In the days before the disaster, there were warnings. The ground vibrated, and wells became dry. Some people had a superstition that the gods were angry, but most people dismissed the signs. Earthquakes were common in the area, after all.
+
+
+    Then, on a summer afternoon, Vesuvius erupted. A huge cloud of smoke and ash rose into the sky. Stones and hot ash fell on the town like rain. Many people escaped, but others stayed, confined to their homes and hoping it would end. The next morning, a cloud of burning gas and ash rushed down the slopes of the mountain. The remainder of the people had no chance. The town disappeared under six metres of ash. Unlike in some eruptions, it was not lava that destroyed Pompeii, but the ash and gas.
+
+
+    A young man called Pliny watched the disaster from across the bay. His uncle, a famous scientist, tried to navigate his ship towards the coast to rescue people, but the water was too shallow and the waves too big. His uncle died there. Pliny''s letters, which describe his miserable fate, are our best record of the eruption.
+
+
+    Pompeii was forgotten for over 1,500 years. When archaeologists finally retrieved it from the ash, they found a whole town frozen in time. Today, the site spans 66 hectares and attracts millions of tourists every year. Many visitors feel deep sympathy when they see the shapes of people and animals — even a dog, which perhaps someone had kept with great affection.
+
+    '
+  ru: 'В 79 году Помпеи были оживлённым римским городом неподалёку от Неаполитанского залива. Люди бродили по рынкам, продавали хлеб и вино и отдыхали в общественных банях. Над городом возвышалась большая зелёная гора Везувий. Никто не знал, что это вулкан.
+
+
+    В дни перед катастрофой были предупреждения. Земля дрожала, колодцы пересыхали. Некоторые суеверно считали, что боги гневаются, но большинство не обращало на знаки внимания. В конце концов, землетрясения в этих местах были обычным делом.
+
+
+    А потом летним днём Везувий начал извергаться. Огромное облако дыма и пепла поднялось в небо. Камни и горячий пепел падали на город, как дождь. Многие успели бежать, но другие остались, запершись в домах в надежде, что всё закончится. На следующее утро облако раскалённого газа и пепла понеслось вниз по склонам горы. У оставшихся людей не было шансов. Город исчез под шестью метрами пепла. В отличие от некоторых извержений, Помпеи уничтожила не лава, а пепел и газ.
+
+
+    Юноша по имени Плиний наблюдал за катастрофой с другой стороны залива. Его дядя, знаменитый учёный, пытался провести свой корабль к берегу, чтобы спасать людей, но там было слишком мелко, а волны были слишком велики. Дядя погиб там. Письма Плиния, в которых описана его печальная судьба, — наше лучшее свидетельство об извержении.
+
+
+    О Помпеях забыли более чем на 1500 лет. Когда археологи наконец извлекли город из-под пепла, они нашли целый город, застывший во времени. Сегодня раскопки занимают 66 гектаров и ежегодно привлекают миллионы туристов. Многие посетители испытывают глубокое сочувствие, видя очертания людей и животных — даже собаки, которую, возможно, кто-то очень любил.
+
+    '
+  questions:
+  - q: What did most people think about the warning signs?
+    options:
+    - They were very worried
+    - They dismissed them
+    - They left the town
+    - They asked scientists
+    answer: 1
+  - q: What destroyed Pompeii?
+    options:
+    - Lava
+    - Ash and burning gas
+    - A flood
+    - An earthquake
+    answer: 1
+  - q: Why couldn't Pliny's uncle reach the coast?
+    options:
+    - His ship was broken
+    - The water was shallow and the waves were big
+    - He got lost
+    - The soldiers stopped him
+    answer: 1
+  - tf: People knew that Vesuvius was a volcano.
+    answer: false
+  - tf: Pompeii was forgotten for more than 1,500 years.
+    answer: true
+- id: b1-18
+  v1_unit: Knights and Rebels
+  title: The Castle on the Cliff
+  title_ru: Замок на утёсе
+  text: 'Seven hundred years ago, a small country in the north wanted independence from a powerful king in the south. The leader of the rebels was a young knight called Sir Duncan. He had no castle, only a few hundred warriors with spears and old armor. But he had something more important: the people believed in him.
+
+
+    The king sent thousands of troops to stop the revolution. The invasion was fast and violent. Village after village went up in flames. Duncan''s men had to retreat to the mountains. Finally, they took shelter in an old castle on top of a steep cliff above the sea. The only way to reach it was a narrow path.
+
+
+    The king''s army surrounded the castle. Every day they attacked, and every day they failed. The path was too steep, and the rebels threw stones down on them. After two months, the king''s commander sent a message: "Yield now, and your men can live." Duncan replied: "We will never yield."
+
+
+    Then, one night, a terrible storm came. Lightning lit up the sky, and thunder boomed over the sea. The king''s soldiers hid in their tents. Duncan saw his chance. He led his men down a secret path to the beach, and they attacked the enemy camp from behind. In the darkness and rain, the soldiers panicked. Fires blazed in the camp as tents caught fire.
+
+
+    By morning, the king''s army had withdrawn. A year later, the king signed a peace agreement. Today, the ruins of the castle still stand on the cliff. Every summer, people climb to the summit to remember the night the storm saved their country.
+
+    '
+  ru: 'Семьсот лет назад небольшая северная страна хотела независимости от могущественного короля на юге. Во главе мятежников стоял молодой рыцарь сэр Дункан. У него не было замка — лишь несколько сотен воинов с копьями и в старых доспехах. Но у него было кое-что поважнее: люди верили в него.
+
+
+    Король послал тысячи солдат, чтобы подавить восстание. Вторжение было быстрым и жестоким. Деревня за деревней сгорали в пламени. Людям Дункана пришлось отступить в горы. В конце концов они укрылись в старом замке на вершине крутого утёса над морем. Добраться туда можно было только по узкой тропе.
+
+
+    Королевская армия окружила замок. Каждый день они шли в атаку, и каждый день терпели неудачу. Тропа была слишком крутой, а мятежники сбрасывали на них камни. Через два месяца командир короля прислал послание: «Сдайтесь сейчас, и ваши люди останутся в живых». Дункан ответил: «Мы никогда не сдадимся».
+
+
+    А потом однажды ночью разразилась страшная буря. Молнии освещали небо, над морем грохотал гром. Королевские солдаты попрятались в палатках. Дункан понял, что это его шанс. Он повёл своих людей по тайной тропе вниз, к пляжу, и они атаковали вражеский лагерь с тыла. В темноте и под дождём солдаты запаниковали. Палатки загорались, и лагерь полыхал.
+
+
+    К утру королевская армия отступила. Через год король подписал мирный договор. Сегодня руины замка всё ещё стоят на утёсе. Каждое лето люди поднимаются на вершину, чтобы вспомнить ночь, когда буря спасла их страну.
+
+    '
+  questions:
+  - q: What did the northern country want?
+    options:
+    - More land
+    - Independence
+    - A new king
+    - Gold
+    answer: 1
+  - q: Why was the castle easy to defend?
+    options:
+    - It had high walls
+    - The path to it was narrow and steep
+    - It had many soldiers
+    - It was underground
+    answer: 1
+  - q: How did Duncan use the storm?
+    options:
+    - He escaped by boat
+    - He attacked the enemy camp from behind
+    - He asked for peace
+    - He burned the castle
+    answer: 1
+  - tf: Duncan agreed to yield after two months.
+    answer: false
+  - tf: The ruins of the castle can still be seen today.
+    answer: true
+- id: b1-19
+  v1_unit: Revenge and Forgiveness
+  title: The Orphan and the Old Man
+  title_ru: Сирота и старик
+  text: 'Tom was an orphan who lived with his aunt in a small village. Next door lived Mr. Harris, a grumpy old man. For years, there had been a dispute between Mr. Harris and Tom''s aunt about the garden fence. Mr. Harris shouted at Tom whenever his ball went over it.
+
+
+    One day, after another incident with the ball, Mr. Harris kept it and refused to give it back. Tom was filled with rage. He wanted revenge. That night, he plotted his plan. He would sneak into the old man''s garden and pull up all his flowers, especially the daisies Mr. Harris loved so much.
+
+
+    Early the next morning, in the grey mist, Tom crept over the fence. But as he reached the flowers, he heard a strange sound. Through the window, he saw Mr. Harris lying on the kitchen floor. Tom watched in horror. The old man wasn''t moving.
+
+
+    Tom forgot all about his plan. He climbed in through the back door, which was open, and called an ambulance. Then he sat with Mr. Harris and held his hand until help came. The doctors said the old man had fallen and broken his hip. "If the boy hadn''t found you," they said, "it could have been much worse."
+
+
+    A week later, Mr. Harris came home from hospital. He asked Tom to visit. On the kitchen table was the ball — and a bunch of daisies with long stems. "I''m sorry," the old man said with a sigh. "I''ve been lonely since my wife died. This house has felt so empty." Tom felt a wave of shame about his plan for revenge. He told Mr. Harris the truth. To his surprise, Mr. Harris laughed. "Then we''re even," he said. "Can you spare an evening? I make a very tender beef stew." From then on, Tom often came for supper, and the two of them sat on the bench in the garden, talking for hours.
+
+    '
+  ru: 'Том был сиротой и жил с тётей в маленькой деревне. По соседству жил мистер Харрис, ворчливый старик. Много лет мистер Харрис и тётя Тома спорили из-за садового забора. Мистер Харрис кричал на Тома каждый раз, когда его мяч перелетал через забор.
+
+
+    Однажды, после очередного случая с мячом, мистер Харрис забрал его себе и отказался отдавать. Тома охватила ярость. Он жаждал мести. Той ночью он обдумал свой план. Он проберётся в сад старика и вырвет все его цветы — особенно ромашки, которые мистер Харрис так любил.
+
+
+    Ранним утром, в сером тумане, Том перелез через забор. Но как только он подобрался к цветам, он услышал странный звук. Через окно он увидел мистера Харриса, лежащего на полу кухни. Том смотрел в ужасе. Старик не двигался.
+
+
+    Том совсем забыл о своём плане. Он вошёл через заднюю дверь, которая была открыта, и вызвал скорую. Потом сидел рядом с мистером Харрисом и держал его за руку, пока не приехала помощь. Врачи сказали, что старик упал и сломал бедро. «Если бы мальчик вас не нашёл, — сказали они, — всё могло бы быть гораздо хуже».
+
+
+    Через неделю мистер Харрис вернулся из больницы. Он позвал Тома в гости. На кухонном столе лежал мяч — и букет ромашек на длинных стеблях. «Прости меня, — сказал старик со вздохом. — Мне было одиноко с тех пор, как умерла жена. Этот дом казался таким пустым». Тому стало очень стыдно за свой план мести. Он рассказал мистеру Харрису правду. К его удивлению, тот рассмеялся. «Значит, мы квиты, — сказал он. — Найдётся у тебя свободный вечер? Я готовлю очень нежное рагу из говядины». С тех пор Том часто приходил на ужин, и они вдвоём часами сидели на скамейке в саду и разговаривали.
+
+    '
+  questions:
+  - q: Why did Tom want revenge?
+    options:
+    - Mr. Harris hit him
+    - Mr. Harris kept his ball
+    - Mr. Harris broke the fence
+    - Mr. Harris shouted at his aunt
+    answer: 1
+  - q: What did Tom see through the window?
+    options:
+    - Mr. Harris eating
+    - Mr. Harris lying on the floor
+    - A thief
+    - A fire
+    answer: 1
+  - q: Why was Mr. Harris so grumpy?
+    options:
+    - He hated children
+    - He was lonely after his wife died
+    - He was ill
+    - He had no money
+    answer: 1
+  - tf: Tom pulled up the daisies.
+    answer: false
+  - tf: Tom and Mr. Harris became friends.
+    answer: true
+- id: b1-20
+  v1_unit: Wild Wolves
+  title: The Return of the Wolves
+  title_ru: Возвращение волков
+  text: 'In 1995, something important happened in Yellowstone National Park in the USA. For seventy years, there had been no wolves there. Hunters had killed them all. Scientists were dissatisfied with the state of the park: there were too many deer, and they were eating every young tree. The rivers had changed, and many birds and animals had disappeared. It was evident that something was wrong.
+
+
+    So scientists brought fourteen wolves from Canada. It was an experiment, and nobody knew the outcome. Many farmers were angry. They feared the wolves would seize their sheep and cows.
+
+
+    What happened next was magnificent. The wolves began to hunt the deer. They didn''t kill all of them, but the deer became nervous. They stopped standing in open valleys and eating with ease. Beneath the trees along the rivers, young plants began to grow again. Within a few years, some trees were five times taller. Birds returned to nest in them. Beavers came back and built dams, creating new homes for fish and frogs.
+
+
+    The wolves themselves did well. They had cubs, and soon there were packs all over the park. Tourists started visiting just to hear them howl at dawn. Some even saw them leap through the snow in winter, or shelter from hail together, squeezed tightly against each other.
+
+
+    Scientists say the wolves had a profound effect on the whole park. Predators like wolves are not a luxury; they are a necessity. They are vital for the balance of nature. Being a top hunter, a supreme predator, is not their only trait — they are also gardeners, in a way. Today, the story of Yellowstone''s wolves is a terrific example of how nature can heal itself.
+
+    '
+  ru: 'В 1995 году в Йеллоустонском национальном парке в США произошло важное событие. Семьдесят лет там не было волков. Охотники перебили их всех. Учёные были недовольны состоянием парка: оленей стало слишком много, и они поедали все молодые деревья. Реки изменились, многие птицы и звери исчезли. Было очевидно, что что-то не так.
+
+
+    И учёные привезли из Канады четырнадцать волков. Это был эксперимент, и никто не знал, чем он закончится. Многие фермеры были в ярости. Они боялись, что волки будут хватать их овец и коров.
+
+
+    Дальнейшее оказалось великолепным. Волки начали охотиться на оленей. Они не убили их всех, но олени стали нервными. Они перестали спокойно стоять и пастись в открытых долинах. Под деревьями вдоль рек снова начали расти молодые растения. Через несколько лет некоторые деревья стали в пять раз выше. Птицы вернулись и стали вить в них гнёзда. Вернулись бобры и построили плотины, создав новый дом для рыб и лягушек.
+
+
+    Самим волкам тоже жилось хорошо. У них появились волчата, и скоро стаи жили по всему парку. Туристы стали приезжать только для того, чтобы услышать, как они воют на рассвете. Некоторым даже доводилось видеть, как они скачут по снегу зимой или прячутся от града, тесно прижавшись друг к другу.
+
+
+    Учёные говорят, что волки оказали глубокое влияние на весь парк. Хищники вроде волков — не роскошь, а необходимость. Они жизненно важны для природного равновесия. Быть главным охотником, высшим хищником — не единственная их черта: в каком-то смысле они ещё и садовники. Сегодня история йеллоустонских волков — потрясающий пример того, как природа может исцелить сама себя.
+
+    '
+  questions:
+  - q: What was the problem in Yellowstone before 1995?
+    options:
+    - There were too many wolves
+    - There were too many deer eating young trees
+    - There was no water
+    - There were too many tourists
+    answer: 1
+  - q: Why were some farmers angry?
+    options:
+    - They wanted to hunt the deer
+    - They feared wolves would attack their animals
+    - They had to pay for the wolves
+    - They lost their land
+    answer: 1
+  - q: What happened to the trees by the rivers?
+    options:
+    - They were cut down
+    - They grew again
+    - They died
+    - The beavers ate them
+    answer: 1
+  - tf: The wolves killed all the deer.
+    answer: false
+  - tf: The wolves were brought from Canada.
+    answer: true
+- id: b1-21
+  v1_unit: Genes and Health
+  title: The Code of Life
+  title_ru: Код жизни
+  text: 'Every living thing — a tree, a cat, a human — is made of tiny cells. Inside almost every cell there is a long chemical called DNA. You can think of DNA as a code: a set of instructions that tells the body how to grow and work. Small parts of this code are called genes. Genes decide many things about you, such as the colour of your eyes and your hair.
+
+
+    You inherit half of your genes from your mother and half from your father. That''s why children often look like their parents. Genes also explain some differences between male and female bodies.
+
+
+    Scientists have done extensive research on genes, and the results have changed medicine. For example, doctors have found a link between certain genes and some diseases. One famous example is a gene that increases the risk of breast cancer. If a woman knows she has this gene, she can have regular checks, and doctors can find cancerous cells early, when treatment works best.
+
+
+    But genes are not everything. Our lifestyle matters too. Smoking cigarettes, for example, causes the destruction of healthy cells in the lungs. Eating too much sugar can lead to serious health problems. Furthermore, a lack of exercise is linked to heart disease. Research on large populations shows that a healthy lifestyle can reduce the risk of many illnesses, even for people with "bad" genes.
+
+
+    There is still no single cure for cancer. But every year, scientists understand more about how the disease attacks the body. New treatments use our own immune cells to fight it. Many doctors believe that, thanks to research on DNA, the future of medicine is brighter than ever.
+
+    '
+  ru: 'Всё живое — дерево, кошка, человек — состоит из крошечных клеток. Почти в каждой клетке есть длинное химическое вещество под названием ДНК. ДНК можно представить как код — набор инструкций, который говорит организму, как расти и работать. Небольшие участки этого кода называются генами. Гены определяют многое в вас — например, цвет глаз и волос.
+
+
+    Половину генов вы наследуете от матери, а половину — от отца. Вот почему дети часто похожи на родителей. Гены также объясняют некоторые различия между мужским и женским организмом.
+
+
+    Учёные провели обширные исследования генов, и их результаты изменили медицину. Например, врачи обнаружили связь между определёнными генами и некоторыми болезнями. Известный пример — ген, который повышает риск рака груди. Если женщина знает, что у неё есть этот ген, она может регулярно проходить обследования, и врачи смогут обнаружить раковые клетки рано, когда лечение наиболее эффективно.
+
+
+    Но гены — это ещё не всё. Образ жизни тоже имеет значение. Например, курение сигарет приводит к разрушению здоровых клеток лёгких. Избыток сахара может привести к серьёзным проблемам со здоровьем. Более того, недостаток движения связан с болезнями сердца. Исследования больших групп населения показывают, что здоровый образ жизни может снизить риск многих болезней — даже у людей с «плохими» генами.
+
+
+    Единого лекарства от рака пока нет. Но с каждым годом учёные всё лучше понимают, как болезнь атакует организм. Новые методы лечения используют собственные иммунные клетки человека для борьбы с ней. Многие врачи считают, что благодаря исследованиям ДНК будущее медицины светлее, чем когда-либо.
+
+    '
+  questions:
+  - q: What is DNA compared to in the text?
+    options:
+    - A machine
+    - A code or set of instructions
+    - A cell
+    - A medicine
+    answer: 1
+  - q: How many of your genes come from your mother?
+    options:
+    - All of them
+    - Half
+    - A quarter
+    - None
+    answer: 1
+  - q: According to the text, what can reduce the risk of illness?
+    options:
+    - Only good genes
+    - A healthy lifestyle
+    - Eating more sugar
+    - Nothing
+    answer: 1
+  - tf: There is now a single cure for all cancers.
+    answer: false
+  - tf: Smoking damages healthy cells in the lungs.
+    answer: true
+- id: b1-22
+  v1_unit: The Portrait
+  title: The Girl in the Striped Dress
+  title_ru: Девушка в полосатом платье
+  text: 'In 1920, a rich ranch owner in Texas commissioned a famous artist to paint a portrait of his daughter, Lily. The artist arrived on the ranch in early summer. Lily was sixteen, informal and full of energy. She hated sitting still. "Do I really have to pose for three hours a day?" she asked.
+
+
+    To make the work less boring, Lily brought her tame raccoon, Bandit, to every session. She wore her favourite dress, which she had dyed bright yellow with white stripes. The artist was tempted to tell her to wear something more serious, but in the end he painted her just as she was: smiling, with the raccoon on her lap.
+
+
+    The portrait was finished, but strangely, it disappeared after the family moved to New York. For eighty years, nobody knew where it was.
+
+
+    Then, in 2005, a woman found an old painting in her grandmother''s attic. She peered at the signature and couldn''t believe her eyes. She inquired at a museum, and experts confirmed it: it was the lost portrait. The discovery made headlines in all the newspapers.
+
+
+    But the most amazing part of the story was still to come. The finding coincided with Lily''s 101st birthday. She was still alive, living in a care home in Florida. A messenger from the museum took a photo of the painting to her. When Lily saw it, she laughed. "Bandit!" she cried. "That terrible raccoon stole the artist''s brushes every day!"
+
+
+    The museum later held an exhibition about the painting. The hall could accommodate hundreds of people, but there were queues outside. Lily, who had once worked as a circus rider and later steered her own boat around the world, was the guest of honour. The extent of public interest surprised everyone. People of every age and gender came to see the girl in the striped dress.
+
+    '
+  ru: 'В 1920 году богатый владелец ранчо в Техасе заказал знаменитому художнику портрет своей дочери Лили. Художник приехал на ранчо в начале лета. Лили было шестнадцать: непосредственная и полная энергии, она терпеть не могла сидеть на месте. «Мне правда придётся позировать по три часа в день?» — спросила она.
+
+
+    Чтобы работа была не такой скучной, Лили приносила на каждый сеанс своего ручного енота Бандита. Она надевала любимое платье, которое сама покрасила в ярко-жёлтый цвет с белыми полосками. Художника так и тянуло попросить её надеть что-нибудь посерьёзнее, но в итоге он написал её такой, какая она есть: улыбающейся, с енотом на коленях.
+
+
+    Портрет был закончен, но, как ни странно, исчез после того, как семья переехала в Нью-Йорк. Восемьдесят лет никто не знал, где он.
+
+
+    А в 2005 году одна женщина нашла на чердаке у бабушки старую картину. Она вгляделась в подпись и не поверила своим глазам. Она обратилась в музей, и эксперты подтвердили: это был пропавший портрет. Находка попала в заголовки всех газет.
+
+
+    Но самое удивительное в этой истории было ещё впереди. Находка совпала со 101-м днём рождения Лили. Она была жива и жила в доме престарелых во Флориде. Посланник из музея привёз ей фотографию картины. Увидев её, Лили рассмеялась. «Бандит! — воскликнула она. — Этот ужасный енот каждый день воровал у художника кисти!»
+
+
+    Позже музей устроил выставку, посвящённую картине. Зал вмещал сотни людей, но снаружи стояли очереди. Лили, которая когда-то работала наездницей в цирке, а позже на собственной лодке обогнула земной шар, была почётной гостьей. Масштаб общественного интереса удивил всех. Посмотреть на девушку в полосатом платье пришли люди всех возрастов, и мужчины, и женщины.
+
+    '
+  questions:
+  - q: Who commissioned the portrait?
+    options:
+    - Lily
+    - Lily's father
+    - A museum
+    - The artist
+    answer: 1
+  - q: What did Lily bring to every session?
+    options:
+    - Her dog
+    - Her tame raccoon
+    - A book
+    - Her horse
+    answer: 1
+  - q: Where was the portrait found in 2005?
+    options:
+    - In a museum
+    - In a grandmother's attic
+    - On the ranch
+    - In a circus
+    answer: 1
+  - tf: Lily had died before the portrait was found.
+    answer: false
+  - tf: The discovery coincided with Lily's 101st birthday.
+    answer: true
+- id: b1-23
+  v1_unit: Outlaws and Wizards
+  title: The Wizard of the Woods
+  title_ru: Лесной волшебник
+  text: 'Long ago, in a cottage at the edge of a dark forest, lived an old man with a long white beard. He never shaved it, and his eyes were a strange faded blue. The villagers believed he was a wizard. They were terrified of him and seldom went near his house, even in the daytime.
+
+
+    In the same forest lived an outlaw called Black Jack. He robbed travellers on the road and took their purses. Black Jack had once been an honest farmer, but he had gambled away his farm and his money. Now he was desperate. The king had banned anyone from helping him, and soldiers were searching for him everywhere.
+
+
+    One cold winter evening, after an exhausting day of running from the soldiers, Black Jack came to the old man''s cottage. He was hungry and hurt. He knocked on the door, expecting a fierce wizard. Instead, a gentle old man opened it. "Come in," he said. "You look cold."
+
+
+    The old man gave him soup and bread and cleaned his wounds. Black Jack was cautious at first, but slowly he began to talk. Finally, he confessed everything. "I''ve done terrible things," he said. "I have no prospects. Nobody will ever trust me again."
+
+
+    The old man smiled. "I''m not a wizard," he said. "I''m just a lonely man with a long beard. People believe stories. But you can change your story." He gave Black Jack a fishing rod and some work: mowing the lawn, cutting wood, mending the roof.
+
+
+    Black Jack stayed. Years later, when the old man died, Black Jack had become a kind, quiet man with a long white beard of his own. And the children of the village whispered that he was a wizard too.
+
+    '
+  ru: 'Давным-давно в домике на опушке тёмного леса жил старик с длинной белой бородой. Он никогда её не брил, а глаза у него были странного выцветшего голубого цвета. Жители деревни считали его волшебником. Они до смерти его боялись и редко подходили к его дому, даже днём.
+
+
+    В том же лесу жил разбойник по прозвищу Чёрный Джек. Он грабил путников на дороге и отбирал у них кошельки. Когда-то Чёрный Джек был честным фермером, но проиграл в азартные игры свою ферму и все деньги. Теперь он был в отчаянии. Король запретил кому-либо ему помогать, и солдаты повсюду его искали.
+
+
+    Однажды холодным зимним вечером, после изнурительного дня бегства от солдат, Чёрный Джек пришёл к домику старика. Он был голоден и ранен. Он постучал в дверь, ожидая увидеть свирепого волшебника. Вместо этого дверь открыл добрый старик. «Заходи, — сказал он. — Ты, кажется, замёрз».
+
+
+    Старик дал ему супа и хлеба и промыл раны. Сначала Чёрный Джек держался настороженно, но постепенно разговорился. В конце концов он во всём признался. «Я натворил ужасных дел, — сказал он. — У меня нет никакого будущего. Мне больше никто никогда не поверит».
+
+
+    Старик улыбнулся. «Я не волшебник, — сказал он. — Я просто одинокий человек с длинной бородой. Люди верят сказкам. Но ты можешь изменить свою историю». Он дал Чёрному Джеку удочку и работу: косить траву, рубить дрова, чинить крышу.
+
+
+    Чёрный Джек остался. Спустя годы, когда старик умер, Чёрный Джек стал добрым, тихим человеком с собственной длинной белой бородой. А деревенские дети шептались, что он тоже волшебник.
+
+    '
+  questions:
+  - q: Why were the villagers afraid of the old man?
+    options:
+    - He was a robber
+    - They believed he was a wizard
+    - He had a fierce dog
+    - He shouted at them
+    answer: 1
+  - q: How did Black Jack lose his farm?
+    options:
+    - In a fire
+    - He gambled it away
+    - The king took it
+    - He sold it
+    answer: 1
+  - q: What did the old man give Black Jack?
+    options:
+    - Money
+    - A fishing rod and work
+    - A horse
+    - A magic stone
+    answer: 1
+  - tf: The old man was a real wizard.
+    answer: false
+  - tf: In the end, children thought Black Jack was a wizard too.
+    answer: true
+- id: b1-24
+  v1_unit: Working Abroad
+  title: A Job on the Other Side of the World
+  title_ru: Работа на другом конце света
+  text: 'When Kate was offered a job abroad, she spent a sleepless night thinking about it. The job was in a remote town in northern Australia, working for a small airline that flew doctors to farms and villages. The income was good, but it was 15,000 kilometres from home.
+
+
+    "Go," her best friend said. "You''ll regret it if you don''t." So Kate wrote a brief letter to her boss, packed her bags and booked a ticket. She found a bargain flight, although it had three stops. When she finally arrived, she was so tired from jet lag that she slept for fourteen hours.
+
+
+    Her new job was very different. She worked in the office, collecting data about flights and patients and writing official reports. Sometimes she flew with the doctors in the small planes. The maximum number of passengers was six, and the noise was so loud that nobody could hear anything. The doctors visited people who lived hundreds of kilometres from a hospital. If someone was very ill, the doctors referred them to the big hospital in the city and the airline''s jet took them there.
+
+
+    Kate quickly made friends. On weekends, people gathered for barbecues by the river. She took up a new hobby: painting the red desert landscapes. She even had to get used to a new currency and new words. "Arvo" meant "afternoon", and "brekkie" meant "breakfast".
+
+
+    After a year, Kate''s paintings were good enough for a small exhibition in the town hall. She was nervous, but the audience loved them. One visitor, a writer, asked her to make pictures for a book about the area. Kate wrote the first draft of an email to her family: "I would recommend this life to anyone. I''m not coming home yet." Then she turned up the volume on the radio and started to dance.
+
+    '
+  ru: 'Когда Кейт предложили работу за границей, она провела бессонную ночь, размышляя об этом. Работа была в отдалённом городке на севере Австралии, в небольшой авиакомпании, которая доставляла врачей на фермы и в деревни. Доход был хорошим, но это было в 15 000 километров от дома.
+
+
+    «Езжай, — сказала её лучшая подруга. — Пожалеешь, если не поедешь». И Кейт написала начальнику короткое письмо, собрала чемоданы и купила билет. Она нашла очень выгодный рейс, хотя и с тремя пересадками. Когда она наконец добралась, то так устала от смены часовых поясов, что проспала четырнадцать часов.
+
+
+    Новая работа сильно отличалась от прежней. Она работала в офисе: собирала данные о рейсах и пациентах и писала официальные отчёты. Иногда она летала с врачами на маленьких самолётах. Максимальное число пассажиров было шесть, а шум был таким громким, что никто ничего не слышал. Врачи навещали людей, живших в сотнях километров от больницы. Если кто-то был серьёзно болен, врачи направляли его в большую городскую больницу, и реактивный самолёт авиакомпании доставлял его туда.
+
+
+    Кейт быстро завела друзей. По выходным люди собирались на барбекю у реки. У неё появилось новое хобби: она рисовала красные пустынные пейзажи. Ей даже пришлось привыкнуть к новой валюте и новым словечкам. «Arvo» означало «после обеда», а «brekkie» — «завтрак».
+
+
+    Через год картины Кейт стали достаточно хорошими для небольшой выставки в ратуше. Она волновалась, но зрителям они очень понравились. Один посетитель, писатель, попросил её сделать иллюстрации к книге об этих краях. Кейт набросала черновик письма семье: «Я бы всем советовала такую жизнь. Домой я пока не вернусь». Потом прибавила громкость радио и начала танцевать.
+
+    '
+  questions:
+  - q: What kind of company did Kate work for?
+    options:
+    - A hospital
+    - A small airline that flew doctors
+    - A travel agency
+    - A newspaper
+    answer: 1
+  - q: What new hobby did Kate take up?
+    options:
+    - Fishing
+    - Painting landscapes
+    - Flying planes
+    - Writing books
+    answer: 1
+  - q: What does 'arvo' mean?
+    options:
+    - Breakfast
+    - Afternoon
+    - Friend
+    - Evening
+    answer: 1
+  - tf: Kate's flight to Australia was direct.
+    answer: false
+  - tf: Kate decided not to go home yet.
+    answer: true
+- id: b1-25
+  v1_unit: The Race to the Pole
+  title: Scott and Amundsen
+  title_ru: Скотт и Амундсен
+  text: 'In 1911, two teams were racing to be the first to reach the South Pole. One was led by Robert Scott, an officer in the British Navy. The other was led by Roald Amundsen from Norway.
+
+
+    The two men had very different plans. Amundsen had lived with Arctic peoples and learned from them. He used dogs to pull his sleds and wore warm fur clothing. Scott decided to use ponies and motor sledges. Part of the underlying problem was that Scott''s team did not have enough experience of polar travel. The motor sledges broke down in the cold, and the ponies could not survive. Soon Scott''s men had to pull the heavy sleds themselves.
+
+
+    Amundsen reached the Pole on 14 December 1911. Scott arrived five weeks later, on 17 January 1912. When he saw the Norwegian flag, he was devastated. "All the dreams must go," he wrote in his diary.
+
+
+    The journey back was a nightmare. The temperature fell to minus forty. Frost covered their faces and beards, and blood stopped circulating properly in their hands and feet. One of the men, Lawrence Oates, an army officer, had terrible frostbite. Believing he was slowing the others down, he walked out of the tent into a snowstorm. "I am just going outside and may be some time," he said. He never returned. Some people called it suicide; most called it a brave sacrifice.
+
+
+    The remaining men trembled with cold in their tent. They were only eighteen kilometres from a supply camp, but a storm stopped them. They died there. Their bodies were found eight months later. The consequent news shocked the world. Scott''s last words were a message to the British public. Today, historians argue about the merits of both leaders, but both men showed amazing courage.
+
+    '
+  ru: 'В 1911 году две экспедиции соревновались за право первыми достичь Южного полюса. Одну возглавлял Роберт Скотт, офицер британского флота. Другую — Руаль Амундсен из Норвегии.
+
+
+    Планы у них были совсем разные. Амундсен жил среди народов Арктики и учился у них. Его сани тянули собаки, а сам он носил тёплую меховую одежду. Скотт решил использовать пони и моторные сани. Глубинная проблема была отчасти в том, что команде Скотта не хватало опыта полярных путешествий. Моторные сани сломались на морозе, а пони не выжили. Вскоре людям Скотта пришлось тащить тяжёлые сани самим.
+
+
+    Амундсен достиг полюса 14 декабря 1911 года. Скотт пришёл через пять недель, 17 января 1912 года. Увидев норвежский флаг, он был опустошён. «Прощайте, все мечты», — записал он в дневнике.
+
+
+    Обратный путь стал кошмаром. Температура упала до минус сорока. Иней покрывал их лица и бороды, а кровь плохо циркулировала в руках и ногах. Один из них, армейский офицер Лоуренс Оутс, сильно обморозился. Считая, что он задерживает остальных, он вышел из палатки в снежную бурю. «Я просто выйду наружу и, возможно, задержусь», — сказал он. Он так и не вернулся. Некоторые называли это самоубийством; большинство — мужественной жертвой.
+
+
+    Оставшиеся дрожали от холода в палатке. До склада с припасами было всего восемнадцать километров, но их остановила буря. Там они и погибли. Их тела нашли через восемь месяцев. Последовавшее известие потрясло мир. Последними словами Скотта было обращение к британскому народу. Сегодня историки спорят о достоинствах обоих руководителей, но оба проявили поразительное мужество.
+
+    '
+  questions:
+  - q: What did Amundsen use to pull his sleds?
+    options:
+    - Ponies
+    - Dogs
+    - Motor sledges
+    - His men
+    answer: 1
+  - q: Who reached the South Pole first?
+    options:
+    - Scott
+    - Amundsen
+    - Oates
+    - They arrived together
+    answer: 1
+  - q: Why did Oates walk out of the tent?
+    options:
+    - To find food
+    - He believed he was slowing the others down
+    - To look for Amundsen
+    - To get help
+    answer: 1
+  - tf: Scott's team survived and returned home.
+    answer: false
+  - tf: Scott's men died only eighteen kilometres from a supply camp.
+    answer: true
+- id: b1-26
+  v1_unit: Autumn Festival
+  title: Bonfire Night
+  title_ru: Ночь костров
+  text: 'Every year on the fifth of November, people in Britain celebrate Bonfire Night. It''s one of my favourite autumn evenings. The tradition is over four hundred years old. In 1605, a group of men tried to blow up Parliament in London. One of them, Guy Fawkes, was caught guarding the explosives. Since then, the British have remembered the night with bonfires and fireworks.
+
+
+    This year, my family decided to have a party in our garden. My job was to make the food. I baked ginger biscuits with flour, butter and sugar, and I made a hot apple drink. I crushed some cinnamon, blended it with the apples and added a spoonful of honey paste. My little brother tried to help, but he spilled the mixture everywhere. "That''s disgusting!" he laughed as it ran down the drain.
+
+
+    Dad was in charge of the fireworks. He set them up at the end of the garden on a metal frame held together with wire. He altered the plan several times because our cat kept sitting in the way. "Stand aside, everyone!" he shouted. Then he lit the fuse.
+
+
+    The first rocket flew up and curved across the dark sky, exploding into a shower of gold. Everyone cheered. Our neighbours came to watch from the other side of the fence. Their kids were a bit jealous — they had only had sparklers. "We envy you," their mum said. "Come and join us," Mum replied, and soon both families were standing together.
+
+
+    By ten o''clock, the bonfire had collapsed into a pile of glowing red wood. I wiped the sticky tables while Mum looked for the receipt for the fireworks. "We''ll need to buy more next year," she said, embracing me. "That was the best Bonfire Night ever."
+
+    '
+  ru: 'Каждый год пятого ноября в Британии отмечают Ночь костров. Это один из моих любимых осенних вечеров. Традиции более четырёхсот лет. В 1605 году группа заговорщиков пыталась взорвать парламент в Лондоне. Одного из них, Гая Фокса, поймали, когда он охранял взрывчатку. С тех пор британцы вспоминают ту ночь кострами и фейерверками.
+
+
+    В этом году наша семья решила устроить праздник в саду. Мне поручили еду. Я испёк имбирное печенье из муки, масла и сахара и приготовил горячий яблочный напиток. Я растолок корицу, смешал её с яблоками и добавил ложку медовой пасты. Младший брат пытался помогать, но разлил смесь повсюду. «Фу, гадость!» — смеялся он, пока она стекала в слив.
+
+
+    Папа отвечал за фейерверк. Он установил его в конце сада на металлической раме, скреплённой проволокой. Ему несколько раз пришлось менять план, потому что наш кот всё время садился на пути. «Все отойдите в сторону!» — крикнул он. И поджёг фитиль.
+
+
+    Первая ракета взлетела и описала дугу в тёмном небе, рассыпавшись золотым дождём. Все закричали от восторга. Соседи пришли посмотреть с другой стороны забора. Их дети немного завидовали — у них были только бенгальские огни. «Мы вам завидуем», — сказала их мама. «Присоединяйтесь», — ответила моя мама, и вскоре обе семьи стояли вместе.
+
+
+    К десяти часам костёр осел грудой тлеющих красных поленьев. Я вытирал липкие столы, пока мама искала чек за фейерверк. «В следующем году надо будет купить ещё», — сказала она, обнимая меня. «Это была лучшая Ночь костров за всю жизнь».
+
+    '
+  questions:
+  - q: What happened in 1605?
+    options:
+    - A big fire in London
+    - A plan to blow up Parliament
+    - The first fireworks were made
+    - A new king came
+    answer: 1
+  - q: What did the narrator make?
+    options:
+    - The fireworks
+    - Ginger biscuits and a hot apple drink
+    - The bonfire
+    - Pancakes
+    answer: 1
+  - q: Why did Dad change his plan several times?
+    options:
+    - It started raining
+    - The cat kept sitting in the way
+    - The fireworks were broken
+    - The neighbours complained
+    answer: 1
+  - tf: The neighbours had bigger fireworks.
+    answer: false
+  - tf: The two families watched the fireworks together.
+    answer: true
+- id: b1-27
+  v1_unit: Heritage and Rumours
+  title: The Queen's Necklace
+  title_ru: Ожерелье королевы
+  text: 'In 1785, a strange affair shook the royal court of France. It is still known as "the Affair of the Diamond Necklace", and it shows how dangerous a rumor can be.
+
+
+    Two jewellers in Paris had made a massive necklace of 647 precious diamonds. They hoped to sell it to the king, but it was too expensive, even for him. Meanwhile, a clever woman named Jeanne de la Motte had a plan. She told a rich noble, Cardinal de Rohan, that Queen Marie Antoinette secretly wanted the necklace but couldn''t buy it openly. Jeanne said the queen wanted the cardinal to buy it for her.
+
+
+    The cardinal was suspicious at first. So Jeanne arranged a secret meeting at night in the palace gardens. There, a young blonde woman dressed like the queen gave him a rose. In the darkness, he believed it was really Marie Antoinette. He bought the necklace, but it never reached the queen. Jeanne''s husband took it to London, where the diamonds were sold one by one.
+
+
+    When the jewellers asked the queen for payment, the whole story came out. The queen had known nothing. Jeanne was punished: she was dragged through the streets and sent to prison. But the damage was done. Many people already had a prejudice against the foreign-born queen. They believed the rumors and exaggerated them. Newspapers and cartoons insulted her. People said her love of luxury was a sin while the poor were starving.
+
+
+    The queen was never able to fully conquer this bad reputation. Historians now acknowledge that the scandal helped to cause the French Revolution four years later. Today, you can visit Versailles, part of France''s heritage, and see the queen''s rooms, with their vases and silk walls. The palace is still a spectacle, but it holds many sad stories.
+
+    '
+  ru: 'В 1785 году королевский двор Франции потрясло странное дело. Оно до сих пор известно как «Дело о бриллиантовом ожерелье» и показывает, насколько опасным может быть слух.
+
+
+    Два парижских ювелира изготовили огромное ожерелье из 647 драгоценных бриллиантов. Они надеялись продать его королю, но оно оказалось слишком дорогим даже для него. Тем временем у одной хитрой женщины по имени Жанна де Ламотт созрел план. Она сказала богатому вельможе, кардиналу де Рогану, что королева Мария-Антуанетта втайне мечтает об ожерелье, но не может купить его открыто. Жанна уверяла, что королева хочет, чтобы кардинал купил его для неё.
+
+
+    Сначала кардинал отнёсся к этому с подозрением. Тогда Жанна устроила тайную встречу ночью в дворцовом саду. Там молодая блондинка, одетая как королева, подарила ему розу. В темноте он поверил, что это действительно Мария-Антуанетта. Он купил ожерелье, но до королевы оно так и не дошло. Муж Жанны увёз его в Лондон, где бриллианты продали по одному.
+
+
+    Когда ювелиры потребовали у королевы оплату, вся история раскрылась. Королева ничего не знала. Жанну наказали: её протащили по улицам и отправили в тюрьму. Но вред уже был нанесён. Многие и так были предубеждены против королевы-иностранки. Люди верили слухам и преувеличивали их. Газеты и карикатуры оскорбляли её. Говорили, что её любовь к роскоши — грех, когда бедняки голодают.
+
+
+    Королеве так и не удалось полностью избавиться от этой дурной славы. Сегодня историки признают, что скандал способствовал Французской революции, начавшейся через четыре года. Сегодня можно посетить Версаль, часть наследия Франции, и увидеть покои королевы с вазами и шёлковыми стенами. Дворец по-прежнему великолепное зрелище, но в нём хранится немало печальных историй.
+
+    '
+  questions:
+  - q: Who did Jeanne trick?
+    options:
+    - The king
+    - Cardinal de Rohan
+    - The jewellers
+    - The queen
+    answer: 1
+  - q: Who did the cardinal meet in the garden?
+    options:
+    - The real queen
+    - A young woman dressed like the queen
+    - Jeanne's husband
+    - The king
+    answer: 1
+  - q: What happened to the diamonds?
+    options:
+    - They were returned
+    - They were sold one by one in London
+    - The queen wore them
+    - They were lost at sea
+    answer: 1
+  - tf: The queen knew about the plan.
+    answer: false
+  - tf: Historians believe the scandal helped cause the French Revolution.
+    answer: true
+- id: b1-28
+  v1_unit: The Stubborn Merchant
+  title: The Merchant of Venice Street
+  title_ru: Купец с Венецианской улицы
+  text: 'Mr. Rossi was the most stubborn merchant in the whole suburb. For forty years, he had run a small grocer''s shop next to the old canal. He sold bread, fruit and dairy products, and he always did things his own way. He refused to take cards, he never opened on Sundays, and he never, ever hesitated to tell customers what he thought.
+
+
+    One winter, a big supermarket company wanted to build a shopping centre on his street. They offered to buy all the shops. Everyone sold — except Mr. Rossi. "This shop is an institution," he said. "My father opened it. I''m not leaving."
+
+
+    The company tried everything. They made a bigger offer. They postponed the building work again and again, hoping he would give up. Mr. Rossi''s back ached, and his doctor told him to rest. The chemist next door gave him medicine for the chill he had caught. But every morning he still opened the shop at six.
+
+
+    Then came the storm. An arctic wind blew for three days, and on the third night, a very high tide pushed water from the canal into the streets. Water splashed against the doors and descended into the cellars. Many houses were flooded. It could have been a tragedy.
+
+
+    But Mr. Rossi''s shop was on higher ground, and it was the only shop still open. For a whole week, he gave food to families who had lost everything. He jogged up and down the street with bags of bread, poking his head into every house to check on the old people.
+
+
+    After the flood, the story even reached the national congress of shopkeepers, who gave him a prize. And the company? They built their shopping centre one street away. Mr. Rossi''s shop is still there. And yes — he now accepts cards.
+
+    '
+  ru: 'Мистер Росси был самым упрямым купцом во всём пригороде. Сорок лет он держал маленькую продуктовую лавку у старого канала. Он продавал хлеб, фрукты и молочные продукты и всегда всё делал по-своему. Он не принимал карты, никогда не открывался по воскресеньям и никогда, ни за что не стеснялся говорить покупателям, что о них думает.
+
+
+    Однажды зимой крупная сеть супермаркетов задумала построить на его улице торговый центр. Компания предложила выкупить все магазины. Продали все — кроме мистера Росси. «Эта лавка — целое учреждение, — сказал он. — Её открыл мой отец. Я никуда не уйду».
+
+
+    Компания перепробовала всё. Она предложила больше денег. Снова и снова откладывала строительство в надежде, что он сдастся. У мистера Росси болела спина, и врач велел ему отдыхать. Аптекарь по соседству дал ему лекарство от простуды. Но каждое утро он по-прежнему открывал лавку в шесть.
+
+
+    А потом пришла буря. Три дня дул арктический ветер, а на третью ночь очень высокий прилив вытолкнул воду из канала на улицы. Вода плескалась о двери и стекала в подвалы. Многие дома затопило. Могла случиться трагедия.
+
+
+    Но лавка мистера Росси стояла на возвышении, и только она одна оставалась открытой. Целую неделю он кормил семьи, потерявшие всё. Он трусцой бегал по улице с пакетами хлеба, заглядывая в каждый дом, чтобы проверить, как там старики.
+
+
+    После наводнения эта история дошла даже до национального съезда владельцев магазинов, и ему вручили премию. А компания? Она построила свой торговый центр через улицу. Лавка мистера Росси всё ещё на месте. И да — теперь он принимает карты.
+
+    '
+  questions:
+  - q: What did the supermarket company want?
+    options:
+    - To hire Mr. Rossi
+    - To buy all the shops on the street
+    - To sell Mr. Rossi's products
+    - To close the canal
+    answer: 1
+  - q: What caused the flood?
+    options:
+    - A broken pipe
+    - A very high tide during a storm
+    - Heavy snow
+    - A river
+    answer: 1
+  - q: Why was Mr. Rossi's shop still open?
+    options:
+    - It was on higher ground
+    - He had a pump
+    - It had strong doors
+    - It was far from the canal
+    answer: 0
+  - tf: Mr. Rossi sold his shop in the end.
+    answer: false
+  - tf: Mr. Rossi now accepts cards.
+    answer: true
+- id: b1-29
+  v1_unit: Grief and Hope
+  title: The Thousand Paper Cranes
+  title_ru: Тысяча бумажных журавликов
+  text: 'In August 1945, at the end of the Second World War, an American plane dropped a nuclear bomb on the Japanese city of Hiroshima. In seconds, the bomb devastated the city. Tens of thousands of people died, and many more suffered for years afterwards.
+
+
+    One of the survivors was a girl called Sadako Sasaki. She was two years old at the time. For ten years, she grew up as a happy, healthy child who loved running. But in 1955, at the age of twelve, she became ill. Doctors studied her blood under a microscope and found that she had leukaemia, a cancer that many children in Hiroshima developed because of the bomb.
+
+
+    In hospital, Sadako''s best friend told her about an old Japanese legend: anyone who folds a thousand paper cranes will be granted a wish. Sadako began folding. She used any paper she could find — medicine wrappers, pieces of newspaper, even the paper from her get-well cards. Her family watched her with grief, but Sadako didn''t frown or complain. She was coping with her illness with amazing courage. She often gazed at the cranes hanging from the ceiling, rotating slowly in the air.
+
+
+    Sadako died in October 1955. Some stories say she folded over a thousand cranes; others say she didn''t finish. Either way, her friends and classmates were moved by her story. They collected money to build a memorial for her and all the children who died because of the bomb.
+
+
+    Today, in the Hiroshima Peace Park, there is a statue of Sadako holding a golden crane. Every year, visitors leave thousands of paper cranes there. Many people buy small cranes as souvenirs. Books and films portray her story, and it has become a symbol of hope and peace all over the world.
+
+    '
+  ru: 'В августе 1945 года, в конце Второй мировой войны, американский самолёт сбросил атомную бомбу на японский город Хиросиму. За секунды бомба опустошила город. Десятки тысяч людей погибли, а ещё больше страдали долгие годы.
+
+
+    Одной из выживших была девочка по имени Садако Сасаки. Ей тогда было два года. Десять лет она росла счастливым, здоровым ребёнком и обожала бегать. Но в 1955 году, в двенадцать лет, она заболела. Врачи изучили её кровь под микроскопом и обнаружили лейкоз — рак, которым из-за бомбы заболели многие дети Хиросимы.
+
+
+    В больнице лучшая подруга рассказала Садако старинную японскую легенду: тот, кто сложит тысячу бумажных журавликов, получит исполнение желания. Садако начала складывать. Она использовала любую бумагу, какую могла найти, — обёртки от лекарств, обрывки газет, даже бумагу от открыток с пожеланиями выздоровления. Семья смотрела на неё с горем, но Садако не хмурилась и не жаловалась. Она справлялась с болезнью с удивительным мужеством. Она часто подолгу смотрела на журавликов, висевших под потолком и медленно вращавшихся в воздухе.
+
+
+    Садако умерла в октябре 1955 года. Одни истории говорят, что она сложила больше тысячи журавликов; другие — что не успела закончить. Как бы то ни было, её история тронула друзей и одноклассников. Они собрали деньги на памятник ей и всем детям, погибшим из-за бомбы.
+
+
+    Сегодня в Парке мира в Хиросиме стоит статуя Садако, держащей золотого журавлика. Каждый год посетители оставляют там тысячи бумажных журавликов. Многие покупают маленьких журавликов на память. Её историю рассказывают книги и фильмы, и она стала символом надежды и мира во всём мире.
+
+    '
+  questions:
+  - q: How old was Sadako when the bomb fell?
+    options:
+    - Two
+    - Twelve
+    - Ten
+    - Five
+    answer: 0
+  - q: What does the legend say about a thousand paper cranes?
+    options:
+    - They bring money
+    - The person who folds them gets a wish
+    - They protect a house
+    - They cure illness
+    answer: 1
+  - q: What did Sadako use to fold cranes?
+    options:
+    - Only special paper
+    - Any paper she could find
+    - Silk
+    - Leaves
+    answer: 1
+  - tf: Sadako complained a lot about her illness.
+    answer: false
+  - tf: There is a statue of Sadako in Hiroshima.
+    answer: true
+- id: b1-30
+  v1_unit: On the Raft
+  title: The Kon-Tiki Expedition
+  title_ru: Экспедиция «Кон-Тики»
+  text: 'In the 1940s, a Norwegian scientist called Thor Heyerdahl had an unusual idea. He believed that people from South America could have sailed to the islands of Polynesia in the Pacific Ocean thousands of years ago. Most experts laughed at him. "Ancient people only had wooden rafts," they said. "They couldn''t cross such a huge distance." But criticism didn''t deter Heyerdahl. He devised a plan to prove it himself.
+
+
+    In 1947, Heyerdahl and five companions built a raft called the Kon-Tiki from balsa wood, using only materials and methods that ancient people had. None of the men were proficient sailors, but each had some expertise: one was a radio engineer, another a scientist. Heyerdahl''s spouse and children waited at home, full of worry.
+
+
+    The raft left the coastline of Peru and drifted west with the ocean currents. Life on board was hard. The men had to tolerate storms, sun and endless salt water. Waves shoved the raft from side to side, and the men tied ropes around their shoulders so they wouldn''t fall into the sea. One night, a huge wave almost broke the raft. Another time, they thrust spears at sharks circling the raft. Many of them suffered from headaches and sunburn, but luckily, nobody got a fracture or hurt a limb.
+
+
+    Yet their optimism never disappeared. They caught fish, studied whales and watched the stars. After 101 days and almost 7,000 kilometres, they saw a green ridge of land in the distance. With all their might, they steered towards it — and crashed onto a coral reef near a Polynesian island. Everyone survived.
+
+
+    The voyage made Heyerdahl famous. Scientists still argue about his theory, but the expedition gave the world a valuable insight: with courage and a good plan, people can implement ideas that others think are impossible.
+
+    '
+  ru: 'В 1940-х годах у норвежского учёного Тура Хейердала возникла необычная идея. Он считал, что тысячи лет назад жители Южной Америки могли доплыть до островов Полинезии в Тихом океане. Большинство специалистов смеялись над ним. «У древних людей были только деревянные плоты, — говорили они. — Они не могли преодолеть такое огромное расстояние». Но критика не остановила Хейердала. Он разработал план, чтобы доказать это сам.
+
+
+    В 1947 году Хейердал и пятеро спутников построили из бальсового дерева плот под названием «Кон-Тики», используя только те материалы и способы, что были у древних людей. Никто из них не был опытным моряком, но у каждого была своя специальность: один был радиоинженером, другой — учёным. Жена и дети Хейердала ждали дома, полные тревоги.
+
+
+    Плот отошёл от побережья Перу и поплыл на запад по океанским течениям. Жизнь на борту была тяжёлой. Людям приходилось терпеть шторма, солнце и бесконечную солёную воду. Волны швыряли плот из стороны в сторону, и мужчины обвязывали плечи верёвками, чтобы не упасть в море. Однажды ночью огромная волна чуть не разбила плот. В другой раз они вонзали копья в акул, кружащих вокруг плота. Многие страдали от головной боли и солнечных ожогов, но, к счастью, никто ничего не сломал и не повредил ни руки, ни ноги.
+
+
+    Тем не менее оптимизм их не покидал. Они ловили рыбу, наблюдали за китами и смотрели на звёзды. Через 101 день и почти 7000 километров они увидели вдали зелёный горный гребень. Изо всех сил они направили плот к нему — и налетели на коралловый риф у одного из полинезийских островов. Все остались живы.
+
+
+    Плавание принесло Хейердалу славу. Учёные до сих пор спорят о его теории, но экспедиция дала миру ценное понимание: при смелости и хорошем плане люди могут воплотить идеи, которые другие считают невозможными.
+
+    '
+  questions:
+  - q: What did Heyerdahl want to prove?
+    options:
+    - That rafts are faster than ships
+    - That ancient South Americans could have sailed to Polynesia
+    - That sharks are dangerous
+    - That Peru is near Polynesia
+    answer: 1
+  - q: What was the Kon-Tiki made of?
+    options:
+    - Steel
+    - Balsa wood
+    - Plastic
+    - Bamboo
+    answer: 1
+  - q: How long was the voyage?
+    options:
+    - 10 days
+    - 101 days
+    - 1 year
+    - 47 days
+    answer: 1
+  - tf: All the men were proficient sailors.
+    answer: false
+  - tf: Everyone survived the crash on the reef.
+    answer: true

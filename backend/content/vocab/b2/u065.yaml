@@ -23,3 +23,56 @@ words:
 - vampire | n | ˈvæmpaɪə | ˈvæmpaɪər | вампир | in stories, a dead person who drinks blood | *Vampire* bats feed on blood. | Летучие мыши-вампиры питаются кровью.
 - verse | n | vɜːs | vɜːrs | стих, куплет | poetry; a part of a song | The song has three *verses*. | В песне три куплета.
 - visual arts | n | ˈvɪʒuːəl ɑːts | ˈvɪʒəwəl ɑːrts | изобразительные искусства | arts that you look at | She teaches *visual arts*. | Она преподаёт изобразительное искусство.
+reading:
+  title: Beethoven's Silent World
+  title_ru: Беззвучный мир Бетховена
+  text: |
+    Ludwig van Beethoven is one of the greatest composers in the history of classical music. But as every biography of him narrates, his life was a struggle against terrible difficulties.
+
+    Born in Germany in 1770, Beethoven moved to Vienna at the age of twenty-one. At that time, the city's dominance in the world of music was unquestioned. The young pianist quickly made a name for himself with his spontaneous, passionate playing. Audiences would clap and shout for more.
+
+    But around the age of thirty, Beethoven began to lose his hearing. At first he suffered from acute ringing in his ears. Over the following years, the condition got worse, and deafness became inevitable. For a musician, this was a nightmare. In a famous letter, he admitted that his despair almost compelled him to end his life. Only his art, he wrote, held him back.
+
+    Beethoven was not an easy man. He was notorious for his bad temper and occasional aggression towards servants and students. He moved house dozens of times and had a famous partiality for strong coffee — he counted exactly sixty beans for each cup. Yet his friends also spoke of his honesty and loyalty, virtues he valued above everything.
+
+    Remarkably, many of his greatest creations were written when he was almost completely deaf. He composed by imagining the sounds in his head. His Ninth Symphony, which includes the gorgeous "Ode to Joy", was first performed in 1824. Beethoven stood on the stage, but could not hear the music. When it ended, a singer turned him around so he could see the audience. They were on their feet, waving their hats in the air.
+
+    Overall, Beethoven wrote nine symphonies, an opera with multiple versions and hundreds of other works. Many are considered masterpieces. His legacy continues to boost the spirits of millions of listeners, and "Ode to Joy" is now the official anthem of the European Union.
+  ru: |
+    Людвиг ван Бетховен — один из величайших композиторов в истории классической музыки. Но, как рассказывает любая его биография, его жизнь была борьбой с ужасными трудностями.
+
+    Бетховен родился в Германии в 1770 году и в двадцать один год переехал в Вену. В то время господство этого города в мире музыки было бесспорным. Молодой пианист быстро прославился своей спонтанной, страстной игрой. Публика хлопала и кричала, требуя ещё.
+
+    Но примерно в тридцать лет Бетховен начал терять слух. Сначала его мучил сильный звон в ушах. В последующие годы его состояние ухудшалось, и глухота стала неизбежной. Для музыканта это был кошмар. В знаменитом письме он признавался, что отчаяние едва не толкнуло его свести счёты с жизнью. Удержало его, как он писал, только искусство.
+
+    Бетховен был непростым человеком. Он был печально известен вспыльчивостью и порой проявлял агрессию к слугам и ученикам. Он десятки раз переезжал и питал известную слабость к крепкому кофе — отсчитывал ровно шестьдесят зёрен на каждую чашку. Тем не менее друзья говорили и о его честности и верности — добродетелях, которые он ценил превыше всего.
+
+    Удивительно, но многие его величайшие творения были написаны, когда он был почти полностью глух. Он сочинял, представляя звуки в голове. Его Девятая симфония, в которую входит великолепная «Ода к радости», впервые прозвучала в 1824 году. Бетховен стоял на сцене, но не слышал музыки. Когда она закончилась, певица развернула его, чтобы он мог увидеть публику. Люди стояли, размахивая в воздухе шляпами.
+
+    В целом Бетховен написал девять симфоний, оперу в нескольких редакциях и сотни других произведений. Многие из них считаются шедеврами. Его наследие продолжает поднимать дух миллионов слушателей, а «Ода к радости» сегодня официальный гимн Европейского союза.
+  questions:
+  - q: When did Beethoven begin to lose his hearing?
+    options:
+    - As a child
+    - Around the age of thirty
+    - At sixty
+    - After the Ninth Symphony
+    answer: 1
+  - q: How did Beethoven compose when he was deaf?
+    options:
+    - He used a special machine
+    - He imagined the sounds in his head
+    - His students played for him
+    - He stopped composing
+    answer: 1
+  - q: Why did a singer turn Beethoven around after the Ninth Symphony?
+    options:
+    - So he could see the audience's reaction
+    - Because he was lost
+    - To give him flowers
+    - So he could bow
+    answer: 0
+  - tf: Beethoven was known for his calm and gentle character.
+    answer: false
+  - tf: '''Ode to Joy'' is the anthem of the European Union.'
+    answer: true

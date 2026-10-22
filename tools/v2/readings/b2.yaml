@@ -1,0 +1,1878 @@
+- id: b2-01
+  v1_unit: Social Media and Wellbeing
+  title: Are Likes Making Us Lonely?
+  title_ru: Делают ли нас лайки одинокими?
+  text: 'Social media platforms were created to bring people together. Yet a growing number of researchers believe they may be doing the opposite. A recent survey of 5,000 young adults found that those who spent more than three hours a day on social media were twice as likely to report feelings of loneliness and depression.
+
+
+    Of course, correlation is not the same as cause. It is possible that people who already feel lonely spend more time online. However, many experts point out that social media apps are designed to be addictive. Every notification and every "like" gives the brain a small reward, and users keep scrolling to get more. Some former employees of tech companies have even admitted that this was part of the companies'' agenda: the more time you spend on their platform, the more adverts they can target at you.
+
+
+    The problem is not just the time we spend in front of a screen. Many users compare their ordinary lives with the perfect images they see online. A psychologist coined the term "compare and despair" to describe this trend. Teenagers, who often need others to validate their opinions and appearance, are especially at risk. Some are also subjected to online bullying, which can follow them home in a way that playground bullying never did.
+
+
+    So what can be done? Some countries now want to hold tech companies accountable for the effects of their products. Others are teaching "digital wellbeing" in schools. And there has been a surge in apps that limit screen time.
+
+
+    Experts agree on the importance of balance. Social media can help us keep in touch and build a presence for our work. But a poor night''s sleep, spent tapping on a keyboard or touchscreen, is no substitute for real conversation with a friend.
+
+    '
+  ru: 'Социальные сети создавались для того, чтобы объединять людей. Однако всё больше исследователей считает, что они, возможно, делают обратное. Недавний опрос 5000 молодых людей показал, что те, кто проводит в соцсетях больше трёх часов в день, вдвое чаще сообщают о чувстве одиночества и депрессии.
+
+
+    Разумеется, корреляция — это не то же самое, что причина. Возможно, люди, которые уже чувствуют себя одинокими, просто больше времени проводят в сети. Тем не менее многие эксперты указывают, что приложения соцсетей специально сделаны так, чтобы вызывать привыкание. Каждое уведомление и каждый «лайк» дают мозгу небольшую награду, и пользователи продолжают листать ленту, чтобы получить ещё. Некоторые бывшие сотрудники технологических компаний даже признавали, что в этом и состояла цель компаний: чем больше времени вы проводите на платформе, тем больше рекламы можно на вас нацелить.
+
+
+    Проблема не только во времени, проведённом перед экраном. Многие пользователи сравнивают свою обычную жизнь с идеальными картинками, которые видят в сети. Один психолог придумал выражение «сравни и отчайся», чтобы описать эту тенденцию. Подростки, которым часто нужно, чтобы другие одобряли их мнения и внешность, находятся в особой группе риска. Некоторые к тому же подвергаются травле в интернете, которая может преследовать их и дома — чего никогда не бывало с травлей на школьном дворе.
+
+
+    Что же делать? Некоторые страны теперь хотят привлекать технологические компании к ответственности за последствия их продуктов. Другие обучают «цифровому благополучию» в школах. Кроме того, резко выросло число приложений, ограничивающих экранное время.
+
+
+    Эксперты сходятся в том, как важен баланс. Соцсети помогают поддерживать связь и создавать присутствие для своей работы. Но плохой сон из-за ночи, проведённой за клавиатурой или сенсорным экраном, не заменит настоящего разговора с другом.
+
+    '
+  questions:
+  - q: What did the survey find?
+    options:
+    - Social media users are happier
+    - Heavy users reported more loneliness and depression
+    - Teenagers don't use social media
+    - People sleep better after using apps
+    answer: 1
+  - q: According to some former employees, what was the companies' aim?
+    options:
+    - To make people happier
+    - To keep users on the platform to show more adverts
+    - To reduce screen time
+    - To teach digital skills
+    answer: 1
+  - q: What does 'compare and despair' describe?
+    options:
+    - Comparing prices online
+    - Feeling bad after comparing your life with perfect online images
+    - A new social media app
+    - A school subject
+    answer: 1
+  - tf: The text says social media definitely causes depression.
+    answer: false
+  - tf: Some schools teach 'digital wellbeing'.
+    answer: true
+- id: b2-02
+  v1_unit: Cleaner Air
+  title: The Building That Eats Smog
+  title_ru: Здание, которое поедает смог
+  text: 'In many of the world''s biggest cities, the air is dangerous to breathe. Cars, factories and power stations emit huge amounts of carbon dioxide and other pollutants. Tiny pieces of dust and smoke enter our lungs and can cause serious illnesses. Moreover, transport alone is responsible for about a quarter of the world''s carbon emissions.
+
+
+    For years, scientists have looked for ways to clean the air, and one of the most unusual ideas comes from Italy. A leading architecture firm designed a building whose walls are covered with a special cement. The cement contains a white powder called titanium dioxide. When sunlight hits the powder, it reacts with pollutants in the air and turns them into harmless substances, which are washed away by the rain.
+
+
+    At first, many skeptics rejected the idea. They argued that a single building could never clean a whole city. However, the results were surprising. Tests showed that the concrete substantially reduced pollution in the streets around the building. Similar materials have since been integrated into roads, roof tiles and even paint.
+
+
+    Other cities are trying different approaches. In some places, engineers have built giant towers that suck in dirty air and remove the dust. In others, factories grind old rocks into a fine powder that absorbs carbon from the air. One company claims its machines can remove thousands of tons of carbon dioxide every year.
+
+
+    Not everyone is convinced. Some environmental groups object to these technologies, saying they prompt governments to ignore the real problem: we need to burn less fuel. They may be right. But new materials could enable cities to breathe a little more easily while the planet heals.
+
+    '
+  ru: 'Во многих крупнейших городах мира дышать воздухом опасно. Автомобили, заводы и электростанции выбрасывают огромное количество углекислого газа и других загрязняющих веществ. Крошечные частицы пыли и дыма попадают в лёгкие и могут вызывать серьёзные болезни. Более того, на один только транспорт приходится около четверти мировых выбросов углерода.
+
+
+    Учёные давно ищут способы очистить воздух, и одна из самых необычных идей пришла из Италии. Ведущее архитектурное бюро спроектировало здание, стены которого покрыты особым цементом. Цемент содержит белый порошок — диоксид титана. Когда на порошок падает солнечный свет, он вступает в реакцию с загрязняющими веществами в воздухе и превращает их в безвредные вещества, которые смывает дождь.
+
+
+    Сначала многие скептики отвергли эту идею. Они утверждали, что одно здание никогда не очистит целый город. Однако результаты удивили. Испытания показали, что бетон значительно снизил загрязнение на улицах вокруг здания. С тех пор подобные материалы стали использовать в дорогах, черепице и даже краске.
+
+
+    Другие города пробуют иные подходы. Где-то инженеры построили гигантские башни, которые втягивают грязный воздух и очищают его от пыли. Где-то заводы перемалывают старые камни в мелкий порошок, поглощающий углерод из воздуха. Одна компания утверждает, что её установки могут удалять тысячи тонн углекислого газа в год.
+
+
+    Убеждены не все. Некоторые экологические организации возражают против таких технологий: по их словам, они побуждают правительства игнорировать настоящую проблему — нам нужно сжигать меньше топлива. Возможно, они правы. Но новые материалы помогут городам дышать чуть свободнее, пока планета восстанавливается.
+
+    '
+  questions:
+  - q: What does the special cement contain?
+    options:
+    - Carbon
+    - A white powder called titanium dioxide
+    - Dust
+    - Paint
+    answer: 1
+  - q: What happens when sunlight hits the powder?
+    options:
+    - It changes colour
+    - It turns pollutants into harmless substances
+    - It produces electricity
+    - It melts
+    answer: 1
+  - q: Why do some environmental groups object to these technologies?
+    options:
+    - They are too expensive
+    - They may make governments ignore the need to burn less fuel
+    - They don't work at all
+    - They are ugly
+    answer: 1
+  - tf: Transport is responsible for about a quarter of carbon emissions.
+    answer: true
+  - tf: 'The skeptics were right: the building had no effect.'
+    answer: false
+- id: b2-03
+  v1_unit: The Hidden Network
+  title: The Priest and the Pastor
+  title_ru: Священник и пастор
+  text: 'During the Second World War, the Netherlands was occupied by German forces. The new authorities began to arrest Jewish families and send them to camps in the east. Many Dutch people were outraged, but few dared to act. In one small town, however, two men decided they could not stand by.
+
+
+    One was the priest of the local Catholic parish. The other was the Protestant pastor of the church across the square. Before the war, the two men had rarely spoken. Their churches had argued for centuries about the Bible and how to read it. But now they agreed to cooperate. Together they built a secret network that helped Jewish families to flee.
+
+
+    The system was simple but dangerous. Families arrived at night and were hidden in a barn outside the town. Under the barn, farmers had dug a narrow tunnel that led to a passage beneath the church. From there, members of the network took them, with false papers, to the rail station, where friendly train workers helped them travel to the coast.
+
+
+    Several times, soldiers raided the farm. Once, a patrol searched the barn for two hours while twelve people waited silently in the tunnel below. The soldiers found nothing and left by the main exit, laughing.
+
+
+    In 1944, someone betrayed the network. The pastor was detained and sent to a prison camp. The priest managed to escape and hid until the end of the war. The pastor survived too, and when he returned, the two men embraced in the square. Historians believe they helped more than three hundred people. After the war, both were honoured for their exceptional courage. When journalists asked why they had aligned themselves with each other, the priest smiled. "When people are in danger," he said, "there is only one church."
+
+    '
+  ru: 'Во время Второй мировой войны Нидерланды были оккупированы немецкими войсками. Новые власти начали арестовывать еврейские семьи и отправлять их в лагеря на востоке. Многие голландцы были возмущены, но мало кто осмеливался действовать. Однако в одном маленьком городке двое мужчин решили, что не могут оставаться в стороне.
+
+
+    Один был священником местного католического прихода. Другой — протестантским пастором церкви на противоположной стороне площади. До войны они почти не разговаривали. Их церкви веками спорили о Библии и о том, как её толковать. Но теперь они договорились действовать сообща. Вместе они создали тайную сеть, которая помогала еврейским семьям бежать.
+
+
+    Система была простой, но опасной. Семьи приходили ночью, и их прятали в амбаре за городом. Под амбаром фермеры вырыли узкий туннель, который вёл в подземный ход под церковью. Оттуда участники сети с поддельными документами провожали людей на железнодорожную станцию, где сочувствующие железнодорожники помогали им добраться до побережья.
+
+
+    Несколько раз солдаты устраивали облавы на ферме. Однажды патруль два часа обыскивал амбар, пока двенадцать человек молча ждали в туннеле внизу. Солдаты ничего не нашли и со смехом ушли через главный выход.
+
+
+    В 1944 году кто-то выдал сеть. Пастора арестовали и отправили в лагерь. Священнику удалось бежать, и он скрывался до конца войны. Пастор тоже выжил, и когда он вернулся, двое мужчин обнялись на площади. Историки считают, что они помогли более чем тремстам людям. После войны обоих наградили за исключительное мужество. Когда журналисты спросили, почему они объединились, священник улыбнулся. «Когда люди в опасности, — сказал он, — церковь только одна».
+
+    '
+  questions:
+  - q: What was unusual about the two men working together?
+    options:
+    - They were brothers
+    - Their churches had disagreed for centuries
+    - They were both soldiers
+    - They lived in different countries
+    answer: 1
+  - q: Where were the families hidden first?
+    options:
+    - In the church
+    - In a barn outside the town
+    - At the station
+    - On a boat
+    answer: 1
+  - q: What happened in 1944?
+    options:
+    - The war ended
+    - Someone betrayed the network
+    - The barn burned down
+    - The priest was arrested
+    answer: 1
+  - tf: The soldiers found the people in the tunnel.
+    answer: false
+  - tf: Both men survived the war.
+    answer: true
+- id: b2-04
+  v1_unit: Equality at Work
+  title: Breaking the Glass Ceiling
+  title_ru: Пробить стеклянный потолок
+  text: 'A hundred years ago, women in most countries could not vote, and very few received a university education. Today, in many parts of the world, more women than men graduate from university. In some fields, such as medicine and law, the number of female students has soared. Yet women still face a "glass ceiling" — an invisible barrier that stops them from reaching top positions.
+
+
+    The numbers tell the story. Women make up nearly half of the workforce, but they hold a mere 10% of top leadership positions in large companies. In science and engineering, the gap is even wider. Why is this?
+
+
+    Experts point to several reasons. One is that women often carry more responsibility for children and elderly parents, which makes long working hours difficult. Another is that many workplaces were designed by men, for men. Women who are vocal and confident are sometimes seen as "aggressive", while men with the same qualities are called "strong leaders". Many women also say they lack guidance from senior colleagues who could help them make the right career decisions.
+
+
+    Many organizations are now trying to change this. Some offer flexible working hours, so that employees can feel comfortable balancing work and family. Others have created mentoring programmes, in which experienced managers give younger employees encouragement and advice. A growing number of governments have endorsed laws that require equal pay for equal work. Inclusion is no longer just a nice idea; it is a tool for better business. Research shows that teams with a mix of men and women make better decisions.
+
+
+    Role models matter too. When girls see women in power — as scientists, CEOs or presidents — it inspires them to aim higher. As one engineer put it: "You can''t be what you can''t see." Fostering the next generation of female leaders may be the most important step of all.
+
+    '
+  ru: 'Сто лет назад в большинстве стран женщины не могли голосовать, и очень немногие получали высшее образование. Сегодня во многих частях мира университеты оканчивает больше женщин, чем мужчин. В некоторых областях, например в медицине и юриспруденции, число студенток резко выросло. И всё же женщины по-прежнему сталкиваются со «стеклянным потолком» — невидимым барьером, который не даёт им занять высшие должности.
+
+
+    Цифры говорят сами за себя. Женщины составляют почти половину работающих, но занимают лишь 10% высших руководящих должностей в крупных компаниях. В науке и инженерии разрыв ещё больше. Почему так?
+
+
+    Эксперты называют несколько причин. Одна из них — на женщинах часто лежит больше обязанностей по уходу за детьми и пожилыми родителями, из-за чего долгий рабочий день даётся им тяжело. Другая — многие рабочие места создавались мужчинами и для мужчин. Женщин, которые открыто высказываются и уверены в себе, порой считают «агрессивными», тогда как мужчин с теми же качествами называют «сильными лидерами». Многие женщины также говорят, что им не хватает наставничества со стороны старших коллег, которые помогли бы принять правильные карьерные решения.
+
+
+    Многие организации сейчас пытаются это изменить. Некоторые предлагают гибкий график, чтобы сотрудникам было комфортно совмещать работу и семью. Другие создали программы наставничества, в которых опытные руководители поддерживают и консультируют молодых сотрудников. Всё больше правительств одобряют законы, требующие равной оплаты за равный труд. Инклюзивность — уже не просто красивая идея, а инструмент для более успешного бизнеса. Исследования показывают, что смешанные команды из мужчин и женщин принимают более удачные решения.
+
+
+    Важны и образцы для подражания. Когда девочки видят женщин у власти — учёных, руководителей компаний, президентов, — это вдохновляет их ставить более высокие цели. Как сказала одна инженер: «Нельзя стать тем, кого не видишь». Воспитание следующего поколения женщин-лидеров, возможно, самый важный шаг из всех.
+
+    '
+  questions:
+  - q: What is the 'glass ceiling'?
+    options:
+    - A type of office building
+    - An invisible barrier that stops women reaching top jobs
+    - A university course
+    - A law about equal pay
+    answer: 1
+  - q: What percentage of top leadership positions do women hold, according to the text?
+    options:
+    - About half
+    - About 10%
+    - About 30%
+    - Almost none
+    answer: 1
+  - q: What do mentoring programmes offer?
+    options:
+    - Higher salaries
+    - Encouragement and advice from experienced managers
+    - Free childcare
+    - Shorter working hours
+    answer: 1
+  - tf: In some countries more women than men graduate from university.
+    answer: true
+  - tf: Research shows that mixed teams make worse decisions.
+    answer: false
+- id: b2-05
+  v1_unit: The Impressionists
+  title: Painting the Light
+  title_ru: Писать свет
+  text: 'In the 1860s, the art world in Paris was controlled by the Academy of Fine Arts. Its rules were strict. Good paintings were supposed to be realistic and carefully finished, with no visible brushstrokes. Traditional subjects — gods, kings and great battles — were preferred. Every year, the Academy held an exhibition called the Salon, and acceptance by the Salon was the key to success for any artist.
+
+
+    A group of young painters, including Claude Monet, Pierre-Auguste Renoir and Berthe Morisot, began to break these rules. Unlike academic painters, who worked in their studios, they took their canvases outside. They wanted to capture how sunlight changed the colours of the world from minute to minute. To work quickly, they used short, thick strokes of bright colour. Up close, their paintings looked unfinished, and the edges of objects were blurred. But from a distance, the colours mixed in the viewer''s eye and seemed to shine.
+
+
+    They also painted modern life: people dancing in cafés, walking in parks or travelling by train. Their subjects were not heroes, but ordinary members of the middle and working classes.
+
+
+    The Salon rejected their work again and again. So in 1874, they organized their own exhibition. One critic laughed at a painting by Monet called "Impression, Sunrise", which showed the reflection of the morning sun on the water. He called the whole group "Impressionists" — and the name stuck.
+
+
+    At first, the public agreed with the critics. But within twenty years, the movement had won the hearts of collectors around the world. Today, Impressionist paintings attract huge crowds. Monet''s distinctive water lilies, some of which are several metres in width, fill entire rooms. Their influence can be seen in a wide array of later art, from painting to photography and even cinema.
+
+    '
+  ru: 'В 1860-х годах миром искусства в Париже управляла Академия изящных искусств. Её правила были строгими. Хорошая картина должна была быть реалистичной и тщательно законченной, без видимых мазков. Предпочитались традиционные сюжеты — боги, короли и великие сражения. Каждый год Академия устраивала выставку под названием Салон, и признание Салона было ключом к успеху для любого художника.
+
+
+    Группа молодых художников, в том числе Клод Моне, Пьер Огюст Ренуар и Берта Моризо, начала нарушать эти правила. В отличие от академистов, работавших в мастерских, они выносили холсты на улицу. Они хотели уловить, как солнечный свет меняет краски мира с каждой минутой. Чтобы работать быстро, они писали короткими густыми мазками ярких красок. Вблизи их картины казались незаконченными, а контуры предметов — размытыми. Но на расстоянии цвета смешивались в глазах зрителя и словно светились.
+
+
+    Они писали и современную жизнь: людей, танцующих в кафе, гуляющих в парках или едущих в поезде. Их героями были не полководцы, а обычные представители среднего и рабочего класса.
+
+
+    Салон снова и снова отвергал их работы. Поэтому в 1874 году они устроили собственную выставку. Один критик высмеял картину Моне «Впечатление. Восходящее солнце», на которой было изображено отражение утреннего солнца в воде. Он назвал всю группу «импрессионистами» — и название прижилось.
+
+
+    Поначалу публика соглашалась с критиками. Но уже через двадцать лет это течение покорило сердца коллекционеров по всему миру. Сегодня картины импрессионистов собирают огромные толпы. Узнаваемые «Кувшинки» Моне, некоторые из которых шириной в несколько метров, занимают целые залы. Их влияние заметно в самом разном более позднем искусстве — от живописи до фотографии и даже кино.
+
+    '
+  questions:
+  - q: What did the Academy prefer?
+    options:
+    - Quick, bright paintings
+    - Realistic, carefully finished paintings of traditional subjects
+    - Paintings of cafés
+    - Photography
+    answer: 1
+  - q: Why did the Impressionists paint outside?
+    options:
+    - Their studios were too small
+    - To capture how sunlight changed colours
+    - The Academy told them to
+    - It was cheaper
+    answer: 1
+  - q: Where does the name 'Impressionists' come from?
+    options:
+    - A critic laughing at Monet's painting
+    - A famous café
+    - The Academy
+    - A book by Renoir
+    answer: 0
+  - tf: The Salon accepted the Impressionists' work from the start.
+    answer: false
+  - tf: Their influence can be seen in photography and cinema.
+    answer: true
+- id: b2-06
+  v1_unit: Remembering D-Day
+  title: The Longest Day
+  title_ru: Самый длинный день
+  text: 'By 1944, the Second World War had been going on for almost five years. Since the outbreak of the war, Germany had taken control of most of Europe. The Allied nations — including Britain, the USA, Canada and the Free French — knew they had to open a new front in the west. After months of planning, they mobilized the largest sea invasion in history.
+
+
+    The landing was originally planned for 5 June, but bad weather forced the commanders to wait a day. Early on the morning of 6 June, more than 150,000 soldiers crossed the English Channel in thousands of ships and landed on five beaches in Normandy, France. It was a joint operation of land, sea and air forces. Many of the soldiers were teenagers who had never seen battle. On the ships, some of them prayed quietly.
+
+
+    The fighting on some beaches was terrible. On the beach code-named "Omaha", German guns waited on the cliffs, and thousands of American soldiers were killed or wounded in the first hours. But the soldiers'' determination was extraordinary. By the end of the day, the Allies had a foothold in France. Thus began the long march towards Berlin.
+
+
+    Less than a year later, in May 1945, Germany surrendered. When the news of victory reached London, Paris and New York, crowds went wild in the streets. Soldiers who had been prisoners for years finally came home.
+
+
+    Today, D-Day is marked every year in Normandy. Veterans — now very old men — return to the beaches where their friends died. Leaders lay flowers, national anthems are played, and the crowds stand in silence. Beyond the beaches, rows of white stones stand in the war cemeteries. They are a quiet tribute to the young people who sacrificed their lives for a free Europe.
+
+    '
+  ru: 'К 1944 году Вторая мировая война шла уже почти пять лет. С самого начала войны Германия захватила большую часть Европы. Страны-союзники — в том числе Великобритания, США, Канада и Свободная Франция — понимали, что им нужно открыть новый фронт на западе. После многомесячной подготовки они мобилизовали силы для крупнейшей морской высадки в истории.
+
+
+    Первоначально высадка планировалась на 5 июня, но из-за плохой погоды командованию пришлось подождать день. Рано утром 6 июня более 150 000 солдат пересекли Ла-Манш на тысячах судов и высадились на пяти пляжах Нормандии во Франции. Это была совместная операция сухопутных, морских и воздушных сил. Многие солдаты были подростками, никогда не видевшими боя. На кораблях некоторые из них тихо молились.
+
+
+    Бои на некоторых пляжах были страшными. На пляже под кодовым названием «Омаха» на скалах поджидали немецкие орудия, и в первые же часы тысячи американских солдат были убиты или ранены. Но решимость солдат была поразительной. К концу дня союзники закрепились во Франции. Так начался долгий путь к Берлину.
+
+
+    Меньше чем через год, в мае 1945-го, Германия капитулировала. Когда весть о победе пришла в Лондон, Париж и Нью-Йорк, толпы на улицах ликовали без удержу. Солдаты, годами находившиеся в плену, наконец вернулись домой.
+
+
+    Сегодня день высадки ежегодно отмечают в Нормандии. Ветераны — теперь уже глубокие старики — возвращаются на пляжи, где погибли их друзья. Руководители стран возлагают цветы, звучат национальные гимны, и люди стоят в молчании. За пляжами на военных кладбищах выстроились ряды белых надгробий. Это безмолвная дань памяти молодым людям, отдавшим жизни за свободную Европу.
+
+    '
+  questions:
+  - q: Why was the landing delayed by a day?
+    options:
+    - The soldiers weren't ready
+    - Bad weather
+    - The ships were broken
+    - The enemy attacked first
+    answer: 1
+  - q: How many soldiers crossed the Channel on 6 June?
+    options:
+    - About 15,000
+    - More than 150,000
+    - 1.5 million
+    - '500'
+    answer: 1
+  - q: What happens in Normandy every year?
+    options:
+    - A sports competition
+    - D-Day is remembered with ceremonies
+    - A new invasion is practised
+    - Nothing
+    answer: 1
+  - tf: The fighting on Omaha beach was easy.
+    answer: false
+  - tf: Germany surrendered less than a year after D-Day.
+    answer: true
+- id: b2-07
+  v1_unit: Disappearing Languages
+  title: When the Last Speaker Dies
+  title_ru: Когда умирает последний носитель
+  text: 'There are about 7,000 languages in the world today, but this amazing diversity is in danger. Linguists believe that around forty percent of them are endangered, and that one language ceases to exist roughly every few months. In many cases, the last speakers are elderly people. When they die, the language — and with it, centuries of songs, stories and knowledge — is lost forever.
+
+
+    Why do languages die? There are several reasons. Sometimes the cause is devastating and sudden: war, genocide or natural disasters such as earthquakes can wipe out small communities. More often, the process is slow. When people move from villages to urban areas to find work, they need to speak the dominant language. Children assimilate quickly. They generally prefer the language of school, television and the internet, and they stop using their parents'' native language. Within two or three generations, the language may disappear.
+
+
+    Indigenous communities have been especially hard hit. In the past, children in some countries were punished for speaking their own language at school. As a result, many grew up feeling ashamed of it.
+
+
+    However, there have been successful attempts to save endangered languages. One famous case is Hebrew, which was used mainly in religious texts for nearly two thousand years before becoming the everyday language of millions. In Wales, Welsh is now taught in schools, and the number of speakers is growing. In New Zealand, "language nests" allow small children to spend their days with Māori-speaking elders.
+
+
+    Technology can help too. Linguists record the last speakers and create dictionaries and reference materials. Apps allow young people to learn their ancestors'' language on their phones. Saving a language is not easy, but as one Māori elder said: "Our language is the key to who we are."
+
+    '
+  ru: 'Сегодня в мире около 7000 языков, но это удивительное разнообразие под угрозой. Лингвисты считают, что примерно сорок процентов из них находятся под угрозой исчезновения и что примерно каждые несколько месяцев перестаёт существовать один язык. Во многих случаях последние носители — пожилые люди. Когда они умирают, язык — а вместе с ним века песен, историй и знаний — исчезает навсегда.
+
+
+    Почему языки умирают? Причин несколько. Иногда причина внезапна и разрушительна: войны, геноцид или стихийные бедствия вроде землетрясений могут уничтожить небольшие общины. Но чаще процесс идёт медленно. Когда люди переезжают из деревень в города в поисках работы, им нужно говорить на доминирующем языке. Дети ассимилируются быстро. Как правило, они предпочитают язык школы, телевидения и интернета и перестают пользоваться родным языком родителей. За два-три поколения язык может исчезнуть.
+
+
+    Особенно сильно пострадали коренные народы. В прошлом в некоторых странах детей наказывали за то, что они говорили в школе на своём языке. В результате многие выросли со стыдом за него.
+
+
+    Однако были и успешные попытки спасти исчезающие языки. Известный пример — иврит: почти две тысячи лет его использовали в основном в религиозных текстах, а потом он стал повседневным языком миллионов людей. В Уэльсе валлийский теперь преподают в школах, и число говорящих на нём растёт. В Новой Зеландии «языковые гнёзда» позволяют маленьким детям проводить дни со старейшинами, говорящими на языке маори.
+
+
+    Помогают и технологии. Лингвисты записывают последних носителей, составляют словари и справочные материалы. Приложения позволяют молодёжи учить язык предков на телефоне. Спасти язык непросто, но, как сказал один старейшина маори: «Наш язык — ключ к тому, кто мы есть».
+
+    '
+  questions:
+  - q: About how many languages are endangered?
+    options:
+    - Four percent
+    - Forty percent
+    - All of them
+    - Seven thousand
+    answer: 1
+  - q: What usually happens when families move to cities?
+    options:
+    - Children learn the native language better
+    - Children start using the dominant language instead
+    - They create new languages
+    - Nothing changes
+    answer: 1
+  - q: Which language is given as a famous successful case?
+    options:
+    - Latin
+    - Hebrew
+    - English
+    - Spanish
+    answer: 1
+  - tf: Languages always die suddenly.
+    answer: false
+  - tf: Technology can help save endangered languages.
+    answer: true
+- id: b2-08
+  v1_unit: Fuel for the Body
+  title: The Truth About Low-Carb Diets
+  title_ru: Правда о низкоуглеводных диетах
+  text: 'Our bodies need energy, and most of it comes from food. Normally, the body burns glucose, a type of sugar that comes from carbohydrates such as bread, rice, pasta and other foods high in starch. When there isn''t enough glucose, however, the body can switch to another fuel: fat.
+
+
+    This is the idea behind the "ketogenic" or "keto" diet, which is very high in fat and extremely low in carbohydrates. People on the diet eat meat, fish, eggs, cheese, nuts and plenty of olive oil and coconut oil, but very little bread, fruit or sugar. After a few days, the liver begins to turn fat into substances called ketones, which the brain and muscles can use instead of glucose. This metabolic state is known as ketosis.
+
+
+    The diet is not new. In the 1920s, doctors discovered that it was a powerful treatment for children with epilepsy, and it is still used for this purpose today. Recently, it has become popular for weight loss. Many people find that they lose weight quickly at first and feel less hungry. Some studies suggest it may also help with the management of type 2 diabetes.
+
+
+    But experts warn that the diet is not for everyone. It is hard to keep to, and many people gain the weight back when they stop. Some athletes report that their performance gets worse, especially in sports that need short bursts of energy. There are also concerns about eating too much saturated fat, and about the long-term effects, which are not yet well known.
+
+
+    In summary: low-carb diets can work for some people, but they are not magic. Before making big changes to what you eat, it is always a good idea to check with a doctor. And for most of us, the best diet is still the simplest one — plenty of vegetables, not too much sugar, and food that we actually enjoy.
+
+    '
+  ru: 'Нашему организму нужна энергия, и большую её часть мы получаем из пищи. Обычно организм сжигает глюкозу — вид сахара, который поступает из углеводов: хлеба, риса, макарон и других продуктов, богатых крахмалом. Однако когда глюкозы не хватает, организм может переключиться на другое топливо — жир.
+
+
+    На этом и основана «кетогенная», или «кето»-диета, в которой очень много жиров и крайне мало углеводов. Люди на этой диете едят мясо, рыбу, яйца, сыр, орехи и много оливкового и кокосового масла, но очень мало хлеба, фруктов и сахара. Через несколько дней печень начинает превращать жир в вещества под названием кетоны, которые мозг и мышцы могут использовать вместо глюкозы. Это метаболическое состояние называется кетозом.
+
+
+    Диета не нова. В 1920-х годах врачи обнаружили, что она сильно помогает детям с эпилепсией, и её используют для этого до сих пор. В последнее время она стала популярна для похудения. Многие замечают, что поначалу быстро теряют вес и меньше чувствуют голод. Некоторые исследования предполагают, что она может помогать и в контроле диабета второго типа.
+
+
+    Но специалисты предупреждают, что диета подходит не всем. Её трудно соблюдать, и многие снова набирают вес, когда прекращают её. Некоторые спортсмены отмечают, что их результаты ухудшаются, особенно в видах спорта, где нужны короткие всплески энергии. Есть также опасения по поводу избытка насыщенных жиров и долгосрочных последствий, которые пока плохо изучены.
+
+
+    Итак: низкоуглеводные диеты могут подойти некоторым людям, но это не волшебство. Прежде чем сильно менять рацион, всегда стоит посоветоваться с врачом. А для большинства из нас лучшей остаётся самая простая диета — много овощей, немного сахара и еда, которая нам действительно нравится.
+
+    '
+  questions:
+  - q: What does the body normally burn for energy?
+    options:
+    - Fat
+    - Glucose
+    - Ketones
+    - Protein
+    answer: 1
+  - q: What was the keto diet first used for?
+    options:
+    - Weight loss
+    - Treating epilepsy
+    - Helping athletes
+    - Treating liver disease
+    answer: 1
+  - q: What problem do some athletes report?
+    options:
+    - They feel hungrier
+    - Their performance gets worse
+    - They can't sleep
+    - They gain weight
+    answer: 1
+  - tf: The long-term effects of the diet are well known.
+    answer: false
+  - tf: The text recommends checking with a doctor before big diet changes.
+    answer: true
+- id: b2-09
+  v1_unit: Myths About Genius
+  title: Did Einstein Really Fail Maths?
+  title_ru: Правда ли Эйнштейн проваливал математику?
+  text: 'It''s one of the most popular stories in the world: Albert Einstein, the greatest scientist of the twentieth century, was a weak student who failed maths at school. People love this story because it gives them hope. If Einstein was a bad student, maybe there''s a genius inside all of us. Unfortunately, the story is not true.
+
+
+    In fact, Einstein excelled at mathematics from an early age. By fifteen, he had taught himself advanced algebra and geometry. What is true is that he disliked the strict, boring teaching methods of his German school, and he was not keen on subjects that required memorization, such as languages. When he first applied to a university in Zurich at sixteen — below the minimum age — he failed the general entrance exam. However, his scores in maths and physics were exceptional. He passed the following year and received his teaching diploma in 1900.
+
+
+    After university, Einstein could not find a job in teaching, so he worked as a clerk at the patent office in Bern. He was a competent clerk, and the work left him time to think. In 1905, he published four papers that changed physics, including his theory of relativity. Einstein was a theoretical physicist: his laboratory was his own intellect. He imagined experiments in his mind, such as what it would be like to ride on a beam of light.
+
+
+    Today, psychology and sociology tell us that "genius" is more complicated than we think. Cognitive ability matters, but so do curiosity, hard work and the right environment. Marie Curie, who discovered radioactive elements, worked for years in a cold shed. Many great scientists failed in some areas while excelling in others.
+
+
+    Einstein himself said, "I have no special talent. I am only passionately curious." Curiosity, it seems, is an integral part of genius.
+
+    '
+  ru: 'Это одна из самых популярных историй в мире: Альберт Эйнштейн, величайший учёный XX века, был слабым учеником и проваливал математику в школе. Люди любят эту историю, потому что она даёт надежду. Если Эйнштейн плохо учился, может быть, в каждом из нас живёт гений. К сожалению, это неправда.
+
+
+    На самом деле Эйнштейн с ранних лет блестяще успевал по математике. К пятнадцати годам он самостоятельно освоил высшую алгебру и геометрию. Правда же в том, что ему не нравились строгие, скучные методы обучения в немецкой школе и он не любил предметы, требовавшие зубрёжки, например языки. Когда в шестнадцать лет — меньше минимального возраста — он впервые поступал в университет в Цюрихе, он провалил общий вступительный экзамен. Однако его результаты по математике и физике были исключительными. Он поступил на следующий год и получил диплом преподавателя в 1900 году.
+
+
+    После университета Эйнштейн не смог найти работу учителя и устроился клерком в патентное бюро в Берне. Он был вполне толковым служащим, и работа оставляла ему время на размышления. В 1905 году он опубликовал четыре статьи, изменившие физику, в том числе свою теорию относительности. Эйнштейн был физиком-теоретиком: его лабораторией был его собственный ум. Он ставил мысленные эксперименты — например, представлял, каково было бы лететь верхом на луче света.
+
+
+    Сегодня психология и социология говорят нам, что «гениальность» сложнее, чем мы думаем. Когнитивные способности важны, но не менее важны любопытство, упорный труд и подходящая среда. Мария Кюри, открывшая радиоактивные элементы, годами работала в холодном сарае. Многие великие учёные терпели неудачи в одних областях, преуспевая в других.
+
+
+    Сам Эйнштейн говорил: «У меня нет особых талантов. Я лишь страстно любопытен». Похоже, любопытство — неотъемлемая часть гениальности.
+
+    '
+  questions:
+  - q: What is the truth about Einstein and maths?
+    options:
+    - He failed maths
+    - He excelled at maths from an early age
+    - He never studied maths
+    - He hated maths
+    answer: 1
+  - q: Why did Einstein fail the university entrance exam?
+    options:
+    - His maths was poor
+    - He failed the general exam, though his maths and physics were exceptional
+    - He was ill
+    - He didn't go
+    answer: 1
+  - q: Where did Einstein work when he published his famous papers?
+    options:
+    - At a university
+    - At the patent office
+    - In a laboratory
+    - At a school
+    answer: 1
+  - tf: Einstein said he had a special talent.
+    answer: false
+  - tf: The text suggests curiosity is important for genius.
+    answer: true
+- id: b2-10
+  v1_unit: Corruption Scandal
+  title: The Recycling Scandal
+  title_ru: Скандал с переработкой
+  text: 'For years, GreenWay was one of the country''s most admired companies. It ran a large chain of retail stores selling household merchandise, and it proudly told customers that it recycled all its packaging. Its headquarters, a modern glass building in the capital, was covered in solar panels. Its revenue grew every year.
+
+
+    The company also received generous government subsidies for recycling. The idea was simple: the government wanted to give businesses an incentive to dispose of their rubbish responsibly. GreenWay claimed to have built a modern, automated recycling plant and to process thousands of tons of plastic every month.
+
+
+    Then, a young journalist received an anonymous tip. She followed GreenWay''s lorries at night and discovered that they were not going to a recycling plant at all. Instead, they were dumping the rubbish in a field outside a poor village, hundreds of kilometres away. The "automated plant" existed only on paper.
+
+
+    When officials audited the company, they found more problems. Managers had manipulated the figures to make the operation look legitimate. Hundreds of transactions had been hidden in foreign bank accounts. Worse, investigators discovered that several administrators at the environment ministry had been bribed to approve the subsidies without checking. These corrupt officials had bought houses in affluent neighbourhoods with the money.
+
+
+    The scandal shocked the public. GreenWay''s chief executive resigned, and several managers were arrested for violating environmental laws. Parliament quickly legislated to make companies prove what happens to their waste. Some of the money was used to improve recycling infrastructure in the village that had suffered.
+
+
+    The journalist later won a major prize for her work. "People trust companies that look green," she said. "But we have to ask questions, even about the businesses we like."
+
+    '
+  ru: 'Много лет компания GreenWay была одной из самых уважаемых в стране. Ей принадлежала крупная розничная сеть магазинов товаров для дома, и она с гордостью сообщала покупателям, что перерабатывает всю свою упаковку. Её штаб-квартира — современное стеклянное здание в столице — была покрыта солнечными панелями. Выручка росла с каждым годом.
+
+
+    Компания также получала щедрые государственные субсидии на переработку. Идея была простой: правительство хотело дать бизнесу стимул ответственно утилизировать отходы. GreenWay утверждала, что построила современный автоматизированный перерабатывающий завод и ежемесячно перерабатывает тысячи тонн пластика.
+
+
+    А потом молодая журналистка получила анонимную наводку. Она проследила ночью за грузовиками GreenWay и обнаружила, что они едут вовсе не на перерабатывающий завод. Вместо этого они сваливали мусор на поле возле бедной деревни в сотнях километров от города. «Автоматизированный завод» существовал только на бумаге.
+
+
+    Когда чиновники провели аудит компании, всплыли новые проблемы. Менеджеры подтасовывали цифры, чтобы деятельность выглядела законной. Сотни операций были скрыты на зарубежных банковских счетах. Хуже того, следователи выяснили, что несколько чиновников министерства экологии получили взятки за то, чтобы одобрять субсидии без проверки. На эти деньги продажные чиновники купили дома в богатых районах.
+
+
+    Скандал потряс общество. Генеральный директор GreenWay ушёл в отставку, а нескольких менеджеров арестовали за нарушение природоохранного законодательства. Парламент быстро принял закон, обязывающий компании доказывать, что происходит с их отходами. Часть денег направили на улучшение инфраструктуры переработки в пострадавшей деревне.
+
+
+    Позже журналистка получила за свою работу крупную премию. «Люди доверяют компаниям, которые выглядят экологичными, — сказала она. — Но мы должны задавать вопросы даже о тех, кто нам нравится».
+
+    '
+  questions:
+  - q: Why did GreenWay receive government subsidies?
+    options:
+    - For building stores
+    - For recycling
+    - For paying taxes
+    - For hiring workers
+    answer: 1
+  - q: What did the journalist discover?
+    options:
+    - The plant was very modern
+    - The rubbish was being dumped in a field
+    - The lorries were stolen
+    - The company was losing money
+    answer: 1
+  - q: How did the subsidies get approved without checking?
+    options:
+    - Officials were bribed
+    - The law didn't require checks
+    - The journalist approved them
+    - By mistake
+    answer: 0
+  - tf: The automated recycling plant really existed.
+    answer: false
+  - tf: Parliament passed a new law after the scandal.
+    answer: true
+- id: b2-11
+  v1_unit: From Tree to Tablet
+  title: The Story of Aspirin
+  title_ru: История аспирина
+  text: 'For thousands of years, people have chewed the bark of the willow tree to ease pain and fever. Ancient Egyptian and Greek doctors wrote about it, and in many cultures it became a traditional remedy. Nobody knew why it worked, but the essence of the cure was clear: willow bark made people feel better.
+
+
+    In 1763, an English priest called Edward Stone decided to test the remedy scientifically. Living in close proximity to a river lined with willow trees, he dried and powdered the bark and gave it to fifty patients with fever. He carefully assessed the results and was astonished: most patients improved. However, his report received little publicity, and nobody understood its significance at the time.
+
+
+    In the nineteenth century, chemists managed to extract the active substance from willow bark. They called it salicin. In the subsequent years, they produced a stronger chemical, salicylic acid. There was a problem, though: it was very hard on the stomach. Some patients said the cure was worse than the illness.
+
+
+    In 1897, a young chemist working for the German company Bayer found a solution. By changing the molecule slightly, he created a synthetic version that was much gentler. The company called it "aspirin", and it went on sale in 1899. Sales were fabulous. Within a few years, aspirin was the most popular medicine in the world.
+
+
+    Even then, nobody knew exactly how it worked. It took until the 1970s for a British scientist to discover the precise answer: aspirin inhibits substances in the body that cause pain and swelling. He won a Nobel Prize for this work.
+
+
+    Research on aspirin is ongoing. Today, millions of people take a small daily dose to reduce the risk of heart attacks — though doctors warn against taking it on impulse or in haste, without medical advice. Not bad for a tree.
+
+    '
+  ru: 'Тысячи лет люди жевали кору ивы, чтобы облегчить боль и снять жар. О ней писали древнеегипетские и древнегреческие врачи, и во многих культурах она стала традиционным средством. Никто не знал, почему она действует, но суть лечения была ясна: ивовая кора помогала людям почувствовать себя лучше.
+
+
+    В 1763 году английский священник Эдвард Стоун решил проверить это средство научно. Живя неподалёку от реки, по берегам которой росли ивы, он высушил и истолок кору и дал её пятидесяти пациентам с жаром. Он тщательно оценил результаты и был поражён: большинству пациентов стало лучше. Однако его отчёт почти не привлёк внимания, и в то время никто не понял его значения.
+
+
+    В XIX веке химикам удалось выделить из ивовой коры действующее вещество. Его назвали салицином. В последующие годы получили более сильное вещество — салициловую кислоту. Но была проблема: она сильно раздражала желудок. Некоторые пациенты говорили, что лечение хуже болезни.
+
+
+    В 1897 году молодой химик, работавший в немецкой компании Bayer, нашёл решение. Слегка изменив молекулу, он создал синтетический вариант, который был гораздо мягче. Компания назвала его «аспирин», и в 1899 году он поступил в продажу. Продажи были баснословными. За несколько лет аспирин стал самым популярным лекарством в мире.
+
+
+    Но даже тогда никто точно не знал, как он действует. Лишь в 1970-х британский учёный нашёл точный ответ: аспирин подавляет в организме вещества, вызывающие боль и отёк. За эту работу он получил Нобелевскую премию.
+
+
+    Исследования аспирина продолжаются. Сегодня миллионы людей ежедневно принимают небольшую дозу, чтобы снизить риск инфаркта, — хотя врачи предостерегают от того, чтобы принимать его импульсивно или второпях, без консультации. Неплохо для дерева.
+
+    '
+  questions:
+  - q: What did Edward Stone do?
+    options:
+    - He invented aspirin
+    - He tested willow bark on patients with fever
+    - He planted willow trees
+    - He won a Nobel Prize
+    answer: 1
+  - q: What was the problem with salicylic acid?
+    options:
+    - It didn't work
+    - It was very hard on the stomach
+    - It was too expensive
+    - It was illegal
+    answer: 1
+  - q: When was it discovered how aspirin works?
+    options:
+    - In 1763
+    - In 1899
+    - In the 1970s
+    - It is still unknown
+    answer: 2
+  - tf: Stone's report immediately became famous.
+    answer: false
+  - tf: Aspirin is a synthetic version of a natural substance.
+    answer: true
+- id: b2-12
+  v1_unit: A Musical Genius
+  title: Beethoven's Silent World
+  title_ru: Беззвучный мир Бетховена
+  text: 'Ludwig van Beethoven is one of the greatest composers in the history of classical music. But as every biography of him narrates, his life was a struggle against terrible difficulties.
+
+
+    Born in Germany in 1770, Beethoven moved to Vienna at the age of twenty-one. At that time, the city''s dominance in the world of music was unquestioned. The young pianist quickly made a name for himself with his spontaneous, passionate playing. Audiences would clap and shout for more.
+
+
+    But around the age of thirty, Beethoven began to lose his hearing. At first he suffered from acute ringing in his ears. Over the following years, the condition got worse, and deafness became inevitable. For a musician, this was a nightmare. In a famous letter, he admitted that his despair almost compelled him to end his life. Only his art, he wrote, held him back.
+
+
+    Beethoven was not an easy man. He was notorious for his bad temper and occasional aggression towards servants and students. He moved house dozens of times and had a famous partiality for strong coffee — he counted exactly sixty beans for each cup. Yet his friends also spoke of his honesty and loyalty, virtues he valued above everything.
+
+
+    Remarkably, many of his greatest creations were written when he was almost completely deaf. He composed by imagining the sounds in his head. His Ninth Symphony, which includes the gorgeous "Ode to Joy", was first performed in 1824. Beethoven stood on the stage, but could not hear the music. When it ended, a singer turned him around so he could see the audience. They were on their feet, waving their hats in the air.
+
+
+    Overall, Beethoven wrote nine symphonies, an opera with multiple versions and hundreds of other works. Many are considered masterpieces. His legacy continues to boost the spirits of millions of listeners, and "Ode to Joy" is now the official anthem of the European Union.
+
+    '
+  ru: 'Людвиг ван Бетховен — один из величайших композиторов в истории классической музыки. Но, как рассказывает любая его биография, его жизнь была борьбой с ужасными трудностями.
+
+
+    Бетховен родился в Германии в 1770 году и в двадцать один год переехал в Вену. В то время господство этого города в мире музыки было бесспорным. Молодой пианист быстро прославился своей спонтанной, страстной игрой. Публика хлопала и кричала, требуя ещё.
+
+
+    Но примерно в тридцать лет Бетховен начал терять слух. Сначала его мучил сильный звон в ушах. В последующие годы его состояние ухудшалось, и глухота стала неизбежной. Для музыканта это был кошмар. В знаменитом письме он признавался, что отчаяние едва не толкнуло его свести счёты с жизнью. Удержало его, как он писал, только искусство.
+
+
+    Бетховен был непростым человеком. Он был печально известен вспыльчивостью и порой проявлял агрессию к слугам и ученикам. Он десятки раз переезжал и питал известную слабость к крепкому кофе — отсчитывал ровно шестьдесят зёрен на каждую чашку. Тем не менее друзья говорили и о его честности и верности — добродетелях, которые он ценил превыше всего.
+
+
+    Удивительно, но многие его величайшие творения были написаны, когда он был почти полностью глух. Он сочинял, представляя звуки в голове. Его Девятая симфония, в которую входит великолепная «Ода к радости», впервые прозвучала в 1824 году. Бетховен стоял на сцене, но не слышал музыки. Когда она закончилась, певица развернула его, чтобы он мог увидеть публику. Люди стояли, размахивая в воздухе шляпами.
+
+
+    В целом Бетховен написал девять симфоний, оперу в нескольких редакциях и сотни других произведений. Многие из них считаются шедеврами. Его наследие продолжает поднимать дух миллионов слушателей, а «Ода к радости» сегодня официальный гимн Европейского союза.
+
+    '
+  questions:
+  - q: When did Beethoven begin to lose his hearing?
+    options:
+    - As a child
+    - Around the age of thirty
+    - At sixty
+    - After the Ninth Symphony
+    answer: 1
+  - q: How did Beethoven compose when he was deaf?
+    options:
+    - He used a special machine
+    - He imagined the sounds in his head
+    - His students played for him
+    - He stopped composing
+    answer: 1
+  - q: Why did a singer turn Beethoven around after the Ninth Symphony?
+    options:
+    - So he could see the audience's reaction
+    - Because he was lost
+    - To give him flowers
+    - So he could bow
+    answer: 0
+  - tf: Beethoven was known for his calm and gentle character.
+    answer: false
+  - tf: '''Ode to Joy'' is the anthem of the European Union.'
+    answer: true
+- id: b2-13
+  v1_unit: The Renaissance Mind
+  title: Leonardo's Notebooks
+  title_ru: Записные книжки Леонардо
+  text: 'Leonardo da Vinci is best known for the "Mona Lisa", but painting was only one aspect of his extraordinary mind. He was the perfect "Renaissance man": an artist, engineer, scientist and inventor who believed that everything in nature was tied together.
+
+
+    Leonardo filled more than 7,000 pages of notebooks with drawings and ideas. He wrote in mirror writing, from right to left, perhaps to keep his ideas secret. The notebooks are incredibly informative. They show studies of birds in flight, designs for flying machines, plans for bridges and drawings of buds and leaves. Long before the invention of the parachute, he sketched one made of cloth tied to a wooden frame.
+
+
+    His most important work may have been in anatomy. Leonardo undertook detailed studies of the human body, drawing muscles, bones and organs with amazing accuracy. He was fascinated by the eye. He studied how light enters it and travels along the optic nerve to the brain. To see the shape of the brain, he filled its empty spaces with melted wax — a technique that was centuries ahead of its time.
+
+
+    Leonardo''s method was surprisingly modern. He would start with a hypothesis, then test it through careful observation. If an experiment disproved his idea, he changed it. His spatial imagination was an enormous asset: he could picture complex machines in three dimensions before building them.
+
+
+    Unfortunately, Leonardo rarely finished his projects, and most of his notebooks were not published. For centuries, other scientists received the credit for discoveries that he had made first. Today, however, there is a much greater awareness of his genius. His notebooks are studied by engineers, doctors and artists alike, and many of his machines have been built from his drawings. As one historian put it, Leonardo did not just live in the Renaissance — he was the Renaissance.
+
+    '
+  ru: 'Леонардо да Винчи больше всего известен «Моной Лизой», но живопись была лишь одной стороной его необыкновенного ума. Он был идеальным «человеком Возрождения»: художником, инженером, учёным и изобретателем, считавшим, что всё в природе связано между собой.
+
+
+    Леонардо заполнил более 7000 страниц записных книжек рисунками и идеями. Он писал зеркальным почерком, справа налево, — возможно, чтобы сохранить свои идеи в тайне. Записные книжки удивительно содержательны. В них — наблюдения за полётом птиц, проекты летательных машин, планы мостов и рисунки почек и листьев. Задолго до изобретения парашюта он набросал его — из ткани, привязанной к деревянной раме.
+
+
+    Его важнейшей работой, возможно, была анатомия. Леонардо предпринял подробные исследования человеческого тела, рисуя мышцы, кости и органы с поразительной точностью. Его завораживал глаз. Он изучал, как свет попадает в глаз и идёт по зрительному нерву к мозгу. Чтобы увидеть форму мозга, он заполнил его полости расплавленным воском — метод, на века опередивший своё время.
+
+
+    Метод Леонардо был удивительно современным. Он начинал с гипотезы, а затем проверял её тщательными наблюдениями. Если эксперимент опровергал его идею, он её менял. Его пространственное воображение было огромным преимуществом: он мог представить сложные машины в трёх измерениях до того, как их построить.
+
+
+    К сожалению, Леонардо редко доводил проекты до конца, и большая часть его записей не была опубликована. Веками другие учёные получали признание за открытия, которые он сделал первым. Однако сегодня о его гениальности знают гораздо больше. Его записные книжки изучают и инженеры, и врачи, и художники, а многие его машины построены по его чертежам. Как сказал один историк, Леонардо не просто жил в эпоху Возрождения — он и был Возрождением.
+
+    '
+  questions:
+  - q: How did Leonardo write in his notebooks?
+    options:
+    - In code
+    - In mirror writing, from right to left
+    - In Latin only
+    - With his left foot
+    answer: 1
+  - q: Why did Leonardo fill the brain with wax?
+    options:
+    - To preserve it
+    - To see its shape
+    - To make a candle
+    - To test a medicine
+    answer: 1
+  - q: Why did other scientists get credit for his discoveries?
+    options:
+    - He stole their ideas
+    - His notebooks were not published
+    - He asked them to
+    - His drawings were wrong
+    answer: 1
+  - tf: Leonardo always finished his projects.
+    answer: false
+  - tf: Leonardo tested his ideas through observation.
+    answer: true
+- id: b2-14
+  v1_unit: The Great Fraud
+  title: The Piltdown Man
+  title_ru: Пилтдаунский человек
+  text: 'In 1912, an amateur archeologist called Charles Dawson made an astonishing announcement. While digging in a gravel pit near a country estate in Piltdown, in southern England, he said he had found pieces of a prehistoric human skull and jaw. The skull looked human, but the jaw looked like an ape''s. Dawson and his proponents claimed it was the "missing link" between apes and humans — and that it was British.
+
+
+    The discovery fitted the outlook of many British scientists at the time perfectly. They wanted to believe that humans had first developed in Europe. Leading experts examined the bones and declared them genuine. For the next forty years, books and articles cited "Piltdown Man" as one of the most important archeological finds ever.
+
+
+    But some scientists had doubts. As more human fossils were discovered in Africa and Asia, Piltdown Man did not correspond with any of them. It simply didn''t fit.
+
+
+    In 1953, a team of researchers decided to test the bones using new chemical methods. The results were shocking. The skull was human, but only a few hundred years old. The jaw belonged to an orangutan. Someone had stained the bones with chemicals to make them look ancient and had filed down the teeth to make them look human. It was a fraud.
+
+
+    Who did it? To this day, nobody knows for sure. Dawson, who died in 1916, is the main suspect. Investigators later discovered that many of his other "discoveries" were also fakes. Other names have been brainstormed over the years, including the famous writer Arthur Conan Doyle, creator of Sherlock Holmes.
+
+
+    The Piltdown Man fraud is now used to teach students an important lesson about scientific integrity. Science is not perfect, but it can refine its ideas. Eventually, the evidence will expose the truth.
+
+    '
+  ru: 'В 1912 году археолог-любитель Чарльз Доусон сделал сенсационное заявление. По его словам, копая в гравийном карьере возле поместья в Пилтдауне на юге Англии, он нашёл фрагменты черепа и челюсти доисторического человека. Череп выглядел человеческим, а челюсть — обезьяньей. Доусон и его сторонники утверждали, что это «недостающее звено» между обезьянами и людьми — и к тому же британское.
+
+
+    Находка идеально соответствовала взглядам многих британских учёных того времени. Им хотелось верить, что человек впервые появился в Европе. Ведущие специалисты изучили кости и объявили их подлинными. Следующие сорок лет книги и статьи ссылались на «пилтдаунского человека» как на одну из важнейших археологических находок всех времён.
+
+
+    Но у некоторых учёных были сомнения. По мере того как в Африке и Азии находили всё новые окаменелости людей, пилтдаунский человек не соответствовал ни одной из них. Он просто не вписывался.
+
+
+    В 1953 году группа исследователей решила проверить кости новыми химическими методами. Результаты были ошеломляющими. Череп был человеческим, но ему было всего несколько сотен лет. Челюсть принадлежала орангутану. Кто-то окрасил кости химикатами, чтобы они выглядели древними, и подпилил зубы, чтобы они казались человеческими. Это была фальсификация.
+
+
+    Кто это сделал? До сих пор никто не знает наверняка. Главный подозреваемый — Доусон, умерший в 1916 году. Позже следователи обнаружили, что многие другие его «открытия» тоже были подделками. За эти годы звучали и другие имена, в том числе знаменитого писателя Артура Конан Дойла, создателя Шерлока Холмса.
+
+
+    Сегодня история пилтдаунской фальсификации служит студентам важным уроком научной честности. Наука несовершенна, но она умеет уточнять свои идеи. Рано или поздно факты раскроют правду.
+
+    '
+  questions:
+  - q: What did Dawson claim to have found?
+    options:
+    - A dinosaur
+    - The 'missing link' between apes and humans
+    - Gold coins
+    - A prehistoric house
+    answer: 1
+  - q: What did the 1953 tests show about the jaw?
+    options:
+    - It was human
+    - It belonged to an orangutan
+    - It was a million years old
+    - It was made of wax
+    answer: 1
+  - q: Why did many British scientists want to believe the find?
+    options:
+    - They wanted humans to have developed in Europe
+    - They were paid
+    - Dawson was famous
+    - The bones were beautiful
+    answer: 0
+  - tf: We know for certain who created the fraud.
+    answer: false
+  - tf: The skull was only a few hundred years old.
+    answer: true
+- id: b2-15
+  v1_unit: Machines Fighting Germs
+  title: The Antibiotic Found by a Computer
+  title_ru: Антибиотик, найденный компьютером
+  text: 'When penicillin was discovered in 1928, it changed medicine forever. Infections that had once killed millions could suddenly be cured. But there is a problem. Every time we use antibiotics, some bacteria survive and pass on their resistance. Over time, these "superbugs" become immune to our medicines. Antibiotic resistance is now prevalent in hospitals around the world, and experts warn that, without new drugs, simple infections could become deadly again.
+
+
+    Finding a new antibiotic is slow and expensive. Scientists may test thousands of chemicals before finding one that works, and most fail in the later phases of testing. Very few new types have been discovered in the past thirty years.
+
+
+    In 2020, a team of researchers in the USA tried a different approach. They trained an artificial intelligence program by giving it, as input, the structures of 2,500 molecules and information about whether each one killed bacteria. The program learned to recognize patterns that humans could not see. Then the researchers asked it to search a huge database of more than 100 million chemicals.
+
+
+    In just a few days, the computer found a molecule that had originally been studied as a treatment for diabetes. Tests showed that it killed many dangerous bacteria, including some that were resistant to all known antibiotics. The researchers named it "halicin", after the computer HAL in the film "2001: A Space Odyssey".
+
+
+    The news went viral. Of course, computers will not replace scientists. AI cannot replace their intimate knowledge of biology; rather, it complements it. But by compressing years of work into days, it could be the equivalent of having thousands of extra researchers. Some scientists believe that quantum computers, which are far more powerful than today''s microchips, could speed up the search even more.
+
+
+    In the fight against superbugs, every new weapon counts.
+
+    '
+  ru: 'Когда в 1928 году открыли пенициллин, это навсегда изменило медицину. Инфекции, которые когда-то убивали миллионы, вдруг стало возможно вылечить. Но есть проблема. Каждый раз, когда мы применяем антибиотики, некоторые бактерии выживают и передают свою устойчивость. Со временем эти «супербактерии» становятся невосприимчивыми к нашим лекарствам. Устойчивость к антибиотикам теперь широко распространена в больницах по всему миру, и эксперты предупреждают, что без новых препаратов простые инфекции снова могут стать смертельными.
+
+
+    Поиск нового антибиотика — долгое и дорогое дело. Учёные могут перепробовать тысячи веществ, прежде чем найдут одно рабочее, а большинство отсеивается на поздних этапах испытаний. За последние тридцать лет открыто очень мало новых видов.
+
+
+    В 2020 году группа исследователей в США попробовала другой подход. Они обучили программу искусственного интеллекта, подав ей на вход структуры 2500 молекул и сведения о том, убивает ли каждая из них бактерии. Программа научилась распознавать закономерности, которые не видят люди. Затем исследователи поручили ей просмотреть огромную базу данных из более чем 100 миллионов веществ.
+
+
+    Всего за несколько дней компьютер нашёл молекулу, которую изначально изучали как средство от диабета. Испытания показали, что она убивает многие опасные бактерии, в том числе устойчивые ко всем известным антибиотикам. Исследователи назвали её «халицин» в честь компьютера HAL из фильма «2001: Космическая одиссея».
+
+
+    Новость разлетелась по интернету. Конечно, компьютеры не заменят учёных. ИИ не может заменить их глубокое знание биологии — он лишь дополняет его. Но, сжимая годы работы в дни, он может стать равноценной заменой тысячам дополнительных исследователей. Некоторые учёные считают, что квантовые компьютеры, гораздо более мощные, чем нынешние микрочипы, могут ускорить поиск ещё больше.
+
+
+    В борьбе с супербактериями важно любое новое оружие.
+
+    '
+  questions:
+  - q: What is the problem with antibiotics?
+    options:
+    - They are too expensive
+    - Bacteria become resistant to them
+    - They don't work on any bacteria
+    - They cause diabetes
+    answer: 1
+  - q: How did the AI find halicin?
+    options:
+    - By testing chemicals in a lab
+    - By searching a huge database after being trained
+    - By reading books
+    - By accident
+    answer: 1
+  - q: Where does the name 'halicin' come from?
+    options:
+    - A scientist's name
+    - A computer in a film
+    - A town
+    - A bacterium
+    answer: 1
+  - tf: Halicin was originally studied as a treatment for diabetes.
+    answer: true
+  - tf: The text says computers will replace scientists.
+    answer: false
+- id: b2-16
+  v1_unit: The Insulin Story
+  title: 'From Dogs to Bacteria: The Discovery of Insulin'
+  title_ru: 'От собак к бактериям: открытие инсулина'
+  text: 'For thousands of years, people noticed that the urine of some patients tasted sweet, like nectar. The disease was called diabetes, and until the 1920s it was a death sentence. Children with the most serious form usually died within months. The only treatment was a starvation regime, which kept patients alive a little longer but left them weak and thin.
+
+
+    Scientists suspected that the pancreas, an organ near the stomach, had a mechanism for controlling sugar in the blood. In 1921, a young Canadian surgeon, Frederick Banting, and his student assistant Charles Best decided to test this notion. Working in a small laboratory in Toronto, they removed the pancreas from dogs, which then developed diabetes. When they injected the dogs with an extract from healthy pancreas tissue, the dogs'' blood sugar fell.
+
+
+    In January 1922, the extract was given to a fourteen-year-old boy who was dying of diabetes. After some problems with impurities, a chemist on the team found a way to purify it, and the boy made a dramatic recovery. The substance was named insulin. Within a year, it was being manufactured on a large scale, and thousands of lives were saved.
+
+
+    Banting and his team made an explicit decision about the ethics of their discovery. They sold the patent to the University of Toronto for just one dollar each. "Insulin does not belong to me," Banting said. "It belongs to the world."
+
+
+    For decades, insulin was taken from the pancreases of pigs and cows. Then, in 1978, scientists used biotechnology to make bacteria produce human insulin. This straightforward-sounding idea was a revolution: it eliminated the need for animals and minimized allergic reactions.
+
+
+    Sadly, the story does not end happily for everyone. In some countries, insulin prices have risen so much that patients cannot afford it. Coalitions of doctors and patients are now asking governments to create a legal framework to bring prices down — in the spirit of the scientists who gave their discovery away.
+
+    '
+  ru: 'Тысячи лет люди замечали, что моча некоторых больных сладкая на вкус, как нектар. Болезнь назвали диабетом, и до 1920-х годов она была смертным приговором. Дети с самой тяжёлой формой обычно умирали за несколько месяцев. Единственным лечением был голодный режим, который продлевал жизнь, но оставлял больных слабыми и истощёнными.
+
+
+    Учёные подозревали, что поджелудочная железа — орган рядом с желудком — содержит механизм, регулирующий уровень сахара в крови. В 1921 году молодой канадский хирург Фредерик Бантинг и его ассистент, студент Чарльз Бест, решили проверить эту идею. Работая в маленькой лаборатории в Торонто, они удаляли у собак поджелудочную железу, после чего у тех развивался диабет. Когда собакам вводили экстракт из здоровой ткани поджелудочной железы, уровень сахара в крови падал.
+
+
+    В январе 1922 года экстракт ввели четырнадцатилетнему мальчику, умиравшему от диабета. После проблем с примесями химик из команды нашёл способ его очистить, и мальчик поразительно быстро пошёл на поправку. Вещество назвали инсулином. Уже через год его производили в больших масштабах, и были спасены тысячи жизней.
+
+
+    Бантинг и его команда приняли однозначное решение об этической стороне открытия. Они продали патент Университету Торонто всего за один доллар каждый. «Инсулин принадлежит не мне, — сказал Бантинг. — Он принадлежит миру».
+
+
+    Десятилетиями инсулин получали из поджелудочной железы свиней и коров. Затем, в 1978 году, учёные с помощью биотехнологий заставили бактерии производить человеческий инсулин. Эта на первый взгляд простая идея стала революцией: она избавила от необходимости использовать животных и свела к минимуму аллергические реакции.
+
+
+    К сожалению, эта история не для всех заканчивается счастливо. В некоторых странах цены на инсулин выросли настолько, что больные не могут его себе позволить. Коалиции врачей и пациентов теперь призывают правительства создать правовые рамки для снижения цен — в духе учёных, которые подарили своё открытие миру.
+
+    '
+  questions:
+  - q: What was the treatment for diabetes before insulin?
+    options:
+    - Eating more sugar
+    - A starvation regime
+    - Surgery
+    - Antibiotics
+    answer: 1
+  - q: How much did Banting and his team sell the patent for?
+    options:
+    - A million dollars
+    - One dollar each
+    - Nothing
+    - Ten thousand dollars
+    answer: 1
+  - q: What happened in 1978?
+    options:
+    - Insulin was discovered
+    - Bacteria were used to produce human insulin
+    - Insulin prices fell
+    - The first dog was treated
+    answer: 1
+  - tf: Until 1978, insulin was taken from pigs and cows.
+    answer: true
+  - tf: Insulin is cheap for everyone today.
+    answer: false
+- id: b2-17
+  v1_unit: Renting a Home
+  title: Know Your Rights as a Tenant
+  title_ru: Права арендатора
+  text: 'For many young people, buying a home is an impossible dream. House prices have risen far faster than wages, and banks require a large deposit before they will give you a mortgage. As a result, millions of people rent their homes. Renting can be a great option, but it is important to understand your rights.
+
+
+    Before you move in, you will usually sign a lease. Read it carefully. It should be explicit about how much the rent is, how long the agreement lasts and who pays for utilities such as gas, water and electricity. It should also explain the process whereby either side can end the agreement.
+
+
+    In most countries, the landlord is responsible for keeping the property safe and in good condition. This includes the plumbing, the heating and the electrics. If something breaks, the landlord must mend it within a reasonable time. Many places have laws requiring homes to conform to basic standards. For example, safety checks on gas appliances may be mandatory every year, and the property must be hygienic and free from damp.
+
+
+    Tenants have responsibilities too. You must pay the rent on time, look after the property and respect the neighbours. If you want to make changes, such as painting the walls, you should ask first. Remember that a furnished flat comes with the landlord''s furniture, so you may have to pay for any damage.
+
+
+    Problems can arise. Some landlords try to expel tenants without proper notice, or they refuse to return deposits. Others ask for money for "administration" that the law doesn''t allow. If you have a problem, keep records of everything: photos, emails and receipts. Many cities have advice centres employing personnel who can help you for free.
+
+
+    Finally, plan ahead. If you know about forthcoming rent increases, you can budget for them. And if you need repairs, get a builder to quote a price in writing before any work begins.
+
+    '
+  ru: 'Для многих молодых людей покупка жилья — несбыточная мечта. Цены на дома росли гораздо быстрее зарплат, а банки требуют крупный первоначальный взнос, прежде чем дать ипотеку. В результате миллионы людей снимают жильё. Аренда может быть отличным вариантом, но важно знать свои права.
+
+
+    Перед заселением вы обычно подписываете договор аренды. Прочитайте его внимательно. В нём должно быть чётко указано, сколько стоит аренда, на какой срок заключён договор и кто платит за коммунальные услуги — газ, воду и электричество. В нём также должно быть объяснено, каким образом любая из сторон может расторгнуть договор.
+
+
+    В большинстве стран арендодатель отвечает за то, чтобы жильё было безопасным и в хорошем состоянии. Это касается сантехники, отопления и электрики. Если что-то ломается, хозяин должен починить это в разумный срок. Во многих местах есть законы, требующие, чтобы жильё соответствовало базовым стандартам. Например, ежегодная проверка газового оборудования может быть обязательной, а квартира должна быть чистой и без сырости.
+
+
+    У арендаторов тоже есть обязанности. Нужно вовремя платить, бережно относиться к жилью и уважать соседей. Если хотите что-то изменить, например покрасить стены, сначала спросите. Помните, что меблированная квартира сдаётся с мебелью хозяина, так что за любой ущерб, возможно, придётся заплатить.
+
+
+    Бывают и проблемы. Некоторые хозяева пытаются выселить жильцов без надлежащего уведомления или отказываются возвращать залог. Другие требуют деньги за «оформление», которые закон не разрешает брать. Если у вас возникла проблема, сохраняйте все записи: фотографии, письма и квитанции. Во многих городах есть консультационные центры, сотрудники которых могут помочь бесплатно.
+
+
+    И наконец, планируйте заранее. Если вы знаете о предстоящем повышении арендной платы, вы можете заложить его в бюджет. А если нужен ремонт, попросите строителя письменно назвать цену до начала работ.
+
+    '
+  questions:
+  - q: Why do millions of young people rent?
+    options:
+    - Renting is always cheaper
+    - House prices have risen faster than wages
+    - They don't want to own a home
+    - Banks don't give mortgages
+    answer: 1
+  - q: Who is usually responsible for repairing the plumbing?
+    options:
+    - The tenant
+    - The landlord
+    - The neighbours
+    - The city
+    answer: 1
+  - q: What should you do if you have a problem with your landlord?
+    options:
+    - Stop paying rent
+    - Keep records of everything
+    - Move out immediately
+    - Repair everything yourself
+    answer: 1
+  - tf: Tenants can paint the walls without asking.
+    answer: false
+  - tf: A lease should explain who pays for utilities.
+    answer: true
+- id: b2-18
+  v1_unit: A New Heart
+  title: The First Heart Transplant
+  title_ru: Первая пересадка сердца
+  text: 'For centuries, the idea of replacing a person''s heart belonged to the world of fantasy. The heart was seen not just as an organ, but as the centre of life and emotion. Yet on 3 December 1967, in a hospital in Cape Town, South Africa, a dynamic young surgeon called Christiaan Barnard made the fantasy real.
+
+
+    The patient was Louis Washkansky, a 53-year-old man whose heart was failing. Heredity and years of smoking had damaged it badly, and there was no therapy left that could help him. The donor was a young woman named Denise Darvall, who had been killed in a car accident. Her father agreed to donate her heart.
+
+
+    The operation followed a careful sequence of steps that Barnard and his team had practised many times. First, they connected Washkansky to a machine that acted as a substitute for his heart and lungs. Then they removed his damaged heart and transferred the healthy one into his chest. Finally, they gave it an electric shock. After a tense moment, the new heart began to beat.
+
+
+    The news made headlines around the world, and Barnard became a celebrity overnight. However, the biggest problem was yet to come. The body''s immune system sees a transplanted organ as an enemy and attacks it. To stop this, doctors prescribed strong drugs. Unfortunately, these also weakened Washkansky''s defences against infection, and he died of pneumonia eighteen days later.
+
+
+    Barnard was not the only pioneer. Surgeons in the USA had developed similar techniques, and many teams began to try transplants. At first, results were poor. But in the 1980s, new drugs allowed patients'' bodies to adapt to their new organs with minimal side effects. The transition from experimental surgery to routine treatment was complete.
+
+
+    Today, thousands of heart transplants are carried out every year, and many patients live for decades. Scientists are now studying how to grow organs from a patient''s own cells, which could one day end the long wait for a donor.
+
+    '
+  ru: 'Веками идея заменить человеку сердце принадлежала миру фантазий. Сердце считали не просто органом, а средоточием жизни и чувств. Но 3 декабря 1967 года в больнице в Кейптауне (ЮАР) энергичный молодой хирург Кристиан Барнард воплотил фантазию в жизнь.
+
+
+    Пациентом был Луис Вашканский, 53-летний мужчина с отказывающим сердцем. Наследственность и годы курения сильно его повредили, и никакое лечение уже не могло помочь. Донором стала молодая женщина по имени Дениз Дарвалл, погибшая в автокатастрофе. Её отец согласился отдать её сердце.
+
+
+    Операция шла по тщательно выверенной последовательности шагов, которые Барнард и его команда отрабатывали много раз. Сначала Вашканского подключили к аппарату, заменявшему сердце и лёгкие. Затем удалили больное сердце и пересадили ему в грудь здоровое. Наконец, по нему пустили электрический разряд. После напряжённого мгновения новое сердце забилось.
+
+
+    Новость облетела весь мир, и Барнард в одночасье стал знаменитостью. Однако самая большая проблема была ещё впереди. Иммунная система воспринимает пересаженный орган как врага и атакует его. Чтобы этому помешать, врачи назначили сильные препараты. К сожалению, они ослабили и защиту Вашканского от инфекций, и через восемнадцать дней он умер от пневмонии.
+
+
+    Барнард был не единственным первопроходцем. Хирурги в США разработали похожие методики, и многие команды начали делать пересадки. Поначалу результаты были плохими. Но в 1980-х появились новые препараты, которые позволили организму пациентов приспосабливаться к новым органам с минимальными побочными эффектами. Переход от экспериментальной хирургии к обычному лечению завершился.
+
+
+    Сегодня ежегодно делают тысячи пересадок сердца, и многие пациенты живут после них десятилетиями. Сейчас учёные изучают, как выращивать органы из собственных клеток пациента, — когда-нибудь это может положить конец долгому ожиданию донора.
+
+    '
+  questions:
+  - q: Where was the first heart transplant performed?
+    options:
+    - In the USA
+    - In Cape Town, South Africa
+    - In London
+    - In Moscow
+    answer: 1
+  - q: Why did the patient die?
+    options:
+    - The new heart stopped
+    - Pneumonia, because the drugs weakened his defences
+    - A mistake during surgery
+    - A car accident
+    answer: 1
+  - q: What changed in the 1980s?
+    options:
+    - The first transplant
+    - New drugs helped bodies accept new organs
+    - Transplants became illegal
+    - Artificial hearts were invented
+    answer: 1
+  - tf: Barnard was the only surgeon trying heart transplants.
+    answer: false
+  - tf: Scientists are studying how to grow organs from a patient's own cells.
+    answer: true
+- id: b2-19
+  v1_unit: Lost in Space
+  title: Houston, We've Had a Problem
+  title_ru: Хьюстон, у нас проблема
+  text: 'In April 1970, three American astronauts set off on the Apollo 13 mission. Their aim was to become the third crew to land on the Moon. Fifty-six hours into the flight, and more than 300,000 kilometres from Earth, an oxygen tank exploded. Calmly, one of the astronauts spoke the now famous words: "Houston, we''ve had a problem."
+
+
+    The explosion disrupted the spacecraft''s supplies of power, water and oxygen. The Moon landing was immediately cancelled. Now the only question was whether the crew could get home alive. They were stranded in space, with a multitude of problems and very little time.
+
+
+    Back on Earth, in Houston, Texas, hundreds of engineers began a frantic effort to save them. The astronauts moved into the small lunar module, which was designed for two people for two days — not three people for four. Soon, carbon dioxide began to build up, and the air was becoming dangerous to breathe. The engineers had to improvise a solution. Using only items that were on board — plastic bags, cardboard, tape and even a sock — they designed a filter and explained it to the crew step by step. It worked.
+
+
+    Navigation was another nightmare. The ship had deviated from its planned path, and the computers had been switched off to save power. Any erroneous calculation could send the spacecraft past the Earth forever. Using a technique that ancient mariners would have recognized, the astronauts lined up the ship with the Sun and checked their direction by hand. Engineers on the ground solved equation after equation to confirm the course.
+
+
+    For four days, the crew suffered from freezing temperatures and very little sleep. Finally, on 17 April, they splashed down safely in the Pacific Ocean. Millions of people around the world had watched and prayed.
+
+
+    The mission failed to reach the Moon, but NASA calls it a "successful failure". It proved that, even when things go terribly wrong, careful teamwork can bring people home.
+
+    '
+  ru: 'В апреле 1970 года трое американских астронавтов отправились в полёт «Аполлон-13». Их целью было стать третьим экипажем, высадившимся на Луну. Через пятьдесят шесть часов полёта, более чем в 300 000 километров от Земли, взорвался кислородный бак. Один из астронавтов спокойно произнёс ставшие знаменитыми слова: «Хьюстон, у нас проблема».
+
+
+    Взрыв нарушил снабжение корабля энергией, водой и кислородом. Посадку на Луну сразу же отменили. Теперь вопрос был лишь в том, сможет ли экипаж вернуться домой живым. Они оказались в беде посреди космоса — с множеством проблем и очень малым запасом времени.
+
+
+    На Земле, в Хьюстоне (Техас), сотни инженеров начали отчаянные попытки их спасти. Астронавты перешли в маленький лунный модуль, рассчитанный на двоих человек на два дня, а не на троих на четыре. Вскоре стал накапливаться углекислый газ, и воздухом становилось опасно дышать. Инженерам пришлось импровизировать. Используя только то, что было на борту, — пластиковые пакеты, картон, скотч и даже носок, — они сконструировали фильтр и шаг за шагом объяснили экипажу, как его собрать. Это сработало.
+
+
+    Навигация была ещё одним кошмаром. Корабль отклонился от запланированного курса, а компьютеры отключили, чтобы экономить энергию. Любой ошибочный расчёт мог навсегда пронести корабль мимо Земли. Используя приём, который узнали бы древние мореплаватели, астронавты выровняли корабль по Солнцу и вручную проверили направление. Инженеры на Земле решали уравнение за уравнением, чтобы подтвердить курс.
+
+
+    Четыре дня экипаж страдал от холода и почти не спал. Наконец, 17 апреля, они благополучно приводнились в Тихом океане. Миллионы людей по всему миру следили за ними и молились.
+
+
+    Экспедиция не долетела до Луны, но НАСА называет её «успешной неудачей». Она доказала: даже когда всё идёт ужасно не так, слаженная командная работа может вернуть людей домой.
+
+    '
+  questions:
+  - q: What caused the problem on Apollo 13?
+    options:
+    - A computer failure
+    - An oxygen tank exploded
+    - They hit the Moon
+    - A crew member was ill
+    answer: 1
+  - q: What did the engineers improvise?
+    options:
+    - A new engine
+    - A filter for carbon dioxide
+    - A radio
+    - A map
+    answer: 1
+  - q: How did the astronauts check their direction?
+    options:
+    - With their computers
+    - By lining up the ship with the Sun
+    - Using astrology
+    - Using GPS
+    answer: 1
+  - tf: Apollo 13 landed on the Moon.
+    answer: false
+  - tf: NASA calls the mission a 'successful failure'.
+    answer: true
+- id: b2-20
+  v1_unit: Fashion and Power
+  title: When Men Wore High Heels
+  title_ru: Когда мужчины носили каблуки
+  text: 'Today, high heels are generally seen as feminine. But this was not always the case. In the seventeenth century, high heels were a symbol of male power.
+
+
+    The style probably came from Persia, where soldiers on horseback wore heels to keep their feet in the stirrups. In the early 1600s, Persian diplomats visited Europe, and their shoes started a craze among European aristocrats. Because heels were impractical for walking on muddy streets, they signified that the wearer didn''t need to work. They became a way to show your place at the top of the social hierarchy.
+
+
+    The most famous fan of heels was King Louis XIV of France, who was quite short. His shoes had red heels and soles, and he made a rule that only members of the aristocracy were allowed to wear them. At his palace in Versailles, a strict protocol controlled every aspect of life, including clothes. The predominant fashion was one of excess: enormous wigs, silk stockings, lace and ribbons. Wigs were so large that hair often became tangled, and courtiers spent hours dressing.
+
+
+    Some fashions now seem absurd. Men wore padded jackets to enlarge their chests and tied their stockings with straps below the knee. Vanity was not considered a weakness; it was a duty. A gentleman''s attire denoted his wealth, and a reputable family would spend a fortune on a single outfit.
+
+
+    Everything changed in the eighteenth century. Ideas about reason and equality spread across Europe, and men began to prefer simpler, darker clothes. High heels became a fashion for women. By the time of the French Revolution in 1789, the old style had become a symbol of everything people hated about the aristocracy.
+
+
+    Fashion, it seems, is never just about clothes. It is about power — who has it, and who wants it. Next time you see someone and their partner dressed for a party, remember: every outfit tells a story.
+
+    '
+  ru: 'Сегодня высокие каблуки обычно считаются женской обувью. Но так было не всегда. В XVII веке высокие каблуки были символом мужской власти.
+
+
+    Этот стиль, вероятно, пришёл из Персии, где всадники носили каблуки, чтобы нога держалась в стремени. В начале 1600-х годов Европу посетили персидские послы, и их обувь вызвала повальную моду среди европейских аристократов. Поскольку на каблуках было неудобно ходить по грязным улицам, они показывали, что их владельцу не нужно работать. Каблуки стали способом продемонстрировать своё место на вершине социальной иерархии.
+
+
+    Самым известным любителем каблуков был французский король Людовик XIV, который был довольно невысок. У его туфель были красные каблуки и подошвы, и он постановил, что носить их могут только аристократы. В его дворце в Версале строгий этикет регулировал все стороны жизни, в том числе одежду. Преобладающей модой были излишества: огромные парики, шёлковые чулки, кружева и ленты. Парики были такими большими, что волосы часто спутывались, а придворные часами одевались.
+
+
+    Некоторые фасоны сегодня кажутся нелепыми. Мужчины носили камзолы с подкладкой, чтобы грудь казалась шире, и подвязывали чулки ремешками под коленом. Тщеславие не считалось слабостью — это была обязанность. Наряд джентльмена говорил о его богатстве, и уважаемая семья могла потратить целое состояние на один костюм.
+
+
+    Всё изменилось в XVIII веке. По Европе распространились идеи разума и равенства, и мужчины стали предпочитать более простую и тёмную одежду. Высокие каблуки стали женской модой. К Французской революции 1789 года старый стиль превратился в символ всего, что люди ненавидели в аристократии.
+
+
+    Похоже, мода никогда не бывает только про одежду. Она про власть — у кого она есть и кто её хочет. В следующий раз, когда увидите кого-то с партнёром в праздничных нарядах, вспомните: у каждого наряда есть своя история.
+
+    '
+  questions:
+  - q: Where did the fashion for heels probably come from?
+    options:
+    - France
+    - Persia
+    - England
+    - Italy
+    answer: 1
+  - q: What did high heels show in the 1600s?
+    options:
+    - That you were a soldier
+    - That you didn't need to work
+    - That you were a woman
+    - That you were poor
+    answer: 1
+  - q: What rule did Louis XIV make?
+    options:
+    - Only women could wear heels
+    - Only aristocrats could wear red heels
+    - Nobody could wear wigs
+    - Everyone had to wear black
+    answer: 1
+  - tf: In the 17th century, vanity was considered a weakness.
+    answer: false
+  - tf: In the 18th century, men began to prefer simpler clothes.
+    answer: true
+- id: b2-21
+  v1_unit: Darwin's Islands
+  title: The Finches of the Galápagos
+  title_ru: Вьюрки Галапагосских островов
+  text: 'In 1831, a young Englishman named Charles Darwin joined a five-year voyage around the world on a ship called the Beagle. He was only twenty-two, and the trip was supposed to last two years, but it was prolonged again and again. In 1835, the ship finally reached the Galápagos Islands, off the coast of Ecuador.
+
+
+    The islands were volcanic and in many places almost devoid of plants. But when Darwin went ashore, he found a strange collection of animals: giant tortoises, lizards that plunged into the sea to eat seaweed, and many small brown birds called finches.
+
+
+    Darwin noticed that the finches on different islands were not homogeneous. On one island, they had large, strong beaks for cracking hard seeds. On another, their beaks were thin and pointed, perfect for catching insects. Local people told him they could tell which island a tortoise came from just by looking at its shell. Darwin began to theorize that all these birds had come from one original species that had arrived from South America. Over time, populations on different islands had diverged, each adapting to its own food.
+
+
+    Back in England, Darwin spent years trying to verify his ideas. He studied pigeons, plants and the embryos of different animals. He realized that every individual is slightly different. In nature, more young are born than can survive. Those with useful differences are more likely to live and have offspring. He called this process "natural selection".
+
+
+    Darwin knew his theory contradicted the religious beliefs of his time, so he did not publicize it for twenty years. Only when another scientist, Alfred Russel Wallace, reached the same conclusion did Darwin finally publish "On the Origin of Species" in 1859. Newspapers and gazettes attacked him, and some tried to obstruct the spread of his ideas. But the evidence was vigorous and clear. Today, evolution by natural selection is one of the major foundations of modern biology.
+
+    '
+  ru: 'В 1831 году молодой англичанин Чарльз Дарвин отправился в пятилетнее кругосветное плавание на корабле «Бигль». Ему было всего двадцать два года, и путешествие должно было продлиться два года, но его снова и снова продлевали. В 1835 году корабль наконец достиг Галапагосских островов у берегов Эквадора.
+
+
+    Острова были вулканическими и местами почти лишёнными растительности. Но сойдя на берег, Дарвин обнаружил странное собрание животных: гигантских черепах, ящериц, нырявших в море за водорослями, и множество маленьких коричневых птиц — вьюрков.
+
+
+    Дарвин заметил, что вьюрки на разных островах были неодинаковы. На одном острове у них были большие крепкие клювы, чтобы раскалывать твёрдые семена. На другом — тонкие и острые, идеальные для ловли насекомых. Местные жители рассказали ему, что могут определить, с какого острова черепаха, просто по её панцирю. Дарвин начал предполагать, что все эти птицы произошли от одного исходного вида, прилетевшего из Южной Америки. Со временем популяции на разных островах разошлись, и каждая приспособилась к своей пище.
+
+
+    Вернувшись в Англию, Дарвин годами пытался проверить свои идеи. Он изучал голубей, растения и эмбрионы разных животных. Он понял, что каждая особь немного отличается от других. В природе рождается больше потомства, чем может выжить. Те, у кого есть полезные отличия, с большей вероятностью выживут и оставят потомство. Этот процесс он назвал «естественным отбором».
+
+
+    Дарвин знал, что его теория противоречит религиозным убеждениям того времени, поэтому двадцать лет не обнародовал её. Только когда другой учёный, Альфред Рассел Уоллес, пришёл к тому же выводу, Дарвин наконец опубликовал в 1859 году «Происхождение видов». Газеты и журналы нападали на него, а некоторые пытались помешать распространению его идей. Но доказательства были убедительными и ясными. Сегодня эволюция путём естественного отбора — одна из главных основ современной биологии.
+
+    '
+  questions:
+  - q: What did Darwin notice about the finches?
+    options:
+    - They were all the same
+    - Their beaks were different on different islands
+    - They couldn't fly
+    - They ate seaweed
+    answer: 1
+  - q: What did Darwin call his process?
+    options:
+    - Natural selection
+    - Island theory
+    - Divine creation
+    - Survival of the biggest
+    answer: 0
+  - q: Why did Darwin wait twenty years to publish?
+    options:
+    - He was too busy
+    - His theory contradicted religious beliefs of his time
+    - He had no evidence
+    - He lost his notes
+    answer: 1
+  - tf: The Beagle's voyage lasted exactly two years.
+    answer: false
+  - tf: Alfred Russel Wallace reached a similar conclusion.
+    answer: true
+- id: b2-22
+  v1_unit: Talking to the Dead
+  title: Houdini Against the Psychics
+  title_ru: Гудини против экстрасенсов
+  text: 'After the First World War, millions of families were mourning sons, husbands and brothers. In their grief, many turned to spiritualism — the belief that the living can communicate with the deceased. Across Europe and America, psychics held meetings called séances. At dusk, people sat around a table in a dark room, holding hands. Then strange things happened: tables moved, bells rang and voices spoke from nowhere.
+
+
+    One man who wanted to believe was Harry Houdini, the world''s most famous escape artist. When his beloved mother died in 1913, he hoped to speak to her again. But Houdini had spent his life honing the skills of a magician. He knew every trick of deception. At séance after séance, he noticed things that others missed: a foot moving a table, a hidden wire, a voice coming from a tube.
+
+
+    Houdini became furious. His motive was not just to show off; he believed that fake psychics were cruel, taking money from people in pain. So he began a campaign against them. He attended séances in disguise and documented every trick. He gave lectures, wrote articles, and even testified before the US Congress. He offered a large prize to any psychic who could produce effects he could not explain. Nobody ever won it.
+
+
+    His campaign brought strife. Some of his friends, including the writer Arthur Conan Doyle, were committed spiritualists. They interpreted his exposures as an attack on their beliefs, and their friendship ended. Some spiritualists even described Houdini''s death in 1926, from an infection, as a sinister punishment.
+
+
+    Before he died, Houdini made a deal with his wife. If it was possible to contact the dead, he would send her a secret message. For ten years, she held a séance on the anniversary of his death. The message never came. Finally, in 1936, she blew out the candle. "Ten years is long enough to wait for any man," she said.
+
+    '
+  ru: 'После Первой мировой войны миллионы семей оплакивали сыновей, мужей и братьев. В своём горе многие обратились к спиритизму — вере в то, что живые могут общаться с умершими. По всей Европе и Америке экстрасенсы проводили собрания, называемые спиритическими сеансами. В сумерках люди садились вокруг стола в тёмной комнате, держась за руки. А потом происходили странные вещи: столы двигались, звенели колокольчики и звучали голоса из ниоткуда.
+
+
+    Одним из тех, кто хотел поверить, был Гарри Гудини, самый знаменитый в мире мастер освобождения. Когда в 1913 году умерла его любимая мать, он надеялся снова с ней поговорить. Но Гудини всю жизнь оттачивал навыки фокусника. Он знал все уловки обмана. На сеансе за сеансом он замечал то, что упускали другие: ногу, сдвигающую стол, спрятанную проволоку, голос, идущий из трубки.
+
+
+    Гудини пришёл в ярость. Он не просто хотел покрасоваться — он считал, что фальшивые медиумы жестоки, ведь они берут деньги у людей, которым больно. И он начал кампанию против них. Он приходил на сеансы переодетым и записывал каждый трюк. Он читал лекции, писал статьи и даже давал показания в Конгрессе США. Он предложил крупную премию любому экстрасенсу, который покажет явления, которые он не сможет объяснить. Её так никто и не получил.
+
+
+    Его кампания принесла раздоры. Некоторые его друзья, в том числе писатель Артур Конан Дойл, были убеждёнными спиритуалистами. Они восприняли его разоблачения как нападки на свою веру, и дружба закончилась. Некоторые спиритуалисты даже называли смерть Гудини в 1926 году от инфекции зловещим наказанием.
+
+
+    Перед смертью Гудини договорился с женой. Если связаться с мёртвыми возможно, он пошлёт ей тайное послание. Десять лет в годовщину его смерти она проводила сеанс. Послание так и не пришло. Наконец, в 1936 году, она задула свечу. «Десять лет — достаточно долго, чтобы ждать любого мужчину», — сказала она.
+
+    '
+  questions:
+  - q: Why did many people turn to spiritualism after the war?
+    options:
+    - It was fashionable
+    - They were mourning loved ones
+    - The government encouraged it
+    - They wanted to become rich
+    answer: 1
+  - q: Why could Houdini see the tricks?
+    options:
+    - He had special powers
+    - He was a magician who knew the techniques of deception
+    - Someone told him
+    - He used a camera
+    answer: 1
+  - q: What happened between Houdini and Arthur Conan Doyle?
+    options:
+    - They worked together
+    - Their friendship ended
+    - They held séances together
+    - Doyle won the prize
+    answer: 1
+  - tf: A psychic won Houdini's prize.
+    answer: false
+  - tf: Houdini's wife never received the secret message.
+    answer: true
+- id: b2-23
+  v1_unit: The Invisible Enemy
+  title: Pasteur and the Boy
+  title_ru: Пастер и мальчик
+  text: 'In the nineteenth century, most doctors had no idea what caused disease. Many believed that illnesses came from "bad air". The French scientist Louis Pasteur had a different theory: he believed that tiny living things — microbes — were responsible. Under the microscope, which could magnify objects hundreds of times, he could see bacteria that were invisible to the eye. At first, his ideas were far from mainstream, and many doctors laughed at him.
+
+
+    One of the most feared diseases at the time was rabies. Animals such as dogs and wolves passed it to humans through bites. After a few weeks, victims suffered terrible pain, paralysis and death. A cure was elusive; nearly everyone who developed symptoms died. Pasteur could not see the cause of rabies under his microscope — it was a virus, far too small — but he was determined to find a way to fight it.
+
+
+    For years, Pasteur worked on a vaccine. He took tissue from infected rabbits and dried it to weaken the disease. When he gave a series of injections to dogs, they became resistant to rabies. But he had never tested it on a human.
+
+
+    In July 1885, a mother arrived at his laboratory with her nine-year-old son, Joseph Meister. Two days earlier, the boy had been attacked by a savage dog and bitten fourteen times. Without treatment, he would almost certainly die. Pasteur was not a doctor, and treating the boy was legally risky. But he decided to try. Over ten days, Joseph received thirteen injections. Pasteur hardly slept, waiting for any sign of deterioration.
+
+
+    Joseph survived. The news stunned the world, and people bitten by rabid animals travelled from as far away as Russia to be treated. Pasteur''s pursuit of science prevailed over doubt, and his ideas became inseparable from modern medicine. Joseph Meister later worked as a caretaker at the Pasteur Institute in Paris for the rest of his life.
+
+    '
+  ru: 'В XIX веке большинство врачей понятия не имели, что вызывает болезни. Многие считали, что болезни берутся из «дурного воздуха». У французского учёного Луи Пастера была другая теория: он считал, что виной всему крошечные живые существа — микробы. Под микроскопом, увеличивавшим предметы в сотни раз, он видел бактерии, невидимые глазу. Поначалу его идеи были далеки от общепринятых, и многие врачи над ним смеялись.
+
+
+    Одной из самых страшных болезней того времени было бешенство. Животные — собаки, волки — передавали его людям через укусы. Через несколько недель у пострадавших начинались страшные боли, паралич, а затем смерть. Лекарства не было; почти все, у кого появлялись симптомы, умирали. Пастер не мог разглядеть возбудителя бешенства в микроскоп — это был вирус, слишком маленький, — но он был полон решимости найти способ с ним бороться.
+
+
+    Годами Пастер работал над вакциной. Он брал ткани заражённых кроликов и высушивал их, чтобы ослабить болезнь. Когда он сделал серию прививок собакам, они стали невосприимчивы к бешенству. Но на человеке он вакцину никогда не испытывал.
+
+
+    В июле 1885 года в его лабораторию пришла мать с девятилетним сыном Жозефом Мейстером. За два дня до этого на мальчика напала бешеная собака и укусила его четырнадцать раз. Без лечения он почти наверняка умер бы. Пастер не был врачом, и лечить мальчика было рискованно с точки зрения закона. Но он решил попробовать. За десять дней Жозеф получил тринадцать уколов. Пастер почти не спал, ожидая любых признаков ухудшения.
+
+
+    Жозеф выжил. Новость потрясла мир, и люди, покусанные бешеными животными, приезжали лечиться даже из далёкой России. Стремление Пастера к знаниям одержало верх над сомнениями, и его идеи стали неотделимы от современной медицины. Жозеф Мейстер впоследствии всю жизнь проработал смотрителем в Институте Пастера в Париже.
+
+    '
+  questions:
+  - q: What did many doctors believe caused disease?
+    options:
+    - Microbes
+    - Bad air
+    - Viruses
+    - Bad food
+    answer: 1
+  - q: Why couldn't Pasteur see the cause of rabies?
+    options:
+    - His microscope was broken
+    - It was a virus, far too small
+    - It was hidden in the blood
+    - He didn't try
+    answer: 1
+  - q: Why was treating Joseph risky for Pasteur?
+    options:
+    - He wasn't a doctor
+    - The boy was too young
+    - He had no vaccine
+    - The mother refused
+    answer: 0
+  - tf: Pasteur's ideas were mainstream from the start.
+    answer: false
+  - tf: Joseph Meister later worked at the Pasteur Institute.
+    answer: true
+- id: b2-24
+  v1_unit: The Ides of March
+  title: The Death of Julius Caesar
+  title_ru: Смерть Юлия Цезаря
+  text: 'By 44 BC, Julius Caesar was the most powerful man in Rome. His conquest of Gaul — modern France — had brought the Republic enormous wealth, slaves and commodities such as grain and wine. His soldiers loved him. He had shared their hardships, sleeping on the ground and eating simple food such as bread and lentil soup. When he marshalled his legions, their morale was always high.
+
+
+    But not everyone was happy. For five hundred years, Rome had been a Republic, ruled by the Senate and elected officials. Caesar had won a civil war and been appointed dictator for life. Many senators were envious of his power. Others were genuine advocates of the Republic who feared he wanted to become king. The dynamics of Roman politics had changed, and the mood in the Senate was dark.
+
+
+    A group of about sixty senators began to plot against him. Among them was Brutus, a man Caesar trusted like a son. They met in secret, careful not to disclose their plans. There were warnings. According to ancient writers, a fortune-teller had told Caesar to "beware the Ides of March" — the 15th of March. On the night before, his wife dreamed that he was murdered and begged him not to go out.
+
+
+    Caesar ignored them. On the morning of 15 March, he went to a meeting of the Senate. Passing the fortune-teller, he joked: "The Ides of March have come." "Yes," she replied, "but they have not yet gone." Inside, the senators surrounded him and stabbed him twenty-three times.
+
+
+    The killers believed they had saved the Republic. However, the evidence indicates the opposite. Ordinary citizens, who loved Caesar, were furious. Unrest spread through the city, and Rome fell into another civil war. In the end, Caesar''s adopted son, Octavian, became the first emperor, albeit with a different title. The prophecy had come true, and the Republic was gone forever.
+
+    '
+  ru: 'К 44 году до н. э. Юлий Цезарь был самым могущественным человеком в Риме. Завоевание Галлии — нынешней Франции — принесло Республике огромные богатства, рабов и такие товары, как зерно и вино. Солдаты его обожали. Он разделял с ними тяготы — спал на земле и ел простую пищу, например хлеб и чечевичную похлёбку. Когда он выстраивал свои легионы, их боевой дух всегда был высок.
+
+
+    Но довольны были не все. Пятьсот лет Рим был Республикой, которой управляли сенат и выборные должностные лица. Цезарь победил в гражданской войне и был назначен пожизненным диктатором. Многие сенаторы завидовали его власти. Другие были искренними сторонниками Республики и боялись, что он хочет стать царём. Расстановка сил в римской политике изменилась, и в сенате царило мрачное настроение.
+
+
+    Группа примерно из шестидесяти сенаторов составила против него заговор. Среди них был Брут, которому Цезарь доверял как сыну. Они встречались тайно, стараясь не раскрыть своих планов. Предупреждения были. По словам древних авторов, прорицательница велела Цезарю «остерегаться мартовских ид» — 15 марта. Накануне ночью его жене приснилось, что его убили, и она умоляла его не выходить из дома.
+
+
+    Цезарь не обратил на это внимания. Утром 15 марта он отправился на заседание сената. Проходя мимо прорицательницы, он пошутил: «Мартовские иды наступили». «Да, — ответила она, — но ещё не прошли». Внутри сенаторы окружили его и нанесли ему двадцать три удара кинжалами.
+
+
+    Убийцы считали, что спасли Республику. Однако факты говорят об обратном. Простые горожане, любившие Цезаря, были в ярости. По городу прокатились волнения, и Рим погрузился в новую гражданскую войну. В конце концов приёмный сын Цезаря Октавиан стал первым императором, хотя и под другим титулом. Пророчество сбылось, и Республика исчезла навсегда.
+
+    '
+  questions:
+  - q: Why did Caesar's soldiers love him?
+    options:
+    - He paid them a lot
+    - He shared their hardships
+    - He let them go home
+    - He was the king
+    answer: 1
+  - q: Why did many senators want to kill Caesar?
+    options:
+    - He had lost a war
+    - They feared he wanted to be king
+    - He was too old
+    - He wanted to leave Rome
+    answer: 1
+  - q: What happened after Caesar's death?
+    options:
+    - The Republic became stronger
+    - Rome fell into another civil war
+    - Brutus became emperor
+    - Everyone celebrated
+    answer: 1
+  - tf: Caesar listened to his wife's warning and stayed at home.
+    answer: false
+  - tf: Octavian became the first emperor.
+    answer: true
+- id: b2-25
+  v1_unit: Defeating Smallpox
+  title: The End of a Killer
+  title_ru: Конец убийцы
+  text: 'For thousands of years, smallpox was one of the deadliest diseases on Earth. It was transmitted from person to person through the air. After the onset of fever, victims developed terrible spots all over their bodies. About thirty percent of those infected died, and many survivors were left with deep scars. The disease rendered thousands of people blind. In the twentieth century alone, it killed an estimated 300 million people.
+
+
+    The first step towards defeating it came in 1796. An English doctor, Edward Jenner, noticed that milkmaids who had caught cowpox, a mild disease from cows, never caught smallpox. He tested his idea by infecting a boy with cowpox and then with smallpox. The boy did not get ill. Jenner called his method "vaccination", from the Latin word for cow. Some countries soon enacted laws making vaccination mandatory, while others prohibited the older and riskier methods.
+
+
+    However, smallpox remained widespread in poorer parts of the world. In 1967, the World Health Organization launched a coherent global plan to wipe it out. Rich and poor nations pledged money and doctors. Remarkably, the USA and the Soviet Union, who were enemies in the Cold War, collaborated closely. The Soviet Union, a federation of many republics, supplied hundreds of millions of doses of vaccine.
+
+
+    Vaccinating the whole world was impossible, so health workers used a clever strategy. Whenever a case was diagnosed, they quickly vaccinated everyone around the patient, creating a "ring" that curbed the spread. Teams compiled detailed records of every case, travelling by jeep, boat and even elephant to reach remote villages.
+
+
+    The last natural case was a young cook in Somalia in 1977. Three years later, in 1980, the WHO officially certified that smallpox had been eradicated. It was the first disease in history to be defeated by humans. The effort transformed public health and showed what the world can do when it makes a vow to protect the needy. Today, the virus exists only in two high-security laboratories.
+
+    '
+  ru: 'Тысячи лет оспа была одной из самых смертоносных болезней на Земле. Она передавалась от человека к человеку по воздуху. После начала лихорадки по всему телу больных появлялись ужасные язвы. Около тридцати процентов заразившихся умирали, а у многих выживших оставались глубокие шрамы. Тысячи людей болезнь оставила слепыми. Только в XX веке она унесла, по оценкам, 300 миллионов жизней.
+
+
+    Первый шаг к победе над ней был сделан в 1796 году. Английский врач Эдвард Дженнер заметил, что доярки, переболевшие коровьей оспой — лёгкой болезнью, передающейся от коров, — никогда не заболевали натуральной оспой. Он проверил свою идею, заразив мальчика сначала коровьей оспой, а потом натуральной. Мальчик не заболел. Дженнер назвал свой метод «вакцинацией» — от латинского слова «корова». Некоторые страны вскоре приняли законы об обязательной вакцинации, а другие запретили прежние, более рискованные методы.
+
+
+    Однако в бедных частях мира оспа оставалась широко распространённой. В 1967 году Всемирная организация здравоохранения запустила последовательный глобальный план по её искоренению. Богатые и бедные страны пообещали деньги и врачей. Удивительно, но США и Советский Союз, враждовавшие в холодной войне, тесно сотрудничали. Советский Союз — федерация многих республик — поставил сотни миллионов доз вакцины.
+
+
+    Привить весь мир было невозможно, поэтому медики применили хитрую стратегию. Как только диагностировали случай заболевания, они быстро прививали всех вокруг больного, создавая «кольцо», которое сдерживало распространение. Команды составляли подробные записи о каждом случае, добираясь до отдалённых деревень на джипах, лодках и даже на слонах.
+
+
+    Последним естественным случаем стал молодой повар в Сомали в 1977 году. Через три года, в 1980-м, ВОЗ официально подтвердила, что оспа ликвидирована. Это была первая болезнь в истории, побеждённая человеком. Эта работа преобразила здравоохранение и показала, на что способен мир, когда даёт клятву защитить нуждающихся. Сегодня вирус существует только в двух строго охраняемых лабораториях.
+
+    '
+  questions:
+  - q: What did Jenner notice about milkmaids?
+    options:
+    - They often had smallpox
+    - Those who had caught cowpox never caught smallpox
+    - They had no scars
+    - They were very healthy
+    answer: 1
+  - q: What was the 'ring' strategy?
+    options:
+    - Vaccinating everyone in the world
+    - Vaccinating everyone around each patient
+    - Closing borders
+    - Building hospitals in a circle
+    answer: 1
+  - q: When was smallpox officially declared eradicated?
+    options:
+    - '1796'
+    - '1967'
+    - '1977'
+    - '1980'
+    answer: 3
+  - tf: The USA and the Soviet Union refused to work together.
+    answer: false
+  - tf: Smallpox was the first disease defeated by humans.
+    answer: true
+- id: b2-26
+  v1_unit: The Ghost Map
+  title: Dr Snow and the Broad Street Pump
+  title_ru: Доктор Сноу и колонка на Брод-стрит
+  text: 'In the summer of 1854, a terrible cholera epidemic struck the Soho area of London. Cholera attacks the intestines and causes the body to lose water very quickly. Without treatment, a healthy person can die within a day. In just ten days, more than 500 people in a few streets died.
+
+
+    At the time, most doctors believed that cholera was spread by "miasma" — bad air from rubbish and dirt. London was overcrowded and dirty, so the theory seemed sensible. But one medical practitioner, Dr John Snow, did not adhere to the mainstream view. He believed that cholera was spread through contaminated water.
+
+
+    To prove it, Snow did something new. He visited the homes of the victims and compiled a list of every death. Then he marked each one on a map of the area. A clear pattern manifested itself: the deaths were grouped around a public water pump on Broad Street. Almost everyone who died had drunk water from it. In a nearby brewery, by contrast, not a single worker died — they drank beer instead!
+
+
+    Snow took his map to the local authorities. Although they didn''t fully believe his theory, they agreed to remove the handle of the pump so that nobody could use it. The epidemic, which was already slowing down, soon ended. Later, investigators discovered that a cesspit full of waste from a sick baby''s nappies was leaking into the well.
+
+
+    At first, the authorities reversed their position and refused to accept Snow''s ideas. But over time, his evidence became impossible to ignore. London built a modern sewer system and upgraded the provision of clean water. Today, John Snow is remembered as the father of epidemiology.
+
+
+    His work also changed how we treat cholera. Because the disease kills by removing water from the body, it is imperative to replenish fluids quickly. A simple drink of clean water, salt and sugar is a viable treatment that has saved millions of lives.
+
+    '
+  ru: 'Летом 1854 года в лондонском районе Сохо разразилась страшная эпидемия холеры. Холера поражает кишечник, и организм очень быстро теряет воду. Без лечения здоровый человек может умереть за один день. Всего за десять дней на нескольких улицах умерло более 500 человек.
+
+
+    В то время большинство врачей считали, что холера распространяется через «миазмы» — дурной воздух от мусора и грязи. Лондон был перенаселён и грязен, так что теория казалась разумной. Но один практикующий врач, доктор Джон Сноу, не придерживался общепринятого мнения. Он считал, что холера распространяется через загрязнённую воду.
+
+
+    Чтобы доказать это, Сноу сделал нечто новое. Он обошёл дома погибших и составил список всех смертей. Затем он отметил каждую на карте района. Проявилась чёткая закономерность: смерти группировались вокруг общественной водяной колонки на Брод-стрит. Почти все умершие пили воду из неё. А на соседней пивоварне, напротив, не умер ни один рабочий — они пили пиво!
+
+
+    Сноу отнёс свою карту местным властям. Хотя они не до конца поверили в его теорию, они согласились снять с колонки ручку, чтобы никто не мог ею пользоваться. Эпидемия, которая уже шла на спад, вскоре закончилась. Позже следователи выяснили, что в колодец просачивалось содержимое выгребной ямы, куда выбрасывали пелёнки больного младенца.
+
+
+    Поначалу власти пошли на попятную и отказались принять идеи Сноу. Но со временем игнорировать его доказательства стало невозможно. Лондон построил современную канализацию и улучшил снабжение чистой водой. Сегодня Джона Сноу называют отцом эпидемиологии.
+
+
+    Его работа изменила и лечение холеры. Поскольку болезнь убивает, выводя из организма воду, крайне важно быстро восполнять жидкость. Простой напиток из чистой воды, соли и сахара — действенное лечение, спасшее миллионы жизней.
+
+    '
+  questions:
+  - q: What did most doctors believe caused cholera?
+    options:
+    - Contaminated water
+    - Bad air
+    - Insects
+    - Food
+    answer: 1
+  - q: What did Snow's map show?
+    options:
+    - Deaths were spread evenly
+    - Deaths were grouped around a water pump
+    - Deaths were near the river
+    - Only children died
+    answer: 1
+  - q: Why did no workers at the brewery die?
+    options:
+    - They were vaccinated
+    - They drank beer instead of water
+    - They lived far away
+    - They had their own doctor
+    answer: 1
+  - tf: The authorities removed the pump's handle.
+    answer: true
+  - tf: Everyone immediately accepted Snow's theory.
+    answer: false
+- id: b2-27
+  v1_unit: The Moon and the Mind
+  title: Does the Full Moon Make Us Crazy?
+  title_ru: Сводит ли нас с ума полнолуние?
+  text: 'Ask any nurse or police officer, and many will tell you the same thing: on the night of a full moon, everything goes wrong. Emergency rooms are busier, people behave strangely, and there are more fights. The belief is ancient. In fact, the English word "lunatic", once used for people with mental illness, comes from "luna", the Latin word for moon.
+
+
+    For centuries, people invoked the lunar cycle to explain all kinds of behaviour. Some early psychiatric hospitals, founded in the Middle Ages, even increased the number of staff on full-moon nights. Doctors believed that the moon could cause seizures in people with epilepsy and that its light affected the brain.
+
+
+    With the advent of modern psychiatry and statistics, scientists began to test these beliefs. The results have been surprisingly clear. Large studies of hospital records, crime figures and emergency calls have found no definitive link between the full moon and human behaviour. In one study, researchers examined thousands of psychiatric emergency sessions and found no increase on full-moon nights.
+
+
+    So why does the belief survive? Psychologists say it''s because of how our memory works. When something strange happens during a full moon, we notice it and remember it. When a strange night happens without a full moon, we forget it. We tend to equate the two things because we are looking for a pattern. This kind of thinking is almost a mental reflex.
+
+
+    There may be one small exception. A few studies suggest that people sleep slightly less around the full moon, perhaps because of the extra light. Our ancestors had no electric lights, so the moon made a real difference. Today, scientists say the idea that the moon controls our minds is outmoded. But the next time you have an almighty argument with a friend under a full moon, it might be easier to blame the moon than yourself.
+
+    '
+  ru: 'Спросите любую медсестру или полицейского — многие скажут одно и то же: в полнолуние всё идёт наперекосяк. В приёмных отделениях больше людей, люди ведут себя странно, и драк больше. Это поверье очень древнее. Даже английское слово lunatic, которым когда-то называли душевнобольных, происходит от luna — латинского слова «луна».
+
+
+    Веками люди ссылались на лунный цикл, чтобы объяснить самое разное поведение. В некоторых ранних психиатрических больницах, основанных ещё в Средние века, в полнолуние даже увеличивали число персонала. Врачи считали, что луна может вызывать приступы у людей с эпилепсией и что её свет влияет на мозг.
+
+
+    С появлением современной психиатрии и статистики учёные начали проверять эти убеждения. Результаты оказались на удивление однозначными. Масштабные исследования больничных записей, данных о преступности и вызовов экстренных служб не обнаружили никакой определённой связи между полнолунием и поведением людей. В одном исследовании учёные изучили тысячи экстренных психиатрических обращений и не нашли никакого роста в ночи полнолуния.
+
+
+    Почему же поверье живёт? Психологи говорят, что всё дело в том, как работает наша память. Когда в полнолуние случается что-то странное, мы это замечаем и запоминаем. Когда странная ночь выпадает не на полнолуние, мы о ней забываем. Мы склонны связывать эти две вещи, потому что ищем закономерность. Такое мышление — почти рефлекс.
+
+
+    Возможно, есть одно небольшое исключение. Некоторые исследования предполагают, что в полнолуние люди спят немного меньше — возможно, из-за дополнительного света. У наших предков не было электрического освещения, так что луна имела для них реальное значение. Сегодня учёные считают устаревшей идею о том, что луна управляет нашим разумом. Но в следующий раз, когда вы страшно поссоритесь с другом под полной луной, будет проще обвинить луну, чем себя.
+
+    '
+  questions:
+  - q: Where does the word 'lunatic' come from?
+    options:
+    - A Greek god
+    - The Latin word for moon
+    - A hospital name
+    - A doctor's name
+    answer: 1
+  - q: What did large studies find?
+    options:
+    - The full moon causes more crime
+    - No definitive link between the full moon and behaviour
+    - More seizures at full moon
+    - People are happier at full moon
+    answer: 1
+  - q: Why does the belief survive, according to psychologists?
+    options:
+    - Because it is true
+    - We remember strange events during full moons and forget others
+    - Doctors teach it
+    - Films show it
+    answer: 1
+  - tf: Some studies suggest people sleep slightly less around the full moon.
+    answer: true
+  - tf: Modern scientists agree the moon controls our minds.
+    answer: false
+- id: b2-28
+  v1_unit: Food That Looks Good
+  title: We Eat With Our Eyes
+  title_ru: Мы едим глазами
+  text: 'Have you ever noticed that food in restaurants often tastes better than the same dish at home? Part of the reason may be how it looks. Scientists who study the psychology of food have found that the visual presentation of a meal can change how much we enjoy it — and even how it tastes.
+
+
+    In one famous experiment, researchers in Oxford served people the same salad in three different ways. In the first, the ingredients were simply mixed together. In the second, they were arranged neatly. In the third, they were placed to look like a painting by a famous artist. People rated the third salad as the most appetizing and said they would pay twice as much for it. Yet all three were made from exactly the same items.
+
+
+    Other studies have found surprising details. Food arranged in curved or wavy lines is seen as more pleasant than food arranged in straight lines and sharp angles. Desserts taste sweeter when served on white plates rather than black ones. People even prefer pictures of food where the main item points to the right, rather than the left. Some chefs place sauces in concentric circles or arrange vegetables clockwise around the plate.
+
+
+    Sound matters too. Crisp foods are more enjoyable when we can hear the crunch. In one study, people rated crisps as fresher when the sound of their chewing was made louder through headphones.
+
+
+    In professional kitchens, the head chef usually oversees the presentation, assigning each cook a specific task. Some restaurants allocate as much time to arranging a dish as to cooking it. In multicultural cities, there is a constant interchange of ideas between different cooking traditions, generating new styles all the time.
+
+
+    Of course, appearance isn''t everything. A beautiful plate can''t hide the omission of a key ingredient. But it''s worth remembering: next time you cook for friends, a few extra minutes arranging the food is a simple courtesy — and it might make your cooking taste better.
+
+    '
+  ru: 'Вы когда-нибудь замечали, что еда в ресторане часто кажется вкуснее того же блюда дома? Отчасти дело может быть в том, как она выглядит. Учёные, изучающие психологию питания, обнаружили, что внешний вид блюда может влиять на то, насколько оно нам нравится, — и даже на его вкус.
+
+
+    В одном известном эксперименте исследователи в Оксфорде подали людям один и тот же салат тремя способами. В первом случае ингредиенты были просто перемешаны. Во втором — аккуратно разложены. В третьем — выложены так, чтобы напоминать картину известного художника. Третий салат люди оценили как самый аппетитный и сказали, что заплатили бы за него вдвое больше. А ведь все три были приготовлены из совершенно одинаковых продуктов.
+
+
+    Другие исследования выявили удивительные подробности. Еда, выложенная изогнутыми или волнистыми линиями, кажется приятнее, чем выложенная прямыми линиями и острыми углами. Десерты кажутся слаще на белых тарелках, чем на чёрных. Люди даже предпочитают фотографии еды, на которых главный продукт направлен вправо, а не влево. Некоторые повара выкладывают соусы концентрическими кругами или раскладывают овощи по тарелке по часовой стрелке.
+
+
+    Важен и звук. Хрустящая еда приятнее, когда мы слышим хруст. В одном исследовании люди оценивали чипсы как более свежие, когда звук жевания усиливали через наушники.
+
+
+    На профессиональной кухне подачу обычно контролирует шеф-повар, поручая каждому повару конкретную задачу. Некоторые рестораны отводят на оформление блюда столько же времени, сколько на его приготовление. В многокультурных городах идёт постоянный обмен идеями между разными кулинарными традициями, и всё время рождаются новые стили.
+
+
+    Конечно, внешний вид — это ещё не всё. Красивая тарелка не скроет отсутствия ключевого ингредиента. Но стоит помнить: в следующий раз, когда будете готовить для друзей, несколько лишних минут на оформление — простая любезность, и, возможно, ваша стряпня покажется вкуснее.
+
+    '
+  questions:
+  - q: Which salad did people like most in the Oxford experiment?
+    options:
+    - The mixed salad
+    - The neatly arranged salad
+    - The salad that looked like a painting
+    - They liked them all equally
+    answer: 2
+  - q: On which plates do desserts taste sweeter?
+    options:
+    - Black plates
+    - White plates
+    - Red plates
+    - Glass plates
+    answer: 1
+  - q: What happened when the sound of chewing crisps was made louder?
+    options:
+    - People ate less
+    - People rated them as fresher
+    - People didn't notice
+    - People disliked them
+    answer: 1
+  - tf: The three salads were made from different ingredients.
+    answer: false
+  - tf: Food arranged in wavy lines is seen as more pleasant.
+    answer: true
+- id: b2-29
+  v1_unit: The Oil Fund
+  title: How Norway Saved Its Oil Money
+  title_ru: Как Норвегия сберегла нефтяные деньги
+  text: 'Fifty years ago, Norway was one of the poorer countries in Western Europe. Many people in its coastal regions subsisted on fishing and farming. Then, in 1969, a company exploring the North Sea made a discovery that would transform the nation: one of the largest offshore oil fields ever found.
+
+
+    Many countries that find petroleum suffer from what economists call the "resource curse". Money flows in so quickly that governments spend it all, other sectors of the economy collapse, and corruption grows. When the oil runs out or prices fall, the country is left with nothing.
+
+
+    Norway chose a different path. Its leaders decided that the oil belonged to all Norwegians — including those not yet born. In 1990, the government created a special fund. Instead of spending the money from oil exports, it would invest it abroad, in shares, property and bonds. The government is allowed to spend only about three percent of the fund each year — roughly the amount the investments earn.
+
+
+    Not everyone liked the plan. Some politicians wanted to scrap it and spend the money on roads and hospitals immediately. How could the government justify saving billions while people wanted better services? But the leaders deferred spending, and the habitual caution of Norwegian politics won.
+
+
+    Today, the fund is worth more than a trillion dollars — over $200,000 for every person in the country. It owns about 1.5% of all shares in the world''s companies. Notwithstanding its success, the fund faces difficult questions. It has suspended investments in companies that produce weapons or tobacco, and it penalizes firms that cause serious environmental damage.
+
+
+    There is also an irony. Norway earns its wealth from oil, but it is one of the world leaders in electric cars, and the conversion of its transport system is moving fast. Oil output will eventually fall. Thanks to the fund, however, Norway''s future no longer depends on the fumes of its past.
+
+    '
+  ru: 'Пятьдесят лет назад Норвегия была одной из самых бедных стран Западной Европы. Многие жители прибрежных регионов кормились рыбной ловлей и сельским хозяйством. Но в 1969 году компания, проводившая разведку в Северном море, сделала открытие, которое изменило страну: одно из крупнейших когда-либо найденных морских нефтяных месторождений.
+
+
+    Многие страны, нашедшие нефть, страдают от того, что экономисты называют «ресурсным проклятием». Деньги поступают так быстро, что правительства тратят их все, другие отрасли экономики приходят в упадок, а коррупция растёт. Когда нефть заканчивается или цены падают, страна остаётся ни с чем.
+
+
+    Норвегия выбрала другой путь. Её руководители решили, что нефть принадлежит всем норвежцам — в том числе ещё не родившимся. В 1990 году правительство создало специальный фонд. Вместо того чтобы тратить доходы от экспорта нефти, их стали вкладывать за рубежом — в акции, недвижимость и облигации. Правительству разрешено тратить лишь около трёх процентов фонда в год — примерно столько, сколько приносят инвестиции.
+
+
+    План нравился не всем. Некоторые политики хотели от него отказаться и немедленно потратить деньги на дороги и больницы. Как правительство может оправдать сбережение миллиардов, когда люди хотят лучших услуг? Но руководство откладывало траты, и привычная осторожность норвежской политики победила.
+
+
+    Сегодня фонд стоит более триллиона долларов — свыше 200 000 долларов на каждого жителя страны. Ему принадлежит около 1,5% всех акций компаний мира. Несмотря на успех, перед фондом стоят непростые вопросы. Он приостановил вложения в компании, производящие оружие и табак, и наказывает фирмы, наносящие серьёзный ущерб природе.
+
+
+    Есть и ирония. Норвегия богатеет на нефти, но при этом она один из мировых лидеров по электромобилям, и переоснащение её транспортной системы идёт быстро. Добыча нефти рано или поздно снизится. Но благодаря фонду будущее Норвегии больше не зависит от выхлопов её прошлого.
+
+    '
+  questions:
+  - q: What is the 'resource curse'?
+    options:
+    - Running out of oil
+    - When resource wealth leads to waste and economic problems
+    - A tax on oil
+    - Pollution from oil
+    answer: 1
+  - q: What does Norway do with most of its oil money?
+    options:
+    - Spends it on roads
+    - Invests it abroad
+    - Gives it to citizens
+    - Keeps it in a bank in Oslo
+    answer: 1
+  - q: What kind of companies has the fund stopped investing in?
+    options:
+    - Electric car makers
+    - Weapons and tobacco companies
+    - Fishing companies
+    - Banks
+    answer: 1
+  - tf: The government can spend as much of the fund as it wants.
+    answer: false
+  - tf: Norway is a world leader in electric cars.
+    answer: true
+- id: b2-30
+  v1_unit: From the Street to the Big Top
+  title: The Story of Cirque du Soleil
+  title_ru: История Цирка дю Солей
+  text: 'In the early 1980s, a group of young street performers in a small town near Quebec City, Canada, entertained tourists for coins. They walked on stilts, juggled, breathed fire and mimicked passers-by. Among them was Guy Laliberté, an industrious and resourceful accordion player and fire-breather. Most of them lived together in a communal house and had very little money.
+
+
+    The group dreamed of creating something bigger. In 1984, Quebec was celebrating the 450th anniversary of the explorer Jacques Cartier''s arrival in Canada. The performers convinced the government to give them money for a show. They called it "Cirque du Soleil" — the Circus of the Sun.
+
+
+    Their idea was inventive. Traditional circuses used animals, and many people had begun to criticize this. Some critics treated a circus without lions and elephants with scorn, saying it was a misguided idea that would fail. But the young team believed that human skill was enough. They combined acrobats, clowns and dancers with original live music, colourful costumes and a story. There were heroes and villains, and the music harmonized with every movement on stage. The result was a theatrical, sensory experience that felt more like a dream than a traditional circus.
+
+
+    The early years were difficult. In 1987, the company spent everything it had to perform at a festival in Los Angeles. If the show failed, they wouldn''t have enough money to get home. Fortunately, it was a huge success.
+
+
+    Today, Cirque du Soleil has performed for more than 200 million people in over 70 countries, from metropolitan areas like Las Vegas to cities in China, where some shows were adapted for audiences who speak Mandarin. Performers rehearse for months, and teams of technical experts design incredible stages, including pools of water and giant moving platforms. Many of its veteran artists are former Olympic gymnasts, whose fluid movements amaze audiences every night. Not bad for a group of street performers who started with a hat full of coins.
+
+    '
+  ru: 'В начале 1980-х группа молодых уличных артистов в маленьком городке под Квебеком (Канада) развлекала туристов за монетки. Они ходили на ходулях, жонглировали, выдыхали огонь и передразнивали прохожих. Среди них был Ги Лалиберте — трудолюбивый и находчивый аккордеонист и глотатель огня. Большинство из них жили вместе в общем доме, и денег у них почти не было.
+
+
+    Группа мечтала создать что-то большее. В 1984 году Квебек отмечал 450-летие прибытия в Канаду мореплавателя Жака Картье. Артисты убедили власти дать им деньги на шоу. Они назвали его «Цирк дю Солей» — Цирк солнца.
+
+
+    Их идея была изобретательной. Традиционные цирки использовали животных, и многие уже начали это критиковать. Некоторые критики с презрением относились к цирку без львов и слонов, называя эту идею ошибочной и обречённой на провал. Но молодая команда верила, что человеческого мастерства достаточно. Они объединили акробатов, клоунов и танцоров с оригинальной живой музыкой, яркими костюмами и сюжетом. Были герои и злодеи, а музыка гармонировала с каждым движением на сцене. В итоге получилось театральное, чувственное зрелище, больше похожее на сон, чем на традиционный цирк.
+
+
+    Первые годы были трудными. В 1987 году труппа потратила всё, что у неё было, чтобы выступить на фестивале в Лос-Анджелесе. Если бы шоу провалилось, им не хватило бы денег вернуться домой. К счастью, успех был огромным.
+
+
+    Сегодня «Цирк дю Солей» выступил перед более чем 200 миллионами зрителей в более чем 70 странах — от крупных городов вроде Лас-Вегаса до городов Китая, где некоторые шоу адаптировали для зрителей, говорящих на путунхуа. Артисты репетируют месяцами, а команды технических специалистов создают невероятные сцены — с бассейнами и гигантскими движущимися платформами. Многие опытные артисты труппы — бывшие олимпийские гимнасты, чьи плавные движения каждый вечер поражают публику. Неплохо для группы уличных артистов, которые начинали со шляпы, полной монет.
+
+    '
+  questions:
+  - q: How did the founders of Cirque du Soleil start?
+    options:
+    - As Olympic gymnasts
+    - As street performers
+    - As animal trainers
+    - As actors in Las Vegas
+    answer: 1
+  - q: What was different about their circus?
+    options:
+    - It used more animals
+    - It had no animals and combined circus with music and story
+    - It was only for children
+    - It was free
+    answer: 1
+  - q: What happened in Los Angeles in 1987?
+    options:
+    - The show failed
+    - The show was a huge success
+    - The company closed
+    - They lost their tent
+    answer: 1
+  - tf: All critics loved the idea from the beginning.
+    answer: false
+  - tf: Many performers are former Olympic gymnasts.
+    answer: true

@@ -19,3 +19,52 @@ words:
 - silhouette | n | ˌsɪlʊˈwet | ˌsɪləˈwet | силуэт | a dark shape against a light background | We saw the *silhouette* of a man. | Мы увидели силуэт мужчины.
 - suburbia | n | sʌˈbɜːbiə | səˈbɜːrbiə | пригороды, жизнь в пригороде | suburbs and their way of life | They moved to *suburbia*. | Они переехали в пригород.
 - waterfront | n | ˈwɔːtəfrʌnt | ˈwɔːtərfrʌnt | набережная | the area by a river or sea | We had dinner on the *waterfront*. | Мы поужинали на набережной.
+reading:
+  title: Galveston, 1900
+  title_ru: Галвестон, 1900 год
+  text: |
+    In 1900, Galveston was one of the richest cities in Texas. Built on a low sandy island in the Gulf of Mexico, it was a busy port full of banks, shops and grand houses. Its highest point was less than three metres above the sea. Some residents had argued for building a sea wall, but the city's leaders believed it was unnecessary.
+
+    In early September, a message arrived by telegraph: a tropical storm was moving across Cuba. Today, we know that hurricanes, cyclones and typhoons are the same kind of storm, just in different oceans. But at the time, forecasting was primitive. The US Weather Bureau's official stance was that the storm would turn north towards Florida. Cuban meteorologists disagreed, warning that it would head west, towards Texas. Their warnings were ignored.
+
+    On 8 September, the storm struck Galveston with sheer, terrifying force. Winds of over 200 kilometres per hour wailed through the streets, and a wave nearly five metres high swept across the island. There was chaos everywhere. People scrambled onto roofs or climbed into the upper floors of strong buildings. In one house, a family hid behind a wardrobe as walls collapsed around them. Houses, shops, textile warehouses and churches were smashed into pieces.
+
+    By the next morning, the city looked doomed. Between 6,000 and 12,000 people had died — still the deadliest natural disaster in American history. Martial law was declared, and soldiers led by a local sergeant searched the ruins for survivors. Farm animals and poultry were lost, and fresh water was polluted. Some families lost every member; children became heirs to empty land.
+
+    Yet Galveston refused to give up. The city built a huge concrete sea wall and, remarkably, raised the level of the entire island by several metres, lifting buildings with jacks. Later, Congress passed bills to improve weather forecasting. Today, satellites and computers give consistent warnings days in advance, and people are evacuated long before a storm arrives.
+  ru: |
+    В 1900 году Галвестон был одним из самых богатых городов Техаса. Построенный на низком песчаном острове в Мексиканском заливе, он был оживлённым портом с банками, магазинами и роскошными домами. Его самая высокая точка находилась менее чем в трёх метрах над уровнем моря. Некоторые жители настаивали на строительстве волнолома, но руководство города считало, что в этом нет необходимости.
+
+    В начале сентября по телеграфу пришло сообщение: над Кубой движется тропический шторм. Сегодня мы знаем, что ураганы, циклоны и тайфуны — один и тот же тип бури, только в разных океанах. Но тогда прогнозирование было примитивным. Официальная позиция Бюро погоды США состояла в том, что шторм повернёт на север, к Флориде. Кубинские метеорологи не соглашались и предупреждали, что он пойдёт на запад, к Техасу. Их предупреждения проигнорировали.
+
+    8 сентября шторм обрушился на Галвестон с ошеломляющей силой. Ветер скоростью более 200 километров в час выл на улицах, а волна высотой почти пять метров прокатилась по острову. Повсюду царил хаос. Люди карабкались на крыши или забирались на верхние этажи прочных зданий. В одном доме семья пряталась за шкафом, пока вокруг рушились стены. Дома, магазины, текстильные склады и церкви разбивались в щепки.
+
+    К утру казалось, что город обречён. Погибли от 6000 до 12 000 человек — это до сих пор самое смертоносное стихийное бедствие в истории США. Было введено военное положение, и солдаты под командованием местного сержанта искали в руинах выживших. Погибли скот и домашняя птица, пресная вода была загрязнена. Некоторые семьи погибли целиком; дети становились наследниками пустой земли.
+
+    И всё же Галвестон не сдался. Город построил огромную бетонную дамбу и, что удивительно, поднял уровень всего острова на несколько метров, приподнимая здания домкратами. Позже Конгресс принял законы об улучшении прогнозирования погоды. Сегодня спутники и компьютеры стабильно предупреждают о буре за несколько дней, и людей эвакуируют задолго до её прихода.
+  questions:
+  - q: Why was Galveston especially vulnerable?
+    options:
+    - It was on a mountain
+    - It was on a low island less than 3 metres above the sea
+    - It had no port
+    - It was far from the sea
+    answer: 1
+  - q: Whose warnings were ignored?
+    options:
+    - The US Weather Bureau's
+    - Cuban meteorologists'
+    - The army's
+    - The mayor's
+    answer: 1
+  - q: What did Galveston do after the storm?
+    options:
+    - The city was abandoned
+    - It built a sea wall and raised the island
+    - It moved to the mainland
+    - Nothing changed
+    answer: 1
+  - tf: Hurricanes, cyclones and typhoons are the same kind of storm.
+    answer: true
+  - tf: The Galveston storm killed fewer than 1,000 people.
+    answer: false

@@ -26,3 +26,52 @@ words:
 - presupposition | n | ˌprisəpəˈzɪʃən | ˌpriːsəpəˈzɪʃən | предпосылка, допущение | something assumed | The argument rests on a false *presupposition*. | Аргумент основан на ложной предпосылке.
 - substantiate | v | səbˈstænʃɪeɪt | səbˈstænʃiːeɪt | обосновывать, подтверждать | to prove with evidence | Can you *substantiate* your claim? | Можете подтвердить своё утверждение?
 - virtuosity | n | ˌvɜːtjuːˈɒsɪti | vərtʃuːˈɑːsɪti | виртуозность | great skill | Her *virtuosity* on the violin is amazing. | Её виртуозная игра на скрипке поражает.
+reading:
+  title: Two Languages, One Mind
+  title_ru: Два языка, один разум
+  text: |
+    For much of the twentieth century, many parents and teachers believed that learning two languages at once was bad for children. They feared that a second language would undermine the first, confuse young minds and slow down learning. In some countries, children from ethnic minorities were punished for speaking their home language at school, and immigrant families were encouraged to speak only the national language at home.
+
+    Modern research has largely overturned these ideas. In fact, monolingual speakers are a minority in the world; more than half of the global population uses two or more languages every day. Studies suggest that bilingual children may have some advantages. Because their brains constantly switch between languages, many researchers believe they become better at focusing attention and ignoring distractions. Some research even suggests that being bilingual may delay the symptoms of dementia in old age by several years, although scientists continue to debate the size of these effects.
+
+    Learning a language also has social benefits. Speaking someone's language shows respect and builds solidarity. Many people who have lived abroad have experienced firsthand how even a few words in the local language can open doors. It also requires tact: understanding the culture behind the words is as important as grammar.
+
+    Language is closely linked to identity and politics. In the imperial era, European languages spread across the world, often replacing local ones. Today, some legislatures pass laws to protect national languages, while others promote more inclusive policies that value minority languages. In a few countries, people can even be prosecuted for publicly using certain languages, which shows how sensitive the issue can be.
+
+    So what should adult learners take from this? Don't be a coward about making mistakes. Fluent speakers were all beginners once. Practise in earnest, accept that you will forget words, and don't delete the language from your life when it gets hard. As the old saying goes: "To have another language is to possess a second soul."
+  ru: |
+    Большую часть XX века многие родители и учителя считали, что изучать два языка одновременно вредно для детей. Они боялись, что второй язык подорвёт первый, запутает детский ум и замедлит обучение. В некоторых странах детей из этнических меньшинств наказывали за то, что они говорили в школе на родном языке, а семьям иммигрантов советовали говорить дома только на государственном языке.
+
+    Современные исследования во многом опровергли эти представления. На самом деле одноязычные люди в мире в меньшинстве: более половины населения Земли ежедневно пользуются двумя и более языками. Исследования показывают, что у двуязычных детей могут быть некоторые преимущества. Поскольку их мозг постоянно переключается между языками, многие учёные считают, что они лучше умеют сосредотачиваться и не отвлекаться. Некоторые работы даже предполагают, что двуязычие может на несколько лет отсрочить проявления деменции в старости, хотя учёные продолжают спорить о размерах этого эффекта.
+
+    У изучения языка есть и социальные плюсы. Говоря на чужом языке, вы проявляете уважение и создаёте чувство общности. Многие, кто жил за границей, на собственном опыте убедились, как даже несколько слов на местном языке открывают двери. Это требует и такта: понимать культуру, стоящую за словами, так же важно, как знать грамматику.
+
+    Язык тесно связан с идентичностью и политикой. В имперскую эпоху европейские языки распространились по всему миру, часто вытесняя местные. Сегодня одни парламенты принимают законы о защите государственного языка, другие проводят более инклюзивную политику, ценящую языки меньшинств. В нескольких странах людей могут даже преследовать в суде за публичное использование определённых языков — это показывает, насколько щекотлив этот вопрос.
+
+    Какой же вывод сделать взрослым, изучающим язык? Не бойтесь ошибаться. Все, кто говорит свободно, когда-то были новичками. Занимайтесь всерьёз, смиритесь с тем, что будете забывать слова, и не вычёркивайте язык из жизни, когда становится трудно. Как гласит старая поговорка: «Знать другой язык — значит обладать второй душой».
+  questions:
+  - q: What did many people believe in the 20th century?
+    options:
+    - Two languages help children
+    - A second language would confuse children and undermine the first
+    - Everyone should be bilingual
+    - Languages don't matter
+    answer: 1
+  - q: What portion of the world uses two or more languages daily?
+    options:
+    - A small minority
+    - More than half
+    - About ten percent
+    - Nobody knows
+    answer: 1
+  - q: What advice does the text give adult learners?
+    options:
+    - Avoid mistakes at all costs
+    - Don't be afraid of mistakes and practise seriously
+    - Only learn grammar
+    - Give up if it gets hard
+    answer: 1
+  - tf: Scientists completely agree on the size of the benefits of bilingualism.
+    answer: false
+  - tf: Understanding culture is described as important in language learning.
+    answer: true

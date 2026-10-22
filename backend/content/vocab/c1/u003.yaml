@@ -24,3 +24,52 @@ words:
 - protagonist | n | prəʊˈtæɡənɪst | proʊˈtæɡənəst | главный герой | the main character | The *protagonist* is a teenage girl. | Главная героиня — девочка-подросток.
 - psychotic | adj | saɪˈkɒtɪk | saɪˈkɑːtɪk | психотический | having a serious mental illness that affects the sense of reality | He suffered a *psychotic* episode. | У него случился психотический эпизод.
 - subscriber | n | səbˈskraɪbə | səbsˈkraɪbər | подписчик, абонент | a person who pays for a service regularly | The magazine has 100,000 *subscribers*. | У журнала 100 000 подписчиков.
+reading:
+  title: Bread and Forgiveness
+  title_ru: Хлеб и прощение
+  text: |
+    For three generations, the Moretti family had run a small bakery in the old part of town. Every morning at five, Giorgio Moretti opened the shutters, lit the brick oven and began to mix the dough. He sifted the flour by hand, the way his grandfather had taught him, and he sprinkled the loaves with seeds before baking. By seven, a queue of customers would be waiting outside.
+
+    Giorgio's son, Luca, had grown up in the bakery, but he wanted something different. At eighteen, he announced that he was going to study business in Milan. Giorgio flushed red and banged his fist on the counter. "Our family has made bread for eighty years," he shouted. "You're ruining everything!" Luca left the next day. For seven years, the two men did not utter a single word to each other.
+
+    Then, one winter, Giorgio injured his back lifting heavy bags of flour. The doctor told him to rest for three months. The bakery would have to close. Luca's mother called him in Milan. There was a slight pause on the line. "I'll come," he said.
+
+    At first, the atmosphere in the bakery was tense. Luca had modern ideas: flexible opening hours, online orders, new recipes. Giorgio sat in a chair in the corner and criticized everything. "The mixture is too wet. There are lumps in the dough. That bread will be stale by lunchtime." But slowly, something changed. Luca began to ask his father for advice, and Giorgio began to listen to his son's ideas.
+
+    One morning, Luca baked the old family loaf exactly as his great-grandfather had. When Giorgio tasted it, the hard crust crumbled in his hand, and his eyes sparkled with tears. He found it hard to express his feelings, so he simply said, "It's perfect." Something that had been shattered years before was finally mended. Father and son were reconciled. Today, the bakery sells both the traditional loaves and Luca's new creations — and the queue outside is longer than ever.
+  ru: |
+    Три поколения семья Моретти держала маленькую пекарню в старой части города. Каждое утро в пять Джорджо Моретти открывал ставни, разжигал кирпичную печь и начинал замешивать тесто. Он просеивал муку вручную, как учил его дед, и посыпал буханки семечками перед выпечкой. К семи у дверей уже выстраивалась очередь покупателей.
+
+    Сын Джорджо, Лука, вырос в пекарне, но хотел чего-то другого. В восемнадцать он объявил, что едет изучать бизнес в Милан. Джорджо побагровел и ударил кулаком по прилавку. «Наша семья печёт хлеб восемьдесят лет! — кричал он. — Ты всё губишь!» На следующий день Лука уехал. Семь лет отец и сын не сказали друг другу ни слова.
+
+    А потом однажды зимой Джорджо повредил спину, поднимая тяжёлые мешки с мукой. Врач велел ему три месяца отдыхать. Пекарню пришлось бы закрыть. Мать Луки позвонила ему в Милан. На линии повисла небольшая пауза. «Я приеду», — сказал он.
+
+    Сначала обстановка в пекарне была напряжённой. У Луки были современные идеи: гибкий график работы, онлайн-заказы, новые рецепты. Джорджо сидел на стуле в углу и всё критиковал: «Смесь слишком жидкая. В тесте комки. Этот хлеб к обеду зачерствеет». Но понемногу что-то изменилось. Лука стал спрашивать у отца совета, а Джорджо — прислушиваться к идеям сына.
+
+    Однажды утром Лука испёк старый семейный хлеб точно так, как пёк его прадед. Когда Джорджо попробовал, твёрдая корочка раскрошилась у него в руке, а в глазах блеснули слёзы. Ему было трудно выразить свои чувства, и он просто сказал: «Идеально». То, что разбилось много лет назад, наконец было склеено. Отец и сын помирились. Сегодня пекарня продаёт и традиционный хлеб, и новые творения Луки — а очередь у дверей длиннее, чем когда-либо.
+  questions:
+  - q: Why did Giorgio get angry with Luca?
+    options:
+    - Luca broke the oven
+    - Luca decided to study business in Milan
+    - Luca sold the bakery
+    - Luca was late
+    answer: 1
+  - q: Why did Luca come back?
+    options:
+    - He lost his job
+    - His father injured his back
+    - He missed the bread
+    - The bakery was sold
+    answer: 1
+  - q: What does the bakery sell today?
+    options:
+    - Only traditional loaves
+    - Only Luca's new creations
+    - Both traditional loaves and new creations
+    - Cakes only
+    answer: 2
+  - tf: Father and son spoke regularly during the seven years.
+    answer: false
+  - tf: Giorgio was moved when he tasted the traditional loaf.
+    answer: true

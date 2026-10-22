@@ -10,3 +10,56 @@ words:
 - incarceration | n | ɪnˌkɑːsəˈreɪʃən | ˌɪnˌkɑːrsəˈreɪʃən | заключение в тюрьму | imprisonment | *Incarceration* rates are high. | Уровень заключения под стражу высокий.
 - punitive | adj | ˈpjuːnɪtɪv | ˈpjuːnətɪv | карательный | intended as punishment | They took *punitive* measures. | Они приняли карательные меры.
 - recidivism | n | rɪˈsɪdɪvɪzəm | rəˈsɪdɪvɪzəm | рецидивизм | committing crimes again | Education reduces *recidivism*. | Образование снижает рецидивизм.
+reading:
+  title: The Forger Who Fooled Göring
+  title_ru: Фальсификатор, обманувший Геринга
+  text: |
+    In May 1945, shortly after the end of the Second World War, Dutch police arrested a painter named Han van Meegeren. Allied officers had found a painting by the famous seventeenth-century Dutch artist Johannes Vermeer in the collection of Hermann Göring, one of the most powerful Nazi leaders. Records showed that van Meegeren had sold it to him. Selling a national treasure to the enemy was treason, a crime that could be punished by death.
+
+    Van Meegeren's defence was astonishing. "I did not sell a Vermeer," he said. "I painted it myself." He was a forger.
+
+    At first, no one believed him. Vermeer was an artist of enormous renown, and only about thirty-five of his works were known to exist. Experts had studied van Meegeren's "Vermeers" for years and declared them authentic. One painting had even been bought by a famous museum for a huge sum. Little was known about the chronology of Vermeer's early career, and van Meegeren had cleverly filled the gap with religious paintings that experts were happy to believe were lost masterpieces.
+
+    To prove his story, van Meegeren offered to paint another "Vermeer" in front of witnesses. Over several weeks, under guard, he did exactly that. He explained his methods: he used old canvases, mixed his own paints from historical recipes, and baked the finished paintings in an oven to make them hard and cracked like antiques.
+
+    The case became an epic story. Van Meegeren was transformed from a traitor into a national hero — the man who had fooled Göring. Göring himself was reportedly shocked when told that his treasured painting was a fake. The experts, however, were deeply humiliated.
+
+    In 1947, van Meegeren was convicted of forgery, not treason, and sentenced to one year in prison. He died of a heart attack before serving his sentence. Today, his fakes are themselves collected as artifacts of one of the greatest art scandals in history.
+  ru: |
+    В мае 1945 года, вскоре после окончания Второй мировой войны, голландская полиция арестовала художника по имени Хан ван Меегерен. Офицеры союзников обнаружили картину знаменитого голландского художника XVII века Яна Вермеера в коллекции Германа Геринга, одного из самых влиятельных нацистских лидеров. Документы показывали, что продал её ему ван Меегерен. Продажа национального достояния врагу считалась государственной изменой — преступлением, за которое грозила смертная казнь.
+
+    Защита ван Меегерена была поразительной. «Я не продавал Вермеера, — сказал он. — Я сам его написал». Он был фальсификатором.
+
+    Сначала ему никто не поверил. Вермеер был художником огромной славы, и было известно лишь около тридцати пяти его работ. Эксперты годами изучали «Вермееров» ван Меегерена и признавали их подлинными. Одну картину даже купил за огромную сумму известный музей. О хронологии раннего творчества Вермеера было мало что известно, и ван Меегерен ловко заполнил этот пробел картинами на религиозные сюжеты, которые эксперты охотно приняли за утерянные шедевры.
+
+    Чтобы доказать свою правоту, ван Меегерен предложил написать ещё одного «Вермеера» при свидетелях. В течение нескольких недель, под охраной, он так и сделал. Он рассказал о своих методах: использовал старые холсты, сам смешивал краски по историческим рецептам и запекал готовые картины в печи, чтобы они затвердели и покрылись трещинами, как антиквариат.
+
+    Дело превратилось в грандиозную историю. Ван Меегерен из предателя превратился в национального героя — человека, который обманул Геринга. Сам Геринг, говорят, был потрясён, узнав, что его драгоценная картина — подделка. А вот эксперты были глубоко унижены.
+
+    В 1947 году ван Меегерена осудили за подделку, а не за измену, и приговорили к году тюрьмы. Он умер от сердечного приступа, не успев отбыть срок. Сегодня его подделки сами коллекционируют как артефакты одного из величайших скандалов в истории искусства.
+  questions:
+  - q: Why was van Meegeren arrested?
+    options:
+    - For stealing paintings
+    - For selling a national treasure to a Nazi leader
+    - For murder
+    - For not paying taxes
+    answer: 1
+  - q: How did he prove he was a forger?
+    options:
+    - He showed receipts
+    - He painted another 'Vermeer' in front of witnesses
+    - He confessed in a letter
+    - Göring told the police
+    answer: 1
+  - q: How did he make his paintings look old?
+    options:
+    - He left them in the sun
+    - He baked them in an oven
+    - He painted cracks on them
+    - He buried them
+    answer: 1
+  - tf: Van Meegeren was convicted of treason.
+    answer: false
+  - tf: Experts had believed his paintings were authentic.
+    answer: true

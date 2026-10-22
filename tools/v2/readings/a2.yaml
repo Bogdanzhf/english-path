@@ -1,0 +1,1800 @@
+- id: a2-01
+  v1_unit: Places Around the World
+  title: Spring in Japan
+  title_ru: Весна в Японии
+  text: 'Every year, millions of people from all over the world travel to Japan in spring. Why is it such a popular place at this time of year? The answer is simple: cherry blossom. For about two weeks in late March and early April, the trees in parks and gardens are covered in soft pink flowers.
+
+
+    For the Japanese, this is a special holiday season. Families and friends sit under the trees, have picnics and watch the flowers fall like snow. People even watch the weather news to find out when the flowers will open in their town.
+
+
+    Last spring, Olivia and her husband visited Japan for the first time. They started in Tokyo, a huge city in the east of the country. They climbed Tokyo Tower and walked for hours in the beautiful old gardens. Then they took a fast train to Kyoto, a quieter town with many temples.
+
+
+    The trip was expensive. "The total cost was more than we planned," says Olivia, "but every day was amazing." Their favourite moment was the view of Mount Fuji, the most famous mountain in Japan. It still had snow on top, and some people were skiing there.
+
+
+    "Japan is a place you never forget," Olivia says. "We want to go back in autumn, because the leaves turn red and gold. People say that is just as beautiful."
+
+    '
+  ru: 'Каждый год весной миллионы людей со всего мира приезжают в Японию. Почему в это время года она так популярна? Ответ прост: цветение сакуры. Примерно на две недели в конце марта и начале апреля деревья в парках и садах покрываются нежными розовыми цветами.
+
+
+    Для японцев это особая праздничная пора. Семьи и друзья сидят под деревьями, устраивают пикники и смотрят, как цветы падают, словно снег. Люди даже смотрят прогноз погоды, чтобы узнать, когда цветы распустятся в их городе.
+
+
+    Прошлой весной Оливия с мужем впервые побывали в Японии. Они начали с Токио — огромного города на востоке страны. Они поднялись на Токийскую башню и часами гуляли по красивым старинным садам. Потом они сели на скоростной поезд до Киото — более тихого города с множеством храмов.
+
+
+    Поездка была дорогой. «В итоге она обошлась дороже, чем мы планировали, — говорит Оливия, — но каждый день был потрясающим». Их любимым моментом стал вид на Фудзи, самую известную гору Японии. На её вершине всё ещё лежал снег, и некоторые люди катались там на лыжах.
+
+
+    «Япония — это место, которое невозможно забыть, — говорит Оливия. — Мы хотим вернуться осенью, потому что листья становятся красными и золотыми. Говорят, это так же красиво».
+
+    '
+  questions:
+  - q: Why do many people visit Japan in spring?
+    options:
+    - To ski
+    - To see the cherry blossom
+    - To visit the beaches
+    - Because it's cheap
+    answer: 1
+  - q: How long do the cherry flowers last?
+    options:
+    - Two days
+    - About two weeks
+    - Two months
+    - All spring
+    answer: 1
+  - q: What was Olivia's favourite moment?
+    options:
+    - Climbing Tokyo Tower
+    - The train to Kyoto
+    - The view of Mount Fuji
+    - A picnic in a garden
+    answer: 2
+  - tf: The trip cost less than they planned.
+    answer: false
+  - tf: Olivia wants to visit Japan again in autumn.
+    answer: true
+- id: a2-02
+  v1_unit: Moving House
+  title: A New Start
+  title_ru: Новое начало
+  text: 'The Brown household consists of four people: Mr. and Mrs. Brown, their son Oliver and their daughter Lucy. For years, they lived in a small flat in a busy city. The pace of life was fast, the air was dirty, and Mrs. Brown, who has weak lungs, often felt ill. So they decided to seek a quieter life in the countryside.
+
+
+    On moving day, everyone was anxious. The weather was awful in the morning, and it rained while they loaded the van. Mr. Brown lifted the heaviest boxes, and Oliver spilled a whole box of books into a puddle. "Great start," he remarked.
+
+
+    But by the afternoon, the sun was shining. The van moved through a green landscape of hills and small farms. Lucy was eager to see the new house. She sat by the window and watched the motion of the trees in the wind.
+
+
+    The house was old, but it possessed something the flat never had: a big garden and a view of the river. The neighbours came to say hello. They were very polite and brought a cake. "Our intent is to make you feel at home," said the old woman next door.
+
+
+    In the following weeks, Mrs. Brown''s health improved rapidly. The family''s biggest desire had come true. "Sometimes a change is scary," says Mr. Brown, "but it can also be the best decision of your life."
+
+    '
+  ru: 'Семья Браунов состоит из четырёх человек: мистера и миссис Браун, их сына Оливера и дочери Люси. Много лет они жили в маленькой квартире в шумном городе. Жизнь текла в быстром темпе, воздух был грязным, а миссис Браун, у которой слабые лёгкие, часто болела. Поэтому они решили искать более спокойную жизнь за городом.
+
+
+    В день переезда все волновались. Утром погода была ужасной, и, пока они грузили фургон, шёл дождь. Мистер Браун поднимал самые тяжёлые коробки, а Оливер рассыпал целую коробку книг в лужу. «Отличное начало», — заметил он.
+
+
+    Но к обеду засияло солнце. Фургон ехал по зелёным пейзажам из холмов и маленьких ферм. Люси не терпелось увидеть новый дом. Она сидела у окна и смотрела, как качаются на ветру деревья.
+
+
+    Дом был старым, но у него было то, чего никогда не было у квартиры: большой сад и вид на реку. Соседи пришли поздороваться. Они были очень вежливы и принесли торт. «Мы хотим, чтобы вы чувствовали себя как дома», — сказала пожилая соседка.
+
+
+    В следующие недели здоровье миссис Браун быстро улучшилось. Самое большое желание семьи сбылось. «Иногда перемены пугают, — говорит мистер Браун, — но они могут стать лучшим решением в жизни».
+
+    '
+  questions:
+  - q: Why did the family move?
+    options:
+    - They wanted a bigger city
+    - They wanted a quieter, healthier life
+    - Mr. Brown got a new job
+    - The flat was too expensive
+    answer: 1
+  - q: What did Oliver do on moving day?
+    options:
+    - He lifted the heavy boxes
+    - He spilled books into a puddle
+    - He drove the van
+    - He cooked dinner
+    answer: 1
+  - q: What did the new house have?
+    options:
+    - A swimming pool
+    - A big garden and a river view
+    - Five bedrooms
+    - A shop next door
+    answer: 1
+  - tf: The neighbours were rude to the family.
+    answer: false
+  - tf: Mrs. Brown's health got better after the move.
+    answer: true
+- id: a2-03
+  v1_unit: Battles and Bravery
+  title: The Archer of the Valley
+  title_ru: Лучник из долины
+  text: 'A long time ago, a small village stood at the entrance to a green valley. The people there were farmers, not soldiers. They had hardly any weapons — only a few old swords and some bows and arrows for hunting.
+
+
+    One autumn, a messenger arrived with terrible news. An enemy army was coming. Its chief intended to take the valley and all its farms. The villagers were at a great disadvantage: there were only fifty of them, and the enemy had five hundred men.
+
+
+    "We cannot win a battle against a military army," said the old leader of the village. "Unless we use our heads." A young woman named Elena stepped forward. She was the best archer in the valley, brave and steady. "Trust me," she said. "I have a plan."
+
+
+    That night, the villagers cut down trees and put huge logs across the narrow road into the valley. Then they hid in the hills. When the enemy soldiers came in the morning, they could not move forward. Elena and her friends shot arrows from secure places in the rocks. The soldiers did not know how many people were hiding there.
+
+
+    The enemy chief twisted in his saddle and looked at the hills in fear. His men refused to obey his orders and go further. At last, the army turned back. That evening, the village was full of music and laughter. People still tell the story of Elena, the archer who saved the valley without a single real battle.
+
+    '
+  ru: 'Давным-давно у входа в зелёную долину стояла маленькая деревня. Её жители были крестьянами, а не солдатами. Оружия у них почти не было — лишь несколько старых мечей да луки со стрелами для охоты.
+
+
+    Однажды осенью гонец принёс страшную весть. Приближалось вражеское войско. Его предводитель собирался захватить долину и все её фермы. Положение деревенских было крайне невыгодным: их было всего пятьдесят, а у врага — пятьсот воинов.
+
+
+    «Мы не сможем выиграть битву против настоящей армии, — сказал старый староста деревни. — Если только не пустим в ход голову». Вперёд вышла молодая женщина по имени Елена. Она была лучшим лучником в долине — храброй и твёрдой. «Доверьтесь мне, — сказала она. — У меня есть план».
+
+
+    Той ночью жители срубили деревья и положили огромные брёвна поперёк узкой дороги в долину. Потом спрятались в холмах. Когда утром пришли вражеские солдаты, они не смогли двинуться дальше. Елена с друзьями стреляли из луков из надёжных укрытий в скалах. Солдаты не знали, сколько людей там прячется.
+
+
+    Вражеский вождь крутился в седле и со страхом смотрел на холмы. Его люди отказались подчиниться приказу и идти дальше. Наконец войско повернуло назад. В тот вечер деревня была полна музыки и смеха. Люди до сих пор рассказывают историю Елены — лучницы, которая спасла долину без единой настоящей битвы.
+
+    '
+  questions:
+  - q: What weapons did the villagers have?
+    options:
+    - Many guns
+    - Only a few swords and bows
+    - No weapons at all
+    - Big military machines
+    answer: 1
+  - q: How many soldiers did the enemy have?
+    options:
+    - Fifty
+    - One hundred
+    - Five hundred
+    - Five thousand
+    answer: 2
+  - q: What did the villagers put across the road?
+    options:
+    - Big rocks
+    - Huge logs
+    - Water
+    - Their animals
+    answer: 1
+  - tf: Elena was the best archer in the valley.
+    answer: true
+  - tf: The two armies had a long and terrible battle.
+    answer: false
+- id: a2-04
+  v1_unit: Danger and Courage
+  title: The Lifeguard
+  title_ru: Спасатель
+  text: 'Jake was nineteen and worked as a lifeguard on a quiet beach. Most days, the job was easy. He sat in the shade of a big umbrella, watched the swimmers and supplemented his student money. But one summer afternoon, everything changed.
+
+
+    The weather was hot, but the sea was rough because of a strong wind. Jake estimated the waves at two metres high. He put up a red flag and asked people not to swim. Most people obeyed, but two teenage boys did not want anyone to disturb their fun. They ran into the water, laughing.
+
+
+    A few minutes later, Jake heard a scream. One of the boys was in trouble. The waves were pulling him away from the beach. People on the sand watched in terror. Jake knew the consequences of waiting: the boy could die. He grabbed his rescue board and ran into the sea.
+
+
+    It took all his strength to swim through the waves. When he reached the boy, the victim was pale and could hardly breathe. Jake pulled him onto the board, and slowly they got back to the beach through a narrow gap between the rocks.
+
+
+    The boy was fine. Later, the town honored Jake for his courage. "I was scared too," he said. "But you can''t let fear stop you." The experience gave him great confidence. Today, Jake trains young lifeguards. "The sea is beautiful," he tells them, "but it is never without threat."
+
+    '
+  ru: 'Джейку было девятнадцать, и он работал спасателем на тихом пляже. Обычно работа была лёгкой. Он сидел в тени большого зонта, следил за пловцами и подрабатывал к студенческим деньгам. Но однажды летом всё изменилось.
+
+
+    Было жарко, но море из-за сильного ветра было бурным. Джейк оценил высоту волн в два метра. Он поднял красный флаг и попросил людей не купаться. Большинство послушались, но двое подростков не хотели, чтобы им мешали веселиться. Смеясь, они побежали в воду.
+
+
+    Через несколько минут Джейк услышал крик. Один из мальчиков попал в беду. Волны уносили его от берега. Люди на песке смотрели в ужасе. Джейк знал, к чему может привести промедление: мальчик мог погибнуть. Он схватил спасательную доску и бросился в море.
+
+
+    Чтобы проплыть сквозь волны, понадобились все его силы. Когда он добрался до мальчика, тот был бледным и едва дышал. Джейк вытащил его на доску, и они медленно вернулись на пляж через узкий проход между скалами.
+
+
+    С мальчиком всё было в порядке. Позже город наградил Джейка за смелость. «Мне тоже было страшно, — сказал он. — Но нельзя позволять страху тебя останавливать». Этот опыт придал ему огромную уверенность. Сегодня Джейк обучает молодых спасателей. «Море прекрасно, — говорит он им, — но оно всегда таит угрозу».
+
+    '
+  questions:
+  - q: Why was the sea dangerous that day?
+    options:
+    - There were sharks
+    - There was a strong wind and big waves
+    - The water was cold
+    - It was very dark
+    answer: 1
+  - q: What did Jake do before the accident?
+    options:
+    - He went home
+    - He put up a red flag
+    - He swam with the boys
+    - He called the police
+    answer: 1
+  - q: How did the boy look when Jake reached him?
+    options:
+    - Happy
+    - Pale and could hardly breathe
+    - Angry
+    - Asleep
+    answer: 1
+  - tf: Jake said he was not afraid at all.
+    answer: false
+  - tf: Now Jake trains other lifeguards.
+    answer: true
+- id: a2-05
+  v1_unit: Family History
+  title: The Photo in the Attic
+  title_ru: Фотография на чердаке
+  text: 'One rainy afternoon, Emily was helping her grandmother clean the attic. Under a pile of old boots and blankets, she found a box. Inside, wrapped in thick paper, was an old photograph in a wooden frame. It showed a young man standing next to a horse.
+
+
+    "Who is this?" Emily asked. Her grandmother''s face went silent for a moment. "That''s my grandfather, Thomas," she said. "Your ancestor. There is a family legend about him."
+
+
+    According to the story, Thomas lived in a small village near the border. One winter, the river near the village froze. A child fell through the ice and started to sink. Everyone was afraid, but Thomas ran onto the ice. He lay down at an angle to spread his weight, reached the child and pulled him out.
+
+
+    "The whole village praised him," Grandma said. "The child''s parents said he came from heaven. Later, the senior officer of the town congratulated him at a ceremony." Emily thought the story was incredible.
+
+
+    The next day, Emily searched for information online. She found an old newspaper article about the rescue! It was all true. She showed it to her relatives at a family dinner, surrounded by cousins, aunts and uncles. "We should be proud," she said. "Our family history is pure gold." Now the photo hangs in the living room, and Emily wants to proceed with her research to learn more about her family.
+
+    '
+  ru: 'Однажды дождливым днём Эмили помогала бабушке убирать чердак. Под кучей старых ботинок и одеял она нашла коробку. Внутри, завёрнутая в плотную бумагу, лежала старая фотография в деревянной рамке. На ней был молодой человек рядом с лошадью.
+
+
+    «Кто это?» — спросила Эмили. Бабушка на мгновение замолчала. «Это мой дедушка, Томас, — сказала она. — Твой предок. О нём есть семейная легенда».
+
+
+    Согласно истории, Томас жил в маленькой деревне у границы. Однажды зимой река возле деревни замёрзла. Ребёнок провалился под лёд и начал тонуть. Все боялись, но Томас выбежал на лёд. Он лёг под углом, чтобы распределить свой вес, дотянулся до ребёнка и вытащил его.
+
+
+    «Вся деревня его хвалила, — сказала бабушка. — Родители ребёнка говорили, что он послан небесами. Позже старший чиновник города поздравил его на церемонии». Эмили подумала, что история невероятная.
+
+
+    На следующий день Эмили поискала информацию в интернете. Она нашла старую газетную статью о спасении! Всё оказалось правдой. Она показала её родственникам на семейном ужине, окружённая двоюродными братьями и сёстрами, тётями и дядями. «Мы должны гордиться, — сказала она. — Наша семейная история — чистое золото». Теперь фотография висит в гостиной, а Эмили хочет продолжить исследования, чтобы больше узнать о своей семье.
+
+    '
+  questions:
+  - q: Where did Emily find the photo?
+    options:
+    - In the living room
+    - In the attic
+    - In a museum
+    - Online
+    answer: 1
+  - q: Who was the man in the photo?
+    options:
+    - Emily's father
+    - Emily's grandmother's grandfather
+    - A famous soldier
+    - A neighbour
+    answer: 1
+  - q: What did Thomas do?
+    options:
+    - He won a horse race
+    - He saved a child from the ice
+    - He built a bridge
+    - He crossed the border
+    answer: 1
+  - tf: Emily found a newspaper article about the rescue.
+    answer: true
+  - tf: The legend turned out to be false.
+    answer: false
+- id: a2-06
+  v1_unit: Work, Rest and Stress
+  title: Too Busy to Live
+  title_ru: Слишком занята, чтобы жить
+  text: 'Mia was twenty-two and studied law at university. She also worked in a restaurant three evenings a week. Her days were always busy. She got up at six, studied all day, worked until midnight and wrote essays at night. She didn''t have time to meet her friends or listen to music.
+
+
+    At first, Mia thought this was normal. "Everybody is busy," she said. But slowly, stress started to change her. She couldn''t sleep well, and she felt tired all the time. She ate dinner from a can and drank too much coffee. When her close friend Ella called, Mia didn''t answer.
+
+
+    One day, during an exam, Mia''s mind went completely blank. She couldn''t write a single word. After the exam, she sat on a bench and cried. Ella found her there. "We need to talk," she said.
+
+
+    They discussed Mia''s life for two hours. Ella helped her make a new plan. Mia cleared one evening a week for herself. She stopped working on Sundays and turned off her phone at ten o''clock. Every morning, she took a twenty-minute walk in a quiet park instead of automatically checking her emails.
+
+
+    Now Mia feels much better. Her grades are higher, and she sleeps eight hours a night. "I learned an important lesson," she says. "If you never relax, you can''t work well. Rest is not lazy — it''s necessary."
+
+    '
+  ru: 'Мие было двадцать два года, и она изучала право в университете. Ещё она работала в ресторане три вечера в неделю. Её дни всегда были загружены. Она вставала в шесть, весь день училась, работала до полуночи, а по ночам писала эссе. У неё не было времени встречаться с друзьями или слушать музыку.
+
+
+    Сначала Мия думала, что это нормально. «Все заняты», — говорила она. Но постепенно стресс начал её менять. Она плохо спала и всё время чувствовала усталость. Она ужинала консервами и пила слишком много кофе. Когда звонила её близкая подруга Элла, Мия не отвечала.
+
+
+    Однажды на экзамене у Мии в голове стало совершенно пусто. Она не смогла написать ни слова. После экзамена она села на скамейку и заплакала. Там её и нашла Элла. «Нам нужно поговорить», — сказала она.
+
+
+    Два часа они обсуждали жизнь Мии. Элла помогла ей составить новый план. Мия освободила один вечер в неделю для себя. Она перестала работать по воскресеньям и выключала телефон в десять вечера. Каждое утро, вместо того чтобы машинально проверять почту, она двадцать минут гуляла в тихом парке.
+
+
+    Теперь Мия чувствует себя гораздо лучше. Оценки стали выше, и она спит по восемь часов. «Я усвоила важный урок, — говорит она. — Если никогда не отдыхать, хорошо работать невозможно. Отдых — это не лень, это необходимость».
+
+    '
+  questions:
+  - q: What did Mia do in the evenings?
+    options:
+    - She met friends
+    - She worked in a restaurant
+    - She listened to music
+    - She went to the gym
+    answer: 1
+  - q: What happened during the exam?
+    options:
+    - She finished first
+    - She couldn't write anything
+    - She fell asleep
+    - She met Ella
+    answer: 1
+  - q: What does Mia do every morning now?
+    options:
+    - Checks her emails
+    - Walks in a park
+    - Works in the restaurant
+    - Drinks three coffees
+    answer: 1
+  - tf: Ella helped Mia make a new plan.
+    answer: true
+  - tf: Mia thinks that rest is lazy.
+    answer: false
+- id: a2-07
+  v1_unit: Science and Exploration
+  title: The Lost City on the Volcano
+  title_ru: Затерянный город на вулкане
+  text: 'Dr. Sarah Kent is a scholar of ancient history. Her occupation often takes her overseas, but her most significant mission began on a small island in the Pacific Ocean. The island has an old volcano, and local people told stories about a lost city on its side.
+
+
+    Many experts did not believe the stories. They debated the question for years. "There is no factual basis for this legend," one of her colleagues said. Nevertheless, Sarah wanted to find out the truth. It took her two years to persuade a university to pay for the trip.
+
+
+    The team departed in March: Sarah, two students of biology and a local guide. The route to the volcano was difficult. There were no roads, only narrow paths through the forest. It rained every day, and some team members felt depressed. Once, they found a colony of rare birds, and the biology students wanted to stay there for weeks!
+
+
+    On the tenth day, the guide stopped and pointed. Through the trees, they saw stone walls covered with plants. It was the ruins of a city, more than a thousand years old. Sarah could not speak. Everything fascinated her: the houses, the stone streets, even an old stone box that looked like a cage for animals.
+
+
+    Today, scientists from around the world come to study the lost city. "Never stop asking questions," Sarah tells her students. "Sometimes old stories are true."
+
+    '
+  ru: 'Доктор Сара Кент — исследователь древней истории. Её работа часто приводит её за границу, но самая важная её экспедиция началась на маленьком острове в Тихом океане. На острове есть старый вулкан, и местные жители рассказывали истории о затерянном городе на его склоне.
+
+
+    Многие эксперты не верили в эти истории. Годами они спорили об этом. «У этой легенды нет никакой фактической основы», — говорил один из её коллег. Тем не менее Сара хотела узнать правду. Ей потребовалось два года, чтобы убедить университет оплатить поездку.
+
+
+    Команда отправилась в путь в марте: Сара, двое студентов-биологов и местный проводник. Маршрут к вулкану был трудным. Дорог не было, только узкие тропы через лес. Каждый день шёл дождь, и у некоторых участников испортилось настроение. Однажды они нашли колонию редких птиц, и студенты-биологи хотели остаться там на несколько недель!
+
+
+    На десятый день проводник остановился и указал рукой. Сквозь деревья они увидели каменные стены, покрытые растениями. Это были руины города возрастом более тысячи лет. Сара не могла вымолвить ни слова. Её завораживало всё: дома, каменные улицы, даже старый каменный ящик, похожий на клетку для животных.
+
+
+    Сегодня учёные со всего мира приезжают изучать затерянный город. «Никогда не переставайте задавать вопросы, — говорит Сара своим студентам. — Иногда старые истории оказываются правдой».
+
+    '
+  questions:
+  - q: What did the local people tell stories about?
+    options:
+    - A dangerous volcano
+    - A lost city
+    - Rare birds
+    - A sunken ship
+    answer: 1
+  - q: How long did it take Sarah to get money for the trip?
+    options:
+    - Two weeks
+    - Ten days
+    - Two years
+    - Ten years
+    answer: 2
+  - q: What did the biology students find?
+    options:
+    - A colony of rare birds
+    - A stone box
+    - Old coins
+    - A new volcano
+    answer: 0
+  - tf: All the experts believed the legend from the start.
+    answer: false
+  - tf: The city is more than a thousand years old.
+    answer: true
+- id: a2-08
+  v1_unit: Paths and Destinations
+  title: The Mountain Race
+  title_ru: Горная гонка
+  text: 'Every summer, a ski resort in the Alps organizes a race for teenagers. The rules are simple. Each team gets a map and a list of instructions. They must find ten flags on the mountain and reach the final destination, an old hut at the edge of a valley, before sunset.
+
+
+    This year, Kim and her brother Paul were in the race. Kim was capable of reading any map, and Paul had broad shoulders and could carry the heavy bags. They felt confident.
+
+
+    The first part was easy. They followed a path through the forest and found five flags. But then the path disappeared. They had to concentrate on the map. Suddenly, Paul noticed something strange: another team was hiding behind a bush and looking at them. "I suspect they want to follow us," he whispered. "That''s cheating!"
+
+
+    Kim had an idea. She walked in the wrong direction for a few minutes. The other team followed. Then Kim and Paul turned quickly, ran down a hill and lost them. By the time their shadows were long, they had found all ten flags.
+
+
+    They reached the hut just before sunset. The judges concluded that Kim and Paul were the winners. They did not win a considerable amount of money — only a small cup and two free ski passes. But their delight was definite. "We succeeded because we worked as a team," Kim said. "No prize can convey how happy we feel."
+
+    '
+  ru: 'Каждое лето горнолыжный курорт в Альпах устраивает гонку для подростков. Правила простые. Каждая команда получает карту и список инструкций. Нужно найти на горе десять флажков и добраться до финиша — старой хижины на краю долины — до заката.
+
+
+    В этом году в гонке участвовали Ким и её брат Пол. Ким могла прочитать любую карту, а Пол был широкоплечим и мог нести тяжёлые сумки. Они были уверены в себе.
+
+
+    Первая часть была лёгкой. Они шли по тропинке через лес и нашли пять флажков. Но потом тропинка пропала. Пришлось сосредоточиться на карте. Вдруг Пол заметил что-то странное: другая команда пряталась за кустом и наблюдала за ними. «Подозреваю, что они хотят идти за нами, — прошептал он. — Это жульничество!»
+
+
+    У Ким появилась идея. Несколько минут она шла в неправильном направлении. Другая команда пошла следом. Тогда Ким и Пол быстро развернулись, сбежали с холма и оторвались от них. К тому времени, как их тени стали длинными, они нашли все десять флажков.
+
+
+    Они добрались до хижины прямо перед закатом. Судьи решили, что Ким и Пол — победители. Крупной суммы денег они не выиграли — только маленький кубок и два бесплатных абонемента на подъёмник. Но их радость была несомненной. «Мы победили, потому что работали как команда, — сказала Ким. — Никакой приз не передаст, как мы счастливы».
+
+    '
+  questions:
+  - q: Where was the finish of the race?
+    options:
+    - At the top of the mountain
+    - At an old hut at the edge of a valley
+    - At the ski resort hotel
+    - In the forest
+    answer: 1
+  - q: What did the other team try to do?
+    options:
+    - Steal the map
+    - Follow Kim and Paul
+    - Help Kim and Paul
+    - Hide the flags
+    answer: 1
+  - q: What did Kim and Paul win?
+    options:
+    - A lot of money
+    - A small cup and two ski passes
+    - A new map
+    - Nothing
+    answer: 1
+  - tf: Kim was good at reading maps.
+    answer: true
+  - tf: Kim and Paul arrived after sunset.
+    answer: false
+- id: a2-09
+  v1_unit: By the Ocean
+  title: The Message in a Bottle
+  title_ru: Записка в бутылке
+  text: 'Ten-year-old Lucas lives on a small island in the Atlantic Ocean. Every morning before school, he walks along the beach with his dog. He likes to look for interesting things that the waves bring in.
+
+
+    One stormy morning, Lucas stepped on something hard between two rocks. It was a glass bottle. Inside, there was a piece of paper. The storm had damaged the bottle a little, but the letter was still dry. Lucas ran home to show his mother.
+
+
+    The letter was written in English. "My name is Grace," it said. "I am eight years old, and I live in Canada. I threw this bottle into the ocean from my uncle''s boat. Perhaps it will travel around the world! If you find it, please write to me." There was an address at the bottom. The date on the letter was six years ago!
+
+
+    Lucas felt many emotions: surprise, excitement and happiness. With his mother''s help, he identified the town on a map and wrote a letter to Grace. A month later, an answer came. Grace was now fourteen. She couldn''t believe that her bottle had travelled so far. "You made me smile all day," she wrote.
+
+
+    The two children still write to each other. Last summer, Grace and her family visited the island. They swam in the sea, ate fish with a delicious taste and spent pleasant evenings on the beach. "Never throw rubbish into the sea," Lucas says with a smile. "But a message is different. Sometimes it can discover a new friend."
+
+    '
+  ru: 'Десятилетний Лукас живёт на маленьком острове в Атлантическом океане. Каждое утро перед школой он гуляет по пляжу со своей собакой. Ему нравится искать интересные вещи, которые приносят волны.
+
+
+    Однажды штормовым утром Лукас наступил на что-то твёрдое между двумя камнями. Это была стеклянная бутылка. Внутри лежал листок бумаги. Шторм немного повредил бутылку, но письмо всё ещё было сухим. Лукас побежал домой показать маме.
+
+
+    Письмо было написано по-английски. «Меня зовут Грейс, — говорилось в нём. — Мне восемь лет, и я живу в Канаде. Я бросила эту бутылку в океан с лодки моего дяди. Может быть, она обойдёт весь мир! Если ты её найдёшь, пожалуйста, напиши мне». Внизу был адрес. Дата на письме — шесть лет назад!
+
+
+    Лукас испытал много чувств: удивление, волнение и радость. С маминой помощью он нашёл город на карте и написал Грейс письмо. Через месяц пришёл ответ. Грейс было уже четырнадцать. Она не могла поверить, что её бутылка проплыла так далеко. «Ты заставил меня улыбаться весь день», — написала она.
+
+
+    Дети до сих пор переписываются. Прошлым летом Грейс с семьёй приезжала на остров. Они купались в море, ели очень вкусную рыбу и проводили приятные вечера на пляже. «Никогда не бросайте мусор в море, — говорит Лукас с улыбкой. — Но записка — это другое. Иногда она помогает найти нового друга».
+
+    '
+  questions:
+  - q: Where did Lucas find the bottle?
+    options:
+    - In the water
+    - Between two rocks on the beach
+    - In his garden
+    - On a boat
+    answer: 1
+  - q: How old was Grace when she wrote the letter?
+    options:
+    - Six
+    - Eight
+    - Ten
+    - Fourteen
+    answer: 1
+  - q: What did Grace do last summer?
+    options:
+    - She sent another bottle
+    - She visited the island
+    - She moved to the island
+    - She went to Canada
+    answer: 1
+  - tf: The letter was wet and impossible to read.
+    answer: false
+  - tf: Lucas and Grace still write to each other.
+    answer: true
+- id: a2-10
+  v1_unit: Tales and Trials
+  title: The Giant in the Fog
+  title_ru: Великан в тумане
+  text: 'This is an old tale from a town in the north. Long ago, the town was often covered in thick fog. One autumn, the citizens began to hear strange noises at night: heavy steps, broken trees and a sound like crying. In the morning, they found enormous footprints in the mud.
+
+
+    People were scared. "It''s a giant," they said. "He is violent and mad. He wants to destroy our town." The town council met and declared that the giant must be caught. The young men took their swords, and the farmers built a huge trap in the forest with a sheep inside.
+
+
+    The giant could not resist the sheep. One foggy night, the trap closed, and the giant was caught. In the morning, the whole town came to see him. He was extraordinary — as tall as a house — but he was not trying to fight. He was sitting quietly with tears in his eyes.
+
+
+    There was a trial in the town square. The judge asked the giant about his intentions. The giant revealed his sad story. His mother had died, and he had walked for weeks after her funeral, looking for someone to talk to. "I ought to say sorry for the trees," he said. "I only wanted friends."
+
+
+    His words made a strong impression on everyone. The citizens let him go and decided to get rid of their fear. The giant stayed and helped the town for many years. He carried heavy stones for new houses and, on foggy nights, he held a big lamp so that boats could find their way home.
+
+    '
+  ru: 'Это старая сказка из одного северного городка. Давным-давно город часто окутывал густой туман. Однажды осенью жители стали слышать по ночам странные звуки: тяжёлые шаги, треск деревьев и звук, похожий на плач. Утром в грязи они находили огромные следы.
+
+
+    Люди испугались. «Это великан, — говорили они. — Он жестокий и безумный. Он хочет разрушить наш город». Городской совет собрался и объявил, что великана нужно поймать. Молодые мужчины взяли мечи, а крестьяне построили в лесу огромную ловушку с овцой внутри.
+
+
+    Великан не смог устоять перед овцой. Одной туманной ночью ловушка захлопнулась, и великан попался. Утром весь город пришёл на него посмотреть. Он был необыкновенным — высотой с дом, — но и не пытался драться. Он тихо сидел со слезами на глазах.
+
+
+    На городской площади состоялся суд. Судья спросил великана о его намерениях. Великан рассказал свою грустную историю. Его мать умерла, и после похорон он несколько недель бродил в поисках того, с кем можно поговорить. «Мне следует извиниться за деревья, — сказал он. — Я только хотел найти друзей».
+
+
+    Его слова произвели на всех сильное впечатление. Жители отпустили его и решили избавиться от своего страха. Великан остался и много лет помогал городу. Он носил тяжёлые камни для новых домов, а туманными ночами держал большой фонарь, чтобы лодки могли найти дорогу домой.
+
+    '
+  questions:
+  - q: What did the citizens find in the mornings?
+    options:
+    - Dead sheep
+    - Enormous footprints
+    - Broken swords
+    - A lamp
+    answer: 1
+  - q: How did they catch the giant?
+    options:
+    - With swords
+    - In a trap with a sheep inside
+    - With a big net
+    - He came to the town himself
+    answer: 1
+  - q: Why was the giant walking around?
+    options:
+    - He wanted to destroy the town
+    - He was looking for friends after his mother's funeral
+    - He was hungry
+    - He was lost in the fog
+    answer: 1
+  - tf: The giant was violent at the trial.
+    answer: false
+  - tf: The giant helped the town for many years.
+    answer: true
+- id: a2-11
+  v1_unit: School Subjects and Museums
+  title: The Museum Trip
+  title_ru: Поездка в музей
+  text: 'Every spring, the principal of Hillside School takes the students on a trip to the city''s science museum. This year, the weather forecast was bad, and it was wet and windy. Despite the rain, everyone was excited. Admission was free for schools, and the museum had a super new exhibition about dinosaurs.
+
+
+    The children walked in a long row from room to room. In the geography hall, they saw a huge model of the Earth. In the chemistry room, a scientist showed them colourful experiments. Max, who loves astronomy, didn''t want to leave the room with the planets.
+
+
+    Then something went wrong. In the dinosaur hall, a boy named Leo touched a small dinosaur egg on a shelf. He touched it only lightly, but it fell and broke. Everyone was silent. Another boy, Sam, said loudly, "It was Leo!" He said it out of spite, because he didn''t like Leo.
+
+
+    The museum guide was a gentle old man. He did not interfere when the teacher started to talk to Leo. Then he smiled and said, "Don''t blame him. That egg was only a copy. We exhibit the real ones behind glass."
+
+
+    On the bus home, Leo was quiet. But the next day, he wrote a long report about dinosaurs, and his teacher said it was the work of a genius. "Maybe one day I''ll find a real dinosaur egg," he said. "Then I''ll get fame — and I''ll be very careful with it!"
+
+    '
+  ru: 'Каждую весну директор школы «Хиллсайд» возит учеников на экскурсию в городской музей науки. В этом году прогноз погоды был плохим: было сыро и ветрено. Несмотря на дождь, все были в восторге. Для школ вход был бесплатным, а в музее открылась отличная новая выставка о динозаврах.
+
+
+    Дети ходили длинной вереницей из зала в зал. В зале географии они увидели огромную модель Земли. В кабинете химии учёный показал им красочные опыты. Макс, который обожает астрономию, не хотел уходить из зала с планетами.
+
+
+    А потом что-то пошло не так. В зале динозавров мальчик по имени Лео дотронулся до маленького яйца динозавра на полке. Он коснулся его лишь слегка, но яйцо упало и разбилось. Все замолчали. Другой мальчик, Сэм, громко сказал: «Это Лео!» Он сказал это назло, потому что недолюбливал Лео.
+
+
+    Экскурсовод был добрым пожилым человеком. Он не вмешивался, когда учительница начала говорить с Лео. Потом он улыбнулся и сказал: «Не вините его. То яйцо было всего лишь копией. Настоящие мы выставляем за стеклом».
+
+
+    В автобусе по дороге домой Лео молчал. Но на следующий день он написал большой доклад о динозаврах, и учительница сказала, что это работа гения. «Может, однажды я найду настоящее яйцо динозавра, — сказал он. — Тогда я прославлюсь — и буду с ним очень осторожен!»
+
+    '
+  questions:
+  - q: What was new at the museum?
+    options:
+    - A planet room
+    - An exhibition about dinosaurs
+    - A chemistry café
+    - A geography film
+    answer: 1
+  - q: Why did Sam say that Leo broke the egg?
+    options:
+    - Because he wanted to help
+    - Out of spite
+    - Because the guide asked
+    - Because he saw nothing
+    answer: 1
+  - q: Why was the guide not angry?
+    options:
+    - The egg was only a copy
+    - He didn't see it
+    - Leo paid for it
+    - He liked Leo
+    answer: 0
+  - tf: The weather was sunny that day.
+    answer: false
+  - tf: Leo wrote a report about dinosaurs the next day.
+    answer: true
+- id: a2-12
+  v1_unit: Money and the Kitchen
+  title: The Bakery on Rose Street
+  title_ru: Пекарня на Роуз-стрит
+  text: 'For thirty years, Mr. Bianchi baked bread in his small bakery on Rose Street. He used simple ingredients — flour, water, salt — and his bread was the best in town. But when a big supermarket opened nearby, the number of customers decreased. Soon Mr. Bianchi was in debt. He couldn''t afford to pay the rent.
+
+
+    The owner of the building was not a generous man. He wanted to convert the bakery into an expensive shop. He insisted that Mr. Bianchi leave by the end of the month. "It''s not my fault," Mr. Bianchi said sadly, "but I am too old to fight." He was a quiet, passive man.
+
+
+    His granddaughter Sofia was different. "We can''t just accept this," she said. She started an online fund called "Save Our Bakery" and asked people to help. She monitored the fund every day. At first, only small quantities of money came in. Then a local newspaper wrote about the story, and everything changed.
+
+
+    People from all over the city came to buy bread. They brought candles and flowers and left messages on the door. Some people opposed the owner''s plan at a town meeting. One customer, a lawyer, even offered to sue the owner for free, because he was abusing his power.
+
+
+    In the end, there was enough money to pay the debt and buy the building. The bakery is now busier than ever. Every morning there is a mess of flour on the floor and a queue outside. "I learned something," says Mr. Bianchi. "Good bread is like good friends — you never know how much you have until you need them."
+
+    '
+  ru: 'Тридцать лет мистер Бьянки пёк хлеб в своей маленькой пекарне на Роуз-стрит. Он использовал простые ингредиенты — муку, воду, соль, — и его хлеб был лучшим в городе. Но когда рядом открылся большой супермаркет, покупателей стало меньше. Вскоре мистер Бьянки влез в долги. Он не мог позволить себе платить аренду.
+
+
+    Владелец здания не был щедрым человеком. Он хотел переделать пекарню в дорогой магазин. Он настаивал, чтобы мистер Бьянки съехал к концу месяца. «Я не виноват, — грустно говорил мистер Бьянки, — но я слишком стар, чтобы бороться». Он был тихим, пассивным человеком.
+
+
+    Его внучка София была другой. «Мы не можем просто смириться», — сказала она. Она открыла онлайн-фонд «Спасём нашу пекарню» и попросила людей помочь. Каждый день она следила за фондом. Сначала поступали лишь небольшие суммы. Потом о этой истории написала местная газета, и всё изменилось.
+
+
+    Люди со всего города приходили покупать хлеб. Они приносили свечи и цветы и оставляли записки на двери. Некоторые выступили против плана владельца на городском собрании. Один покупатель, юрист, даже предложил бесплатно подать на владельца в суд, потому что тот злоупотреблял своей властью.
+
+
+    В итоге денег хватило, чтобы погасить долг и выкупить здание. Теперь в пекарне больше покупателей, чем когда-либо. Каждое утро на полу мука, а снаружи — очередь. «Я кое-что понял, — говорит мистер Бьянки. — Хороший хлеб — как хорошие друзья: не знаешь, сколько их у тебя, пока они не понадобятся».
+
+    '
+  questions:
+  - q: Why did the bakery lose customers?
+    options:
+    - The bread was bad
+    - A big supermarket opened nearby
+    - Mr. Bianchi was ill
+    - The prices were too high
+    answer: 1
+  - q: What did the building owner want to do?
+    options:
+    - Buy the bakery
+    - Convert it into an expensive shop
+    - Help Mr. Bianchi
+    - Open a second bakery
+    answer: 1
+  - q: What did Sofia start?
+    options:
+    - A new bakery
+    - An online fund
+    - A newspaper
+    - A lawsuit
+    answer: 1
+  - tf: Mr. Bianchi was an active, fighting person.
+    answer: false
+  - tf: In the end, they bought the building.
+    answer: true
+- id: a2-13
+  v1_unit: Reaching the Top
+  title: The Climb
+  title_ru: Восхождение
+  text: 'Anna had always dreamed of climbing a big mountain. But she had a problem: intense anxiety. Even a small hill made her heart beat fast. Her initial idea was to quit before she started. Instead, she decided to consult a climbing tutor named Pete.
+
+
+    Pete was a former army officer who had climbed peaks all over the world. "I can''t guarantee success," he told her. "But you have potential. Fear is normal. We''ll start small." For six months, they trained together. At first, Anna climbed tiny rocks in the park. Then they went to real mountains.
+
+
+    Finally, Pete thought she was ready for a big challenge: a mountain in Scotland, more than a thousand metres high. A friend lent Anna good boots, and she bought adequate equipment. On the morning of the climb, her head was spinning with nerves.
+
+
+    Halfway up, the weather changed. Thick clouds came, and a man from another group fell and hurt his leg. It was an emergency. Anna forgot her fear. She called the rescue team and stayed with the man, keeping him warm, until a helicopter arrived. Pete was very proud.
+
+
+    After the helicopter left, they continued and reached the peak. Anna carved her initials on a small stone and put it in her pocket as proof. She didn''t make a fortune or become famous, but she felt more pride than a billion dollars could buy. "Fear is not a wall," she says now. "It''s a door."
+
+    '
+  ru: 'Анна всегда мечтала подняться на большую гору. Но у неё была проблема — сильная тревожность. Даже небольшой холм заставлял её сердце колотиться. Сначала она хотела бросить, не начав. Вместо этого она решила посоветоваться с инструктором по скалолазанию по имени Пит.
+
+
+    Пит был бывшим армейским офицером, покорявшим вершины по всему миру. «Не могу гарантировать успех, — сказал он ей. — Но у тебя есть потенциал. Страх — это нормально. Начнём с малого». Полгода они тренировались вместе. Сначала Анна лазила по крошечным скалам в парке. Потом они поехали в настоящие горы.
+
+
+    Наконец Пит решил, что она готова к серьёзному испытанию — горе в Шотландии высотой более тысячи метров. Подруга одолжила Анне хорошие ботинки, а подходящее снаряжение она купила сама. Утром в день восхождения у неё от волнения кружилась голова.
+
+
+    На полпути погода изменилась. Пришли густые облака, а мужчина из другой группы упал и повредил ногу. Это была чрезвычайная ситуация. Анна забыла о страхе. Она вызвала спасателей и оставалась с мужчиной, согревая его, пока не прилетел вертолёт. Пит очень ею гордился.
+
+
+    Когда вертолёт улетел, они продолжили путь и поднялись на вершину. Анна вырезала свои инициалы на маленьком камне и положила его в карман как доказательство. Она не разбогатела и не прославилась, но испытала гордость, которую не купишь и за миллиард долларов. «Страх — это не стена, — говорит она теперь. — Это дверь».
+
+    '
+  questions:
+  - q: What was Anna's problem?
+    options:
+    - She had no money
+    - Intense anxiety
+    - A bad leg
+    - She had no time
+    answer: 1
+  - q: Who was Pete?
+    options:
+    - Anna's brother
+    - A climbing tutor and former army officer
+    - A doctor
+    - A helicopter pilot
+    answer: 1
+  - q: What happened halfway up the mountain?
+    options:
+    - Anna fell
+    - A man from another group hurt his leg
+    - They lost their way
+    - Pete got ill
+    answer: 1
+  - tf: Anna and Pete reached the peak.
+    answer: true
+  - tf: Anna became rich and famous after the climb.
+    answer: false
+- id: a2-14
+  v1_unit: University Life
+  title: Music Without Sight
+  title_ru: Музыка без зрения
+  text: 'When Daniel arrived at university, it was apparent to everyone that he was different. He was blind. He had lost his vision as a child after a severe illness. But Daniel had an obvious talent: music. He studied physics, but in his free time he composed beautiful songs on the piano.
+
+
+    At first, life in the dormitory was hard. Some students ignored him because they didn''t know how to talk to him. Daniel spent many evenings alone in his room, chatting with his family online.
+
+
+    Everything changed when he met Lisa, the secretary of the university music club. She heard him playing the piano one evening and couldn''t believe her ears. "You must join the club," she said. Daniel was nervous, but he agreed.
+
+
+    The club was preparing a concert. Daniel committed himself completely. He wrote a new piece of music and practised every night until he was exhausted. Lisa reminded him to eat and sleep. She even helped him calculate the times for each part of the concert.
+
+
+    The concert took place in the old greenhouse in the university garden. Everyone wore the club uniform: white shirts and black trousers. When Daniel played the final portion of his piece, the room was completely silent. Then everybody stood up and applauded. Today, Daniel is writing his thesis in physics — and he has already recorded his first album.
+
+    '
+  ru: 'Когда Дэниел поступил в университет, всем сразу стало ясно, что он не такой, как все. Он был слепым. Он потерял зрение в детстве после тяжёлой болезни. Но у Дэниела был явный талант — музыка. Он изучал физику, а в свободное время сочинял красивые песни на пианино.
+
+
+    Сначала жить в общежитии было тяжело. Некоторые студенты не обращали на него внимания, потому что не знали, как с ним говорить. Много вечеров Дэниел проводил один в комнате, болтая с семьёй по интернету.
+
+
+    Всё изменилось, когда он познакомился с Лизой, секретарём университетского музыкального клуба. Однажды вечером она услышала, как он играет на пианино, и не поверила своим ушам. «Ты обязан вступить в клуб», — сказала она. Дэниел волновался, но согласился.
+
+
+    Клуб готовил концерт. Дэниел отдался этому полностью. Он написал новое произведение и репетировал каждый вечер до изнеможения. Лиза напоминала ему есть и спать. Она даже помогла рассчитать время для каждой части концерта.
+
+
+    Концерт проходил в старой оранжерее в университетском саду. Все были в форме клуба: белые рубашки и чёрные брюки. Когда Дэниел сыграл заключительную часть своего произведения, в зале стояла полная тишина. А потом все встали и зааплодировали. Сегодня Дэниел пишет диплом по физике — и уже записал свой первый альбом.
+
+    '
+  questions:
+  - q: Why was Daniel blind?
+    options:
+    - He was born blind
+    - After a severe illness as a child
+    - After an accident at university
+    - We don't know
+    answer: 1
+  - q: What did Daniel study?
+    options:
+    - Music
+    - Physics
+    - Biology
+    - Art
+    answer: 1
+  - q: Where did the concert take place?
+    options:
+    - In the dormitory
+    - In an old greenhouse
+    - In a big theatre
+    - Online
+    answer: 1
+  - tf: Lisa helped Daniel prepare for the concert.
+    answer: true
+  - tf: The audience didn't like Daniel's music.
+    answer: false
+- id: a2-15
+  v1_unit: Giving and Growing
+  title: The Garden of Three Generations
+  title_ru: Сад трёх поколений
+  text: 'In a poor area of the city, there was an empty piece of land full of rubbish and mud. For years, nobody used it. Then Helen, a retired teacher, had an idea: why not turn it into a community garden?
+
+
+    Helen asked a local charitable foundation for help. She wrote to the committee, and they agreed to donate money for tools and seeds. A building company even sent a crew to clean the land for free. Their boss said, "It''s not in our contract, but it''s a good thing to do."
+
+
+    Then the real work began. Volunteers of every generation came — children, parents and grandparents. They dug the ground, removed stones and added a thick layer of new soil. The children made smooth paths with small stones. Helen showed them how the soil absorbs rainwater and feeds the plants.
+
+
+    Helen devoted every morning to the garden. After a year, it was full of life. There were tomatoes, beans, herbs and flowers. The vegetables had a flavor that you can''t find in a supermarket. Every Friday evening, the neighbours dined together at long tables in the garden.
+
+
+    Today, the garden is famous in the city. It''s unique because three generations work in it side by side. "Before, we didn''t know our neighbours," says Helen. "Now we have a double harvest: food for the body and friends for the heart." And at the gate, there''s an old watering can with a wooden handle — the first thing Helen ever bought for the garden.
+
+    '
+  ru: 'В бедном районе города был пустой участок земли, полный мусора и грязи. Годами им никто не пользовался. Потом Хелен, учительница на пенсии, придумала: почему бы не превратить его в общественный сад?
+
+
+    Хелен обратилась за помощью в местный благотворительный фонд. Она написала в комитет, и они согласились пожертвовать деньги на инструменты и семена. Одна строительная компания даже бесплатно прислала бригаду расчистить участок. Их начальник сказал: «Этого нет в нашем договоре, но это хорошее дело».
+
+
+    Потом началась настоящая работа. Пришли добровольцы всех поколений — дети, родители, бабушки и дедушки. Они вскапывали землю, убирали камни и добавили толстый слой новой почвы. Дети выложили из мелких камешков ровные дорожки. Хелен показала им, как почва впитывает дождевую воду и питает растения.
+
+
+    Хелен посвящала саду каждое утро. Через год он был полон жизни. Там росли помидоры, фасоль, травы и цветы. У овощей был вкус, которого не найдёшь в супермаркете. Каждую пятницу вечером соседи вместе ужинали за длинными столами в саду.
+
+
+    Сегодня сад знаменит на весь город. Он уникален тем, что в нём бок о бок работают три поколения. «Раньше мы не знали своих соседей, — говорит Хелен. — А теперь у нас двойной урожай: еда для тела и друзья для души». А у калитки стоит старая лейка с деревянной ручкой — первое, что Хелен купила для сада.
+
+    '
+  questions:
+  - q: What was on the land before the garden?
+    options:
+    - An old school
+    - Rubbish and mud
+    - A car park
+    - A forest
+    answer: 1
+  - q: Who gave money for tools and seeds?
+    options:
+    - The city council
+    - A charitable foundation
+    - Helen's family
+    - A supermarket
+    answer: 1
+  - q: What do the neighbours do every Friday evening?
+    options:
+    - They dig the soil
+    - They have dinner together in the garden
+    - They sell vegetables
+    - They have a meeting
+    answer: 1
+  - tf: Only old people work in the garden.
+    answer: false
+  - tf: The building company cleaned the land for free.
+    answer: true
+- id: a2-16
+  v1_unit: Secrets of the Past
+  title: The Room Behind the Stage
+  title_ru: Комната за сценой
+  text: 'The Royal Theater is one of the oldest buildings in the county. It was built in the 18th century by a rich gentleman named Lord Ashford, who lost most of his wealth on it. Today, students from the drama academy perform there, and on Saturdays there are concerts.
+
+
+    Last winter, workers were repairing the old stage. One of them, Jack, was pounding on the floor boards with a hammer when he heard a strange sound. The floor was hollow! Under the flat boards, there was a small door. Jack called the manager, and together they opened it.
+
+
+    Behind the door was a hidden room. It was full of ancient objects: masks, costumes, letters and a thick book. The book was Lord Ashford''s diary. Nobody knew that it existed. Maybe he hid it there before he died.
+
+
+    A history professor came to study the diary. The process was slow, because the handwriting was difficult to read and many words were not in a modern dictionary. But slowly, the clues came together. The diary told the story of the original theater: its first plays, its famous actors and a fire in 1790 that nearly destroyed it.
+
+
+    The story was so interesting that a local publisher decided to publish the diary as a book. A police officer even helped to guard the room while the objects were moved to a museum. "Every old building has secrets," says the theater manager. "We were lucky — ours told us its story."
+
+    '
+  ru: 'Королевский театр — одно из старейших зданий графства. Его построил в XVIII веке богатый джентльмен по имени лорд Эшфорд, который потратил на него большую часть своего состояния. Сегодня там выступают студенты театральной академии, а по субботам проходят концерты.
+
+
+    Прошлой зимой рабочие ремонтировали старую сцену. Один из них, Джек, стучал молотком по половицам, как вдруг услышал странный звук. Под полом была пустота! Под ровными досками оказалась маленькая дверца. Джек позвал директора, и вместе они её открыли.
+
+
+    За дверцей была потайная комната. Она была полна старинных вещей: масок, костюмов, писем и толстой книги. Книга оказалась дневником лорда Эшфорда. Никто не знал о его существовании. Может быть, он спрятал его там перед смертью.
+
+
+    Изучать дневник приехал профессор истории. Процесс шёл медленно: почерк было трудно разобрать, а многих слов не было в современном словаре. Но постепенно подсказки складывались вместе. Дневник рассказывал историю первоначального театра: его первые спектакли, знаменитых актёров и пожар 1790 года, который чуть его не уничтожил.
+
+
+    История оказалась настолько интересной, что местное издательство решило выпустить дневник книгой. Полицейский даже помогал охранять комнату, пока вещи перевозили в музей. «У каждого старого здания есть тайны, — говорит директор театра. — Нам повезло — наше рассказало свою историю».
+
+    '
+  questions:
+  - q: Who built the theater?
+    options:
+    - The drama academy
+    - A rich gentleman, Lord Ashford
+    - The county council
+    - A famous actor
+    answer: 1
+  - q: How did Jack find the hidden room?
+    options:
+    - He found a map
+    - The floor sounded hollow when he hit it
+    - A professor told him
+    - He saw a light
+    answer: 1
+  - q: Why was reading the diary slow?
+    options:
+    - It was in Latin
+    - The handwriting was difficult and some words were old
+    - It was wet
+    - Pages were missing
+    answer: 1
+  - tf: Everybody knew about the diary before it was found.
+    answer: false
+  - tf: The diary was published as a book.
+    answer: true
+- id: a2-17
+  v1_unit: Inventions and Work
+  title: The Junior Mechanic
+  title_ru: Младший механик
+  text: 'Tom was nineteen and worked as a junior mechanic in a small garage. His job was mostly labor: changing oil, fixing tyres and cleaning engines. The older mechanics often criticized him. "You''re too slow," they said. But Tom had an aim: one day, he wanted to invent something useful.
+
+
+    Tom commuted to work by bike every day. One problem worried him: in the dark, car drivers couldn''t see cyclists well. Lights on bikes were small, and drivers often didn''t notice when a cyclist wanted to turn.
+
+
+    So, after his shift, Tom started working on an idea. He attached a small screen to the back of a bike helmet. When the cyclist moved his head to the left or right, the screen showed a bright arrow — a signal for drivers. The expense was small; he used old parts from the garage.
+
+
+    His boss saw the helmet and laughed. "I bet nobody will buy it," he said. But Tom''s sister, a student, made a video about it and posted it online. In a week, a million people watched it. A big company called Tom and confirmed that they wanted to buy his idea.
+
+
+    Tom had to go to a formal meeting in a suit. Opinions about his invention differed, but the company''s prime goal was safety, and they liked it. Today, the helmet is sold in many countries. Tom''s old boss sent him a message: "I was wrong. My sincere congratulations." Tom still rides his bike to work — but now it''s to his own small company.
+
+    '
+  ru: 'Тому было девятнадцать, и он работал младшим механиком в небольшой мастерской. Его работа в основном была физической: менять масло, чинить шины, мыть двигатели. Старшие механики часто его критиковали. «Ты слишком медленный», — говорили они. Но у Тома была цель: однажды изобрести что-то полезное.
+
+
+    Том каждый день ездил на работу на велосипеде. Его беспокоила одна проблема: в темноте водители плохо видели велосипедистов. Фонарики на велосипедах были маленькими, и водители часто не замечали, когда велосипедист собирался повернуть.
+
+
+    И вот после смены Том начал работать над идеей. Он прикрепил маленький экран к задней части велошлема. Когда велосипедист поворачивал голову влево или вправо, на экране загоралась яркая стрелка — сигнал для водителей. Затраты были небольшими: он использовал старые детали из мастерской.
+
+
+    Начальник увидел шлем и рассмеялся. «Спорим, никто это не купит», — сказал он. Но сестра Тома, студентка, сняла про шлем видео и выложила его в интернет. За неделю его посмотрел миллион человек. Позвонили из крупной компании и подтвердили, что хотят купить его идею.
+
+
+    Тому пришлось идти на официальную встречу в костюме. Мнения о его изобретении разошлись, но главной целью компании была безопасность, и шлем им понравился. Сегодня его продают во многих странах. Бывший начальник Тома прислал ему сообщение: «Я был неправ. Мои искренние поздравления». Том по-прежнему ездит на работу на велосипеде — но теперь в свою собственную маленькую компанию.
+
+    '
+  questions:
+  - q: What problem did Tom want to solve?
+    options:
+    - Cars used too much oil
+    - Drivers couldn't see cyclists well in the dark
+    - Bikes were too expensive
+    - Helmets were uncomfortable
+    answer: 1
+  - q: What did the screen on the helmet show?
+    options:
+    - The time
+    - A bright arrow
+    - A map
+    - A video
+    answer: 1
+  - q: How did the invention become popular?
+    options:
+    - Tom's boss sold it
+    - Tom's sister posted a video online
+    - It was on TV
+    - Tom won a prize
+    answer: 1
+  - tf: Tom used expensive new parts for his invention.
+    answer: false
+  - tf: Tom's old boss apologized.
+    answer: true
+- id: a2-18
+  v1_unit: Faith and Curiosity
+  title: The Honey of the Mountain
+  title_ru: Горный мёд
+  text: 'High in the mountains of Georgia, there is an old monastery where twelve monks live. For centuries, they have worked in agriculture. They grow grain and vegetables and keep bees. Their honey is famous because it has an odd, wonderful taste that nobody can copy.
+
+
+    Last year, a young scientist named Nina visited the monastery. She was curious about the honey. In her profession, she studied food chemistry, and she wanted to investigate what made it so special. The monks greeted her warmly, but at first they didn''t want to share their secrets.
+
+
+    Nina stayed for a month. She helped in the fields and listened to the old monks'' stories. Every evening, she wrote in her diary. Slowly, she convinced them that she wanted to learn, not to steal. Finally, the oldest monk, Brother Ilya, showed her a small room with a low ceiling. Inside were hundreds of jars with handwritten labels.
+
+
+    "The secret has three elements," he said, and paused. "The wild flowers on the mountain, the clean air — and patience. We never take all the honey. We leave enough for the bees." Nina realized that this simple ability — to wait and to share — was more important than any chemistry.
+
+
+    When Nina returned home, she delayed writing her scientific report. Instead, she drew a small cartoon of Brother Ilya and his bees and sent it to the monastery with a letter. The local priest read it to the monks, and they laughed with joy. "She understood," Brother Ilya said. "Faith is not only about God. It''s also about trusting nature."
+
+    '
+  ru: 'Высоко в горах Грузии есть старый монастырь, где живут двенадцать монахов. Веками они занимаются сельским хозяйством. Они выращивают зерно и овощи и держат пчёл. Их мёд знаменит своим необычным чудесным вкусом, который никому не удаётся повторить.
+
+
+    В прошлом году в монастырь приехала молодая учёная по имени Нина. Её заинтересовал мёд. По профессии она изучала химию продуктов и хотела выяснить, что делает его таким особенным. Монахи тепло её встретили, но сначала не хотели делиться секретами.
+
+
+    Нина прожила там месяц. Она помогала в полях и слушала истории старых монахов. Каждый вечер она писала в дневник. Постепенно она убедила их, что хочет учиться, а не красть. Наконец самый старый монах, брат Илья, показал ей маленькую комнату с низким потолком. Внутри стояли сотни банок с подписанными от руки этикетками.
+
+
+    «У секрета три составляющие», — сказал он и сделал паузу. — «Дикие цветы на горе, чистый воздух — и терпение. Мы никогда не забираем весь мёд. Мы оставляем достаточно для пчёл». Нина поняла, что эта простая способность — ждать и делиться — важнее любой химии.
+
+
+    Вернувшись домой, Нина отложила научный отчёт. Вместо этого она нарисовала маленькую карикатуру на брата Илью с его пчёлами и отправила её в монастырь вместе с письмом. Местный священник прочитал его монахам, и они радостно рассмеялись. «Она поняла, — сказал брат Илья. — Вера — это не только о Боге. Это ещё и доверие к природе».
+
+    '
+  questions:
+  - q: What is special about the monks' honey?
+    options:
+    - It is very cheap
+    - It has an odd, wonderful taste
+    - It is blue
+    - It is made in a factory
+    answer: 1
+  - q: What was Nina's profession?
+    options:
+    - A priest
+    - A food chemist
+    - A farmer
+    - An artist
+    answer: 1
+  - q: What are the three elements of the secret?
+    options:
+    - Sugar, water and heat
+    - Wild flowers, clean air and patience
+    - Old jars, labels and chemistry
+    - Bees, grain and vegetables
+    answer: 1
+  - tf: The monks shared their secret on the first day.
+    answer: false
+  - tf: Nina sent the monks a cartoon.
+    answer: true
+- id: a2-19
+  v1_unit: Jobs and Pets
+  title: A Job at the Pet Shop
+  title_ru: Работа в зоомагазине
+  text: 'When Ella was sixteen, she wanted a summer job. She loved animals, so she was very happy when a small pet shop in her town offered her a job. The owner, Mr. Green, was an old man with a white beard who drank tea all day.
+
+
+    On her first day, Ella learned that the job was not only about playing with animals. She had to clean the cages, feed the fish and sell products like food, toys and balls for dogs. "You are responsible for the animals now," Mr. Green said. "They depend on you."
+
+
+    The shop had many types of animals: cats, rabbits, birds — and a long green snake called Monty. Ella was afraid of him at first. He stood very still in his glass box, and only his tongue moved in and out. "He''s tasting the air," Mr. Green explained. "Snakes are strange, but they are not evil."
+
+
+    One day, a big pet company visited the shop. They wanted to buy it and sell expensive products. Mr. Green said no. "Few people care about animals as much as they care about money," he said. A long line of customers waited outside that afternoon to support him.
+
+
+    At the end of the summer, Ella had a test at school about animals. She got the highest grade in her class. "The best teacher was not at school," she said. "It was an old man and a snake at the bottom of the street."
+
+    '
+  ru: 'Когда Элле было шестнадцать, она захотела найти работу на лето. Она любила животных, поэтому очень обрадовалась, когда маленький зоомагазин в её городе предложил ей работу. Хозяин, мистер Грин, был стариком с белой бородой, который целыми днями пил чай.
+
+
+    В первый же день Элла узнала, что работа — это не только игры с животными. Ей нужно было чистить клетки, кормить рыбок и продавать товары — корм, игрушки и мячики для собак. «Теперь ты отвечаешь за животных, — сказал мистер Грин. — Они зависят от тебя».
+
+
+    В магазине было много видов животных: кошки, кролики, птицы — и длинная зелёная змея по кличке Монти. Сначала Элла её боялась. Монти неподвижно стоял в стеклянном ящике, и двигался только его язык — туда-сюда. «Он пробует воздух на вкус, — объяснил мистер Грин. — Змеи странные, но не злые».
+
+
+    Однажды в магазин пришли представители крупной компании товаров для животных. Они хотели купить магазин и продавать дорогие товары. Мистер Грин отказал. «Мало кто заботится о животных так же, как о деньгах», — сказал он. В тот день у магазина выстроилась длинная очередь покупателей, чтобы поддержать его.
+
+
+    В конце лета у Эллы в школе была контрольная о животных. Она получила самую высокую оценку в классе. «Лучший учитель был не в школе, — сказала она. — Это был старик со змеёй в конце улицы».
+
+    '
+  questions:
+  - q: What did Mr. Green drink all day?
+    options:
+    - Coffee
+    - Water
+    - Tea
+    - Juice
+    answer: 2
+  - q: Why does the snake move its tongue?
+    options:
+    - It is hungry
+    - It is tasting the air
+    - It is angry
+    - It wants to play
+    answer: 1
+  - q: What did the big company want?
+    options:
+    - To give Ella a job
+    - To buy the shop
+    - To buy Monty
+    - To close the street
+    answer: 1
+  - tf: Ella was afraid of the snake at first.
+    answer: true
+  - tf: Mr. Green agreed to sell the shop.
+    answer: false
+- id: a2-20
+  v1_unit: A New Country
+  title: From Nothing to Everything
+  title_ru: С нуля до всего
+  text: 'Statistics show that many immigrants start their own businesses. This is the story of one of them. Thirty years ago, Ahmed arrived in Canada with his wife, two children and one suitcase. They came from a country where poverty and war were part of everyday life.
+
+
+    Life in the new country was hard. Ahmed''s English was elementary, and the language was a big barrier. He had been an engineer at home, but here nobody approved his diploma. To pay the rent, he worked nights in a factory. His wife cleaned offices. They never pretended that life was easy, but they never complained.
+
+
+    After five years, they had saved enough money to open a small food shop. The first shop was a failure — it was in the wrong area, and they closed it after a year. But Ahmed felt it was his duty to try again. The second shop was better. They sold fresh bread, sweets from their home country and refrigerated meals that people could heat in an instant.
+
+
+    The success was gradual. First one shop, then three, then ten. Today, the family company has an approximate value of twenty million dollars. Ahmed''s son, who started in the company at the lowest rank, is now the manager. Last year, Ahmed received recognition from the city for helping other immigrants find jobs.
+
+
+    Ahmed retired last month. When journalists asked him how he accomplished so much, he smiled. "In the beginning, nobody could detect our talents," he said. "We just had to show them, one day at a time."
+
+    '
+  ru: 'Статистика показывает, что многие иммигранты открывают собственный бизнес. Это история одного из них. Тридцать лет назад Ахмед приехал в Канаду с женой, двумя детьми и одним чемоданом. Они приехали из страны, где бедность и война были частью повседневной жизни.
+
+
+    Жизнь в новой стране была трудной. Английский у Ахмеда был начального уровня, и язык стал большим барьером. На родине он был инженером, но здесь его диплом никто не признал. Чтобы платить за жильё, он работал по ночам на заводе. Жена убирала офисы. Они никогда не притворялись, что жизнь лёгкая, но никогда и не жаловались.
+
+
+    Через пять лет они накопили достаточно денег, чтобы открыть маленький продуктовый магазин. Первый магазин провалился — он был в неудачном районе, и через год его закрыли. Но Ахмед считал своим долгом попробовать снова. Второй магазин оказался лучше. Они продавали свежий хлеб, сладости с родины и охлаждённые готовые блюда, которые можно разогреть за мгновение.
+
+
+    Успех пришёл постепенно. Сначала один магазин, потом три, потом десять. Сегодня семейная компания стоит примерно двадцать миллионов долларов. Сын Ахмеда, начинавший в компании с самой низкой должности, теперь её руководитель. В прошлом году город отметил Ахмеда за помощь другим иммигрантам в поиске работы.
+
+
+    В прошлом месяце Ахмед вышел на пенсию. Когда журналисты спросили, как ему удалось добиться так многого, он улыбнулся. «В начале никто не мог разглядеть наших талантов, — сказал он. — Нам просто нужно было показать их, день за днём».
+
+    '
+  questions:
+  - q: What was Ahmed's profession in his home country?
+    options:
+    - A shop owner
+    - An engineer
+    - A factory worker
+    - A teacher
+    answer: 1
+  - q: Why did the first shop fail?
+    options:
+    - The food was bad
+    - It was in the wrong area
+    - Ahmed was ill
+    - The rent was too high
+    answer: 1
+  - q: Who is the manager of the company now?
+    options:
+    - Ahmed
+    - Ahmed's wife
+    - Ahmed's son
+    - A journalist
+    answer: 2
+  - tf: The success came very quickly.
+    answer: false
+  - tf: Ahmed helped other immigrants find jobs.
+    answer: true
+- id: a2-21
+  v1_unit: Under the Ground and in Space
+  title: The Miner's Daughter
+  title_ru: Дочь шахтёра
+  text: 'Katya grew up in a small mining town. Her father was a miner who worked underground every day, digging for coal and other minerals. When she was eight, he had an accident in the mine. He survived, but he could never work again.
+
+
+    That year, Katya''s father gave her a present: an old telescope. At night, when she couldn''t sleep, she stayed awake and looked at the stars. "Down there, it''s dark," her father said. "But up there, everything shines. Maybe you will go there one day." Katya never forgot his words.
+
+
+    She worked very hard at school. She never skipped a class, and she participated in every science competition. The government granted her a place at a top university, where she studied physics and engineering. Later, she worked on satellites and learned about the huge scale of space.
+
+
+    At thirty, Katya applied to become an astronaut. Thousands of people applied, but only six were chosen. She was one of them. Training was tough. She learned to live without gravity, to float in water tanks and to eat raw vegetables grown in special boxes.
+
+
+    Finally, she got permission to fly to the space station. On her first night there, she stretched her arms and looked down at the Earth, which looked like a blue jewel. Tears poured down her face. "Dad," she whispered into the radio, "it took courage to go underground every day. Now I''m going up for both of us."
+
+    '
+  ru: 'Катя выросла в маленьком шахтёрском городке. Её отец был шахтёром и каждый день работал под землёй, добывая уголь и другие полезные ископаемые. Когда ей было восемь, в шахте с ним произошёл несчастный случай. Он выжил, но больше не мог работать.
+
+
+    В тот год отец подарил Кате подарок — старый телескоп. По ночам, когда ей не спалось, она не спала и смотрела на звёзды. «Там, внизу, темно, — говорил отец. — А там, наверху, всё сияет. Может, однажды ты туда полетишь». Катя никогда не забывала его слов.
+
+
+    Она очень усердно училась в школе. Она не пропустила ни одного урока и участвовала во всех научных олимпиадах. Государство предоставило ей место в одном из лучших университетов, где она изучала физику и инженерное дело. Позже она работала над спутниками и узнала об огромных масштабах космоса.
+
+
+    В тридцать лет Катя подала заявку в космонавты. Заявки подали тысячи людей, но выбрали только шестерых. Она была одной из них. Подготовка была тяжёлой. Она училась жить без гравитации, парить в бассейнах и есть сырые овощи, выращенные в специальных ящиках.
+
+
+    Наконец она получила разрешение лететь на космическую станцию. В первую ночь там она потянулась и посмотрела вниз на Землю, похожую на голубой драгоценный камень. По её лицу полились слёзы. «Папа, — прошептала она в рацию, — нужно было мужество, чтобы каждый день спускаться под землю. А теперь я поднимаюсь вверх за нас обоих».
+
+    '
+  questions:
+  - q: What happened to Katya's father?
+    options:
+    - He became an astronaut
+    - He had an accident in the mine
+    - He moved to the city
+    - He bought a telescope shop
+    answer: 1
+  - q: What did Katya do with the telescope?
+    options:
+    - She sold it
+    - She looked at the stars at night
+    - She gave it to her school
+    - She broke it
+    answer: 1
+  - q: How many people were chosen to become astronauts?
+    options:
+    - One
+    - Six
+    - Thirty
+    - Thousands
+    answer: 1
+  - tf: Katya often skipped classes at school.
+    answer: false
+  - tf: From space, the Earth looked like a blue jewel.
+    answer: true
+- id: a2-22
+  v1_unit: Contests and Crimes
+  title: The Prize Pup
+  title_ru: Щенок-победитель
+  text: 'Every summer, the town of Millbrook has a festival with music, food and a famous dog contest. This year, a ten-year-old girl named Rosie entered her pup, Biscuit. He was not an expensive breed — just a small, fluffy brown dog that Rosie found in her yard one winter. But he was clever and somewhat funny, and he qualified for the final.
+
+
+    On the morning of the final, there was a problem. Biscuit was gone! Someone had opened the garage where he slept. Rosie cried and cried, and her mother gave her tissue after tissue. Her father called the police.
+
+
+    A journalist from the local newspaper heard the story and wrote about it online. Hundreds of people started looking for Biscuit. Then, at lunchtime, a man saw something strange: another contestant, a rich man with three champion dogs, was carrying a bucket into his car. Inside the bucket, under a towel, was a small brown dog!
+
+
+    The man tried to run, but he slipped on the wet grass and fell. A police officer arrested him. Later, he was convicted of stealing. He wanted to make sure that his expensive dogs won the award. People said he had robbed the contest of its fun.
+
+
+    The contest resumed in the afternoon. Biscuit was a little scared but stable, and he did all his tricks perfectly. He won first prize! The next week, Rosie''s father repaired the garage door and put an alarm on it. "Biscuit is our champion," Rosie said, "but more importantly, he''s home."
+
+    '
+  ru: 'Каждое лето в городке Миллбрук проходит фестиваль с музыкой, едой и знаменитым конкурсом собак. В этом году десятилетняя девочка по имени Рози записала на конкурс своего щенка Бисквита. Он не был дорогой породы — просто маленький пушистый коричневый пёс, которого Рози однажды зимой нашла у себя во дворе. Но он был умным и довольно забавным и прошёл в финал.
+
+
+    Утром в день финала случилась беда. Бисквит пропал! Кто-то открыл гараж, где он спал. Рози плакала не переставая, а мама давала ей салфетку за салфеткой. Папа позвонил в полицию.
+
+
+    Журналист местной газеты услышал эту историю и написал о ней в интернете. Сотни людей начали искать Бисквита. А в обед один мужчина заметил странную вещь: другой участник, богач с тремя собаками-чемпионами, нёс к своей машине ведро. В ведре, под полотенцем, сидел маленький коричневый пёс!
+
+
+    Мужчина попытался убежать, но поскользнулся на мокрой траве и упал. Полицейский его арестовал. Позже его осудили за кражу. Он хотел, чтобы награду наверняка получили его дорогие собаки. Люди говорили, что он украл у конкурса всё веселье.
+
+
+    После обеда конкурс продолжился. Бисквит был немного напуган, но держался уверенно и безупречно выполнил все трюки. Он занял первое место! На следующей неделе папа Рози починил дверь гаража и поставил на неё сигнализацию. «Бисквит — наш чемпион, — сказала Рози, — но, что важнее, он дома».
+
+    '
+  questions:
+  - q: Where did Rosie find Biscuit?
+    options:
+    - In a pet shop
+    - In her yard one winter
+    - At the festival
+    - In a garage
+    answer: 1
+  - q: Who took Biscuit?
+    options:
+    - A journalist
+    - A rich man with champion dogs
+    - Rosie's father
+    - A police officer
+    answer: 1
+  - q: What happened when the man tried to run?
+    options:
+    - He got away
+    - He slipped on the wet grass
+    - He fell into a bucket
+    - He crashed his car
+    answer: 1
+  - tf: Biscuit was an expensive breed.
+    answer: false
+  - tf: Biscuit won first prize.
+    answer: true
+- id: a2-23
+  v1_unit: City Break
+  title: Two Days in Istanbul
+  title_ru: Два дня в Стамбуле
+  text: 'Last spring, Jack and his girlfriend Maya planned a short trip to Istanbul. They had only two days, so they wanted to see the best places. They booked a small hotel near the old part of the city. When they arrived, they took a taxi from the airport. The driver was friendly and told them about the history of the city for the whole hour.
+
+
+    On the first day, they visited the famous mosques and palaces. There were crowds of tourists everywhere, but the buildings were incredible. In the afternoon, they went to the Grand Bazaar, one of the oldest markets in the world. Maya loves shopping, and she spent hours looking at lamps, carpets and jewellery. The prices were not fixed, so she had to discuss them with the sellers.
+
+
+    In the evening, they tried many local dishes: grilled fish, rice, salads and sweet baklava. Everything was delicious and not expensive. They paid by card, which was easy.
+
+
+    On the second day, Jack had a surprise for Maya. He took her on a boat trip across the Bosphorus, the water between Europe and Asia. When the sun went down, the light on the water was golden. Jack took out a small box and asked Maya to marry him. She said yes!
+
+
+    On the way back to the station, Maya said, "In two days, I experienced more than in a whole year." They are now planning to return to Istanbul for their honeymoon.
+
+    '
+  ru: 'Прошлой весной Джек и его девушка Майя спланировали короткую поездку в Стамбул. У них было всего два дня, поэтому они хотели увидеть лучшие места. Они забронировали маленький отель рядом со старой частью города. По прилёте они взяли такси из аэропорта. Водитель был дружелюбным и целый час рассказывал им об истории города.
+
+
+    В первый день они посетили знаменитые мечети и дворцы. Повсюду были толпы туристов, но здания были невероятными. После обеда они пошли на Гранд-базар, один из старейших рынков мира. Майя обожает ходить по магазинам и часами рассматривала лампы, ковры и украшения. Цены не были фиксированными, поэтому приходилось торговаться с продавцами.
+
+
+    Вечером они попробовали много местных блюд: рыбу на гриле, рис, салаты и сладкую пахлаву. Всё было вкусным и недорогим. Они расплачивались картой, и это было удобно.
+
+
+    На второй день у Джека был сюрприз для Майи. Он повёз её на прогулку на лодке по Босфору — проливу между Европой и Азией. Когда солнце садилось, свет на воде был золотым. Джек достал маленькую коробочку и попросил Майю выйти за него замуж. Она согласилась!
+
+
+    По дороге на вокзал Майя сказала: «За два дня я пережила больше, чем за целый год». Сейчас они планируют вернуться в Стамбул в медовый месяц.
+
+    '
+  questions:
+  - q: How long was the trip?
+    options:
+    - One day
+    - Two days
+    - A week
+    - Two weeks
+    answer: 1
+  - q: What is the Grand Bazaar?
+    options:
+    - A hotel
+    - One of the oldest markets in the world
+    - A palace
+    - A boat
+    answer: 1
+  - q: What was Jack's surprise?
+    options:
+    - A new hotel
+    - A carpet
+    - A proposal of marriage on a boat
+    - Tickets home
+    answer: 2
+  - tf: The prices at the market were fixed.
+    answer: false
+  - tf: Maya said yes to Jack.
+    answer: true
+- id: a2-24
+  v1_unit: Overcoming Difficulties
+  title: The Swimmer Who Never Gave Up
+  title_ru: Пловчиха, которая не сдавалась
+  text: 'When Lena was eighteen, she was one of the best young swimmers in her country. She trained every day and dreamed of the Olympic Games. Then, one winter evening, a car hit her bike. She woke up in hospital with tubes in her arms. After three surgeries, the doctors said she would never walk again.
+
+
+    At first, Lena couldn''t accept it. She was angry and sad. She couldn''t even recall the accident. "I regret everything," she wrote in her journal. "My life is over." She stopped eating properly; even chewing food felt like hard work.
+
+
+    Her old coach visited her every week. One day, he said, "Your legs don''t work, but your soul is still strong. Why not swim again?" Lena laughed. But a few weeks later, she agreed to try. At the pool, her coach helped her into the water. To her surprise, she could float and move her arms. In the water, she felt free.
+
+
+    The training was tough. She had to learn new ways to swim and to bend her body. There was no sufficient money for special equipment, so her town collected it. Slowly, Lena overcame her fear and pain. Four years later, she competed in the Paralympic Games for disabled athletes.
+
+
+    Lena won a silver medal. When she saw her country''s flag, people around the world marvelled at her story. "It sounds like fiction," she says, "but it''s real. Now I understand the true value of life. Every day is fantastic — even a hot bath after training!"
+
+    '
+  ru: 'Когда Лене было восемнадцать, она была одной из лучших юных пловчих страны. Она тренировалась каждый день и мечтала об Олимпийских играх. Но однажды зимним вечером её велосипед сбила машина. Она очнулась в больнице с трубками в руках. После трёх операций врачи сказали, что она больше никогда не сможет ходить.
+
+
+    Сначала Лена не могла с этим смириться. Она злилась и грустила. Она даже не могла вспомнить аварию. «Я обо всём жалею, — писала она в дневнике. — Моя жизнь кончена». Она перестала нормально есть; даже жевать было тяжело.
+
+
+    Её бывший тренер навещал её каждую неделю. Однажды он сказал: «Твои ноги не работают, но душа у тебя по-прежнему сильная. Почему бы снова не поплавать?» Лена рассмеялась. Но через несколько недель согласилась попробовать. В бассейне тренер помог ей войти в воду. К её удивлению, она могла держаться на воде и двигать руками. В воде она чувствовала себя свободной.
+
+
+    Тренировки были тяжёлыми. Ей пришлось заново учиться плавать и по-новому сгибать тело. Денег на специальное оборудование не хватало, и их собрал её город. Постепенно Лена преодолела страх и боль. Через четыре года она выступила на Паралимпийских играх для спортсменов с ограниченными возможностями.
+
+
+    Лена завоевала серебряную медаль. Когда она увидела флаг своей страны, люди во всём мире восхищались её историей. «Звучит как вымысел, — говорит она, — но это правда. Теперь я понимаю истинную ценность жизни. Каждый день прекрасен — даже горячая ванна после тренировки!»
+
+    '
+  questions:
+  - q: What happened to Lena?
+    options:
+    - She fell in the pool
+    - A car hit her bike
+    - She got ill
+    - She stopped swimming because she was bored
+    answer: 1
+  - q: Who helped her start swimming again?
+    options:
+    - Her mother
+    - A doctor
+    - Her old coach
+    - A journalist
+    answer: 2
+  - q: Where did the money for equipment come from?
+    options:
+    - Her town collected it
+    - She won it
+    - The hospital
+    - The Olympic Games
+    answer: 0
+  - tf: Lena won a gold medal.
+    answer: false
+  - tf: Lena felt free in the water.
+    answer: true
+- id: a2-25
+  v1_unit: Stars and Galaxies
+  title: The Little Comet
+  title_ru: Маленькая комета
+  text: 'Long ago, in a distant galaxy, there was a little comet. She was made of ice, dust and rock, and she had a long tail. She roamed through space alone, from one star to the next. But she was not happy. She thought she was ugly.
+
+
+    Around her, everything seemed beautiful. The large planets were perfect spheres. The stars radiated warm light in every colour of the spectrum. Even the moons had a calm, silver beauty. "They all have high status in the sky," the comet thought. "But I''m just a dirty, solitary piece of ice."
+
+
+    One day, the comet fell into deep despair. She flew far away, into the gloom between the galaxies, where there was no light at all. "Nobody will miss me," she said.
+
+
+    But on a small blue planet called Earth, a girl was looking up at the sky through a telescope. Every night, she waited for the comet. When the comet disappeared, the girl was sad. She wrote a letter to the sky: "Little comet, please come back. You are the most beautiful thing I have ever seen."
+
+
+    Of course, the comet couldn''t read. But somehow, she felt it. She turned around and flew back towards the sun. As she got closer, her ice melted, and her tail formed a bright path across the whole breadth of the sky. On Earth, millions of people marvelled at her. Even tiny fragments of her tail became shooting stars. The comet finally understood: we are not always the best judges of our own beauty.
+
+    '
+  ru: 'Давным-давно в далёкой галактике жила-была маленькая комета. Она состояла изо льда, пыли и камня, и у неё был длинный хвост. Она одна странствовала по космосу от звезды к звезде. Но счастлива она не была. Она считала себя уродливой.
+
+
+    Вокруг всё казалось прекрасным. Большие планеты были идеальными шарами. Звёзды излучали тёплый свет всех цветов спектра. Даже у лун была спокойная серебристая красота. «У них у всех высокое положение на небе, — думала комета. — А я всего лишь грязный одинокий кусок льда».
+
+
+    Однажды комета впала в глубокое отчаяние. Она улетела далеко-далеко, во мрак между галактиками, где совсем не было света. «Никто по мне не будет скучать», — сказала она.
+
+
+    Но на маленькой голубой планете под названием Земля одна девочка смотрела на небо в телескоп. Каждую ночь она ждала комету. Когда комета пропала, девочке стало грустно. Она написала письмо небу: «Маленькая комета, пожалуйста, вернись. Ты самое красивое, что я когда-либо видела».
+
+
+    Конечно, комета не умела читать. Но каким-то образом она это почувствовала. Она развернулась и полетела обратно к Солнцу. Когда она приблизилась, её лёд начал таять, а хвост образовал яркую дорожку через всё небо. На Земле миллионы людей восхищались ею. Даже крошечные осколки её хвоста стали падающими звёздами. И комета наконец поняла: мы не всегда лучшие судьи собственной красоты.
+
+    '
+  questions:
+  - q: What was the comet made of?
+    options:
+    - Fire and gas
+    - Ice, dust and rock
+    - Gold
+    - Water only
+    answer: 1
+  - q: Why was the comet unhappy?
+    options:
+    - She was lost
+    - She thought she was ugly
+    - She was too hot
+    - She had no tail
+    answer: 1
+  - q: What did the girl on Earth do?
+    options:
+    - She wrote a letter to the sky
+    - She built a rocket
+    - She painted the comet
+    - She forgot about the comet
+    answer: 0
+  - tf: The comet could read the girl's letter.
+    answer: false
+  - tf: Fragments of the comet's tail became shooting stars.
+    answer: true
+- id: a2-26
+  v1_unit: Storms and the Sea
+  title: After the Hurricane
+  title_ru: После урагана
+  text: 'Marco owned a small surf school on an island in the Caribbean. Every morning, he taught tourists to surf, and in the afternoons he took them on his boat to see the coral reef. He was strict about safety but also loved to amuse his students with funny stories.
+
+
+    One September, a hurricane hit the island. The wind was so strong that it crashed boats against the rocks and tore roofs off houses. Marco shut the doors of his school and hid with his family in a firm stone building in the centre of town. When the storm finished, the island looked like a war zone.
+
+
+    The loss was huge. Marco''s school was destroyed, and his boat was lying on its side on the beach. Even worse, the hurricane had damaged part of the reef. Some people accused tourists and boats of making the reef weak. Marco felt sad, but he knew the real problem was bigger: the warming of the ocean.
+
+
+    Marco decided to engage the whole island in a grand task: to save the reef. Scientists taught volunteers how to grow small pieces of coral in the sea and adjust them on the rocks. Marco repaired his boat and used it to carry volunteers, using as little fuel as possible.
+
+
+    Two years later, the reef is slowly coming back to life. Marco''s new school is simple — a plain wooden building with cotton curtains and a big deck. But every lesson now ends with a dive to the reef. "Nature can destroy," Marco says, "but people can help it heal."
+
+    '
+  ru: 'У Марко была небольшая школа сёрфинга на одном из Карибских островов. Каждое утро он учил туристов сёрфингу, а после обеда возил их на лодке смотреть коралловый риф. Он строго относился к безопасности, но любил развлекать учеников забавными историями.
+
+
+    Однажды в сентябре на остров обрушился ураган. Ветер был таким сильным, что разбивал лодки о скалы и срывал крыши с домов. Марко запер двери школы и укрылся с семьёй в крепком каменном здании в центре города. Когда буря закончилась, остров выглядел как зона боевых действий.
+
+
+    Потери были огромными. Школа Марко была разрушена, а его лодка лежала на боку на пляже. Хуже того, ураган повредил часть рифа. Некоторые обвиняли туристов и лодки в том, что риф ослаб. Марко было грустно, но он знал, что настоящая проблема больше: потепление океана.
+
+
+    Марко решил вовлечь весь остров в грандиозное дело — спасти риф. Учёные научили добровольцев выращивать небольшие кусочки кораллов в море и закреплять их на скалах. Марко починил лодку и возил на ней добровольцев, расходуя как можно меньше топлива.
+
+
+    Прошло два года, и риф понемногу оживает. Новая школа Марко простая — скромное деревянное здание с хлопковыми занавесками и большой террасой. Но теперь каждое занятие заканчивается погружением к рифу. «Природа может разрушать, — говорит Марко, — но люди могут помочь ей исцелиться».
+
+    '
+  questions:
+  - q: What did Marco do in the afternoons?
+    options:
+    - He fixed boats
+    - He took tourists to see the coral reef
+    - He worked in a hotel
+    - He went fishing
+    answer: 1
+  - q: Where did Marco's family hide during the hurricane?
+    options:
+    - On the boat
+    - In the surf school
+    - In a stone building in the town centre
+    - On the beach
+    answer: 2
+  - q: What is the real problem for the reef, according to Marco?
+    options:
+    - Tourists
+    - Boats
+    - The warming of the ocean
+    - Fishermen
+    answer: 2
+  - tf: Marco's new school is a grand stone building.
+    answer: false
+  - tf: The reef is slowly coming back to life.
+    answer: true
+- id: a2-27
+  v1_unit: Guilty or Innocent?
+  title: The Wrong Twin
+  title_ru: Не тот близнец
+  text: 'Adam and Sam are twins. They resemble each other so much that even their mother sometimes mixes them up. But their lives are very different. Adam is a quiet, ordinary office worker. Sam is bold and loves risk. He works as a photographer who captures pictures for newspapers.
+
+
+    One morning, the police knocked on Adam''s door. "You are under arrest," they said. Someone had broken into the house of a minister the night before and stolen important documents. A camera had recorded a man''s face — and it was Adam''s face! Adam was shocked. "I''m innocent!" he said. "I was at home all night."
+
+
+    Adam hired a lawyer, but things looked bad. The police said he looked nervous and guilty. Then the lawyer noticed something in the video. The man in the video had a small tattoo of a bug on his hand. Adam had no tattoo. But Sam did.
+
+
+    When Sam heard about the arrest, he went to the police himself. He explained everything. He had entered the house to expose the minister, who was secretly taking money from a tobacco company. Sam wanted to preserve the documents as proof for a newspaper story. "I was wrong to break the law," he said, "but I''m not a thief."
+
+
+    The story became big news. The minister lost his job, and Sam had to pay a large fine. He made an apology to his brother. "Sorry, Adam," he said. "I didn''t think about the consequences." Adam laughed. "From now on, please get a permanent tattoo on your face — so people can tell us apart!"
+
+    '
+  ru: 'Адам и Сэм — близнецы. Они так похожи друг на друга, что даже мама иногда их путает. Но живут они совсем по-разному. Адам — тихий, обычный офисный работник. Сэм смелый и любит риск. Он работает фотографом и делает снимки для газет.
+
+
+    Однажды утром в дверь Адама постучала полиция. «Вы арестованы», — сказали они. Накануне ночью кто-то проник в дом министра и украл важные документы. Камера записала лицо мужчины — и это было лицо Адама! Адам был потрясён. «Я невиновен! — сказал он. — Я всю ночь был дома».
+
+
+    Адам нанял юриста, но дела шли плохо. Полиция говорила, что он выглядит нервным и виноватым. Потом юрист кое-что заметил на видео. У мужчины на руке была маленькая татуировка в виде жука. У Адама татуировки не было. А у Сэма была.
+
+
+    Когда Сэм узнал об аресте, он сам пришёл в полицию. Он всё объяснил. Он проник в дом, чтобы разоблачить министра, который тайно получал деньги от табачной компании. Сэм хотел сохранить документы как доказательство для газетной статьи. «Я был неправ, нарушив закон, — сказал он, — но я не вор».
+
+
+    История стала громкой новостью. Министр лишился должности, а Сэму пришлось заплатить крупный штраф. Он извинился перед братом. «Прости, Адам, — сказал он. — Я не подумал о последствиях». Адам рассмеялся. «Отныне, пожалуйста, сделай себе постоянную татуировку на лице — чтобы люди могли нас различать!»
+
+    '
+  questions:
+  - q: What is Sam's job?
+    options:
+    - Office worker
+    - Photographer
+    - Police officer
+    - Minister
+    answer: 1
+  - q: How did the lawyer know that Adam was innocent?
+    options:
+    - Adam had a witness
+    - The man in the video had a tattoo of a bug
+    - The camera was broken
+    - Sam told him
+    answer: 1
+  - q: Why did Sam enter the minister's house?
+    options:
+    - To steal money
+    - To expose the minister's secret deal with a tobacco company
+    - To visit a friend
+    - To take holiday photos
+    answer: 1
+  - tf: Sam made an apology to Adam.
+    answer: true
+  - tf: The minister kept his job.
+    answer: false
+- id: a2-28
+  v1_unit: Old and New
+  title: The Inn by the Bridge
+  title_ru: Гостиница у моста
+  text: 'For two hundred years, the Old Bridge Inn has stood next to a stone bridge over a quiet river. Today, it is run by Sam, a man of seventy with a simple philosophy: "Slow is good." There is no TV, no electronic music and no Wi-Fi. Guests come to rest, read and fish.
+
+
+    Last summer, Sam''s grandson Leo came to stay. Leo was fifteen and lived his whole life in a virtual world of games and social media. At first, he hated the inn. "There''s nothing to do here," he whispered angrily to his mother. But his mother had no plans to leave, so he had to accompany Sam every morning.
+
+
+    Sam showed him how to cast a fishing line into the river and how to repair the old nets. He taught him to grow vegetables from seeds and to cook them in a big black pot over a fire. Leo learned to clean fish with a sharp knife and to weigh them on an old metal scale.
+
+
+    One morning, they climbed a tree to fix a branch that was hanging over the river. Leo looked down and caught his breath. The river shone in the sun, and a deer was drinking from the water. He didn''t dare to move. "This," Sam said quietly, "is better than any screen."
+
+
+    At the end of the summer, Leo didn''t want to leave. In his bag, he took a tight jar of honey, some seeds and a new sort of happiness. "If you subtract the phone," he told his friends at home, "you add a whole world."
+
+    '
+  ru: 'Уже двести лет гостиница «Старый мост» стоит рядом с каменным мостом через тихую реку. Сегодня ею управляет Сэм — семидесятилетний мужчина с простой философией: «Медленно — значит хорошо». Здесь нет телевизора, электронной музыки и Wi-Fi. Гости приезжают отдыхать, читать и рыбачить.
+
+
+    Прошлым летом к Сэму приехал внук Лео. Лео было пятнадцать, и всю жизнь он прожил в виртуальном мире игр и соцсетей. Сначала он возненавидел гостиницу. «Тут нечего делать», — сердито шептал он маме. Но мама уезжать не собиралась, так что ему приходилось каждое утро сопровождать Сэма.
+
+
+    Сэм показал ему, как забрасывать удочку в реку и как чинить старые сети. Он научил его выращивать овощи из семян и готовить их в большом чёрном котелке на костре. Лео научился чистить рыбу острым ножом и взвешивать её на старых металлических весах.
+
+
+    Однажды утром они залезли на дерево, чтобы подвязать ветку, нависшую над рекой. Лео посмотрел вниз и затаил дыхание. Река сверкала на солнце, а из воды пил олень. Он не смел пошевелиться. «Вот это, — тихо сказал Сэм, — лучше любого экрана».
+
+
+    В конце лета Лео не хотел уезжать. В сумку он положил плотно закрытую банку мёда, немного семян и новый вид счастья. «Если вычесть телефон, — сказал он друзьям дома, — прибавится целый мир».
+
+    '
+  questions:
+  - q: What is Sam's philosophy?
+    options:
+    - Fast is good
+    - Slow is good
+    - Money is everything
+    - Technology helps
+    answer: 1
+  - q: How did Leo feel when he first arrived?
+    options:
+    - Happy
+    - He hated the inn
+    - Excited
+    - Calm
+    answer: 1
+  - q: What did Leo see from the tree?
+    options:
+    - A fisherman
+    - A deer drinking from the river
+    - His mother
+    - A boat
+    answer: 1
+  - tf: The inn has fast Wi-Fi.
+    answer: false
+  - tf: At the end of the summer, Leo didn't want to leave.
+    answer: true
+- id: a2-29
+  v1_unit: Ancient Crafts
+  title: The Potter of the Nile
+  title_ru: Гончар с Нила
+  text: 'Four thousand years ago in Egypt, life depended on the river Nile. Every year, there was an annual flood. The water covered the fields and left behind a thick layer of black mud. This made the land along the shore very fertile, ideal for growing wheat.
+
+
+    The mud was also full of clay. In a small village, there lived a young potter called Ani. Every morning, she obtained fresh clay from the riverbank and carried it home in a wooden bucket. She made pots, cups and plates on a simple potter''s wheel that turned with her foot.
+
+
+    Ani''s work was not ordinary. She decorated her pots with beautiful designs: birds with long feathers, fish, sea shells and abstract lines that looked like water. People said she had the intelligence of a scribe and the hands of an artist. Rich families bought her pots for their homes and filled them with oil, grain and wine.
+
+
+    One day, the priests of the temple asked Ani to make a special pot for a religious ceremony. It took her a month. When she finished, the priests said it was the most beautiful pot they had ever seen. "You deserve a reward," they said. They gave her a piece of fine cloth and new furniture for her home.
+
+
+    Thousands of years later, archaeologists found one of Ani''s pots in a grave near the Nile. Today it stands in a museum, behind a glass case and a red velvet curtain. Visitors stop and look at it for a long time. Some say it''s romantic: a simple potter whose work became immortal.
+
+    '
+  ru: 'Четыре тысячи лет назад жизнь в Египте зависела от реки Нил. Каждый год случался разлив. Вода покрывала поля и оставляла после себя толстый слой чёрного ила. Благодаря этому земля вдоль берега была очень плодородной — идеальной для выращивания пшеницы.
+
+
+    Ил был полон глины. В одной маленькой деревне жила молодая гончарша по имени Ани. Каждое утро она набирала свежую глину на берегу реки и несла её домой в деревянном ведре. Она делала горшки, чашки и тарелки на простом гончарном круге, который крутила ногой.
+
+
+    Работы Ани были необычными. Она украшала горшки красивыми узорами: птицами с длинными перьями, рыбами, ракушками и абстрактными линиями, похожими на воду. Говорили, что у неё ум писца и руки художника. Богатые семьи покупали её горшки для своих домов и наполняли их маслом, зерном и вином.
+
+
+    Однажды жрецы храма попросили Ани сделать особый сосуд для религиозной церемонии. Работа заняла у неё месяц. Когда она закончила, жрецы сказали, что это самый красивый сосуд, который они видели. «Ты заслуживаешь награды», — сказали они. Они подарили ей отрез тонкой ткани и новую мебель для дома.
+
+
+    Тысячи лет спустя археологи нашли один из горшков Ани в гробнице у Нила. Сегодня он стоит в музее, за стеклом и красным бархатным занавесом. Посетители останавливаются и подолгу смотрят на него. Некоторые говорят, что в этом есть что-то романтичное: простая гончарша, чья работа стала бессмертной.
+
+    '
+  questions:
+  - q: Why was the land along the Nile fertile?
+    options:
+    - Because of the annual flood and mud
+    - Because people used chemicals
+    - Because it rained every day
+    - Because of the sun
+    answer: 0
+  - q: How did Ani's potter's wheel turn?
+    options:
+    - With electricity
+    - With her foot
+    - With water
+    - With a horse
+    answer: 1
+  - q: What did the priests give Ani?
+    options:
+    - Gold
+    - Fine cloth and new furniture
+    - A house by the river
+    - A horse
+    answer: 1
+  - tf: Ani decorated her pots with pictures of birds and fish.
+    answer: true
+  - tf: None of Ani's pots exist today.
+    answer: false
+- id: a2-30
+  v1_unit: Around the House
+  title: The Butterfly in the Laundry Room
+  title_ru: Бабочка в прачечной
+  text: 'Ten-year-old Lily hated housework. Every Saturday, her mother gave her a list: sweep the floor with a broom, clean the basin in the bathroom and help with the laundry. Lily was always reluctant. "I swear this is the most boring day of the week," she said.
+
+
+    One Saturday, Lily opened the cupboard in the laundry room to get a clean towel. On the door, on a small metal hook, she saw something strange: a green caterpillar. It was hanging upside down, very still. Lily called her mother. "Don''t touch it," her mother said. "It''s very delicate. It''s going to change."
+
+
+    Over the next few days, the caterpillar made a hard shell around itself. It looked like a small brown leaf. Lily checked it every morning before school. She even used a strip of paper to make a sign on the cupboard: "Do not open — butterfly at work!" Her family laughed, but they stopped using that cupboard.
+
+
+    Two weeks later, early in the morning, Lily saw a small hole in the shell. Slowly, a butterfly emerged. Its wings were wet and folded, but after an hour they opened. They were orange and black, with white dots like the stains on her father''s work sleeves.
+
+
+    Lily opened the window, and the butterfly flew out into the garden. It landed on the swing, then hopped from flower to flower. Lily smiled. "Housework isn''t so bad," she told her mother. "You never know what you''ll find in a cupboard!"
+
+    '
+  ru: 'Десятилетняя Лили терпеть не могла работу по дому. Каждую субботу мама давала ей список: подмести пол веником, помыть раковину в ванной и помочь со стиркой. Лили всегда делала это неохотно. «Клянусь, это самый скучный день недели», — говорила она.
+
+
+    Однажды в субботу Лили открыла шкаф в прачечной, чтобы взять чистое полотенце. На дверце, на маленьком металлическом крючке, она увидела что-то странное — зелёную гусеницу. Та висела вниз головой, совершенно неподвижно. Лили позвала маму. «Не трогай её, — сказала мама. — Она очень хрупкая. Скоро она превратится».
+
+
+    В следующие несколько дней гусеница сделала вокруг себя твёрдую оболочку. Она была похожа на маленький коричневый листок. Лили проверяла её каждое утро перед школой. Она даже сделала из полоски бумаги табличку на шкаф: «Не открывать — работает бабочка!» Семья посмеялась, но этим шкафом пользоваться перестала.
+
+
+    Через две недели рано утром Лили увидела в оболочке маленькую дырочку. Медленно из неё появилась бабочка. Её крылья были влажными и сложенными, но через час они раскрылись. Они были оранжево-чёрными, с белыми точками — как пятна на рукавах папиной рабочей одежды.
+
+
+    Лили открыла окно, и бабочка вылетела в сад. Она села на качели, а потом запорхала с цветка на цветок. Лили улыбнулась. «Работа по дому не так уж плоха, — сказала она маме. — Никогда не знаешь, что найдёшь в шкафу!»
+
+    '
+  questions:
+  - q: How did Lily feel about housework?
+    options:
+    - She loved it
+    - She was reluctant to do it
+    - She never did it
+    - She did it every day
+    answer: 1
+  - q: Where did Lily find the caterpillar?
+    options:
+    - In the garden
+    - On a hook in the cupboard
+    - In the basin
+    - On the swing
+    answer: 1
+  - q: What did Lily put on the cupboard?
+    options:
+    - A lock
+    - A sign made from a strip of paper
+    - A picture of a butterfly
+    - A towel
+    answer: 1
+  - tf: The butterfly's wings were orange and black.
+    answer: true
+  - tf: Lily kept the butterfly in the house.
+    answer: false

@@ -26,3 +26,52 @@ words:
 - skyscraper | n | ˈskaɪskreɪpə | ˈskaɪskreɪpər | небоскрёб | a very tall building | New York is famous for its *skyscrapers*. | Нью-Йорк славится своими небоскрёбами.
 - traffic jam | n | ˈtræfɪk dʒæm |  | пробка (на дороге) | a long line of cars that cannot move | We were stuck in a *traffic jam*. | Мы застряли в пробке.
 - zone | n | zəʊn | zoʊn | зона | an area with a special purpose or quality | This is a no-parking *zone*. | Это зона, где парковка запрещена.
+reading:
+  title: The Castle on the Cliff
+  title_ru: Замок на утёсе
+  text: |
+    Seven hundred years ago, a small country in the north wanted independence from a powerful king in the south. The leader of the rebels was a young knight called Sir Duncan. He had no castle, only a few hundred warriors with spears and old armor. But he had something more important: the people believed in him.
+
+    The king sent thousands of troops to stop the revolution. The invasion was fast and violent. Village after village went up in flames. Duncan's men had to retreat to the mountains. Finally, they took shelter in an old castle on top of a steep cliff above the sea. The only way to reach it was a narrow path.
+
+    The king's army surrounded the castle. Every day they attacked, and every day they failed. The path was too steep, and the rebels threw stones down on them. After two months, the king's commander sent a message: "Yield now, and your men can live." Duncan replied: "We will never yield."
+
+    Then, one night, a terrible storm came. Lightning lit up the sky, and thunder boomed over the sea. The king's soldiers hid in their tents. Duncan saw his chance. He led his men down a secret path to the beach, and they attacked the enemy camp from behind. In the darkness and rain, the soldiers panicked. Fires blazed in the camp as tents caught fire.
+
+    By morning, the king's army had withdrawn. A year later, the king signed a peace agreement. Today, the ruins of the castle still stand on the cliff. Every summer, people climb to the summit to remember the night the storm saved their country.
+  ru: |
+    Семьсот лет назад небольшая северная страна хотела независимости от могущественного короля на юге. Во главе мятежников стоял молодой рыцарь сэр Дункан. У него не было замка — лишь несколько сотен воинов с копьями и в старых доспехах. Но у него было кое-что поважнее: люди верили в него.
+
+    Король послал тысячи солдат, чтобы подавить восстание. Вторжение было быстрым и жестоким. Деревня за деревней сгорали в пламени. Людям Дункана пришлось отступить в горы. В конце концов они укрылись в старом замке на вершине крутого утёса над морем. Добраться туда можно было только по узкой тропе.
+
+    Королевская армия окружила замок. Каждый день они шли в атаку, и каждый день терпели неудачу. Тропа была слишком крутой, а мятежники сбрасывали на них камни. Через два месяца командир короля прислал послание: «Сдайтесь сейчас, и ваши люди останутся в живых». Дункан ответил: «Мы никогда не сдадимся».
+
+    А потом однажды ночью разразилась страшная буря. Молнии освещали небо, над морем грохотал гром. Королевские солдаты попрятались в палатках. Дункан понял, что это его шанс. Он повёл своих людей по тайной тропе вниз, к пляжу, и они атаковали вражеский лагерь с тыла. В темноте и под дождём солдаты запаниковали. Палатки загорались, и лагерь полыхал.
+
+    К утру королевская армия отступила. Через год король подписал мирный договор. Сегодня руины замка всё ещё стоят на утёсе. Каждое лето люди поднимаются на вершину, чтобы вспомнить ночь, когда буря спасла их страну.
+  questions:
+  - q: What did the northern country want?
+    options:
+    - More land
+    - Independence
+    - A new king
+    - Gold
+    answer: 1
+  - q: Why was the castle easy to defend?
+    options:
+    - It had high walls
+    - The path to it was narrow and steep
+    - It had many soldiers
+    - It was underground
+    answer: 1
+  - q: How did Duncan use the storm?
+    options:
+    - He escaped by boat
+    - He attacked the enemy camp from behind
+    - He asked for peace
+    - He burned the castle
+    answer: 1
+  - tf: Duncan agreed to yield after two months.
+    answer: false
+  - tf: The ruins of the castle can still be seen today.
+    answer: true

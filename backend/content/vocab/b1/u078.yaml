@@ -30,3 +30,52 @@ words:
 - sample | n | ˈsɑːmpl | ˈsæmpl | образец, проба | a small amount that shows what the rest is like | The doctor took a blood *sample*. | Врач взял пробу крови.
 - substance | n | ˈsʌbstəns |  | вещество | a particular kind of solid, liquid or gas | This *substance* is dangerous if swallowed. | Это вещество опасно при проглатывании.
 - theory | n | ˈθɪəri | ˈθiːəri | теория | an idea that tries to explain something | Scientists have a new *theory* about the stars. | У учёных новая теория о звёздах.
+reading:
+  title: The Code of Life
+  title_ru: Код жизни
+  text: |
+    Every living thing — a tree, a cat, a human — is made of tiny cells. Inside almost every cell there is a long chemical called DNA. You can think of DNA as a code: a set of instructions that tells the body how to grow and work. Small parts of this code are called genes. Genes decide many things about you, such as the colour of your eyes and your hair.
+
+    You inherit half of your genes from your mother and half from your father. That's why children often look like their parents. Genes also explain some differences between male and female bodies.
+
+    Scientists have done extensive research on genes, and the results have changed medicine. For example, doctors have found a link between certain genes and some diseases. One famous example is a gene that increases the risk of breast cancer. If a woman knows she has this gene, she can have regular checks, and doctors can find cancerous cells early, when treatment works best.
+
+    But genes are not everything. Our lifestyle matters too. Smoking cigarettes, for example, causes the destruction of healthy cells in the lungs. Eating too much sugar can lead to serious health problems. Furthermore, a lack of exercise is linked to heart disease. Research on large populations shows that a healthy lifestyle can reduce the risk of many illnesses, even for people with "bad" genes.
+
+    There is still no single cure for cancer. But every year, scientists understand more about how the disease attacks the body. New treatments use our own immune cells to fight it. Many doctors believe that, thanks to research on DNA, the future of medicine is brighter than ever.
+  ru: |
+    Всё живое — дерево, кошка, человек — состоит из крошечных клеток. Почти в каждой клетке есть длинное химическое вещество под названием ДНК. ДНК можно представить как код — набор инструкций, который говорит организму, как расти и работать. Небольшие участки этого кода называются генами. Гены определяют многое в вас — например, цвет глаз и волос.
+
+    Половину генов вы наследуете от матери, а половину — от отца. Вот почему дети часто похожи на родителей. Гены также объясняют некоторые различия между мужским и женским организмом.
+
+    Учёные провели обширные исследования генов, и их результаты изменили медицину. Например, врачи обнаружили связь между определёнными генами и некоторыми болезнями. Известный пример — ген, который повышает риск рака груди. Если женщина знает, что у неё есть этот ген, она может регулярно проходить обследования, и врачи смогут обнаружить раковые клетки рано, когда лечение наиболее эффективно.
+
+    Но гены — это ещё не всё. Образ жизни тоже имеет значение. Например, курение сигарет приводит к разрушению здоровых клеток лёгких. Избыток сахара может привести к серьёзным проблемам со здоровьем. Более того, недостаток движения связан с болезнями сердца. Исследования больших групп населения показывают, что здоровый образ жизни может снизить риск многих болезней — даже у людей с «плохими» генами.
+
+    Единого лекарства от рака пока нет. Но с каждым годом учёные всё лучше понимают, как болезнь атакует организм. Новые методы лечения используют собственные иммунные клетки человека для борьбы с ней. Многие врачи считают, что благодаря исследованиям ДНК будущее медицины светлее, чем когда-либо.
+  questions:
+  - q: What is DNA compared to in the text?
+    options:
+    - A machine
+    - A code or set of instructions
+    - A cell
+    - A medicine
+    answer: 1
+  - q: How many of your genes come from your mother?
+    options:
+    - All of them
+    - Half
+    - A quarter
+    - None
+    answer: 1
+  - q: According to the text, what can reduce the risk of illness?
+    options:
+    - Only good genes
+    - A healthy lifestyle
+    - Eating more sugar
+    - Nothing
+    answer: 1
+  - tf: There is now a single cure for all cancers.
+    answer: false
+  - tf: Smoking damages healthy cells in the lungs.
+    answer: true

@@ -23,3 +23,56 @@ words:
 - tranquil | adj | ˈtrænkwɪl | ˈtræŋkwəl | спокойный, безмятежный | calm and quiet | It's a *tranquil* garden. | Это тихий сад.
 - vicious | adj | ˈvɪʃəs |  | жестокий, свирепый | violent and cruel | The emperor was known as a *vicious* ruler. | Император был известен как жестокий правитель. | vicious circle — порочный круг
 - withdrawn | adj | wɪðˈdrɔːn |  | замкнутый | quiet and shy | He became *withdrawn* after the accident. | После аварии он замкнулся в себе.
+reading:
+  title: The Whaleship Essex
+  title_ru: Китобойное судно «Эссекс»
+  text: |
+    In 1819, the whaleship Essex sailed from the island of Nantucket, off the coast of Massachusetts. Its crew of twenty men hoped to return in two or three years with barrels of whale oil, which, before kerosene became common, was used to light lamps across America and Europe.
+
+    Fifteen months into the voyage, in the middle of the Pacific Ocean, something extraordinary happened. A huge sperm whale, around twenty-five metres long, swam straight at the ship and struck it with its head. Then it turned in a wide arc, came back and hit the ship again. The sailors watched, horrified, as water poured in. Within minutes, the Essex began to sink.
+
+    The men managed to escape in three small whaleboats with some bread, water and a few tortoises. They were more than 3,000 kilometres from the nearest land. The captain wanted to sail to the Marquesas Islands, but the crew had heard terrible stories about the islanders there, so they chose a much longer route to South America.
+
+    What followed was one of the most terrible survival stories in history. The men paddled and sailed for weeks under a fiery sun. Their food ran out. Their skin burned and their lips cracked. They briefly reached a small island, where they found birds, eggs and a little fresh water, but it was not enough to keep them alive, and most of them sailed on.
+
+    The rest of the story tested the character of every man. Starving and desperate, the survivors were eventually forced to do things that troubled their consciences for the rest of their lives. Only eight of the twenty men survived.
+
+    The disaster later inspired the writer Herman Melville. In 1851 he published "Moby-Dick", a novel about an obsessed captain and a white whale that sends his ship to the bottom of the sea. Today, the wreck of the Essex has never been found, but its story lives on.
+  ru: |
+    В 1819 году китобойное судно «Эссекс» вышло с острова Нантакет у побережья Массачусетса. Его экипаж из двадцати человек надеялся вернуться через два-три года с бочками китового жира, которым, пока не распространился керосин, освещали лампы по всей Америке и Европе.
+
+    Через пятнадцать месяцев плавания, посреди Тихого океана, случилось нечто невероятное. Огромный кашалот длиной около двадцати пяти метров поплыл прямо на корабль и ударил его головой. Затем он развернулся по широкой дуге, вернулся и снова ударил корабль. Моряки в ужасе смотрели, как внутрь хлещет вода. Через несколько минут «Эссекс» начал тонуть.
+
+    Людям удалось спастись на трёх маленьких вельботах с запасом хлеба, воды и несколькими черепахами. До ближайшей земли было более 3000 километров. Капитан хотел плыть к Маркизским островам, но экипаж наслушался страшных историй о тамошних жителях, и они выбрали гораздо более длинный путь к Южной Америке.
+
+    Дальше последовала одна из самых страшных историй выживания. Неделями люди гребли и шли под парусом под палящим солнцем. Еда кончилась. Кожа обгорала, губы трескались. Ненадолго они добрались до маленького острова, где нашли птиц, яйца и немного пресной воды, но этого не хватило бы, чтобы выжить, и большинство поплыло дальше.
+
+    Остальная часть истории подвергла испытанию характер каждого. Умирающие от голода и доведённые до отчаяния, выжившие в конце концов были вынуждены совершать поступки, которые мучили их совесть всю оставшуюся жизнь. Из двадцати человек выжили лишь восемь.
+
+    Позже эта катастрофа вдохновила писателя Германа Мелвилла. В 1851 году он опубликовал «Моби Дика» — роман об одержимом капитане и белом ките, который отправляет его корабль на дно моря. Обломки «Эссекса» так и не были найдены, но его история продолжает жить.
+  questions:
+  - q: What was whale oil used for?
+    options:
+    - Cooking
+    - Lighting lamps
+    - Medicine
+    - Painting ships
+    answer: 1
+  - q: What sank the Essex?
+    options:
+    - A storm
+    - A whale that struck the ship twice
+    - A fire
+    - Pirates
+    answer: 1
+  - q: Why didn't the crew sail to the Marquesas Islands?
+    options:
+    - They were too far
+    - They had heard terrible stories about the islanders
+    - The captain refused
+    - They had no map
+    answer: 1
+  - tf: All twenty men survived.
+    answer: false
+  - tf: The disaster inspired the novel 'Moby-Dick'.
+    answer: true

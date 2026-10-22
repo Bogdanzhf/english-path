@@ -21,3 +21,52 @@ words:
 - tribal | adj | ˈtraɪbl |  | племенной | relating to a tribe | There are *tribal* conflicts. | Есть межплеменные конфликты.
 - tribunal | n | traɪˈbjuːnl | trəbˈjuːnl | трибунал | a special court | The case went to a *tribunal*. | Дело передали в трибунал.
 - turnout | n | ˈtɜːnaʊt | ˈtɜːrnaʊt | явка | the number of people who come | Voter *turnout* was low. | Явка избирателей была низкой.
+reading:
+  title: The Code No One Could Break
+  title_ru: Шифр, который никто не смог взломать
+  text: |
+    During the Second World War, the United States was fighting Japan across the islands of the Pacific. Every message sent by radio could be heard by the enemy, so armed forces used secret codes. But Japanese experts were very good at breaking codes. The Americans needed a new solution — one so unusual that it would be impossible to crack.
+
+    The answer came from an unexpected source: the Navajo people of the American Southwest. The Navajo language was extremely complex, had no written alphabet at the time and was spoken by very few people outside the community. A former missionary's son who had grown up among the Navajo suggested using it as a code. After a successful test, the Marines recruited twenty-nine young Navajo men in 1942. Eventually, around four hundred served.
+
+    The code talkers developed a system in which Navajo words stood for military terms. A submarine was called "iron fish", a bomb was "egg", and a tank was "tortoise". Each man memorized the entire code; nothing was written down in the field. Equipped with radios, they could send and receive messages in seconds, a task that took coding machines thirty minutes.
+
+    Their impact was enormous. During the famous battle of Iwo Jima, six Navajo code talkers sent more than eight hundred messages without a single error. One officer later said that without them, the Marines would never have taken the island. All Japanese attempts to break the code were in vain. It remains one of the few military codes in history that was never broken.
+
+    Yet the code talkers faced painful obstacles at home. As children, many had been punished at government schools for speaking their language — the same language that now served the nation's defense. Their work remained secret until 1968. In 2001, the surviving code talkers were finally honoured at a ceremony in Washington, to long applause. Today, their story is told in books and films, a powerful reminder that diverse cultures can be a nation's greatest strength.
+  ru: |
+    Во время Второй мировой войны Соединённые Штаты воевали с Японией на островах Тихого океана. Любое радиосообщение мог услышать противник, поэтому вооружённые силы пользовались секретными шифрами. Но японские специалисты очень хорошо их взламывали. Американцам требовалось новое решение — настолько необычное, чтобы его невозможно было разгадать.
+
+    Ответ пришёл с неожиданной стороны — от народа навахо с юго-запада Америки. Язык навахо был чрезвычайно сложным, в то время не имел письменного алфавита и почти не был известен за пределами общины. Сын бывшего миссионера, выросший среди навахо, предложил использовать его как шифр. После успешной проверки в 1942 году морская пехота набрала двадцать девять молодых навахо. В итоге служили около четырёхсот человек.
+
+    Шифровальщики разработали систему, в которой слова языка навахо обозначали военные термины. Подводную лодку называли «железной рыбой», бомбу — «яйцом», а танк — «черепахой». Каждый выучивал весь код наизусть; в полевых условиях ничего не записывалось. Вооружённые рациями, они могли передавать и принимать сообщения за секунды — шифровальные машины тратили на это по полчаса.
+
+    Их вклад был огромным. Во время знаменитой битвы за Иводзиму шесть шифровальщиков навахо передали более восьмисот сообщений без единой ошибки. Один офицер позже сказал, что без них морская пехота никогда бы не взяла остров. Все попытки японцев взломать код были тщетны. Это один из немногих военных шифров в истории, который так и не был взломан.
+
+    И всё же дома шифровальщики сталкивались с горькими препятствиями. В детстве многих наказывали в государственных школах за то, что они говорили на своём языке, — том самом языке, который теперь служил обороне страны. Их работа оставалась секретной до 1968 года. В 2001 году выжившие шифровальщики наконец были удостоены награды на церемонии в Вашингтоне под долгие аплодисменты. Сегодня их историю рассказывают книги и фильмы — мощное напоминание о том, что многообразие культур может быть величайшей силой нации.
+  questions:
+  - q: Why was the Navajo language a good code?
+    options:
+    - It was easy to learn
+    - It was complex, unwritten and known by very few outsiders
+    - The Japanese spoke it
+    - It used numbers
+    answer: 1
+  - q: What did the code word 'iron fish' mean?
+    options:
+    - A tank
+    - A submarine
+    - A bomb
+    - A ship
+    answer: 1
+  - q: When was the code talkers' work made public?
+    options:
+    - In 1942
+    - In 1945
+    - In 1968
+    - In 2001
+    answer: 2
+  - tf: The Japanese eventually broke the Navajo code.
+    answer: false
+  - tf: Many code talkers had been punished at school for speaking Navajo.
+    answer: true

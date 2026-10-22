@@ -22,3 +22,56 @@ words:
 - silly | adj | ˈsɪli |  | глупый, дурацкий | not serious or sensible | Don't be *silly* — of course I'll help you. | Не говори глупостей — конечно, я помогу.
 - talented | adj | ˈtæləntɪd |  | талантливый | having a natural ability | He's a *talented* musician. | Он талантливый музыкант.
 - wise | adj | waɪz |  | мудрый | having good judgement | That was a *wise* decision. | Это было мудрое решение.
+reading:
+  title: The Wizard of the Woods
+  title_ru: Лесной волшебник
+  text: |
+    Long ago, in a cottage at the edge of a dark forest, lived an old man with a long white beard. He never shaved it, and his eyes were a strange faded blue. The villagers believed he was a wizard. They were terrified of him and seldom went near his house, even in the daytime.
+
+    In the same forest lived an outlaw called Black Jack. He robbed travellers on the road and took their purses. Black Jack had once been an honest farmer, but he had gambled away his farm and his money. Now he was desperate. The king had banned anyone from helping him, and soldiers were searching for him everywhere.
+
+    One cold winter evening, after an exhausting day of running from the soldiers, Black Jack came to the old man's cottage. He was hungry and hurt. He knocked on the door, expecting a fierce wizard. Instead, a gentle old man opened it. "Come in," he said. "You look cold."
+
+    The old man gave him soup and bread and cleaned his wounds. Black Jack was cautious at first, but slowly he began to talk. Finally, he confessed everything. "I've done terrible things," he said. "I have no prospects. Nobody will ever trust me again."
+
+    The old man smiled. "I'm not a wizard," he said. "I'm just a lonely man with a long beard. People believe stories. But you can change your story." He gave Black Jack a fishing rod and some work: mowing the lawn, cutting wood, mending the roof.
+
+    Black Jack stayed. Years later, when the old man died, Black Jack had become a kind, quiet man with a long white beard of his own. And the children of the village whispered that he was a wizard too.
+  ru: |
+    Давным-давно в домике на опушке тёмного леса жил старик с длинной белой бородой. Он никогда её не брил, а глаза у него были странного выцветшего голубого цвета. Жители деревни считали его волшебником. Они до смерти его боялись и редко подходили к его дому, даже днём.
+
+    В том же лесу жил разбойник по прозвищу Чёрный Джек. Он грабил путников на дороге и отбирал у них кошельки. Когда-то Чёрный Джек был честным фермером, но проиграл в азартные игры свою ферму и все деньги. Теперь он был в отчаянии. Король запретил кому-либо ему помогать, и солдаты повсюду его искали.
+
+    Однажды холодным зимним вечером, после изнурительного дня бегства от солдат, Чёрный Джек пришёл к домику старика. Он был голоден и ранен. Он постучал в дверь, ожидая увидеть свирепого волшебника. Вместо этого дверь открыл добрый старик. «Заходи, — сказал он. — Ты, кажется, замёрз».
+
+    Старик дал ему супа и хлеба и промыл раны. Сначала Чёрный Джек держался настороженно, но постепенно разговорился. В конце концов он во всём признался. «Я натворил ужасных дел, — сказал он. — У меня нет никакого будущего. Мне больше никто никогда не поверит».
+
+    Старик улыбнулся. «Я не волшебник, — сказал он. — Я просто одинокий человек с длинной бородой. Люди верят сказкам. Но ты можешь изменить свою историю». Он дал Чёрному Джеку удочку и работу: косить траву, рубить дрова, чинить крышу.
+
+    Чёрный Джек остался. Спустя годы, когда старик умер, Чёрный Джек стал добрым, тихим человеком с собственной длинной белой бородой. А деревенские дети шептались, что он тоже волшебник.
+  questions:
+  - q: Why were the villagers afraid of the old man?
+    options:
+    - He was a robber
+    - They believed he was a wizard
+    - He had a fierce dog
+    - He shouted at them
+    answer: 1
+  - q: How did Black Jack lose his farm?
+    options:
+    - In a fire
+    - He gambled it away
+    - The king took it
+    - He sold it
+    answer: 1
+  - q: What did the old man give Black Jack?
+    options:
+    - Money
+    - A fishing rod and work
+    - A horse
+    - A magic stone
+    answer: 1
+  - tf: The old man was a real wizard.
+    answer: false
+  - tf: In the end, children thought Black Jack was a wizard too.
+    answer: true

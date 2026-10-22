@@ -19,3 +19,52 @@ words:
 - turtle | n | ˈtɜːtl | ˈtɜːrtl | черепаха (морская) | a reptile with a hard shell that lives in water | We saw sea *turtles* in Greece. | В Греции мы видели морских черепах.
 - whale | n | weɪl |  | кит | a very large sea mammal | A *whale* washed up on the beach. | На берег выбросило кита.
 - wing | n | wɪŋ |  | крыло | the part of a bird or plane used for flying | The bird hurt its *wing*. | Птица повредила крыло.
+reading:
+  title: The Return of the Wolves
+  title_ru: Возвращение волков
+  text: |
+    In 1995, something important happened in Yellowstone National Park in the USA. For seventy years, there had been no wolves there. Hunters had killed them all. Scientists were dissatisfied with the state of the park: there were too many deer, and they were eating every young tree. The rivers had changed, and many birds and animals had disappeared. It was evident that something was wrong.
+
+    So scientists brought fourteen wolves from Canada. It was an experiment, and nobody knew the outcome. Many farmers were angry. They feared the wolves would seize their sheep and cows.
+
+    What happened next was magnificent. The wolves began to hunt the deer. They didn't kill all of them, but the deer became nervous. They stopped standing in open valleys and eating with ease. Beneath the trees along the rivers, young plants began to grow again. Within a few years, some trees were five times taller. Birds returned to nest in them. Beavers came back and built dams, creating new homes for fish and frogs.
+
+    The wolves themselves did well. They had cubs, and soon there were packs all over the park. Tourists started visiting just to hear them howl at dawn. Some even saw them leap through the snow in winter, or shelter from hail together, squeezed tightly against each other.
+
+    Scientists say the wolves had a profound effect on the whole park. Predators like wolves are not a luxury; they are a necessity. They are vital for the balance of nature. Being a top hunter, a supreme predator, is not their only trait — they are also gardeners, in a way. Today, the story of Yellowstone's wolves is a terrific example of how nature can heal itself.
+  ru: |
+    В 1995 году в Йеллоустонском национальном парке в США произошло важное событие. Семьдесят лет там не было волков. Охотники перебили их всех. Учёные были недовольны состоянием парка: оленей стало слишком много, и они поедали все молодые деревья. Реки изменились, многие птицы и звери исчезли. Было очевидно, что что-то не так.
+
+    И учёные привезли из Канады четырнадцать волков. Это был эксперимент, и никто не знал, чем он закончится. Многие фермеры были в ярости. Они боялись, что волки будут хватать их овец и коров.
+
+    Дальнейшее оказалось великолепным. Волки начали охотиться на оленей. Они не убили их всех, но олени стали нервными. Они перестали спокойно стоять и пастись в открытых долинах. Под деревьями вдоль рек снова начали расти молодые растения. Через несколько лет некоторые деревья стали в пять раз выше. Птицы вернулись и стали вить в них гнёзда. Вернулись бобры и построили плотины, создав новый дом для рыб и лягушек.
+
+    Самим волкам тоже жилось хорошо. У них появились волчата, и скоро стаи жили по всему парку. Туристы стали приезжать только для того, чтобы услышать, как они воют на рассвете. Некоторым даже доводилось видеть, как они скачут по снегу зимой или прячутся от града, тесно прижавшись друг к другу.
+
+    Учёные говорят, что волки оказали глубокое влияние на весь парк. Хищники вроде волков — не роскошь, а необходимость. Они жизненно важны для природного равновесия. Быть главным охотником, высшим хищником — не единственная их черта: в каком-то смысле они ещё и садовники. Сегодня история йеллоустонских волков — потрясающий пример того, как природа может исцелить сама себя.
+  questions:
+  - q: What was the problem in Yellowstone before 1995?
+    options:
+    - There were too many wolves
+    - There were too many deer eating young trees
+    - There was no water
+    - There were too many tourists
+    answer: 1
+  - q: Why were some farmers angry?
+    options:
+    - They wanted to hunt the deer
+    - They feared wolves would attack their animals
+    - They had to pay for the wolves
+    - They lost their land
+    answer: 1
+  - q: What happened to the trees by the rivers?
+    options:
+    - They were cut down
+    - They grew again
+    - They died
+    - The beavers ate them
+    answer: 1
+  - tf: The wolves killed all the deer.
+    answer: false
+  - tf: The wolves were brought from Canada.
+    answer: true

@@ -21,3 +21,52 @@ words:
 - 'tip | n | tɪp |  | кончик; совет; чаевые | the pointed end of something; a piece of advice; extra money for a waiter | Here''s a useful *tip*: learn ten words every day. | Вот полезный совет: учи по десять слов каждый день.'
 - tower | n | ˈtaʊə | ˈtaʊər | башня | a tall narrow building | We climbed to the top of the *tower*. | Мы поднялись на вершину башни.
 - tube | n | tjuːb | tuːb | трубка, тюбик; метро (Лондон) | a long thin pipe; a container for toothpaste | The doctor put a *tube* into his arm. | Врач ввёл трубку ему в руку. | the Tube — лондонское метро
+reading:
+  title: Spring in Japan
+  title_ru: Весна в Японии
+  text: |
+    Every year, millions of people from all over the world travel to Japan in spring. Why is it such a popular place at this time of year? The answer is simple: cherry blossom. For about two weeks in late March and early April, the trees in parks and gardens are covered in soft pink flowers.
+
+    For the Japanese, this is a special holiday season. Families and friends sit under the trees, have picnics and watch the flowers fall like snow. People even watch the weather news to find out when the flowers will open in their town.
+
+    Last spring, Olivia and her husband visited Japan for the first time. They started in Tokyo, a huge city in the east of the country. They climbed Tokyo Tower and walked for hours in the beautiful old gardens. Then they took a fast train to Kyoto, a quieter town with many temples.
+
+    The trip was expensive. "The total cost was more than we planned," says Olivia, "but every day was amazing." Their favourite moment was the view of Mount Fuji, the most famous mountain in Japan. It still had snow on top, and some people were skiing there.
+
+    "Japan is a place you never forget," Olivia says. "We want to go back in autumn, because the leaves turn red and gold. People say that is just as beautiful."
+  ru: |
+    Каждый год весной миллионы людей со всего мира приезжают в Японию. Почему в это время года она так популярна? Ответ прост: цветение сакуры. Примерно на две недели в конце марта и начале апреля деревья в парках и садах покрываются нежными розовыми цветами.
+
+    Для японцев это особая праздничная пора. Семьи и друзья сидят под деревьями, устраивают пикники и смотрят, как цветы падают, словно снег. Люди даже смотрят прогноз погоды, чтобы узнать, когда цветы распустятся в их городе.
+
+    Прошлой весной Оливия с мужем впервые побывали в Японии. Они начали с Токио — огромного города на востоке страны. Они поднялись на Токийскую башню и часами гуляли по красивым старинным садам. Потом они сели на скоростной поезд до Киото — более тихого города с множеством храмов.
+
+    Поездка была дорогой. «В итоге она обошлась дороже, чем мы планировали, — говорит Оливия, — но каждый день был потрясающим». Их любимым моментом стал вид на Фудзи, самую известную гору Японии. На её вершине всё ещё лежал снег, и некоторые люди катались там на лыжах.
+
+    «Япония — это место, которое невозможно забыть, — говорит Оливия. — Мы хотим вернуться осенью, потому что листья становятся красными и золотыми. Говорят, это так же красиво».
+  questions:
+  - q: Why do many people visit Japan in spring?
+    options:
+    - To ski
+    - To see the cherry blossom
+    - To visit the beaches
+    - Because it's cheap
+    answer: 1
+  - q: How long do the cherry flowers last?
+    options:
+    - Two days
+    - About two weeks
+    - Two months
+    - All spring
+    answer: 1
+  - q: What was Olivia's favourite moment?
+    options:
+    - Climbing Tokyo Tower
+    - The train to Kyoto
+    - The view of Mount Fuji
+    - A picnic in a garden
+    answer: 2
+  - tf: The trip cost less than they planned.
+    answer: false
+  - tf: Olivia wants to visit Japan again in autumn.
+    answer: true

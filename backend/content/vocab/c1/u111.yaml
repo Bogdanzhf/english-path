@@ -21,3 +21,52 @@ words:
 - quest | n | kwest |  | поиск, стремление | a long search | His *quest* for fame never ended. | Его погоня за славой не заканчивалась.
 - representation | n | ˌreprɪˈzenˈteɪʃən | ˌreprəzenˈteɪʃən | представительство; изображение | speaking for others; a depiction | Women need more *representation* in politics. | Женщинам нужно больше представительства в политике.
 - testament | n | ˈtestəmənt |  | свидетельство; завещание | proof of something; a will | The house is a *testament* to their hard work. | Дом — свидетельство их упорного труда.
+reading:
+  title: The Polygraph
+  title_ru: Полиграф
+  text: |
+    For centuries, people have tried to find a reliable way to detect lies. In ancient China, suspects were made to chew dry rice; if the rice was still dry when they spat it out, they were believed to be lying, because fear makes the mouth dry. In the 1920s, an American police officer invented a more scientific-looking method: the polygraph, often called the "lie detector".
+
+    The polygraph is a device that measures changes in the body. While a trained examiner conducts an interview, sensors record the person's breathing, heart rate, blood pressure and how much they perspire. The idea is simple: lying causes stress, and stress causes physical changes. If a suspect's heart suddenly races when asked "Did you take the money?", it may suggest guilt.
+
+    The polygraph quickly became popular with police and governments, and it has helped crack some famous cases. In the USA, it is still used to screen people applying for jobs in security services, where candidates may be given access to secret information. Television shows have made it famous, presenting it as a machine that can see into a person's mind.
+
+    But is it valid? Most scientists say no. The polygraph does not detect lies; it detects anxiety. An innocent person may be terrified of being accused and react strongly to every question. Meanwhile, a sly, calm liar may show no reaction whatsoever. Studies also show that people can be trained to beat the test, for example by controlling their breathing or causing themselves slight pain. The examiner's own opinion can also have a strong influence on the result.
+
+    For these reasons, the law in many countries does not accept polygraph results as evidence in court. Researchers are now looking for new methods to replace it, such as brain scans and software that analyses tiny changes in the face or voice. But critics warn that these versions may share the same constant problem: the human mind is far more complicated than any machine.
+  ru: |
+    Веками люди пытались найти надёжный способ распознавать ложь. В Древнем Китае подозреваемых заставляли жевать сухой рис: если, выплюнув его, он оставался сухим, считалось, что человек лжёт, ведь от страха пересыхает во рту. В 1920-х годах американский полицейский изобрёл способ, который выглядел научнее, — полиграф, который часто называют «детектором лжи».
+
+    Полиграф — это прибор, который измеряет изменения в организме. Пока обученный специалист проводит опрос, датчики записывают дыхание человека, пульс, давление и то, насколько сильно он потеет. Идея проста: ложь вызывает стресс, а стресс — физические изменения. Если у подозреваемого резко учащается пульс в ответ на вопрос «Вы взяли деньги?», это может указывать на вину.
+
+    Полиграф быстро стал популярен у полиции и правительств и помог раскрыть ряд громких дел. В США его до сих пор используют при проверке кандидатов на работу в спецслужбах, где они могут получить доступ к секретной информации. Телешоу прославили его, представляя машиной, способной заглянуть человеку в душу.
+
+    Но обоснован ли он? Большинство учёных говорят «нет». Полиграф распознаёт не ложь, а тревогу. Невиновный человек может до ужаса бояться обвинения и бурно реагировать на каждый вопрос. А хитрый, хладнокровный лжец может не проявить вообще никакой реакции. Исследования также показывают, что можно научиться обманывать тест — например, контролируя дыхание или причиняя себе лёгкую боль. На результат может сильно влиять и собственное мнение проверяющего.
+
+    По этим причинам закон во многих странах не принимает результаты полиграфа как доказательство в суде. Сейчас исследователи ищут новые методы на замену — например, сканирование мозга или программы, анализирующие мельчайшие изменения лица или голоса. Но критики предупреждают, что у этих вариантов может быть та же неизменная проблема: человеческий разум гораздо сложнее любой машины.
+  questions:
+  - q: How did the ancient Chinese rice test work?
+    options:
+    - Liars ate more rice
+    - If the rice stayed dry, the person was thought to be lying
+    - Liars couldn't swallow
+    - The rice changed colour
+    answer: 1
+  - q: What does the polygraph actually detect, according to scientists?
+    options:
+    - Lies
+    - Anxiety
+    - Thoughts
+    - Intelligence
+    answer: 1
+  - q: Why is the polygraph not accepted in many courts?
+    options:
+    - It is too expensive
+    - It is not considered valid
+    - It takes too long
+    - It was banned by the USA
+    answer: 1
+  - tf: A calm liar may show no reaction on a polygraph.
+    answer: true
+  - tf: Scientists agree that brain scans have completely solved the problem.
+    answer: false

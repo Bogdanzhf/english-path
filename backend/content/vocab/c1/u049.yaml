@@ -23,3 +23,52 @@ words:
 - unwavering | adj | ʌnˈweɪvərɪŋ | ənˈweɪvərɪŋ | непоколебимый | not changing | She has *unwavering* faith. | У неё непоколебимая вера.
 - victorious | adj | vɪkˈtɔːrɪəs | vɪkˈtɔːriəs | победоносный | having won | The *victorious* team celebrated. | Команда-победитель праздновала.
 - wary | adj | ˈweəri | ˈweri | настороженный | careful because of possible danger | Be *wary* of strangers. | Остерегайся незнакомцев.
+reading:
+  title: 27 Years Alone
+  title_ru: 27 лет в одиночестве
+  text: |
+    In 1986, a twenty-year-old man named Christopher Knight drove into the forests of Maine, in the north-east of the United States, left his car and walked into the woods. He told no one where he was going. He did not return for twenty-seven years.
+
+    Knight built a hidden camp in the forest, near a lake. He covered his tent with branches so it could not be seen. During the freezing Maine winters, when temperatures fell to −30°C, he survived by waking at two in the morning and walking around to keep warm. In all those years, he spoke to another person only once, when he passed a walker in the woods and said "hi".
+
+    But Knight was not completely self-sufficient. To get food and supplies, he broke into nearby holiday cabins, usually when their owners were away. Over the years, he committed about a thousand burglaries, taking tinned food, books, batteries, gloves and warm clothes. For local people, the mysterious thief became a legend. Some found it almost comic; others were frightened. Many locked their basements and fitted alarms, which only complicated his life.
+
+    In 2013, a game warden finally caught him stealing from a summer camp. When police questioned him, Knight blinked nervously and spoke slowly, as if he had forgotten how. At first, he declined to say much. Later, he explained that he had never felt comfortable around people. He had pondered his decision many times but felt no regret. In the forest, he said, he had found a peace that society could not offer.
+
+    Knight was sentenced to seven months in jail. Many people argued about whether he had been treated justly. He was a thief, but he had never hurt anyone. After his release, he moved in with family, got a job and ran errands for his mother — but he never seemed happy in the modern world. His strange story has inspired books, articles and even a film script, all asking the same question: what makes a person choose to live as a hermit?
+  ru: |
+    В 1986 году двадцатилетний Кристофер Найт заехал в леса штата Мэн на северо-востоке США, бросил машину и ушёл в чащу. Он никому не сказал, куда направляется. Вернулся он только через двадцать семь лет.
+
+    Найт устроил в лесу у озера скрытый лагерь. Он маскировал палатку ветками, чтобы её не было видно. Суровыми зимами в Мэне, когда температура опускалась до −30 °C, он выживал, просыпаясь в два часа ночи и расхаживая, чтобы не замёрзнуть. За все эти годы он заговорил с человеком лишь однажды — когда встретил в лесу туриста и сказал ему «привет».
+
+    Но Найт не был полностью самодостаточным. Чтобы добыть еду и необходимые вещи, он проникал в соседние дачные домики — обычно когда хозяев не было. За эти годы он совершил около тысячи краж, забирая консервы, книги, батарейки, перчатки и тёплую одежду. Для местных таинственный вор стал легендой. Одним это казалось почти комичным, другие боялись. Многие запирали подвалы и ставили сигнализацию, что лишь усложняло ему жизнь.
+
+    В 2013 году егерь наконец поймал его, когда он воровал в летнем лагере. Когда полиция его допрашивала, Найт нервно моргал и говорил медленно, словно разучился. Поначалу он отказывался много рассказывать. Позже он объяснил, что никогда не чувствовал себя комфортно среди людей. Он много раз обдумывал своё решение, но ни о чём не жалел. В лесу, по его словам, он нашёл покой, который общество дать не могло.
+
+    Найта приговорили к семи месяцам тюрьмы. Многие спорили, справедливо ли с ним обошлись. Он был вором, но никому никогда не причинил вреда. После освобождения он переехал к родным, устроился на работу и выполнял поручения матери, но в современном мире так и не выглядел счастливым. Его странная история вдохновила книги, статьи и даже сценарий фильма, и все они задаются одним вопросом: что заставляет человека выбрать жизнь отшельника?
+  questions:
+  - q: How long did Knight live in the forest?
+    options:
+    - Seven years
+    - Twenty-seven years
+    - Seven months
+    - Forty years
+    answer: 1
+  - q: How did Knight get food and supplies?
+    options:
+    - He hunted animals
+    - He broke into holiday cabins
+    - Friends brought them
+    - He grew vegetables
+    answer: 1
+  - q: How did Knight survive the cold winters?
+    options:
+    - He lit large fires
+    - He woke at 2 am and walked around to keep warm
+    - He stayed in cabins
+    - He slept all day
+    answer: 1
+  - tf: Knight spoke to many people while living in the woods.
+    answer: false
+  - tf: Knight never hurt anyone.
+    answer: true

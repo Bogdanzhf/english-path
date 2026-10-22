@@ -23,3 +23,56 @@ words:
 - telescope | n | ˈtelɪskəʊp | ˈtelɪskoʊp | телескоп | an instrument for looking at faraway things | Through the *telescope*, we saw the rings of Saturn. | В телескоп мы увидели кольца Сатурна.
 - the Milky Way | n | ðə ˈmɪlki weɪ |  | Млечный Путь | our galaxy | Our sun is a star in *the Milky Way*. | Наше Солнце — звезда Млечного Пути.
 - universe | n | ˈjuːnɪvɜːs | ˈjuːnəvɜːrs | вселенная | everything that exists in space | The *universe* is billions of years old. | Вселенной миллиарды лет.
+reading:
+  title: Houston, We've Had a Problem
+  title_ru: Хьюстон, у нас проблема
+  text: |
+    In April 1970, three American astronauts set off on the Apollo 13 mission. Their aim was to become the third crew to land on the Moon. Fifty-six hours into the flight, and more than 300,000 kilometres from Earth, an oxygen tank exploded. Calmly, one of the astronauts spoke the now famous words: "Houston, we've had a problem."
+
+    The explosion disrupted the spacecraft's supplies of power, water and oxygen. The Moon landing was immediately cancelled. Now the only question was whether the crew could get home alive. They were stranded in space, with a multitude of problems and very little time.
+
+    Back on Earth, in Houston, Texas, hundreds of engineers began a frantic effort to save them. The astronauts moved into the small lunar module, which was designed for two people for two days — not three people for four. Soon, carbon dioxide began to build up, and the air was becoming dangerous to breathe. The engineers had to improvise a solution. Using only items that were on board — plastic bags, cardboard, tape and even a sock — they designed a filter and explained it to the crew step by step. It worked.
+
+    Navigation was another nightmare. The ship had deviated from its planned path, and the computers had been switched off to save power. Any erroneous calculation could send the spacecraft past the Earth forever. Using a technique that ancient mariners would have recognized, the astronauts lined up the ship with the Sun and checked their direction by hand. Engineers on the ground solved equation after equation to confirm the course.
+
+    For four days, the crew suffered from freezing temperatures and very little sleep. Finally, on 17 April, they splashed down safely in the Pacific Ocean. Millions of people around the world had watched and prayed.
+
+    The mission failed to reach the Moon, but NASA calls it a "successful failure". It proved that, even when things go terribly wrong, careful teamwork can bring people home.
+  ru: |
+    В апреле 1970 года трое американских астронавтов отправились в полёт «Аполлон-13». Их целью было стать третьим экипажем, высадившимся на Луну. Через пятьдесят шесть часов полёта, более чем в 300 000 километров от Земли, взорвался кислородный бак. Один из астронавтов спокойно произнёс ставшие знаменитыми слова: «Хьюстон, у нас проблема».
+
+    Взрыв нарушил снабжение корабля энергией, водой и кислородом. Посадку на Луну сразу же отменили. Теперь вопрос был лишь в том, сможет ли экипаж вернуться домой живым. Они оказались в беде посреди космоса — с множеством проблем и очень малым запасом времени.
+
+    На Земле, в Хьюстоне (Техас), сотни инженеров начали отчаянные попытки их спасти. Астронавты перешли в маленький лунный модуль, рассчитанный на двоих человек на два дня, а не на троих на четыре. Вскоре стал накапливаться углекислый газ, и воздухом становилось опасно дышать. Инженерам пришлось импровизировать. Используя только то, что было на борту, — пластиковые пакеты, картон, скотч и даже носок, — они сконструировали фильтр и шаг за шагом объяснили экипажу, как его собрать. Это сработало.
+
+    Навигация была ещё одним кошмаром. Корабль отклонился от запланированного курса, а компьютеры отключили, чтобы экономить энергию. Любой ошибочный расчёт мог навсегда пронести корабль мимо Земли. Используя приём, который узнали бы древние мореплаватели, астронавты выровняли корабль по Солнцу и вручную проверили направление. Инженеры на Земле решали уравнение за уравнением, чтобы подтвердить курс.
+
+    Четыре дня экипаж страдал от холода и почти не спал. Наконец, 17 апреля, они благополучно приводнились в Тихом океане. Миллионы людей по всему миру следили за ними и молились.
+
+    Экспедиция не долетела до Луны, но НАСА называет её «успешной неудачей». Она доказала: даже когда всё идёт ужасно не так, слаженная командная работа может вернуть людей домой.
+  questions:
+  - q: What caused the problem on Apollo 13?
+    options:
+    - A computer failure
+    - An oxygen tank exploded
+    - They hit the Moon
+    - A crew member was ill
+    answer: 1
+  - q: What did the engineers improvise?
+    options:
+    - A new engine
+    - A filter for carbon dioxide
+    - A radio
+    - A map
+    answer: 1
+  - q: How did the astronauts check their direction?
+    options:
+    - With their computers
+    - By lining up the ship with the Sun
+    - Using astrology
+    - Using GPS
+    answer: 1
+  - tf: Apollo 13 landed on the Moon.
+    answer: false
+  - tf: NASA calls the mission a 'successful failure'.
+    answer: true

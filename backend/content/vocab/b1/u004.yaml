@@ -24,3 +24,52 @@ words:
 - teammate | n | ˈtiːmeɪt |  | товарищ по команде | a person in the same team | She passed the ball to her *teammate*. | Она передала мяч партнёру по команде.
 - tease | v | tiːz |  | дразнить | to laugh at someone in a playful or unkind way | His brothers *teased* him about his big ears. | Братья дразнили его из-за больших ушей.
 - unknown | adj | ʌnˈnəʊn | ənˈnoʊn | неизвестный | not known | The cause of the fire is still *unknown*. | Причина пожара пока неизвестна.
+reading:
+  title: The Orphan and the Old Man
+  title_ru: Сирота и старик
+  text: |
+    Tom was an orphan who lived with his aunt in a small village. Next door lived Mr. Harris, a grumpy old man. For years, there had been a dispute between Mr. Harris and Tom's aunt about the garden fence. Mr. Harris shouted at Tom whenever his ball went over it.
+
+    One day, after another incident with the ball, Mr. Harris kept it and refused to give it back. Tom was filled with rage. He wanted revenge. That night, he plotted his plan. He would sneak into the old man's garden and pull up all his flowers, especially the daisies Mr. Harris loved so much.
+
+    Early the next morning, in the grey mist, Tom crept over the fence. But as he reached the flowers, he heard a strange sound. Through the window, he saw Mr. Harris lying on the kitchen floor. Tom watched in horror. The old man wasn't moving.
+
+    Tom forgot all about his plan. He climbed in through the back door, which was open, and called an ambulance. Then he sat with Mr. Harris and held his hand until help came. The doctors said the old man had fallen and broken his hip. "If the boy hadn't found you," they said, "it could have been much worse."
+
+    A week later, Mr. Harris came home from hospital. He asked Tom to visit. On the kitchen table was the ball — and a bunch of daisies with long stems. "I'm sorry," the old man said with a sigh. "I've been lonely since my wife died. This house has felt so empty." Tom felt a wave of shame about his plan for revenge. He told Mr. Harris the truth. To his surprise, Mr. Harris laughed. "Then we're even," he said. "Can you spare an evening? I make a very tender beef stew." From then on, Tom often came for supper, and the two of them sat on the bench in the garden, talking for hours.
+  ru: |
+    Том был сиротой и жил с тётей в маленькой деревне. По соседству жил мистер Харрис, ворчливый старик. Много лет мистер Харрис и тётя Тома спорили из-за садового забора. Мистер Харрис кричал на Тома каждый раз, когда его мяч перелетал через забор.
+
+    Однажды, после очередного случая с мячом, мистер Харрис забрал его себе и отказался отдавать. Тома охватила ярость. Он жаждал мести. Той ночью он обдумал свой план. Он проберётся в сад старика и вырвет все его цветы — особенно ромашки, которые мистер Харрис так любил.
+
+    Ранним утром, в сером тумане, Том перелез через забор. Но как только он подобрался к цветам, он услышал странный звук. Через окно он увидел мистера Харриса, лежащего на полу кухни. Том смотрел в ужасе. Старик не двигался.
+
+    Том совсем забыл о своём плане. Он вошёл через заднюю дверь, которая была открыта, и вызвал скорую. Потом сидел рядом с мистером Харрисом и держал его за руку, пока не приехала помощь. Врачи сказали, что старик упал и сломал бедро. «Если бы мальчик вас не нашёл, — сказали они, — всё могло бы быть гораздо хуже».
+
+    Через неделю мистер Харрис вернулся из больницы. Он позвал Тома в гости. На кухонном столе лежал мяч — и букет ромашек на длинных стеблях. «Прости меня, — сказал старик со вздохом. — Мне было одиноко с тех пор, как умерла жена. Этот дом казался таким пустым». Тому стало очень стыдно за свой план мести. Он рассказал мистеру Харрису правду. К его удивлению, тот рассмеялся. «Значит, мы квиты, — сказал он. — Найдётся у тебя свободный вечер? Я готовлю очень нежное рагу из говядины». С тех пор Том часто приходил на ужин, и они вдвоём часами сидели на скамейке в саду и разговаривали.
+  questions:
+  - q: Why did Tom want revenge?
+    options:
+    - Mr. Harris hit him
+    - Mr. Harris kept his ball
+    - Mr. Harris broke the fence
+    - Mr. Harris shouted at his aunt
+    answer: 1
+  - q: What did Tom see through the window?
+    options:
+    - Mr. Harris eating
+    - Mr. Harris lying on the floor
+    - A thief
+    - A fire
+    answer: 1
+  - q: Why was Mr. Harris so grumpy?
+    options:
+    - He hated children
+    - He was lonely after his wife died
+    - He was ill
+    - He had no money
+    answer: 1
+  - tf: Tom pulled up the daisies.
+    answer: false
+  - tf: Tom and Mr. Harris became friends.
+    answer: true

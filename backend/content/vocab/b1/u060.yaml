@@ -21,3 +21,52 @@ words:
 - regret | v | rɪˈɡret |  | сожалеть | to feel sorry about something you did or didn't do | I *regret* not studying harder at school. | Жалею, что не учился усерднее в школе. | regret + -ing
 - soothe | v | suːð |  | успокаивать, облегчать | to make someone calm; to make pain less | Her calm voice *soothed* the frightened child. | Её спокойный голос успокоил испуганного ребёнка.
 - terrify | v | ˈterɪfaɪ | ˈterəfaɪ | приводить в ужас | to make someone very afraid | Spiders *terrify* me. | Я до ужаса боюсь пауков.
+reading:
+  title: The Wrestling Match
+  title_ru: Схватка
+  text: |
+    At my school, the wrestling team was the pride of the entire town. The dominant wrestler was a big boy called Rick. Rick was also a bully. He boasted about his strength and pushed younger kids in the corridors. Everyone was afraid of him.
+
+    I was small and quiet, and Rick loved to make fun of me. But my uncle had been a wrestling coach, and he started training me in his garage. He made me eat plenty of carbohydrates and run every morning. He taught me to crawl, roll and bounce back up quickly. "Your opponent may be stronger," he said, "but you can be faster."
+
+    At the end of the year, there was a school competition. Of course, my first opponent was Rick. When he saw me, he laughed. "This won't take long," he said. The match was torture. My muscles were sore, and I strained every part of my body to stay on my feet. The clock's dial seemed to move so slowly. But I used my speed, and in the final seconds, I pinned him to the floor.
+
+    The room went silent. Then everyone cheered. It was Rick's first defeat in three years. He lay on the mat, red and angry. For a moment, I wanted to boast like he always did. But I remembered how his words used to sting, and I decided to show mercy. I offered him my hand.
+
+    Rick looked at me for a long time. Then he nodded and took it. After that day, we stopped quarrelling. We were still rivals on the mat, but outside of it, Rick became my ally. He even stopped bullying the younger kids.
+  ru: |
+    В нашей школе борцовская команда была гордостью всего города. Сильнейшим борцом был здоровяк по имени Рик. А ещё Рик был задирой. Он хвастался своей силой и толкал младших в коридорах. Все его боялись.
+
+    Я был маленьким и тихим, и Рик обожал надо мной издеваться. Но мой дядя когда-то был тренером по борьбе, и он начал тренировать меня у себя в гараже. Он заставлял меня есть побольше углеводов и бегать каждое утро. Он научил меня ползать, перекатываться и быстро вскакивать. «Соперник может быть сильнее, — говорил он, — но ты можешь быть быстрее».
+
+    В конце года в школе устроили соревнования. Конечно же, моим первым соперником оказался Рик. Увидев меня, он рассмеялся. «Это ненадолго», — сказал он. Схватка была мучением. Мышцы болели, и я напрягал каждую частичку тела, чтобы устоять на ногах. Стрелка на циферблате, казалось, двигалась ужасно медленно. Но я использовал свою скорость и в последние секунды прижал его к полу.
+
+    Зал затих. А потом все закричали от восторга. Это было первое поражение Рика за три года. Он лежал на ковре, красный и злой. На миг мне захотелось похвастаться, как всегда делал он. Но я вспомнил, как больно жалили его слова, и решил проявить великодушие. Я протянул ему руку.
+
+    Рик долго смотрел на меня. Потом кивнул и взял её. С того дня мы перестали ссориться. На ковре мы по-прежнему были соперниками, но вне его Рик стал моим союзником. Он даже перестал задирать младших.
+  questions:
+  - q: Who trained the narrator?
+    options:
+    - His father
+    - His uncle
+    - Rick
+    - The school coach
+    answer: 1
+  - q: How did the narrator win?
+    options:
+    - He was stronger
+    - He used his speed
+    - Rick was injured
+    - The judge helped him
+    answer: 1
+  - q: What did the narrator do after winning?
+    options:
+    - He boasted
+    - He offered Rick his hand
+    - He left the room
+    - He laughed at Rick
+    answer: 1
+  - tf: Rick had lost many matches before.
+    answer: false
+  - tf: Rick and the narrator became allies.
+    answer: true

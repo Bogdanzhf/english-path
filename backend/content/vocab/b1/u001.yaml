@@ -25,3 +25,56 @@ words:
 - staff | n | stɑːf | stæf | персонал, сотрудники | all the people who work for a company | The hotel *staff* were very helpful. | Персонал отеля был очень отзывчивым.
 - teen | n | tiːn |  | подросток (разг.) | a teenager | The film is popular with *teens*. | Фильм популярен у подростков.
 - third person | n | θɜːd ˈpɜːsən | θɜːrd ˈpɜːrsən | третье лицо (грам.) | the form used with he, she, it, they | Add -s for the *third person* singular. | В третьем лице единственного числа добавьте -s.
+reading:
+  title: The Night Grandpa Disappeared
+  title_ru: Ночь, когда пропал дедушка
+  text: |
+    After my parents' divorce, my mother and I moved in with my grandfather. Grandpa was a funny old man: bald, with a face full of wrinkles and a big laugh. He helped Mum look after my baby brother, Leo, who was still an infant.
+
+    Every evening, Grandpa sat by Leo's bed and read rhymes aloud. Leo loved them. He sucked his thumb and tried to imitate the sounds. Then Grandpa patted him gently and covered him with a soft blue blanket. Grandpa always had a nap in the afternoon, so he was never tired in the evening.
+
+    One night, I woke up and went to the kitchen for some water. Leo's bed was empty. His blanket was gone, and Grandpa was nowhere to be seen. My heart stopped. Had someone kidnapped them? I ran to Mum's room. "Leo has vanished!" I shouted. "And Grandpa too!"
+
+    Mum jumped out of bed. This was urgent. She grabbed her phone to call the police. But then we heard a strange noise from the garden. We crept to the back door and looked outside.
+
+    There, in the moonlight, was Grandpa. He was pulling my old red wagon very slowly around the garden. Inside the wagon, wrapped in his blue blanket, Leo was fast asleep. "He wouldn't stop crying," Grandpa whispered. "When your mother was a baby, this was the only thing that worked."
+
+    Mum laughed and cried at the same time. The relief was enormous. "Next time, please leave a note," she said. "We were really scared by your absence." Grandpa just smiled. "Some things," he said, "you can reproduce with every new generation."
+  ru: |
+    После развода родителей мы с мамой переехали к дедушке. Дедушка был забавным стариком: лысым, с лицом в морщинах и громким смехом. Он помогал маме ухаживать за моим братиком Лео, который был ещё младенцем.
+
+    Каждый вечер дедушка садился у кроватки Лео и читал вслух стишки. Лео их обожал. Он сосал палец и пытался повторять звуки. Потом дедушка ласково гладил его и укрывал мягким голубым одеялом. Дедушка всегда дремал днём, поэтому вечером никогда не уставал.
+
+    Однажды ночью я проснулся и пошёл на кухню попить воды. Кроватка Лео была пуста. Одеяла не было, и дедушки тоже нигде не было видно. У меня замерло сердце. Неужели их кто-то похитил? Я побежал в мамину комнату. «Лео исчез! — закричал я. — И дедушка тоже!»
+
+    Мама вскочила с кровати. Дело было срочное. Она схватила телефон, чтобы позвонить в полицию. Но тут мы услышали странный шум из сада. Мы прокрались к задней двери и выглянули наружу.
+
+    Там, в лунном свете, был дедушка. Он очень медленно возил мою старую красную тележку по саду. Внутри, завёрнутый в голубое одеяло, крепко спал Лео. «Он никак не переставал плакать, — прошептал дедушка. — Когда твоя мама была маленькой, помогало только это».
+
+    Мама смеялась и плакала одновременно. Облегчение было огромным. «В следующий раз, пожалуйста, оставь записку, — сказала она. — Мы очень испугались, когда тебя не оказалось на месте». Дедушка лишь улыбнулся. «Некоторые вещи, — сказал он, — можно повторять с каждым новым поколением».
+  questions:
+  - q: What did Grandpa do every evening?
+    options:
+    - He watched TV
+    - He read rhymes aloud to Leo
+    - He went for a walk
+    - He cooked dinner
+    answer: 1
+  - q: What did the family think had happened?
+    options:
+    - Leo was ill
+    - Someone had kidnapped Leo and Grandpa
+    - Grandpa had gone shopping
+    - Leo was in the kitchen
+    answer: 1
+  - q: Why was Grandpa in the garden?
+    options:
+    - He was looking for a cat
+    - He was pulling Leo in a wagon to stop him crying
+    - He couldn't sleep
+    - He was fixing the wagon
+    answer: 1
+  - tf: Mum called the police.
+    answer: false
+  - tf: Grandpa had done the same thing when Mum was a baby.
+    answer: true

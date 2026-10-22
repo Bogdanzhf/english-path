@@ -22,3 +22,52 @@ words:
 - scoff | v | skɒf | skɔːf | насмехаться | to laugh at something as stupid | They *scoffed* at his idea. | Они высмеяли его идею.
 - transcribe | v | trænˈskraɪb | trænsˈkraɪb | расшифровывать, переписывать | to write down spoken words | She *transcribed* the interview. | Она расшифровала интервью.
 - wail | v | weɪl |  | выть, вопить, причитать | to cry loudly and sadly | The wind *wailed* through the broken windows. | Ветер выл в разбитых окнах.
+reading:
+  title: Did Einstein Really Say That?
+  title_ru: Правда ли Эйнштейн это сказал?
+  text: |
+    "Insanity is doing the same thing over and over again and expecting different results." You have probably seen this quote attributed to Albert Einstein. It appears on posters, in business presentations and in countless social media posts. There is only one problem: there is no evidence that Einstein ever said it. The earliest known versions appear decades after his death.
+
+    Misquotes are surprisingly frequent. Famous names give words authority, so people attach them to clever sayings. Mark Twain, Winston Churchill and Abraham Lincoln are popular targets. Often, the quotes are not entirely invented; instead, they are based on secondhand reports or memories that have been changed with each retelling.
+
+    A more serious problem arises when genuine words are taken out of context. A politician might say, "Some people claim that we should close our borders, but I disagree." If a journalist omits the second half of the sentence, the meaning is distorted completely. This tactic can cause real damage to a person's reputation. Even respected news anchors have been forced to apologize after playing short clips that misrepresented what someone meant.
+
+    Why do such errors spread so easily? Psychologists point out that we are more likely to share something if it confirms what we already believe. Our beliefs and the "facts" we accept overlap. A surprising or emotional quote spreads with great energy online, while the correction, published later, reaches far fewer people.
+
+    The good news is that checking quotes is a skill anyone can learn. Look for the original source: a book, a speech or a recording. Be suspicious of quotes that sound too perfect or too modern for the person who supposedly said them. Websites that specialize in fact-checking can also help. If something turns out to be false, act accordingly: don't share it, and politely let others know. In an age when information travels faster than ever, knowledge of where it comes from is more valuable than ever.
+  ru: |
+    «Безумие — это делать одно и то же снова и снова и ожидать других результатов». Вы наверняка видели эту цитату с подписью «Альберт Эйнштейн». Она встречается на плакатах, в деловых презентациях и в бесчисленных постах в соцсетях. Есть лишь одна проблема: нет никаких доказательств, что Эйнштейн когда-либо это говорил. Самые ранние известные варианты появляются через десятилетия после его смерти.
+
+    Неверные цитаты встречаются удивительно часто. Известные имена придают словам авторитет, поэтому их приписывают к остроумным высказываниям. Марк Твен, Уинстон Черчилль и Авраам Линкольн — излюбленные «авторы». Часто цитаты не выдуманы полностью — они основаны на пересказах из вторых рук или воспоминаниях, которые менялись с каждым пересказом.
+
+    Более серьёзная проблема возникает, когда подлинные слова вырывают из контекста. Политик может сказать: «Некоторые утверждают, что нам следует закрыть границы, но я с этим не согласен». Если журналист опустит вторую половину фразы, смысл полностью исказится. Такой приём может нанести реальный ущерб репутации человека. Даже уважаемым ведущим новостей приходилось извиняться после показа коротких фрагментов, искажавших смысл сказанного.
+
+    Почему такие ошибки так легко распространяются? Психологи отмечают, что мы охотнее делимся тем, что подтверждает наши убеждения. Наши взгляды и «факты», которые мы принимаем, пересекаются. Неожиданная или эмоциональная цитата разлетается по сети с огромной энергией, а опровержение, опубликованное позже, доходит до куда меньшего числа людей.
+
+    Хорошая новость в том, что проверять цитаты может научиться каждый. Ищите первоисточник: книгу, речь или запись. Относитесь с подозрением к цитатам, которые звучат слишком гладко или слишком современно для того, кто их якобы произнёс. Помогут и сайты, специализирующиеся на проверке фактов. Если что-то окажется ложью, действуйте соответственно: не распространяйте и вежливо сообщите об этом другим. В эпоху, когда информация движется быстрее, чем когда-либо, знание её происхождения ценнее, чем когда-либо.
+  questions:
+  - q: What is true about the famous 'insanity' quote?
+    options:
+    - Einstein wrote it in a book
+    - There is no evidence Einstein said it
+    - Mark Twain said it
+    - It comes from a speech
+    answer: 1
+  - q: What happens when words are taken out of context?
+    options:
+    - The meaning can be completely distorted
+    - Nothing changes
+    - They become more accurate
+    - They are deleted
+    answer: 0
+  - q: Why do false quotes spread easily?
+    options:
+    - Corrections reach more people
+    - We share things that confirm what we already believe
+    - They are always funny
+    - They are short
+    answer: 1
+  - tf: Some misquotes are based on secondhand reports.
+    answer: true
+  - tf: The text says checking quotes requires special training.
+    answer: false

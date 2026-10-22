@@ -22,3 +22,52 @@ words:
 - shout | v | ʃaʊt |  | кричать | to say something very loudly | Please don't *shout* — I can hear you. | Пожалуйста, не кричи — я тебя слышу.
 - suggest | v | səˈdʒest | səɡˈdʒest | предлагать, советовать | to give an idea for someone to think about | I *suggest* we take a taxi. | Предлагаю взять такси. | suggest + -ing или that…
 - suppose | v | səˈpəʊz | səˈpoʊz | полагать, предполагать | to think that something is probably true | I *suppose* you are hungry after your trip. | Полагаю, ты голоден после поездки. | be supposed to — быть должным
+reading:
+  title: The Message in a Bottle
+  title_ru: Записка в бутылке
+  text: |
+    Ten-year-old Lucas lives on a small island in the Atlantic Ocean. Every morning before school, he walks along the beach with his dog. He likes to look for interesting things that the waves bring in.
+
+    One stormy morning, Lucas stepped on something hard between two rocks. It was a glass bottle. Inside, there was a piece of paper. The storm had damaged the bottle a little, but the letter was still dry. Lucas ran home to show his mother.
+
+    The letter was written in English. "My name is Grace," it said. "I am eight years old, and I live in Canada. I threw this bottle into the ocean from my uncle's boat. Perhaps it will travel around the world! If you find it, please write to me." There was an address at the bottom. The date on the letter was six years ago!
+
+    Lucas felt many emotions: surprise, excitement and happiness. With his mother's help, he identified the town on a map and wrote a letter to Grace. A month later, an answer came. Grace was now fourteen. She couldn't believe that her bottle had travelled so far. "You made me smile all day," she wrote.
+
+    The two children still write to each other. Last summer, Grace and her family visited the island. They swam in the sea, ate fish with a delicious taste and spent pleasant evenings on the beach. "Never throw rubbish into the sea," Lucas says with a smile. "But a message is different. Sometimes it can discover a new friend."
+  ru: |
+    Десятилетний Лукас живёт на маленьком острове в Атлантическом океане. Каждое утро перед школой он гуляет по пляжу со своей собакой. Ему нравится искать интересные вещи, которые приносят волны.
+
+    Однажды штормовым утром Лукас наступил на что-то твёрдое между двумя камнями. Это была стеклянная бутылка. Внутри лежал листок бумаги. Шторм немного повредил бутылку, но письмо всё ещё было сухим. Лукас побежал домой показать маме.
+
+    Письмо было написано по-английски. «Меня зовут Грейс, — говорилось в нём. — Мне восемь лет, и я живу в Канаде. Я бросила эту бутылку в океан с лодки моего дяди. Может быть, она обойдёт весь мир! Если ты её найдёшь, пожалуйста, напиши мне». Внизу был адрес. Дата на письме — шесть лет назад!
+
+    Лукас испытал много чувств: удивление, волнение и радость. С маминой помощью он нашёл город на карте и написал Грейс письмо. Через месяц пришёл ответ. Грейс было уже четырнадцать. Она не могла поверить, что её бутылка проплыла так далеко. «Ты заставил меня улыбаться весь день», — написала она.
+
+    Дети до сих пор переписываются. Прошлым летом Грейс с семьёй приезжала на остров. Они купались в море, ели очень вкусную рыбу и проводили приятные вечера на пляже. «Никогда не бросайте мусор в море, — говорит Лукас с улыбкой. — Но записка — это другое. Иногда она помогает найти нового друга».
+  questions:
+  - q: Where did Lucas find the bottle?
+    options:
+    - In the water
+    - Between two rocks on the beach
+    - In his garden
+    - On a boat
+    answer: 1
+  - q: How old was Grace when she wrote the letter?
+    options:
+    - Six
+    - Eight
+    - Ten
+    - Fourteen
+    answer: 1
+  - q: What did Grace do last summer?
+    options:
+    - She sent another bottle
+    - She visited the island
+    - She moved to the island
+    - She went to Canada
+    answer: 1
+  - tf: The letter was wet and impossible to read.
+    answer: false
+  - tf: Lucas and Grace still write to each other.
+    answer: true

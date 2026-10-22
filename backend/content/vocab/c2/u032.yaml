@@ -27,3 +27,52 @@ words:
 - topography | n | təˈpɒɡrəfi | təˈpɑːɡrəfi | топография, рельеф | the physical features of land | The *topography* of the area is varied. | Рельеф местности разнообразен.
 - treachery | n | ˈtretʃəri |  | предательство | betrayal | He was accused of *treachery*. | Его обвинили в предательстве.
 - verisimilitude | n | ˈverɪsɪmɪlɪtjuːd | ˌverəsəˈmɪlətuːd | правдоподобие | seeming real | The film has great *verisimilitude*. | Фильм очень правдоподобен.
+reading:
+  title: Lessons from the Blue Zones
+  title_ru: Уроки «голубых зон»
+  text: |
+    Humans have always been intrigued by longevity. We admire giant tortoises and other reptiles that live for over 150 years, and orangutans that reach their fifties. But in a few places on Earth, it is people who seem to have discovered the secret of a long life.
+
+    In the early 2000s, a team of researchers began to probe why some communities had unusually high numbers of people living to 100. They identified five regions, later called "Blue Zones": Okinawa in Japan, Sardinia in Italy, Nicoya in Costa Rica, Ikaria in Greece and Loma Linda in California. In these places, reaching a hundred is not exactly the norm, but it is far more common than elsewhere.
+
+    The researchers found several shared habits. People in Blue Zones rarely go to the gym, but they move naturally all day: gardening, walking and climbing hills. They eat mainly plants, especially beans, and little meat. In Okinawa, a convention called "hara hachi bu" reminds people to stop eating when they are eighty percent full. Many drink a little red wine with friends.
+
+    Social connections seem to be even more important. Older people are treated with respect and remain part of family life. In Okinawa, groups of friends called "moai" support each other for their entire lives, which seems to insulate them from stress and loneliness. Many also have a strong sense of purpose — a reason to get up in the morning — which helps them thrive into old age. Retiring at an arbitrary age is unusual; many continue working and helping their communities.
+
+    Critics point out that some records may be inaccurate, as birth certificates can be misplaced or lost. Others argue that genetics play a role. Nevertheless, the main lessons are hard to dispute. In an age of information overload and stress, the ultimate recipe for a long life may be surprisingly simple: move naturally, eat sensibly, stay connected and find meaning. As one 102-year-old Sardinian woman said in her autobiography: "I never planned to live this long. I was just too busy to die."
+  ru: |
+    Человечество всегда интересовало долголетие. Мы восхищаемся гигантскими черепахами и другими рептилиями, живущими более 150 лет, и орангутанами, доживающими до пятидесяти. Но в нескольких местах на Земле секрет долгой жизни, похоже, открыли сами люди.
+
+    В начале 2000-х группа исследователей начала выяснять, почему в некоторых общинах необычайно много людей доживает до 100 лет. Они выделили пять регионов, позже названных «голубыми зонами»: Окинава в Японии, Сардиния в Италии, Никоя в Коста-Рике, Икария в Греции и Лома-Линда в Калифорнии. Там дожить до ста лет — не то чтобы норма, но гораздо обычнее, чем в других местах.
+
+    Исследователи обнаружили несколько общих привычек. Жители «голубых зон» редко ходят в спортзал, но весь день естественно двигаются: работают в саду, ходят пешком, поднимаются в гору. Они едят в основном растительную пищу, особенно бобовые, и мало мяса. На Окинаве обычай «хара хати бу» напоминает прекращать есть, когда наелся на восемьдесят процентов. Многие пьют немного красного вина в кругу друзей.
+
+    Социальные связи, похоже, ещё важнее. К пожилым относятся с уважением, они остаются частью семейной жизни. На Окинаве группы друзей, называемые «моаи», поддерживают друг друга всю жизнь, и это, видимо, защищает их от стресса и одиночества. У многих есть сильное ощущение смысла — причина вставать по утрам, — которое помогает им сохранять бодрость в старости. Уход на пенсию в произвольно установленном возрасте там редкость; многие продолжают работать и помогать общине.
+
+    Критики отмечают, что некоторые записи могут быть неточными: свидетельства о рождении могли потеряться. Другие считают, что свою роль играет генетика. Тем не менее главные уроки трудно оспорить. В эпоху информационной перегрузки и стресса высший рецепт долгой жизни может оказаться на удивление простым: естественно двигаться, разумно питаться, поддерживать связи и находить смысл. Как написала в автобиографии одна 102-летняя жительница Сардинии: «Я никогда не планировала жить так долго. Мне просто было некогда умирать».
+  questions:
+  - q: What are 'Blue Zones'?
+    options:
+    - Areas near the sea
+    - Regions with unusually many people living to 100
+    - Hospitals
+    - Gyms
+    answer: 1
+  - q: What does 'hara hachi bu' remind people to do?
+    options:
+    - Exercise daily
+    - Stop eating when 80% full
+    - Drink wine
+    - Sleep more
+    answer: 1
+  - q: What do 'moai' groups provide?
+    options:
+    - Food
+    - Lifelong support from friends
+    - Medicine
+    - Money for retirement
+    answer: 1
+  - tf: People in Blue Zones spend a lot of time in gyms.
+    answer: false
+  - tf: Some critics say genetics also play a role.
+    answer: true

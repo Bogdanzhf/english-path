@@ -21,3 +21,52 @@ words:
 - restore | v | rɪˈstɔː | rɪˈstɔːr | восстанавливать, реставрировать | to bring back to a good condition | They *restored* the old church. | Старую церковь отреставрировали.
 - socialize | v | ˈsəʊʃəlaɪz | ˈsoʊʃəlaɪz | общаться | to spend time with other people for fun | Shopping centres are places where teenagers *socialize*. | Торговые центры — места, где общаются подростки.
 - unite | v | juˈnaɪt |  | объединять(ся) | to join together | The bad news *united* the whole town. | Плохая новость сплотила весь город.
+reading:
+  title: The Death of Julius Caesar
+  title_ru: Смерть Юлия Цезаря
+  text: |
+    By 44 BC, Julius Caesar was the most powerful man in Rome. His conquest of Gaul — modern France — had brought the Republic enormous wealth, slaves and commodities such as grain and wine. His soldiers loved him. He had shared their hardships, sleeping on the ground and eating simple food such as bread and lentil soup. When he marshalled his legions, their morale was always high.
+
+    But not everyone was happy. For five hundred years, Rome had been a Republic, ruled by the Senate and elected officials. Caesar had won a civil war and been appointed dictator for life. Many senators were envious of his power. Others were genuine advocates of the Republic who feared he wanted to become king. The dynamics of Roman politics had changed, and the mood in the Senate was dark.
+
+    A group of about sixty senators began to plot against him. Among them was Brutus, a man Caesar trusted like a son. They met in secret, careful not to disclose their plans. There were warnings. According to ancient writers, a fortune-teller had told Caesar to "beware the Ides of March" — the 15th of March. On the night before, his wife dreamed that he was murdered and begged him not to go out.
+
+    Caesar ignored them. On the morning of 15 March, he went to a meeting of the Senate. Passing the fortune-teller, he joked: "The Ides of March have come." "Yes," she replied, "but they have not yet gone." Inside, the senators surrounded him and stabbed him twenty-three times.
+
+    The killers believed they had saved the Republic. However, the evidence indicates the opposite. Ordinary citizens, who loved Caesar, were furious. Unrest spread through the city, and Rome fell into another civil war. In the end, Caesar's adopted son, Octavian, became the first emperor, albeit with a different title. The prophecy had come true, and the Republic was gone forever.
+  ru: |
+    К 44 году до н. э. Юлий Цезарь был самым могущественным человеком в Риме. Завоевание Галлии — нынешней Франции — принесло Республике огромные богатства, рабов и такие товары, как зерно и вино. Солдаты его обожали. Он разделял с ними тяготы — спал на земле и ел простую пищу, например хлеб и чечевичную похлёбку. Когда он выстраивал свои легионы, их боевой дух всегда был высок.
+
+    Но довольны были не все. Пятьсот лет Рим был Республикой, которой управляли сенат и выборные должностные лица. Цезарь победил в гражданской войне и был назначен пожизненным диктатором. Многие сенаторы завидовали его власти. Другие были искренними сторонниками Республики и боялись, что он хочет стать царём. Расстановка сил в римской политике изменилась, и в сенате царило мрачное настроение.
+
+    Группа примерно из шестидесяти сенаторов составила против него заговор. Среди них был Брут, которому Цезарь доверял как сыну. Они встречались тайно, стараясь не раскрыть своих планов. Предупреждения были. По словам древних авторов, прорицательница велела Цезарю «остерегаться мартовских ид» — 15 марта. Накануне ночью его жене приснилось, что его убили, и она умоляла его не выходить из дома.
+
+    Цезарь не обратил на это внимания. Утром 15 марта он отправился на заседание сената. Проходя мимо прорицательницы, он пошутил: «Мартовские иды наступили». «Да, — ответила она, — но ещё не прошли». Внутри сенаторы окружили его и нанесли ему двадцать три удара кинжалами.
+
+    Убийцы считали, что спасли Республику. Однако факты говорят об обратном. Простые горожане, любившие Цезаря, были в ярости. По городу прокатились волнения, и Рим погрузился в новую гражданскую войну. В конце концов приёмный сын Цезаря Октавиан стал первым императором, хотя и под другим титулом. Пророчество сбылось, и Республика исчезла навсегда.
+  questions:
+  - q: Why did Caesar's soldiers love him?
+    options:
+    - He paid them a lot
+    - He shared their hardships
+    - He let them go home
+    - He was the king
+    answer: 1
+  - q: Why did many senators want to kill Caesar?
+    options:
+    - He had lost a war
+    - They feared he wanted to be king
+    - He was too old
+    - He wanted to leave Rome
+    answer: 1
+  - q: What happened after Caesar's death?
+    options:
+    - The Republic became stronger
+    - Rome fell into another civil war
+    - Brutus became emperor
+    - Everyone celebrated
+    answer: 1
+  - tf: Caesar listened to his wife's warning and stayed at home.
+    answer: false
+  - tf: Octavian became the first emperor.
+    answer: true

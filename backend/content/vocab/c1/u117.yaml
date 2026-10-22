@@ -21,3 +21,52 @@ words:
 - reminisce | v | ˌremɪˈnɪs | ˌreməˈnɪs | предаваться воспоминаниям | to talk about the past | We *reminisced* about our school days. | Мы вспоминали школьные годы.
 - 'shortlist | v | ˈʃɔːtlɪst | ʃˈɔːtlɪst | включать в шорт-лист | to put on a list of final candidates | She was *shortlisted* for the prize. | Её включили в шорт-лист премии. | сущ.: shortlist — короткий список'
 - theorize | v | ˈθɪəraɪz | ˈθiːəraɪz | теоретизировать, выдвигать теорию | to form a theory about something | Scientists *theorize* that the island was once part of the mainland. | Учёные предполагают, что остров когда-то был частью материка.
+reading:
+  title: The Truth About Alpha Wolves
+  title_ru: Правда об альфа-волках
+  text: |
+    You have probably heard the idea of the "alpha wolf": a powerful leader that fights its way to the top of the pack and controls the others through aggression. The term has become popular far beyond biology. Self-help books tell men how to become "alpha males", and business writers compare successful bosses to pack leaders. There is just one problem: in the wild, alpha wolves, in this sense, do not really exist.
+
+    The idea comes mainly from studies in the 1940s, which were later made famous in a popular book in 1970. Scientists observed wolves that had been brought together in custody in zoos. These wolves were unrelated adults, forced to live together in a small space. Unsurprisingly, they clashed often. The strongest animals fought for the best food and places to sleep, and the others showed signs of fear and compliance. It seemed obvious that wolf society was based on a constant struggle for dominance.
+
+    In the following decades, a researcher named David Mech, who had helped spread the term, spent many years studying wild wolves in the Arctic. His empirical observations told a different story. A normal wild pack is simply a family: a mother, a father and their young. The so-called "alphas" are just the parents. They lead the pack not because they won fights, but because they are older and more experienced. Young wolves do not need to battle for their place; when they grow up, they leave and disperse to start their own families.
+
+    Mech has spent years trying to correct the mistake, even asking his publisher to stop printing his old book. Yet the myth clings on. People seem to find it hard to comprehend that a dramatic story could be wrong.
+
+    The lesson is important. Animals in captivity often behave very differently from those in the wild, just as a flock of sheep grazing in a field behaves differently from one crowded into a truck. Scientists must be careful about drawing conclusions from unnatural situations — and the rest of us should be careful about the stories we choose to believe.
+  ru: |
+    Вы наверняка слышали об «альфа-волке» — сильном вожаке, который пробивается на вершину стаи в драках и подчиняет остальных агрессией. Этот термин стал популярен далеко за пределами биологии. Книги по саморазвитию учат мужчин становиться «альфа-самцами», а бизнес-авторы сравнивают успешных начальников с вожаками стаи. Есть лишь одна проблема: в дикой природе альфа-волков в этом смысле по сути не существует.
+
+    Эта идея в основном возникла из исследований 1940-х годов, которые позже прославила популярная книга 1970 года. Учёные наблюдали за волками, собранными вместе в неволе, в зоопарках. Это были неродственные взрослые особи, вынужденные жить вместе на небольшом пространстве. Неудивительно, что они часто дрались. Самые сильные боролись за лучшую еду и места для сна, а остальные проявляли страх и покорность. Казалось очевидным, что волчье общество построено на постоянной борьбе за господство.
+
+    В последующие десятилетия исследователь Дэвид Мек, который сам помог распространить этот термин, много лет изучал диких волков в Арктике. Его наблюдения в природе рассказывали иную историю. Обычная дикая стая — это просто семья: мать, отец и их потомство. Так называемые «альфы» — всего лишь родители. Они возглавляют стаю не потому, что победили в драках, а потому что старше и опытнее. Молодым волкам не нужно сражаться за своё место: повзрослев, они уходят и расселяются, чтобы создать собственные семьи.
+
+    Мек годами пытался исправить ошибку и даже просил издателя прекратить печатать свою старую книгу. И всё же миф держится. Людям, похоже, трудно осознать, что эффектная история может оказаться неверной.
+
+    Урок важен. Животные в неволе часто ведут себя совсем не так, как в дикой природе, — так же как отара овец, пасущаяся в поле, ведёт себя иначе, чем набитая в грузовик. Учёные должны осторожно делать выводы из неестественных ситуаций, а всем остальным стоит осторожно выбирать истории, в которые мы верим.
+  questions:
+  - q: Where did the original 'alpha wolf' studies take place?
+    options:
+    - In the wild Arctic
+    - With unrelated wolves kept in zoos
+    - In laboratories with dogs
+    - In the jungle
+    answer: 1
+  - q: What is a normal wild wolf pack, according to Mech?
+    options:
+    - A group of fighters
+    - A family of parents and their young
+    - A group of males only
+    - A random group of adults
+    answer: 1
+  - q: What did Mech ask his publisher to do?
+    options:
+    - Print more copies
+    - Stop printing his old book
+    - Write a new film
+    - Change the title
+    answer: 1
+  - tf: Young wild wolves must fight their parents for their place.
+    answer: false
+  - tf: Animals in captivity can behave very differently from wild animals.
+    answer: true

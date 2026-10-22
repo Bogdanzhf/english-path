@@ -21,3 +21,52 @@ words:
 - transit | n | ˈtrænsɪt | ˈtrænzɪt | транзит; перевозка | moving people or goods | Our bags were lost in *transit*. | Наш багаж потерялся при перевозке. | public transit — общественный транспорт (амер.)
 - travel restrictions | n | ˈtrævl rɪˈstrɪkʃənz | ˈtrævl riːˈstrɪkʃənz | ограничения на поездки | rules that limit travel | *Travel restrictions* were lifted. | Ограничения на поездки сняли.
 - wanderlust | n | ˈwɒndəlʌst | ˈwɑːndərlʌst | страсть к путешествиям | a strong wish to travel | Her *wanderlust* took her around the world. | Тяга к путешествиям привела её во все уголки мира.
+reading:
+  title: How I Beat My Fear of Flying
+  title_ru: Как я победил страх полётов
+  text: |
+    For fifteen years, I refused to get on a plane. My fear began with an unfortunate experience when I was twenty: a flight through a storm, during which the plane dropped suddenly and several passengers screamed. I still have a vivid memory of the drinks flying off the trays. From then on, even the thought of flying put me in a state of panic. I missed weddings, holidays and a job opportunity abroad.
+
+    I'm not alone. Experts estimate that as many as one in four people are afflicted by some degree of fear of flying. For some, it's a mild nervousness; for others, it can lead to a kind of breakdown. The irony is that flying is extremely safe. Statistically, you are far more likely to be hurt driving to the airport than on the plane itself.
+
+    Eventually, I signed up for a course run by an airline. A pilot explained how planes work, why turbulence is uncomfortable but not dangerous, and what all the strange noises mean — the engines changing speed, the wheels moving, the cargo doors closing. Simply understanding the facts helped me retain a sense of calm. A psychologist taught us breathing techniques that help you connect with your body and slow down your heart.
+
+    At the end of the course, we took a short flight together. I chose an aisle seat so I didn't have to look out of the window. While the plane sat idle on the runway, I flipped through a magazine without reading a word. When we took off, I felt sick and was sure I would vomit. But I kept breathing slowly, and after twenty minutes, something changed. I looked around and noticed that the atmosphere was relaxed. People were reading, sleeping, eating raisins and peas from their meal boxes, etc. Nobody else was afraid.
+
+    Last month, I flew to Japan — a twelve-hour flight. I read four chapters of a novel by my favourite author and even slept a little. When the captain notified us that we were beginning our descent, I realized I was almost sorry it was over.
+  ru: |
+    Пятнадцать лет я отказывался садиться в самолёт. Мой страх начался с неудачного опыта, когда мне было двадцать: полёт сквозь грозу, во время которого самолёт резко провалился вниз и несколько пассажиров закричали. Я до сих пор ярко помню, как напитки слетали со столиков. С тех пор даже мысль о полёте вызывала у меня панику. Я пропускал свадьбы, отпуска и возможность работать за границей.
+
+    Я не одинок. По оценкам специалистов, в той или иной степени от страха полётов страдает каждый четвёртый. У одних это лёгкое волнение, у других может дойти до своего рода срыва. Ирония в том, что летать чрезвычайно безопасно. По статистике, куда вероятнее пострадать по дороге в аэропорт, чем в самом самолёте.
+
+    В конце концов я записался на курс, который проводила одна авиакомпания. Пилот объяснил, как устроены самолёты, почему турбулентность неприятна, но не опасна, и что означают все эти странные звуки: двигатели меняют обороты, выпускаются шасси, закрываются двери грузового отсека. Простое понимание фактов помогло мне сохранять спокойствие. Психолог научил нас дыхательным техникам, которые помогают почувствовать своё тело и замедлить сердцебиение.
+
+    В конце курса мы вместе совершили короткий полёт. Я выбрал место у прохода, чтобы не смотреть в окно. Пока самолёт стоял на взлётной полосе, я листал журнал, не прочитав ни слова. Когда мы взлетели, меня замутило, и я был уверен, что меня вырвет. Но я продолжал медленно дышать, и минут через двадцать что-то изменилось. Я огляделся и заметил, что атмосфера спокойная. Люди читали, спали, ели изюм и горошек из своих ланч-боксов и так далее. Больше никто не боялся.
+
+    В прошлом месяце я летал в Японию — двенадцать часов полёта. Я прочитал четыре главы романа любимого автора и даже немного поспал. Когда капитан объявил, что мы начинаем снижение, я понял, что мне почти жаль, что полёт закончился.
+  questions:
+  - q: What caused the writer's fear of flying?
+    options:
+    - A film
+    - A flight through a storm
+    - A plane crash on TV
+    - A dream
+    answer: 1
+  - q: What did the pilot explain on the course?
+    options:
+    - How to fly a plane
+    - How planes work and why turbulence isn't dangerous
+    - How to avoid airports
+    - How to sleep on planes
+    answer: 1
+  - q: Why did the writer choose an aisle seat?
+    options:
+    - To get food first
+    - So he didn't have to look out of the window
+    - To be near the toilet
+    - It was cheaper
+    answer: 1
+  - tf: Flying is statistically more dangerous than driving to the airport.
+    answer: false
+  - tf: The writer flew to Japan last month.
+    answer: true

@@ -28,3 +28,52 @@ words:
 - 'retrospective | adj | ˌretrəʊˈspektɪv | ˌretrəˈspektɪv | ретроспективный; обратной силы | looking back | The law has *retrospective* effect. | Закон имеет обратную силу. | сущ.: retrospective — ретроспектива'
 - 'splinter | v | ˈsplɪntə | ˈsplɪntər | раскалываться | to break into pieces or groups | The party *splintered* into factions. | Партия раскололась на фракции. | сущ.: splinter — заноза'
 - xenophobia | n | ˌzenəˈfəʊbiə | ˌzenəˈfoʊbiə | ксенофобия | fear or hatred of foreigners | *Xenophobia* is on the rise. | Ксенофобия растёт.
+reading:
+  title: '1588: The Armada and the Storm'
+  title_ru: '1588: Армада и буря'
+  text: |
+    In the summer of 1588, King Philip II of Spain launched one of the largest naval operations in history. His fleet of around 130 ships, known as the "Invincible Armada", set sail to invade Protestant England and remove Queen Elizabeth I from the throne. Spain was the most powerful country in Europe, wealthy from the silver it imported from its American colonies.
+
+    The plan was elaborate. The Armada would sail up the English Channel, meet a Spanish army waiting in the Netherlands, and carry the soldiers across to England. However, communication was slow; the king in his marble palace near Madrid could wait weeks for an update. The commander, the Duke of Medina Sidonia, had little experience at sea. Some historians infer from his letters that he had not wanted the job at all.
+
+    The English fleet was smaller, but its ships were faster and more manoeuvrable, and its sailors had an almost innate knowledge of the local waters. For a week, the two fleets fought along the Channel without a decisive result. Then, when the Armada anchored near Calais, the English sent eight burning ships towards it in the night. The Spanish captains faced a dilemma: stay and risk fire, or cut their anchors and flee. They fled in panic, and the fleet was scattered.
+
+    Unable to return through the Channel, the Spanish ships were forced to sail north around Scotland and Ireland. There, violent storms facilitated the disaster. Masts snapped, ships were wrecked on rocky coasts, and soldiers, saturated and suffering from nausea, hunger and disease, died in their thousands. The exact numbers are unknown, but perhaps a third of the ships never returned.
+
+    In England, the victory was celebrated as proof of God's protection, and the story was inflated over time. Medals declared that "God blew, and they were scattered." Today, museums display Spanish acquisitions recovered from wrecks: cannons, coins in leather pouches and personal accessories. They are quiet reminders that even the most powerful fleets can be defeated by poor planning — and by the weather.
+  ru: |
+    Летом 1588 года испанский король Филипп II начал одну из крупнейших морских операций в истории. Его флот из примерно 130 кораблей, прозванный «Непобедимой армадой», отправился в поход, чтобы вторгнуться в протестантскую Англию и свергнуть королеву Елизавету I. Испания была самой могущественной страной Европы, разбогатевшей на серебре, которое она ввозила из американских колоний.
+
+    План был тщательно продуман. Армада должна была пройти по Ла-Маншу, встретиться с испанской армией, ожидавшей в Нидерландах, и переправить солдат в Англию. Однако связь была медленной: король в своём мраморном дворце под Мадридом мог неделями ждать новостей. Командующий, герцог Медина-Сидония, почти не имел морского опыта. По его письмам некоторые историки заключают, что он вообще не хотел этой должности.
+
+    Английский флот был меньше, но его корабли были быстрее и манёвреннее, а моряки почти инстинктивно знали местные воды. Неделю два флота сражались вдоль Ла-Манша без решающего результата. А когда армада встала на якорь у Кале, англичане ночью пустили на неё восемь горящих кораблей. Испанские капитаны оказались перед дилеммой: остаться и рискнуть сгореть или обрубить якоря и бежать. Они в панике бежали, и флот рассеялся.
+
+    Не имея возможности вернуться через Ла-Манш, испанские корабли были вынуждены идти на север вокруг Шотландии и Ирландии. Там довершили катастрофу жестокие бури. Мачты ломались, корабли разбивались о скалистые берега, а промокшие солдаты, страдавшие от тошноты, голода и болезней, гибли тысячами. Точные цифры неизвестны, но, возможно, треть кораблей так и не вернулась.
+
+    В Англии победу праздновали как доказательство Божьего покровительства, и со временем история обросла преувеличениями. На медалях было выбито: «Бог дунул — и они рассеялись». Сегодня музеи выставляют испанские находки, поднятые с затонувших кораблей: пушки, монеты в кожаных мешочках и личные вещи. Они тихо напоминают о том, что даже самый могучий флот можно победить плохим планированием — и погодой.
+  questions:
+  - q: What was the aim of the Armada?
+    options:
+    - To trade with England
+    - To invade England and remove Elizabeth I
+    - To explore America
+    - To defend Spain
+    answer: 1
+  - q: What did the English send towards the Armada at Calais?
+    options:
+    - Spies
+    - Burning ships
+    - A peace offer
+    - Cannons on land
+    answer: 1
+  - q: What caused the greatest losses for the Spanish?
+    options:
+    - English cannons only
+    - Storms around Scotland and Ireland
+    - A disease in Spain
+    - Pirates
+    answer: 1
+  - tf: The Duke of Medina Sidonia was a very experienced sailor.
+    answer: false
+  - tf: The story of the English victory was exaggerated over time.
+    answer: true

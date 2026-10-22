@@ -23,3 +23,52 @@ words:
 - sociology | n | ˌsəʊsiˈɒlədʒi | ˌsoʊsiˈɑːlədʒi | социология | the study of society and how people behave in groups | *Sociology* looks at how groups and societies work. | Социология изучает, как устроены группы и общества.
 - solar | adj | ˈsəʊlə | ˈsoʊlər | солнечный | connected with the sun | *Solar* power is becoming cheaper. | Солнечная энергия становится дешевле.
 - statistics | n | stəˈtɪstɪks |  | статистика | numbers that show facts | *Statistics* show that crime is falling. | Статистика показывает, что преступность снижается.
+reading:
+  title: Did Einstein Really Fail Maths?
+  title_ru: Правда ли Эйнштейн проваливал математику?
+  text: |
+    It's one of the most popular stories in the world: Albert Einstein, the greatest scientist of the twentieth century, was a weak student who failed maths at school. People love this story because it gives them hope. If Einstein was a bad student, maybe there's a genius inside all of us. Unfortunately, the story is not true.
+
+    In fact, Einstein excelled at mathematics from an early age. By fifteen, he had taught himself advanced algebra and geometry. What is true is that he disliked the strict, boring teaching methods of his German school, and he was not keen on subjects that required memorization, such as languages. When he first applied to a university in Zurich at sixteen — below the minimum age — he failed the general entrance exam. However, his scores in maths and physics were exceptional. He passed the following year and received his teaching diploma in 1900.
+
+    After university, Einstein could not find a job in teaching, so he worked as a clerk at the patent office in Bern. He was a competent clerk, and the work left him time to think. In 1905, he published four papers that changed physics, including his theory of relativity. Einstein was a theoretical physicist: his laboratory was his own intellect. He imagined experiments in his mind, such as what it would be like to ride on a beam of light.
+
+    Today, psychology and sociology tell us that "genius" is more complicated than we think. Cognitive ability matters, but so do curiosity, hard work and the right environment. Marie Curie, who discovered radioactive elements, worked for years in a cold shed. Many great scientists failed in some areas while excelling in others.
+
+    Einstein himself said, "I have no special talent. I am only passionately curious." Curiosity, it seems, is an integral part of genius.
+  ru: |
+    Это одна из самых популярных историй в мире: Альберт Эйнштейн, величайший учёный XX века, был слабым учеником и проваливал математику в школе. Люди любят эту историю, потому что она даёт надежду. Если Эйнштейн плохо учился, может быть, в каждом из нас живёт гений. К сожалению, это неправда.
+
+    На самом деле Эйнштейн с ранних лет блестяще успевал по математике. К пятнадцати годам он самостоятельно освоил высшую алгебру и геометрию. Правда же в том, что ему не нравились строгие, скучные методы обучения в немецкой школе и он не любил предметы, требовавшие зубрёжки, например языки. Когда в шестнадцать лет — меньше минимального возраста — он впервые поступал в университет в Цюрихе, он провалил общий вступительный экзамен. Однако его результаты по математике и физике были исключительными. Он поступил на следующий год и получил диплом преподавателя в 1900 году.
+
+    После университета Эйнштейн не смог найти работу учителя и устроился клерком в патентное бюро в Берне. Он был вполне толковым служащим, и работа оставляла ему время на размышления. В 1905 году он опубликовал четыре статьи, изменившие физику, в том числе свою теорию относительности. Эйнштейн был физиком-теоретиком: его лабораторией был его собственный ум. Он ставил мысленные эксперименты — например, представлял, каково было бы лететь верхом на луче света.
+
+    Сегодня психология и социология говорят нам, что «гениальность» сложнее, чем мы думаем. Когнитивные способности важны, но не менее важны любопытство, упорный труд и подходящая среда. Мария Кюри, открывшая радиоактивные элементы, годами работала в холодном сарае. Многие великие учёные терпели неудачи в одних областях, преуспевая в других.
+
+    Сам Эйнштейн говорил: «У меня нет особых талантов. Я лишь страстно любопытен». Похоже, любопытство — неотъемлемая часть гениальности.
+  questions:
+  - q: What is the truth about Einstein and maths?
+    options:
+    - He failed maths
+    - He excelled at maths from an early age
+    - He never studied maths
+    - He hated maths
+    answer: 1
+  - q: Why did Einstein fail the university entrance exam?
+    options:
+    - His maths was poor
+    - He failed the general exam, though his maths and physics were exceptional
+    - He was ill
+    - He didn't go
+    answer: 1
+  - q: Where did Einstein work when he published his famous papers?
+    options:
+    - At a university
+    - At the patent office
+    - In a laboratory
+    - At a school
+    answer: 1
+  - tf: Einstein said he had a special talent.
+    answer: false
+  - tf: The text suggests curiosity is important for genius.
+    answer: true

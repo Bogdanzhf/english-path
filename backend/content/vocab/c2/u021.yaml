@@ -25,3 +25,52 @@ words:
 - stipulate | v | ˈstɪpjəleɪt |  | оговаривать, ставить условием | to state as a condition | The contract *stipulates* a deadline. | Договор оговаривает срок.
 - succumb | v | səˈkʌm |  | поддаться; умереть (от болезни) | to give in; to die | He *succumbed* to temptation. | Он поддался искушению.
 - vindicate | v | ˈvɪndɪkeɪt | ˈvɪndəkeɪt | оправдывать, подтверждать правоту | to prove right | The results *vindicated* her decision. | Результаты подтвердили правильность её решения.
+reading:
+  title: Magna Carta
+  title_ru: Великая хартия вольностей
+  text: |
+    In the early thirteenth century, England was ruled by King John, one of the most infamous monarchs in English history. He was known for his violent outbursts and his cruelty, and some historians have described him as almost pathologically suspicious of those around him. He had lost most of England's lands in France, and to pay for his failed wars, he imposed heavy taxes on the barons — the powerful landowners. He also imprisoned people without trial and seized their property.
+
+    By 1215, the barons had had enough. Meeting in secrecy, they decided to tackle the king's abuse of power. They raised an army and captured London. King John was forced to negotiate. On 15 June 1215, in a meadow called Runnymede beside the River Thames, he put his seal on a document that became known as Magna Carta, Latin for "Great Charter".
+
+    The charter stated that the king, like everyone else, was subject to the law. Its most famous clause declared that no free man could be imprisoned or punished "except by the lawful judgement of his equals or by the law of the land". Copies were made by hand to disseminate the text across the country.
+
+    In the short term, Magna Carta was a failure. Within weeks, King John asked the Pope to cancel it, and civil war broke out. John showed no remorse; he died the following year, reportedly after a feast. However, the charter was reissued and amended several times by later kings, and many of its principles survived.
+
+    Over the centuries, Magna Carta's influence has been phenomenal. It inspired the English Bill of Rights, the American Constitution and the Universal Declaration of Human Rights. Nations that aspire to democracy often refer to it as a symbol of freedom against tyranny. Ironically, a recent poll found that most British people know very little about it. Yet whenever governments try to censor the press or abolish fair trials, the old principle of 1215 is still relevant: no one, not even a king, is above the law.
+  ru: |
+    В начале XIII века Англией правил король Иоанн — один из самых печально известных монархов в английской истории. Он славился вспышками ярости и жестокостью, а некоторые историки описывают его как почти патологически подозрительного к окружающим. Он потерял большую часть английских владений во Франции и, чтобы оплатить свои неудачные войны, обложил тяжёлыми налогами баронов — могущественных землевладельцев. Он также бросал людей в тюрьму без суда и отбирал их имущество.
+
+    К 1215 году чаша терпения баронов переполнилась. Собравшись тайно, они решили положить конец злоупотреблениям короля. Они собрали войско и захватили Лондон. Королю Иоанну пришлось пойти на переговоры. 15 июня 1215 года на лугу Раннимид у Темзы он скрепил печатью документ, получивший название Magna Carta — по-латыни «Великая хартия».
+
+    Хартия провозглашала, что король, как и все остальные, подчиняется закону. Самая знаменитая её статья гласила, что ни один свободный человек не может быть заключён в тюрьму или наказан «иначе как по законному приговору равных ему или по закону страны». Копии переписывали от руки, чтобы распространить текст по всей стране.
+
+    В краткосрочной перспективе Великая хартия потерпела неудачу. Через несколько недель король Иоанн попросил папу римского её отменить, и вспыхнула гражданская война. Иоанн не выказывал никакого раскаяния; он умер в следующем году — говорят, после пира. Однако последующие короли неоднократно переиздавали хартию с поправками, и многие её принципы уцелели.
+
+    За века влияние Великой хартии оказалось феноменальным. Она вдохновила английский Билль о правах, американскую Конституцию и Всеобщую декларацию прав человека. Страны, стремящиеся к демократии, часто ссылаются на неё как на символ свободы против тирании. По иронии судьбы, недавний опрос показал, что большинство британцев почти ничего о ней не знают. И всё же всякий раз, когда правительства пытаются ввести цензуру прессы или отменить справедливый суд, старый принцип 1215 года остаётся актуальным: никто, даже король, не стоит выше закона.
+  questions:
+  - q: Why were the barons angry with King John?
+    options:
+    - He refused to fight wars
+    - He imposed heavy taxes and imprisoned people without trial
+    - He moved to France
+    - He gave them too much land
+    answer: 1
+  - q: What was the main principle of Magna Carta?
+    options:
+    - The king owns all land
+    - The king is subject to the law
+    - Barons can choose the king
+    - Taxes are abolished
+    answer: 1
+  - q: What happened in the short term?
+    options:
+    - Everyone obeyed the charter
+    - The king asked the Pope to cancel it and civil war broke out
+    - The barons became kings
+    - England became a republic
+    answer: 1
+  - tf: Magna Carta influenced the American Constitution.
+    answer: true
+  - tf: A poll shows that most British people know Magna Carta very well.
+    answer: false

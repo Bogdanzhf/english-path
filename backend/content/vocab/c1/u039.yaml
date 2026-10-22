@@ -19,3 +19,56 @@ words:
 - spam | n | spæm |  | спам | unwanted emails | My inbox is full of *spam*. | Мой почтовый ящик полон спама.
 - technological revolution | n | ˌteknəˈlɒdʒɪkl ˌrevəˈluːʃən | ˌteknəˈlɑːdʒɪkl ˌrevəˈluːʃən | технологическая революция | huge change caused by technology | We are living through a *technological revolution*. | Мы переживаем технологическую революцию.
 - upgrade | v | ʌpˈɡreɪd |  | модернизировать, улучшать | to improve something to a higher standard | The city *upgraded* its water system. | Город модернизировал систему водоснабжения.
+reading:
+  title: From Typewriters to Cyberspace
+  title_ru: От пишущих машинок к киберпространству
+  text: |
+    When my grandmother went to university in 1965, students were expected to attend every lecture in person. She took notes by hand, spent hours in the library searching the index of dusty books, and handed in typewritten essays. If she made a mistake, she had to type the whole page again. "Editing was a nightmare," she says. "I used so much correction fluid that some pages were stiff."
+
+    It seems weird today, but most students then had no idea what their classmates in other countries were studying. Information travelled slowly. The only way to find out about recent research was to read journals that arrived weeks after publication.
+
+    Fast forward to today. My younger brother is in his second semester at a large university. He watches many of his lectures online, sometimes at double speed. He writes essays on a laptop, uses software that highlights grammar mistakes, and collaborates with students across the world in cyberspace. His exams are sometimes held in a huge gymnasium, but many of his assignments are submitted and evaluated online.
+
+    Has university become better? In some ways, clearly. Education is more global, more flexible and more accessible. Online courses allow people to study from home, and many top universities now operate free courses for anyone with an internet connection.
+
+    But my grandmother is not convinced that it's all progress. "We had to think for a while before we wrote anything," she says. "Now students can find any information in seconds, but that doesn't mean they understand it." She also raises a moral question: with artificial intelligence able to write essays, how can teachers know what students really think?
+
+    There's a faint smile on her face as she adds: "Of course, I was completely ignorant about computers. Maybe I'd have loved them." Perhaps her next New Year's resolution should be to try an online course.
+  ru: |
+    Когда моя бабушка поступила в университет в 1965 году, студенты должны были лично посещать каждую лекцию. Она писала конспекты от руки, часами сидела в библиотеке, листая указатели пыльных книг, и сдавала эссе, напечатанные на машинке. Если она ошибалась, приходилось перепечатывать всю страницу. «Редактирование было кошмаром, — говорит она. — Я использовала столько корректора, что некоторые страницы становились жёсткими».
+
+    Сегодня это кажется странным, но большинство студентов тогда понятия не имели, что изучают их сверстники в других странах. Информация распространялась медленно. Единственным способом узнать о новых исследованиях было читать журналы, приходившие через несколько недель после выхода.
+
+    Перенесёмся в наши дни. Мой младший брат учится во втором семестре в крупном университете. Многие лекции он смотрит онлайн, иногда на двойной скорости. Он пишет эссе на ноутбуке, пользуется программой, которая выделяет грамматические ошибки, и работает вместе со студентами со всего мира в киберпространстве. Экзамены у него иногда проходят в огромном спортзале, но многие задания сдаются и оцениваются онлайн.
+
+    Стал ли университет лучше? В чём-то — безусловно. Образование стало более глобальным, гибким и доступным. Онлайн-курсы позволяют учиться из дома, а многие ведущие университеты теперь ведут бесплатные курсы для всех, у кого есть интернет.
+
+    Но бабушка не уверена, что всё это прогресс. «Нам приходилось подумать какое-то время, прежде чем что-то написать, — говорит она. — Сейчас студенты могут найти любую информацию за секунды, но это не значит, что они её понимают». Она также поднимает нравственный вопрос: если искусственный интеллект может писать эссе, как преподаватели узнают, что на самом деле думают студенты?
+
+    С лёгкой улыбкой она добавляет: «Конечно, я совершенно не разбиралась в компьютерах. Может, я бы их полюбила». Возможно, её следующим новогодним обещанием должно стать прохождение онлайн-курса.
+  questions:
+  - q: Why was editing a nightmare for the grandmother?
+    options:
+    - She had no paper
+    - She had to retype the whole page after a mistake
+    - Her teacher was strict
+    - She couldn't type
+    answer: 1
+  - q: How does the brother often watch lectures?
+    options:
+    - Only in person
+    - Online, sometimes at double speed
+    - On TV
+    - He doesn't watch them
+    answer: 1
+  - q: What moral question does the grandmother raise?
+    options:
+    - Whether university is too expensive
+    - How teachers can know what students think when AI can write essays
+    - Whether students should use laptops
+    - Whether lectures are too long
+    answer: 1
+  - tf: The grandmother thinks all modern changes are progress.
+    answer: false
+  - tf: Many top universities offer free online courses.
+    answer: true

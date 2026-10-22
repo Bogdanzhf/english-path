@@ -24,3 +24,52 @@ words:
 - stadium | n | ˈsteɪdiəm |  | стадион | a large sports ground with seats | The *stadium* holds 50,000 people. | Стадион вмещает 50 000 человек.
 - swimmer | n | ˈswɪmə | ˈswɪmər | пловец | a person who swims | She's a strong *swimmer*. | Она хорошо плавает.
 - windsurfing | n | ˈwɪndsɜːfɪŋ | wˈɪndsɜːfɪŋ | виндсёрфинг | sailing on a board with a sail | We tried *windsurfing* on holiday. | В отпуске мы попробовали виндсёрфинг.
+reading:
+  title: The Pirate's Riddle
+  title_ru: Загадка пирата
+  text: |
+    For three hundred years, the inhabitants of the small fishing town of Port Raven have told a story about a wicked pirate called Black Tom. People said he buried a huge treasure somewhere near the town before he died. Some even said he cursed anyone who tried to find it.
+
+    Last October, three teenagers — Mia, Josh and Leo — decided to find out if the legend was true. They had found an old publication in the town library: a book from 1820 that contained a strange riddle. "Where the dead sleep and the old tree weeps, my gold you'll keep," it said.
+
+    "The dead sleep... in a cemetery!" said Mia. "And the old tree must be the big willow in the old churchyard." On Halloween night, they put on dark hoods as a disguise, took their flashlights and went there. It was a real thrill, but also a little scary. They could hear strange creatures moving in the bushes.
+
+    Under the willow, they found a rotten wooden box. Josh opened it slowly. Inside, there was no gold — only a skeleton of a small bird and a piece of paper. On the paper, someone had written: "The real treasure is the adventure. Black Tom."
+
+    The teenagers laughed. Shortly after that, they discovered that the note was a joke by a local writer, who had acquainted himself with the legend and wanted to give young people a fun night. The story spread quickly, and the town decided to make a game of it. Now, every Halloween, children in fancy costumes follow riddles around Port Raven. Nobody starves — the hunt ends with a big party where hot soup nourishes everyone after a cold night.
+  ru: |
+    Уже триста лет жители маленького рыбацкого городка Порт-Рейвен рассказывают историю о злом пирате по прозвищу Чёрный Том. Говорят, перед смертью он зарыл где-то возле города огромный клад. Некоторые даже утверждали, что он проклял всякого, кто попытается его найти.
+
+    Прошлым октябрём трое подростков — Мия, Джош и Лео — решили выяснить, правдива ли легенда. В городской библиотеке они нашли старое издание: книгу 1820 года, в которой была странная загадка. «Где спят мёртвые и плачет старое дерево, там моё золото сбережёшь», — говорилось в ней.
+
+    «Мёртвые спят... на кладбище! — сказала Мия. — А старое дерево — это, наверное, большая ива на старом церковном кладбище». В ночь на Хэллоуин они надели тёмные капюшоны для маскировки, взяли фонарики и пошли туда. Это было по-настоящему захватывающе, но и немного страшно. В кустах шевелились какие-то странные существа.
+
+    Под ивой они нашли сгнивший деревянный ящик. Джош медленно его открыл. Внутри не было золота — только скелет маленькой птицы и листок бумаги. На нём было написано: «Настоящее сокровище — это приключение. Чёрный Том».
+
+    Подростки рассмеялись. Вскоре они узнали, что записка была шуткой местного писателя, который хорошо знал легенду и хотел устроить молодёжи весёлую ночь. История быстро разлетелась, и город решил превратить её в игру. Теперь каждый Хэллоуин дети в нарядных костюмах разгадывают загадки по всему Порт-Рейвену. Никто не остаётся голодным — охота заканчивается большим праздником, где после холодной ночи всех согревает горячий суп.
+  questions:
+  - q: Where did the teenagers find the riddle?
+    options:
+    - In a cemetery
+    - In an old book in the library
+    - On the beach
+    - From a pirate
+    answer: 1
+  - q: Where did they look for the treasure?
+    options:
+    - Under a willow in the old churchyard
+    - In the sea
+    - In the library
+    - In a cave
+    answer: 0
+  - q: Who really wrote the note in the box?
+    options:
+    - Black Tom
+    - A local writer
+    - Mia's father
+    - The librarian
+    answer: 1
+  - tf: The teenagers found a lot of gold.
+    answer: false
+  - tf: Now the town organizes a riddle game every Halloween.
+    answer: true

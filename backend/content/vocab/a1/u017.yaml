@@ -26,3 +26,52 @@ words:
 - thirsty | adj | ˈθɜːsti | ˈθɜːrsti | испытывающий жажду | wanting to drink | I'm *thirsty* — can I have some water? | Я хочу пить — можно воды?
 - tooth | n | tuːθ |  | зуб | one of the hard white things in your mouth | I brush my *teeth* twice a day. | Я чищу зубы два раза в день. | мн. ч. teeth
 - wine | n | waɪn |  | вино | an alcoholic drink made from grapes | They ordered a glass of red *wine* with dinner. | За ужином они заказали бокал красного вина.
+reading:
+  title: Max and His Eyes
+  title_ru: Макс и его глаза
+  text: |
+    Paul is twenty-eight years old, and he cannot see. He lost his sight after an accident when he was a child. But Paul lives a normal life. He has a job, he takes the bus to work, and he meets his friends on Fridays. He can do all this because of Max.
+
+    Max is a service dog. He is a big, calm animal with soft brown fur. For two years, Max went to a special school for dogs. There, he learned many commands. He knows how to stop at the road, how to find a door and how to help Paul get on and off the bus.
+
+    Paul depends on Max every day. When they walk in the street, Max gently pulls Paul to the left or to the right. When Paul hears a strange noise, Max is calm, so Paul is calm too.
+
+    Not all service animals are dogs. Some hospitals use horses, cats and even rabbits to help ill people feel better. Children who are afraid of medical tests often relax when they touch a friendly animal.
+
+    "People think that I help Max," Paul says with a smile. "They open doors for us and give him water. But really, Max helps me. He is my eyes, my legs and my best friend."
+  ru: |
+    Полу двадцать восемь лет, и он не видит. Он потерял зрение после несчастного случая в детстве. Но Пол живёт обычной жизнью. У него есть работа, он ездит туда на автобусе, а по пятницам встречается с друзьями. Всё это он может благодаря Максу.
+
+    Макс — собака-помощник. Это крупное спокойное животное с мягкой коричневой шерстью. Два года Макс учился в специальной школе для собак. Там он выучил много команд. Он умеет останавливаться у дороги, находить дверь и помогать Полу заходить в автобус и выходить из него.
+
+    Пол каждый день полагается на Макса. Когда они идут по улице, Макс мягко тянет Пола влево или вправо. Когда Пол слышит странный шум, Макс спокоен — и Пол тоже успокаивается.
+
+    Не все животные-помощники — собаки. В некоторых больницах лошади, кошки и даже кролики помогают больным людям почувствовать себя лучше. Дети, которые боятся медицинских обследований, часто расслабляются, когда гладят дружелюбное животное.
+
+    «Люди думают, что это я помогаю Максу, — говорит Пол с улыбкой. — Они открывают нам двери и дают ему воду. Но на самом деле это Макс помогает мне. Он мои глаза, мои ноги и мой лучший друг».
+  questions:
+  - q: How does Paul go to work?
+    options:
+    - By car
+    - By bus
+    - On foot
+    - By bike
+    answer: 1
+  - q: Where did Max learn his commands?
+    options:
+    - At home
+    - In a hospital
+    - At a special school for dogs
+    - From Paul
+    answer: 2
+  - q: Which animals help ill people in some hospitals?
+    options:
+    - Only dogs
+    - Horses, cats and rabbits
+    - Birds and fish
+    - No animals
+    answer: 1
+  - tf: Paul was born without sight.
+    answer: false
+  - tf: Paul thinks that Max is his best friend.
+    answer: true

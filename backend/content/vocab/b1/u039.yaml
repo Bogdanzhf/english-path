@@ -24,3 +24,52 @@ words:
 - tornado | n | tɔːˈneɪdəʊ | tɔːrˈneɪdoʊ | торнадо, смерч | a violent spinning column of wind | A *tornado* destroyed several houses. | Смерч разрушил несколько домов.
 - waterfall | n | ˈwɔːtəfɔːl | ˈwɔːtərfɔːl | водопад | water falling from a high place | Niagara Falls is a famous *waterfall*. | Ниагара — знаменитый водопад.
 - weather forecast | n | ˈweðə ˈfɔːkɑːst | ˈweðər ˈfɔːrkæst | прогноз погоды | a report about tomorrow's weather | The *weather forecast* says it will rain. | По прогнозу будет дождь.
+reading:
+  title: The Last Days of Pompeii
+  title_ru: Последние дни Помпеи
+  text: |
+    In the year 79, Pompeii was a busy Roman town near the Bay of Naples. People wandered through its markets, sold bread and wine, and relaxed in public baths. Above the town stood a large green mountain called Vesuvius. Nobody knew it was a volcano.
+
+    In the days before the disaster, there were warnings. The ground vibrated, and wells became dry. Some people had a superstition that the gods were angry, but most people dismissed the signs. Earthquakes were common in the area, after all.
+
+    Then, on a summer afternoon, Vesuvius erupted. A huge cloud of smoke and ash rose into the sky. Stones and hot ash fell on the town like rain. Many people escaped, but others stayed, confined to their homes and hoping it would end. The next morning, a cloud of burning gas and ash rushed down the slopes of the mountain. The remainder of the people had no chance. The town disappeared under six metres of ash. Unlike in some eruptions, it was not lava that destroyed Pompeii, but the ash and gas.
+
+    A young man called Pliny watched the disaster from across the bay. His uncle, a famous scientist, tried to navigate his ship towards the coast to rescue people, but the water was too shallow and the waves too big. His uncle died there. Pliny's letters, which describe his miserable fate, are our best record of the eruption.
+
+    Pompeii was forgotten for over 1,500 years. When archaeologists finally retrieved it from the ash, they found a whole town frozen in time. Today, the site spans 66 hectares and attracts millions of tourists every year. Many visitors feel deep sympathy when they see the shapes of people and animals — even a dog, which perhaps someone had kept with great affection.
+  ru: |
+    В 79 году Помпеи были оживлённым римским городом неподалёку от Неаполитанского залива. Люди бродили по рынкам, продавали хлеб и вино и отдыхали в общественных банях. Над городом возвышалась большая зелёная гора Везувий. Никто не знал, что это вулкан.
+
+    В дни перед катастрофой были предупреждения. Земля дрожала, колодцы пересыхали. Некоторые суеверно считали, что боги гневаются, но большинство не обращало на знаки внимания. В конце концов, землетрясения в этих местах были обычным делом.
+
+    А потом летним днём Везувий начал извергаться. Огромное облако дыма и пепла поднялось в небо. Камни и горячий пепел падали на город, как дождь. Многие успели бежать, но другие остались, запершись в домах в надежде, что всё закончится. На следующее утро облако раскалённого газа и пепла понеслось вниз по склонам горы. У оставшихся людей не было шансов. Город исчез под шестью метрами пепла. В отличие от некоторых извержений, Помпеи уничтожила не лава, а пепел и газ.
+
+    Юноша по имени Плиний наблюдал за катастрофой с другой стороны залива. Его дядя, знаменитый учёный, пытался провести свой корабль к берегу, чтобы спасать людей, но там было слишком мелко, а волны были слишком велики. Дядя погиб там. Письма Плиния, в которых описана его печальная судьба, — наше лучшее свидетельство об извержении.
+
+    О Помпеях забыли более чем на 1500 лет. Когда археологи наконец извлекли город из-под пепла, они нашли целый город, застывший во времени. Сегодня раскопки занимают 66 гектаров и ежегодно привлекают миллионы туристов. Многие посетители испытывают глубокое сочувствие, видя очертания людей и животных — даже собаки, которую, возможно, кто-то очень любил.
+  questions:
+  - q: What did most people think about the warning signs?
+    options:
+    - They were very worried
+    - They dismissed them
+    - They left the town
+    - They asked scientists
+    answer: 1
+  - q: What destroyed Pompeii?
+    options:
+    - Lava
+    - Ash and burning gas
+    - A flood
+    - An earthquake
+    answer: 1
+  - q: Why couldn't Pliny's uncle reach the coast?
+    options:
+    - His ship was broken
+    - The water was shallow and the waves were big
+    - He got lost
+    - The soldiers stopped him
+    answer: 1
+  - tf: People knew that Vesuvius was a volcano.
+    answer: false
+  - tf: Pompeii was forgotten for more than 1,500 years.
+    answer: true

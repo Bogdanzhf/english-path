@@ -25,3 +25,52 @@ words:
 - stupid | adj | ˈstjuːpɪd | ˈstuːpəd | глупый | not intelligent | It was a *stupid* mistake. | Это была глупая ошибка.
 - surname | n | ˈsɜːneɪm | ˈsɜːrneɪm | фамилия | your family name | My *surname* is Ivanov. | Моя фамилия Иванов.
 - teenage | adj | ˈtiːneɪdʒ |  | подростковый | between 13 and 19 years old | They have two *teenage* sons. | У них два сына-подростка.
+reading:
+  title: The Photo in the Attic
+  title_ru: Фотография на чердаке
+  text: |
+    One rainy afternoon, Emily was helping her grandmother clean the attic. Under a pile of old boots and blankets, she found a box. Inside, wrapped in thick paper, was an old photograph in a wooden frame. It showed a young man standing next to a horse.
+
+    "Who is this?" Emily asked. Her grandmother's face went silent for a moment. "That's my grandfather, Thomas," she said. "Your ancestor. There is a family legend about him."
+
+    According to the story, Thomas lived in a small village near the border. One winter, the river near the village froze. A child fell through the ice and started to sink. Everyone was afraid, but Thomas ran onto the ice. He lay down at an angle to spread his weight, reached the child and pulled him out.
+
+    "The whole village praised him," Grandma said. "The child's parents said he came from heaven. Later, the senior officer of the town congratulated him at a ceremony." Emily thought the story was incredible.
+
+    The next day, Emily searched for information online. She found an old newspaper article about the rescue! It was all true. She showed it to her relatives at a family dinner, surrounded by cousins, aunts and uncles. "We should be proud," she said. "Our family history is pure gold." Now the photo hangs in the living room, and Emily wants to proceed with her research to learn more about her family.
+  ru: |
+    Однажды дождливым днём Эмили помогала бабушке убирать чердак. Под кучей старых ботинок и одеял она нашла коробку. Внутри, завёрнутая в плотную бумагу, лежала старая фотография в деревянной рамке. На ней был молодой человек рядом с лошадью.
+
+    «Кто это?» — спросила Эмили. Бабушка на мгновение замолчала. «Это мой дедушка, Томас, — сказала она. — Твой предок. О нём есть семейная легенда».
+
+    Согласно истории, Томас жил в маленькой деревне у границы. Однажды зимой река возле деревни замёрзла. Ребёнок провалился под лёд и начал тонуть. Все боялись, но Томас выбежал на лёд. Он лёг под углом, чтобы распределить свой вес, дотянулся до ребёнка и вытащил его.
+
+    «Вся деревня его хвалила, — сказала бабушка. — Родители ребёнка говорили, что он послан небесами. Позже старший чиновник города поздравил его на церемонии». Эмили подумала, что история невероятная.
+
+    На следующий день Эмили поискала информацию в интернете. Она нашла старую газетную статью о спасении! Всё оказалось правдой. Она показала её родственникам на семейном ужине, окружённая двоюродными братьями и сёстрами, тётями и дядями. «Мы должны гордиться, — сказала она. — Наша семейная история — чистое золото». Теперь фотография висит в гостиной, а Эмили хочет продолжить исследования, чтобы больше узнать о своей семье.
+  questions:
+  - q: Where did Emily find the photo?
+    options:
+    - In the living room
+    - In the attic
+    - In a museum
+    - Online
+    answer: 1
+  - q: Who was the man in the photo?
+    options:
+    - Emily's father
+    - Emily's grandmother's grandfather
+    - A famous soldier
+    - A neighbour
+    answer: 1
+  - q: What did Thomas do?
+    options:
+    - He won a horse race
+    - He saved a child from the ice
+    - He built a bridge
+    - He crossed the border
+    answer: 1
+  - tf: Emily found a newspaper article about the rescue.
+    answer: true
+  - tf: The legend turned out to be false.
+    answer: false

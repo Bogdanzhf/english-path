@@ -22,3 +22,52 @@ words:
 - repertoire | n | ˈrepətwɑː | ˈrepərtwɑːr | репертуар | all the pieces a performer knows | Her *repertoire* includes jazz and pop. | В её репертуаре джаз и поп.
 - stanza | n | ˈstænzə |  | строфа | a group of lines in a poem | The poem has four *stanzas*. | В стихотворении четыре строфы.
 - villain | n | ˈvɪlən |  | злодей | the bad character in a story | The *villain* was played by a famous actor. | Злодея играл известный актёр.
+reading:
+  title: The Story of Cirque du Soleil
+  title_ru: История Цирка дю Солей
+  text: |
+    In the early 1980s, a group of young street performers in a small town near Quebec City, Canada, entertained tourists for coins. They walked on stilts, juggled, breathed fire and mimicked passers-by. Among them was Guy Laliberté, an industrious and resourceful accordion player and fire-breather. Most of them lived together in a communal house and had very little money.
+
+    The group dreamed of creating something bigger. In 1984, Quebec was celebrating the 450th anniversary of the explorer Jacques Cartier's arrival in Canada. The performers convinced the government to give them money for a show. They called it "Cirque du Soleil" — the Circus of the Sun.
+
+    Their idea was inventive. Traditional circuses used animals, and many people had begun to criticize this. Some critics treated a circus without lions and elephants with scorn, saying it was a misguided idea that would fail. But the young team believed that human skill was enough. They combined acrobats, clowns and dancers with original live music, colourful costumes and a story. There were heroes and villains, and the music harmonized with every movement on stage. The result was a theatrical, sensory experience that felt more like a dream than a traditional circus.
+
+    The early years were difficult. In 1987, the company spent everything it had to perform at a festival in Los Angeles. If the show failed, they wouldn't have enough money to get home. Fortunately, it was a huge success.
+
+    Today, Cirque du Soleil has performed for more than 200 million people in over 70 countries, from metropolitan areas like Las Vegas to cities in China, where some shows were adapted for audiences who speak Mandarin. Performers rehearse for months, and teams of technical experts design incredible stages, including pools of water and giant moving platforms. Many of its veteran artists are former Olympic gymnasts, whose fluid movements amaze audiences every night. Not bad for a group of street performers who started with a hat full of coins.
+  ru: |
+    В начале 1980-х группа молодых уличных артистов в маленьком городке под Квебеком (Канада) развлекала туристов за монетки. Они ходили на ходулях, жонглировали, выдыхали огонь и передразнивали прохожих. Среди них был Ги Лалиберте — трудолюбивый и находчивый аккордеонист и глотатель огня. Большинство из них жили вместе в общем доме, и денег у них почти не было.
+
+    Группа мечтала создать что-то большее. В 1984 году Квебек отмечал 450-летие прибытия в Канаду мореплавателя Жака Картье. Артисты убедили власти дать им деньги на шоу. Они назвали его «Цирк дю Солей» — Цирк солнца.
+
+    Их идея была изобретательной. Традиционные цирки использовали животных, и многие уже начали это критиковать. Некоторые критики с презрением относились к цирку без львов и слонов, называя эту идею ошибочной и обречённой на провал. Но молодая команда верила, что человеческого мастерства достаточно. Они объединили акробатов, клоунов и танцоров с оригинальной живой музыкой, яркими костюмами и сюжетом. Были герои и злодеи, а музыка гармонировала с каждым движением на сцене. В итоге получилось театральное, чувственное зрелище, больше похожее на сон, чем на традиционный цирк.
+
+    Первые годы были трудными. В 1987 году труппа потратила всё, что у неё было, чтобы выступить на фестивале в Лос-Анджелесе. Если бы шоу провалилось, им не хватило бы денег вернуться домой. К счастью, успех был огромным.
+
+    Сегодня «Цирк дю Солей» выступил перед более чем 200 миллионами зрителей в более чем 70 странах — от крупных городов вроде Лас-Вегаса до городов Китая, где некоторые шоу адаптировали для зрителей, говорящих на путунхуа. Артисты репетируют месяцами, а команды технических специалистов создают невероятные сцены — с бассейнами и гигантскими движущимися платформами. Многие опытные артисты труппы — бывшие олимпийские гимнасты, чьи плавные движения каждый вечер поражают публику. Неплохо для группы уличных артистов, которые начинали со шляпы, полной монет.
+  questions:
+  - q: How did the founders of Cirque du Soleil start?
+    options:
+    - As Olympic gymnasts
+    - As street performers
+    - As animal trainers
+    - As actors in Las Vegas
+    answer: 1
+  - q: What was different about their circus?
+    options:
+    - It used more animals
+    - It had no animals and combined circus with music and story
+    - It was only for children
+    - It was free
+    answer: 1
+  - q: What happened in Los Angeles in 1987?
+    options:
+    - The show failed
+    - The show was a huge success
+    - The company closed
+    - They lost their tent
+    answer: 1
+  - tf: All critics loved the idea from the beginning.
+    answer: false
+  - tf: Many performers are former Olympic gymnasts.
+    answer: true

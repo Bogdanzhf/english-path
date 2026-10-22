@@ -21,3 +21,52 @@ words:
 - uncomfortable | adj | ʌnˈkʌmftəbl | ənˈkʌmfərtəbl | неудобный; неловкий | not comfortable | This chair is *uncomfortable*. | Этот стул неудобный.
 - unfit | adj | ʌnˈfɪt | ənˈfɪt | не в форме; непригодный | not healthy or strong; not suitable | I'm really *unfit* — I need to exercise. | Я совсем не в форме — надо заниматься.
 - unpleasant | adj | ʌnˈplezənt | ənˈplezənt | неприятный | not pleasant | The medicine has an *unpleasant* taste. | У лекарства неприятный вкус.
+reading:
+  title: The Secret Diary
+  title_ru: Тайный дневник
+  text: |
+    Anna was a quiet adolescent with a real aptitude for writing. Every evening, she wrote in her diary: stories, poems and her honest thoughts about life. Her English teacher often complimented her work. "You have a literary gift," he said. "You should think about journalism."
+
+    One day, Anna came home from school and found her room unusually tidy. Her mother had cleaned it. On the desk, next to a slice of cake and a glass of juice with a straw, was her diary. It was open. Anna's heart sank. "Did you read it?" she asked. Her mother looked away. "I presumed it was just homework," she said. "I only read a page."
+
+    Anna felt anger and sorrow at the same time. "That's my private life!" she shouted. "I have a right to privacy!" Her mother was hurt. "I'm your mother," she said. "I worry about you." Anna ran to her room and cried until her eyes began to swell.
+
+    That night, Anna couldn't sleep. She took a headache pill her mum had bought at the pharmacy and lay thinking. In her diary, she had written that she felt lonely at school. Maybe her mother had read that page and was frightened.
+
+    The next morning, they sat down together. "Let's be sensible," said her mother. "I shouldn't have read your diary. I'm sorry." Anna nodded. "And I should talk to you more," she said. They made a deal: Mum would respect Anna's liberty, and Anna would share her problems. There was no punishment and no jury — just justice and an apology. Nothing hindered their friendship after that. Years later, Anna became a journalist, and her first article was about trust between parents and teenagers.
+  ru: |
+    Анна была тихим подростком с настоящими способностями к письму. Каждый вечер она писала в дневник: рассказы, стихи и свои честные мысли о жизни. Учитель английского часто хвалил её работы. «У тебя литературный дар, — говорил он. — Тебе стоит подумать о журналистике».
+
+    Однажды Анна пришла из школы и обнаружила, что в её комнате необычно чисто. Мама сделала уборку. На столе, рядом с кусочком торта и стаканом сока с трубочкой, лежал её дневник. Он был открыт. У Анны упало сердце. «Ты его читала?» — спросила она. Мама отвела взгляд. «Я думала, это просто домашнее задание, — сказала она. — Я прочитала только одну страницу».
+
+    Анна почувствовала одновременно злость и печаль. «Это моя личная жизнь! — закричала она. — Я имею право на личное пространство!» Маму это задело. «Я твоя мать, — сказала она. — Я за тебя волнуюсь». Анна убежала к себе и плакала, пока у неё не опухли глаза.
+
+    В ту ночь Анна не могла уснуть. Она выпила таблетку от головной боли, которую мама купила в аптеке, и лежала, размышляя. В дневнике она написала, что чувствует себя одинокой в школе. Возможно, мама прочитала именно эту страницу и испугалась.
+
+    На следующее утро они сели поговорить. «Давай будем благоразумными, — сказала мама. — Мне не следовало читать твой дневник. Прости меня». Анна кивнула. «А мне нужно больше с тобой разговаривать», — сказала она. Они договорились: мама будет уважать свободу Анны, а Анна будет делиться своими проблемами. Ни наказаний, ни присяжных — только справедливость и извинение. После этого ничто не мешало их дружбе. Спустя годы Анна стала журналисткой, и её первая статья была о доверии между родителями и подростками.
+  questions:
+  - q: What did Anna's teacher say about her?
+    options:
+    - She was lazy
+    - She had a literary gift
+    - She should study science
+    - She talked too much
+    answer: 1
+  - q: Why was Anna upset?
+    options:
+    - Her mother threw away her diary
+    - Her mother read her diary
+    - Her room was messy
+    - She failed a test
+    answer: 1
+  - q: What deal did they make?
+    options:
+    - Anna would stop writing
+    - Mum would respect her liberty and Anna would share problems
+    - Anna would clean her room
+    - Mum would buy a new diary
+    answer: 1
+  - tf: Anna's mother apologized.
+    answer: true
+  - tf: Anna became a doctor.
+    answer: false

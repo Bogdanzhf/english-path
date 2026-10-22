@@ -21,3 +21,52 @@ words:
 - symptomatic | adj | ˌsɪmptəˈmætɪk |  | симптоматичный | being a sign of something | The problem is *symptomatic* of bad management. | Эта проблема — признак плохого управления.
 - traumatic | adj | trɔːˈmætɪk |  | травмирующий | very shocking and upsetting | It was a *traumatic* experience. | Это было травмирующее событие.
 - twitch | v | twɪtʃ |  | дёргаться | to move suddenly | His eye *twitched*. | У него дёрнулся глаз.
+reading:
+  title: Florence Nightingale
+  title_ru: Флоренс Найтингейл
+  text: |
+    Florence Nightingale was born in 1820 into a wealthy British family. Women of her class were expected to marry and stay at home, but Florence believed she had a calling to care for the sick. Her parents were appalled. In those days, nursing was seen as a job for poor, uneducated women. Her family called her plans nonsense, but she refused to give up.
+
+    In 1854, Britain went to war against Russia in Crimea. Reports soon reached London about the grim conditions in army hospitals. Florence travelled to Turkey with thirty-eight nurses. What she found there was shocking. Wounded and ailing soldiers lay on dirty floors without blankets. There was little clean water, the drains were blocked, and rats ran everywhere. More soldiers were dying from fever and gut infections, such as cholera, than from their wounds.
+
+    At first, the army physicians resented her. But Florence's energy seemed to know no bounds. She organized the cleaning of the wards, set up kitchens and laundries, and made sure patients were bathed and fed. At night, she walked through the wards carrying a lamp, checking on the soldiers in distress. They called her "the Lady with the Lamp", and her name became famous across Britain.
+
+    Her greatest contribution, however, may have been with numbers. Florence was a talented mathematician. She collected detailed statistics and used them to show that most deaths were preventable. Her colourful diagrams were among the first of their kind and made her critique of army hospitals impossible to ignore. Today she is regarded as a pioneer in the use of statistics and demography in medicine.
+
+    After the war, she founded the first professional school for nurses in London. Her ideas about hygiene, fresh air and careful observation transformed hospitals. Some saw her as a miracle worker; others found her too militant and demanding. When she died in 1910, the nation mourned. Every year, International Nurses Day is celebrated on her birthday, 12 May — a tribute honoured by nurses and patients alike.
+  ru: |
+    Флоренс Найтингейл родилась в 1820 году в богатой британской семье. От женщин её круга ожидали, что они выйдут замуж и будут сидеть дома, но Флоренс считала своим призванием заботу о больных. Родители были в ужасе. В те времена работа сиделки считалась занятием для бедных необразованных женщин. Семья называла её планы вздором, но она не сдавалась.
+
+    В 1854 году Британия вступила в войну с Россией в Крыму. Вскоре в Лондон стали приходить сообщения об ужасающих условиях в армейских госпиталях. Флоренс с тридцатью восемью медсёстрами отправилась в Турцию. Увиденное там потрясало. Раненые и больные солдаты лежали на грязном полу без одеял. Чистой воды почти не было, стоки были забиты, повсюду бегали крысы. От лихорадки и кишечных инфекций, например холеры, умирало больше солдат, чем от ран.
+
+    Поначалу армейские врачи отнеслись к ней с неприязнью. Но энергия Флоренс, казалось, не знала границ. Она организовала уборку палат, устроила кухни и прачечные и следила, чтобы больных мыли и кормили. По ночам она обходила палаты с лампой в руках, проверяя страдающих солдат. Её называли «Дамой с лампой», и её имя прославилось по всей Британии.
+
+    Однако её главный вклад, возможно, был связан с цифрами. Флоренс была талантливым математиком. Она собирала подробную статистику и с её помощью показала, что большинства смертей можно было избежать. Её красочные диаграммы были одними из первых в своём роде и сделали её критику армейских госпиталей невозможной для игнорирования. Сегодня её считают первопроходцем в применении статистики и демографии в медицине.
+
+    После войны она основала в Лондоне первую профессиональную школу медсестёр. Её идеи о гигиене, свежем воздухе и внимательном наблюдении преобразили больницы. Одни видели в ней чудотворицу, другие считали её слишком воинственной и требовательной. Когда она умерла в 1910 году, страна была в трауре. Каждый год в её день рождения, 12 мая, отмечается Международный день медицинской сестры — дань уважения, которую чтят как медсёстры, так и пациенты.
+  questions:
+  - q: How did Florence's family react to her plans?
+    options:
+    - They supported her
+    - They were appalled
+    - They paid for her training
+    - They didn't care
+    answer: 1
+  - q: What were most soldiers dying from in the hospitals?
+    options:
+    - Their wounds
+    - Fever and gut infections
+    - Cold
+    - Old age
+    answer: 1
+  - q: What was one of her greatest contributions?
+    options:
+    - Inventing a new medicine
+    - Using statistics to show deaths were preventable
+    - Leading the army
+    - Building ships
+    answer: 1
+  - tf: The army physicians welcomed her immediately.
+    answer: false
+  - tf: International Nurses Day is celebrated on her birthday.
+    answer: true

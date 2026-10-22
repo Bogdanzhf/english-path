@@ -26,3 +26,52 @@ words:
 - saucer | n | ˈsɔːsə | ˈsɔːsər | блюдце | a small plate for a cup | Put the cup on the *saucer*. | Поставь чашку на блюдце.
 - tap | v | tæp |  | постукивать, слегка ударять | to hit something gently | Someone *tapped* me on the shoulder. | Кто-то похлопал меня по плечу. | сущ. tap — кран
 - toothpaste | n | ˈtuːθpeɪst |  | зубная паста | a paste for cleaning your teeth | We've run out of *toothpaste*. | У нас закончилась зубная паста.
+reading:
+  title: Grandma's Dress
+  title_ru: Бабушкино платье
+  text: |
+    My grandparents live in a stone cottage in the Scottish Highlands, next to an old mill. My grandfather was a carpenter, and my grandmother made clothes. As a child, I spent every summer with them. I remember the smell of coal in the fireplace and the sound of rain dripping from the roof.
+
+    Last year was their fiftieth wedding anniversary. My mother wanted to buy Grandma an elegant new dress, but Grandma refused. "I already have the perfect dress," she said. She went to the shed and came back with an old wooden box. Inside was her wedding dress, wrapped in paper. The fabric was the colour of ivory, but it was old, and the seams had burst in several places.
+
+    "I'll repair it myself," Grandma said. I sat on the couch next to her for three evenings and watched her work. Her hands moved slowly but carefully. She put the thread through the needle and sewed each small tear. She trimmed the edges of the sleeves and added new silk buttons. She even used simple arithmetic to change the size: "Two centimetres here, three there."
+
+    Meanwhile, Grandpa was busy in the shed. He polished the old table he had made for their wedding and fixed its broken leg.
+
+    On the day of the party, Grandma came down the stairs in her dress. Everyone went silent. She looked beautiful. Grandpa looked upwards at her and his eyes filled with tears. I felt ashamed that I had never asked her to teach me to sew. The next morning, I asked. Now, every summer, we sit together and she teaches me, one stitch at a time.
+  ru: |
+    Мои бабушка и дедушка живут в каменном домике в Шотландском высокогорье, рядом со старой мельницей. Дедушка был плотником, а бабушка шила одежду. В детстве я проводил у них каждое лето. Я помню запах угля в камине и звук дождя, капающего с крыши.
+
+    В прошлом году была их золотая свадьба — пятидесятая годовщина. Мама хотела купить бабушке новое элегантное платье, но бабушка отказалась. «У меня уже есть идеальное платье», — сказала она. Она сходила в сарай и вернулась со старой деревянной шкатулкой. Внутри, завёрнутое в бумагу, лежало её свадебное платье. Ткань была цвета слоновой кости, но старая, и швы в нескольких местах разошлись.
+
+    «Я сама его починю», — сказала бабушка. Три вечера я сидел рядом с ней на диване и смотрел, как она работает. Её руки двигались медленно, но аккуратно. Она вдевала нитку в иголку и зашивала каждую маленькую дырочку. Она подрезала края рукавов и пришила новые шёлковые пуговицы. Она даже использовала простую арифметику, чтобы изменить размер: «Два сантиметра здесь, три там».
+
+    Тем временем дедушка возился в сарае. Он отполировал старый стол, который сделал к их свадьбе, и починил сломанную ножку.
+
+    В день праздника бабушка спустилась по лестнице в своём платье. Все замолчали. Она выглядела прекрасно. Дедушка поднял на неё глаза, и они наполнились слезами. Мне стало стыдно, что я никогда не просил её научить меня шить. На следующее утро я попросил. Теперь каждое лето мы сидим вместе, и она учит меня — стежок за стежком.
+  questions:
+  - q: What did the grandfather do for work?
+    options:
+    - He was a miller
+    - He was a carpenter
+    - He sold coal
+    - He made dresses
+    answer: 1
+  - q: Why didn't Grandma want a new dress?
+    options:
+    - She had no money
+    - She wanted to wear her old wedding dress
+    - She didn't like shopping
+    - She was ill
+    answer: 1
+  - q: What did Grandpa do while Grandma sewed?
+    options:
+    - He cooked dinner
+    - He polished and repaired their wedding table
+    - He bought flowers
+    - He slept on the couch
+    answer: 1
+  - tf: The dress was in perfect condition.
+    answer: false
+  - tf: Now the narrator is learning to sew.
+    answer: true

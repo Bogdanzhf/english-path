@@ -21,3 +21,52 @@ words:
 - shower | n | ˈʃaʊɜː | ˈʃaʊər | душ | a device that sprays water to wash your body | I have a *shower* every morning. | Я принимаю душ каждое утро.
 - sofa | n | ˈsəʊfə | ˈsoʊfə | диван | a long soft seat for two or more people | The dog is sleeping on the *sofa*. | Собака спит на диване.
 - toilet | n | ˈtɔɪlət |  | туалет; унитаз | a room with a toilet; the bowl you use there | Where is the *toilet*, please? | Где здесь туалет?
+reading:
+  title: The Artist Upstairs
+  title_ru: Художник сверху
+  text: |
+    When Kate moved to a new apartment, she was happy at first. But soon she noticed a problem. Her neighbor upstairs made a lot of noise every night. The walls were thin, and she heard music, hammers and strange songs until two in the morning.
+
+    The other neighbors told her about him. "He's an artist," they said. "He lives alone and never talks to anyone. He has a terrible attitude." Kate decided to go and speak to him.
+
+    She walked up the stairs and knocked. A thin old man opened the door. Behind him, Kate saw a huge room full of strange objects. He used old materials — glass, metal, wood and plastic — to create beautiful sculptures. Each one was a symbol of something: love, hope or peace.
+
+    Kate forgot about the noise. "These are amazing," she said. The artist smiled for the first time. He told her about his method. He worked at night because the quiet helped him focus. He never sold his work for profit. "Art is not about money," he said.
+
+    A month later, Kate wrote an article about him for a local magazine. People came to see his work, and many compared it with the work of famous professional artists. Now the artist works during the day, and every Sunday he and Kate share a meal and talk about beauty. "Don't judge people too quickly," Kate tells her friends.
+  ru: |
+    Когда Кейт переехала в новую квартиру, сначала она была счастлива. Но вскоре заметила проблему. Сосед сверху каждую ночь сильно шумел. Стены были тонкими, и до двух часов ночи она слышала музыку, стук молотка и странные песни.
+
+    Другие соседи рассказали ей о нём. «Он художник, — говорили они. — Живёт один и ни с кем не разговаривает. Характер у него ужасный». Кейт решила подняться и поговорить с ним.
+
+    Она поднялась по лестнице и постучала. Дверь открыл худой старик. За его спиной Кейт увидела огромную комнату, полную странных предметов. Он использовал старые материалы — стекло, металл, дерево и пластик, — чтобы создавать прекрасные скульптуры. Каждая была символом чего-то: любви, надежды или мира.
+
+    Кейт забыла о шуме. «Это потрясающе», — сказала она. Художник впервые улыбнулся. Он рассказал ей о своём методе. Он работал по ночам, потому что тишина помогала ему сосредоточиться. Он никогда не продавал свои работы ради прибыли. «Искусство — это не про деньги», — сказал он.
+
+    Через месяц Кейт написала о нём статью для местного журнала. Люди приходили посмотреть на его работы, и многие сравнивали их с работами известных профессиональных художников. Теперь художник работает днём, а каждое воскресенье они с Кейт вместе обедают и говорят о красоте. «Не судите людей слишком быстро», — говорит Кейт друзьям.
+  questions:
+  - q: What was Kate's problem in her new apartment?
+    options:
+    - It was too small
+    - Her neighbor was noisy
+    - It was very cold
+    - The stairs were broken
+    answer: 1
+  - q: What materials did the artist use?
+    options:
+    - Only paper
+    - Old glass, metal, wood and plastic
+    - Expensive gold
+    - Only paint
+    answer: 1
+  - q: Why did the artist work at night?
+    options:
+    - He slept during the day
+    - The quiet helped him focus
+    - He had another job
+    - He liked loud music
+    answer: 1
+  - tf: The artist sold his work for a lot of money.
+    answer: false
+  - tf: Kate wrote an article about the artist.
+    answer: true

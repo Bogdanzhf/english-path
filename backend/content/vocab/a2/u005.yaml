@@ -24,3 +24,52 @@ words:
 - roast | v | rəʊst | roʊst | жарить, запекать | to cook in an oven or over a fire | We *roasted* a chicken for Sunday lunch. | На воскресный обед мы запекли курицу.
 - 'smoke | v | sməʊk | smoʊk | курить; дымить | to breathe in smoke from a cigarette | He doesn''t *smoke*. | Он не курит. | сущ.: smoke — дым'
 - snack | n | snæk |  | перекус, закуска | a small amount of food eaten between meals | I had a *snack* at eleven. | В одиннадцать я перекусил.
+reading:
+  title: The Garden of Three Generations
+  title_ru: Сад трёх поколений
+  text: |
+    In a poor area of the city, there was an empty piece of land full of rubbish and mud. For years, nobody used it. Then Helen, a retired teacher, had an idea: why not turn it into a community garden?
+
+    Helen asked a local charitable foundation for help. She wrote to the committee, and they agreed to donate money for tools and seeds. A building company even sent a crew to clean the land for free. Their boss said, "It's not in our contract, but it's a good thing to do."
+
+    Then the real work began. Volunteers of every generation came — children, parents and grandparents. They dug the ground, removed stones and added a thick layer of new soil. The children made smooth paths with small stones. Helen showed them how the soil absorbs rainwater and feeds the plants.
+
+    Helen devoted every morning to the garden. After a year, it was full of life. There were tomatoes, beans, herbs and flowers. The vegetables had a flavor that you can't find in a supermarket. Every Friday evening, the neighbours dined together at long tables in the garden.
+
+    Today, the garden is famous in the city. It's unique because three generations work in it side by side. "Before, we didn't know our neighbours," says Helen. "Now we have a double harvest: food for the body and friends for the heart." And at the gate, there's an old watering can with a wooden handle — the first thing Helen ever bought for the garden.
+  ru: |
+    В бедном районе города был пустой участок земли, полный мусора и грязи. Годами им никто не пользовался. Потом Хелен, учительница на пенсии, придумала: почему бы не превратить его в общественный сад?
+
+    Хелен обратилась за помощью в местный благотворительный фонд. Она написала в комитет, и они согласились пожертвовать деньги на инструменты и семена. Одна строительная компания даже бесплатно прислала бригаду расчистить участок. Их начальник сказал: «Этого нет в нашем договоре, но это хорошее дело».
+
+    Потом началась настоящая работа. Пришли добровольцы всех поколений — дети, родители, бабушки и дедушки. Они вскапывали землю, убирали камни и добавили толстый слой новой почвы. Дети выложили из мелких камешков ровные дорожки. Хелен показала им, как почва впитывает дождевую воду и питает растения.
+
+    Хелен посвящала саду каждое утро. Через год он был полон жизни. Там росли помидоры, фасоль, травы и цветы. У овощей был вкус, которого не найдёшь в супермаркете. Каждую пятницу вечером соседи вместе ужинали за длинными столами в саду.
+
+    Сегодня сад знаменит на весь город. Он уникален тем, что в нём бок о бок работают три поколения. «Раньше мы не знали своих соседей, — говорит Хелен. — А теперь у нас двойной урожай: еда для тела и друзья для души». А у калитки стоит старая лейка с деревянной ручкой — первое, что Хелен купила для сада.
+  questions:
+  - q: What was on the land before the garden?
+    options:
+    - An old school
+    - Rubbish and mud
+    - A car park
+    - A forest
+    answer: 1
+  - q: Who gave money for tools and seeds?
+    options:
+    - The city council
+    - A charitable foundation
+    - Helen's family
+    - A supermarket
+    answer: 1
+  - q: What do the neighbours do every Friday evening?
+    options:
+    - They dig the soil
+    - They have dinner together in the garden
+    - They sell vegetables
+    - They have a meeting
+    answer: 1
+  - tf: Only old people work in the garden.
+    answer: false
+  - tf: The building company cleaned the land for free.
+    answer: true

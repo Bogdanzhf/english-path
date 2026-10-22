@@ -1,0 +1,1824 @@
+- id: c2-01
+  v1_unit: A Sea of Plastic
+  title: The Whale That Shocked the World
+  title_ru: Кит, который потряс мир
+  text: 'In 2019, a young whale was found dead on a beach in the Philippines. When scientists examined its body, they were horrified: its stomach was stuffed with forty kilograms of plastic bags and packaging. The animal had starved to death because there was no room left for food. The tragic image spread around the world and became a symbol of a growing crisis.
+
+
+    Plastic is cheap, light and convenient, which is why we use so much of it. Since the 1950s, humans have produced more than eight billion tonnes. Much of it is designed to be used once and discarded within minutes — think of boxed take-away meals, plastic cutlery and drinks bottles. Astonishingly, only around nine percent of all plastic ever made has been recycled. The rest is burned, buried or ends up in the environment, where it can last for centuries.
+
+
+    Every year, millions of tonnes reach the oceans, carried by rivers and wind. The adverse effects on marine life are well documented. Turtles mistake plastic bags for jellyfish and choke on them. Seabirds feed bottle tops to their chicks. Dolphins and seals become tangled in abandoned fishing nets, which can prove fatal. Scientists have also recorded a rising incidence of tiny "microplastics" in fish, salt and even drinking water.
+
+
+    What can be done? Many governments have banned single-use bags and straws. Some municipal authorities collect plastic on alternate weeks to encourage recycling, while others charge for waste. Businesses are developing biodegradable packaging, and some utilize old fishing nets to make carpets and swimwear.
+
+
+    Experts stress, however, that recycling alone cannot solve the problem. The real solution is reducing overuse. Choosing reusable bottles and bags, refusing unnecessary packaging and supporting stronger laws can all make a difference. As one marine biologist put it: "The ocean is not a pond we can clean up in a weekend. The best plastic is the plastic that is never made."
+
+    '
+  ru: 'В 2019 году на пляже на Филиппинах нашли мёртвого молодого кита. Осмотрев его тело, учёные пришли в ужас: желудок был набит сорока килограммами пластиковых пакетов и упаковки. Животное умерло от голода, потому что для пищи просто не осталось места. Трагичный снимок облетел мир и стал символом нарастающего кризиса.
+
+
+    Пластик дешёвый, лёгкий и удобный, поэтому мы используем его так много. С 1950-х годов человечество произвело более восьми миллиардов тонн пластика. Значительная его часть рассчитана на одно использование и выбрасывается через несколько минут — вспомните еду навынос в коробках, пластиковые приборы и бутылки для напитков. Поразительно, но переработано лишь около девяти процентов всего когда-либо произведённого пластика. Остальное сжигают, закапывают или оно попадает в окружающую среду, где может сохраняться веками.
+
+
+    Ежегодно миллионы тонн пластика попадают в океаны, принесённые реками и ветром. Вредное воздействие на морскую жизнь хорошо задокументировано. Черепахи принимают пакеты за медуз и задыхаются. Морские птицы кормят птенцов крышками от бутылок. Дельфины и тюлени запутываются в брошенных рыболовных сетях, что может стоить им жизни. Учёные также фиксируют всё более частое присутствие крошечных «микропластиков» в рыбе, соли и даже питьевой воде.
+
+
+    Что можно сделать? Многие правительства запретили одноразовые пакеты и трубочки. Некоторые городские власти вывозят пластик через неделю, чтобы стимулировать переработку, другие берут плату за отходы. Компании разрабатывают биоразлагаемую упаковку, а некоторые используют старые рыболовные сети для производства ковров и купальников.
+
+
+    Однако эксперты подчёркивают, что одна лишь переработка проблему не решит. Настоящее решение — сократить чрезмерное потребление. Выбор многоразовых бутылок и сумок, отказ от лишней упаковки и поддержка более строгих законов — всё это имеет значение. Как сказал один морской биолог: «Океан — не пруд, который можно вычистить за выходные. Лучший пластик — тот, который так и не произвели».
+
+    '
+  questions:
+  - q: Why did the whale die?
+    options:
+    - It was caught in a net
+    - Its stomach was full of plastic, so it starved
+    - It was poisoned
+    - It was hit by a ship
+    answer: 1
+  - q: What percentage of plastic has ever been recycled?
+    options:
+    - About 9%
+    - About 50%
+    - About 90%
+    - None
+    answer: 0
+  - q: What do experts say is the real solution?
+    options:
+    - More recycling
+    - Reducing overuse of plastic
+    - Cleaning the oceans
+    - Burning plastic
+    answer: 1
+  - tf: Microplastics have been found in drinking water.
+    answer: true
+  - tf: Recycling alone can solve the plastic problem.
+    answer: false
+- id: c2-02
+  v1_unit: The Mystery of Easter Island
+  title: 'Rapa Nui: Collapse or Survival?'
+  title_ru: 'Рапа-Нуи: крах или выживание?'
+  text: 'Easter Island, known to its indigenous people as Rapa Nui, is one of the most remote inhabited places on Earth, more than 3,500 kilometres from the coast of Chile. It is famous for its nearly one thousand giant stone statues, called moai. Some are more than ten metres tall, and their eyes once gleamed with white coral.
+
+
+    The first settlers, Polynesian sailors, arrived around 800 years ago and found an island covered in virgin palm forest. Their society flourished. Anonymous craftsmen attained remarkable skill, carving the moai from volcanic rock and moving them across the island — a task that required knowledge of geometry and engineering.
+
+
+    For decades, Easter Island was presented as a warning. According to a popular theory, the islanders cut down every tree to move their statues. Driven by greed and competition between clans, they destroyed their environment, leading to famine, war and the decay of their society. When Europeans arrived in 1722, they found a small population living among fallen statues.
+
+
+    However, more recent research has enlightened us and challenged this story. Archaeologists now believe that the evidence is ambiguous at best. Rats brought by the settlers probably ate the palm seeds, preventing the forest from growing back. Studies suggest the population did not collapse because of internal war; instead, the islanders adapted, finding clever ways to farm in poor soil. The real catastrophe came later, when European diseases and slave raiders in the 1860s reduced the population to just over a hundred people.
+
+
+    Today, the island is under Chilean jurisdiction, but the Rapa Nui people have fought for greater autonomy, and the government has made several concessions, including giving them control of the national park. Their culture, enriched by a strong connection to the sea, is alive. Every year, a festival with music, dancing and a colourful parade celebrates their heritage. Rather than a story of self-destruction, Rapa Nui may be one of survival — and of a people who lived in greater harmony with nature than amateur historians once believed.
+
+    '
+  ru: 'Остров Пасхи, который коренные жители называют Рапа-Нуи, — одно из самых удалённых обитаемых мест на Земле: до побережья Чили более 3500 километров. Он знаменит почти тысячей огромных каменных статуй — моаи. Некоторые выше десяти метров, а их глаза когда-то блестели белым кораллом.
+
+
+    Первые поселенцы — полинезийские мореплаватели — прибыли около 800 лет назад и обнаружили остров, покрытый девственным пальмовым лесом. Их общество процветало. Безымянные мастера достигли поразительного умения: высекали моаи из вулканической породы и перемещали их по всему острову — для этого требовались знания геометрии и инженерного дела.
+
+
+    Десятилетиями остров Пасхи преподносили как предостережение. Согласно популярной теории, островитяне вырубили все деревья, чтобы перемещать статуи. Ведомые жадностью и соперничеством кланов, они уничтожили свою среду обитания, что привело к голоду, войне и упадку общества. Когда в 1722 году прибыли европейцы, они нашли немногочисленное население среди поваленных статуй.
+
+
+    Однако новые исследования пролили свет на прошлое и поставили эту историю под сомнение. Археологи теперь считают, что данные в лучшем случае неоднозначны. Крысы, завезённые поселенцами, вероятно, поедали семена пальм, мешая лесу восстановиться. Исследования показывают, что население не вымерло из-за междоусобных войн; напротив, островитяне приспособились, найдя хитрые способы возделывать скудную почву. Настоящая катастрофа произошла позже, когда европейские болезни и набеги работорговцев в 1860-х годах сократили население до чуть более сотни человек.
+
+
+    Сегодня остров находится под юрисдикцией Чили, но народ рапануи борется за большую автономию, и правительство пошло на ряд уступок, в том числе передав им управление национальным парком. Их культура, обогащённая тесной связью с морем, жива. Каждый год фестиваль с музыкой, танцами и красочным шествием прославляет их наследие. Возможно, Рапа-Нуи — история не самоуничтожения, а выживания, история народа, жившего в большей гармонии с природой, чем когда-то считали историки-любители.
+
+    '
+  questions:
+  - q: What did the first settlers find on the island?
+    options:
+    - Bare rock
+    - Virgin palm forest
+    - Other people
+    - Statues
+    answer: 1
+  - q: What does recent research suggest destroyed the forest?
+    options:
+    - Only greed
+    - Rats eating palm seeds, among other factors
+    - Volcanoes
+    - Europeans
+    answer: 1
+  - q: What was the real catastrophe for the islanders?
+    options:
+    - Internal war
+    - European diseases and slave raiders in the 1860s
+    - A tsunami
+    - Cutting down trees
+    answer: 1
+  - tf: The popular 'self-destruction' theory is now fully accepted.
+    answer: false
+  - tf: The Rapa Nui people now control the national park.
+    answer: true
+- id: c2-03
+  v1_unit: The Bike-Sharing Revolution
+  title: From Paris to Your Phone
+  title_ru: От Парижа до вашего телефона
+  text: 'The idea of shared bicycles is surprisingly old. In 1965, a group of activists in Amsterdam painted fifty bicycles white and left them on the streets for anyone to use. The project was partly ideological: it was a protest against cars. Unfortunately, the bikes were soon stolen or thrown into canals, and the police removed the rest. The idea was deemed a failure.
+
+
+    It took decades for the concept to return. In 2007, Paris launched Vélib'', a large-scale system with thousands of heavy, aluminum-framed bikes locked to docking stations across the city. Users paid with a card, and the fee was automatically deducted from their account. The convenience was obvious: you could pick up a bike adjacent to your home and leave it near your office. Within a few years, hundreds of cities around the world had copied the model.
+
+
+    The next revolution came from China. Around 2016, entrepreneurs introduced "dockless" bikes that could be unlocked with a smartphone app and left anywhere. Investors and venture brokers poured billions into the sector. For a while, the growth seemed abnormal. In some cities, millions of brightly coloured bikes appeared almost overnight — far more than people needed. Piles of broken bicycles blocked pavements, and several companies collapsed.
+
+
+    The industry has since consolidated. Today''s systems use artificial intelligence to predict where demand will be highest, so that bikes can be evenly distributed. In some warehouses, robots help repair damaged bikes. Many cities now operate the service as a franchise, granting one company the right to run it under strict rules. Getting through the bureaucracy can be slow, but it helps prevent chaos.
+
+
+    Shared bikes are not applicable to every situation; they are of little use in hilly towns or where safe cycle lanes are absent. Nonetheless, they have become an important part of urban transport. For cities facing fiscal pressure and pollution, a cheap, clean and easily configured system on two wheels is an attractive option.
+
+    '
+  ru: 'Идея общих велосипедов на удивление стара. В 1965 году группа активистов в Амстердаме покрасила пятьдесят велосипедов в белый цвет и оставила их на улицах — бери кто хочет. Проект был отчасти идеологическим: это был протест против автомобилей. К сожалению, велосипеды вскоре украли или сбросили в каналы, а остальные убрала полиция. Идею признали провальной.
+
+
+    Понадобились десятилетия, чтобы концепция вернулась. В 2007 году Париж запустил Vélib'' — масштабную систему с тысячами тяжёлых велосипедов с алюминиевыми рамами, пристёгнутых к станциям по всему городу. Пользователи платили картой, и плата автоматически списывалась со счёта. Удобство было очевидным: можно было взять велосипед рядом с домом и оставить его у офиса. За несколько лет эту модель скопировали сотни городов по всему миру.
+
+
+    Следующая революция пришла из Китая. Около 2016 года предприниматели предложили «бездоковые» велосипеды, которые разблокируются через приложение и оставляются где угодно. Инвесторы и венчурные посредники вложили в отрасль миллиарды. Какое-то время рост казался аномальным. В некоторых городах почти за ночь появились миллионы ярких велосипедов — гораздо больше, чем нужно людям. Груды сломанных велосипедов перегораживали тротуары, и несколько компаний обанкротились.
+
+
+    С тех пор отрасль укрупнилась. Современные системы используют искусственный интеллект, чтобы предсказывать, где спрос будет наибольшим, и равномерно распределять велосипеды. На некоторых складах сломанные велосипеды помогают ремонтировать роботы. Многие города теперь передают сервис по франшизе, давая одной компании право управлять им по строгим правилам. Пройти бюрократические процедуры бывает долго, но это помогает избежать хаоса.
+
+
+    Велошеринг применим не везде: от него мало толку в холмистых городах или там, где нет безопасных велодорожек. Тем не менее он стал важной частью городского транспорта. Для городов, испытывающих финансовое давление и страдающих от загрязнения, дешёвая, чистая и легко настраиваемая система на двух колёсах — привлекательный вариант.
+
+    '
+  questions:
+  - q: What happened to the Amsterdam white bikes in 1965?
+    options:
+    - They were a big success
+    - They were stolen or thrown into canals
+    - They were sold
+    - They were painted again
+    answer: 1
+  - q: What was new about Chinese bike-sharing around 2016?
+    options:
+    - Bikes were free
+    - Bikes were dockless and unlocked with an app
+    - Bikes were electric
+    - Bikes were made of wood
+    answer: 1
+  - q: How do modern systems decide where to put bikes?
+    options:
+    - Randomly
+    - Using artificial intelligence to predict demand
+    - By asking users
+    - They don't move bikes
+    answer: 1
+  - tf: The dockless boom caused problems with too many bikes.
+    answer: true
+  - tf: Shared bikes are useful in every type of town.
+    answer: false
+- id: c2-04
+  v1_unit: The Dust Bowl
+  title: When the Sky Turned Black
+  title_ru: Когда небо почернело
+  text: 'In the early twentieth century, thousands of families moved to the southern Great Plains of the United States. The government promised ample land, and rain was abundant in those years. Farmers ploughed up millions of acres of native prairie grass to plant wheat. For a while, they prospered.
+
+
+    But the prairie grass had done something important: its deep roots held the soil in place and kept its moisture. When the grass was gone, the land was unprotected. In the 1930s, a severe drought struck. Year after year, the rain failed. The region became arid, and the dry topsoil turned to dust.
+
+
+    Then the winds came. Huge dust storms, called "black blizzards", swept across the plains and moved inland for hundreds of kilometres. On 14 April 1935, known as "Black Sunday", a wall of dust turned day into night. People were caught outside and couldn''t see their own hands. Dust got into houses, food and lungs; many people, especially children, developed "dust pneumonia". Dust from Kansas even reached the cities of the East Coast, falling on ships far out at sea.
+
+
+    The Dust Bowl, as the region became known, deprived hundreds of thousands of farmers of their livelihoods. It coincided with the Great Depression, one of the worst economic crises in history. Food was scarce, and families grumbled that the land itself had turned against them. Some prayed and fasted for rain. Many rugged families had sworn an oath never to abandon their farms. Nonetheless, about 2.5 million people eventually left, most heading west to California.
+
+
+    The government responded by making farmers eligible for payments if they used new methods, such as planting trees as windbreaks and rotating crops. Gradually, the land recovered. Today, scientists speculate that climate change could bring similar droughts in the future. The Dust Bowl remains a powerful lesson: when we damage the land, the consequences can be catastrophic.
+
+    '
+  ru: 'В начале XX века тысячи семей переехали на юг Великих равнин США. Правительство обещало много земли, а дождей в те годы было в избытке. Фермеры распахали миллионы акров исконных степных трав, чтобы сеять пшеницу. Какое-то время они процветали.
+
+
+    Но степные травы делали нечто важное: их глубокие корни удерживали почву и сохраняли в ней влагу. Когда трав не стало, земля осталась беззащитной. В 1930-х годах разразилась жестокая засуха. Год за годом не было дождей. Регион стал засушливым, а сухой верхний слой почвы превратился в пыль.
+
+
+    А потом пришли ветры. Огромные пыльные бури, прозванные «чёрными метелями», проносились по равнинам и уходили на сотни километров вглубь страны. 14 апреля 1935 года, в «Чёрное воскресенье», стена пыли превратила день в ночь. Люди, оказавшиеся на улице, не видели собственных рук. Пыль проникала в дома, еду и лёгкие; у многих, особенно детей, развивалась «пыльная пневмония». Пыль из Канзаса долетала даже до городов Восточного побережья и оседала на кораблях далеко в море.
+
+
+    «Пыльный котёл», как стали называть этот регион, лишил сотни тысяч фермеров средств к существованию. Это совпало с Великой депрессией — одним из худших экономических кризисов в истории. Еды не хватало, и семьи ворчали, что сама земля восстала против них. Некоторые молились и постились, прося дождя. Многие стойкие семьи клялись никогда не бросать свои фермы. Тем не менее около 2,5 миллиона человек в итоге уехали, в основном на запад, в Калифорнию.
+
+
+    Правительство ответило тем, что фермеры получали право на выплаты, если применяли новые методы: высаживали лесополосы для защиты от ветра и чередовали культуры. Постепенно земля восстановилась. Сегодня учёные предполагают, что изменение климата может принести похожие засухи в будущем. «Пыльный котёл» остаётся мощным уроком: когда мы губим землю, последствия могут быть катастрофическими.
+
+    '
+  questions:
+  - q: What did the prairie grass do?
+    options:
+    - It caused the drought
+    - It held the soil in place and kept moisture
+    - It fed cattle only
+    - It attracted rain
+    answer: 1
+  - q: What happened on 'Black Sunday'?
+    options:
+    - A huge flood
+    - A wall of dust turned day into night
+    - A tornado destroyed a city
+    - The banks closed
+    answer: 1
+  - q: How did the government help farmers?
+    options:
+    - It gave them free land in California
+    - It paid them to use new methods like windbreaks
+    - It banned farming
+    - It built cathedrals
+    answer: 1
+  - tf: The Dust Bowl coincided with the Great Depression.
+    answer: true
+  - tf: Almost all families stayed on their farms.
+    answer: false
+- id: c2-05
+  v1_unit: The Toughest Animal on Earth
+  title: The Water Bear
+  title_ru: Водяной медведь
+  text: 'If you could look through a microscope at a piece of wet moss, you might see a bizarre creature slowly walking on eight stubby legs. It looks a little like a chubby bear with a tiny face. Scientists call it a tardigrade; most people call it a water bear. It is less than a millimetre long, and it may be the toughest animal on Earth.
+
+
+    Tardigrades are aquatic animals, but they live almost everywhere in the biosphere: in mountains and deep oceans, in tropical forests and temperate gardens, even in the ice of Antarctica. Over 1,000 species have been identified. Most feed on plants or bacteria, which they digest using a special mouthpart, and some are parasites.
+
+
+    What makes them remarkable is their extraordinary tolerance to extreme conditions. When their environment dries out, they undergo a dramatic transformation. They pull in their legs, curl into a dry ball called a "tun", and slow their metabolism to almost nothing. In this state, they can survive for years. Laboratory experiments have shown that tardigrades can withstand temperatures from almost −272 degrees Celsius to around 150 degrees, pressures six times greater than in the deepest ocean, and doses of radiation hundreds of times higher than would kill a human.
+
+
+    Their most famous feat came in 2007, when scientists sent tardigrades into space on a satellite. They were exposed to the vacuum and radiation of space for ten days. After returning to Earth, many of them were rehydrated, woke up and even produced healthy young, showing that their reproductive systems had survived.
+
+
+    How do they do it? Prominent researchers have found that tardigrades produce special proteins that protect the DNA in each cell''s nucleus. Studying these proteins could help scientists preserve vaccines without refrigeration or protect astronauts on long journeys. Tardigrades are not indestructible — they are vulnerable when active and can be killed by long-term heat — but their resilience seems almost infinite. Some scientists believe they will be among the last survivors on Earth.
+
+    '
+  ru: 'Если бы вы посмотрели в микроскоп на кусочек влажного мха, вы могли бы увидеть причудливое существо, медленно шагающее на восьми коротких лапках. Оно немного похоже на пухлого медведя с крошечной мордочкой. Учёные называют его тихоходкой, а в народе — водяным медведем. Его длина меньше миллиметра, и, возможно, это самое выносливое животное на Земле.
+
+
+    Тихоходки — водные животные, но живут они почти повсюду в биосфере: в горах и океанских глубинах, в тропических лесах и садах умеренного пояса, даже во льдах Антарктиды. Описано более 1000 видов. Большинство питается растениями или бактериями, которые переваривает с помощью особого ротового аппарата, а некоторые — паразиты.
+
+
+    Удивительными их делает невероятная устойчивость к экстремальным условиям. Когда среда пересыхает, они претерпевают резкое превращение. Они втягивают лапки, сворачиваются в сухой комочек — так называемую «бочонковую форму» — и замедляют обмен веществ почти до нуля. В таком состоянии они могут жить годами. Лабораторные эксперименты показали, что тихоходки выдерживают температуру от почти −272 до примерно 150 градусов Цельсия, давление в шесть раз выше, чем в самой глубокой точке океана, и дозы радиации в сотни раз выше смертельных для человека.
+
+
+    Их самый знаменитый подвиг случился в 2007 году, когда учёные отправили тихоходок в космос на спутнике. Десять дней они находились в вакууме и под космическим излучением. Вернувшись на Землю, многие из них после увлажнения ожили и даже дали здоровое потомство — значит, их репродуктивная система тоже уцелела.
+
+
+    Как им это удаётся? Видные исследователи обнаружили, что тихоходки вырабатывают особые белки, защищающие ДНК в ядре каждой клетки. Изучение этих белков может помочь учёным хранить вакцины без холодильников или защищать астронавтов в долгих полётах. Тихоходки не неуязвимы: в активном состоянии они уязвимы, и их может убить длительная жара, — но их живучесть кажется почти бесконечной. Некоторые учёные считают, что они будут среди последних выживших на Земле.
+
+    '
+  questions:
+  - q: What do tardigrades do when their environment dries out?
+    options:
+    - They die immediately
+    - They curl into a dry ball and slow their metabolism
+    - They swim away
+    - They find new water
+    answer: 1
+  - q: What happened to tardigrades sent into space in 2007?
+    options:
+    - They all died
+    - Many survived and even had healthy young
+    - They grew larger
+    - They were lost
+    answer: 1
+  - q: How might studying tardigrade proteins help humans?
+    options:
+    - To make food tastier
+    - To preserve vaccines without refrigeration
+    - To build spaceships
+    - To cure parasites
+    answer: 1
+  - tf: Tardigrades only live in Antarctica.
+    answer: false
+  - tf: Tardigrades are vulnerable when they are active.
+    answer: true
+- id: c2-06
+  v1_unit: The Luddites
+  title: Did the Luddites Hate Technology?
+  title_ru: Ненавидели ли луддиты технику?
+  text: 'Today, the word "Luddite" is used to describe someone who dislikes new technology — a person who refuses to use a smartphone, for example. But the original Luddites were not simply afraid of machines. Their story is more complicated, and it has surprising relevance today.
+
+
+    For centuries, cloth in England had been produced by skilled workers who wove and finished it by hand, often at home. Since medieval times, these crafts had been organized by guilds, and experienced weavers enjoyed considerable prestige and good wages. In the early nineteenth century, however, the textile industry underwent a radical transformation. New machines, made of iron and brass components, could produce cloth faster and more cheaply. Factory owners, oriented towards profit in an age of growing capitalism, began to replace skilled workers with machines operated by cheaper, unskilled labour, including children.
+
+
+    The results were devastating for many communities. The value of traditional skills diminished almost overnight. A large proportion of weavers lost their jobs, and wages collapsed. Food prices were high because of the Napoleonic Wars, and families were starving.
+
+
+    In 1811, groups of workers in the Midlands and the North began to break into factories at night and smash the new machines. They claimed to follow a mysterious leader called "General Ludd". The government responded harshly. It sent thousands of soldiers to the region and imposed the death penalty for breaking machines. Several Luddites were hanged.
+
+
+    Historians have refuted the idea that the Luddites hated all technology. Many of them used machines themselves. What they opposed was the way technology was being used: to lower wages, destroy communities and increase the dependence of workers on factory owners, without any protection. Their protest was about fairness, not machines.
+
+
+    The Industrial Revolution brought spectacular economic growth, but it also had serious drawbacks. Today, as artificial intelligence threatens to make some jobs obsolete, the Luddites'' question seems far from archaic: who benefits from new technology, and who pays the price?
+
+    '
+  ru: 'Сегодня словом «луддит» называют человека, который не любит новые технологии, — например, отказывается пользоваться смартфоном. Но настоящие луддиты вовсе не просто боялись машин. Их история сложнее, и она удивительно актуальна сегодня.
+
+
+    Веками ткань в Англии производили искусные мастера, которые ткали и отделывали её вручную, часто дома. Со Средних веков эти ремёсла объединялись в гильдии, а опытные ткачи пользовались немалым уважением и хорошо зарабатывали. Однако в начале XIX века текстильная промышленность пережила коренное преобразование. Новые машины из железных и латунных деталей могли производить ткань быстрее и дешевле. Владельцы фабрик, нацеленные на прибыль в эпоху растущего капитализма, стали заменять квалифицированных рабочих машинами, на которых работал более дешёвый неквалифицированный труд, в том числе детский.
+
+
+    Для многих общин последствия были разрушительными. Ценность традиционных навыков почти в одночасье упала. Значительная часть ткачей лишилась работы, а зарплаты рухнули. Из-за Наполеоновских войн продукты были дорогими, и семьи голодали.
+
+
+    В 1811 году группы рабочих в центральных и северных графствах начали по ночам врываться на фабрики и крушить новые машины. Они утверждали, что следуют за таинственным вождём — «генералом Луддом». Правительство ответило жёстко. Оно направило в регион тысячи солдат и ввело смертную казнь за поломку машин. Нескольких луддитов повесили.
+
+
+    Историки опровергли представление о том, что луддиты ненавидели любую технику. Многие из них сами работали на станках. Они выступали против того, как использовалась техника: чтобы снижать зарплаты, разрушать общины и усиливать зависимость рабочих от фабрикантов без всякой защиты. Их протест был о справедливости, а не о машинах.
+
+
+    Промышленная революция принесла впечатляющий экономический рост, но у неё были и серьёзные недостатки. Сегодня, когда искусственный интеллект грозит сделать некоторые профессии ненужными, вопрос луддитов кажется далеко не устаревшим: кто выигрывает от новых технологий, а кто платит за них?
+
+    '
+  questions:
+  - q: What does 'Luddite' mean today?
+    options:
+    - A skilled weaver
+    - Someone who dislikes new technology
+    - A factory owner
+    - A soldier
+    answer: 1
+  - q: Why did factory owners use the new machines?
+    options:
+    - To help workers
+    - To produce cloth faster and more cheaply
+    - Because the government ordered it
+    - To improve quality
+    answer: 1
+  - q: What did the Luddites really oppose, according to historians?
+    options:
+    - All technology
+    - The way technology was used to lower wages and destroy communities
+    - The king
+    - Cheap cloth
+    answer: 1
+  - tf: The government responded gently to the Luddites.
+    answer: false
+  - tf: Many Luddites used machines themselves.
+    answer: true
+- id: c2-07
+  v1_unit: Banking for the Poor
+  title: Twenty-Seven Dollars
+  title_ru: Двадцать семь долларов
+  text: 'In 1976, Muhammad Yunus, an economics professor in Bangladesh, visited a poor village near his university. He met a woman who made bamboo stools. She had no money of her own, so she borrowed from a local moneylender to buy bamboo, and then she had to sell him the stools at a price he set. After repaying him, she earned just a few cents a day.
+
+
+    Yunus made a list of forty-two people in the village who were trapped in the same way. The total amount they owed was just twenty-seven dollars. He lent them the money from his own pocket. To his surprise, every single person paid it back.
+
+
+    Yunus then went to the banks, but they were indifferent. The poor had no property to offer as security, so bankers, focused on maximizing profits, regarded them as too risky. Some treated the idea with open contempt. So in 1983, Yunus founded his own institution, the Grameen Bank, dedicated to giving small loans to the poorest people — especially women — without asking for security.
+
+
+    The system''s strength was its simplicity. Borrowers formed small groups of five. As a precaution, each person was responsible for helping the others repay. With their loans, villagers started tiny enterprises: a woman might buy a cow and sell its milk; a farmer might buy seeds to sow tomatoes, or a spade to dig ditches and irrigate his crop. Preliminary studies showed that repayment rates were higher than at traditional banks, often above ninety-five percent.
+
+
+    In 2006, Yunus and the Grameen Bank won the Nobel Peace Prize. The idea of "microfinance" spread around the world. However, it has not been free of criticism. In some countries, the market became saturated with lenders charging very high interest, and some borrowers fell into debt. Economists continue to debate how much microfinance really reduces poverty.
+
+
+    Yunus describes himself not as a traditional capitalist but as a believer in "social business". For him, the monetary value of a loan matters less than the dignity it gives. As he once said, "Poverty does not belong in civilized human society."
+
+    '
+  ru: 'В 1976 году Мухаммад Юнус, профессор экономики из Бангладеш, побывал в бедной деревне рядом со своим университетом. Он познакомился с женщиной, которая делала бамбуковые табуреты. Своих денег у неё не было, поэтому она занимала у местного ростовщика на покупку бамбука, а затем была вынуждена продавать ему табуреты по назначенной им цене. Расплатившись, она зарабатывала всего несколько центов в день.
+
+
+    Юнус составил список из сорока двух жителей деревни, попавших в такую же ловушку. Общая сумма их долгов составила всего двадцать семь долларов. Он одолжил им эти деньги из собственного кармана. К его удивлению, все до единого вернули долг.
+
+
+    Тогда Юнус пошёл в банки, но тем было всё равно. У бедных не было имущества для залога, и банкиры, нацеленные на максимальную прибыль, считали их слишком рискованными. Некоторые относились к идее с открытым презрением. Поэтому в 1983 году Юнус основал собственное учреждение — «Грамин банк», посвятивший себя выдаче небольших займов беднейшим людям, особенно женщинам, без требования залога.
+
+
+    Сила системы была в её простоте. Заёмщики объединялись в группы по пять человек. В качестве меры предосторожности каждый отвечал за то, чтобы помогать остальным вернуть долг. На займы жители деревень открывали крошечные предприятия: женщина могла купить корову и продавать молоко, фермер — семена, чтобы посеять помидоры, или лопату, чтобы прокопать канавы и орошать посевы. Предварительные исследования показали, что займы возвращали чаще, чем в обычных банках, — нередко более девяноста пяти процентов.
+
+
+    В 2006 году Юнус и «Грамин банк» получили Нобелевскую премию мира. Идея «микрофинансирования» распространилась по всему миру. Однако и она не избежала критики. В некоторых странах рынок перенасытился кредиторами с очень высокими процентами, и часть заёмщиков влезла в долги. Экономисты до сих пор спорят, насколько микрофинансирование действительно сокращает бедность.
+
+
+    Юнус называет себя не традиционным капиталистом, а сторонником «социального бизнеса». Для него денежная ценность займа значит меньше, чем достоинство, которое он даёт. Как он однажды сказал: «Бедности не место в цивилизованном обществе».
+
+    '
+  questions:
+  - q: How much did the forty-two villagers owe in total?
+    options:
+    - Twenty-seven dollars
+    - Twenty-seven thousand dollars
+    - Two hundred dollars
+    - Nothing
+    answer: 0
+  - q: Why did banks refuse to lend to the poor?
+    options:
+    - They had no property for security
+    - They lived too far away
+    - They were women
+    - They had no jobs
+    answer: 0
+  - q: What was a weakness of microfinance in some countries?
+    options:
+    - Nobody wanted loans
+    - Lenders charged very high interest and some borrowers fell into debt
+    - It was illegal
+    - It only helped men
+    answer: 1
+  - tf: Everyone in the first group repaid Yunus.
+    answer: true
+  - tf: Economists agree completely on how much microfinance reduces poverty.
+    answer: false
+- id: c2-08
+  v1_unit: The Iceman's Tattoos
+  title: A 5,300-Year-Old Patient
+  title_ru: Пациент возрастом 5300 лет
+  text: 'In September 1991, two hikers in the Alps on the border between Austria and Italy noticed a body sticking out of the melting ice. At first, they assumed it was a modern climber who had died in an accident. In fact, they had found one of the most important discoveries in the history of anthropology: a man who had died about 5,300 years ago. Scientists named him Ötzi.
+
+
+    Because the ice had preserved his body so well, researchers could study him in incredible detail. He was around forty-five years old, about 1.60 metres tall, with a strong, muscular build from a life of walking in the mountains. Analysis of his teeth and bones showed that he had grown up in a valley situated not far from where he was found. He carried a copper axe, a bow, arrows and a small kit of crude tools.
+
+
+    One of the most surprising findings was on his skin. Ötzi had sixty-one tattoos — simple lines and crosses made by rubbing charcoal into small cuts. Interestingly, they were not decorative. Most were located on his lower back, knees and ankles, exactly where X-rays revealed that he suffered from worn joints and arthritis, probably caused by years of walking and poor posture. Many researchers believe the tattoos were a form of medical treatment, similar to acupuncture.
+
+
+    For years, Ötzi''s death was a mystery. Then, in 2001, a new X-ray revealed an arrowhead in his shoulder. He had been shot from behind and probably died within minutes. After several consecutive years of study, a team supervised by an Italian professor concluded that he had been murdered.
+
+
+    Today, Ötzi is displayed in a special cold room in a museum in Bolzano, Italy, which attracts thousands of visitors, from undergraduates to tourists. A monument marks the place where he was found. His tattoos also challenge our ignorance about the past: tattoos were not merely masculine decoration or modern fashion, but may have been one of humanity''s oldest medical practices.
+
+    '
+  ru: 'В сентябре 1991 года двое туристов в Альпах на границе Австрии и Италии заметили тело, торчащее из тающего льда. Сначала они решили, что это современный альпинист, погибший в результате несчастного случая. На самом деле они сделали одно из важнейших открытий в истории антропологии: перед ними был человек, умерший около 5300 лет назад. Учёные назвали его Эци.
+
+
+    Поскольку лёд прекрасно сохранил его тело, исследователи смогли изучить его невероятно подробно. Ему было около сорока пяти лет, рост — около 1,60 метра, он был крепким и мускулистым от постоянной ходьбы по горам. Анализ зубов и костей показал, что он вырос в долине, расположенной неподалёку от места находки. При нём были медный топор, лук, стрелы и небольшой набор примитивных орудий.
+
+
+    Одно из самых удивительных открытий касалось его кожи. У Эци была шестьдесят одна татуировка — простые линии и крестики, сделанные втиранием угля в небольшие надрезы. Интересно, что они не были украшением. Большинство располагалось на пояснице, коленях и лодыжках — именно там, где рентген выявил изношенные суставы и артрит, вероятно, от многолетней ходьбы и плохой осанки. Многие исследователи считают, что татуировки были формой лечения, похожей на иглоукалывание.
+
+
+    Долгие годы смерть Эци оставалась загадкой. А в 2001 году новый рентгеновский снимок обнаружил наконечник стрелы в его плече. В него выстрелили сзади, и он, вероятно, умер в течение нескольких минут. После нескольких лет исследований подряд группа под руководством итальянского профессора пришла к выводу, что он был убит.
+
+
+    Сегодня Эци выставлен в специальной холодной камере музея в Больцано (Италия), куда приходят тысячи посетителей — от студентов до туристов. На месте находки стоит памятник. Его татуировки также опровергают наше невежество в отношении прошлого: татуировки были не просто мужским украшением или современной модой, а, возможно, одной из древнейших медицинских практик человечества.
+
+    '
+  questions:
+  - q: What did the hikers first think they had found?
+    options:
+    - An ancient man
+    - A modern climber who had died
+    - An animal
+    - A statue
+    answer: 1
+  - q: What were Ötzi's tattoos probably for?
+    options:
+    - Decoration
+    - Medical treatment
+    - Showing his rank
+    - Religious symbols
+    answer: 1
+  - q: How did Ötzi die?
+    options:
+    - He froze
+    - He fell
+    - He was shot with an arrow
+    - He starved
+    answer: 2
+  - tf: Ötzi's tattoos were made with modern ink.
+    answer: false
+  - tf: Ötzi grew up not far from where he was found.
+    answer: true
+- id: c2-09
+  v1_unit: The Sanctuary
+  title: The Elephant Orphanage
+  title_ru: Приют для слонят
+  text: 'In Nairobi National Park, just outside the capital of Kenya, an unusual crowd gathers every morning at eleven o''clock. Tourists, school groups and local families line up as spectators behind a rope. Then, one by one, baby elephants come running out of the bushes towards their keepers, who are holding giant bottles of milk. This is the elephant orphanage of the Sheldrick Wildlife Trust.
+
+
+    For decades, Africa''s elephants were hounded by poachers. Their tusks were sold for ivory, which was carved into ornaments and jewellery. When a mother elephant is killed, her baby cannot survive alone; young elephants depend on their mothers'' milk for at least two years. The orphanage was founded in 1977 by Daphne Sheldrick, who spent years discovering a formula that baby elephants could safely digest. Her success came after many failures and heartbreaking losses.
+
+
+    The sanctuary caters for elephants who have lost their families to poaching, drought or conflict with farmers. Each baby is cared for by human keepers who stay with it day and night. They feed it every three hours, play football with it and even sleep next to it, covering it with a blanket. The keepers must be patient and considerate; elephants are sensitive animals that suffer from grief. Experts say that elephants have an extraordinary faculty for memory and emotion, so the care cannot be cold or impersonal.
+
+
+    The orphanage is not a zoo. The aim is to return every elephant to the wild. When they are older, the young elephants are moved to facilities in Tsavo National Park, where rangers escort them as they gradually meet wild herds. Remarkably, many orphans who have returned to the wild later come back to visit their former keepers, sometimes with their own babies. Some gently lick their keepers'' hands, as if remembering them.
+
+
+    Since 1977, the Trust has raised more than 300 orphans. Visitors are entitled to watch the feeding, but they are asked not to yell or touch the animals. Many leave with a new determination to reduce the consumption of ivory and protect elephants from external threats.
+
+    '
+  ru: 'В национальном парке Найроби, сразу за столицей Кении, каждое утро в одиннадцать часов собирается необычная толпа. Туристы, школьники и местные семьи выстраиваются за верёвкой, как зрители. А затем из кустов один за другим выбегают слонята и мчатся к своим смотрителям, держащим огромные бутылки с молоком. Это слоновий приют фонда дикой природы Шелдрик.
+
+
+    Десятилетиями африканских слонов преследовали браконьеры. Их бивни продавали как слоновую кость, из которой вырезали украшения и безделушки. Когда слониху убивают, её детёныш не может выжить один: слонята питаются материнским молоком как минимум два года. Приют основала в 1977 году Дафна Шелдрик, которая потратила годы на то, чтобы подобрать смесь, которую слонята могли бы безопасно переваривать. Успех пришёл к ней после множества неудач и душераздирающих потерь.
+
+
+    Заповедник принимает слонят, потерявших семьи из-за браконьеров, засухи или конфликтов с фермерами. За каждым малышом ухаживают смотрители, которые находятся рядом с ним днём и ночью. Они кормят его каждые три часа, играют с ним в футбол и даже спят рядом, укрывая одеялом. Смотрители должны быть терпеливыми и чуткими: слоны — ранимые животные, которые страдают от горя. Эксперты говорят, что у слонов поразительная способность к запоминанию и переживанию эмоций, поэтому забота не может быть холодной и формальной.
+
+
+    Приют — не зоопарк. Цель — вернуть каждого слона в дикую природу. Подросших слонят переводят в центры национального парка Цаво, где рейнджеры сопровождают их, пока они постепенно знакомятся с дикими стадами. Удивительно, но многие сироты, вернувшиеся в дикую природу, потом приходят навестить своих бывших смотрителей, иногда со своими детёнышами. Некоторые ласково лижут руки смотрителей, словно вспоминая их.
+
+
+    С 1977 года фонд вырастил более 300 сирот. Посетители могут наблюдать за кормлением, но их просят не кричать и не трогать животных. Многие уходят с новой решимостью сократить потребление слоновой кости и защитить слонов от внешних угроз.
+
+    '
+  questions:
+  - q: Why can't baby elephants survive without their mothers?
+    options:
+    - They can't walk
+    - They depend on their mothers' milk for at least two years
+    - They are too cold
+    - They can't see
+    answer: 1
+  - q: What is the aim of the orphanage?
+    options:
+    - To keep elephants forever
+    - To return every elephant to the wild
+    - To sell elephants to zoos
+    - To train elephants for work
+    answer: 1
+  - q: What do some orphans do after returning to the wild?
+    options:
+    - They never come back
+    - They come back to visit their keepers
+    - They attack tourists
+    - They stay in Tsavo
+    answer: 1
+  - tf: Visitors are allowed to touch the elephants.
+    answer: false
+  - tf: Keepers sometimes sleep next to the baby elephants.
+    answer: true
+- id: c2-10
+  v1_unit: The Invincible Armada
+  title: '1588: The Armada and the Storm'
+  title_ru: '1588: Армада и буря'
+  text: 'In the summer of 1588, King Philip II of Spain launched one of the largest naval operations in history. His fleet of around 130 ships, known as the "Invincible Armada", set sail to invade Protestant England and remove Queen Elizabeth I from the throne. Spain was the most powerful country in Europe, wealthy from the silver it imported from its American colonies.
+
+
+    The plan was elaborate. The Armada would sail up the English Channel, meet a Spanish army waiting in the Netherlands, and carry the soldiers across to England. However, communication was slow; the king in his marble palace near Madrid could wait weeks for an update. The commander, the Duke of Medina Sidonia, had little experience at sea. Some historians infer from his letters that he had not wanted the job at all.
+
+
+    The English fleet was smaller, but its ships were faster and more manoeuvrable, and its sailors had an almost innate knowledge of the local waters. For a week, the two fleets fought along the Channel without a decisive result. Then, when the Armada anchored near Calais, the English sent eight burning ships towards it in the night. The Spanish captains faced a dilemma: stay and risk fire, or cut their anchors and flee. They fled in panic, and the fleet was scattered.
+
+
+    Unable to return through the Channel, the Spanish ships were forced to sail north around Scotland and Ireland. There, violent storms facilitated the disaster. Masts snapped, ships were wrecked on rocky coasts, and soldiers, saturated and suffering from nausea, hunger and disease, died in their thousands. The exact numbers are unknown, but perhaps a third of the ships never returned.
+
+
+    In England, the victory was celebrated as proof of God''s protection, and the story was inflated over time. Medals declared that "God blew, and they were scattered." Today, museums display Spanish acquisitions recovered from wrecks: cannons, coins in leather pouches and personal accessories. They are quiet reminders that even the most powerful fleets can be defeated by poor planning — and by the weather.
+
+    '
+  ru: 'Летом 1588 года испанский король Филипп II начал одну из крупнейших морских операций в истории. Его флот из примерно 130 кораблей, прозванный «Непобедимой армадой», отправился в поход, чтобы вторгнуться в протестантскую Англию и свергнуть королеву Елизавету I. Испания была самой могущественной страной Европы, разбогатевшей на серебре, которое она ввозила из американских колоний.
+
+
+    План был тщательно продуман. Армада должна была пройти по Ла-Маншу, встретиться с испанской армией, ожидавшей в Нидерландах, и переправить солдат в Англию. Однако связь была медленной: король в своём мраморном дворце под Мадридом мог неделями ждать новостей. Командующий, герцог Медина-Сидония, почти не имел морского опыта. По его письмам некоторые историки заключают, что он вообще не хотел этой должности.
+
+
+    Английский флот был меньше, но его корабли были быстрее и манёвреннее, а моряки почти инстинктивно знали местные воды. Неделю два флота сражались вдоль Ла-Манша без решающего результата. А когда армада встала на якорь у Кале, англичане ночью пустили на неё восемь горящих кораблей. Испанские капитаны оказались перед дилеммой: остаться и рискнуть сгореть или обрубить якоря и бежать. Они в панике бежали, и флот рассеялся.
+
+
+    Не имея возможности вернуться через Ла-Манш, испанские корабли были вынуждены идти на север вокруг Шотландии и Ирландии. Там довершили катастрофу жестокие бури. Мачты ломались, корабли разбивались о скалистые берега, а промокшие солдаты, страдавшие от тошноты, голода и болезней, гибли тысячами. Точные цифры неизвестны, но, возможно, треть кораблей так и не вернулась.
+
+
+    В Англии победу праздновали как доказательство Божьего покровительства, и со временем история обросла преувеличениями. На медалях было выбито: «Бог дунул — и они рассеялись». Сегодня музеи выставляют испанские находки, поднятые с затонувших кораблей: пушки, монеты в кожаных мешочках и личные вещи. Они тихо напоминают о том, что даже самый могучий флот можно победить плохим планированием — и погодой.
+
+    '
+  questions:
+  - q: What was the aim of the Armada?
+    options:
+    - To trade with England
+    - To invade England and remove Elizabeth I
+    - To explore America
+    - To defend Spain
+    answer: 1
+  - q: What did the English send towards the Armada at Calais?
+    options:
+    - Spies
+    - Burning ships
+    - A peace offer
+    - Cannons on land
+    answer: 1
+  - q: What caused the greatest losses for the Spanish?
+    options:
+    - English cannons only
+    - Storms around Scotland and Ireland
+    - A disease in Spain
+    - Pirates
+    answer: 1
+  - tf: The Duke of Medina Sidonia was a very experienced sailor.
+    answer: false
+  - tf: The story of the English victory was exaggerated over time.
+    answer: true
+- id: c2-11
+  v1_unit: Who Is Banksy?
+  title: The Invisible Artist
+  title_ru: Невидимый художник
+  text: 'In October 2018, a painting by the street artist Banksy was sold at a London auction for over one million pounds. Seconds after the hammer fell, an alarm sounded, and the canvas began to slide down through its frame, where a hidden shredder cut it into strips. The audience gasped. The stunt made headlines around the world — and, ironically, increased the value of the half-destroyed work. It was renamed "Love is in the Bin".
+
+
+    Banksy is one of the most famous artists in the world, yet nobody knows for certain who he is. He began painting graffiti in Bristol, England, in the 1990s. Because graffiti is illegal, he worked at night, using stencils so he could finish quickly — a discipline that became his trademark style. His work often appears suddenly on walls in cities around the world, from London to New York to the West Bank.
+
+
+    His themes are political and often humorous: children releasing balloons, police officers kissing, rats carrying signs, soldiers having a pillow fight. He mocks war, consumerism and the art world itself. Many of his works have been a stimulus for public debate about issues like immigration, surveillance and chronic poverty.
+
+
+    Over the years, there has been endless gossip and speculation about his identity. Journalists have used geographical data to implicate particular people, but no theory has been officially confirmed. Banksy communicates through a spokesperson and a website, and his team includes a company that verifies which works are genuine. In one court case, he chose to lose a legal battle rather than reveal his name to the judges and attorneys.
+
+
+    Not everyone is a fan. Some fellow artists accuse him of selling out, and some councils have painted over his work. Yet other cities now act as guardians of his pieces, protecting them behind glass. Some works have been removed from walls and sold, and Banksy has donated money from his art to charities and refugee rescue ships. In an age when everyone shares everything online, perhaps his greatest artwork is his anonymity.
+
+    '
+  ru: 'В октябре 2018 года картина уличного художника Бэнкси была продана на лондонском аукционе более чем за миллион фунтов. Через несколько секунд после удара молотка раздался сигнал, и холст начал сползать вниз через раму, где спрятанный шредер разрезал его на полоски. Зал ахнул. Выходка попала в заголовки по всему миру и, по иронии, увеличила стоимость наполовину уничтоженной работы. Её переименовали в «Любовь в мусорном ведре».
+
+
+    Бэнкси — один из самых известных художников в мире, но никто не знает наверняка, кто он. Он начал рисовать граффити в Бристоле (Англия) в 1990-х. Поскольку граффити незаконны, он работал по ночам и использовал трафареты, чтобы управляться быстро, — эта дисциплина стала его фирменным стилем. Его работы нередко внезапно появляются на стенах в городах по всему миру — от Лондона и Нью-Йорка до Западного берега реки Иордан.
+
+
+    Его темы политические и часто остроумные: дети, отпускающие воздушные шары, целующиеся полицейские, крысы с плакатами, солдаты, дерущиеся подушками. Он высмеивает войну, общество потребления и сам мир искусства. Многие его работы стали толчком к общественному обсуждению таких проблем, как иммиграция, слежка и хроническая бедность.
+
+
+    За эти годы о его личности ходило бесконечно много слухов и догадок. Журналисты использовали географические данные, чтобы указать на конкретных людей, но ни одна версия не была официально подтверждена. Бэнкси общается через представителя и сайт, а в его команду входит компания, проверяющая, какие работы подлинные. В одном судебном деле он предпочёл проиграть процесс, лишь бы не раскрывать своё имя судьям и адвокатам.
+
+
+    Нравится он не всем. Некоторые коллеги-художники обвиняют его в продажности, а некоторые городские советы закрашивают его работы. Другие же города теперь берегут его произведения, защищая их стеклом. Некоторые работы сняли со стен и продали, а Бэнкси жертвовал деньги от своего искусства на благотворительность и спасательные суда для беженцев. В эпоху, когда каждый выкладывает всё в сеть, возможно, его величайшее произведение — его анонимность.
+
+    '
+  questions:
+  - q: What happened after Banksy's painting was sold in 2018?
+    options:
+    - It was stolen
+    - It was partly shredded by a hidden device
+    - It caught fire
+    - It disappeared from the wall
+    answer: 1
+  - q: Why did Banksy use stencils?
+    options:
+    - They were cheap
+    - To work quickly, because graffiti is illegal
+    - His teacher told him to
+    - To make copies
+    answer: 1
+  - q: What did Banksy do in one court case?
+    options:
+    - He revealed his name
+    - He chose to lose rather than reveal his name
+    - He sent a lawyer with a mask
+    - He won easily
+    answer: 1
+  - tf: Banksy's identity has been officially confirmed.
+    answer: false
+  - tf: Some cities protect Banksy's works behind glass.
+    answer: true
+- id: c2-12
+  v1_unit: Those About to Die
+  title: Gladiators
+  title_ru: Гладиаторы
+  text: 'In ancient Rome, few spectacles were as popular as the gladiator games. Thousands of people would crowd into huge arenas, such as the Colosseum, which was completed during the reign of Emperor Titus in 80 AD and could hold around 50,000 spectators. There they watched trained fighters face each other in deadly combat.
+
+
+    The games began as sacred rituals. Originally, they were held at the funerals of important men, perhaps to honour the dead. Over time, they became public entertainment, paid for by emperors and politicians to win popularity. The poet Juvenal complained that the Roman people only wanted "bread and circuses" — food and entertainment that distracted them from politics.
+
+
+    Most gladiators were slaves, criminals or captives taken in Rome''s wars. However, some free men volunteered, attracted by fame and money. Gladiators lived in a guarded compound called a school, where they underwent strict training. Contrary to popular belief, they were valuable, and their owners did not want them to die. Many fights ended when one fighter was wounded or gave up. Doctors treated their injuries, and some gladiators survived for years, becoming celebrities whose names were scratched on walls like modern graffiti.
+
+
+    Nonetheless, death was commonplace. The crowd could be aggressive, and when a defeated gladiator raised his finger to ask for mercy, the emperor often listened to the audience before deciding his fate. Famous gladiators were sometimes granted their freedom, receiving a wooden sword as a symbol. Others were less fortunate and died facing a stronger foe.
+
+
+    The games ended in the early fifth century, partly as a result of Christian opposition. Today, the ruins of the Colosseum attract millions of tourists every year. Films and books continue to provoke fascination with the gladiators — and to raise uncomfortable questions about why humans have always been drawn to watching violence.
+
+    '
+  ru: 'В Древнем Риме мало какие зрелища были так популярны, как гладиаторские бои. Тысячи людей заполняли огромные арены, например Колизей, достроенный в правление императора Тита в 80 году н. э. и вмещавший около 50 000 зрителей. Там они смотрели, как обученные бойцы сходятся в смертельной схватке.
+
+
+    Игры начинались как священные обряды. Изначально их проводили на похоронах знатных людей — возможно, чтобы почтить умершего. Со временем они превратились в публичное развлечение, которое оплачивали императоры и политики, чтобы завоевать популярность. Поэт Ювенал сетовал, что римскому народу нужны лишь «хлеба и зрелищ» — еда и развлечения, отвлекавшие от политики.
+
+
+    Большинство гладиаторов были рабами, преступниками или пленными, захваченными в войнах Рима. Однако некоторые свободные люди шли в гладиаторы добровольно, привлечённые славой и деньгами. Гладиаторы жили на охраняемой территории — в так называемой школе, где проходили суровую подготовку. Вопреки распространённому мнению, они были ценны, и хозяева не хотели их гибели. Многие бои заканчивались, когда один из бойцов был ранен или сдавался. Врачи лечили их раны, и некоторые гладиаторы жили годами, становясь знаменитостями, чьи имена выцарапывали на стенах, как современные граффити.
+
+
+    Тем не менее смерть была обычным делом. Толпа могла быть агрессивной, и когда побеждённый гладиатор поднимал палец, прося пощады, император часто прислушивался к публике, прежде чем решить его судьбу. Знаменитым гладиаторам иногда даровали свободу, вручая деревянный меч как символ. Другим везло меньше, и они погибали, встретив более сильного противника.
+
+
+    Игры прекратились в начале V века, отчасти из-за противодействия христиан. Сегодня руины Колизея ежегодно привлекают миллионы туристов. Фильмы и книги по-прежнему разжигают интерес к гладиаторам — и поднимают неудобные вопросы о том, почему людей всегда тянуло смотреть на насилие.
+
+    '
+  questions:
+  - q: How did the gladiator games begin?
+    options:
+    - As sports competitions
+    - As sacred rituals at funerals
+    - As military training
+    - As punishments
+    answer: 1
+  - q: Why did owners not want gladiators to die?
+    options:
+    - They were valuable
+    - It was illegal
+    - The emperor forbade it
+    - They were family
+    answer: 0
+  - q: What did a wooden sword symbolize?
+    options:
+    - Defeat
+    - Freedom
+    - Victory in battle
+    - Death
+    answer: 1
+  - tf: All gladiators were slaves or criminals.
+    answer: false
+  - tf: The Colosseum could hold around 50,000 spectators.
+    answer: true
+- id: c2-13
+  v1_unit: The Woman Who Redefined Humanity
+  title: Jane Goodall and the Chimpanzees
+  title_ru: Джейн Гудолл и шимпанзе
+  text: 'In 1960, a 26-year-old Englishwoman named Jane Goodall arrived at Gombe Stream, a forest reserve in Tanzania. She had no university degree, and many scientists were arrogant about her lack of training. There was also a strong bias against women in the field. But the famous anthropologist Louis Leakey believed that her patience and open mind made her the perfect person to study wild chimpanzees.
+
+
+    At first, the chimps ran away whenever she approached. Day after day, Goodall climbed the steep trails above the creek, sat quietly and watched from a distance. Despite fatigue, heat and illness, she persisted. Slowly, the animals got used to her.
+
+
+    A few months later, she made a discovery that shocked the scientific world. She saw a chimpanzee she had named David Greybeard pick up a twig, remove its leaves and push it into a termite mound. When he pulled it out, it was covered with termites, which he ate. He was making and using a tool. At the time, tool-making was perceived as the thing that separated humans from all other animals. When Leakey heard the news, he famously replied: "Now we must redefine tool, redefine man, or accept chimpanzees as humans."
+
+
+    Goodall''s methods were unusual. Instead of giving the chimps numbers, she gave them names, thereby treating them as individuals with personalities. Critics said this was unscientific. However, her detailed observations revealed that chimpanzees hug, kiss, comfort each other and form strong family bonds. She also observed darker behaviour, including nasty fights and even wars between groups. These findings challenged the stereotype of chimps as simple, primitive animals.
+
+
+    Goodall went on to earn a PhD and became one of the most famous scientists in the world. Later, she dedicated her life to protecting chimpanzees and campaigning for animal welfare. Her work showed that the boundary between humans and other primates is far less clear than we once believed.
+
+    '
+  ru: 'В 1960 году 26-летняя англичанка Джейн Гудолл прибыла в Гомбе-Стрим — лесной заповедник в Танзании. У неё не было высшего образования, и многие учёные высокомерно относились к её неподготовленности. Кроме того, в этой области существовала сильная предвзятость по отношению к женщинам. Но знаменитый антрополог Луис Лики считал, что терпение и непредвзятость делают её идеальным человеком для изучения диких шимпанзе.
+
+
+    Поначалу шимпанзе убегали, стоило ей приблизиться. День за днём Гудолл поднималась по крутым тропам над ручьём, тихо сидела и наблюдала издалека. Несмотря на усталость, жару и болезни, она не сдавалась. Постепенно животные к ней привыкли.
+
+
+    Через несколько месяцев она сделала открытие, потрясшее научный мир. Она увидела, как шимпанзе, которого она назвала Дэвидом Седобородым, подобрал веточку, оборвал с неё листья и сунул в термитник. Когда он её вытащил, она была облеплена термитами, которых он съел. Он изготовил орудие и пользовался им. В то время изготовление орудий считалось тем, что отличает человека от всех остальных животных. Узнав об этом, Лики произнёс знаменитые слова: «Теперь нам придётся либо дать новое определение орудию, либо человеку, либо признать шимпанзе людьми».
+
+
+    Методы Гудолл были необычными. Вместо номеров она давала шимпанзе имена, тем самым относясь к ним как к личностям со своим характером. Критики называли это ненаучным. Однако её подробные наблюдения показали, что шимпанзе обнимаются, целуются, утешают друг друга и образуют прочные семейные связи. Она наблюдала и более мрачное поведение — жестокие драки и даже войны между группами. Эти открытия разрушили стереотип о шимпанзе как о простых, примитивных животных.
+
+
+    Впоследствии Гудолл получила докторскую степень и стала одним из самых известных учёных в мире. Позже она посвятила жизнь защите шимпанзе и борьбе за благополучие животных. Её работа показала, что граница между человеком и другими приматами гораздо менее чёткая, чем мы когда-то думали.
+
+    '
+  questions:
+  - q: Why did Louis Leakey choose Goodall?
+    options:
+    - She had a PhD
+    - Her patience and open mind
+    - She was a famous scientist
+    - She lived in Tanzania
+    answer: 1
+  - q: What did Goodall see David Greybeard do?
+    options:
+    - Build a nest
+    - Make and use a tool to catch termites
+    - Speak to other chimps
+    - Fight a leopard
+    answer: 1
+  - q: Why did critics call her methods unscientific?
+    options:
+    - She gave the chimps names
+    - She didn't take notes
+    - She fed the chimps
+    - She worked alone
+    answer: 0
+  - tf: Goodall only observed peaceful behaviour in chimpanzees.
+    answer: false
+  - tf: Goodall later earned a PhD.
+    answer: true
+- id: c2-14
+  v1_unit: The Oracle of Delphi
+  title: The Voice of Apollo
+  title_ru: Голос Аполлона
+  text: 'For more than a thousand years, people from all over the ancient Greek world travelled to Delphi, a sacred site high on the slopes of Mount Parnassus. They came to consult the oracle — a priestess called the Pythia, who was believed to speak on behalf of the god Apollo. Kings asked whether they should go to war; cities asked where to found new colonies; ordinary people asked about marriage, illness and money.
+
+
+    The rites were elaborate. Visitors first purified themselves with water from a sacred spring and offered gifts — a goat, a loaf of honey cake or, for the wealthy, gold and silver. The temple kept a detailed inventory of the treasures it received. On consultation days, the Pythia sat on a tall three-legged stool above a crack in the rock in the innermost room of the temple. Ancient writers describe how she breathed in sweet-smelling vapours, fell into a trance and gave answers that priests then interpreted.
+
+
+    Her answers were famously ambiguous. When King Croesus of Lydia asked whether he should attack Persia, the oracle replied that if he did, "a great empire would fall". Croesus attacked — and the empire that fell was his own.
+
+
+    For centuries, modern scholars doubted the stories about the vapours. Previous excavations found no crack in the rock beneath the temple. However, a team of geologists in the 1990s discovered two faults crossing directly under the site. They found evidence that sweet-smelling gases such as ethylene may once have risen from the rock. In small doses, these can produce a pleasant, trance-like state. Rather than a supernatural power, the Pythia''s visions may have had a natural explanation.
+
+
+    The temple''s most famous inscription was simple: "Know thyself". It encouraged an inward search for wisdom rather than answers from outside. More than two thousand years later, that advice remains as relevant as ever. Today, Delphi is a World Heritage Site, and visitors from across the globe still climb the hill to see where Apollo is said to have spoken.
+
+    '
+  ru: 'Более тысячи лет люди со всего древнегреческого мира приезжали в Дельфы — священное место высоко на склонах горы Парнас. Они приходили за советом к оракулу — жрице по имени Пифия, которая, как верили, говорила от имени бога Аполлона. Цари спрашивали, начинать ли войну; города — где основать новые колонии; простые люди — о браке, болезнях и деньгах.
+
+
+    Обряды были сложными. Сначала посетители очищались водой из священного источника и приносили дары — козу, медовую лепёшку или, если были богаты, золото и серебро. Храм вёл подробную опись полученных сокровищ. В дни прорицаний Пифия восседала на высоком треножнике над расщелиной в скале в самом сокровенном помещении храма. Древние авторы описывают, как она вдыхала сладковатые испарения, впадала в транс и давала ответы, которые затем толковали жрецы.
+
+
+    Её ответы славились своей двусмысленностью. Когда лидийский царь Крёз спросил, стоит ли ему нападать на Персию, оракул ответил, что, если он это сделает, «падёт великое царство». Крёз напал — и пало его собственное царство.
+
+
+    Веками современные учёные сомневались в рассказах об испарениях. Прежние раскопки не обнаружили под храмом никакой расщелины. Однако группа геологов в 1990-х годах обнаружила два разлома, пересекающихся прямо под этим местом. Они нашли свидетельства того, что из скалы когда-то могли подниматься сладковато пахнущие газы, например этилен. В малых дозах они вызывают приятное состояние, похожее на транс. Возможно, видения Пифии объяснялись не сверхъестественной силой, а природой.
+
+
+    Самая знаменитая надпись храма была проста: «Познай самого себя». Она призывала искать мудрость внутри себя, а не получать ответы извне. Спустя более двух тысяч лет этот совет столь же актуален. Сегодня Дельфы — объект Всемирного наследия, и посетители со всего света по-прежнему поднимаются на холм, чтобы увидеть место, где, по преданию, говорил Аполлон.
+
+    '
+  questions:
+  - q: Who was the Pythia?
+    options:
+    - A Greek king
+    - A priestess believed to speak for Apollo
+    - A goddess
+    - A geologist
+    answer: 1
+  - q: What happened to King Croesus?
+    options:
+    - He conquered Persia
+    - His own empire fell
+    - He became a priest
+    - He ignored the oracle
+    answer: 1
+  - q: What did geologists discover in the 1990s?
+    options:
+    - Gold under the temple
+    - Faults that may have released sweet-smelling gases
+    - A hidden room
+    - Apollo's statue
+    answer: 1
+  - tf: The oracle's answers were always clear and simple.
+    answer: false
+  - tf: '''Know thyself'' was a famous inscription at the temple.'
+    answer: true
+- id: c2-15
+  v1_unit: The Secrets of a Long Life
+  title: Lessons from the Blue Zones
+  title_ru: Уроки «голубых зон»
+  text: 'Humans have always been intrigued by longevity. We admire giant tortoises and other reptiles that live for over 150 years, and orangutans that reach their fifties. But in a few places on Earth, it is people who seem to have discovered the secret of a long life.
+
+
+    In the early 2000s, a team of researchers began to probe why some communities had unusually high numbers of people living to 100. They identified five regions, later called "Blue Zones": Okinawa in Japan, Sardinia in Italy, Nicoya in Costa Rica, Ikaria in Greece and Loma Linda in California. In these places, reaching a hundred is not exactly the norm, but it is far more common than elsewhere.
+
+
+    The researchers found several shared habits. People in Blue Zones rarely go to the gym, but they move naturally all day: gardening, walking and climbing hills. They eat mainly plants, especially beans, and little meat. In Okinawa, a convention called "hara hachi bu" reminds people to stop eating when they are eighty percent full. Many drink a little red wine with friends.
+
+
+    Social connections seem to be even more important. Older people are treated with respect and remain part of family life. In Okinawa, groups of friends called "moai" support each other for their entire lives, which seems to insulate them from stress and loneliness. Many also have a strong sense of purpose — a reason to get up in the morning — which helps them thrive into old age. Retiring at an arbitrary age is unusual; many continue working and helping their communities.
+
+
+    Critics point out that some records may be inaccurate, as birth certificates can be misplaced or lost. Others argue that genetics play a role. Nevertheless, the main lessons are hard to dispute. In an age of information overload and stress, the ultimate recipe for a long life may be surprisingly simple: move naturally, eat sensibly, stay connected and find meaning. As one 102-year-old Sardinian woman said in her autobiography: "I never planned to live this long. I was just too busy to die."
+
+    '
+  ru: 'Человечество всегда интересовало долголетие. Мы восхищаемся гигантскими черепахами и другими рептилиями, живущими более 150 лет, и орангутанами, доживающими до пятидесяти. Но в нескольких местах на Земле секрет долгой жизни, похоже, открыли сами люди.
+
+
+    В начале 2000-х группа исследователей начала выяснять, почему в некоторых общинах необычайно много людей доживает до 100 лет. Они выделили пять регионов, позже названных «голубыми зонами»: Окинава в Японии, Сардиния в Италии, Никоя в Коста-Рике, Икария в Греции и Лома-Линда в Калифорнии. Там дожить до ста лет — не то чтобы норма, но гораздо обычнее, чем в других местах.
+
+
+    Исследователи обнаружили несколько общих привычек. Жители «голубых зон» редко ходят в спортзал, но весь день естественно двигаются: работают в саду, ходят пешком, поднимаются в гору. Они едят в основном растительную пищу, особенно бобовые, и мало мяса. На Окинаве обычай «хара хати бу» напоминает прекращать есть, когда наелся на восемьдесят процентов. Многие пьют немного красного вина в кругу друзей.
+
+
+    Социальные связи, похоже, ещё важнее. К пожилым относятся с уважением, они остаются частью семейной жизни. На Окинаве группы друзей, называемые «моаи», поддерживают друг друга всю жизнь, и это, видимо, защищает их от стресса и одиночества. У многих есть сильное ощущение смысла — причина вставать по утрам, — которое помогает им сохранять бодрость в старости. Уход на пенсию в произвольно установленном возрасте там редкость; многие продолжают работать и помогать общине.
+
+
+    Критики отмечают, что некоторые записи могут быть неточными: свидетельства о рождении могли потеряться. Другие считают, что свою роль играет генетика. Тем не менее главные уроки трудно оспорить. В эпоху информационной перегрузки и стресса высший рецепт долгой жизни может оказаться на удивление простым: естественно двигаться, разумно питаться, поддерживать связи и находить смысл. Как написала в автобиографии одна 102-летняя жительница Сардинии: «Я никогда не планировала жить так долго. Мне просто было некогда умирать».
+
+    '
+  questions:
+  - q: What are 'Blue Zones'?
+    options:
+    - Areas near the sea
+    - Regions with unusually many people living to 100
+    - Hospitals
+    - Gyms
+    answer: 1
+  - q: What does 'hara hachi bu' remind people to do?
+    options:
+    - Exercise daily
+    - Stop eating when 80% full
+    - Drink wine
+    - Sleep more
+    answer: 1
+  - q: What do 'moai' groups provide?
+    options:
+    - Food
+    - Lifelong support from friends
+    - Medicine
+    - Money for retirement
+    answer: 1
+  - tf: People in Blue Zones spend a lot of time in gyms.
+    answer: false
+  - tf: Some critics say genetics also play a role.
+    answer: true
+- id: c2-16
+  v1_unit: The Man Who Fooled the Nazis
+  title: The Forger Who Fooled Göring
+  title_ru: Фальсификатор, обманувший Геринга
+  text: 'In May 1945, shortly after the end of the Second World War, Dutch police arrested a painter named Han van Meegeren. Allied officers had found a painting by the famous seventeenth-century Dutch artist Johannes Vermeer in the collection of Hermann Göring, one of the most powerful Nazi leaders. Records showed that van Meegeren had sold it to him. Selling a national treasure to the enemy was treason, a crime that could be punished by death.
+
+
+    Van Meegeren''s defence was astonishing. "I did not sell a Vermeer," he said. "I painted it myself." He was a forger.
+
+
+    At first, no one believed him. Vermeer was an artist of enormous renown, and only about thirty-five of his works were known to exist. Experts had studied van Meegeren''s "Vermeers" for years and declared them authentic. One painting had even been bought by a famous museum for a huge sum. Little was known about the chronology of Vermeer''s early career, and van Meegeren had cleverly filled the gap with religious paintings that experts were happy to believe were lost masterpieces.
+
+
+    To prove his story, van Meegeren offered to paint another "Vermeer" in front of witnesses. Over several weeks, under guard, he did exactly that. He explained his methods: he used old canvases, mixed his own paints from historical recipes, and baked the finished paintings in an oven to make them hard and cracked like antiques.
+
+
+    The case became an epic story. Van Meegeren was transformed from a traitor into a national hero — the man who had fooled Göring. Göring himself was reportedly shocked when told that his treasured painting was a fake. The experts, however, were deeply humiliated.
+
+
+    In 1947, van Meegeren was convicted of forgery, not treason, and sentenced to one year in prison. He died of a heart attack before serving his sentence. Today, his fakes are themselves collected as artifacts of one of the greatest art scandals in history.
+
+    '
+  ru: 'В мае 1945 года, вскоре после окончания Второй мировой войны, голландская полиция арестовала художника по имени Хан ван Меегерен. Офицеры союзников обнаружили картину знаменитого голландского художника XVII века Яна Вермеера в коллекции Германа Геринга, одного из самых влиятельных нацистских лидеров. Документы показывали, что продал её ему ван Меегерен. Продажа национального достояния врагу считалась государственной изменой — преступлением, за которое грозила смертная казнь.
+
+
+    Защита ван Меегерена была поразительной. «Я не продавал Вермеера, — сказал он. — Я сам его написал». Он был фальсификатором.
+
+
+    Сначала ему никто не поверил. Вермеер был художником огромной славы, и было известно лишь около тридцати пяти его работ. Эксперты годами изучали «Вермееров» ван Меегерена и признавали их подлинными. Одну картину даже купил за огромную сумму известный музей. О хронологии раннего творчества Вермеера было мало что известно, и ван Меегерен ловко заполнил этот пробел картинами на религиозные сюжеты, которые эксперты охотно приняли за утерянные шедевры.
+
+
+    Чтобы доказать свою правоту, ван Меегерен предложил написать ещё одного «Вермеера» при свидетелях. В течение нескольких недель, под охраной, он так и сделал. Он рассказал о своих методах: использовал старые холсты, сам смешивал краски по историческим рецептам и запекал готовые картины в печи, чтобы они затвердели и покрылись трещинами, как антиквариат.
+
+
+    Дело превратилось в грандиозную историю. Ван Меегерен из предателя превратился в национального героя — человека, который обманул Геринга. Сам Геринг, говорят, был потрясён, узнав, что его драгоценная картина — подделка. А вот эксперты были глубоко унижены.
+
+
+    В 1947 году ван Меегерена осудили за подделку, а не за измену, и приговорили к году тюрьмы. Он умер от сердечного приступа, не успев отбыть срок. Сегодня его подделки сами коллекционируют как артефакты одного из величайших скандалов в истории искусства.
+
+    '
+  questions:
+  - q: Why was van Meegeren arrested?
+    options:
+    - For stealing paintings
+    - For selling a national treasure to a Nazi leader
+    - For murder
+    - For not paying taxes
+    answer: 1
+  - q: How did he prove he was a forger?
+    options:
+    - He showed receipts
+    - He painted another 'Vermeer' in front of witnesses
+    - He confessed in a letter
+    - Göring told the police
+    answer: 1
+  - q: How did he make his paintings look old?
+    options:
+    - He left them in the sun
+    - He baked them in an oven
+    - He painted cracks on them
+    - He buried them
+    answer: 1
+  - tf: Van Meegeren was convicted of treason.
+    answer: false
+  - tf: Experts had believed his paintings were authentic.
+    answer: true
+- id: c2-17
+  v1_unit: The Terracotta Army
+  title: An Army for Eternity
+  title_ru: Армия для вечности
+  text: 'In March 1974, a group of farmers in central China were digging a well when their shovels hit something hard. They pulled out pieces of baked clay with jagged edges — part of a human head and a body. At first, they thought it was a dubious find of little value. In fact, they had stumbled on one of the greatest archaeological discoveries of the twentieth century.
+
+
+    The pieces belonged to the tomb of Qin Shi Huang, the first emperor of a unified China, who died in 210 BC. A powerful but vicious ruler, he had conquered rival kingdoms and ordered the construction of an early version of the Great Wall. He also conceived an extraordinary plan: an entire army made of terracotta clay to protect him in the afterlife.
+
+
+    The magnitude of the project is hard to imagine. Archaeologists have excavated only a fraction of the site, yet they have already found around 8,000 soldiers, as well as horses, chariots and weapons. The figures were made in workshops using molds for the basic shapes, but each soldier''s face was then carved individually from the soft, elastic clay. No two faces are exactly alike. Many of the bronze weapons are engraved with the names of the officials responsible for them. Kneeling archers, standing infantry and generals with swords at their thighs were arranged in battle formation in underground pits on the periphery of the tomb.
+
+
+    Originally, the figures were brightly painted, but when they were exposed to air, much of the paint flaked off within minutes. For this reason, archaeologists now move slowly, preserving every fragment before continuing their endeavor. Skeletal remains suggest that many of the workers who built the tomb were buried nearby.
+
+
+    The emperor''s own burial chamber has never been opened. Ancient texts claim it contains rivers of mercury, and soil tests have found high levels of the metal. Some believe the project reflects the emperor''s enormous ego; others see it as an incredible artistic achievement. Today, past and present coexist at the site, where millions of visitors come each year to see an army that has been waiting for over 2,000 years.
+
+    '
+  ru: 'В марте 1974 года группа крестьян в центральном Китае копала колодец, когда их лопаты наткнулись на что-то твёрдое. Они вытащили обломки обожжённой глины с неровными краями — часть человеческой головы и туловища. Сначала они решили, что это сомнительная и малоценная находка. На самом деле они случайно сделали одно из величайших археологических открытий XX века.
+
+
+    Обломки принадлежали гробнице Цинь Шихуанди — первого императора объединённого Китая, умершего в 210 году до н. э. Могущественный, но жестокий правитель, он покорил соперничающие царства и приказал строить раннюю версию Великой стены. Он же задумал необыкновенный план: целую армию из терракотовой глины, которая охраняла бы его в загробной жизни.
+
+
+    Масштаб проекта трудно себе представить. Археологи раскопали лишь малую часть памятника, но уже нашли около 8000 воинов, а также лошадей, колесницы и оружие. Фигуры изготавливали в мастерских, используя формы для основных частей, но лицо каждого воина затем вылепляли отдельно из мягкой, пластичной глины. Нет двух одинаковых лиц. На многих бронзовых клинках выгравированы имена ответственных за них чиновников. Коленопреклонённые лучники, стоящие пехотинцы и генералы с мечами на бедре были выстроены в боевом порядке в подземных ямах по периметру гробницы.
+
+
+    Первоначально фигуры были ярко раскрашены, но на воздухе большая часть краски отслаивалась за считаные минуты. Поэтому теперь археологи продвигаются медленно, сохраняя каждый фрагмент, прежде чем продолжить работу. Скелетные останки говорят о том, что многих рабочих, строивших гробницу, похоронили неподалёку.
+
+
+    Погребальную камеру самого императора так и не вскрыли. Древние тексты утверждают, что в ней текут реки ртути, и анализы почвы действительно показали высокое содержание этого металла. Одни считают, что проект отражает огромное самомнение императора, другие видят в нём невероятное художественное достижение. Сегодня здесь соседствуют прошлое и настоящее: миллионы посетителей ежегодно приезжают посмотреть на армию, которая ждёт уже более 2000 лет.
+
+    '
+  questions:
+  - q: How was the Terracotta Army discovered?
+    options:
+    - By archaeologists searching for it
+    - By farmers digging a well
+    - During road construction
+    - From ancient maps
+    answer: 1
+  - q: Why was the army created?
+    options:
+    - For a museum
+    - To protect the emperor in the afterlife
+    - To train real soldiers
+    - As a gift to another king
+    answer: 1
+  - q: What happened to the paint when the figures were exposed to air?
+    options:
+    - It became brighter
+    - Much of it flaked off within minutes
+    - It turned gold
+    - Nothing
+    answer: 1
+  - tf: All of the soldiers' faces are identical.
+    answer: false
+  - tf: The emperor's burial chamber has never been opened.
+    answer: true
+- id: c2-18
+  v1_unit: Why We Sleep
+  title: The Most Underrated Health Habit
+  title_ru: Самая недооценённая полезная привычка
+  text: 'We spend about a third of our lives asleep — a huge chunk of time that might seem wasted. For centuries, many people saw sleep as unproductive, and in some professions, surviving on little sleep was considered almost glamorous. Today, scientists are outspoken: sleep is not a luxury but a biological necessity, intrinsic to almost every function of the body and brain.
+
+
+    What happens when we don''t sleep? In 1964, a seventeen-year-old American student named Randy Gardner stayed awake for eleven days as part of a school science project. As the ordeal went on, he became irritable, forgot things and began to see things that weren''t there. Although he recovered after sleeping soundly for fourteen hours, scientists no longer allow such experiments, because they are now considered too dangerous.
+
+
+    Research shows that sleep plays several vital roles. During deep sleep, the brain clears out waste products that build up during the day, and memories are moved into long-term storage. Hence, students who sleep after studying remember far more than those who stay up all night. Sleep also helps regulate hunger hormones; tired people tend to crave sugary snacks rather than healthy or gourmet meals.
+
+
+    Unfortunately, modern life makes sleep difficult. Bright screens, the din of traffic, caffeine and stress all interfere with rest. In some countries, a culture of overwork has serious consequences: in Japan, there is even a word, "karoshi", meaning death from overwork. Health ministries now run campaigns to encourage better sleep habits.
+
+
+    Some changes are simple: keep a regular bedtime, avoid screens and coffee in the evening, and keep your bedroom dark and cool. If you or your partner snores heavily, it is worth seeing a doctor, as it may indicate a breathing problem. In one particular success story, a school superintendent in the USA agreed to start lessons an hour later. Teenagers slept more, their grades improved, and car accidents involving young drivers fell. So next time someone makes a fuss about your early night, tell them you''re doing something good for your brain.
+
+    '
+  ru: 'Около трети жизни мы проводим во сне — огромная часть времени, которая может показаться потраченной впустую. Веками многие считали сон непродуктивным, а в некоторых профессиях умение обходиться почти без сна считалось чуть ли не шиком. Сегодня учёные говорят прямо: сон — не роскошь, а биологическая необходимость, неотделимая почти от всех функций организма и мозга.
+
+
+    Что происходит, когда мы не спим? В 1964 году семнадцатилетний американский школьник Рэнди Гарднер не спал одиннадцать дней в рамках школьного научного проекта. По мере того как длилось это испытание, он становился раздражительным, забывал вещи и начал видеть то, чего не было. Хотя после четырнадцати часов крепкого сна он восстановился, сегодня учёные не разрешают такие эксперименты — они считаются слишком опасными.
+
+
+    Исследования показывают, что сон выполняет несколько жизненно важных функций. Во время глубокого сна мозг очищается от продуктов обмена, накопившихся за день, а воспоминания переходят в долговременную память. Поэтому студенты, которые спят после занятий, запоминают гораздо больше тех, кто не спит всю ночь. Сон также помогает регулировать гормоны голода: уставшие люди тянутся к сладким перекусам, а не к полезной или изысканной еде.
+
+
+    К сожалению, современная жизнь мешает спать. Яркие экраны, шум транспорта, кофеин и стресс — всё это нарушает отдых. В некоторых странах культура переработок имеет серьёзные последствия: в Японии есть даже слово «кароси» — смерть от переутомления. Министерства здравоохранения теперь проводят кампании, призывающие к здоровому сну.
+
+
+    Некоторые изменения просты: ложитесь в одно и то же время, избегайте экранов и кофе вечером, держите спальню тёмной и прохладной. Если вы или ваш партнёр сильно храпите, стоит обратиться к врачу — это может говорить о проблемах с дыханием. В одной показательной истории руководитель школьного округа в США согласился начинать уроки на час позже. Подростки стали больше спать, их оценки улучшились, а число аварий с участием молодых водителей сократилось. Так что в следующий раз, когда кто-то поднимет шум из-за того, что вы рано ложитесь, скажите, что делаете доброе дело для своего мозга.
+
+    '
+  questions:
+  - q: What happened to Randy Gardner during his experiment?
+    options:
+    - He felt better than ever
+    - He became irritable, forgetful and saw things
+    - He fell ill permanently
+    - He slept secretly
+    answer: 1
+  - q: What does the brain do during deep sleep?
+    options:
+    - Nothing
+    - Clears out waste and stores memories
+    - Burns fat
+    - Produces caffeine
+    answer: 1
+  - q: What happened when a school started lessons later?
+    options:
+    - Grades fell
+    - Teenagers slept more and grades improved
+    - Parents complained
+    - Nothing changed
+    answer: 1
+  - tf: Scientists today still allow experiments like Gardner's.
+    answer: false
+  - tf: Tired people tend to crave sugary snacks.
+    answer: true
+- id: c2-19
+  v1_unit: The True Cost of Fast Fashion
+  title: Wear It Once, Throw It Away
+  title_ru: Надел раз — выбросил
+  text: 'Twenty years ago, most clothing brands released new collections four times a year. Today, some fast-fashion companies add thousands of new items to their websites every week. Using intuitive apps, customers can order a dress on the tram home from work and receive it from a courier the next day. Prices are so low that many people wear a garment only a few times before throwing it away.
+
+
+    The industry has been propelled by social media. Influencers post outfits that followers want to copy immediately, and many young people obsess over never being photographed in the same clothes twice. Shopping has also become a way to socialize and relax. But the true cost of this cheap clothing is hidden.
+
+
+    Most fast fashion is produced in countries where wages are extremely low. In 2013, the Rana Plaza building in Bangladesh, which contained several garment factories, collapsed, killing more than 1,100 workers. Cracks had appeared in the walls the day before, but workers were ordered to return. The disaster unsettled consumers around the world and raised questions about whether brands should be legally liable for conditions in their suppliers'' factories. Some companies were accused of trying to suppress information about where their clothes were made.
+
+
+    The environmental impact is also enormous. The fashion industry is responsible for a significant share of global carbon emissions. Clothes are shipped as freight across oceans, and delivery vans make city streets more congested. Producing a single pair of jeans can use thousands of litres of water. Cheap synthetic fabrics release microplastics, and millions of tonnes of clothing end up in landfills every year.
+
+
+    Change is possible. Some consumers now buy fewer, premium-quality items that last longer, or shop secondhand. Clothing swaps and repair workshops are becoming more popular. Being able to buy cheap clothes is a privilege, and the people who make them often pay the price. As one campaigner said: "We don''t need to stop buying clothes. We just need to stop going overboard."
+
+    '
+  ru: 'Двадцать лет назад большинство брендов одежды выпускали новые коллекции четыре раза в год. Сегодня некоторые компании быстрой моды добавляют на свои сайты тысячи новинок каждую неделю. С помощью интуитивных приложений можно заказать платье в трамвае по дороге с работы и получить его от курьера на следующий день. Цены настолько низкие, что многие надевают вещь всего несколько раз, а потом выбрасывают.
+
+
+    Рост отрасли подстегнули соцсети. Блогеры публикуют образы, которые подписчики хотят немедленно повторить, а многие молодые люди одержимы тем, чтобы никогда не появляться на фото в одной и той же одежде дважды. Шопинг стал ещё и способом общаться и отдыхать. Но истинная цена этой дешёвой одежды скрыта.
+
+
+    Большая часть быстрой моды производится в странах с крайне низкими зарплатами. В 2013 году в Бангладеш рухнуло здание «Рана-Плаза», где размещались несколько швейных фабрик; погибли более 1100 рабочих. Накануне в стенах появились трещины, но работникам велели вернуться. Катастрофа встревожила покупателей по всему миру и подняла вопрос о том, должны ли бренды нести юридическую ответственность за условия на фабриках поставщиков. Некоторые компании обвиняли в том, что они пытались скрыть, где шьют их одежду.
+
+
+    Огромно и воздействие на окружающую среду. На модную индустрию приходится значительная доля мировых выбросов углерода. Одежду перевозят морем через океаны, а фургоны доставки ещё больше загружают городские улицы. На производство одной пары джинсов может уходить несколько тысяч литров воды. Дешёвые синтетические ткани выделяют микропластик, а миллионы тонн одежды ежегодно оказываются на свалках.
+
+
+    Изменения возможны. Некоторые покупатели теперь берут меньше вещей, но более высокого качества, которые дольше служат, или покупают подержанное. Набирают популярность обмен одеждой и мастерские по ремонту. Возможность покупать дешёвую одежду — привилегия, и платят за неё часто те, кто её шьёт. Как сказала одна активистка: «Нам не нужно переставать покупать одежду. Нужно просто перестать перегибать палку».
+
+    '
+  questions:
+  - q: How often do some fast-fashion companies add new items?
+    options:
+    - Four times a year
+    - Every week
+    - Once a year
+    - Every month
+    answer: 1
+  - q: What happened at Rana Plaza in 2013?
+    options:
+    - A strike
+    - The building collapsed, killing over 1,100 workers
+    - A fire in a shop
+    - A new factory opened
+    answer: 1
+  - q: What is one solution suggested in the text?
+    options:
+    - Buy more cheap clothes
+    - Buy fewer, better-quality items or secondhand
+    - Stop wearing clothes
+    - Only shop online
+    answer: 1
+  - tf: Workers at Rana Plaza had been warned there were cracks in the walls.
+    answer: true
+  - tf: The fashion industry has a very small environmental impact.
+    answer: false
+- id: c2-20
+  v1_unit: Buried Alive
+  title: Racing Against Time
+  title_ru: Гонка со временем
+  text: 'For centuries, avalanches have been one of the greatest dangers in the mountains. In the Alps, people living in secluded villages watched the sky for omens, fearing the moment when snow that had accumulated on the slopes would suddenly break away. When it did, a whole hillside of snow could rush down at more than 100 kilometres per hour, destroying everything in its path.
+
+
+    The first organized rescuers were monks at the Great St Bernard Pass between Switzerland and Italy. From the eighteenth century, they used large dogs to find travellers lost in the snow. The most famous, a dog named Barry, is said to have saved more than forty lives in the early 1800s. His body is still displayed in a museum in Bern.
+
+
+    Today, rescue is far more scientific, but the principle remains a race against time. When an avalanche stops, the snow sets with the consistency of concrete. Victims cannot move and quickly run out of air. Statistics are sober: most people found within fifteen minutes survive, but after thirty-five minutes, the chances fall dramatically. Mountain rangers advise anyone caught in an avalanche to try to move sideways, out of its path, and, if buried, to create an air pocket in front of their face.
+
+
+    Modern skiers carry special apparatus: an electronic beacon that sends out a signal, a probe for searching the snow and a small shovel. Rescue teams use helicopters for aerial searches, where victims may appear only as tiny specks on the white surface. Trained dogs are still among the most effective tools, able to search an area in minutes that would take twenty people hours.
+
+
+    Sometimes, there are miracles. In one famous episode, rescuers searching through the rubble of a hotel buried by an avalanche found survivors alive after more than two days, sheltered in a part of the building that had remained intact. When they were finally discharged from hospital, there were poignant scenes as families sobbed and embraced. One survivor said her mountain upbringing had taught her never to give up. The mountains are beautiful, but they remind us that we are mortal.
+
+    '
+  ru: 'Веками лавины были одной из главных опасностей в горах. В Альпах жители уединённых деревень всматривались в небо, ища дурные знамения и боясь того момента, когда скопившийся на склонах снег внезапно сорвётся. А когда он срывался, целый склон снега мог нестись вниз со скоростью более 100 километров в час, сметая всё на своём пути.
+
+
+    Первыми организованными спасателями были монахи с перевала Большой Сен-Бернар между Швейцарией и Италией. С XVIII века они использовали крупных собак, чтобы находить заблудившихся в снегу путников. Самый знаменитый пёс по кличке Барри, говорят, спас в начале 1800-х годов более сорока жизней. Его чучело до сих пор выставлено в музее в Берне.
+
+
+    Сегодня спасательные работы гораздо научнее, но принцип прежний — гонка со временем. Когда лавина останавливается, снег уплотняется до консистенции бетона. Пострадавшие не могут пошевелиться, и им быстро начинает не хватать воздуха. Статистика неумолима: большинство людей, найденных в течение пятнадцати минут, выживают, но после тридцати пяти минут шансы резко падают. Горные спасатели советуют попавшим в лавину пытаться уйти вбок, с её пути, а если засыпало — создать воздушный карман перед лицом.
+
+
+    Современные лыжники носят специальное снаряжение: электронный датчик-маяк, посылающий сигнал, щуп для поиска в снегу и небольшую лопату. Спасатели используют вертолёты для поиска с воздуха, откуда пострадавшие могут выглядеть лишь крошечными точками на белой поверхности. Обученные собаки по-прежнему остаются одним из самых эффективных средств: за несколько минут они обследуют участок, на который у двадцати человек ушли бы часы.
+
+
+    Иногда случаются чудеса. В одной известной истории спасатели, разбиравшие обломки отеля, накрытого лавиной, нашли выживших спустя более двух суток — они укрылись в части здания, которая осталась целой. Когда их наконец выписали из больницы, были трогательные сцены: родные рыдали и обнимались. Одна из выживших сказала, что детство в горах научило её никогда не сдаваться. Горы прекрасны, но они напоминают нам, что мы смертны.
+
+    '
+  questions:
+  - q: Who were the first organized avalanche rescuers?
+    options:
+    - Soldiers
+    - Monks at the Great St Bernard Pass
+    - Skiers
+    - Scientists
+    answer: 1
+  - q: Why is time so important after an avalanche?
+    options:
+    - The snow melts
+    - Victims quickly run out of air in the hard snow
+    - Rescuers get tired
+    - Night falls
+    answer: 1
+  - q: What do rangers advise if you are caught in an avalanche?
+    options:
+    - Run straight down
+    - Try to move sideways out of its path
+    - Stand still
+    - Shout loudly
+    answer: 1
+  - tf: Trained dogs are no longer used in rescues.
+    answer: false
+  - tf: Most people found within fifteen minutes survive.
+    answer: true
+- id: c2-21
+  v1_unit: The Old House
+  title: A Labour of Love
+  title_ru: Дело любви
+  text: 'When Tom and Lucy first saw the house, they knew it was a reckless idea. It stood alone at the end of a muddy lane in the Welsh countryside: a dilapidated stone farmhouse that had been empty for twenty years. Half of the slate roof had fallen in, the timber beams were rotten, and the floors were covered in filth. In the garden, a mound of old furniture was slowly disappearing under the weeds. Yet something about the place evoked a feeling they could not explain.
+
+
+    They bought it the same week. Friends thought they were mad. "Every house has a flaw," Tom said, grinning, "but this one has about a hundred."
+
+
+    The first winter was brutal. There was no heating, and they lived in a caravan in the garden. Lucy remembers waking up with numb fingers and getting cramp in her legs from working on her knees all day. When they finally reconnected the water, the main valve burst, flooding the kitchen. Every faucet in the house had to be replaced.
+
+
+    But slowly, the house came back to life. A local builder taught them how to repair the roof with traditional slate. They replaced the rotten beams with oak timber from a nearby forest. In the attic, they found a box of letters and photographs from the 1920s, when the house had belonged to a wealthy family who employed a cook and even a butler. One letter described the housekeeping routines in detail — how the floors were scrubbed every morning and the fires lit before dawn.
+
+
+    After three years, they finished decorating the last room. On the first warm evening of summer, they sat on two old wooden stools in the garden, drinking tea and watching the sunset. It was pure bliss. Today, the house is a testament to their patience — and to the idea that some things are worth the effort. "We nearly said farewell to the whole project many times," Lucy admits. "I''m so glad we didn''t."
+
+    '
+  ru: 'Когда Том и Люси впервые увидели дом, они понимали, что идея безрассудна. Он стоял особняком в конце грязной дороги в сельском Уэльсе: полуразрушенный каменный фермерский дом, пустовавший двадцать лет. Половина сланцевой крыши обвалилась, деревянные балки сгнили, полы покрывала грязь. В саду под сорняками медленно исчезала куча старой мебели. И всё же это место вызывало у них чувство, которое они не могли объяснить.
+
+
+    Они купили его на той же неделе. Друзья сочли их сумасшедшими. «У каждого дома есть недостаток, — с широкой улыбкой сказал Том, — а у этого их примерно сотня».
+
+
+    Первая зима была суровой. Отопления не было, и они жили в фургоне в саду. Люси вспоминает, как просыпалась с онемевшими пальцами, а ноги сводило судорогой от того, что она целыми днями работала на коленях. Когда они наконец снова подключили воду, лопнул главный вентиль и затопил кухню. Пришлось заменить все краны в доме.
+
+
+    Но понемногу дом оживал. Местный строитель научил их чинить крышу традиционной сланцевой плиткой. Сгнившие балки они заменили дубовым брусом из ближайшего леса. На чердаке они нашли коробку с письмами и фотографиями 1920-х годов, когда дом принадлежал богатой семье, державшей повара и даже дворецкого. В одном письме подробно описывался распорядок ведения хозяйства — как каждое утро скоблили полы и разжигали камины до рассвета.
+
+
+    Через три года они закончили отделку последней комнаты. В первый тёплый летний вечер они сидели в саду на двух старых деревянных табуретах, пили чай и смотрели на закат. Это было настоящее блаженство. Сегодня дом — свидетельство их терпения и того, что некоторые вещи стоят усилий. «Мы много раз чуть не распрощались со всей этой затеей, — признаётся Люси. — Я так рада, что не сделали этого».
+
+    '
+  questions:
+  - q: What condition was the house in?
+    options:
+    - Modern and clean
+    - Dilapidated and empty for twenty years
+    - Recently renovated
+    - Partly built
+    answer: 1
+  - q: Where did Tom and Lucy live during the first winter?
+    options:
+    - In the house
+    - In a caravan in the garden
+    - With friends
+    - In a hotel
+    answer: 1
+  - q: What did they find in the attic?
+    options:
+    - Money
+    - Letters and photographs from the 1920s
+    - A butler's uniform
+    - Tools
+    answer: 1
+  - tf: Friends thought buying the house was a sensible idea.
+    answer: false
+  - tf: It took them three years to finish the house.
+    answer: true
+- id: c2-22
+  v1_unit: The Soldier Who Never Surrendered
+  title: Twenty-Nine Years in the Jungle
+  title_ru: Двадцать девять лет в джунглях
+  text: 'In December 1944, a young Japanese intelligence officer named Hiroo Onoda was sent to Lubang, a small island in the Philippines covered in lush jungle. He had enlisted in the army at eighteen and had been trained in guerilla warfare. His orders were clear: he must never surrender or take his own life, and he must continue fighting until he received new orders. The army handbook he had studied taught that surrender was the ultimate shame.
+
+
+    A few months later, American forces took control of the island. Most Japanese soldiers were killed or captured, but Onoda and three companions escaped into the vast tracts of forest. They wore camouflage, moved constantly and contended with heat, monsoon rain, insects and hunger. They slept on rough cots made from branches and kept a constant vigil against the enemy.
+
+
+    In August 1945, the war ended. Leaflets were dropped from planes announcing Japan''s surrender, but Onoda believed they were enemy tricks. He refused to contemplate the possibility that the war was over. For decades, he continued his mission, occasionally attacking local farmers, whom he regarded as enemy soldiers. Local people were understandably hesitant to enter the jungle. One by one, his companions died or surrendered. By 1972, Onoda was alone.
+
+
+    In 1974, a Japanese student named Norio Suzuki travelled to Lubang, saying he wanted to find "Lieutenant Onoda, a panda and the Abominable Snowman, in that order". Remarkably, he found Onoda within days. The weary soldier still wore his patched military outfit and carried his rifle. But he still refused to surrender without an order from a superior officer.
+
+
+    Suzuki returned to Japan and found Onoda''s former commander, now working in a bookshop. The old officer flew to the island and formally confronted Onoda with the truth: the war had ended twenty-nine years earlier. Onoda handed over his sword. He returned to a splendid welcome in Japan, but he found the modern world strange. He later moved to Brazil and became a farmer. His story raises difficult questions about loyalty and obedience: was he a hero, or a victim of a system that demanded too much?
+
+    '
+  ru: 'В декабре 1944 года молодого японского офицера разведки Хиро Онода отправили на Лубанг — небольшой остров на Филиппинах, покрытый буйными джунглями. Он пошёл в армию в восемнадцать лет и был обучен партизанской войне. Приказ был чётким: никогда не сдаваться и не лишать себя жизни, продолжать сражаться до получения новых приказов. Армейское руководство, которое он изучал, учило, что сдача в плен — высший позор.
+
+
+    Через несколько месяцев американские войска взяли остров под контроль. Большинство японских солдат были убиты или попали в плен, но Онода и трое его товарищей скрылись в огромных лесных массивах. Они носили камуфляж, постоянно перемещались и боролись с жарой, муссонными дождями, насекомыми и голодом. Спали они на грубых настилах из веток и постоянно были начеку, ожидая врага.
+
+
+    В августе 1945 года война закончилась. С самолётов сбрасывали листовки о капитуляции Японии, но Онода считал их вражескими уловками. Он даже не допускал мысли, что война окончена. Десятилетиями он продолжал выполнять задание, время от времени нападая на местных крестьян, которых считал вражескими солдатами. Местные жители, что вполне понятно, не решались заходить в джунгли. Один за другим его товарищи погибли или сдались. К 1972 году Онода остался один.
+
+
+    В 1974 году японский студент Норио Судзуки отправился на Лубанг, заявив, что хочет найти «лейтенанта Оноду, панду и снежного человека — именно в таком порядке». Удивительно, но он нашёл Оноду за несколько дней. Измученный солдат по-прежнему носил залатанную военную форму и не расставался с винтовкой. Но сдаваться без приказа старшего офицера он всё равно отказывался.
+
+
+    Судзуки вернулся в Японию и разыскал бывшего командира Оноды, который теперь работал в книжном магазине. Пожилой офицер прилетел на остров и официально сообщил Оноде правду: война закончилась двадцать девять лет назад. Онода отдал свой меч. В Японии его встретили с почестями, но современный мир показался ему чужим. Позже он переехал в Бразилию и стал фермером. Его история поднимает трудные вопросы о верности и послушании: был ли он героем или жертвой системы, требовавшей слишком многого?
+
+    '
+  questions:
+  - q: What were Onoda's orders?
+    options:
+    - To surrender if the war ended
+    - Never to surrender and to keep fighting until new orders
+    - To return to Japan
+    - To find the enemy's base
+    answer: 1
+  - q: Why did Onoda ignore the leaflets announcing the end of the war?
+    options:
+    - He couldn't read them
+    - He believed they were enemy tricks
+    - He never saw them
+    - He wanted to stay
+    answer: 1
+  - q: What finally made Onoda surrender?
+    options:
+    - Norio Suzuki asked him
+    - His former commander gave him the order
+    - He was captured
+    - He was ill
+    answer: 1
+  - tf: Onoda was alone for the whole twenty-nine years.
+    answer: false
+  - tf: Onoda later moved to Brazil and became a farmer.
+    answer: true
+- id: c2-23
+  v1_unit: Oh, the Humanity!
+  title: The Hindenburg Disaster
+  title_ru: Катастрофа «Гинденбурга»
+  text: 'In the 1930s, the fastest way to cross the Atlantic was not by ship or plane, but by airship. The most famous of these giant flying machines was the German Hindenburg. At 245 metres long, it was the largest aircraft ever built — almost as long as the Titanic. Inside, wealthy passengers enjoyed a dining room, a lounge with a piano and cabins with views of the ocean below.
+
+
+    The Hindenburg was lifted by hydrogen, a gas that is lighter than air but extremely flammable. Its designers had wanted to use helium, which does not burn, but the USA controlled most of the world''s supply and refused to sell it to Nazi Germany. The risks of hydrogen were known, but many experts underestimated them. To reduce the danger, the airship had a smoking room with special safety features, and crew members wore shoes that could not cause sparks.
+
+
+    On 6 May 1937, after crossing the Atlantic, the Hindenburg arrived at Lakehurst, New Jersey, amid storms. A crowd had gathered to watch, including journalists and a mob of photographers. As the airship approached its mooring mast, flames suddenly appeared near its tail. In just over thirty seconds, the whole ship was burning and crashed to the ground. In the tumult, passengers jumped from windows, and ground crew rushed to help, while others evacuated the area. Amazingly, sixty-two of the ninety-seven people on board survived. A radio reporter, describing the scene live, cried the famous words: "Oh, the humanity!"
+
+
+    The disaster caused an international uproar. Investigators examined the wreck with intense scrutiny, and dozens of witnesses testified. Some suggested sabotage, but it seemed premature to blame anyone without evidence. The most likely culprit was static electricity from the stormy air, which ignited leaking hydrogen. Some historians think the ship''s outer skin may also have burned easily.
+
+
+    The images, filmed and photographed in dramatic detail, shocked the world. Public trust collapsed, and the age of passenger airships ended almost overnight. Today, the Hindenburg remains a powerful symbol of how quickly confidence in new technology can turn to fear.
+
+    '
+  ru: 'В 1930-х годах быстрее всего пересечь Атлантику можно было не на корабле и не на самолёте, а на дирижабле. Самым знаменитым из этих гигантских летательных аппаратов был немецкий «Гинденбург». Длиной 245 метров, это было крупнейшее воздушное судно из когда-либо построенных — почти таким же длинным был «Титаник». Внутри богатые пассажиры наслаждались столовой, гостиной с роялем и каютами с видом на океан.
+
+
+    «Гинденбург» поднимался в воздух благодаря водороду — газу легче воздуха, но чрезвычайно горючему. Конструкторы хотели использовать гелий, который не горит, но США контролировали большую часть его мировых запасов и отказались продавать его нацистской Германии. Опасность водорода была известна, но многие специалисты её недооценивали. Чтобы снизить риск, на борту устроили курительную комнату с особыми мерами безопасности, а члены экипажа носили обувь, не высекавшую искр.
+
+
+    6 мая 1937 года, пересёкши Атлантику, «Гинденбург» прибыл в Лейкхерст (Нью-Джерси) в разгар грозы. Посмотреть собралась толпа, в том числе журналисты и масса фотографов. Когда дирижабль приближался к причальной мачте, у его хвоста внезапно появилось пламя. Всего за тридцать с небольшим секунд весь корабль охватил огонь, и он рухнул на землю. В суматохе пассажиры прыгали из окон, наземная команда бросалась на помощь, а другие покидали опасную зону. Удивительно, но шестьдесят два человека из девяноста семи, находившихся на борту, выжили. Радиорепортёр, ведший прямой репортаж, выкрикнул знаменитые слова: «О, человечество!»
+
+
+    Катастрофа вызвала международный резонанс. Следователи пристально изучали обломки, десятки свидетелей дали показания. Некоторые предполагали диверсию, но обвинять кого-либо без доказательств было преждевременно. Наиболее вероятным виновником было статическое электричество в грозовом воздухе, воспламенившее протекающий водород. Некоторые историки считают, что легко могла загореться и внешняя оболочка корабля.
+
+
+    Кадры, снятые и сфотографированные во всех драматических подробностях, потрясли мир. Доверие публики рухнуло, и эпоха пассажирских дирижаблей закончилась почти в одночасье. Сегодня «Гинденбург» остаётся мощным символом того, как быстро доверие к новой технологии может смениться страхом.
+
+    '
+  questions:
+  - q: Why did the Hindenburg use hydrogen instead of helium?
+    options:
+    - Hydrogen was safer
+    - The USA refused to sell helium to Nazi Germany
+    - Helium was too heavy
+    - Hydrogen was cheaper to store
+    answer: 1
+  - q: How long did it take for the whole ship to burn?
+    options:
+    - About thirty seconds
+    - Ten minutes
+    - An hour
+    - A whole day
+    answer: 0
+  - q: What was the most likely cause of the fire?
+    options:
+    - A bomb
+    - Static electricity igniting leaking hydrogen
+    - A cigarette
+    - Lightning hitting the engine
+    answer: 1
+  - tf: Most people on board survived.
+    answer: true
+  - tf: Passenger airships became more popular after the disaster.
+    answer: false
+- id: c2-24
+  v1_unit: The Space Shuttle
+  title: The Reusable Spaceship
+  title_ru: Многоразовый космический корабль
+  text: 'For the first decades of space travel, rockets could be used only once. After each launch, they fell into the ocean or burned up. In the 1970s, NASA developed an innovative solution: a spacecraft that could fly into orbit, return to Earth and be launched anew. It was called the Space Shuttle.
+
+
+    The design was ingenious. At launch, two huge rocket boosters and three main engines provided propulsion, accelerating the shuttle to around 28,000 kilometres per hour in just eight minutes. In orbit, astronauts could launch satellites, repair telescopes and carry out experiments. Then, instead of falling into the sea in a capsule, the shuttle returned like an aeroplane. During re-entry, its belly was protected from temperatures of over 1,500°C by thousands of special heat-resistant tiles. Without any engine power, it glided down to land on a runway.
+
+
+    The programme achieved remarkable things. Shuttle crews launched and later repaired the Hubble Space Telescope, which transformed our understanding of the universe. They helped to build the International Space Station. Satellites carried by the shuttle improved communication and meteorology, and the programme stimulated new technologies on Earth.
+
+
+    But there were tragedies too. On a dreary, freezing morning in January 1986, the shuttle Challenger exploded seventy-three seconds after launch. The cause was a defect in a rubber seal that had become stiff in the cold. Engineers had warned that the meteorological conditions were dangerous, but their concerns were ignored. In 2003, the shuttle Columbia broke apart during re-entry. A piece of foam had fallen off during launch and penetrated the edge of a wing, allowing hot gases inside. Fourteen astronauts died in the two disasters.
+
+
+    Despite engineers who duplicated critical systems and simulated every phase of flight, the shuttle never became as cheap or safe as hoped, and persistent problems led NASA to end the programme in 2011. Today, private companies are building new reusable rockets that land upright on their own. The dream that began with the shuttle continues — along with the lessons learned at such a terrible cost.
+
+    '
+  ru: 'В первые десятилетия космических полётов ракеты можно было использовать только один раз. После каждого запуска они падали в океан или сгорали. В 1970-х годах НАСА разработало новаторское решение — космический корабль, который мог выйти на орбиту, вернуться на Землю и быть запущенным снова. Его назвали «Спейс Шаттл».
+
+
+    Конструкция была остроумной. При старте два огромных ракетных ускорителя и три основных двигателя создавали тягу, разгоняя шаттл примерно до 28 000 километров в час всего за восемь минут. На орбите астронавты могли выводить спутники, ремонтировать телескопы и проводить эксперименты. А затем, вместо того чтобы падать в море в капсуле, шаттл возвращался как самолёт. При входе в атмосферу его днище защищали от температур свыше 1500 °C тысячи особых жаростойких плиток. Без всякой тяги двигателей он планировал вниз и садился на взлётно-посадочную полосу.
+
+
+    Программа достигла замечательных результатов. Экипажи шаттлов вывели на орбиту, а позже отремонтировали космический телескоп «Хаббл», изменивший наше понимание Вселенной. Они помогали строить Международную космическую станцию. Спутники, доставленные шаттлами, улучшили связь и метеорологию, а сама программа стимулировала появление новых технологий на Земле.
+
+
+    Но были и трагедии. Унылым морозным утром в январе 1986 года шаттл «Челленджер» взорвался через семьдесят три секунды после старта. Причиной стал дефект резинового уплотнителя, затвердевшего на холоде. Инженеры предупреждали, что погодные условия опасны, но их опасения проигнорировали. В 2003 году шаттл «Колумбия» разрушился при входе в атмосферу. Кусок пеноматериала отвалился во время старта и пробил кромку крыла, впустив внутрь раскалённые газы. В двух катастрофах погибли четырнадцать астронавтов.
+
+
+    Хотя инженеры дублировали важнейшие системы и моделировали каждый этап полёта, шаттл так и не стал таким дешёвым и безопасным, как надеялись, и постоянные проблемы привели к тому, что НАСА закрыло программу в 2011 году. Сегодня частные компании строят новые многоразовые ракеты, которые сами садятся вертикально. Мечта, начавшаяся с шаттла, продолжается — как и уроки, усвоенные такой страшной ценой.
+
+    '
+  questions:
+  - q: What was new about the Space Shuttle?
+    options:
+    - It was the fastest rocket
+    - It was reusable
+    - It had no crew
+    - It went to the Moon
+    answer: 1
+  - q: How did the shuttle land?
+    options:
+    - In the sea with parachutes
+    - It glided to a runway without engine power
+    - Vertically on its engines
+    - On the Moon
+    answer: 1
+  - q: What caused the Challenger disaster?
+    options:
+    - A storm
+    - A defect in a rubber seal stiffened by the cold
+    - A piece of foam
+    - Pilot error
+    answer: 1
+  - tf: Shuttle crews helped to build the International Space Station.
+    answer: true
+  - tf: The shuttle programme is still running today.
+    answer: false
+- id: c2-25
+  v1_unit: A Night at the Monastery
+  title: Silence Above the Clouds
+  title_ru: Тишина над облаками
+  text: 'I had read about the monastery beforehand, but nothing prepared me for the journey. From the village, a narrow winding path climbed for three hours up the side of the mountain. As I walked, the weather deteriorated. Clouds rolled in, and the valley below became a blurred grey mass. By the time I reached the gate, the temperature had fallen to a few degrees above zero, and my teeth were chattering. I zipped my jacket up to my chin.
+
+
+    From the outside, the building was simple. Its stone exterior, built into the cliff, had hardly changed in six hundred years. But when the heavy door opened, an elderly monk greeted me with outstretched arms and a warm smile. "You look like you need soup," he said in perfect English. The monks were wonderfully hospitable. They led me to a small kitchen, where steam condensed on the cold windows, and gave me a bowl of hearty bean soup and bread they had baked that morning.
+
+
+    About twenty monks live there. They rise at four for prayers and spend their days working in silence: baking, repairing the buildings and tending a small plant nursery. Supplies are limited; a parcel of food and post arrives by donkey once a week. Yet the monks were far from gloomy. Brother Thomas, the oldest, had a wonderful sense of humor and told stories about the years he had spent teaching music before taking his vows. He still loved classical music and confessed that he sometimes listened to a Mozart concerto on an old radio.
+
+
+    That evening, I sat in the chapel during prayers. Candlelight lit the monks'' faces in profile, and their voices filled the darkness. Outside, it was minus five degrees centigrade, but I hardly noticed.
+
+
+    I had expected the silence to feel lonely. Instead, it felt full. The next morning, as I walked back down to the village and the old manor house where I was staying, I realized I had not checked my phone for a whole day — and I hadn''t missed it at all.
+
+    '
+  ru: 'Я заранее читал о монастыре, но ничто не подготовило меня к дороге. От деревни узкая извилистая тропа три часа поднималась по склону горы. Пока я шёл, погода портилась. Набежали облака, и долина внизу превратилась в размытую серую массу. К тому времени как я добрался до ворот, температура опустилась до нескольких градусов выше нуля, и у меня стучали зубы. Я застегнул куртку до подбородка.
+
+
+    Снаружи здание выглядело просто. Его каменный фасад, встроенный в скалу, почти не изменился за шестьсот лет. Но когда тяжёлая дверь отворилась, пожилой монах встретил меня с распростёртыми объятиями и тёплой улыбкой. «Вам, похоже, не помешает суп», — сказал он на безупречном английском. Монахи были удивительно гостеприимны. Они отвели меня на маленькую кухню, где пар оседал на холодных окнах, и дали миску сытного фасолевого супа и хлеб, испечённый тем утром.
+
+
+    Там живут около двадцати монахов. Они встают в четыре утра на молитву и проводят дни в молчаливом труде: пекут хлеб, ремонтируют постройки и ухаживают за небольшим питомником растений. Припасов немного: посылку с едой и почтой раз в неделю привозит осёл. И всё же монахи были совсем не мрачными. Брат Томас, самый старший, обладал прекрасным чувством юмора и рассказывал истории о годах, когда преподавал музыку, до того как принять обеты. Он по-прежнему любил классическую музыку и признался, что иногда слушает концерт Моцарта по старому радиоприёмнику.
+
+
+    В тот вечер я сидел в часовне во время молитвы. Свет свечей обрисовывал профили монахов, а их голоса наполняли темноту. Снаружи было минус пять по Цельсию, но я почти не замечал этого.
+
+
+    Я ожидал, что тишина будет казаться одинокой. Вместо этого она была наполненной. На следующее утро, спускаясь обратно в деревню, к старой усадьбе, где я остановился, я понял, что целый день не заглядывал в телефон — и ни капли по нему не скучал.
+
+    '
+  questions:
+  - q: What happened to the weather during the climb?
+    options:
+    - It became sunny
+    - It got worse
+    - It started snowing heavily
+    - It stayed the same
+    answer: 1
+  - q: How do supplies reach the monastery?
+    options:
+    - By helicopter
+    - By donkey once a week
+    - By car every day
+    - The monks grow everything
+    answer: 1
+  - q: What did the narrator realize the next morning?
+    options:
+    - He had lost his phone
+    - He hadn't checked his phone all day and didn't miss it
+    - He wanted to become a monk
+    - He was ill
+    answer: 1
+  - tf: The monks were gloomy and unfriendly.
+    answer: false
+  - tf: Brother Thomas used to teach music.
+    answer: true
+- id: c2-26
+  v1_unit: The Great Charter
+  title: Magna Carta
+  title_ru: Великая хартия вольностей
+  text: 'In the early thirteenth century, England was ruled by King John, one of the most infamous monarchs in English history. He was known for his violent outbursts and his cruelty, and some historians have described him as almost pathologically suspicious of those around him. He had lost most of England''s lands in France, and to pay for his failed wars, he imposed heavy taxes on the barons — the powerful landowners. He also imprisoned people without trial and seized their property.
+
+
+    By 1215, the barons had had enough. Meeting in secrecy, they decided to tackle the king''s abuse of power. They raised an army and captured London. King John was forced to negotiate. On 15 June 1215, in a meadow called Runnymede beside the River Thames, he put his seal on a document that became known as Magna Carta, Latin for "Great Charter".
+
+
+    The charter stated that the king, like everyone else, was subject to the law. Its most famous clause declared that no free man could be imprisoned or punished "except by the lawful judgement of his equals or by the law of the land". Copies were made by hand to disseminate the text across the country.
+
+
+    In the short term, Magna Carta was a failure. Within weeks, King John asked the Pope to cancel it, and civil war broke out. John showed no remorse; he died the following year, reportedly after a feast. However, the charter was reissued and amended several times by later kings, and many of its principles survived.
+
+
+    Over the centuries, Magna Carta''s influence has been phenomenal. It inspired the English Bill of Rights, the American Constitution and the Universal Declaration of Human Rights. Nations that aspire to democracy often refer to it as a symbol of freedom against tyranny. Ironically, a recent poll found that most British people know very little about it. Yet whenever governments try to censor the press or abolish fair trials, the old principle of 1215 is still relevant: no one, not even a king, is above the law.
+
+    '
+  ru: 'В начале XIII века Англией правил король Иоанн — один из самых печально известных монархов в английской истории. Он славился вспышками ярости и жестокостью, а некоторые историки описывают его как почти патологически подозрительного к окружающим. Он потерял большую часть английских владений во Франции и, чтобы оплатить свои неудачные войны, обложил тяжёлыми налогами баронов — могущественных землевладельцев. Он также бросал людей в тюрьму без суда и отбирал их имущество.
+
+
+    К 1215 году чаша терпения баронов переполнилась. Собравшись тайно, они решили положить конец злоупотреблениям короля. Они собрали войско и захватили Лондон. Королю Иоанну пришлось пойти на переговоры. 15 июня 1215 года на лугу Раннимид у Темзы он скрепил печатью документ, получивший название Magna Carta — по-латыни «Великая хартия».
+
+
+    Хартия провозглашала, что король, как и все остальные, подчиняется закону. Самая знаменитая её статья гласила, что ни один свободный человек не может быть заключён в тюрьму или наказан «иначе как по законному приговору равных ему или по закону страны». Копии переписывали от руки, чтобы распространить текст по всей стране.
+
+
+    В краткосрочной перспективе Великая хартия потерпела неудачу. Через несколько недель король Иоанн попросил папу римского её отменить, и вспыхнула гражданская война. Иоанн не выказывал никакого раскаяния; он умер в следующем году — говорят, после пира. Однако последующие короли неоднократно переиздавали хартию с поправками, и многие её принципы уцелели.
+
+
+    За века влияние Великой хартии оказалось феноменальным. Она вдохновила английский Билль о правах, американскую Конституцию и Всеобщую декларацию прав человека. Страны, стремящиеся к демократии, часто ссылаются на неё как на символ свободы против тирании. По иронии судьбы, недавний опрос показал, что большинство британцев почти ничего о ней не знают. И всё же всякий раз, когда правительства пытаются ввести цензуру прессы или отменить справедливый суд, старый принцип 1215 года остаётся актуальным: никто, даже король, не стоит выше закона.
+
+    '
+  questions:
+  - q: Why were the barons angry with King John?
+    options:
+    - He refused to fight wars
+    - He imposed heavy taxes and imprisoned people without trial
+    - He moved to France
+    - He gave them too much land
+    answer: 1
+  - q: What was the main principle of Magna Carta?
+    options:
+    - The king owns all land
+    - The king is subject to the law
+    - Barons can choose the king
+    - Taxes are abolished
+    answer: 1
+  - q: What happened in the short term?
+    options:
+    - Everyone obeyed the charter
+    - The king asked the Pope to cancel it and civil war broke out
+    - The barons became kings
+    - England became a republic
+    answer: 1
+  - tf: Magna Carta influenced the American Constitution.
+    answer: true
+  - tf: A poll shows that most British people know Magna Carta very well.
+    answer: false
+- id: c2-27
+  v1_unit: The Bilingual Brain
+  title: Two Languages, One Mind
+  title_ru: Два языка, один разум
+  text: 'For much of the twentieth century, many parents and teachers believed that learning two languages at once was bad for children. They feared that a second language would undermine the first, confuse young minds and slow down learning. In some countries, children from ethnic minorities were punished for speaking their home language at school, and immigrant families were encouraged to speak only the national language at home.
+
+
+    Modern research has largely overturned these ideas. In fact, monolingual speakers are a minority in the world; more than half of the global population uses two or more languages every day. Studies suggest that bilingual children may have some advantages. Because their brains constantly switch between languages, many researchers believe they become better at focusing attention and ignoring distractions. Some research even suggests that being bilingual may delay the symptoms of dementia in old age by several years, although scientists continue to debate the size of these effects.
+
+
+    Learning a language also has social benefits. Speaking someone''s language shows respect and builds solidarity. Many people who have lived abroad have experienced firsthand how even a few words in the local language can open doors. It also requires tact: understanding the culture behind the words is as important as grammar.
+
+
+    Language is closely linked to identity and politics. In the imperial era, European languages spread across the world, often replacing local ones. Today, some legislatures pass laws to protect national languages, while others promote more inclusive policies that value minority languages. In a few countries, people can even be prosecuted for publicly using certain languages, which shows how sensitive the issue can be.
+
+
+    So what should adult learners take from this? Don''t be a coward about making mistakes. Fluent speakers were all beginners once. Practise in earnest, accept that you will forget words, and don''t delete the language from your life when it gets hard. As the old saying goes: "To have another language is to possess a second soul."
+
+    '
+  ru: 'Большую часть XX века многие родители и учителя считали, что изучать два языка одновременно вредно для детей. Они боялись, что второй язык подорвёт первый, запутает детский ум и замедлит обучение. В некоторых странах детей из этнических меньшинств наказывали за то, что они говорили в школе на родном языке, а семьям иммигрантов советовали говорить дома только на государственном языке.
+
+
+    Современные исследования во многом опровергли эти представления. На самом деле одноязычные люди в мире в меньшинстве: более половины населения Земли ежедневно пользуются двумя и более языками. Исследования показывают, что у двуязычных детей могут быть некоторые преимущества. Поскольку их мозг постоянно переключается между языками, многие учёные считают, что они лучше умеют сосредотачиваться и не отвлекаться. Некоторые работы даже предполагают, что двуязычие может на несколько лет отсрочить проявления деменции в старости, хотя учёные продолжают спорить о размерах этого эффекта.
+
+
+    У изучения языка есть и социальные плюсы. Говоря на чужом языке, вы проявляете уважение и создаёте чувство общности. Многие, кто жил за границей, на собственном опыте убедились, как даже несколько слов на местном языке открывают двери. Это требует и такта: понимать культуру, стоящую за словами, так же важно, как знать грамматику.
+
+
+    Язык тесно связан с идентичностью и политикой. В имперскую эпоху европейские языки распространились по всему миру, часто вытесняя местные. Сегодня одни парламенты принимают законы о защите государственного языка, другие проводят более инклюзивную политику, ценящую языки меньшинств. В нескольких странах людей могут даже преследовать в суде за публичное использование определённых языков — это показывает, насколько щекотлив этот вопрос.
+
+
+    Какой же вывод сделать взрослым, изучающим язык? Не бойтесь ошибаться. Все, кто говорит свободно, когда-то были новичками. Занимайтесь всерьёз, смиритесь с тем, что будете забывать слова, и не вычёркивайте язык из жизни, когда становится трудно. Как гласит старая поговорка: «Знать другой язык — значит обладать второй душой».
+
+    '
+  questions:
+  - q: What did many people believe in the 20th century?
+    options:
+    - Two languages help children
+    - A second language would confuse children and undermine the first
+    - Everyone should be bilingual
+    - Languages don't matter
+    answer: 1
+  - q: What portion of the world uses two or more languages daily?
+    options:
+    - A small minority
+    - More than half
+    - About ten percent
+    - Nobody knows
+    answer: 1
+  - q: What advice does the text give adult learners?
+    options:
+    - Avoid mistakes at all costs
+    - Don't be afraid of mistakes and practise seriously
+    - Only learn grammar
+    - Give up if it gets hard
+    answer: 1
+  - tf: Scientists completely agree on the size of the benefits of bilingualism.
+    answer: false
+  - tf: Understanding culture is described as important in language learning.
+    answer: true
+- id: c2-28
+  v1_unit: The Mystery of the Yawn
+  title: Why Is Yawning Contagious?
+  title_ru: Почему зевота заразительна?
+  text: 'Try this experiment: next time you are with friends, yawn widely and watch what happens. There is a good chance that at least one of them will yawn too. You might even be yawning right now, simply because you are reading about it. Contagious yawning is one of the strangest and most familiar human behaviours, yet scientists still argue about why it happens.
+
+
+    We all yawn, from before birth to old age. Even animals do it — dogs, cats, lions, snakes and even fish. For a long time, people believed that we yawn because our blood needs more oxygen. However, experiments have failed to support this idea: breathing extra oxygen does not reduce yawning. Another theory suggests that yawning cools the brain, which may help us stay alert. People yawn more often when the air is cool than when it is very hot, which fits this theory.
+
+
+    The contagious part is even more puzzling. One popular explanation is that it is linked to empathy — our ability to understand and share the feelings of others. Studies suggest that people tend to catch yawns more easily from family and friends than from strangers. Young children under four rarely catch yawns, and some research suggests that this ability develops as children learn to understand other people''s feelings. Some animals that live in close social groups, such as chimpanzees and dogs, also catch yawns, perhaps because they emulate those they are close to.
+
+
+    However, not all scientists agree. Some studies found that the link with empathy is weak and that age is a more important factor: older people catch yawns less often. Research has also been constrained by the difficulty of measuring something so automatic. You can try to restrain a yawn, but it is almost impossible to stop one completely.
+
+
+    Whatever the explanation, yawning seems to be an inherent part of being a social animal. So if a colleague yawns during your presentation, try to be tolerant. They may not be bored — they might just be showing that they care.
+
+    '
+  ru: 'Попробуйте провести эксперимент: в следующий раз, когда будете с друзьями, широко зевните и посмотрите, что произойдёт. Велика вероятность, что хотя бы один из них тоже зевнёт. Возможно, вы зеваете прямо сейчас — просто потому, что читаете об этом. Заразительная зевота — одно из самых странных и привычных проявлений человеческого поведения, и всё же учёные до сих пор спорят, почему так происходит.
+
+
+    Зевают все — от внутриутробного возраста до старости. Зевают даже животные: собаки, кошки, львы, змеи и даже рыбы. Долгое время считалось, что мы зеваем, потому что крови нужно больше кислорода. Однако эксперименты эту идею не подтвердили: дополнительный кислород не уменьшает зевоту. Другая теория предполагает, что зевота охлаждает мозг, что может помогать нам сохранять бодрость. Люди зевают чаще, когда воздух прохладный, чем когда очень жарко, и это согласуется с теорией.
+
+
+    Заразительность зевоты ещё загадочнее. Одно из популярных объяснений связывает её с эмпатией — способностью понимать и разделять чувства других. Исследования показывают, что люди легче «заражаются» зевотой от родных и друзей, чем от незнакомцев. Дети младше четырёх лет редко подхватывают зевоту, и некоторые исследования предполагают, что эта способность развивается по мере того, как дети учатся понимать чувства других. Некоторые животные, живущие тесными социальными группами, — например, шимпанзе и собаки, — тоже подхватывают зевоту, возможно, потому что подражают близким.
+
+
+    Однако согласны не все учёные. Некоторые исследования показали, что связь с эмпатией слабая, а важнее возраст: пожилые люди реже заражаются зевотой. Исследования также ограничивает то, что так трудно измерить нечто настолько автоматическое. Можно попытаться сдержать зевок, но остановить его полностью почти невозможно.
+
+
+    Каким бы ни было объяснение, зевота, похоже, неотъемлемая часть жизни социального животного. Так что если коллега зевает во время вашей презентации, будьте снисходительны. Возможно, ему не скучно — возможно, он просто показывает, что ему не всё равно.
+
+    '
+  questions:
+  - q: What did experiments show about the oxygen theory?
+    options:
+    - It was correct
+    - Breathing extra oxygen does not reduce yawning
+    - Oxygen causes yawning
+    - It was never tested
+    answer: 1
+  - q: From whom do people catch yawns most easily?
+    options:
+    - Strangers
+    - Family and friends
+    - Animals
+    - Children under four
+    answer: 1
+  - q: What does the text suggest if a colleague yawns during your presentation?
+    options:
+    - They are definitely bored
+    - Be tolerant — they may just care
+    - Stop the presentation
+    - Ask them to leave
+    answer: 1
+  - tf: All scientists agree that contagious yawning is caused by empathy.
+    answer: false
+  - tf: People yawn more when the air is cool.
+    answer: true
+- id: c2-29
+  v1_unit: The Stones of Salisbury Plain
+  title: Who Built Stonehenge?
+  title_ru: Кто построил Стоунхендж?
+  text: 'On Salisbury Plain, in southern England, a ring of enormous stones stands on the green turf, surrounded by pasture where sheep graze. Stonehenge is one of the most famous prehistoric monuments in the world. Every year, more than a million visitors come to see it, and at the summer solstice, thousands assemble to watch the sun rise over the stones.
+
+
+    The monument was built in stages over more than a thousand years, beginning around 3000 BC. The largest stones, called sarsens, weigh up to twenty-five tonnes. They were erected in a circle, and huge horizontal stone slabs, called lintels, were placed on top, creating structures that look like giant arches. Remarkably, the builders used woodworking joints to lock the stones together. The smaller "bluestones" are even more mysterious: tests have shown that they came from the Preseli Hills in Wales, more than 200 kilometres away.
+
+
+    How and why did people with no metal tools or wheels move such huge stones? Many theories have been proposed. It has been alleged that the monument was built by giants or by the wizard Merlin. More realistic explanations suggest that hundreds of people dragged the stones on wooden sledges, perhaps over rollers or tracks. In recent years, archaeologists have found the remains of a large village nearby where workers may have lived, enjoying feasts of pork during the building seasons.
+
+
+    Stonehenge was clearly aligned with the sun. At midsummer, the sun rises in line with the entrance; at midwinter, it sets in line with the opposite side. This has led scientists to revise older theories and suggest that the site was used for ceremonies marking the seasons and possibly for burials.
+
+
+    Today, the monument faces new challenges. In summer, visitors greatly outnumber local residents, and nearby roads are often congested. When the government announced plans to build a road tunnel close to the site, campaigners organized a petition, fearing damage to undiscovered archaeology. Whatever the future holds, the mystery continues to heighten Stonehenge''s appeal. As one archaeologist said, overjoyed after a new discovery: "Every answer we find raises three more questions."
+
+    '
+  ru: 'На Солсберийской равнине на юге Англии на зелёной траве стоит кольцо огромных камней, окружённое пастбищами, где пасутся овцы. Стоунхендж — один из самых известных доисторических памятников мира. Ежегодно его посещают более миллиона человек, а в день летнего солнцестояния тысячи людей собираются, чтобы встретить восход солнца над камнями.
+
+
+    Памятник строился поэтапно более тысячи лет, начиная примерно с 3000 года до н. э. Самые большие камни, называемые сарсенами, весят до двадцати пяти тонн. Их установили по кругу, а сверху положили огромные горизонтальные каменные плиты — перекладины, образовавшие сооружения, похожие на гигантские арки. Удивительно, но строители использовали столярные соединения, чтобы скрепить камни. Меньшие «голубые камни» ещё загадочнее: анализы показали, что их привезли с холмов Пресели в Уэльсе — более чем за 200 километров.
+
+
+    Как и зачем люди без металлических орудий и колёс перемещали такие огромные камни? Предлагалось множество теорий. Утверждали, что памятник построили великаны или волшебник Мерлин. Более реалистичные объяснения предполагают, что сотни людей тащили камни на деревянных санях, возможно, по каткам или настилам. В последние годы археологи нашли неподалёку остатки большой деревни, где, вероятно, жили строители, устраивая в строительные сезоны пиршества со свининой.
+
+
+    Стоунхендж явно ориентирован по солнцу. В середине лета солнце восходит точно напротив входа, а в середине зимы садится напротив противоположной стороны. Это заставило учёных пересмотреть старые теории и предположить, что памятник использовался для обрядов, отмечавших смену времён года, и, возможно, для погребений.
+
+
+    Сегодня памятник сталкивается с новыми трудностями. Летом туристов гораздо больше, чем местных жителей, а соседние дороги часто забиты. Когда правительство объявило о планах построить рядом автомобильный туннель, активисты организовали петицию, опасаясь повредить ещё не открытые археологические объекты. Что бы ни ждало памятник в будущем, тайна лишь усиливает притягательность Стоунхенджа. Как сказал один археолог, вне себя от радости после очередной находки: «Каждый найденный ответ порождает ещё три вопроса».
+
+    '
+  questions:
+  - q: Where did the bluestones come from?
+    options:
+    - From the local area
+    - From the Preseli Hills in Wales
+    - From France
+    - From Scotland
+    answer: 1
+  - q: What do realistic theories suggest about how the stones were moved?
+    options:
+    - Giants carried them
+    - Hundreds of people dragged them on wooden sledges
+    - They used metal machines
+    - They floated them on the sea
+    answer: 1
+  - q: How is Stonehenge aligned?
+    options:
+    - With the North Star
+    - With the sun at midsummer and midwinter
+    - With the Moon
+    - With a river
+    answer: 1
+  - tf: Stonehenge was built in a single year.
+    answer: false
+  - tf: Campaigners organized a petition against a planned road tunnel.
+    answer: true
+- id: c2-30
+  v1_unit: Into the Outback
+  title: The Tragedy of Burke and Wills
+  title_ru: Трагедия Бёрка и Уиллса
+  text: 'In 1860, much of the Australian continent was still unknown to European settlers. No one had crossed the vast, dry outback from south to north. The colony of Victoria organized an expedition with a dual purpose: to explore the interior scientifically and to win glory for Melbourne by being the first to reach the northern coast.
+
+
+    The expedition comprised nineteen men, twenty-three horses, twenty-six camels imported from India and an enormous amount of equipment — including a Chinese gong and heavy wooden tables. Its leader, Robert O''Hara Burke, was a police officer with almost no experience of exploration. His deputy, William Wills, was a young surveyor who carried instruments such as a thermometer, a compass and binoculars and kept careful notes. Temperatures often rose above 110 degrees Fahrenheit.
+
+
+    The journey was slow. Impatient, Burke split the group, leaving the bulk of the supplies behind. At Cooper Creek, he left a small party at a camp in a grove of trees with orders to wait three months. Then Burke, Wills and two other men set off on a shortcut north. After weeks of struggle, they reached the mangrove swamps near the northern coast. Although they never actually saw the open sea, they had fulfilled their main goal.
+
+
+    The return was a disaster. They ran out of food, and one man died. When the three survivors finally staggered back to Cooper Creek, they found the camp empty. The waiting party had left that very morning, after more than four months — just nine hours earlier. It was one of the cruellest coincidences in the history of exploration.
+
+
+    The paradox of their fate is that they starved in a land where Aboriginal people had lived successfully for tens of thousands of years. Local Yandruwandha people gave them fish and seeds, but Burke, distrustful, sometimes refused their help. Burke and Wills died. Only one man, John King, survived — kept alive by Aboriginal people until a rescue party found him months later, when the explorers'' whereabouts were finally discovered.
+
+
+    Paintings and monuments later depicted the two leaders as heroes. Today, many historians argue that their mistakes outweighed their courage, and that the real lesson of the story is the knowledge of those who had lived in the outback all along.
+
+    '
+  ru: 'В 1860 году значительная часть Австралийского континента всё ещё оставалась неизвестной европейским поселенцам. Никто не пересёк огромную засушливую глубинку с юга на север. Колония Виктория организовала экспедицию с двойной целью: научно исследовать внутренние районы и прославить Мельбурн, первым добравшись до северного побережья.
+
+
+    В экспедицию входили девятнадцать человек, двадцать три лошади, двадцать шесть верблюдов, привезённых из Индии, и огромное количество снаряжения — в том числе китайский гонг и тяжёлые деревянные столы. Её руководитель, Роберт О''Хара Бёрк, был полицейским почти без опыта исследований. Его заместитель Уильям Уиллс был молодым топографом: он нёс приборы — термометр, компас и бинокль — и вёл подробные записи. Температура часто поднималась выше 110 градусов по Фаренгейту.
+
+
+    Продвигались медленно. Нетерпеливый Бёрк разделил группу, оставив основную часть припасов позади. У ручья Купер-Крик он оставил небольшой отряд в лагере в роще с приказом ждать три месяца. Затем Бёрк, Уиллс и ещё двое отправились коротким путём на север. После недель борьбы они достигли мангровых болот у северного побережья. Хотя открытого моря они так и не увидели, главная цель была достигнута.
+
+
+    Обратный путь обернулся катастрофой. Еда кончилась, один человек умер. Когда трое выживших наконец добрели до Купер-Крика, лагерь оказался пуст. Ожидавший отряд ушёл в то же утро, прождав больше четырёх месяцев, — всего за девять часов до их возвращения. Это было одно из самых жестоких совпадений в истории исследований.
+
+
+    Парадокс их судьбы в том, что они умерли от голода на земле, где аборигены успешно жили десятки тысяч лет. Местные жители из народа яндрувандха давали им рыбу и семена, но недоверчивый Бёрк порой отказывался от их помощи. Бёрк и Уиллс погибли. Выжил лишь один — Джон Кинг: его выходили аборигены, пока спасательный отряд не нашёл его спустя месяцы, когда наконец стало известно местонахождение исследователей.
+
+
+    Позже на картинах и памятниках двух руководителей изображали героями. Сегодня многие историки считают, что их ошибки перевешивали их отвагу и что настоящий урок этой истории — в знаниях тех, кто всё это время жил в глубинке.
+
+    '
+  questions:
+  - q: What was the expedition's goal?
+    options:
+    - To find gold
+    - To cross the continent from south to north
+    - To meet Aboriginal people
+    - To build a railway
+    answer: 1
+  - q: Why was the camp at Cooper Creek empty?
+    options:
+    - It had been attacked
+    - The waiting party had left just nine hours earlier
+    - It was never built
+    - They went to the wrong place
+    answer: 1
+  - q: Who survived?
+    options:
+    - Burke
+    - Wills
+    - John King, helped by Aboriginal people
+    - Nobody
+    answer: 2
+  - tf: Burke was a very experienced explorer.
+    answer: false
+  - tf: Aboriginal people offered the explorers food.
+    answer: true

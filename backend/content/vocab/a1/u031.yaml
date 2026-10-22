@@ -21,3 +21,52 @@ words:
 - trip | n | trɪp |  | поездка | a short journey for a holiday or business | How was your *trip* to Paris? | Как прошла твоя поездка в Париж?
 - visit | v | ˈvɪzɪt |  | посещать, навещать | to go to see a person or a place | We *visit* our grandmother every Sunday. | Мы навещаем бабушку каждое воскресенье.
 - way | n | weɪ |  | путь, дорога; способ | the route to a place; a method | Is this the *way* to the station? | Это дорога к вокзалу? | by the way — кстати
+reading:
+  title: Dr. Brown's Advice
+  title_ru: Совет доктора Брауна
+  text: |
+    Mr. Hill was forty-five years old. He worked in an office and sat at a computer all day. He did not often move, and his weight increased every year. One day, he felt a pain in his chest and went to see a doctor.
+
+    Dr. Brown listened to his heart. "Your heart is fine," she said. "But your life is not very active. At your age, it is important to move every day. Choose a sport that is fun for you."
+
+    Mr. Hill thought about it. Football was too fast for him, and golf was too slow. During his school years, he loved riding a bike. So he bought a new bike and started riding to work. It was only five kilometers.
+
+    At first, it was hard. His legs hurt, and his balance was bad. But he did not stop. After three months, he felt like a new man. He had plenty of energy and he slept well.
+
+    Now Mr. Hill is fifty, and he rides with his son every weekend. "Exercise is not only for young people," he tells other adults. "It's never too late to start."
+  ru: |
+    Мистеру Хиллу было сорок пять лет. Он работал в офисе и весь день сидел за компьютером. Двигался он нечасто, и его вес рос с каждым годом. Однажды он почувствовал боль в груди и пошёл к врачу.
+
+    Доктор Браун послушала его сердце. «С сердцем всё в порядке, — сказала она. — Но ваша жизнь не очень активна. В вашем возрасте важно двигаться каждый день. Выберите спорт, который вам по душе».
+
+    Мистер Хилл задумался. Футбол был для него слишком быстрым, а гольф — слишком медленным. В школьные годы он обожал кататься на велосипеде. И вот он купил новый велосипед и начал ездить на нём на работу. Это было всего пять километров.
+
+    Сначала было тяжело. Ноги болели, а равновесие держалось плохо. Но он не сдавался. Через три месяца он почувствовал себя другим человеком. Энергии было полно, и спал он хорошо.
+
+    Сейчас мистеру Хиллу пятьдесят, и каждые выходные он катается вместе с сыном. «Спорт — не только для молодых, — говорит он другим взрослым. — Начать никогда не поздно».
+  questions:
+  - q: Why did Mr. Hill go to the doctor?
+    options:
+    - He broke his leg
+    - He felt a pain in his chest
+    - He wanted a new job
+    - His son was ill
+    answer: 1
+  - q: What did the doctor tell him to do?
+    options:
+    - Stop working
+    - Eat more
+    - Choose a sport he enjoys
+    - Play golf
+    answer: 2
+  - q: How far did Mr. Hill ride to work?
+    options:
+    - Two kilometers
+    - Five kilometers
+    - Ten kilometers
+    - Fifty kilometers
+    answer: 1
+  - tf: Mr. Hill's heart was in bad condition.
+    answer: false
+  - tf: Now he rides a bike with his son.
+    answer: true

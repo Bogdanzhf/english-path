@@ -23,3 +23,52 @@ words:
 - stormy | adj | ˈstɔːmi | ˈstɔːrmi | штормовой, бурный | with strong winds and rain | It was a dark and *stormy* night. | Была тёмная и бурная ночь.
 - volcano | n | vɒlˈkeɪnəʊ | vɑːlˈkeɪnoʊ | вулкан | a mountain that can send out fire and hot rock | The *volcano* last erupted in 1980. | Последний раз вулкан извергался в 1980 году. | мн. ч. volcanoes
 - wetland | n | ˈwetlənd | ˈwetlænd | водно-болотные угодья | land that is very wet, like a marsh | Many birds live in the *wetlands*. | На болотах живёт много птиц.
+reading:
+  title: The Kon-Tiki Expedition
+  title_ru: Экспедиция «Кон-Тики»
+  text: |
+    In the 1940s, a Norwegian scientist called Thor Heyerdahl had an unusual idea. He believed that people from South America could have sailed to the islands of Polynesia in the Pacific Ocean thousands of years ago. Most experts laughed at him. "Ancient people only had wooden rafts," they said. "They couldn't cross such a huge distance." But criticism didn't deter Heyerdahl. He devised a plan to prove it himself.
+
+    In 1947, Heyerdahl and five companions built a raft called the Kon-Tiki from balsa wood, using only materials and methods that ancient people had. None of the men were proficient sailors, but each had some expertise: one was a radio engineer, another a scientist. Heyerdahl's spouse and children waited at home, full of worry.
+
+    The raft left the coastline of Peru and drifted west with the ocean currents. Life on board was hard. The men had to tolerate storms, sun and endless salt water. Waves shoved the raft from side to side, and the men tied ropes around their shoulders so they wouldn't fall into the sea. One night, a huge wave almost broke the raft. Another time, they thrust spears at sharks circling the raft. Many of them suffered from headaches and sunburn, but luckily, nobody got a fracture or hurt a limb.
+
+    Yet their optimism never disappeared. They caught fish, studied whales and watched the stars. After 101 days and almost 7,000 kilometres, they saw a green ridge of land in the distance. With all their might, they steered towards it — and crashed onto a coral reef near a Polynesian island. Everyone survived.
+
+    The voyage made Heyerdahl famous. Scientists still argue about his theory, but the expedition gave the world a valuable insight: with courage and a good plan, people can implement ideas that others think are impossible.
+  ru: |
+    В 1940-х годах у норвежского учёного Тура Хейердала возникла необычная идея. Он считал, что тысячи лет назад жители Южной Америки могли доплыть до островов Полинезии в Тихом океане. Большинство специалистов смеялись над ним. «У древних людей были только деревянные плоты, — говорили они. — Они не могли преодолеть такое огромное расстояние». Но критика не остановила Хейердала. Он разработал план, чтобы доказать это сам.
+
+    В 1947 году Хейердал и пятеро спутников построили из бальсового дерева плот под названием «Кон-Тики», используя только те материалы и способы, что были у древних людей. Никто из них не был опытным моряком, но у каждого была своя специальность: один был радиоинженером, другой — учёным. Жена и дети Хейердала ждали дома, полные тревоги.
+
+    Плот отошёл от побережья Перу и поплыл на запад по океанским течениям. Жизнь на борту была тяжёлой. Людям приходилось терпеть шторма, солнце и бесконечную солёную воду. Волны швыряли плот из стороны в сторону, и мужчины обвязывали плечи верёвками, чтобы не упасть в море. Однажды ночью огромная волна чуть не разбила плот. В другой раз они вонзали копья в акул, кружащих вокруг плота. Многие страдали от головной боли и солнечных ожогов, но, к счастью, никто ничего не сломал и не повредил ни руки, ни ноги.
+
+    Тем не менее оптимизм их не покидал. Они ловили рыбу, наблюдали за китами и смотрели на звёзды. Через 101 день и почти 7000 километров они увидели вдали зелёный горный гребень. Изо всех сил они направили плот к нему — и налетели на коралловый риф у одного из полинезийских островов. Все остались живы.
+
+    Плавание принесло Хейердалу славу. Учёные до сих пор спорят о его теории, но экспедиция дала миру ценное понимание: при смелости и хорошем плане люди могут воплотить идеи, которые другие считают невозможными.
+  questions:
+  - q: What did Heyerdahl want to prove?
+    options:
+    - That rafts are faster than ships
+    - That ancient South Americans could have sailed to Polynesia
+    - That sharks are dangerous
+    - That Peru is near Polynesia
+    answer: 1
+  - q: What was the Kon-Tiki made of?
+    options:
+    - Steel
+    - Balsa wood
+    - Plastic
+    - Bamboo
+    answer: 1
+  - q: How long was the voyage?
+    options:
+    - 10 days
+    - 101 days
+    - 1 year
+    - 47 days
+    answer: 1
+  - tf: All the men were proficient sailors.
+    answer: false
+  - tf: Everyone survived the crash on the reef.
+    answer: true

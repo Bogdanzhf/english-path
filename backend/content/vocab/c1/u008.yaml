@@ -15,3 +15,52 @@ words:
 - settee | n | seˈtiː | setˈiː | диван, софа (брит.) | a sofa | We sat on the *settee*. | Мы сели на диван.
 - utility | n | juːˈtɪləti |  | коммунальная услуга | a service such as gas, water or electricity | The rent doesn't include *utilities*. | Коммунальные услуги в арендную плату не входят. | utility bills — счета за коммуналку
 - weave | v | wiːv |  | ткать; плести | to make cloth by crossing threads | She *weaves* carpets by hand. | Она ткёт ковры вручную. | weave – wove – woven
+reading:
+  title: The Pot-in-Pot Cooler
+  title_ru: Охладитель «горшок в горшке»
+  text: |
+    In the hot, dry north of Nigeria, farming dominates the economy. But for families without electricity, there is a serious problem: food goes bad very quickly. Tomatoes and peppers picked in the morning may be rotten by the end of the day. Many families are forced to sell their vegetables immediately, often at low prices, which keeps them trapped in poverty.
+
+    In the 1990s, an obscure teacher named Mohammed Bah Abba found a brilliant solution. It did not require a machine or electricity — only two earthen pots, some sand and water. The idea was based on an ancient principle that skillful potters in the region had used for centuries to keep water cool.
+
+    The design is simple. A smaller clay pot is placed inside a larger one, and the space between them is filled with wet sandy soil. Food is placed in the inner pot, which is covered with a damp cloth. As the water in the sand evaporates through the outer pot, it takes heat away with it, cooling the inside. In a hostile climate where temperatures reach 40°C, the inner pot can stay as much as 15 degrees cooler.
+
+    The results were remarkable. Tomatoes that would have spoiled in two days stayed fresh for three weeks. Families could sell their produce when prices were higher. Bah Abba also noticed an important social change. Girls in the region were often kept home to sell food quickly at the market. With the cooler, they had time to go to school. Many families said the pots gave them a sense of dignity and control over their lives.
+
+    The pots can also keep certain medications cool, which is useful in rural clinics far from any pharmacy. Bah Abba won international awards, and the idea spread to other countries facing shortages of electricity. His invention shows that progress doesn't always depend on high technology. Sometimes the best solutions are as simple as a bowl of wet sand.
+  ru: |
+    На жарком сухом севере Нигерии основа экономики — сельское хозяйство. Но у семей без электричества есть серьёзная проблема: еда очень быстро портится. Помидоры и перцы, сорванные утром, к концу дня могут сгнить. Многим семьям приходится продавать овощи сразу, часто по низким ценам, и это не даёт им вырваться из бедности.
+
+    В 1990-х годах никому не известный учитель Мохаммед Ба Абба нашёл гениальное решение. Для него не требовались ни машины, ни электричество — лишь два глиняных горшка, немного песка и вода. Идея опиралась на древний принцип, который искусные местные гончары веками использовали, чтобы держать воду прохладной.
+
+    Устройство простое. Горшок поменьше ставят в горшок побольше, а пространство между ними заполняют влажным песком. Еду кладут во внутренний горшок и накрывают его мокрой тканью. Когда вода в песке испаряется через внешний горшок, она уносит с собой тепло, охлаждая содержимое. В суровом климате, где температура доходит до 40 °C, внутри горшка может быть на целых 15 градусов прохладнее.
+
+    Результаты были поразительными. Помидоры, которые испортились бы за два дня, оставались свежими три недели. Семьи могли продавать урожай, когда цены были выше. Ба Абба заметил и важное социальное изменение. Девочек в регионе часто оставляли дома, чтобы они быстро продавали еду на рынке. С охладителем у них появилось время ходить в школу. Многие семьи говорили, что горшки дали им чувство собственного достоинства и контроль над своей жизнью.
+
+    В таких горшках можно хранить в прохладе и некоторые лекарства, что полезно для сельских больниц вдали от аптек. Ба Абба получил международные награды, а идея распространилась в другие страны, где не хватает электричества. Его изобретение показывает, что прогресс не всегда зависит от высоких технологий. Иногда лучшие решения просты, как миска мокрого песка.
+  questions:
+  - q: What problem did families in northern Nigeria face?
+    options:
+    - Too much rain
+    - Food went bad quickly without refrigeration
+    - No markets
+    - Too many vegetables
+    answer: 1
+  - q: How does the pot-in-pot cooler work?
+    options:
+    - With electricity
+    - Evaporating water from wet sand takes heat away
+    - With ice
+    - With a fan
+    answer: 1
+  - q: What social change did Bah Abba notice?
+    options:
+    - Boys stopped working
+    - Girls had time to go to school
+    - Families moved to cities
+    - Prices fell
+    answer: 1
+  - tf: The cooler requires expensive technology.
+    answer: false
+  - tf: Tomatoes could stay fresh for three weeks in the cooler.
+    answer: true

@@ -27,3 +27,52 @@ words:
 - target audience | n | ˈtɑːɡɪt ˈɔːdiəns | ˈtɑːrɡət ˈɑːdiəns | целевая аудитория | the people a product is aimed at | Teenagers are the *target audience*. | Целевая аудитория — подростки.
 - the arts | n | ðə ɑːts | ðə ɑːrts | искусство (все виды) | music, painting, theatre, etc. | The government should fund *the arts*. | Государство должно финансировать искусство.
 - the Olympic Games | n | ðə əʊˈlɪmpɪk ɡeɪmz | ðə oʊˈlɪmpɪk ɡeɪmz | Олимпийские игры | the international sports competition every four years | She competed in *the Olympic Games*. | Она выступала на Олимпийских играх.
+reading:
+  title: From Poison to Medicine
+  title_ru: От яда к лекарству
+  text: |
+    For thousands of years, snakes have inspired fear and fascination in equal measure. They appear in myths, religions and folklore all over the world. In the Bible, a snake tempts Eve in the Garden of Eden. In ancient Egypt, the cobra was a symbol of royal power. In Hindu tradition, snakes are protectors of water and treasure. Snakes have also slithered through world literature, from ancient Greek plays to modern fantasy novels.
+
+    One of the oldest symbols in medicine is a snake wrapped around a stick. It belongs to Asclepius, the Greek god of healing, and has been used by doctors for well over two millennia. Ancient storytellers related how snakes, which shed their skin, represented renewal and healing. Even today, many ambulances and medical organizations carry the symbol.
+
+    It may seem strange to connect snakes with healing, given that their venom kills tens of thousands of people every year, mostly in poor rural areas. But modern science has discovered that venom is not just a poison. It is a complex mixture of proteins that act very precisely on the body — on the blood, the heart and the nerves. Scientists from a pharmaceutical background realized that these powerful substances could be turned into medicines.
+
+    One of the most famous examples came from a Brazilian pit viper. Researchers noticed that its venom caused a sudden fall in blood pressure. In the 1970s, they used this discovery to develop a drug that has since helped millions of people with heart disease. Other drugs based on venom help to prevent blood clots in veins and arteries. Scientists are also studying venoms to treat pain, cancer and diseases of the brain.
+
+    Snake bites remain a serious problem, and the World Health Organization is working to promote better treatment and update guidelines. Researchers are developing new antivenoms that are cheaper and more trustworthy than those made the traditional way. Unfortunately, these projects require large sums of money, and funding is limited. Still, the story of venom shows how something we fear can become a source of healing.
+  ru: |
+    Тысячи лет змеи вызывают в равной мере страх и восхищение. Они встречаются в мифах, религиях и фольклоре по всему миру. В Библии змей искушает Еву в Эдемском саду. В Древнем Египте кобра была символом царской власти. В индуизме змеи — хранители воды и сокровищ. Змеи проползли и через мировую литературу — от древнегреческих пьес до современных фэнтези-романов.
+
+    Один из древнейших символов медицины — змея, обвивающая посох. Он принадлежит Асклепию, греческому богу врачевания, и врачи используют его уже более двух тысячелетий. Древние рассказчики объясняли, что змеи, сбрасывающие кожу, олицетворяют обновление и исцеление. Этот символ и сегодня можно увидеть на многих машинах скорой помощи и эмблемах медицинских организаций.
+
+    Может показаться странным связывать змей с исцелением, ведь от их яда ежегодно умирают десятки тысяч людей, в основном в бедных сельских районах. Но современная наука обнаружила, что яд — это не просто отрава. Это сложная смесь белков, которые очень точно действуют на организм — на кровь, сердце и нервы. Учёные с фармацевтическим образованием поняли, что эти мощные вещества можно превратить в лекарства.
+
+    Один из самых известных примеров связан с бразильской ямкоголовой змеёй. Исследователи заметили, что её яд вызывает резкое падение давления. В 1970-х годах на основе этого открытия создали препарат, который с тех пор помог миллионам людей с болезнями сердца. Другие лекарства на основе ядов помогают предотвращать образование тромбов в венах и артериях. Учёные изучают яды и для лечения боли, рака и заболеваний мозга.
+
+    Укусы змей по-прежнему серьёзная проблема, и Всемирная организация здравоохранения работает над тем, чтобы продвигать более эффективное лечение и обновлять рекомендации. Исследователи разрабатывают новые противоядия — дешевле и надёжнее, чем изготовленные традиционным способом. К сожалению, такие проекты требуют больших сумм, а финансирование ограничено. И всё же история змеиного яда показывает, как то, чего мы боимся, может стать источником исцеления.
+  questions:
+  - q: What does the snake on a stick symbolize?
+    options:
+    - Danger
+    - Medicine and healing
+    - Royal power
+    - Treasure
+    answer: 1
+  - q: What is snake venom, according to modern science?
+    options:
+    - A simple poison
+    - A complex mixture of proteins that act precisely on the body
+    - A type of blood
+    - Water
+    answer: 1
+  - q: What did the Brazilian pit viper's venom lead to?
+    options:
+    - A cure for cancer
+    - A drug for heart disease
+    - A new antivenom
+    - A painkiller
+    answer: 1
+  - tf: Snake venom kills tens of thousands of people every year.
+    answer: true
+  - tf: Funding for antivenom research is unlimited.
+    answer: false

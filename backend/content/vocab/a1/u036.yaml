@@ -21,3 +21,52 @@ words:
 - who | pron | huː |  | кто; который | used to ask about people | *Who* is that man? | Кто этот мужчина?
 - without | prep | wɪˈðaʊt |  | без | not having | I drink coffee *without* sugar. | Я пью кофе без сахара.
 - you | pron | juː |  | ты, вы; тебя, вас | the person or people you are speaking to | Thank *you*! | Спасибо!
+reading:
+  title: The Dry Summer
+  title_ru: Засушливое лето
+  text: |
+    The village of Greenhill is on a hill above a small river. Usually the river flows fast, and there is plenty of water in every season. But one summer, there was no rain for three months. The water level in the river went down every day, and soon only a few puddles were left.
+
+    The people of Greenhill were worried. Some wanted to leave the village. Others did not know whether to stay or go. Water was available only from one lone well in the centre of the village, and people argued about it. "It's not fair," they said. "Some families take more than others."
+
+    A bright young girl named Rosa decided to help. She asked everyone to come to a meeting. "We are wasting water," she said. "We need a solution. Let's make a plan: every family gets the same amount. Nobody gets more, and nobody else gets less."
+
+    The response was positive. People began to collect water from their roofs during the night, when there was a little dew. They stopped washing their cars and watering flowers. Slowly, the village beat the dry summer.
+
+    In September, the rain finally came. The puddles appeared again, and the river started to flow. The whole village celebrated with a big party. "Now we appreciate every drop," the people said. And Rosa's plan did not disappear: they still use it every summer.
+  ru: |
+    Деревня Гринхилл стоит на холме над небольшой рекой. Обычно река течёт быстро, и воды хватает в любое время года. Но однажды летом три месяца не было дождя. Уровень воды в реке падал с каждым днём, и вскоре остались лишь несколько луж.
+
+    Жители Гринхилла забеспокоились. Некоторые хотели уехать из деревни. Другие не знали, оставаться им или уезжать. Воду можно было взять только из одного-единственного колодца в центре деревни, и люди из-за неё спорили. «Это несправедливо, — говорили они. — Некоторые семьи берут больше других».
+
+    Сообразительная девочка по имени Роза решила помочь. Она попросила всех прийти на собрание. «Мы тратим воду впустую, — сказала она. — Нам нужно решение. Давайте составим план: каждая семья получает одинаковое количество. Никто не получает больше, и никто не получает меньше».
+
+    Отклик был положительным. Люди начали по ночам собирать с крыш немного росы. Они перестали мыть машины и поливать цветы. Понемногу деревня победила засушливое лето.
+
+    В сентябре наконец пошёл дождь. Снова появились лужи, и река потекла. Вся деревня отпраздновала это большим праздником. «Теперь мы ценим каждую каплю», — говорили люди. А план Розы не исчез: им до сих пор пользуются каждое лето.
+  questions:
+  - q: Where is the village of Greenhill?
+    options:
+    - Near the sea
+    - On a hill above a river
+    - In a big city
+    - In the mountains
+    answer: 1
+  - q: Why were people arguing?
+    options:
+    - About the river fish
+    - Some families took more water than others
+    - About a party
+    - About Rosa's school
+    answer: 1
+  - q: What was Rosa's plan?
+    options:
+    - To leave the village
+    - To build a new well
+    - Every family gets the same amount of water
+    - To buy water in the city
+    answer: 2
+  - tf: The rain came back in September.
+    answer: true
+  - tf: The village stopped using Rosa's plan after the summer.
+    answer: false

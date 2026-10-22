@@ -22,3 +22,52 @@ words:
 - unhappy | adj | ʌnˈhæpi | ənˈhæpi | несчастный, недовольный | sad; not satisfied | She's *unhappy* with her job. | Она недовольна своей работой.
 - 'wish | v | wɪʃ |  | желать | to want something that is not possible now | I *wish* I could fly. | Вот бы я умел летать. | сущ.: wish — желание; best wishes'
 - worry | v | ˈwʌri | ˈwɜːri | беспокоиться | to think about problems | Don't *worry*, everything will be fine. | Не волнуйся, всё будет хорошо.
+reading:
+  title: A New Start
+  title_ru: Новое начало
+  text: |
+    The Brown household consists of four people: Mr. and Mrs. Brown, their son Oliver and their daughter Lucy. For years, they lived in a small flat in a busy city. The pace of life was fast, the air was dirty, and Mrs. Brown, who has weak lungs, often felt ill. So they decided to seek a quieter life in the countryside.
+
+    On moving day, everyone was anxious. The weather was awful in the morning, and it rained while they loaded the van. Mr. Brown lifted the heaviest boxes, and Oliver spilled a whole box of books into a puddle. "Great start," he remarked.
+
+    But by the afternoon, the sun was shining. The van moved through a green landscape of hills and small farms. Lucy was eager to see the new house. She sat by the window and watched the motion of the trees in the wind.
+
+    The house was old, but it possessed something the flat never had: a big garden and a view of the river. The neighbours came to say hello. They were very polite and brought a cake. "Our intent is to make you feel at home," said the old woman next door.
+
+    In the following weeks, Mrs. Brown's health improved rapidly. The family's biggest desire had come true. "Sometimes a change is scary," says Mr. Brown, "but it can also be the best decision of your life."
+  ru: |
+    Семья Браунов состоит из четырёх человек: мистера и миссис Браун, их сына Оливера и дочери Люси. Много лет они жили в маленькой квартире в шумном городе. Жизнь текла в быстром темпе, воздух был грязным, а миссис Браун, у которой слабые лёгкие, часто болела. Поэтому они решили искать более спокойную жизнь за городом.
+
+    В день переезда все волновались. Утром погода была ужасной, и, пока они грузили фургон, шёл дождь. Мистер Браун поднимал самые тяжёлые коробки, а Оливер рассыпал целую коробку книг в лужу. «Отличное начало», — заметил он.
+
+    Но к обеду засияло солнце. Фургон ехал по зелёным пейзажам из холмов и маленьких ферм. Люси не терпелось увидеть новый дом. Она сидела у окна и смотрела, как качаются на ветру деревья.
+
+    Дом был старым, но у него было то, чего никогда не было у квартиры: большой сад и вид на реку. Соседи пришли поздороваться. Они были очень вежливы и принесли торт. «Мы хотим, чтобы вы чувствовали себя как дома», — сказала пожилая соседка.
+
+    В следующие недели здоровье миссис Браун быстро улучшилось. Самое большое желание семьи сбылось. «Иногда перемены пугают, — говорит мистер Браун, — но они могут стать лучшим решением в жизни».
+  questions:
+  - q: Why did the family move?
+    options:
+    - They wanted a bigger city
+    - They wanted a quieter, healthier life
+    - Mr. Brown got a new job
+    - The flat was too expensive
+    answer: 1
+  - q: What did Oliver do on moving day?
+    options:
+    - He lifted the heavy boxes
+    - He spilled books into a puddle
+    - He drove the van
+    - He cooked dinner
+    answer: 1
+  - q: What did the new house have?
+    options:
+    - A swimming pool
+    - A big garden and a river view
+    - Five bedrooms
+    - A shop next door
+    answer: 1
+  - tf: The neighbours were rude to the family.
+    answer: false
+  - tf: Mrs. Brown's health got better after the move.
+    answer: true

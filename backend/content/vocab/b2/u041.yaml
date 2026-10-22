@@ -23,3 +23,56 @@ words:
 - work-life balance | n |  |  | баланс работы и личной жизни | balance between job and free time | It's hard to find a good *work-life balance*. | Трудно найти баланс между работой и жизнью.
 - workforce | n | ˈwɜːkfɔːs | ˈwɜːrkfɔːrs | рабочая сила, персонал | all the workers | Women make up half the *workforce*. | Женщины составляют половину рабочей силы.
 - workload | n | ˈwɜːkləʊd | ˈwɜːrkloʊd | рабочая нагрузка | the amount of work | I have a heavy *workload* this week. | На этой неделе у меня большая нагрузка.
+reading:
+  title: Know Your Rights as a Tenant
+  title_ru: Права арендатора
+  text: |
+    For many young people, buying a home is an impossible dream. House prices have risen far faster than wages, and banks require a large deposit before they will give you a mortgage. As a result, millions of people rent their homes. Renting can be a great option, but it is important to understand your rights.
+
+    Before you move in, you will usually sign a lease. Read it carefully. It should be explicit about how much the rent is, how long the agreement lasts and who pays for utilities such as gas, water and electricity. It should also explain the process whereby either side can end the agreement.
+
+    In most countries, the landlord is responsible for keeping the property safe and in good condition. This includes the plumbing, the heating and the electrics. If something breaks, the landlord must mend it within a reasonable time. Many places have laws requiring homes to conform to basic standards. For example, safety checks on gas appliances may be mandatory every year, and the property must be hygienic and free from damp.
+
+    Tenants have responsibilities too. You must pay the rent on time, look after the property and respect the neighbours. If you want to make changes, such as painting the walls, you should ask first. Remember that a furnished flat comes with the landlord's furniture, so you may have to pay for any damage.
+
+    Problems can arise. Some landlords try to expel tenants without proper notice, or they refuse to return deposits. Others ask for money for "administration" that the law doesn't allow. If you have a problem, keep records of everything: photos, emails and receipts. Many cities have advice centres employing personnel who can help you for free.
+
+    Finally, plan ahead. If you know about forthcoming rent increases, you can budget for them. And if you need repairs, get a builder to quote a price in writing before any work begins.
+  ru: |
+    Для многих молодых людей покупка жилья — несбыточная мечта. Цены на дома росли гораздо быстрее зарплат, а банки требуют крупный первоначальный взнос, прежде чем дать ипотеку. В результате миллионы людей снимают жильё. Аренда может быть отличным вариантом, но важно знать свои права.
+
+    Перед заселением вы обычно подписываете договор аренды. Прочитайте его внимательно. В нём должно быть чётко указано, сколько стоит аренда, на какой срок заключён договор и кто платит за коммунальные услуги — газ, воду и электричество. В нём также должно быть объяснено, каким образом любая из сторон может расторгнуть договор.
+
+    В большинстве стран арендодатель отвечает за то, чтобы жильё было безопасным и в хорошем состоянии. Это касается сантехники, отопления и электрики. Если что-то ломается, хозяин должен починить это в разумный срок. Во многих местах есть законы, требующие, чтобы жильё соответствовало базовым стандартам. Например, ежегодная проверка газового оборудования может быть обязательной, а квартира должна быть чистой и без сырости.
+
+    У арендаторов тоже есть обязанности. Нужно вовремя платить, бережно относиться к жилью и уважать соседей. Если хотите что-то изменить, например покрасить стены, сначала спросите. Помните, что меблированная квартира сдаётся с мебелью хозяина, так что за любой ущерб, возможно, придётся заплатить.
+
+    Бывают и проблемы. Некоторые хозяева пытаются выселить жильцов без надлежащего уведомления или отказываются возвращать залог. Другие требуют деньги за «оформление», которые закон не разрешает брать. Если у вас возникла проблема, сохраняйте все записи: фотографии, письма и квитанции. Во многих городах есть консультационные центры, сотрудники которых могут помочь бесплатно.
+
+    И наконец, планируйте заранее. Если вы знаете о предстоящем повышении арендной платы, вы можете заложить его в бюджет. А если нужен ремонт, попросите строителя письменно назвать цену до начала работ.
+  questions:
+  - q: Why do millions of young people rent?
+    options:
+    - Renting is always cheaper
+    - House prices have risen faster than wages
+    - They don't want to own a home
+    - Banks don't give mortgages
+    answer: 1
+  - q: Who is usually responsible for repairing the plumbing?
+    options:
+    - The tenant
+    - The landlord
+    - The neighbours
+    - The city
+    answer: 1
+  - q: What should you do if you have a problem with your landlord?
+    options:
+    - Stop paying rent
+    - Keep records of everything
+    - Move out immediately
+    - Repair everything yourself
+    answer: 1
+  - tf: Tenants can paint the walls without asking.
+    answer: false
+  - tf: A lease should explain who pays for utilities.
+    answer: true

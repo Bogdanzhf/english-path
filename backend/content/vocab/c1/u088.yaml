@@ -22,3 +22,52 @@ words:
 - toxic waste | n | ˈtɒksɪk weɪst | ˈtɑːksɪk weɪst | токсичные отходы | poisonous waste | *Toxic waste* was dumped in the sea. | Токсичные отходы сбросили в море.
 - urban sprawl | n | ˈɜːbən sprɔːl | ˈɜːrbən sprɔːl | разрастание городов | cities spreading into countryside | *Urban sprawl* destroys farmland. | Разрастание городов уничтожает сельхозугодья.
 - wind turbine | n | waɪnd ˈtɜːbaɪn | waɪnd ˈtɜːrbaɪn | ветряная турбина | a tall machine that makes electricity from wind | *Wind turbines* line the coast. | Вдоль побережья стоят ветряки.
+reading:
+  title: 'Venus: A Warning From Space'
+  title_ru: 'Венера: предупреждение из космоса'
+  text: |
+    On a clear evening, Venus is often the brightest object in the sky after the Moon. People sometimes confuse it with a star, and in many cultures it was a beloved symbol of beauty and love. Venus is almost exactly the same size as Earth and is our nearest planetary neighbour. For this reason, it is often called Earth's twin. Yet anyone who arrived there in a spaceship would find not paradise, but a place of unimaginable misery.
+
+    The surface of Venus is a furnace. Temperatures reach around 465°C — hot enough to melt lead — and it is even hotter than Mercury, although Mercury is closer to the Sun. The air pressure is about ninety times higher than on Earth, similar to being a kilometre under the sea. Thick clouds of sulphuric acid cover the entire planet.
+
+    Prior to the 1960s, some scientists imagined that Venus might be covered in warm swamps or oceans. Then the Soviet Union sent a series of probes to measure conditions on the surface. The first ones were crushed by the pressure before they arrived. In 1970, Venera 7 became the first spacecraft to land and send back data from another planet. It survived for just twenty-three minutes.
+
+    Why did Venus become so different from Earth? Research has established that it may once have had liquid water and a milder climate. However, as the young Sun grew brighter, the water evaporated. Water vapour and carbon dioxide trapped more and more heat in a "runaway greenhouse effect". The planet's temperature rose, and the process could not be stopped. Today, its atmosphere is ninety-six percent carbon dioxide.
+
+    Of course, the same physical laws apply on Earth. Scientists stress that our planet is not in danger of becoming another Venus. But as we find ourselves in the midst of our own climate crisis, Venus is a powerful reminder of what greenhouse gases can do. Several new missions are due to visit the planet in the 2030s, and scientists eagerly await what they will discover.
+  ru: |
+    Ясным вечером Венера часто бывает самым ярким объектом на небе после Луны. Её порой путают со звездой, и во многих культурах она была любимым символом красоты и любви. Венера почти точно такого же размера, как Земля, и это наша ближайшая соседка среди планет. Поэтому её часто называют близнецом Земли. Однако тот, кто прибыл бы туда на космическом корабле, нашёл бы не рай, а место невообразимых страданий.
+
+    Поверхность Венеры — раскалённая печь. Температура достигает около 465 °C — этого хватит, чтобы расплавить свинец, — и там даже жарче, чем на Меркурии, хотя Меркурий ближе к Солнцу. Атмосферное давление примерно в девяносто раз выше земного — как на глубине километра под водой. Всю планету окутывают плотные облака серной кислоты.
+
+    До 1960-х годов некоторые учёные представляли, что Венера может быть покрыта тёплыми болотами или океанами. Затем Советский Союз отправил серию зондов для измерения условий на поверхности. Первые из них были раздавлены давлением ещё до посадки. В 1970 году «Венера-7» стала первым космическим аппаратом, совершившим посадку на другую планету и передавшим оттуда данные. Он проработал всего двадцать три минуты.
+
+    Почему Венера стала такой непохожей на Землю? Исследования установили, что когда-то на ней, возможно, была жидкая вода и более мягкий климат. Но по мере того как молодое Солнце становилось ярче, вода испарилась. Водяной пар и углекислый газ удерживали всё больше тепла — возник «неудержимый парниковый эффект». Температура планеты росла, и остановить процесс было невозможно. Сегодня её атмосфера на девяносто шесть процентов состоит из углекислого газа.
+
+    Разумеется, на Земле действуют те же законы физики. Учёные подчёркивают, что нашей планете не грозит стать второй Венерой. Но сейчас, когда мы находимся в разгаре собственного климатического кризиса, Венера служит мощным напоминанием о том, на что способны парниковые газы. В 2030-х годах к планете должны отправиться несколько новых миссий, и учёные с нетерпением ждут, что они обнаружат.
+  questions:
+  - q: Why is Venus called Earth's twin?
+    options:
+    - It has life
+    - It is almost the same size as Earth
+    - It has oceans
+    - It has the same temperature
+    answer: 1
+  - q: How long did Venera 7 survive on the surface?
+    options:
+    - Twenty-three days
+    - Twenty-three minutes
+    - Two hours
+    - One year
+    answer: 1
+  - q: What made Venus so hot?
+    options:
+    - Volcanoes only
+    - A runaway greenhouse effect
+    - Its distance from the Sun
+    - Its moons
+    answer: 1
+  - tf: Venus is hotter than Mercury.
+    answer: true
+  - tf: Scientists say Earth will soon become another Venus.
+    answer: false

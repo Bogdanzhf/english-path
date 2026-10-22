@@ -23,3 +23,52 @@ words:
 - text message | n | tekst ˈmesɪdʒ | tekst ˈmesədʒ | текстовое сообщение, смс | a short message sent by phone | I got a *text message* from Tom. | Мне пришло сообщение от Тома.
 - virus | n | ˈvaɪrəs |  | вирус | a tiny thing that causes illness; a computer program that damages files | My computer has a *virus*. | В моём компьютере вирус.
 - web | n | web |  | паутина; сеть (интернет) | the net that a spider makes; the internet | A spider was sitting in the middle of its *web*. | Паук сидел в центре паутины. | the Web — интернет
+reading:
+  title: The Inn by the Bridge
+  title_ru: Гостиница у моста
+  text: |
+    For two hundred years, the Old Bridge Inn has stood next to a stone bridge over a quiet river. Today, it is run by Sam, a man of seventy with a simple philosophy: "Slow is good." There is no TV, no electronic music and no Wi-Fi. Guests come to rest, read and fish.
+
+    Last summer, Sam's grandson Leo came to stay. Leo was fifteen and lived his whole life in a virtual world of games and social media. At first, he hated the inn. "There's nothing to do here," he whispered angrily to his mother. But his mother had no plans to leave, so he had to accompany Sam every morning.
+
+    Sam showed him how to cast a fishing line into the river and how to repair the old nets. He taught him to grow vegetables from seeds and to cook them in a big black pot over a fire. Leo learned to clean fish with a sharp knife and to weigh them on an old metal scale.
+
+    One morning, they climbed a tree to fix a branch that was hanging over the river. Leo looked down and caught his breath. The river shone in the sun, and a deer was drinking from the water. He didn't dare to move. "This," Sam said quietly, "is better than any screen."
+
+    At the end of the summer, Leo didn't want to leave. In his bag, he took a tight jar of honey, some seeds and a new sort of happiness. "If you subtract the phone," he told his friends at home, "you add a whole world."
+  ru: |
+    Уже двести лет гостиница «Старый мост» стоит рядом с каменным мостом через тихую реку. Сегодня ею управляет Сэм — семидесятилетний мужчина с простой философией: «Медленно — значит хорошо». Здесь нет телевизора, электронной музыки и Wi-Fi. Гости приезжают отдыхать, читать и рыбачить.
+
+    Прошлым летом к Сэму приехал внук Лео. Лео было пятнадцать, и всю жизнь он прожил в виртуальном мире игр и соцсетей. Сначала он возненавидел гостиницу. «Тут нечего делать», — сердито шептал он маме. Но мама уезжать не собиралась, так что ему приходилось каждое утро сопровождать Сэма.
+
+    Сэм показал ему, как забрасывать удочку в реку и как чинить старые сети. Он научил его выращивать овощи из семян и готовить их в большом чёрном котелке на костре. Лео научился чистить рыбу острым ножом и взвешивать её на старых металлических весах.
+
+    Однажды утром они залезли на дерево, чтобы подвязать ветку, нависшую над рекой. Лео посмотрел вниз и затаил дыхание. Река сверкала на солнце, а из воды пил олень. Он не смел пошевелиться. «Вот это, — тихо сказал Сэм, — лучше любого экрана».
+
+    В конце лета Лео не хотел уезжать. В сумку он положил плотно закрытую банку мёда, немного семян и новый вид счастья. «Если вычесть телефон, — сказал он друзьям дома, — прибавится целый мир».
+  questions:
+  - q: What is Sam's philosophy?
+    options:
+    - Fast is good
+    - Slow is good
+    - Money is everything
+    - Technology helps
+    answer: 1
+  - q: How did Leo feel when he first arrived?
+    options:
+    - Happy
+    - He hated the inn
+    - Excited
+    - Calm
+    answer: 1
+  - q: What did Leo see from the tree?
+    options:
+    - A fisherman
+    - A deer drinking from the river
+    - His mother
+    - A boat
+    answer: 1
+  - tf: The inn has fast Wi-Fi.
+    answer: false
+  - tf: At the end of the summer, Leo didn't want to leave.
+    answer: true

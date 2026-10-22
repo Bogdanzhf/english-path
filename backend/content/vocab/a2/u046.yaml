@@ -23,3 +23,52 @@ words:
 - strict | adj | strɪkt |  | строгий | making people follow rules exactly | My parents were very *strict*. | Мои родители были очень строгими.
 - weak | adj | wiːk |  | слабый | not strong; not good at something | French was always my *weak* subject. | Французский всегда был моим слабым предметом.
 - wild | adv | waɪld |  | неистово, без удержу | in an uncontrolled, excited way | When the news came, the crowds went *wild*. | Когда пришла новость, толпа пришла в неистовство. | go wild, run wild
+reading:
+  title: Too Busy to Live
+  title_ru: Слишком занята, чтобы жить
+  text: |
+    Mia was twenty-two and studied law at university. She also worked in a restaurant three evenings a week. Her days were always busy. She got up at six, studied all day, worked until midnight and wrote essays at night. She didn't have time to meet her friends or listen to music.
+
+    At first, Mia thought this was normal. "Everybody is busy," she said. But slowly, stress started to change her. She couldn't sleep well, and she felt tired all the time. She ate dinner from a can and drank too much coffee. When her close friend Ella called, Mia didn't answer.
+
+    One day, during an exam, Mia's mind went completely blank. She couldn't write a single word. After the exam, she sat on a bench and cried. Ella found her there. "We need to talk," she said.
+
+    They discussed Mia's life for two hours. Ella helped her make a new plan. Mia cleared one evening a week for herself. She stopped working on Sundays and turned off her phone at ten o'clock. Every morning, she took a twenty-minute walk in a quiet park instead of automatically checking her emails.
+
+    Now Mia feels much better. Her grades are higher, and she sleeps eight hours a night. "I learned an important lesson," she says. "If you never relax, you can't work well. Rest is not lazy — it's necessary."
+  ru: |
+    Мие было двадцать два года, и она изучала право в университете. Ещё она работала в ресторане три вечера в неделю. Её дни всегда были загружены. Она вставала в шесть, весь день училась, работала до полуночи, а по ночам писала эссе. У неё не было времени встречаться с друзьями или слушать музыку.
+
+    Сначала Мия думала, что это нормально. «Все заняты», — говорила она. Но постепенно стресс начал её менять. Она плохо спала и всё время чувствовала усталость. Она ужинала консервами и пила слишком много кофе. Когда звонила её близкая подруга Элла, Мия не отвечала.
+
+    Однажды на экзамене у Мии в голове стало совершенно пусто. Она не смогла написать ни слова. После экзамена она села на скамейку и заплакала. Там её и нашла Элла. «Нам нужно поговорить», — сказала она.
+
+    Два часа они обсуждали жизнь Мии. Элла помогла ей составить новый план. Мия освободила один вечер в неделю для себя. Она перестала работать по воскресеньям и выключала телефон в десять вечера. Каждое утро, вместо того чтобы машинально проверять почту, она двадцать минут гуляла в тихом парке.
+
+    Теперь Мия чувствует себя гораздо лучше. Оценки стали выше, и она спит по восемь часов. «Я усвоила важный урок, — говорит она. — Если никогда не отдыхать, хорошо работать невозможно. Отдых — это не лень, это необходимость».
+  questions:
+  - q: What did Mia do in the evenings?
+    options:
+    - She met friends
+    - She worked in a restaurant
+    - She listened to music
+    - She went to the gym
+    answer: 1
+  - q: What happened during the exam?
+    options:
+    - She finished first
+    - She couldn't write anything
+    - She fell asleep
+    - She met Ella
+    answer: 1
+  - q: What does Mia do every morning now?
+    options:
+    - Checks her emails
+    - Walks in a park
+    - Works in the restaurant
+    - Drinks three coffees
+    answer: 1
+  - tf: Ella helped Mia make a new plan.
+    answer: true
+  - tf: Mia thinks that rest is lazy.
+    answer: false

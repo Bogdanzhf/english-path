@@ -24,3 +24,56 @@ words:
 - sculpture | n | ˈskʌlptʃə | ˈskʌlptʃər | скульптура | a work of art made of stone, metal, wood, etc. | There's a bronze *sculpture* in the square. | На площади стоит бронзовая скульптура.
 - statue | n | ˈstætʃuː |  | статуя | a figure of a person or animal made of stone or metal | There are almost 1,000 *statues* on the island. | На острове почти 1000 статуй.
 - video clip | n | ˈvɪdɪəʊ klɪp | ˈvɪdiːoʊ klɪp | видеоклип, ролик | a short video | She posted a funny *video clip*. | Она выложила смешной ролик.
+reading:
+  title: The Girl in the Striped Dress
+  title_ru: Девушка в полосатом платье
+  text: |
+    In 1920, a rich ranch owner in Texas commissioned a famous artist to paint a portrait of his daughter, Lily. The artist arrived on the ranch in early summer. Lily was sixteen, informal and full of energy. She hated sitting still. "Do I really have to pose for three hours a day?" she asked.
+
+    To make the work less boring, Lily brought her tame raccoon, Bandit, to every session. She wore her favourite dress, which she had dyed bright yellow with white stripes. The artist was tempted to tell her to wear something more serious, but in the end he painted her just as she was: smiling, with the raccoon on her lap.
+
+    The portrait was finished, but strangely, it disappeared after the family moved to New York. For eighty years, nobody knew where it was.
+
+    Then, in 2005, a woman found an old painting in her grandmother's attic. She peered at the signature and couldn't believe her eyes. She inquired at a museum, and experts confirmed it: it was the lost portrait. The discovery made headlines in all the newspapers.
+
+    But the most amazing part of the story was still to come. The finding coincided with Lily's 101st birthday. She was still alive, living in a care home in Florida. A messenger from the museum took a photo of the painting to her. When Lily saw it, she laughed. "Bandit!" she cried. "That terrible raccoon stole the artist's brushes every day!"
+
+    The museum later held an exhibition about the painting. The hall could accommodate hundreds of people, but there were queues outside. Lily, who had once worked as a circus rider and later steered her own boat around the world, was the guest of honour. The extent of public interest surprised everyone. People of every age and gender came to see the girl in the striped dress.
+  ru: |
+    В 1920 году богатый владелец ранчо в Техасе заказал знаменитому художнику портрет своей дочери Лили. Художник приехал на ранчо в начале лета. Лили было шестнадцать: непосредственная и полная энергии, она терпеть не могла сидеть на месте. «Мне правда придётся позировать по три часа в день?» — спросила она.
+
+    Чтобы работа была не такой скучной, Лили приносила на каждый сеанс своего ручного енота Бандита. Она надевала любимое платье, которое сама покрасила в ярко-жёлтый цвет с белыми полосками. Художника так и тянуло попросить её надеть что-нибудь посерьёзнее, но в итоге он написал её такой, какая она есть: улыбающейся, с енотом на коленях.
+
+    Портрет был закончен, но, как ни странно, исчез после того, как семья переехала в Нью-Йорк. Восемьдесят лет никто не знал, где он.
+
+    А в 2005 году одна женщина нашла на чердаке у бабушки старую картину. Она вгляделась в подпись и не поверила своим глазам. Она обратилась в музей, и эксперты подтвердили: это был пропавший портрет. Находка попала в заголовки всех газет.
+
+    Но самое удивительное в этой истории было ещё впереди. Находка совпала со 101-м днём рождения Лили. Она была жива и жила в доме престарелых во Флориде. Посланник из музея привёз ей фотографию картины. Увидев её, Лили рассмеялась. «Бандит! — воскликнула она. — Этот ужасный енот каждый день воровал у художника кисти!»
+
+    Позже музей устроил выставку, посвящённую картине. Зал вмещал сотни людей, но снаружи стояли очереди. Лили, которая когда-то работала наездницей в цирке, а позже на собственной лодке обогнула земной шар, была почётной гостьей. Масштаб общественного интереса удивил всех. Посмотреть на девушку в полосатом платье пришли люди всех возрастов, и мужчины, и женщины.
+  questions:
+  - q: Who commissioned the portrait?
+    options:
+    - Lily
+    - Lily's father
+    - A museum
+    - The artist
+    answer: 1
+  - q: What did Lily bring to every session?
+    options:
+    - Her dog
+    - Her tame raccoon
+    - A book
+    - Her horse
+    answer: 1
+  - q: Where was the portrait found in 2005?
+    options:
+    - In a museum
+    - In a grandmother's attic
+    - On the ranch
+    - In a circus
+    answer: 1
+  - tf: Lily had died before the portrait was found.
+    answer: false
+  - tf: The discovery coincided with Lily's 101st birthday.
+    answer: true

@@ -24,3 +24,52 @@ words:
 - tradition | n | trəˈdɪʃn |  | традиция | a custom that people have had for a long time | It's a family *tradition* to eat pancakes on Sunday. | В нашей семье есть традиция есть блины по воскресеньям.
 - 'vote | n | vəʊt | voʊt | голос (на выборах) | a choice made in an election | Every *vote* counts. | Каждый голос важен. | гл.: vote — голосовать'
 - war | n | wɔː | wɔːr | война | fighting between countries or large groups | My grandfather fought in the *war*. | Мой дедушка воевал на войне.
+reading:
+  title: The Archer of the Valley
+  title_ru: Лучник из долины
+  text: |
+    A long time ago, a small village stood at the entrance to a green valley. The people there were farmers, not soldiers. They had hardly any weapons — only a few old swords and some bows and arrows for hunting.
+
+    One autumn, a messenger arrived with terrible news. An enemy army was coming. Its chief intended to take the valley and all its farms. The villagers were at a great disadvantage: there were only fifty of them, and the enemy had five hundred men.
+
+    "We cannot win a battle against a military army," said the old leader of the village. "Unless we use our heads." A young woman named Elena stepped forward. She was the best archer in the valley, brave and steady. "Trust me," she said. "I have a plan."
+
+    That night, the villagers cut down trees and put huge logs across the narrow road into the valley. Then they hid in the hills. When the enemy soldiers came in the morning, they could not move forward. Elena and her friends shot arrows from secure places in the rocks. The soldiers did not know how many people were hiding there.
+
+    The enemy chief twisted in his saddle and looked at the hills in fear. His men refused to obey his orders and go further. At last, the army turned back. That evening, the village was full of music and laughter. People still tell the story of Elena, the archer who saved the valley without a single real battle.
+  ru: |
+    Давным-давно у входа в зелёную долину стояла маленькая деревня. Её жители были крестьянами, а не солдатами. Оружия у них почти не было — лишь несколько старых мечей да луки со стрелами для охоты.
+
+    Однажды осенью гонец принёс страшную весть. Приближалось вражеское войско. Его предводитель собирался захватить долину и все её фермы. Положение деревенских было крайне невыгодным: их было всего пятьдесят, а у врага — пятьсот воинов.
+
+    «Мы не сможем выиграть битву против настоящей армии, — сказал старый староста деревни. — Если только не пустим в ход голову». Вперёд вышла молодая женщина по имени Елена. Она была лучшим лучником в долине — храброй и твёрдой. «Доверьтесь мне, — сказала она. — У меня есть план».
+
+    Той ночью жители срубили деревья и положили огромные брёвна поперёк узкой дороги в долину. Потом спрятались в холмах. Когда утром пришли вражеские солдаты, они не смогли двинуться дальше. Елена с друзьями стреляли из луков из надёжных укрытий в скалах. Солдаты не знали, сколько людей там прячется.
+
+    Вражеский вождь крутился в седле и со страхом смотрел на холмы. Его люди отказались подчиниться приказу и идти дальше. Наконец войско повернуло назад. В тот вечер деревня была полна музыки и смеха. Люди до сих пор рассказывают историю Елены — лучницы, которая спасла долину без единой настоящей битвы.
+  questions:
+  - q: What weapons did the villagers have?
+    options:
+    - Many guns
+    - Only a few swords and bows
+    - No weapons at all
+    - Big military machines
+    answer: 1
+  - q: How many soldiers did the enemy have?
+    options:
+    - Fifty
+    - One hundred
+    - Five hundred
+    - Five thousand
+    answer: 2
+  - q: What did the villagers put across the road?
+    options:
+    - Big rocks
+    - Huge logs
+    - Water
+    - Their animals
+    answer: 1
+  - tf: Elena was the best archer in the valley.
+    answer: true
+  - tf: The two armies had a long and terrible battle.
+    answer: false

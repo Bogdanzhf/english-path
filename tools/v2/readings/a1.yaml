@@ -1,0 +1,1800 @@
+- id: a1-01
+  v1_unit: Holidays and Travel
+  title: A Week on the Coast
+  title_ru: Неделя на побережье
+  text: 'Every year in August, Tom and his family travel to a small town on the coast of Portugal. They love this month because the weather is always warm and sunny. This year, Tom''s friend Leo also came with them. Tom''s parents invited him in spring.
+
+
+    They arrived on a Saturday evening. On the first morning, they had a typical Portuguese breakfast: fresh bread, cheese and strong coffee. Then they went to the beach.
+
+
+    During the week, they did many things. They took a boat to a quiet island and watched the ducks on the lake near the hotel. Leo tried to catch fish, but he did not catch anything! Tom took a lot of photos with his new camera.
+
+
+    On Thursday, they visited Lisbon, the capital of Portugal. Tom''s parents enjoyed a glass of local wine at dinner. The boys drank orange juice, because children cannot drink alcohol.
+
+
+    At the end of the week, everyone agreed: it was the best holiday ever. Leo hopes they will invite him again next year.
+
+    '
+  ru: 'Каждый год в августе Том и его семья ездят в небольшой город на побережье Португалии. Они любят этот месяц, потому что погода всегда тёплая и солнечная. В этом году с ними поехал и друг Тома Лео. Родители Тома пригласили его ещё весной.
+
+
+    Они приехали в субботу вечером. В первое утро у них был типичный португальский завтрак: свежий хлеб, сыр и крепкий кофе. Потом они пошли на пляж.
+
+
+    За неделю они много чего успели. Они сплавали на лодке на тихий остров и наблюдали за утками на озере возле отеля. Лео пытался поймать рыбу, но ничего не поймал! Том сделал много фотографий новым фотоаппаратом.
+
+
+    В четверг они побывали в Лиссабоне, столице Португалии. Родители Тома за ужином с удовольствием выпили по бокалу местного вина. Мальчики пили апельсиновый сок, потому что детям нельзя алкоголь.
+
+
+    В конце недели все согласились: это был лучший отпуск в жизни. Лео надеется, что в следующем году его пригласят снова.
+
+    '
+  questions:
+  - q: When does Tom's family travel to Portugal?
+    options:
+    - In July
+    - In August
+    - In spring
+    - Every month
+    answer: 1
+  - q: Who invited Leo?
+    options:
+    - Tom
+    - Tom's parents
+    - Leo's parents
+    - Nobody
+    answer: 1
+  - q: What did they do on Thursday?
+    options:
+    - They took a boat to an island
+    - They went fishing
+    - They visited the capital
+    - They went home
+    answer: 2
+  - tf: Leo caught a lot of fish.
+    answer: false
+  - tf: The boys drank wine at dinner.
+    answer: false
+- id: a1-02
+  v1_unit: Science and Secrets
+  title: The Secret Laboratory
+  title_ru: Секретная лаборатория
+  text: 'Professor Green worked alone in a small laboratory at the end of a quiet street. Children in the town told stories about him. "He is an evil scientist," they said. "He creates monsters!"
+
+
+    One evening, two friends, Mia and Sam, decided to have an adventure. They wanted to learn the professor''s secret. They approached the laboratory carefully. Mia was nervous, but Sam was brave.
+
+
+    Suddenly, they heard a loud noise. Then they smelled something terrible, like old eggs. "Let''s go home," said Mia. "This is getting worse!"
+
+
+    At that moment, the door opened. Professor Green looked at them and smiled. "Don''t be scared," he said. "I''m doing an experiment. I am mixing chemicals to create a new medicine. It kills bad bacteria."
+
+
+    Mia and Sam laughed. The professor was not evil at all! He showed them his project, and they stayed for an hour. When they left, the professor shouted, "Come back any time!" Now they visit him every week.
+
+    '
+  ru: 'Профессор Грин работал один в маленькой лаборатории в конце тихой улицы. Дети в городе рассказывали о нём истории. «Он злой учёный, — говорили они. — Он создаёт чудовищ!»
+
+
+    Однажды вечером двое друзей, Мия и Сэм, решили устроить приключение. Они хотели узнать секрет профессора. Они осторожно приблизились к лаборатории. Мия нервничала, а Сэм был смелым.
+
+
+    Вдруг они услышали громкий шум. Потом почувствовали ужасный запах — как от тухлых яиц. «Пойдём домой, — сказала Мия. — Становится всё хуже!»
+
+
+    В этот момент дверь открылась. Профессор Грин посмотрел на них и улыбнулся. «Не бойтесь, — сказал он. — Я провожу опыт. Я смешиваю химические вещества, чтобы создать новое лекарство. Оно убивает вредные бактерии».
+
+
+    Мия и Сэм рассмеялись. Профессор вовсе не был злым! Он показал им свой проект, и они пробыли у него час. Когда они уходили, профессор крикнул: «Заходите в любое время!» Теперь они навещают его каждую неделю.
+
+    '
+  questions:
+  - q: What did the children in the town think about the professor?
+    options:
+    - He was a good doctor
+    - He was an evil scientist
+    - He was a teacher
+    - He was very old
+    answer: 1
+  - q: How did Mia feel when they approached the laboratory?
+    options:
+    - Happy
+    - Bored
+    - Nervous
+    - Angry
+    answer: 2
+  - q: What was the professor creating?
+    options:
+    - A monster
+    - A new medicine
+    - A robot
+    - A secret door
+    answer: 1
+  - tf: The smell in the street was very nice.
+    answer: false
+  - tf: Mia and Sam visit the professor every week now.
+    answer: true
+- id: a1-03
+  v1_unit: School and Space
+  title: The Space Report
+  title_ru: Доклад о космосе
+  text: 'Lily had a big problem. Her teacher asked every student to write a report about a planet, and Lily did not understand space at all. "If I fail, I will get a bad grade," she thought.
+
+
+    After school, she went to the library instead of going home. Among the books, she found several about the planets. One book had a chart with the size and shape of every planet. Another had beautiful photographs of Saturn and its rings.
+
+
+    Lily read for hours. Suddenly, she looked out of the window. There was a strange cloud in the sky. It was round and very bright. "Is that an alien ship?" she asked herself. "I suppose not. It''s probably just the sun behind a cloud."
+
+
+    That night, Lily started her report about Mars. She described its red colour, its tall mountains and its cold weather. She also wrote about the view of Earth from Mars: a small blue star.
+
+
+    A week later, the teacher gave her an A. "Have you ever thought about becoming a scientist?" he asked. Lily smiled. She solved her problem, and now she loves space.
+
+    '
+  ru: 'У Лили была большая проблема. Учитель попросил каждого ученика написать доклад о какой-нибудь планете, а Лили совсем не разбиралась в космосе. «Если я не справлюсь, получу плохую оценку», — думала она.
+
+
+    После школы она пошла не домой, а в библиотеку. Среди книг она нашла несколько о планетах. В одной книге была таблица с размером и формой каждой планеты. В другой — красивые фотографии Сатурна и его колец.
+
+
+    Лили читала несколько часов. Вдруг она выглянула в окно. В небе было странное облако. Оно было круглым и очень ярким. «Это корабль инопланетян?» — спросила она себя. «Полагаю, что нет. Скорее всего, это просто солнце за облаком».
+
+
+    В тот вечер Лили начала доклад о Марсе. Она описала его красный цвет, высокие горы и холодную погоду. Ещё она написала о том, как Земля выглядит с Марса: маленькая голубая звезда.
+
+
+    Через неделю учитель поставил ей «отлично». «Ты когда-нибудь думала стать учёным?» — спросил он. Лили улыбнулась. Она решила свою проблему, и теперь она обожает космос.
+
+    '
+  questions:
+  - q: Why was Lily worried?
+    options:
+    - She lost her book
+    - She did not understand space
+    - She was late for school
+    - She did not like her teacher
+    answer: 1
+  - q: What did Lily find in one of the books?
+    options:
+    - A chart of the planets
+    - A letter from an alien
+    - A map of the town
+    - A photograph of her teacher
+    answer: 0
+  - q: Which planet did Lily write about?
+    options:
+    - Saturn
+    - Earth
+    - Mars
+    - Venus
+    answer: 2
+  - tf: Lily saw a real alien ship.
+    answer: false
+  - tf: Lily got a good grade for her report.
+    answer: true
+- id: a1-04
+  v1_unit: Good Habits
+  title: Grandpa's Habits
+  title_ru: Привычки дедушки
+  text: 'Every summer, Max stays with his grandfather in a small village near the mountains. Grandpa is eighty years old, but he is very healthy and active. Max frequently asks him, "What is your secret?"
+
+
+    "It''s simple," Grandpa says. "Good habits." He gets up early, and every morning he strolls around the village for an hour. He avoids fast food and eats lots of vegetables. In the evening, he reads instead of watching TV.
+
+
+    Grandpa is also very patient and calm. When Max behaves badly, he never shouts or punishes him. Instead, he explains the issue and instructs him how to do things better. "Getting angry does not solve problems," he says.
+
+
+    The people in the village love him. When they have a concern, they come to his house. Last year, they chose him to represent the village at a meeting in the city.
+
+
+    Max does not expect to live like Grandpa, but he wants to try. Now he has a few new habits too. "None of them are hard," he says with a positive smile. "And I feel content and happy."
+
+    '
+  ru: 'Каждое лето Макс гостит у дедушки в маленькой деревне у гор. Дедушке восемьдесят лет, но он очень здоровый и активный. Макс часто спрашивает его: «В чём твой секрет?»
+
+
+    «Всё просто, — говорит дедушка. — Хорошие привычки». Он рано встаёт и каждое утро час гуляет по деревне. Он избегает фастфуда и ест много овощей. Вечером он читает, а не смотрит телевизор.
+
+
+    Ещё дедушка очень терпеливый и спокойный. Когда Макс плохо себя ведёт, он никогда не кричит и не наказывает его. Вместо этого он объясняет, в чём дело, и учит, как сделать лучше. «Злость проблем не решает», — говорит он.
+
+
+    Жители деревни его любят. Когда их что-то беспокоит, они приходят к нему домой. В прошлом году они выбрали его представлять деревню на собрании в городе.
+
+
+    Макс не рассчитывает жить так же, как дедушка, но хочет попробовать. Теперь у него тоже есть несколько новых привычек. «Ни одна из них не трудная, — говорит он с позитивной улыбкой. — И я чувствую себя довольным и счастливым».
+
+    '
+  questions:
+  - q: What does Grandpa do every morning?
+    options:
+    - He watches TV
+    - He walks around the village
+    - He goes to the city
+    - He sleeps late
+    answer: 1
+  - q: What does Grandpa do when Max behaves badly?
+    options:
+    - He shouts
+    - He punishes him
+    - He explains the problem calmly
+    - He calls Max's parents
+    answer: 2
+  - q: Why do people in the village come to Grandpa's house?
+    options:
+    - To buy vegetables
+    - To watch TV
+    - When they have a concern
+    - To learn English
+    answer: 2
+  - tf: Grandpa is eighty years old.
+    answer: true
+  - tf: Max thinks that his new habits are very hard.
+    answer: false
+- id: a1-05
+  v1_unit: Sport and Health
+  title: Dr. Brown's Advice
+  title_ru: Совет доктора Брауна
+  text: 'Mr. Hill was forty-five years old. He worked in an office and sat at a computer all day. He did not often move, and his weight increased every year. One day, he felt a pain in his chest and went to see a doctor.
+
+
+    Dr. Brown listened to his heart. "Your heart is fine," she said. "But your life is not very active. At your age, it is important to move every day. Choose a sport that is fun for you."
+
+
+    Mr. Hill thought about it. Football was too fast for him, and golf was too slow. During his school years, he loved riding a bike. So he bought a new bike and started riding to work. It was only five kilometers.
+
+
+    At first, it was hard. His legs hurt, and his balance was bad. But he did not stop. After three months, he felt like a new man. He had plenty of energy and he slept well.
+
+
+    Now Mr. Hill is fifty, and he rides with his son every weekend. "Exercise is not only for young people," he tells other adults. "It''s never too late to start."
+
+    '
+  ru: 'Мистеру Хиллу было сорок пять лет. Он работал в офисе и весь день сидел за компьютером. Двигался он нечасто, и его вес рос с каждым годом. Однажды он почувствовал боль в груди и пошёл к врачу.
+
+
+    Доктор Браун послушала его сердце. «С сердцем всё в порядке, — сказала она. — Но ваша жизнь не очень активна. В вашем возрасте важно двигаться каждый день. Выберите спорт, который вам по душе».
+
+
+    Мистер Хилл задумался. Футбол был для него слишком быстрым, а гольф — слишком медленным. В школьные годы он обожал кататься на велосипеде. И вот он купил новый велосипед и начал ездить на нём на работу. Это было всего пять километров.
+
+
+    Сначала было тяжело. Ноги болели, а равновесие держалось плохо. Но он не сдавался. Через три месяца он почувствовал себя другим человеком. Энергии было полно, и спал он хорошо.
+
+
+    Сейчас мистеру Хиллу пятьдесят, и каждые выходные он катается вместе с сыном. «Спорт — не только для молодых, — говорит он другим взрослым. — Начать никогда не поздно».
+
+    '
+  questions:
+  - q: Why did Mr. Hill go to the doctor?
+    options:
+    - He broke his leg
+    - He felt a pain in his chest
+    - He wanted a new job
+    - His son was ill
+    answer: 1
+  - q: What did the doctor tell him to do?
+    options:
+    - Stop working
+    - Eat more
+    - Choose a sport he enjoys
+    - Play golf
+    answer: 2
+  - q: How far did Mr. Hill ride to work?
+    options:
+    - Two kilometers
+    - Five kilometers
+    - Ten kilometers
+    - Fifty kilometers
+    answer: 1
+  - tf: Mr. Hill's heart was in bad condition.
+    answer: false
+  - tf: Now he rides a bike with his son.
+    answer: true
+- id: a1-06
+  v1_unit: Languages and Customs
+  title: Twins in Two Countries
+  title_ru: Близнецы в двух странах
+  text: 'Ana and Sofia are twins. When they were babies, they looked completely the same, like a girl and her mirror. But when they were ten, their family moved, and the girls grew up apart. Ana stayed with their grandmother in Spain, and Sofia moved with their parents to a city on the Gulf of Mexico.
+
+
+    Nowadays, both sisters are twenty years old. Sofia is bilingual. Her spoken English is natural and fast, and she loves fashionable clothes. Ana speaks only a little English. She studies sport at university and is a participant in many races.
+
+
+    Last summer, Ana visited Sofia for the first time in many years. At the airport, she felt tense. Her memories of her sister were vague. But when Sofia dashed towards her, Ana was surprised: they still had the same smile!
+
+
+    Everything in the foreign city was new for Ana. Some things she liked, but some she looked at with disgust, like the huge plates of fried food. The sisters also had different rituals: Ana always had a long lunch, but Sofia ate a sandwich at her desk.
+
+
+    "We are totally different," said Sofia on the last day. "But our most important attribute is the same. We love each other."
+
+    '
+  ru: 'Ана и София — близнецы. Когда они были малышками, они выглядели совершенно одинаково, как девочка и её отражение в зеркале. Но когда им было десять, семья переехала, и девочки выросли вдали друг от друга. Ана осталась с бабушкой в Испании, а София с родителями переехала в город на берегу Мексиканского залива.
+
+
+    Сейчас обеим сёстрам по двадцать лет. София двуязычная. По-английски она говорит естественно и быстро, а ещё она любит модную одежду. Ана говорит по-английски совсем немного. Она изучает спорт в университете и участвует во многих забегах.
+
+
+    Прошлым летом Ана впервые за много лет приехала к Софии. В аэропорту она нервничала. Воспоминания о сестре были смутными. Но когда София бросилась к ней, Ана удивилась: улыбка у них всё ещё была одинаковая!
+
+
+    Всё в чужом городе было для Аны новым. Кое-что ей нравилось, а на кое-что она смотрела с отвращением — например, на огромные тарелки жареной еды. А ещё у сестёр были разные ритуалы: Ана всегда долго обедала, а София ела бутерброд за рабочим столом.
+
+
+    «Мы совершенно разные, — сказала София в последний день. — Но самое главное качество у нас общее. Мы любим друг друга».
+
+    '
+  questions:
+  - q: Where did Sofia grow up?
+    options:
+    - In Spain
+    - In a city on the Gulf of Mexico
+    - In a small village
+    - In England
+    answer: 1
+  - q: What does Ana study?
+    options:
+    - Languages
+    - Fashion
+    - Sport
+    - Cooking
+    answer: 2
+  - q: What did Ana notice at the airport?
+    options:
+    - Sofia had the same smile
+    - Sofia looked tired
+    - Sofia was late
+    - Sofia did not speak Spanish
+    answer: 0
+  - tf: Ana speaks English very well.
+    answer: false
+  - tf: The sisters have different eating habits.
+    answer: true
+- id: a1-07
+  v1_unit: Kings and Kingdoms
+  title: The Wise Prince
+  title_ru: Мудрый принц
+  text: 'Long ago, a famous king ruled a large country. When he became old, he wanted to divide his kingdom between his two sons. But the princes were very different. The older prince believed in force. The younger prince believed in peace.
+
+
+    One day, the king announced a challenge. "Our neighbours claim that the land beside the river is theirs," he said. "Find a way to protect it. The winner will get the whole kingdom."
+
+
+    The older prince called his soldiers. "We will fight," he said. But the younger prince sensed that a war would bring only harm. He asked experts for advice, and then he went to the neighbouring king alone.
+
+
+    "Why should our people suffer?" he asked. "Let''s share the river. Your farmers and our farmers can use the water together. In return, you will contribute part of your harvest." The neighbouring king agreed, on one condition: there must be no soldiers near the river.
+
+
+    When the young prince came home, he laid the agreement in front of his father. The king smiled. "You won without a single fight," he said. "Therefore, the kingdom is yours." There was no sudden war, and the two countries lived in peace for a hundred years.
+
+    '
+  ru: 'Давным-давно знаменитый король правил большой страной. Когда он состарился, он захотел разделить королевство между двумя сыновьями. Но принцы были очень разными. Старший верил в силу. Младший верил в мир.
+
+
+    Однажды король объявил испытание. «Соседи утверждают, что земля у реки принадлежит им, — сказал он. — Найдите способ её защитить. Победитель получит всё королевство».
+
+
+    Старший принц созвал солдат. «Мы будем сражаться», — сказал он. Но младший принц чувствовал, что война принесёт только вред. Он спросил совета у знатоков, а потом один поехал к соседнему королю.
+
+
+    «Зачем страдать нашим народам? — спросил он. — Давайте делить реку. Ваши и наши крестьяне смогут пользоваться водой вместе. А взамен вы будете отдавать часть урожая». Соседний король согласился с одним условием: у реки не должно быть солдат.
+
+
+    Вернувшись домой, младший принц положил договор перед отцом. Король улыбнулся. «Ты победил без единого сражения, — сказал он. — Поэтому королевство твоё». Внезапной войны не случилось, и две страны жили в мире сто лет.
+
+    '
+  questions:
+  - q: What did the older prince believe in?
+    options:
+    - Peace
+    - Force
+    - Books
+    - Money
+    answer: 1
+  - q: What did the neighbours claim?
+    options:
+    - The river land was theirs
+    - The king was ill
+    - They wanted peace
+    - The prince was evil
+    answer: 0
+  - q: What was the neighbouring king's condition?
+    options:
+    - More money
+    - No soldiers near the river
+    - A new castle
+    - The prince must stay with him
+    answer: 1
+  - tf: The younger prince went to the neighbouring king with an army.
+    answer: false
+  - tf: The two countries lived in peace for a long time.
+    answer: true
+- id: a1-08
+  v1_unit: Plans and Ideas
+  title: Why the Stars Shine
+  title_ru: Откуда взялись звёзды
+  text: 'This is an old story that people in a small village tell their children. It is not a scientific theory, but it explains a familiar pattern in the sky.
+
+
+    Long ago, the Sun and the Moon lived together in a huge house in the sky. The Sun was bright and loud. The Moon was quiet and calm. There was a big contrast between them, but they were good friends.
+
+
+    One day, the Sun proposed a game. "Let''s run around the Earth," he said. "I will chase you." The Moon accepted. But the Sun ran too fast and almost grabbed the Moon''s silver dress. The Moon was scared and tried to escape. Her dress tore, and small pieces of silver fell into the sky. These pieces became the stars.
+
+
+    The other gods arranged a meeting. "It is necessary to stop this game," they said. "The Earth requires both day and night." So they made a rule: the Sun would hang in the sky during the day, and the Moon would come out only at night.
+
+
+    The gods released the Sun and the Moon from their house, and each of them got a single purpose. The Sun gives light and warmth. The Moon watches over sleeping people. Everyone was satisfied. But sometimes, during an eclipse, the old friends still meet for a moment.
+
+    '
+  ru: 'Эту старую историю жители одной маленькой деревни рассказывают своим детям. Это не научная теория, но она объясняет знакомую всем закономерность на небе.
+
+
+    Давным-давно Солнце и Луна жили вместе в огромном доме на небе. Солнце было ярким и шумным. Луна — тихой и спокойной. Они были очень разными, но крепко дружили.
+
+
+    Однажды Солнце предложило игру. «Давай бегать вокруг Земли, — сказало оно. — Я буду тебя догонять». Луна согласилась. Но Солнце бежало слишком быстро и чуть не схватило Луну за серебряное платье. Луна испугалась и бросилась убегать. Платье порвалось, и маленькие кусочки серебра упали в небо. Они стали звёздами.
+
+
+    Другие боги устроили совет. «Эту игру необходимо прекратить, — сказали они. — Земле нужны и день, и ночь». И они установили правило: днём на небе будет висеть Солнце, а Луна будет выходить только ночью.
+
+
+    Боги отпустили Солнце и Луну из их дома, и у каждого появилась своя единственная цель. Солнце даёт свет и тепло. Луна охраняет спящих людей. Все остались довольны. Но иногда, во время затмения, старые друзья всё-таки встречаются на мгновение.
+
+    '
+  questions:
+  - q: Where did the Sun and the Moon live at first?
+    options:
+    - On the Earth
+    - In a huge house in the sky
+    - In a small village
+    - In the sea
+    answer: 1
+  - q: How were the stars made in the story?
+    options:
+    - From the Sun's fire
+    - From pieces of the Moon's dress
+    - From the gods' tears
+    - From clouds
+    answer: 1
+  - q: What rule did the gods make?
+    options:
+    - The Sun and the Moon must play every day
+    - The Sun shines in the day and the Moon at night
+    - The Moon must live on the Earth
+    - Nobody can look at the Sun
+    answer: 1
+  - tf: The story is a scientific theory.
+    answer: false
+  - tf: The Moon was quiet and calm.
+    answer: true
+- id: a1-09
+  v1_unit: Animals and Helpers
+  title: Max and His Eyes
+  title_ru: Макс и его глаза
+  text: 'Paul is twenty-eight years old, and he cannot see. He lost his sight after an accident when he was a child. But Paul lives a normal life. He has a job, he takes the bus to work, and he meets his friends on Fridays. He can do all this because of Max.
+
+
+    Max is a service dog. He is a big, calm animal with soft brown fur. For two years, Max went to a special school for dogs. There, he learned many commands. He knows how to stop at the road, how to find a door and how to help Paul get on and off the bus.
+
+
+    Paul depends on Max every day. When they walk in the street, Max gently pulls Paul to the left or to the right. When Paul hears a strange noise, Max is calm, so Paul is calm too.
+
+
+    Not all service animals are dogs. Some hospitals use horses, cats and even rabbits to help ill people feel better. Children who are afraid of medical tests often relax when they touch a friendly animal.
+
+
+    "People think that I help Max," Paul says with a smile. "They open doors for us and give him water. But really, Max helps me. He is my eyes, my legs and my best friend."
+
+    '
+  ru: 'Полу двадцать восемь лет, и он не видит. Он потерял зрение после несчастного случая в детстве. Но Пол живёт обычной жизнью. У него есть работа, он ездит туда на автобусе, а по пятницам встречается с друзьями. Всё это он может благодаря Максу.
+
+
+    Макс — собака-помощник. Это крупное спокойное животное с мягкой коричневой шерстью. Два года Макс учился в специальной школе для собак. Там он выучил много команд. Он умеет останавливаться у дороги, находить дверь и помогать Полу заходить в автобус и выходить из него.
+
+
+    Пол каждый день полагается на Макса. Когда они идут по улице, Макс мягко тянет Пола влево или вправо. Когда Пол слышит странный шум, Макс спокоен — и Пол тоже успокаивается.
+
+
+    Не все животные-помощники — собаки. В некоторых больницах лошади, кошки и даже кролики помогают больным людям почувствовать себя лучше. Дети, которые боятся медицинских обследований, часто расслабляются, когда гладят дружелюбное животное.
+
+
+    «Люди думают, что это я помогаю Максу, — говорит Пол с улыбкой. — Они открывают нам двери и дают ему воду. Но на самом деле это Макс помогает мне. Он мои глаза, мои ноги и мой лучший друг».
+
+    '
+  questions:
+  - q: How does Paul go to work?
+    options:
+    - By car
+    - By bus
+    - On foot
+    - By bike
+    answer: 1
+  - q: Where did Max learn his commands?
+    options:
+    - At home
+    - In a hospital
+    - At a special school for dogs
+    - From Paul
+    answer: 2
+  - q: Which animals help ill people in some hospitals?
+    options:
+    - Only dogs
+    - Horses, cats and rabbits
+    - Birds and fish
+    - No animals
+    answer: 1
+  - tf: Paul was born without sight.
+    answer: false
+  - tf: Paul thinks that Max is his best friend.
+    answer: true
+- id: a1-10
+  v1_unit: On the Farm
+  title: Rex Gets a Chance
+  title_ru: У Рекса появился шанс
+  text: 'Rex was a young dog who lived on a big farm, far from the city. His primary function was to guard the sheep. But Rex had a problem: he could not focus. He chased birds, played with his tail and rested on the grass in the sun. The farmer was not proud of him.
+
+
+    The old dog on the farm, Bess, often said, "Our job is essential. The sheep depend on us." But Rex did not listen.
+
+
+    One night, a terrible storm came. The wind was so strong that it broke the fence, and the sheep ran away into the dark. The farmer was certain that he would lose them all. Bess was old and tired, so she had to remain at the house. This was Rex''s chance.
+
+
+    Rex ran into the storm without any immediate plan. He found the sheep in a separate field near an old building site. He barked and ran around them until they walked back home together. It took him all night.
+
+
+    In the morning, the farmer counted the sheep. Not a single one was missing! "No more trouble from you," he laughed, and he gave Rex a big piece of meat. The storm had a strange effect on Rex: from that day, he was the best guard on the farm. The image of the brave young dog in the storm stayed in the farmer''s mind forever.
+
+    '
+  ru: 'Рекс был молодым псом, который жил на большой ферме далеко от города. Его главной задачей было охранять овец. Но у Рекса была проблема: он не мог сосредоточиться. Он гонялся за птицами, играл со своим хвостом и отдыхал на траве под солнцем. Фермер им не гордился.
+
+
+    Старая собака с фермы, Бесс, часто говорила: «Наша работа очень важна. Овцы зависят от нас». Но Рекс не слушал.
+
+
+    Однажды ночью разразилась страшная буря. Ветер был таким сильным, что сломал забор, и овцы разбежались в темноте. Фермер был уверен, что потеряет их всех. Бесс была старой и уставшей, поэтому ей пришлось остаться у дома. Это был шанс Рекса.
+
+
+    Рекс бросился в бурю без всякого плана. Он нашёл овец на отдельном поле возле старой стройки. Он лаял и бегал вокруг них, пока они все вместе не пошли домой. На это ушла вся ночь.
+
+
+    Утром фермер пересчитал овец. Не пропала ни одна! «Больше никаких неприятностей от тебя», — засмеялся он и дал Рексу большой кусок мяса. Буря странно подействовала на Рекса: с того дня он стал лучшим сторожем на ферме. А образ храброго молодого пса в бурю навсегда остался в памяти фермера.
+
+    '
+  questions:
+  - q: What was Rex's job on the farm?
+    options:
+    - To catch birds
+    - To guard the sheep
+    - To help the farmer cook
+    - To find water
+    answer: 1
+  - q: Why did the sheep run away?
+    options:
+    - Rex scared them
+    - The storm broke the fence
+    - A wolf came
+    - The farmer opened the gate
+    answer: 1
+  - q: Why did Bess stay at the house?
+    options:
+    - She was afraid
+    - She was old and tired
+    - She was eating
+    - She did not like sheep
+    answer: 1
+  - tf: Rex lost two sheep in the storm.
+    answer: false
+  - tf: After the storm, Rex became a good guard.
+    answer: true
+- id: a1-11
+  v1_unit: A Clean Planet
+  title: The Street Cleaners
+  title_ru: Уборщики улиц
+  text: 'Leo lives in a big city. Every day on his way to school, he walks down the same street. A year ago, he noticed a problem: the street was very dirty. There were plastic bottles, broken glass and old batteries everywhere.
+
+
+    "Why don''t people think about nature?" he asked his history teacher, Ms. Lane. "Many people are simply not aware of the problem," she said. "And companies advertise new things every day, so we buy more and throw away more."
+
+
+    Leo decided to do something. He told his friends a few facts: plastic stays in nature for hundreds of years, and one old battery can make a lot of water dirty. His friends were surprised. Together, they decided to clean the street every Saturday morning.
+
+
+    At first, only five children came. People in the street laughed at them. But eventually, the parents joined, and then the neighbours. They put black bags for rubbish and boxes for glass and batteries on every corner.
+
+
+    Today, the street is clean, and the group has developed into a club with sixty members. The city even gave them an electric car to carry the bags. "I never thought one small idea could change so much," says Leo. "Maybe one day we can clean the whole country!"
+
+    '
+  ru: 'Лео живёт в большом городе. Каждый день по дороге в школу он ходит по одной и той же улице. Год назад он заметил проблему: улица была очень грязной. Повсюду валялись пластиковые бутылки, битое стекло и старые батарейки.
+
+
+    «Почему люди не думают о природе?» — спросил он учительницу истории, мисс Лейн. «Многие просто не знают об этой проблеме, — ответила она. — А компании каждый день рекламируют новые вещи, поэтому мы покупаем больше и больше выбрасываем».
+
+
+    Лео решил что-то сделать. Он рассказал друзьям несколько фактов: пластик остаётся в природе сотни лет, а одна старая батарейка может загрязнить много воды. Друзья удивились. Вместе они решили каждое субботнее утро убирать улицу.
+
+
+    Сначала пришли только пятеро детей. Люди на улице над ними смеялись. Но в конце концов присоединились родители, а затем и соседи. На каждом углу они поставили чёрные мешки для мусора и ящики для стекла и батареек.
+
+
+    Сегодня улица чистая, а группа выросла в клуб из шестидесяти человек. Город даже дал им электромобиль, чтобы возить мешки. «Я никогда не думал, что одна маленькая идея может так много изменить, — говорит Лео. — Может быть, однажды мы очистим всю страну!»
+
+    '
+  questions:
+  - q: What problem did Leo notice?
+    options:
+    - The street was dirty
+    - The school was closed
+    - The bus was late
+    - The city was too loud
+    answer: 0
+  - q: What did Ms. Lane say about many people?
+    options:
+    - They are lazy
+    - They are not aware of the problem
+    - They love nature
+    - They never buy plastic
+    answer: 1
+  - q: What did the city give the club?
+    options:
+    - Money
+    - An electric car
+    - A new street
+    - Black bags
+    answer: 1
+  - tf: At first, a lot of people joined Leo's group.
+    answer: false
+  - tf: Plastic stays in nature for a very long time.
+    answer: true
+- id: a1-12
+  v1_unit: Art and Home
+  title: The Artist Upstairs
+  title_ru: Художник сверху
+  text: 'When Kate moved to a new apartment, she was happy at first. But soon she noticed a problem. Her neighbor upstairs made a lot of noise every night. The walls were thin, and she heard music, hammers and strange songs until two in the morning.
+
+
+    The other neighbors told her about him. "He''s an artist," they said. "He lives alone and never talks to anyone. He has a terrible attitude." Kate decided to go and speak to him.
+
+
+    She walked up the stairs and knocked. A thin old man opened the door. Behind him, Kate saw a huge room full of strange objects. He used old materials — glass, metal, wood and plastic — to create beautiful sculptures. Each one was a symbol of something: love, hope or peace.
+
+
+    Kate forgot about the noise. "These are amazing," she said. The artist smiled for the first time. He told her about his method. He worked at night because the quiet helped him focus. He never sold his work for profit. "Art is not about money," he said.
+
+
+    A month later, Kate wrote an article about him for a local magazine. People came to see his work, and many compared it with the work of famous professional artists. Now the artist works during the day, and every Sunday he and Kate share a meal and talk about beauty. "Don''t judge people too quickly," Kate tells her friends.
+
+    '
+  ru: 'Когда Кейт переехала в новую квартиру, сначала она была счастлива. Но вскоре заметила проблему. Сосед сверху каждую ночь сильно шумел. Стены были тонкими, и до двух часов ночи она слышала музыку, стук молотка и странные песни.
+
+
+    Другие соседи рассказали ей о нём. «Он художник, — говорили они. — Живёт один и ни с кем не разговаривает. Характер у него ужасный». Кейт решила подняться и поговорить с ним.
+
+
+    Она поднялась по лестнице и постучала. Дверь открыл худой старик. За его спиной Кейт увидела огромную комнату, полную странных предметов. Он использовал старые материалы — стекло, металл, дерево и пластик, — чтобы создавать прекрасные скульптуры. Каждая была символом чего-то: любви, надежды или мира.
+
+
+    Кейт забыла о шуме. «Это потрясающе», — сказала она. Художник впервые улыбнулся. Он рассказал ей о своём методе. Он работал по ночам, потому что тишина помогала ему сосредоточиться. Он никогда не продавал свои работы ради прибыли. «Искусство — это не про деньги», — сказал он.
+
+
+    Через месяц Кейт написала о нём статью для местного журнала. Люди приходили посмотреть на его работы, и многие сравнивали их с работами известных профессиональных художников. Теперь художник работает днём, а каждое воскресенье они с Кейт вместе обедают и говорят о красоте. «Не судите людей слишком быстро», — говорит Кейт друзьям.
+
+    '
+  questions:
+  - q: What was Kate's problem in her new apartment?
+    options:
+    - It was too small
+    - Her neighbor was noisy
+    - It was very cold
+    - The stairs were broken
+    answer: 1
+  - q: What materials did the artist use?
+    options:
+    - Only paper
+    - Old glass, metal, wood and plastic
+    - Expensive gold
+    - Only paint
+    answer: 1
+  - q: Why did the artist work at night?
+    options:
+    - He slept during the day
+    - The quiet helped him focus
+    - He had another job
+    - He liked loud music
+    answer: 1
+  - tf: The artist sold his work for a lot of money.
+    answer: false
+  - tf: Kate wrote an article about the artist.
+    answer: true
+- id: a1-13
+  v1_unit: Money and Work
+  title: Anna's Café
+  title_ru: Кафе Анны
+  text: 'For eight years, Anna worked in accounting for a big company downtown. Her salary was good, and the job was practical, but it was dull. Every day, she paid the bus fare, sat at a computer, worked with numbers and went home tired.
+
+
+    Anna''s real dream was to found her own café. Cooking had always appealed to her. When she was a student, she got a scholarship to a cooking school in Paris, but she didn''t go. Her parents urged her to choose a "safe" job instead.
+
+
+    One day, Anna''s former teacher from the cooking school came to her office as a client. They talked for an hour. "You have a treasure," the teacher said. "Your talent. Don''t waste it."
+
+
+    That night, Anna made a decision. She left her job, borrowed some money from her brother and got a loan from the bank. She invested everything in a small café near her home. At first, she assumed she would fail. In the first quarter of the year, the café made almost no money, and she felt embarrassed when friends asked about it.
+
+
+    But slowly, people discovered her food. Now there is a line outside the door every morning. "My office job was only temporary," Anna laughs. "This is my real life."
+
+    '
+  ru: 'Восемь лет Анна работала в бухгалтерии крупной компании в центре города. Зарплата была хорошей, работа — практичной, но скучной. Каждый день она платила за автобус, сидела за компьютером, работала с цифрами и возвращалась домой уставшей.
+
+
+    Настоящей мечтой Анны было открыть своё кафе. Готовка всегда привлекала её. Когда она была студенткой, она получила стипендию в кулинарную школу в Париже, но не поехала. Родители уговорили её выбрать «надёжную» профессию.
+
+
+    Однажды бывший преподаватель Анны из кулинарной школы пришёл к ней в офис как клиент. Они проговорили целый час. «У тебя есть сокровище, — сказал учитель. — Твой талант. Не трать его зря».
+
+
+    В тот вечер Анна приняла решение. Она ушла с работы, заняла немного денег у брата и взяла кредит в банке. Всё это она вложила в маленькое кафе рядом с домом. Сначала она думала, что у неё ничего не выйдет. В первом квартале кафе почти не приносило денег, и ей было неловко, когда друзья спрашивали, как дела.
+
+
+    Но постепенно люди распробовали её еду. Теперь каждое утро у дверей стоит очередь. «Моя офисная работа была лишь временной, — смеётся Анна. — А это моя настоящая жизнь».
+
+    '
+  questions:
+  - q: Where did Anna work for eight years?
+    options:
+    - In a café
+    - In accounting for a big company
+    - In a cooking school
+    - In a bank
+    answer: 1
+  - q: Who came to Anna's office as a client?
+    options:
+    - Her brother
+    - Her former teacher
+    - Her parents
+    - A famous cook
+    answer: 1
+  - q: How did Anna get money for the café?
+    options:
+    - She found treasure
+    - She borrowed from her brother and got a loan
+    - She won a prize
+    - Her parents gave it to her
+    answer: 1
+  - tf: The café was very successful in the first quarter.
+    answer: false
+  - tf: Anna did not go to the cooking school in Paris.
+    answer: true
+- id: a1-14
+  v1_unit: Books and Writers
+  title: Emma's Novel
+  title_ru: Роман Эммы
+  text: 'Emma was sixteen, and she had two dreams. Her coach wanted her to become a professional runner, but Emma wanted to be a writer. Every night, she wrote stories on sheets of paper and hid them under her bed.
+
+
+    Her parents thought writing was silly. "You have an exam next month," her mother said. "Focus on your studies." Emma suffered. She couldn''t control her feelings, so she wrote even more.
+
+
+    One evening, she found a strange old book in a local store. Inside, there was no story — only an outline: "A girl finds a magical door in a library." Emma read it and immediately saw the first scene in her mind. She went home and started her first novel.
+
+
+    For three months, she wrote every day. She used technology to help her: she typed on her computer and printed every chapter. She also read famous poets to learn how to choose beautiful words. Her descriptions of the library and the magical door became better and better.
+
+
+    When the novel was finished, Emma sent it by mail to a publisher. There was no limit to her hope. Six weeks later, a letter came. It was a direct answer: "We love your book. We want to publish it." Emma''s mother cried. "You were right," she said. "This is the best example of following your dream."
+
+    '
+  ru: 'Эмме было шестнадцать, и у неё было две мечты. Тренер хотел, чтобы она стала профессиональной бегуньей, а Эмма хотела быть писательницей. Каждый вечер она писала рассказы на листах бумаги и прятала их под кроватью.
+
+
+    Родители считали писательство глупостью. «Через месяц у тебя экзамен, — говорила мама. — Сосредоточься на учёбе». Эмма страдала. Она не могла справиться со своими чувствами, поэтому писала ещё больше.
+
+
+    Однажды вечером она нашла в местном магазине странную старую книгу. Внутри не было истории — только план: «Девочка находит волшебную дверь в библиотеке». Эмма прочитала его и сразу увидела в воображении первую сцену. Она пришла домой и начала свой первый роман.
+
+
+    Три месяца она писала каждый день. Ей помогала техника: она печатала на компьютере и распечатывала каждую главу. А ещё она читала знаменитых поэтов, чтобы научиться выбирать красивые слова. Её описания библиотеки и волшебной двери становились всё лучше.
+
+
+    Когда роман был закончен, Эмма отправила его по почте в издательство. Её надежде не было предела. Через шесть недель пришло письмо. Ответ был прямым: «Нам очень понравилась ваша книга. Мы хотим её издать». Мама Эммы плакала. «Ты была права, — сказала она. — Это лучший пример того, как надо следовать мечте».
+
+    '
+  questions:
+  - q: What did Emma's coach want?
+    options:
+    - Emma to become a writer
+    - Emma to become a professional runner
+    - Emma to study maths
+    - Emma to work in a store
+    answer: 1
+  - q: What did Emma find in the old book?
+    options:
+    - A full story
+    - An outline of a story
+    - A letter from a poet
+    - Money
+    answer: 1
+  - q: How did Emma send her novel to the publisher?
+    options:
+    - By email
+    - By mail
+    - She took it herself
+    - Her coach sent it
+    answer: 1
+  - tf: Emma's parents liked her writing from the start.
+    answer: false
+  - tf: The publisher wanted to publish Emma's book.
+    answer: true
+- id: a1-15
+  v1_unit: Races and Risks
+  title: Across the Lake
+  title_ru: Через озеро
+  text: 'Every summer, the small town of Lakeside has a swimming race. The swimmers go across the lake, a length of three kilometers. The winner gets a prize of a thousand dollars and a silver cup. The race excites everyone in town.
+
+
+    This year, fifteen-year-old Nina decided to take part. Her friends wondered if it was a good idea. "You''re too young," they said. "There''s a big risk. The water is extremely cold." Nina had a fear of deep water, but she saw the race as an opportunity to fight that fear.
+
+
+    For two months, she trained every day. She learned to breathe correctly and to consume enough food for energy. Her coach observed her and corrected every mistake. "Your best characteristic is that you never stop," he said.
+
+
+    On the day of the race, something happened that nobody expected. In the middle of the lake, an older swimmer suddenly stopped. He was in trouble. Nina realized that he needed help. She responded immediately: she swam to him and held him until the boat arrived.
+
+
+    Nina did not win the race — she finished last. But the town gave her a special prize for courage. "I''m fortunate," she said. "I didn''t win yet, but I lost my fear. That is better than any cup."
+
+    '
+  ru: 'Каждое лето в маленьком городке Лейксайд проходит заплыв. Пловцы переплывают озеро — это три километра. Победитель получает приз в тысячу долларов и серебряный кубок. Заплыв волнует весь город.
+
+
+    В этом году пятнадцатилетняя Нина решила участвовать. Друзья сомневались, что это хорошая идея. «Ты слишком юная, — говорили они. — Это большой риск. Вода ужасно холодная». Нина боялась глубокой воды, но увидела в заплыве возможность побороть этот страх.
+
+
+    Два месяца она тренировалась каждый день. Она научилась правильно дышать и есть достаточно, чтобы хватало сил. Тренер наблюдал за ней и исправлял каждую ошибку. «Твоя лучшая черта в том, что ты никогда не останавливаешься», — говорил он.
+
+
+    В день заплыва случилось то, чего никто не ожидал. Посреди озера пловец постарше вдруг остановился. Он попал в беду. Нина поняла, что ему нужна помощь. Она отреагировала мгновенно: подплыла к нему и держала его, пока не подошла лодка.
+
+
+    Нина не выиграла заплыв — она приплыла последней. Но город вручил ей особый приз за смелость. «Мне повезло, — сказала она. — Я пока не победила, но я победила свой страх. Это лучше любого кубка».
+
+    '
+  questions:
+  - q: How long is the swimming race?
+    options:
+    - One kilometer
+    - Three kilometers
+    - Ten kilometers
+    - Fifty meters
+    answer: 1
+  - q: Why did Nina want to take part?
+    options:
+    - To win money
+    - To fight her fear of deep water
+    - Her coach made her
+    - Her friends asked her
+    answer: 1
+  - q: What happened in the middle of the lake?
+    options:
+    - Nina stopped
+    - An older swimmer got into trouble
+    - The boat broke
+    - It started to rain
+    answer: 1
+  - tf: Nina won the race.
+    answer: false
+  - tf: Nina got a special prize for courage.
+    answer: true
+- id: a1-16
+  v1_unit: Family Holidays
+  title: New Year Far from Home
+  title_ru: Новый год вдали от дома
+  text: 'Ivan is from Russia, but this year he studies art at a university in London. In December, he felt very sad. For the first time in his life, he could not be at home with his family for New Year.
+
+
+    In Russia, New Year is the biggest holiday of the year. Families decorate a green tree, wear their best clothes and have a big dinner together. At midnight, everyone makes a wish, and then people exchange presents. The holidays last until the seventh of January, when there is another celebration — Christmas.
+
+
+    Ivan''s friends at the university wanted to help him. There were students from seven different countries in his group. They decided to start a new tradition: an international New Year dinner. Everyone cooked a dish from their home country. Ivan made a big salad with red beetroot.
+
+
+    The students booked a room in the university and invited people from the local community. More than forty people came. They told stories about holidays in their countries and played music. At midnight, they all made wishes together, the Russian way.
+
+
+    When the party ended, Ivan called his family. "I miss you," he said. "But I''m not alone. I have a second family here."
+
+    '
+  ru: 'Иван из России, но в этом году он изучает искусство в университете в Лондоне. В декабре ему стало очень грустно. Впервые в жизни он не мог встретить Новый год дома с семьёй.
+
+
+    В России Новый год — главный праздник года. Семьи наряжают зелёную ёлку, надевают лучшую одежду и устраивают большой ужин вместе. В полночь все загадывают желание, а потом обмениваются подарками. Праздники длятся до седьмого января, когда наступает ещё один праздник — Рождество.
+
+
+    Друзья Ивана по университету захотели ему помочь. В его группе учились студенты из семи разных стран. Они решили начать новую традицию — международный новогодний ужин. Каждый приготовил блюдо своей страны. Иван сделал большой салат с красной свёклой.
+
+
+    Студенты забронировали зал в университете и пригласили людей из местного сообщества. Пришло больше сорока человек. Они рассказывали о праздниках в своих странах и играли музыку. В полночь все вместе загадали желания — по-русски.
+
+
+    Когда праздник закончился, Иван позвонил семье. «Я скучаю по вам, — сказал он. — Но я не один. Здесь у меня вторая семья».
+
+    '
+  questions:
+  - q: What does Ivan study in London?
+    options:
+    - History
+    - Art
+    - Music
+    - Cooking
+    answer: 1
+  - q: When is Christmas in Russia?
+    options:
+    - On the 25th of December
+    - On the 1st of January
+    - On the 7th of January
+    - In February
+    answer: 2
+  - q: What did Ivan cook for the dinner?
+    options:
+    - A cake
+    - A salad with red beetroot
+    - Soup
+    - Chicken
+    answer: 1
+  - tf: Students from seven countries were in Ivan's group.
+    answer: true
+  - tf: Ivan felt alone at the end of the story.
+    answer: false
+- id: a1-17
+  v1_unit: Water and Seasons
+  title: The Dry Summer
+  title_ru: Засушливое лето
+  text: 'The village of Greenhill is on a hill above a small river. Usually the river flows fast, and there is plenty of water in every season. But one summer, there was no rain for three months. The water level in the river went down every day, and soon only a few puddles were left.
+
+
+    The people of Greenhill were worried. Some wanted to leave the village. Others did not know whether to stay or go. Water was available only from one lone well in the centre of the village, and people argued about it. "It''s not fair," they said. "Some families take more than others."
+
+
+    A bright young girl named Rosa decided to help. She asked everyone to come to a meeting. "We are wasting water," she said. "We need a solution. Let''s make a plan: every family gets the same amount. Nobody gets more, and nobody else gets less."
+
+
+    The response was positive. People began to collect water from their roofs during the night, when there was a little dew. They stopped washing their cars and watering flowers. Slowly, the village beat the dry summer.
+
+
+    In September, the rain finally came. The puddles appeared again, and the river started to flow. The whole village celebrated with a big party. "Now we appreciate every drop," the people said. And Rosa''s plan did not disappear: they still use it every summer.
+
+    '
+  ru: 'Деревня Гринхилл стоит на холме над небольшой рекой. Обычно река течёт быстро, и воды хватает в любое время года. Но однажды летом три месяца не было дождя. Уровень воды в реке падал с каждым днём, и вскоре остались лишь несколько луж.
+
+
+    Жители Гринхилла забеспокоились. Некоторые хотели уехать из деревни. Другие не знали, оставаться им или уезжать. Воду можно было взять только из одного-единственного колодца в центре деревни, и люди из-за неё спорили. «Это несправедливо, — говорили они. — Некоторые семьи берут больше других».
+
+
+    Сообразительная девочка по имени Роза решила помочь. Она попросила всех прийти на собрание. «Мы тратим воду впустую, — сказала она. — Нам нужно решение. Давайте составим план: каждая семья получает одинаковое количество. Никто не получает больше, и никто не получает меньше».
+
+
+    Отклик был положительным. Люди начали по ночам собирать с крыш немного росы. Они перестали мыть машины и поливать цветы. Понемногу деревня победила засушливое лето.
+
+
+    В сентябре наконец пошёл дождь. Снова появились лужи, и река потекла. Вся деревня отпраздновала это большим праздником. «Теперь мы ценим каждую каплю», — говорили люди. А план Розы не исчез: им до сих пор пользуются каждое лето.
+
+    '
+  questions:
+  - q: Where is the village of Greenhill?
+    options:
+    - Near the sea
+    - On a hill above a river
+    - In a big city
+    - In the mountains
+    answer: 1
+  - q: Why were people arguing?
+    options:
+    - About the river fish
+    - Some families took more water than others
+    - About a party
+    - About Rosa's school
+    answer: 1
+  - q: What was Rosa's plan?
+    options:
+    - To leave the village
+    - To build a new well
+    - Every family gets the same amount of water
+    - To buy water in the city
+    answer: 2
+  - tf: The rain came back in September.
+    answer: true
+  - tf: The village stopped using Rosa's plan after the summer.
+    answer: false
+- id: a1-18
+  v1_unit: Food and Health
+  title: Grandma's Recipe Book
+  title_ru: Бабушкина книга рецептов
+  text: 'Jack loved food, but his diet was not very healthy. He always ate burgers, chips and chocolate, and he drank sweet fizzy drinks instead of water. He often felt tired, and his doctor was worried about his health.
+
+
+    One day, Jack visited his grandmother. She was eighty-five, but she was full of energy. "What do you eat, Grandma?" he asked. She smiled and showed him an old book. It contained more than a hundred recipes, all written by hand.
+
+
+    "These recipes are special," she said. "They come from my mother and her mother. The secret is simple: fresh food. Fruit, vegetables, bread that you bake yourself, a little chicken or fish." She cooked lunch for Jack: chicken soup with carrots and fresh bread. It was delicious!
+
+
+    For dessert, she made a cake without any sugar. Instead, she used bananas and apples. Jack couldn''t believe it. "This is great!" he said. "It tastes better than the cakes in a restaurant."
+
+
+    Jack asked his grandmother if he could copy the book. Now he cooks at home three times a week. He feels much better, and he has more energy. "I eat everything I like," he says. "I just eat it the way Grandma does."
+
+    '
+  ru: 'Джек любил поесть, но его рацион был не очень здоровым. Он всё время ел бургеры, чипсы и шоколад, а вместо воды пил сладкую газировку. Он часто чувствовал усталость, и врач беспокоился о его здоровье.
+
+
+    Однажды Джек приехал к бабушке. Ей было восемьдесят пять, но она была полна сил. «Бабушка, что ты ешь?» — спросил он. Она улыбнулась и показала ему старую книгу. В ней было больше сотни рецептов, все написаны от руки.
+
+
+    «Это особенные рецепты, — сказала она. — Они достались мне от мамы и бабушки. Секрет прост: свежая еда. Фрукты, овощи, хлеб, который печёшь сам, немного курицы или рыбы». Она приготовила Джеку обед: куриный суп с морковью и свежий хлеб. Было очень вкусно!
+
+
+    На десерт она испекла торт совсем без сахара. Вместо него она использовала бананы и яблоки. Джек не мог поверить. «Это здорово! — сказал он. — На вкус лучше, чем торты в ресторане».
+
+
+    Джек спросил бабушку, можно ли ему переписать книгу. Теперь он готовит дома три раза в неделю. Он чувствует себя гораздо лучше, и сил у него стало больше. «Я ем всё, что люблю, — говорит он. — Просто готовлю это так, как бабушка».
+
+    '
+  questions:
+  - q: What did Jack usually drink?
+    options:
+    - Water
+    - Sweet fizzy drinks
+    - Tea
+    - Milk
+    answer: 1
+  - q: Where did Grandma's recipes come from?
+    options:
+    - From a restaurant
+    - From the internet
+    - From her mother and grandmother
+    - From a doctor
+    answer: 2
+  - q: What did Grandma use in the cake instead of sugar?
+    options:
+    - Chocolate
+    - Bananas and apples
+    - Carrots
+    - Honey
+    answer: 1
+  - tf: Jack's grandmother was very tired and ill.
+    answer: false
+  - tf: Now Jack cooks at home three times a week.
+    answer: true
+- id: a1-19
+  v1_unit: Justice and the Sea
+  title: The Captain's Boat
+  title_ru: Лодка капитана
+  text: 'Captain Harris was eighty years old. For fifty years, he sailed international ships and explored the oceans of the world. Now he lived in a small house by the sea with his old wooden boat, the Lucky Star.
+
+
+    One day, a man from the city came to his door. "The town has a new policy," he said. "Old boats are not allowed on the beach. You have to destroy it." The captain could not believe it. The boat was like a friend to him. It had saved his life in a storm many years ago, when he broke a bone in his leg and was barely alive.
+
+
+    The captain did not want to bother anyone, but this was an injustice. His granddaughter Lisa was a lawyer. When she heard the story, she was angry. "Don''t worry, Grandpa," she said. "I''ll help you."
+
+
+    Lisa explored the town''s rules for a week. She found that the new policy did not mention boats that were part of the town''s history. And there was no doubt: the Lucky Star was the oldest boat in town.
+
+
+    At the town meeting, Lisa gave a speech. The staff of the town hall and many people listened. "This boat is not rubbish," she said. "It is our history." The meeting came to a conclusion: the boat could stay. However, the town decided to do more. Today, the Lucky Star is in a small museum, and the captain tells visitors his stories every Sunday. "I''m glad I didn''t give up," he says.
+
+    '
+  ru: 'Капитану Харрису было восемьдесят лет. Пятьдесят лет он ходил на международных судах и исследовал океаны мира. Теперь он жил в маленьком доме у моря вместе со своей старой деревянной лодкой «Счастливая звезда».
+
+
+    Однажды к нему пришёл человек из города. «В городе новые правила, — сказал он. — Старые лодки на пляже держать нельзя. Вам придётся её уничтожить». Капитан не мог поверить. Лодка была ему как друг. Много лет назад она спасла ему жизнь в шторм, когда он сломал ногу и едва остался жив.
+
+
+    Капитан не хотел никого беспокоить, но это была несправедливость. Его внучка Лиза была юристом. Услышав эту историю, она рассердилась. «Не волнуйся, дедушка, — сказала она. — Я помогу тебе».
+
+
+    Неделю Лиза изучала городские правила. Она обнаружила, что в новых правилах не упоминаются лодки, которые являются частью истории города. А сомнений не было: «Счастливая звезда» — самая старая лодка в городе.
+
+
+    На городском собрании Лиза выступила с речью. Её слушали сотрудники мэрии и много горожан. «Эта лодка — не мусор, — сказала она. — Это наша история». Собрание пришло к выводу: лодка может остаться. Однако город решил сделать больше. Сегодня «Счастливая звезда» стоит в маленьком музее, и каждое воскресенье капитан рассказывает посетителям свои истории. «Я рад, что не сдался», — говорит он.
+
+    '
+  questions:
+  - q: What did the man from the city want?
+    options:
+    - To buy the boat
+    - To destroy the boat
+    - To sail the boat
+    - To paint the boat
+    answer: 1
+  - q: Who helped the captain?
+    options:
+    - His son
+    - His neighbor
+    - His granddaughter, a lawyer
+    - A sailor
+    answer: 2
+  - q: Where is the Lucky Star now?
+    options:
+    - On the beach
+    - At sea
+    - In a small museum
+    - In the captain's garden
+    answer: 2
+  - tf: The boat once saved the captain's life.
+    answer: true
+  - tf: The town meeting decided to destroy the boat.
+    answer: false
+- id: a1-20
+  v1_unit: Goals and Opinions
+  title: The King's New Cook
+  title_ru: Новый повар короля
+  text: 'Long ago, there was a rich king who only ate meat. He regarded vegetables as food for poor people. Every day, his cooks served him huge plates of beef, chicken and pork. But the king was always tired and ill. His doctors advised him to change his diet, but he did not listen.
+
+
+    One day, a young girl named Clara came to the palace. "I want to be your cook," she said. "My goal is to make you healthy." The king laughed. "Many cooks have already tried," he said. "But I''ll give you one week."
+
+
+    Clara considered the problem carefully. She knew the king would never eat a plate of plain vegetables. So she decided to lie — just a little bit. She cooked basic vegetable dishes but made them look and smell like meat. She also added extra herbs and spices.
+
+
+    The king loved the food. Each evening, Clara also entertained him with stories about her travels. After a week, the king looked in the mirror and was surprised. The mirror reflected a healthy, happy man.
+
+
+    When Clara told him the truth, the king was not angry. "In my opinion, you have achieved something real," he said. "You are worth more than all my gold." He did not destroy her trust — he made her his chief cook. And people say that during his long life, the king never started a single war, because a healthy king is a calm king.
+
+    '
+  ru: 'Давным-давно жил богатый король, который ел только мясо. Овощи он считал пищей бедняков. Каждый день повара подавали ему огромные тарелки говядины, курицы и свинины. Но король всегда был уставшим и больным. Врачи советовали ему изменить рацион, но он их не слушал.
+
+
+    Однажды во дворец пришла девушка по имени Клара. «Я хочу стать вашим поваром, — сказала она. — Моя цель — сделать вас здоровым». Король рассмеялся. «Многие повара уже пробовали, — сказал он. — Но я дам тебе неделю».
+
+
+    Клара тщательно обдумала задачу. Она знала, что король никогда не станет есть тарелку простых овощей. Поэтому она решила солгать — совсем немного. Она готовила простые овощные блюда, но делала так, чтобы они выглядели и пахли как мясо. А ещё она добавляла побольше трав и специй.
+
+
+    Королю еда очень нравилась. А по вечерам Клара развлекала его рассказами о своих путешествиях. Через неделю король посмотрел в зеркало и удивился. Зеркало отражало здорового, счастливого человека.
+
+
+    Когда Клара рассказала ему правду, король не рассердился. «По-моему, ты добилась чего-то настоящего, — сказал он. — Ты стоишь больше, чем всё моё золото». Он не разрушил её доверие — он сделал её главным поваром. А люди говорят, что за всю свою долгую жизнь король не начал ни одной войны, потому что здоровый король — спокойный король.
+
+    '
+  questions:
+  - q: What did the king think about vegetables?
+    options:
+    - They were delicious
+    - They were food for poor people
+    - They were too expensive
+    - They were good for health
+    answer: 1
+  - q: What was Clara's goal?
+    options:
+    - To become rich
+    - To make the king healthy
+    - To marry the king
+    - To start a war
+    answer: 1
+  - q: How did Clara make the king eat vegetables?
+    options:
+    - She told him the truth
+    - She made them look and smell like meat
+    - She asked the doctors
+    - She hid them in cakes
+    answer: 1
+  - tf: The king was angry when he learned the truth.
+    answer: false
+  - tf: Clara became the king's chief cook.
+    answer: true
+- id: a1-21
+  v1_unit: Heroes at Work
+  title: The Night Nurse
+  title_ru: Ночная медсестра
+  text: 'Mark worked as a clerk in a small office. His job was easy, but he did not enjoy it. He wanted a career where he could help people. So, at the age of thirty, he decided to study to become a nurse. It took a lot of effort, but three years later, he finished his course with excellent grades.
+
+
+    Now Mark works at night in a big hospital. His job appears simple, but it is not. He looks after various patients: old people, children, people in pain and people after an operation. He often has to hurry from one room to another.
+
+
+    One night, a young man entered the hospital. He had a terrible pain in his head, but he refused to stay. "I''m fine," he said. "I just want to go home." Mark sensed that something was wrong. He asked him to wait and informed the doctor.
+
+
+    The doctor quickly located the problem: there was a small bleed in the man''s brain. Without an operation, he could die. The man stayed, and the operation was a success.
+
+
+    A week later, the young man came back to thank Mark. "You''re a hero," he said. Mark smiled. "I''m not a hero," he said, though he felt very proud. "I just listen to my patients. That''s the base of my job." Then he left to start his night shift.
+
+    '
+  ru: 'Марк работал клерком в маленьком офисе. Работа была лёгкой, но не приносила ему радости. Он хотел такую карьеру, где можно помогать людям. Поэтому в тридцать лет он решил выучиться на медбрата. Это потребовало больших усилий, но через три года он окончил курс с отличными оценками.
+
+
+    Теперь Марк работает по ночам в большой больнице. Его работа кажется простой, но это не так. Он ухаживает за самыми разными пациентами: пожилыми людьми, детьми, людьми с болями и людьми после операции. Ему часто приходится спешить из одной палаты в другую.
+
+
+    Однажды ночью в больницу вошёл молодой человек. У него ужасно болела голова, но он отказывался оставаться. «Я в порядке, — говорил он. — Я просто хочу домой». Марк почувствовал, что что-то не так. Он попросил его подождать и сообщил врачу.
+
+
+    Врач быстро нашёл причину: в мозге у мужчины было небольшое кровоизлияние. Без операции он мог умереть. Мужчина остался, и операция прошла успешно.
+
+
+    Через неделю молодой человек вернулся поблагодарить Марка. «Вы герой», — сказал он. Марк улыбнулся. «Я не герой, — сказал он, хотя и почувствовал большую гордость. — Я просто слушаю своих пациентов. Это основа моей работы». И он ушёл на ночную смену.
+
+    '
+  questions:
+  - q: What was Mark's first job?
+    options:
+    - A doctor
+    - A clerk in an office
+    - A teacher
+    - A nurse
+    answer: 1
+  - q: Why did Mark want to change his career?
+    options:
+    - He wanted more money
+    - He wanted to help people
+    - He was bored at home
+    - His parents asked him
+    answer: 1
+  - q: What did the young man want to do?
+    options:
+    - Have an operation
+    - Go home
+    - Talk to his family
+    - Become a nurse
+    answer: 1
+  - tf: Mark informed the doctor about the young man.
+    answer: true
+  - tf: The young man died after the operation.
+    answer: false
+- id: a1-22
+  v1_unit: Shops and Mysteries
+  title: The Pizza Mystery
+  title_ru: Загадка с пиццей
+  text: 'Leo earns money by delivering pizza in the evenings. He works for a small restaurant that his aunt manages. The restaurant is popular, and Leo delivers to more than thirty customers every night.
+
+
+    One week, something strange occurred. Every evening, one pizza disappeared. Leo set all the boxes on his bike, but when he arrived, one box was always empty. Customers were angry. They had to pay the delivery charge, but they didn''t receive their food. It was a real mystery.
+
+
+    Leo was worried. "Maybe someone thinks I''m the thief," he said to his aunt. She comforted him. "I know you would never steal anything," she said. "Let''s find the actual thief."
+
+
+    The next evening, Leo hid a small camera in the box. He delivered the pizzas as usual. On the way, he stopped at the gate of a big house to check his phone map. Later, they watched the video and were amazed. When Leo stopped, a big white dog came out of the gate, opened a box with its nose and took the pizza!
+
+
+    Leo contacted the owner of the dog, an old man who lived alone. He was very embarrassed and paid for all the pizzas, including the charges. As a reward for solving the mystery, Leo''s aunt gave him a free meal. And the old man? He is now one of their best customers — he orders two pizzas: one for him and one for his dog.
+
+    '
+  ru: 'Лео зарабатывает по вечерам, доставляя пиццу. Он работает в маленьком ресторане, которым управляет его тётя. Ресторан популярный, и каждый вечер Лео развозит заказы более чем тридцати клиентам.
+
+
+    Однажды на неделе случилось что-то странное. Каждый вечер пропадала одна пицца. Лео ставил все коробки на велосипед, но, когда он приезжал, одна коробка всегда оказывалась пустой. Клиенты злились. Им приходилось платить за доставку, а еду они не получали. Это была настоящая загадка.
+
+
+    Лео переживал. «Может, кто-то думает, что вор — я», — сказал он тёте. Она его успокоила. «Я знаю, что ты никогда ничего не украдёшь, — сказала она. — Давай найдём настоящего вора».
+
+
+    На следующий вечер Лео спрятал в коробке маленькую камеру. Он развозил пиццу, как обычно. По дороге он остановился у ворот большого дома, чтобы посмотреть карту в телефоне. Позже они посмотрели видео и изумились. Когда Лео остановился, из ворот вышла большая белая собака, открыла носом коробку и утащила пиццу!
+
+
+    Лео связался с хозяином собаки — пожилым мужчиной, который жил один. Тому стало очень неловко, и он заплатил за все пиццы, включая плату за доставку. В награду за разгаданную загадку тётя угостила Лео бесплатным ужином. А пожилой мужчина? Теперь он один из их лучших клиентов — заказывает две пиццы: одну себе, а другую своей собаке.
+
+    '
+  questions:
+  - q: Who manages the restaurant?
+    options:
+    - Leo
+    - Leo's aunt
+    - An old man
+    - Leo's mother
+    answer: 1
+  - q: What was the problem?
+    options:
+    - Leo's bike was stolen
+    - One pizza disappeared every evening
+    - Customers didn't pay
+    - The restaurant closed
+    answer: 1
+  - q: Who was the thief?
+    options:
+    - A customer
+    - Leo's friend
+    - A big white dog
+    - A cat
+    answer: 2
+  - tf: Leo's aunt thought that Leo stole the pizzas.
+    answer: false
+  - tf: The old man now orders two pizzas.
+    answer: true
+- id: a1-23
+  v1_unit: Teams and Training
+  title: The Water Polo Team
+  title_ru: Команда по водному поло
+  text: 'Daniel was an average student and an average athlete. He was not very fast or very strong. But he had one great quality: he loved to swim. When he was fifteen, he became a member of his school''s water polo team.
+
+
+    At first, Daniel was always behind the others. In every match, he sat on the bench. Some players laughed at him. But the coach, Mrs. Ortiz, saw something special in his personality. "You never give up," she said. "That''s half of the game."
+
+
+    The coach paid attention not only to the body but also to mental strength. Before each match, she asked the team to sit quietly, lower their heads and listen to the sound of their breathing. She even read them a short poem about courage.
+
+
+    The season was difficult, but the team advanced to the final. During the last match, two players got hurt, and the coach had to remove them from the pool for their safety. She looked at the bench. "Daniel, your turn," she said.
+
+
+    There were only thirty seconds left. Daniel swam as fast as he could, caught the ball and shot. Goal! The team won. On the bus home, every passenger was singing. After that day, Daniel''s behavior changed — he was more confident in everything. He still keeps a photo of the team on his wall, and he often reads the coach''s poem before important exams.
+
+    '
+  ru: 'Дэниел был средним учеником и средним спортсменом. Он не был ни особенно быстрым, ни особенно сильным. Но у него было одно замечательное качество: он обожал плавать. В пятнадцать лет он стал членом школьной команды по водному поло.
+
+
+    Сначала Дэниел всегда отставал от остальных. На каждом матче он сидел на скамейке. Некоторые игроки над ним смеялись. Но тренер, миссис Ортис, увидела в его характере что-то особенное. «Ты никогда не сдаёшься, — сказала она. — Это половина игры».
+
+
+    Тренер уделяла внимание не только телу, но и силе духа. Перед каждым матчем она просила команду посидеть в тишине, опустить головы и послушать звук своего дыхания. Она даже читала им короткое стихотворение о смелости.
+
+
+    Сезон был трудным, но команда вышла в финал. Во время последнего матча два игрока получили травмы, и тренеру пришлось вывести их из бассейна ради их безопасности. Она посмотрела на скамейку. «Дэниел, твоя очередь», — сказала она.
+
+
+    Оставалось всего тридцать секунд. Дэниел поплыл так быстро, как только мог, поймал мяч и бросил. Гол! Команда победила. В автобусе по дороге домой пели все пассажиры. После того дня поведение Дэниела изменилось — он стал увереннее во всём. Он до сих пор хранит на стене фото команды и часто перечитывает стихотворение тренера перед важными экзаменами.
+
+    '
+  questions:
+  - q: What was Daniel's great quality?
+    options:
+    - He was very fast
+    - He loved to swim and never gave up
+    - He was very strong
+    - He was the best student
+    answer: 1
+  - q: What did the coach do before each match?
+    options:
+    - She shouted at the team
+    - She asked the team to sit quietly
+    - She gave them chocolate
+    - She played loud music
+    answer: 1
+  - q: Why did the coach remove two players?
+    options:
+    - They played badly
+    - They got hurt
+    - They were late
+    - They broke the rules
+    answer: 1
+  - tf: Daniel scored the winning goal.
+    answer: true
+  - tf: Daniel played in every match from the start of the season.
+    answer: false
+- id: a1-24
+  v1_unit: Friends on Stage
+  title: The Last Concert
+  title_ru: Последний концерт
+  text: 'Alex and Ben became friends on their first day at school. They lived in the same block, and they both loved music. When they were fourteen, they started a band. Alex sang and Ben played the guitar. For four years, their friendship was the most important thing in their lives.
+
+
+    In their last term at school, the boys planned a big event: a public concert in the town park. There was a lot of pressure. They practised every day after school, and Ben even wrote a complex new song.
+
+
+    Two weeks before the concert, they had a terrible argument. Alex wanted to perform a famous song, but Ben wanted to play only their own music. They stopped talking. It was like a part of their friendship was buried.
+
+
+    Their music teacher, Ms. Wood, was their guide. "A band is like a family," she said. "You need each other. Probably, you''re both right." She was smart. She suggested that they play both kinds of songs. Slowly, the boys started talking again.
+
+
+    On the night of the concert, it started to rain, and lightning struck a tree near the park. But nobody left. Hundreds of people cheered and supported them. Even a local music critic wrote that the concert united the whole town. After the last song, Alex said into the microphone, "Thank you, Ben. Wherever life takes us, in whatever direction, we''ll always be friends."
+
+    '
+  ru: 'Алекс и Бен подружились в первый же день в школе. Они жили в одном квартале, и оба любили музыку. В четырнадцать лет они создали группу. Алекс пел, а Бен играл на гитаре. Четыре года их дружба была самым важным в их жизни.
+
+
+    В последнем семестре мальчики задумали большое событие — открытый концерт в городском парке. Давление было огромным. Они репетировали каждый день после школы, а Бен даже написал новую сложную песню.
+
+
+    За две недели до концерта они ужасно поссорились. Алекс хотел исполнить известную песню, а Бен — играть только свою музыку. Они перестали разговаривать. Казалось, что часть их дружбы похоронена.
+
+
+    Их учительница музыки, мисс Вуд, была для них наставником. «Группа — это как семья, — сказала она. — Вы нужны друг другу. Наверное, вы оба правы». Она была мудрой. Она предложила сыграть песни обоих видов. Понемногу мальчики снова начали разговаривать.
+
+
+    В вечер концерта пошёл дождь, а молния ударила в дерево рядом с парком. Но никто не ушёл. Сотни людей кричали и поддерживали их. Даже местный музыкальный критик написал, что концерт объединил весь город. После последней песни Алекс сказал в микрофон: «Спасибо, Бен. Куда бы ни повела нас жизнь, в каком бы направлении, мы всегда будем друзьями».
+
+    '
+  questions:
+  - q: What did Alex and Ben do in the band?
+    options:
+    - Both sang
+    - Alex sang and Ben played the guitar
+    - Both played the guitar
+    - Ben sang and Alex played the drums
+    answer: 1
+  - q: Why did the boys argue?
+    options:
+    - About money
+    - About which songs to play
+    - About a girl
+    - About school
+    answer: 1
+  - q: What did Ms. Wood suggest?
+    options:
+    - To stop the band
+    - To play both kinds of songs
+    - To cancel the concert
+    - To find a new singer
+    answer: 1
+  - tf: People left the park when it started to rain.
+    answer: false
+  - tf: A music critic wrote about the concert.
+    answer: true
+- id: a1-25
+  v1_unit: Town and Environment
+  title: The Factory and the River
+  title_ru: Фабрика и река
+  text: 'Riverton is a small town populated by about five thousand people. Its main feature is a wide, beautiful river. For a long period, people associated the town with fishing. Every summer, they organized a fishing festival. It was the town''s oldest tradition.
+
+
+    Twenty years ago, a company built a factory near the river. The factory produced a wide range of plastic products. It gave many people jobs, and at first everyone was happy. But slowly, the river changed. People stopped recognizing it. The water became dark, and there was trash everywhere. There were fewer fish, and some children got sick and needed medicine.
+
+
+    A local teacher, Ms. Park, decided to act. She involved her students in a project. Every week, they took regular water tests and wrote down the results. They found clear signs that the factory was putting chemicals into the river.
+
+
+    The students made a report and showed it at a town meeting. For instance, they showed photos of dead fish and the dirty water. The factory managers were embarrassed. In the end, they agreed to change: they built a special system to clean the water.
+
+
+    Today, the river is clean again. Last summer, the fishing festival came back. Ms. Park has a tip for everyone: "Never think that you are too small to change something. Even a class of children can protect the environment."
+
+    '
+  ru: 'Ривертон — маленький город с населением около пяти тысяч человек. Его главная особенность — широкая красивая река. Долгое время город ассоциировался у людей с рыбалкой. Каждое лето здесь устраивали рыболовный фестиваль. Это была самая старая традиция города.
+
+
+    Двадцать лет назад одна компания построила у реки фабрику. Фабрика производила широкий ассортимент пластиковых изделий. Она дала многим людям работу, и поначалу все были довольны. Но постепенно река изменилась. Люди перестали её узнавать. Вода потемнела, повсюду появился мусор. Рыбы стало меньше, а некоторые дети заболели, и им понадобились лекарства.
+
+
+    Местная учительница, мисс Парк, решила действовать. Она привлекла к проекту своих учеников. Каждую неделю они регулярно брали пробы воды и записывали результаты. Они нашли явные признаки того, что фабрика сбрасывает в реку химикаты.
+
+
+    Ученики подготовили доклад и показали его на городском собрании. Например, они показали фотографии мёртвой рыбы и грязной воды. Руководителям фабрики стало стыдно. В конце концов они согласились измениться: построили специальную систему очистки воды.
+
+
+    Сегодня река снова чистая. Прошлым летом вернулся и рыболовный фестиваль. У мисс Парк есть совет для всех: «Никогда не думайте, что вы слишком малы, чтобы что-то изменить. Даже класс школьников может защитить окружающую среду».
+
+    '
+  questions:
+  - q: What was the town's oldest tradition?
+    options:
+    - A music festival
+    - A fishing festival
+    - A boat race
+    - A food market
+    answer: 1
+  - q: What did the factory produce?
+    options:
+    - Cars
+    - Medicine
+    - Plastic products
+    - Fish
+    answer: 2
+  - q: What did Ms. Park's students do every week?
+    options:
+    - Cleaned the factory
+    - Took water tests
+    - Went fishing
+    - Wrote letters to the government
+    answer: 1
+  - tf: The factory managers refused to change anything.
+    answer: false
+  - tf: The river is clean again today.
+    answer: true
+- id: a1-26
+  v1_unit: Mountains and Advice
+  title: The Donkey Who Knew the Way
+  title_ru: Ослик, который знал дорогу
+  text: 'Tom and his sister Amy loved the mountains. Last summer, they decided to climb Eagle Peak, a mountain situated about fifty kilometers from their town. It was a difficult climb, and their father gave them some advice: "Hire a donkey to carry your bags. Otherwise, you''ll be too tired."
+
+
+    At the bottom of the mountain, an old man rented them a donkey called Pepe. "Pepe knows the way," the old man said. "Pay attention to him." Tom laughed. "A donkey can''t know more than our map," he said.
+
+
+    They walked along a narrow path for three hours. Then the path divided. The map showed the left path, but Pepe stopped and refused to go further. He started walking to the right. "Silly donkey," Tom said. But neither of them could make Pepe go left.
+
+
+    Finally, Amy suggested a compromise: "Let''s follow Pepe for ten minutes." They did, and soon they saw why Pepe had reacted so strangely. Part of the left path had dropped into the valley after heavy rain. It was very dangerous!
+
+
+    They reached the top in the evening. The view was amazing. On their way home, they thanked the old man. "Pepe proved that you can''t judge someone by how they look," Amy said. Tom agreed. He did not want to imply that the map was useless, but now he knew that experience is sometimes more important than any standard rule. The next morning they rode their bikes home, tired but happy.
+
+    '
+  ru: 'Том и его сестра Эми обожали горы. Прошлым летом они решили подняться на Орлиный пик — гору примерно в пятидесяти километрах от их города. Подъём был трудным, и папа дал им совет: «Возьмите ослика, чтобы он нёс сумки. Иначе слишком устанете».
+
+
+    У подножия горы пожилой мужчина дал им напрокат ослика по имени Пепе. «Пепе знает дорогу, — сказал старик. — Прислушивайтесь к нему». Том рассмеялся. «Осёл не может знать больше, чем наша карта», — сказал он.
+
+
+    Три часа они шли по узкой тропе. Потом тропа разделилась. Карта показывала левую тропу, но Пепе остановился и отказался идти дальше. Он пошёл направо. «Глупый ослик», — сказал Том. Но ни один из них не смог заставить Пепе свернуть налево.
+
+
+    Наконец Эми предложила компромисс: «Давай десять минут пойдём за Пепе». Так они и сделали и вскоре поняли, почему Пепе повёл себя так странно. Часть левой тропы обрушилась в долину после сильного дождя. Там было очень опасно!
+
+
+    На вершину они поднялись к вечеру. Вид был потрясающий. По дороге домой они поблагодарили старика. «Пепе доказал, что нельзя судить о ком-то по внешности», — сказала Эми. Том согласился. Он не хотел сказать, что карта бесполезна, но теперь знал: опыт иногда важнее любого стандартного правила. На следующее утро они поехали домой на велосипедах — уставшие, но счастливые.
+
+    '
+  questions:
+  - q: What advice did their father give them?
+    options:
+    - Don't go to the mountains
+    - Hire a donkey to carry the bags
+    - Take a taxi
+    - Buy a new map
+    answer: 1
+  - q: What did Pepe do when the path divided?
+    options:
+    - He went left
+    - He went right
+    - He went home
+    - He sat down and slept
+    answer: 1
+  - q: Why was the left path dangerous?
+    options:
+    - There were wolves
+    - Part of it had fallen into the valley
+    - It was too long
+    - It was closed by the police
+    answer: 1
+  - tf: Tom trusted the donkey from the start.
+    answer: false
+  - tf: They reached the top of the mountain.
+    answer: true
+- id: a1-27
+  v1_unit: Journeys and Puzzles
+  title: Lost in the Desert
+  title_ru: Потерявшиеся в пустыне
+  text: 'Mia and her brother Leo went on a trip to Morocco. They spent a week on the coast, and then they decided to take a tour into the desert. They imagined a romantic journey on camels under the stars. But the reality was rather different.
+
+
+    On the second day, the group stopped near some rocks. Mia and Leo walked away to take photos. When they came back, the group was gone! The guide thought they were already in the jeep. They were alone in the desert.
+
+
+    At first, they were quite calm. But after a few hours, hunger and the heat became a real problem. Leo had a small bite on his arm — a spider in the rocks. Mia examined it carefully. "It''s not dangerous," she said, though she was not completely sure.
+
+
+    They had to figure out which way to go. It was like a big puzzle. Then Mia remembered a specific fact from a book: in the evening, the sun goes down in the west, and the town was west of the rocks. It was a simple but effective idea. They walked towards the sunset.
+
+
+    After two hours, they saw the lights of the town. The guide was very sorry. As a gift, he gave them a free trip the next week. "It''s a deal," Leo laughed, "but this time, we won''t leave the group!" Actually, Mia now says it was the best day of the whole holiday. The story that they almost died is false — but they still like to tell it that way.
+
+    '
+  ru: 'Мия и её брат Лео поехали в Марокко. Неделю они провели на побережье, а потом решили съездить на экскурсию в пустыню. Они представляли себе романтическое путешествие на верблюдах под звёздами. Но в реальности всё оказалось довольно иначе.
+
+
+    На второй день группа остановилась у каких-то скал. Мия и Лео отошли, чтобы сделать фотографии. Когда они вернулись, группы уже не было! Гид думал, что они уже в джипе. Они остались в пустыне одни.
+
+
+    Сначала они были вполне спокойны. Но через несколько часов голод и жара стали настоящей проблемой. На руке у Лео был небольшой укус — паук в скалах. Мия внимательно его осмотрела. «Это не опасно», — сказала она, хотя совсем не была уверена.
+
+
+    Им нужно было понять, куда идти. Это была будто большая головоломка. И тут Мия вспомнила один конкретный факт из книги: вечером солнце садится на западе, а город был к западу от скал. Идея была простой, но действенной. Они пошли навстречу закату.
+
+
+    Через два часа они увидели огни города. Гид очень извинялся. В подарок он предложил им бесплатную поездку на следующей неделе. «Договорились, — засмеялся Лео, — но на этот раз мы от группы не отойдём!» На самом деле Мия теперь говорит, что это был лучший день за весь отпуск. История о том, что они чуть не погибли, — неправда, но им всё равно нравится рассказывать её именно так.
+
+    '
+  questions:
+  - q: Where did Mia and Leo spend their first week?
+    options:
+    - In the desert
+    - On the coast
+    - In the mountains
+    - In a big city
+    answer: 1
+  - q: Why were they alone in the desert?
+    options:
+    - They wanted to be alone
+    - The group left without them
+    - Their jeep broke
+    - They got lost at night
+    answer: 1
+  - q: How did they find the way to the town?
+    options:
+    - They used a phone
+    - They walked towards the sunset
+    - A camel showed them
+    - They followed a road
+    answer: 1
+  - tf: Leo had a spider bite on his arm.
+    answer: true
+  - tf: Mia thinks it was the worst day of the holiday.
+    answer: false
+- id: a1-28
+  v1_unit: Music and Plans
+  title: The Show Must Go On
+  title_ru: Шоу должно продолжаться
+  text: 'Sara and her friends had a small band. They played in Sara''s garage, and her neighbors often complained about the noise. But this Saturday was special: the band had their first real concert at the town festival.
+
+
+    For weeks, the band followed a strict schedule. They practised every evening. Sara made a list of songs, and everyone shared the work. Her professor at the music school helped them with the most difficult parts.
+
+
+    On Friday, the weather forecast predicted a big storm. On Saturday morning, Sara received a message: "Because of the storm, the festival is cancelled." The band was very sad. "All that work, and now nothing," said the drummer.
+
+
+    Then Sara noticed something. The sky was dark, but the rain was not as bad as the forecast predicted. "We own our instruments," she said. "We don''t need a big stage. Let''s play right here in my driveway!" They sent messages to all their friends. Within an hour, more than fifty people came.
+
+
+    The concert was not boring at all. The band played in the rain, and people danced under umbrellas. Sara could barely hear her own voice because everyone was singing so loudly. "It was magic," she said later. The next day, they had to clean a lot of garbage from the driveway — but nobody minded. They rushed to plan the next concert.
+
+    '
+  ru: 'У Сары и её друзей была небольшая группа. Они играли в гараже у Сары, и соседи часто жаловались на шум. Но эта суббота была особенной: у группы был первый настоящий концерт на городском фестивале.
+
+
+    Несколько недель группа жила по строгому графику. Они репетировали каждый вечер. Сара составила список песен, и все поделили работу. Её профессор в музыкальной школе помог им с самыми трудными местами.
+
+
+    В пятницу прогноз погоды предсказал сильную бурю. В субботу утром Сара получила сообщение: «Из-за бури фестиваль отменён». Группа очень расстроилась. «Столько работы — и всё зря», — сказал барабанщик.
+
+
+    И тут Сара кое-что заметила. Небо было тёмным, но дождь был не таким сильным, как обещал прогноз. «Инструменты у нас свои, — сказала она. — Нам не нужна большая сцена. Давайте сыграем прямо здесь, у меня на подъездной дорожке!» Они разослали сообщения всем друзьям. Меньше чем через час пришло больше пятидесяти человек.
+
+
+    Концерт оказался совсем не скучным. Группа играла под дождём, а люди танцевали под зонтами. Сара едва слышала собственный голос — так громко все подпевали. «Это было волшебство», — сказала она потом. На следующий день пришлось убирать с дорожки кучу мусора — но никто не возражал. Они уже спешили планировать следующий концерт.
+
+    '
+  questions:
+  - q: Where did the band usually practise?
+    options:
+    - At school
+    - In Sara's garage
+    - In a theatre
+    - In the park
+    answer: 1
+  - q: Why was the festival cancelled?
+    options:
+    - Nobody bought tickets
+    - Because of the storm
+    - The singer was ill
+    - The stage broke
+    answer: 1
+  - q: Where did the band play in the end?
+    options:
+    - On a big stage
+    - In Sara's driveway
+    - At the festival
+    - At the music school
+    answer: 1
+  - tf: More than fifty people came to the concert.
+    answer: true
+  - tf: The band decided to stop playing after the concert.
+    answer: false
+- id: a1-29
+  v1_unit: Crafts and Business
+  title: The Glassmaker's Choice
+  title_ru: Выбор стеклодува
+  text: 'For forty years, Mr. Rossi crafted glass in his small workshop. His vases and cups were fragile and beautiful, and people came from far away to buy them. But Mr. Rossi was getting old. His son, Marco, was sociable and talkative, the opposite of his quiet father, and he had different ideas.
+
+
+    One day, a big company asked for a meeting. They wanted to merge with Mr. Rossi''s workshop. "We will produce your glass in our factory," the manager said. "Faster and cheaper." The payment was huge — half a million euros.
+
+
+    Marco was excited, but his father felt a shiver of fear. "Glass made by machines has no soul," he said. For Mr. Rossi, the workshop was not a burden but his whole life. Marco''s perception was different: "Father, we can''t speed up our work by hand. This money is our future."
+
+
+    They argued for weeks. At last, they decided to settle it with a compromise. The company could produce simple cups in the factory, but the most special pieces would remain handmade in the workshop. Marco would lead the business, and his father would teach young glassmakers.
+
+
+    The result overwhelmed both of them. The business grew at a moderate, healthy speed, and the old workshop became famous. "It''s not the usual way to do business," Marco says. "But Father taught me something: you can grow without losing your heart." And sometimes, when he watches his father work, Marco feels the same innocence he felt as a child, when he first saw hot glass turn into art.
+
+    '
+  ru: 'Сорок лет мистер Росси создавал изделия из стекла в своей маленькой мастерской. Его вазы и чашки были хрупкими и красивыми, и люди приезжали издалека, чтобы купить их. Но мистер Росси старел. Его сын Марко был общительным и разговорчивым — полной противоположностью тихого отца, и у него были другие идеи.
+
+
+    Однажды крупная компания попросила о встрече. Они хотели объединиться с мастерской мистера Росси. «Мы будем производить ваше стекло на нашей фабрике, — сказал менеджер. — Быстрее и дешевле». Сумма была огромной — полмиллиона евро.
+
+
+    Марко был в восторге, а отец почувствовал дрожь страха. «У стекла, сделанного машинами, нет души», — сказал он. Для мистера Росси мастерская была не бременем, а всей жизнью. Марко смотрел на это иначе: «Отец, мы не сможем работать быстрее вручную. Эти деньги — наше будущее».
+
+
+    Они спорили неделями. Наконец они решили уладить дело компромиссом. Компания могла выпускать на фабрике простые чашки, но самые особенные изделия по-прежнему делались бы вручную в мастерской. Марко должен был руководить бизнесом, а отец — учить молодых стеклодувов.
+
+
+    Результат превзошёл ожидания обоих. Бизнес рос умеренно и надёжно, а старая мастерская прославилась. «Это не обычный способ вести дела, — говорит Марко. — Но отец научил меня кое-чему: можно расти, не теряя души». А иногда, глядя, как работает отец, Марко чувствует ту же детскую наивность, что и в детстве, когда впервые увидел, как горячее стекло превращается в искусство.
+
+    '
+  questions:
+  - q: What was Marco like?
+    options:
+    - Quiet and shy
+    - Sociable and talkative
+    - Angry and rude
+    - Old and tired
+    answer: 1
+  - q: What did the big company want?
+    options:
+    - To buy the building
+    - To merge with the workshop
+    - To close the workshop
+    - To hire Marco
+    answer: 1
+  - q: What was the compromise?
+    options:
+    - Everything made by machines
+    - Simple cups in the factory, special pieces by hand
+    - They closed the workshop
+    - Mr. Rossi kept all the money
+    answer: 1
+  - tf: Mr. Rossi thought that machine-made glass has no soul.
+    answer: true
+  - tf: The business grew too fast and failed.
+    answer: false
+- id: a1-30
+  v1_unit: Truth and Evidence
+  title: The Missing Ring
+  title_ru: Пропавшее кольцо
+  text: 'Mrs. Lee owned a small jewellery shop in the center of town. One morning, she discovered that a gold ring was missing. It cost more than three thousand dollars. The only other person in the shop the day before was her new assistant, a young man called Tom.
+
+
+    Mrs. Lee called the police. "There''s no evidence," said the detective, a master of his job. "But he''s the only one who was inside the shop. It''s common for thieves to work in shops." Tom was shocked. He was honest, independent and proud. "I didn''t take anything," he said. "My belief in honesty is everything to me."
+
+
+    The detective asked them to demonstrate what happened the day before. Tom showed how he cleaned the glass cases and helped a customer. Then the detective looked up. Above the window, there was a small hole and a bird''s nest.
+
+
+    The detective smiled. "There''s an old idiom," he said. "Don''t count your chickens before they hatch. I think we were too quick." He climbed a ladder and looked inside the nest. There was the ring! A magpie — a bird that loves shiny things — took it through the open window.
+
+
+    Mrs. Lee was very embarrassed. "I''m sorry, Tom," she said. "You''re not going to jail — you''re going to get a raise." Tom forgave her, but he kept one memory from that day: he now checks the window and every pocket of his coat before he goes home. And the ring? It was soon for sale again — at the proper price.
+
+    '
+  ru: 'Миссис Ли владела небольшим ювелирным магазином в центре города. Однажды утром она обнаружила, что пропало золотое кольцо. Оно стоило больше трёх тысяч долларов. Единственным, кроме неё, человеком в магазине накануне был её новый помощник — молодой человек по имени Том.
+
+
+    Миссис Ли вызвала полицию. «Доказательств нет, — сказал детектив, мастер своего дела. — Но он единственный, кто был внутри магазина. Воры часто работают в магазинах». Том был потрясён. Он был честным, самостоятельным и гордым. «Я ничего не брал, — сказал он. — Честность для меня — всё».
+
+
+    Детектив попросил их показать, что происходило накануне. Том показал, как протирал стеклянные витрины и помогал покупателю. Тут детектив поднял глаза. Над окном была маленькая дыра и птичье гнездо.
+
+
+    Детектив улыбнулся. «Есть старая идиома, — сказал он. — Цыплят по осени считают. Думаю, мы поспешили с выводами». Он поднялся по лестнице и заглянул в гнездо. Там лежало кольцо! Его утащила через открытое окно сорока — птица, которая любит блестящие вещи.
+
+
+    Миссис Ли было очень стыдно. «Прости меня, Том, — сказала она. — Ты не отправишься в тюрьму — ты получишь прибавку к зарплате». Том её простил, но одно воспоминание о том дне осталось: теперь перед уходом домой он проверяет окно и все карманы пальто. А кольцо? Вскоре оно снова продавалось — по правильной цене.
+
+    '
+  questions:
+  - q: What was missing from the shop?
+    options:
+    - Money
+    - A gold ring
+    - A watch
+    - A bird
+    answer: 1
+  - q: Why did the detective think Tom could be the thief?
+    options:
+    - He had a ring in his pocket
+    - He was the only other person in the shop
+    - He ran away
+    - A customer saw him
+    answer: 1
+  - q: Who really took the ring?
+    options:
+    - A customer
+    - Mrs. Lee
+    - A magpie
+    - The detective
+    answer: 2
+  - tf: Tom went to jail.
+    answer: false
+  - tf: Mrs. Lee said sorry to Tom.
+    answer: true

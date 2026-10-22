@@ -15,3 +15,52 @@ words:
 - sell | v | sel |  | продавать | to give something in exchange for money | They *sell* fresh fish at the market. | На рынке продают свежую рыбу. | sell — sold — sold
 - shopping | n | ˈʃɒpɪŋ | ˈʃɑːpɪŋ | покупки, шопинг | buying things in shops | I go *shopping* on Saturdays. | По субботам я хожу за покупками.
 - welcome | v | ˈwelkəm |  | приветствовать, радушно принимать | to greet someone in a friendly way when they arrive | They *welcomed* us with tea and cake. | Они встретили нас чаем с тортом. | You're welcome. — Пожалуйста (в ответ на спасибо).
+reading:
+  title: The Missing Ring
+  title_ru: Пропавшее кольцо
+  text: |
+    Mrs. Lee owned a small jewellery shop in the center of town. One morning, she discovered that a gold ring was missing. It cost more than three thousand dollars. The only other person in the shop the day before was her new assistant, a young man called Tom.
+
+    Mrs. Lee called the police. "There's no evidence," said the detective, a master of his job. "But he's the only one who was inside the shop. It's common for thieves to work in shops." Tom was shocked. He was honest, independent and proud. "I didn't take anything," he said. "My belief in honesty is everything to me."
+
+    The detective asked them to demonstrate what happened the day before. Tom showed how he cleaned the glass cases and helped a customer. Then the detective looked up. Above the window, there was a small hole and a bird's nest.
+
+    The detective smiled. "There's an old idiom," he said. "Don't count your chickens before they hatch. I think we were too quick." He climbed a ladder and looked inside the nest. There was the ring! A magpie — a bird that loves shiny things — took it through the open window.
+
+    Mrs. Lee was very embarrassed. "I'm sorry, Tom," she said. "You're not going to jail — you're going to get a raise." Tom forgave her, but he kept one memory from that day: he now checks the window and every pocket of his coat before he goes home. And the ring? It was soon for sale again — at the proper price.
+  ru: |
+    Миссис Ли владела небольшим ювелирным магазином в центре города. Однажды утром она обнаружила, что пропало золотое кольцо. Оно стоило больше трёх тысяч долларов. Единственным, кроме неё, человеком в магазине накануне был её новый помощник — молодой человек по имени Том.
+
+    Миссис Ли вызвала полицию. «Доказательств нет, — сказал детектив, мастер своего дела. — Но он единственный, кто был внутри магазина. Воры часто работают в магазинах». Том был потрясён. Он был честным, самостоятельным и гордым. «Я ничего не брал, — сказал он. — Честность для меня — всё».
+
+    Детектив попросил их показать, что происходило накануне. Том показал, как протирал стеклянные витрины и помогал покупателю. Тут детектив поднял глаза. Над окном была маленькая дыра и птичье гнездо.
+
+    Детектив улыбнулся. «Есть старая идиома, — сказал он. — Цыплят по осени считают. Думаю, мы поспешили с выводами». Он поднялся по лестнице и заглянул в гнездо. Там лежало кольцо! Его утащила через открытое окно сорока — птица, которая любит блестящие вещи.
+
+    Миссис Ли было очень стыдно. «Прости меня, Том, — сказала она. — Ты не отправишься в тюрьму — ты получишь прибавку к зарплате». Том её простил, но одно воспоминание о том дне осталось: теперь перед уходом домой он проверяет окно и все карманы пальто. А кольцо? Вскоре оно снова продавалось — по правильной цене.
+  questions:
+  - q: What was missing from the shop?
+    options:
+    - Money
+    - A gold ring
+    - A watch
+    - A bird
+    answer: 1
+  - q: Why did the detective think Tom could be the thief?
+    options:
+    - He had a ring in his pocket
+    - He was the only other person in the shop
+    - He ran away
+    - A customer saw him
+    answer: 1
+  - q: Who really took the ring?
+    options:
+    - A customer
+    - Mrs. Lee
+    - A magpie
+    - The detective
+    answer: 2
+  - tf: Tom went to jail.
+    answer: false
+  - tf: Mrs. Lee said sorry to Tom.
+    answer: true

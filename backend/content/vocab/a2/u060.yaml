@@ -31,3 +31,52 @@ words:
 - researcher | n | rɪˈsɜːtʃə | ˈriːsərtʃər | исследователь | a person who studies something in detail | The *researchers* found new evidence. | Исследователи нашли новые доказательства.
 - spaceship | n | ˈspeɪsʃɪp |  | космический корабль | a vehicle for travelling in space | No *spaceship* could survive long on Venus. | Ни один космический корабль не продержится долго на Венере.
 - survey | n | ˈsɜːveɪ | ˈsɜːrveɪ | опрос; обзор | a set of questions asked to many people | A *survey* of 2,000 teenagers was carried out. | Был проведён опрос 2000 подростков.
+reading:
+  title: The Little Comet
+  title_ru: Маленькая комета
+  text: |
+    Long ago, in a distant galaxy, there was a little comet. She was made of ice, dust and rock, and she had a long tail. She roamed through space alone, from one star to the next. But she was not happy. She thought she was ugly.
+
+    Around her, everything seemed beautiful. The large planets were perfect spheres. The stars radiated warm light in every colour of the spectrum. Even the moons had a calm, silver beauty. "They all have high status in the sky," the comet thought. "But I'm just a dirty, solitary piece of ice."
+
+    One day, the comet fell into deep despair. She flew far away, into the gloom between the galaxies, where there was no light at all. "Nobody will miss me," she said.
+
+    But on a small blue planet called Earth, a girl was looking up at the sky through a telescope. Every night, she waited for the comet. When the comet disappeared, the girl was sad. She wrote a letter to the sky: "Little comet, please come back. You are the most beautiful thing I have ever seen."
+
+    Of course, the comet couldn't read. But somehow, she felt it. She turned around and flew back towards the sun. As she got closer, her ice melted, and her tail formed a bright path across the whole breadth of the sky. On Earth, millions of people marvelled at her. Even tiny fragments of her tail became shooting stars. The comet finally understood: we are not always the best judges of our own beauty.
+  ru: |
+    Давным-давно в далёкой галактике жила-была маленькая комета. Она состояла изо льда, пыли и камня, и у неё был длинный хвост. Она одна странствовала по космосу от звезды к звезде. Но счастлива она не была. Она считала себя уродливой.
+
+    Вокруг всё казалось прекрасным. Большие планеты были идеальными шарами. Звёзды излучали тёплый свет всех цветов спектра. Даже у лун была спокойная серебристая красота. «У них у всех высокое положение на небе, — думала комета. — А я всего лишь грязный одинокий кусок льда».
+
+    Однажды комета впала в глубокое отчаяние. Она улетела далеко-далеко, во мрак между галактиками, где совсем не было света. «Никто по мне не будет скучать», — сказала она.
+
+    Но на маленькой голубой планете под названием Земля одна девочка смотрела на небо в телескоп. Каждую ночь она ждала комету. Когда комета пропала, девочке стало грустно. Она написала письмо небу: «Маленькая комета, пожалуйста, вернись. Ты самое красивое, что я когда-либо видела».
+
+    Конечно, комета не умела читать. Но каким-то образом она это почувствовала. Она развернулась и полетела обратно к Солнцу. Когда она приблизилась, её лёд начал таять, а хвост образовал яркую дорожку через всё небо. На Земле миллионы людей восхищались ею. Даже крошечные осколки её хвоста стали падающими звёздами. И комета наконец поняла: мы не всегда лучшие судьи собственной красоты.
+  questions:
+  - q: What was the comet made of?
+    options:
+    - Fire and gas
+    - Ice, dust and rock
+    - Gold
+    - Water only
+    answer: 1
+  - q: Why was the comet unhappy?
+    options:
+    - She was lost
+    - She thought she was ugly
+    - She was too hot
+    - She had no tail
+    answer: 1
+  - q: What did the girl on Earth do?
+    options:
+    - She wrote a letter to the sky
+    - She built a rocket
+    - She painted the comet
+    - She forgot about the comet
+    answer: 0
+  - tf: The comet could read the girl's letter.
+    answer: false
+  - tf: Fragments of the comet's tail became shooting stars.
+    answer: true

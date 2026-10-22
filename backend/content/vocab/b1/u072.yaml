@@ -20,3 +20,52 @@ words:
 - royal | adj | ˈrɔɪəl |  | королевский | connected with a king or queen | The *royal* family lives in this palace. | В этом дворце живёт королевская семья.
 - rule | v | ruːl |  | править, управлять | to control a country | The queen *ruled* for sixty years. | Королева правила шестьдесят лет.
 - union | n | ˈjuːniən | ˈjuːnjən | союз; профсоюз | a group of countries or workers joined together | He joined the trade *union*. | Он вступил в профсоюз.
+reading:
+  title: Scott and Amundsen
+  title_ru: Скотт и Амундсен
+  text: |
+    In 1911, two teams were racing to be the first to reach the South Pole. One was led by Robert Scott, an officer in the British Navy. The other was led by Roald Amundsen from Norway.
+
+    The two men had very different plans. Amundsen had lived with Arctic peoples and learned from them. He used dogs to pull his sleds and wore warm fur clothing. Scott decided to use ponies and motor sledges. Part of the underlying problem was that Scott's team did not have enough experience of polar travel. The motor sledges broke down in the cold, and the ponies could not survive. Soon Scott's men had to pull the heavy sleds themselves.
+
+    Amundsen reached the Pole on 14 December 1911. Scott arrived five weeks later, on 17 January 1912. When he saw the Norwegian flag, he was devastated. "All the dreams must go," he wrote in his diary.
+
+    The journey back was a nightmare. The temperature fell to minus forty. Frost covered their faces and beards, and blood stopped circulating properly in their hands and feet. One of the men, Lawrence Oates, an army officer, had terrible frostbite. Believing he was slowing the others down, he walked out of the tent into a snowstorm. "I am just going outside and may be some time," he said. He never returned. Some people called it suicide; most called it a brave sacrifice.
+
+    The remaining men trembled with cold in their tent. They were only eighteen kilometres from a supply camp, but a storm stopped them. They died there. Their bodies were found eight months later. The consequent news shocked the world. Scott's last words were a message to the British public. Today, historians argue about the merits of both leaders, but both men showed amazing courage.
+  ru: |
+    В 1911 году две экспедиции соревновались за право первыми достичь Южного полюса. Одну возглавлял Роберт Скотт, офицер британского флота. Другую — Руаль Амундсен из Норвегии.
+
+    Планы у них были совсем разные. Амундсен жил среди народов Арктики и учился у них. Его сани тянули собаки, а сам он носил тёплую меховую одежду. Скотт решил использовать пони и моторные сани. Глубинная проблема была отчасти в том, что команде Скотта не хватало опыта полярных путешествий. Моторные сани сломались на морозе, а пони не выжили. Вскоре людям Скотта пришлось тащить тяжёлые сани самим.
+
+    Амундсен достиг полюса 14 декабря 1911 года. Скотт пришёл через пять недель, 17 января 1912 года. Увидев норвежский флаг, он был опустошён. «Прощайте, все мечты», — записал он в дневнике.
+
+    Обратный путь стал кошмаром. Температура упала до минус сорока. Иней покрывал их лица и бороды, а кровь плохо циркулировала в руках и ногах. Один из них, армейский офицер Лоуренс Оутс, сильно обморозился. Считая, что он задерживает остальных, он вышел из палатки в снежную бурю. «Я просто выйду наружу и, возможно, задержусь», — сказал он. Он так и не вернулся. Некоторые называли это самоубийством; большинство — мужественной жертвой.
+
+    Оставшиеся дрожали от холода в палатке. До склада с припасами было всего восемнадцать километров, но их остановила буря. Там они и погибли. Их тела нашли через восемь месяцев. Последовавшее известие потрясло мир. Последними словами Скотта было обращение к британскому народу. Сегодня историки спорят о достоинствах обоих руководителей, но оба проявили поразительное мужество.
+  questions:
+  - q: What did Amundsen use to pull his sleds?
+    options:
+    - Ponies
+    - Dogs
+    - Motor sledges
+    - His men
+    answer: 1
+  - q: Who reached the South Pole first?
+    options:
+    - Scott
+    - Amundsen
+    - Oates
+    - They arrived together
+    answer: 1
+  - q: Why did Oates walk out of the tent?
+    options:
+    - To find food
+    - He believed he was slowing the others down
+    - To look for Amundsen
+    - To get help
+    answer: 1
+  - tf: Scott's team survived and returned home.
+    answer: false
+  - tf: Scott's men died only eighteen kilometres from a supply camp.
+    answer: true

@@ -22,3 +22,52 @@ words:
 - traveler | n | ˈtrævəlɜː | ˈtrævələr | путешественник (амер.) | a person who travels | She's an experienced *traveler*. | Она опытная путешественница. | брит. traveller
 - van | n | væn |  | фургон | a vehicle for carrying goods, smaller than a lorry | The band toured Europe in an old *van*. | Группа гастролировала по Европе в старом фургоне.
 - wheel | n | wiːl |  | колесо | a round object that turns to move a vehicle | My bike has a flat *wheel*. | У моего велосипеда спущено колесо. | steering wheel — руль
+reading:
+  title: The Junior Mechanic
+  title_ru: Младший механик
+  text: |
+    Tom was nineteen and worked as a junior mechanic in a small garage. His job was mostly labor: changing oil, fixing tyres and cleaning engines. The older mechanics often criticized him. "You're too slow," they said. But Tom had an aim: one day, he wanted to invent something useful.
+
+    Tom commuted to work by bike every day. One problem worried him: in the dark, car drivers couldn't see cyclists well. Lights on bikes were small, and drivers often didn't notice when a cyclist wanted to turn.
+
+    So, after his shift, Tom started working on an idea. He attached a small screen to the back of a bike helmet. When the cyclist moved his head to the left or right, the screen showed a bright arrow — a signal for drivers. The expense was small; he used old parts from the garage.
+
+    His boss saw the helmet and laughed. "I bet nobody will buy it," he said. But Tom's sister, a student, made a video about it and posted it online. In a week, a million people watched it. A big company called Tom and confirmed that they wanted to buy his idea.
+
+    Tom had to go to a formal meeting in a suit. Opinions about his invention differed, but the company's prime goal was safety, and they liked it. Today, the helmet is sold in many countries. Tom's old boss sent him a message: "I was wrong. My sincere congratulations." Tom still rides his bike to work — but now it's to his own small company.
+  ru: |
+    Тому было девятнадцать, и он работал младшим механиком в небольшой мастерской. Его работа в основном была физической: менять масло, чинить шины, мыть двигатели. Старшие механики часто его критиковали. «Ты слишком медленный», — говорили они. Но у Тома была цель: однажды изобрести что-то полезное.
+
+    Том каждый день ездил на работу на велосипеде. Его беспокоила одна проблема: в темноте водители плохо видели велосипедистов. Фонарики на велосипедах были маленькими, и водители часто не замечали, когда велосипедист собирался повернуть.
+
+    И вот после смены Том начал работать над идеей. Он прикрепил маленький экран к задней части велошлема. Когда велосипедист поворачивал голову влево или вправо, на экране загоралась яркая стрелка — сигнал для водителей. Затраты были небольшими: он использовал старые детали из мастерской.
+
+    Начальник увидел шлем и рассмеялся. «Спорим, никто это не купит», — сказал он. Но сестра Тома, студентка, сняла про шлем видео и выложила его в интернет. За неделю его посмотрел миллион человек. Позвонили из крупной компании и подтвердили, что хотят купить его идею.
+
+    Тому пришлось идти на официальную встречу в костюме. Мнения о его изобретении разошлись, но главной целью компании была безопасность, и шлем им понравился. Сегодня его продают во многих странах. Бывший начальник Тома прислал ему сообщение: «Я был неправ. Мои искренние поздравления». Том по-прежнему ездит на работу на велосипеде — но теперь в свою собственную маленькую компанию.
+  questions:
+  - q: What problem did Tom want to solve?
+    options:
+    - Cars used too much oil
+    - Drivers couldn't see cyclists well in the dark
+    - Bikes were too expensive
+    - Helmets were uncomfortable
+    answer: 1
+  - q: What did the screen on the helmet show?
+    options:
+    - The time
+    - A bright arrow
+    - A map
+    - A video
+    answer: 1
+  - q: How did the invention become popular?
+    options:
+    - Tom's boss sold it
+    - Tom's sister posted a video online
+    - It was on TV
+    - Tom won a prize
+    answer: 1
+  - tf: Tom used expensive new parts for his invention.
+    answer: false
+  - tf: Tom's old boss apologized.
+    answer: true

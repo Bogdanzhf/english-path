@@ -22,3 +22,52 @@ words:
 - polish | v | ˈpɒlɪʃ | ˈpɑːlɪʃ | полировать, начищать | to rub something to make it shine | He *polished* his shoes before the interview. | Он начистил ботинки перед собеседованием. | Polish [ˈpəʊlɪʃ] — польский
 - sequence | n | ˈsiːkwəns |  | последовательность | a series of things in a particular order | Follow the steps in the correct *sequence*. | Выполняйте шаги в правильной последовательности.
 - timing | n | ˈtaɪmɪŋ |  | выбор времени, тайминг | choosing when to do something | Good *timing* is important in comedy. | В комедии важно чувство времени.
+reading:
+  title: The Finches of the Galápagos
+  title_ru: Вьюрки Галапагосских островов
+  text: |
+    In 1831, a young Englishman named Charles Darwin joined a five-year voyage around the world on a ship called the Beagle. He was only twenty-two, and the trip was supposed to last two years, but it was prolonged again and again. In 1835, the ship finally reached the Galápagos Islands, off the coast of Ecuador.
+
+    The islands were volcanic and in many places almost devoid of plants. But when Darwin went ashore, he found a strange collection of animals: giant tortoises, lizards that plunged into the sea to eat seaweed, and many small brown birds called finches.
+
+    Darwin noticed that the finches on different islands were not homogeneous. On one island, they had large, strong beaks for cracking hard seeds. On another, their beaks were thin and pointed, perfect for catching insects. Local people told him they could tell which island a tortoise came from just by looking at its shell. Darwin began to theorize that all these birds had come from one original species that had arrived from South America. Over time, populations on different islands had diverged, each adapting to its own food.
+
+    Back in England, Darwin spent years trying to verify his ideas. He studied pigeons, plants and the embryos of different animals. He realized that every individual is slightly different. In nature, more young are born than can survive. Those with useful differences are more likely to live and have offspring. He called this process "natural selection".
+
+    Darwin knew his theory contradicted the religious beliefs of his time, so he did not publicize it for twenty years. Only when another scientist, Alfred Russel Wallace, reached the same conclusion did Darwin finally publish "On the Origin of Species" in 1859. Newspapers and gazettes attacked him, and some tried to obstruct the spread of his ideas. But the evidence was vigorous and clear. Today, evolution by natural selection is one of the major foundations of modern biology.
+  ru: |
+    В 1831 году молодой англичанин Чарльз Дарвин отправился в пятилетнее кругосветное плавание на корабле «Бигль». Ему было всего двадцать два года, и путешествие должно было продлиться два года, но его снова и снова продлевали. В 1835 году корабль наконец достиг Галапагосских островов у берегов Эквадора.
+
+    Острова были вулканическими и местами почти лишёнными растительности. Но сойдя на берег, Дарвин обнаружил странное собрание животных: гигантских черепах, ящериц, нырявших в море за водорослями, и множество маленьких коричневых птиц — вьюрков.
+
+    Дарвин заметил, что вьюрки на разных островах были неодинаковы. На одном острове у них были большие крепкие клювы, чтобы раскалывать твёрдые семена. На другом — тонкие и острые, идеальные для ловли насекомых. Местные жители рассказали ему, что могут определить, с какого острова черепаха, просто по её панцирю. Дарвин начал предполагать, что все эти птицы произошли от одного исходного вида, прилетевшего из Южной Америки. Со временем популяции на разных островах разошлись, и каждая приспособилась к своей пище.
+
+    Вернувшись в Англию, Дарвин годами пытался проверить свои идеи. Он изучал голубей, растения и эмбрионы разных животных. Он понял, что каждая особь немного отличается от других. В природе рождается больше потомства, чем может выжить. Те, у кого есть полезные отличия, с большей вероятностью выживут и оставят потомство. Этот процесс он назвал «естественным отбором».
+
+    Дарвин знал, что его теория противоречит религиозным убеждениям того времени, поэтому двадцать лет не обнародовал её. Только когда другой учёный, Альфред Рассел Уоллес, пришёл к тому же выводу, Дарвин наконец опубликовал в 1859 году «Происхождение видов». Газеты и журналы нападали на него, а некоторые пытались помешать распространению его идей. Но доказательства были убедительными и ясными. Сегодня эволюция путём естественного отбора — одна из главных основ современной биологии.
+  questions:
+  - q: What did Darwin notice about the finches?
+    options:
+    - They were all the same
+    - Their beaks were different on different islands
+    - They couldn't fly
+    - They ate seaweed
+    answer: 1
+  - q: What did Darwin call his process?
+    options:
+    - Natural selection
+    - Island theory
+    - Divine creation
+    - Survival of the biggest
+    answer: 0
+  - q: Why did Darwin wait twenty years to publish?
+    options:
+    - He was too busy
+    - His theory contradicted religious beliefs of his time
+    - He had no evidence
+    - He lost his notes
+    answer: 1
+  - tf: The Beagle's voyage lasted exactly two years.
+    answer: false
+  - tf: Alfred Russel Wallace reached a similar conclusion.
+    answer: true

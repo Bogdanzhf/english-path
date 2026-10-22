@@ -20,3 +20,52 @@ words:
 - traffic | n | ˈtræfɪk |  | движение (транспорта) | the cars and other vehicles on a road | There is a lot of *traffic* today. | Сегодня большое движение. | traffic jam — пробка
 - village | n | ˈvɪlɪdʒ |  | деревня | a very small town in the countryside | My grandmother lives in a quiet *village*. | Моя бабушка живёт в тихой деревне.
 - world | n | wɜːld | wɜːrld | мир | the Earth and all its people and countries | She wants to travel around the *world*. | Она хочет путешествовать по всему миру.
+reading:
+  title: The Factory and the River
+  title_ru: Фабрика и река
+  text: |
+    Riverton is a small town populated by about five thousand people. Its main feature is a wide, beautiful river. For a long period, people associated the town with fishing. Every summer, they organized a fishing festival. It was the town's oldest tradition.
+
+    Twenty years ago, a company built a factory near the river. The factory produced a wide range of plastic products. It gave many people jobs, and at first everyone was happy. But slowly, the river changed. People stopped recognizing it. The water became dark, and there was trash everywhere. There were fewer fish, and some children got sick and needed medicine.
+
+    A local teacher, Ms. Park, decided to act. She involved her students in a project. Every week, they took regular water tests and wrote down the results. They found clear signs that the factory was putting chemicals into the river.
+
+    The students made a report and showed it at a town meeting. For instance, they showed photos of dead fish and the dirty water. The factory managers were embarrassed. In the end, they agreed to change: they built a special system to clean the water.
+
+    Today, the river is clean again. Last summer, the fishing festival came back. Ms. Park has a tip for everyone: "Never think that you are too small to change something. Even a class of children can protect the environment."
+  ru: |
+    Ривертон — маленький город с населением около пяти тысяч человек. Его главная особенность — широкая красивая река. Долгое время город ассоциировался у людей с рыбалкой. Каждое лето здесь устраивали рыболовный фестиваль. Это была самая старая традиция города.
+
+    Двадцать лет назад одна компания построила у реки фабрику. Фабрика производила широкий ассортимент пластиковых изделий. Она дала многим людям работу, и поначалу все были довольны. Но постепенно река изменилась. Люди перестали её узнавать. Вода потемнела, повсюду появился мусор. Рыбы стало меньше, а некоторые дети заболели, и им понадобились лекарства.
+
+    Местная учительница, мисс Парк, решила действовать. Она привлекла к проекту своих учеников. Каждую неделю они регулярно брали пробы воды и записывали результаты. Они нашли явные признаки того, что фабрика сбрасывает в реку химикаты.
+
+    Ученики подготовили доклад и показали его на городском собрании. Например, они показали фотографии мёртвой рыбы и грязной воды. Руководителям фабрики стало стыдно. В конце концов они согласились измениться: построили специальную систему очистки воды.
+
+    Сегодня река снова чистая. Прошлым летом вернулся и рыболовный фестиваль. У мисс Парк есть совет для всех: «Никогда не думайте, что вы слишком малы, чтобы что-то изменить. Даже класс школьников может защитить окружающую среду».
+  questions:
+  - q: What was the town's oldest tradition?
+    options:
+    - A music festival
+    - A fishing festival
+    - A boat race
+    - A food market
+    answer: 1
+  - q: What did the factory produce?
+    options:
+    - Cars
+    - Medicine
+    - Plastic products
+    - Fish
+    answer: 2
+  - q: What did Ms. Park's students do every week?
+    options:
+    - Cleaned the factory
+    - Took water tests
+    - Went fishing
+    - Wrote letters to the government
+    answer: 1
+  - tf: The factory managers refused to change anything.
+    answer: false
+  - tf: The river is clean again today.
+    answer: true

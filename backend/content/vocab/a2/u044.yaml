@@ -20,3 +20,52 @@ words:
 - recording | n | rɪˈkɔːdɪŋ | rəˈkɔːrdɪŋ | запись | sound or pictures that have been recorded | Listen to the *recording* again. | Послушайте запись ещё раз.
 - symphony | n | ˈsɪmfəni |  | симфония | a long piece of music for an orchestra | Beethoven wrote nine *symphonies*. | Бетховен написал девять симфоний.
 - violin | n | vaɪəˈlɪn |  | скрипка | a musical instrument with four strings that you play with a bow | She plays the *violin* in an orchestra. | Она играет на скрипке в оркестре.
+reading:
+  title: The Room Behind the Stage
+  title_ru: Комната за сценой
+  text: |
+    The Royal Theater is one of the oldest buildings in the county. It was built in the 18th century by a rich gentleman named Lord Ashford, who lost most of his wealth on it. Today, students from the drama academy perform there, and on Saturdays there are concerts.
+
+    Last winter, workers were repairing the old stage. One of them, Jack, was pounding on the floor boards with a hammer when he heard a strange sound. The floor was hollow! Under the flat boards, there was a small door. Jack called the manager, and together they opened it.
+
+    Behind the door was a hidden room. It was full of ancient objects: masks, costumes, letters and a thick book. The book was Lord Ashford's diary. Nobody knew that it existed. Maybe he hid it there before he died.
+
+    A history professor came to study the diary. The process was slow, because the handwriting was difficult to read and many words were not in a modern dictionary. But slowly, the clues came together. The diary told the story of the original theater: its first plays, its famous actors and a fire in 1790 that nearly destroyed it.
+
+    The story was so interesting that a local publisher decided to publish the diary as a book. A police officer even helped to guard the room while the objects were moved to a museum. "Every old building has secrets," says the theater manager. "We were lucky — ours told us its story."
+  ru: |
+    Королевский театр — одно из старейших зданий графства. Его построил в XVIII веке богатый джентльмен по имени лорд Эшфорд, который потратил на него большую часть своего состояния. Сегодня там выступают студенты театральной академии, а по субботам проходят концерты.
+
+    Прошлой зимой рабочие ремонтировали старую сцену. Один из них, Джек, стучал молотком по половицам, как вдруг услышал странный звук. Под полом была пустота! Под ровными досками оказалась маленькая дверца. Джек позвал директора, и вместе они её открыли.
+
+    За дверцей была потайная комната. Она была полна старинных вещей: масок, костюмов, писем и толстой книги. Книга оказалась дневником лорда Эшфорда. Никто не знал о его существовании. Может быть, он спрятал его там перед смертью.
+
+    Изучать дневник приехал профессор истории. Процесс шёл медленно: почерк было трудно разобрать, а многих слов не было в современном словаре. Но постепенно подсказки складывались вместе. Дневник рассказывал историю первоначального театра: его первые спектакли, знаменитых актёров и пожар 1790 года, который чуть его не уничтожил.
+
+    История оказалась настолько интересной, что местное издательство решило выпустить дневник книгой. Полицейский даже помогал охранять комнату, пока вещи перевозили в музей. «У каждого старого здания есть тайны, — говорит директор театра. — Нам повезло — наше рассказало свою историю».
+  questions:
+  - q: Who built the theater?
+    options:
+    - The drama academy
+    - A rich gentleman, Lord Ashford
+    - The county council
+    - A famous actor
+    answer: 1
+  - q: How did Jack find the hidden room?
+    options:
+    - He found a map
+    - The floor sounded hollow when he hit it
+    - A professor told him
+    - He saw a light
+    answer: 1
+  - q: Why was reading the diary slow?
+    options:
+    - It was in Latin
+    - The handwriting was difficult and some words were old
+    - It was wet
+    - Pages were missing
+    answer: 1
+  - tf: Everybody knew about the diary before it was found.
+    answer: false
+  - tf: The diary was published as a book.
+    answer: true

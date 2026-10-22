@@ -22,3 +22,52 @@ words:
 - provisions | n | prəˈvɪʒənz |  | провизия | supplies of food | We took *provisions* for a week. | Мы взяли провизии на неделю.
 - staple food | n | ˈsteɪpl fuːd |  | основной продукт питания | the main food people eat | Rice is a *staple food* in Asia. | Рис — основной продукт питания в Азии.
 - sustainable agriculture | n | səˈsteɪnəbl ˈæɡrɪkʌltʃə | səˈsteɪnəbl ˈæɡrɪkʌltʃər | устойчивое сельское хозяйство | farming that protects the environment | *Sustainable agriculture* protects the soil. | Устойчивое сельское хозяйство бережёт почву.
+reading:
+  title: From Goat to Global Habit
+  title_ru: От козы до мировой привычки
+  text: |
+    According to a popular legend, coffee was discovered in Ethiopia over a thousand years ago by a goat herder named Kaldi. He noticed that his goats became unusually lively after eating the red berries of a certain bush. Curious, he tried them himself and felt a burst of energy. Whether or not the story is true, coffee's journey from the Ethiopian highlands to almost every corner of the world is remarkable.
+
+    By the fifteenth century, coffee was being cultivated in Yemen, where religious scholars drank it to stay awake during night prayers. Some called it a divine gift. Others were suspicious, and the beverage was even banned for a time in several cities. Nevertheless, coffee houses spread at a rapid rate across the Middle East and later Europe, becoming centres of conversation, politics and business.
+
+    Today, coffee is grown on plantations in more than seventy countries, most of them close to the equator, where the climate is warm and humid. The coffee cherries grow in clusters, and each contains two seeds — the beans. The taste of coffee varies enormously depending on where and how it is grown. Experts, much like wine tasters, train their palates to recognize subtle differences in aroma, acidity and texture. A coffee from Kenya might have a bright, fruity flavour, while one from Brazil might taste of nuts and chocolate.
+
+    Preparation methods also differ widely. Italians prefer a short, strong espresso; Turks boil finely ground coffee in a small pot; and in Vietnam, coffee is combined with sweet condensed milk and ice. Contemporary coffee shops have turned the drink into an art form, with baristas competing in international championships.
+
+    For many, a morning cup is a soothing ritual. However, too much caffeine can cause anxiety and sleep problems. In very large quantities it can even be toxic — though you would need to drink around a hundred cups to reach that point. For most of us, a few cups a day is closer to paradise than to danger.
+  ru: |
+    Согласно популярной легенде, кофе был открыт в Эфиопии более тысячи лет назад пастухом по имени Калди. Он заметил, что его козы становились необычайно резвыми, поев красных ягод одного куста. Из любопытства он сам попробовал их и почувствовал прилив сил. Правдива ли эта история или нет, путь кофе от эфиопского нагорья почти до каждого уголка мира поразителен.
+
+    К XV веку кофе выращивали в Йемене, где религиозные учёные пили его, чтобы не спать во время ночных молитв. Некоторые называли его божественным даром. Другие относились к нему с подозрением, и одно время напиток даже запрещали в нескольких городах. Тем не менее кофейни стремительно распространялись по Ближнему Востоку, а затем и по Европе, становясь центрами общения, политики и деловой жизни.
+
+    Сегодня кофе выращивают на плантациях более чем в семидесяти странах, в основном вблизи экватора, где климат тёплый и влажный. Кофейные ягоды растут гроздьями, и в каждой — по два семени, то есть зерна. Вкус кофе очень сильно зависит от того, где и как его выращивают. Эксперты, подобно дегустаторам вина, тренируют свой вкус, чтобы распознавать тонкие различия в аромате, кислотности и текстуре. Кофе из Кении может иметь яркий фруктовый вкус, а из Бразилии — отдавать орехами и шоколадом.
+
+    Способы приготовления тоже сильно различаются. Итальянцы предпочитают короткий крепкий эспрессо; турки варят мелко молотый кофе в маленькой турке; а во Вьетнаме кофе смешивают со сладким сгущённым молоком и льдом. Современные кофейни превратили напиток в искусство, а бариста соревнуются на международных чемпионатах.
+
+    Для многих утренняя чашка — успокаивающий ритуал. Однако избыток кофеина может вызывать тревожность и проблемы со сном. В очень больших количествах он даже может быть ядовит — правда, для этого нужно выпить около сотни чашек. Для большинства из нас несколько чашек в день — это скорее рай, чем опасность.
+  questions:
+  - q: According to legend, who discovered coffee?
+    options:
+    - A Yemeni scholar
+    - A goat herder named Kaldi
+    - An Italian barista
+    - A Turkish merchant
+    answer: 1
+  - q: Why did scholars in Yemen drink coffee?
+    options:
+    - For its taste
+    - To stay awake during night prayers
+    - As a medicine
+    - To sell it
+    answer: 1
+  - q: What does the text say about the taste of coffee?
+    options:
+    - It is always the same
+    - It varies depending on where and how it is grown
+    - Brazilian coffee is fruity
+    - Only experts can taste it
+    answer: 1
+  - tf: Coffee was banned in some cities for a time.
+    answer: true
+  - tf: A few cups of coffee a day are toxic.
+    answer: false

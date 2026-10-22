@@ -21,3 +21,56 @@ words:
 - surgery | n | ˈsɜːdʒəri | ˈsɜːrdʒəri | хирургия, операция | medical treatment that involves cutting the body | He needs *surgery* on his knee. | Ему нужна операция на колене.
 - therapy | n | ˈθerəpi |  | терапия, лечение | treatment of a physical or mental illness | She's having *therapy* for her back pain. | Она проходит лечение от боли в спине.
 - tobacco | n | təˈbækəʊ | təˈbækoʊ | табак | a plant whose leaves are smoked in cigarettes | *Tobacco* is very bad for your health. | Табак очень вреден для здоровья.
+reading:
+  title: The First Heart Transplant
+  title_ru: Первая пересадка сердца
+  text: |
+    For centuries, the idea of replacing a person's heart belonged to the world of fantasy. The heart was seen not just as an organ, but as the centre of life and emotion. Yet on 3 December 1967, in a hospital in Cape Town, South Africa, a dynamic young surgeon called Christiaan Barnard made the fantasy real.
+
+    The patient was Louis Washkansky, a 53-year-old man whose heart was failing. Heredity and years of smoking had damaged it badly, and there was no therapy left that could help him. The donor was a young woman named Denise Darvall, who had been killed in a car accident. Her father agreed to donate her heart.
+
+    The operation followed a careful sequence of steps that Barnard and his team had practised many times. First, they connected Washkansky to a machine that acted as a substitute for his heart and lungs. Then they removed his damaged heart and transferred the healthy one into his chest. Finally, they gave it an electric shock. After a tense moment, the new heart began to beat.
+
+    The news made headlines around the world, and Barnard became a celebrity overnight. However, the biggest problem was yet to come. The body's immune system sees a transplanted organ as an enemy and attacks it. To stop this, doctors prescribed strong drugs. Unfortunately, these also weakened Washkansky's defences against infection, and he died of pneumonia eighteen days later.
+
+    Barnard was not the only pioneer. Surgeons in the USA had developed similar techniques, and many teams began to try transplants. At first, results were poor. But in the 1980s, new drugs allowed patients' bodies to adapt to their new organs with minimal side effects. The transition from experimental surgery to routine treatment was complete.
+
+    Today, thousands of heart transplants are carried out every year, and many patients live for decades. Scientists are now studying how to grow organs from a patient's own cells, which could one day end the long wait for a donor.
+  ru: |
+    Веками идея заменить человеку сердце принадлежала миру фантазий. Сердце считали не просто органом, а средоточием жизни и чувств. Но 3 декабря 1967 года в больнице в Кейптауне (ЮАР) энергичный молодой хирург Кристиан Барнард воплотил фантазию в жизнь.
+
+    Пациентом был Луис Вашканский, 53-летний мужчина с отказывающим сердцем. Наследственность и годы курения сильно его повредили, и никакое лечение уже не могло помочь. Донором стала молодая женщина по имени Дениз Дарвалл, погибшая в автокатастрофе. Её отец согласился отдать её сердце.
+
+    Операция шла по тщательно выверенной последовательности шагов, которые Барнард и его команда отрабатывали много раз. Сначала Вашканского подключили к аппарату, заменявшему сердце и лёгкие. Затем удалили больное сердце и пересадили ему в грудь здоровое. Наконец, по нему пустили электрический разряд. После напряжённого мгновения новое сердце забилось.
+
+    Новость облетела весь мир, и Барнард в одночасье стал знаменитостью. Однако самая большая проблема была ещё впереди. Иммунная система воспринимает пересаженный орган как врага и атакует его. Чтобы этому помешать, врачи назначили сильные препараты. К сожалению, они ослабили и защиту Вашканского от инфекций, и через восемнадцать дней он умер от пневмонии.
+
+    Барнард был не единственным первопроходцем. Хирурги в США разработали похожие методики, и многие команды начали делать пересадки. Поначалу результаты были плохими. Но в 1980-х появились новые препараты, которые позволили организму пациентов приспосабливаться к новым органам с минимальными побочными эффектами. Переход от экспериментальной хирургии к обычному лечению завершился.
+
+    Сегодня ежегодно делают тысячи пересадок сердца, и многие пациенты живут после них десятилетиями. Сейчас учёные изучают, как выращивать органы из собственных клеток пациента, — когда-нибудь это может положить конец долгому ожиданию донора.
+  questions:
+  - q: Where was the first heart transplant performed?
+    options:
+    - In the USA
+    - In Cape Town, South Africa
+    - In London
+    - In Moscow
+    answer: 1
+  - q: Why did the patient die?
+    options:
+    - The new heart stopped
+    - Pneumonia, because the drugs weakened his defences
+    - A mistake during surgery
+    - A car accident
+    answer: 1
+  - q: What changed in the 1980s?
+    options:
+    - The first transplant
+    - New drugs helped bodies accept new organs
+    - Transplants became illegal
+    - Artificial hearts were invented
+    answer: 1
+  - tf: Barnard was the only surgeon trying heart transplants.
+    answer: false
+  - tf: Scientists are studying how to grow organs from a patient's own cells.
+    answer: true

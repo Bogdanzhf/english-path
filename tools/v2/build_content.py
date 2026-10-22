@@ -29,6 +29,7 @@ from ipa import lookup, manual  # noqa: E402
 V2 = ROOT / "_scratch" / "v2"
 FILL = Path(__file__).with_name("fill")
 OUT = ROOT / "backend" / "content" / "vocab"
+V2_TOOLS = ROOT / "tools" / "v2"
 LEVELS = ["a1", "a2", "b1", "b2", "c1", "c2"]
 POS_OK = {"n", "v", "adj", "adv", "prep", "conj", "pron", "phr", "num", "det", "interj", "phv", "part"}
 
@@ -116,11 +117,38 @@ def card_content(c: dict, fill: dict, v1: dict) -> tuple[str, list[str], str, st
     return None
 
 
+def load_readings() -> dict[str, dict]:
+    """Тексты к урокам: tools/v2/reading_map.txt («a1.012 = a1-05») + tools/v2/readings/<lv>.yaml."""
+    path = V2_TOOLS / "reading_map.txt"
+    if not path.exists():
+        return {}
+    texts = {}
+    for f in (V2_TOOLS / "readings").glob("*.yaml"):
+        for r in yaml.safe_load(f.read_text(encoding="utf-8")) or []:
+            texts[r["id"]] = {k: r[k] for k in ("title", "title_ru", "text", "ru", "questions")}
+    out = {}
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.split("#")[0].strip()
+        if " = " in line:
+            key, _, rid = line.partition(" = ")
+            out[key.strip()] = texts[rid.strip()]
+    return out
+
+
+class _Dumper(yaml.SafeDumper):
+    pass
+
+
+# многострочный текст — блоком «|», как в остальном контенте
+_Dumper.add_representer(str, lambda d, s: d.represent_scalar("tag:yaml.org,2002:str", s, style="|" if chr(10) in s else None))
+
+
 def main() -> None:
     sys.stdout.reconfigure(encoding="utf-8")
     cards = list(csv.DictReader(open(V2 / "cards.csv", encoding="utf-8-sig")))
     units = list(csv.DictReader(open(V2 / "units.csv", encoding="utf-8-sig")))
     fill, v1 = load_fill(), load_v1()
+    readings = load_readings()
     by_unit = defaultdict(list)
     for c in cards:
         by_unit[c["unit"]].append(c)
@@ -161,8 +189,11 @@ def main() -> None:
             if not lines:
                 continue
             data = {"title": u["title"], "title_ru": u["titleRu"], "topic": u["topic"], "words": lines}
+            key = f"{lv}.{int(u['seq']):03d}"
+            if key in readings:
+                data["reading"] = readings[key]
             (d / f"u{int(u['seq']):03d}.yaml").write_text(
-                yaml.safe_dump(data, allow_unicode=True, sort_keys=False, width=10**6), encoding="utf-8", newline="\n")
+                yaml.dump(data, Dumper=_Dumper, allow_unicode=True, sort_keys=False, width=10**6), encoding="utf-8", newline="\n")
     print("готово карточек:", stats["done"], "| ещё не написано:", stats["todo"])
 
 

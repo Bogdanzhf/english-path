@@ -21,3 +21,52 @@ words:
 - seeker | n | ˈsiːkə | ˈsiːkər | искатель | a person looking for something | Job *seekers* can get free advice. | Ищущие работу могут получить бесплатную консультацию.
 - spokesperson | n | ˈspəʊkspəsən | ˈspoʊkspərsən | представитель, пресс-секретарь | a person who speaks for a group | A company *spokesperson* denied the story. | Представитель компании опроверг эту историю.
 - valentine | n | ˈvæləntaɪn |  | валентинка; возлюбленный | a card or person you send love to on 14 February | She got three *valentines* this year! | В этом году она получила три валентинки!
+reading:
+  title: Houdini Against the Psychics
+  title_ru: Гудини против экстрасенсов
+  text: |
+    After the First World War, millions of families were mourning sons, husbands and brothers. In their grief, many turned to spiritualism — the belief that the living can communicate with the deceased. Across Europe and America, psychics held meetings called séances. At dusk, people sat around a table in a dark room, holding hands. Then strange things happened: tables moved, bells rang and voices spoke from nowhere.
+
+    One man who wanted to believe was Harry Houdini, the world's most famous escape artist. When his beloved mother died in 1913, he hoped to speak to her again. But Houdini had spent his life honing the skills of a magician. He knew every trick of deception. At séance after séance, he noticed things that others missed: a foot moving a table, a hidden wire, a voice coming from a tube.
+
+    Houdini became furious. His motive was not just to show off; he believed that fake psychics were cruel, taking money from people in pain. So he began a campaign against them. He attended séances in disguise and documented every trick. He gave lectures, wrote articles, and even testified before the US Congress. He offered a large prize to any psychic who could produce effects he could not explain. Nobody ever won it.
+
+    His campaign brought strife. Some of his friends, including the writer Arthur Conan Doyle, were committed spiritualists. They interpreted his exposures as an attack on their beliefs, and their friendship ended. Some spiritualists even described Houdini's death in 1926, from an infection, as a sinister punishment.
+
+    Before he died, Houdini made a deal with his wife. If it was possible to contact the dead, he would send her a secret message. For ten years, she held a séance on the anniversary of his death. The message never came. Finally, in 1936, she blew out the candle. "Ten years is long enough to wait for any man," she said.
+  ru: |
+    После Первой мировой войны миллионы семей оплакивали сыновей, мужей и братьев. В своём горе многие обратились к спиритизму — вере в то, что живые могут общаться с умершими. По всей Европе и Америке экстрасенсы проводили собрания, называемые спиритическими сеансами. В сумерках люди садились вокруг стола в тёмной комнате, держась за руки. А потом происходили странные вещи: столы двигались, звенели колокольчики и звучали голоса из ниоткуда.
+
+    Одним из тех, кто хотел поверить, был Гарри Гудини, самый знаменитый в мире мастер освобождения. Когда в 1913 году умерла его любимая мать, он надеялся снова с ней поговорить. Но Гудини всю жизнь оттачивал навыки фокусника. Он знал все уловки обмана. На сеансе за сеансом он замечал то, что упускали другие: ногу, сдвигающую стол, спрятанную проволоку, голос, идущий из трубки.
+
+    Гудини пришёл в ярость. Он не просто хотел покрасоваться — он считал, что фальшивые медиумы жестоки, ведь они берут деньги у людей, которым больно. И он начал кампанию против них. Он приходил на сеансы переодетым и записывал каждый трюк. Он читал лекции, писал статьи и даже давал показания в Конгрессе США. Он предложил крупную премию любому экстрасенсу, который покажет явления, которые он не сможет объяснить. Её так никто и не получил.
+
+    Его кампания принесла раздоры. Некоторые его друзья, в том числе писатель Артур Конан Дойл, были убеждёнными спиритуалистами. Они восприняли его разоблачения как нападки на свою веру, и дружба закончилась. Некоторые спиритуалисты даже называли смерть Гудини в 1926 году от инфекции зловещим наказанием.
+
+    Перед смертью Гудини договорился с женой. Если связаться с мёртвыми возможно, он пошлёт ей тайное послание. Десять лет в годовщину его смерти она проводила сеанс. Послание так и не пришло. Наконец, в 1936 году, она задула свечу. «Десять лет — достаточно долго, чтобы ждать любого мужчину», — сказала она.
+  questions:
+  - q: Why did many people turn to spiritualism after the war?
+    options:
+    - It was fashionable
+    - They were mourning loved ones
+    - The government encouraged it
+    - They wanted to become rich
+    answer: 1
+  - q: Why could Houdini see the tricks?
+    options:
+    - He had special powers
+    - He was a magician who knew the techniques of deception
+    - Someone told him
+    - He used a camera
+    answer: 1
+  - q: What happened between Houdini and Arthur Conan Doyle?
+    options:
+    - They worked together
+    - Their friendship ended
+    - They held séances together
+    - Doyle won the prize
+    answer: 1
+  - tf: A psychic won Houdini's prize.
+    answer: false
+  - tf: Houdini's wife never received the secret message.
+    answer: true

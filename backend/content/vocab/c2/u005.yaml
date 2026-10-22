@@ -16,3 +16,52 @@ words:
 - overtourism | n | ˌəʊvəˈtʊərɪzəm | ˌoʊvərˈtʊrɪzəm | чрезмерный туризм | too many tourists in one place | Venice suffers from *overtourism*. | Венеция страдает от наплыва туристов.
 - pedestrian | adj | pəˈdestriən |  | банальный, скучный | ordinary and boring | The film's plot is rather *pedestrian*. | Сюжет фильма довольно банален.
 - vicinity | n | vɪˈsɪnɪti | vəˈsɪnəti | окрестность | the nearby area | There are shops in the *vicinity*. | Поблизости есть магазины.
+reading:
+  title: From Paris to Your Phone
+  title_ru: От Парижа до вашего телефона
+  text: |
+    The idea of shared bicycles is surprisingly old. In 1965, a group of activists in Amsterdam painted fifty bicycles white and left them on the streets for anyone to use. The project was partly ideological: it was a protest against cars. Unfortunately, the bikes were soon stolen or thrown into canals, and the police removed the rest. The idea was deemed a failure.
+
+    It took decades for the concept to return. In 2007, Paris launched Vélib', a large-scale system with thousands of heavy, aluminum-framed bikes locked to docking stations across the city. Users paid with a card, and the fee was automatically deducted from their account. The convenience was obvious: you could pick up a bike adjacent to your home and leave it near your office. Within a few years, hundreds of cities around the world had copied the model.
+
+    The next revolution came from China. Around 2016, entrepreneurs introduced "dockless" bikes that could be unlocked with a smartphone app and left anywhere. Investors and venture brokers poured billions into the sector. For a while, the growth seemed abnormal. In some cities, millions of brightly coloured bikes appeared almost overnight — far more than people needed. Piles of broken bicycles blocked pavements, and several companies collapsed.
+
+    The industry has since consolidated. Today's systems use artificial intelligence to predict where demand will be highest, so that bikes can be evenly distributed. In some warehouses, robots help repair damaged bikes. Many cities now operate the service as a franchise, granting one company the right to run it under strict rules. Getting through the bureaucracy can be slow, but it helps prevent chaos.
+
+    Shared bikes are not applicable to every situation; they are of little use in hilly towns or where safe cycle lanes are absent. Nonetheless, they have become an important part of urban transport. For cities facing fiscal pressure and pollution, a cheap, clean and easily configured system on two wheels is an attractive option.
+  ru: |
+    Идея общих велосипедов на удивление стара. В 1965 году группа активистов в Амстердаме покрасила пятьдесят велосипедов в белый цвет и оставила их на улицах — бери кто хочет. Проект был отчасти идеологическим: это был протест против автомобилей. К сожалению, велосипеды вскоре украли или сбросили в каналы, а остальные убрала полиция. Идею признали провальной.
+
+    Понадобились десятилетия, чтобы концепция вернулась. В 2007 году Париж запустил Vélib' — масштабную систему с тысячами тяжёлых велосипедов с алюминиевыми рамами, пристёгнутых к станциям по всему городу. Пользователи платили картой, и плата автоматически списывалась со счёта. Удобство было очевидным: можно было взять велосипед рядом с домом и оставить его у офиса. За несколько лет эту модель скопировали сотни городов по всему миру.
+
+    Следующая революция пришла из Китая. Около 2016 года предприниматели предложили «бездоковые» велосипеды, которые разблокируются через приложение и оставляются где угодно. Инвесторы и венчурные посредники вложили в отрасль миллиарды. Какое-то время рост казался аномальным. В некоторых городах почти за ночь появились миллионы ярких велосипедов — гораздо больше, чем нужно людям. Груды сломанных велосипедов перегораживали тротуары, и несколько компаний обанкротились.
+
+    С тех пор отрасль укрупнилась. Современные системы используют искусственный интеллект, чтобы предсказывать, где спрос будет наибольшим, и равномерно распределять велосипеды. На некоторых складах сломанные велосипеды помогают ремонтировать роботы. Многие города теперь передают сервис по франшизе, давая одной компании право управлять им по строгим правилам. Пройти бюрократические процедуры бывает долго, но это помогает избежать хаоса.
+
+    Велошеринг применим не везде: от него мало толку в холмистых городах или там, где нет безопасных велодорожек. Тем не менее он стал важной частью городского транспорта. Для городов, испытывающих финансовое давление и страдающих от загрязнения, дешёвая, чистая и легко настраиваемая система на двух колёсах — привлекательный вариант.
+  questions:
+  - q: What happened to the Amsterdam white bikes in 1965?
+    options:
+    - They were a big success
+    - They were stolen or thrown into canals
+    - They were sold
+    - They were painted again
+    answer: 1
+  - q: What was new about Chinese bike-sharing around 2016?
+    options:
+    - Bikes were free
+    - Bikes were dockless and unlocked with an app
+    - Bikes were electric
+    - Bikes were made of wood
+    answer: 1
+  - q: How do modern systems decide where to put bikes?
+    options:
+    - Randomly
+    - Using artificial intelligence to predict demand
+    - By asking users
+    - They don't move bikes
+    answer: 1
+  - tf: The dockless boom caused problems with too many bikes.
+    answer: true
+  - tf: Shared bikes are useful in every type of town.
+    answer: false

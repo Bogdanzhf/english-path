@@ -24,3 +24,52 @@ words:
 - sled | n | sled |  | санки | a small vehicle for sliding on snow | The children pulled their *sleds* up the hill. | Дети тянули санки на горку. | брит. также sledge
 - track | v | træk |  | отслеживать | to follow the movements of | You can *track* your parcel online. | Посылку можно отследить онлайн.
 - yoga | n | ˈjəʊɡə | ˈjoʊɡə | йога | exercises for the body and mind | I do *yoga* every morning. | Каждое утро я занимаюсь йогой.
+reading:
+  title: The Sled Race
+  title_ru: Гонка на санках
+  text: |
+    Sam and his little sister Ellie were always arguing. Sam was twelve, and he loved to tease Ellie. He hid her toys, made jokes about her loose front tooth and laughed when she got irritated. "I'm only kidding!" he always said. But Ellie was often offended, and their mother said Sam's behaviour was disgraceful.
+
+    One winter, a lot of snow fell overnight. In the morning, the whole town was white. The children finished their chores quickly and ran to the big hill behind the pine forest with their sleds. Every year, the kids from the town had a sled race there.
+
+    Sam wanted to win. He went down the hill first, very fast. But halfway down, his sled hit a rock. He flew into the air and landed badly, hurting his elbow and cutting his face. He couldn't stand up. The other kids didn't notice him because they were busy with the race.
+
+    But Ellie saw everything. She persisted through the deep snow, pulled her own sled to her brother and helped him onto it. Then, slowly, she pulled him all the way home, through the narrow alley behind their house. It took an hour, and she was exhausted.
+
+    Sam needed stitches, and he still has a small scar above his eye. But something changed that day. He felt a strange sensation when he looked at his sister — not irritation, but respect. "I'm really grateful," he said. "You're a decent person, Ellie. Better than me." On the 14th of February, Ellie found a card on her bed. It was her first valentine — from her brother, with a bunch of her favourite sweets.
+  ru: |
+    Сэм и его младшая сестра Элли постоянно ссорились. Сэму было двенадцать, и он обожал дразнить Элли. Он прятал её игрушки, шутил над её шатающимся передним зубом и смеялся, когда она злилась. «Я просто шучу!» — всегда говорил он. Но Элли часто обижалась, а мама говорила, что Сэм ведёт себя возмутительно.
+
+    Однажды зимой за ночь выпало много снега. Утром весь город был белым. Дети быстро закончили домашние дела и побежали со своими санками к большому холму за сосновым лесом. Каждый год ребята из городка устраивали там гонки на санках.
+
+    Сэм хотел победить. Он первым помчался с холма, очень быстро. Но на полпути его санки налетели на камень. Он взлетел в воздух и неудачно приземлился, ушиб локоть и порезал лицо. Он не мог встать. Другие дети его не заметили — они были заняты гонкой.
+
+    Но Элли всё видела. Она упорно пробиралась по глубокому снегу, дотащила свои санки до брата и помогла ему на них лечь. А потом медленно повезла его домой через узкий переулок за их домом. Это заняло час, и она совсем выбилась из сил.
+
+    Сэму наложили швы, и у него до сих пор маленький шрам над глазом. Но в тот день что-то изменилось. Глядя на сестру, он испытывал странное чувство — не раздражение, а уважение. «Я правда очень благодарен, — сказал он. — Ты хороший человек, Элли. Лучше меня». Четырнадцатого февраля Элли нашла на кровати открытку. Это была её первая валентинка — от брата, вместе с пакетом её любимых конфет.
+  questions:
+  - q: How did Sam treat his sister at the start?
+    options:
+    - He was very kind
+    - He teased her a lot
+    - He never spoke to her
+    - He helped her with homework
+    answer: 1
+  - q: What happened to Sam during the race?
+    options:
+    - He won
+    - His sled hit a rock and he got hurt
+    - He got lost in the forest
+    - He lost his sled
+    answer: 1
+  - q: How did Ellie help him?
+    options:
+    - She called an ambulance
+    - She pulled him home on her sled
+    - She ran to get their mother
+    - She carried him
+    answer: 1
+  - tf: Sam has a scar above his eye.
+    answer: true
+  - tf: Ellie sent Sam a valentine.
+    answer: false

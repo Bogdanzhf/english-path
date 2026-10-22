@@ -23,3 +23,52 @@ words:
 - tribute | n | ˈtrɪbjuːt |  | дань (уважения) | something you say or do to show respect | The concert was a *tribute* to the soldiers who died. | Концерт был данью памяти погибшим солдатам. | pay tribute to — отдать дань
 - trophy | n | ˈtrəʊfi | ˈtroʊfi | трофей, кубок | a prize for winning | The team won the *trophy*. | Команда выиграла кубок.
 - wit | n | wɪt |  | остроумие | clever humour | She's known for her *wit*. | Она славится остроумием.
+reading:
+  title: Why Do We Show Off?
+  title_ru: Зачем мы хвастаемся?
+  text: |
+    We all know someone who loves to brag. They tell everyone about their new car, their holiday or their promotion. Most of us find this annoying. Yet psychologists say that showing off is a natural human behaviour — and that almost all of us do it, even if we are not conscious of it.
+
+    Why do we do it? One reason is that, for most of human history, our survival depended on the group. Being admired by others gave people better options: more allies, more food and better partners. Signalling our success was a way to raise our status. Today, the instinct remains, although the methods have changed.
+
+    Some forms of showing off are obvious. Others are more indirect. A popular modern strategy is the "humblebrag": a boast disguised as a complaint or as modesty. "I'm so tired of people asking me to be in their films," someone might say. Or: "Ugh, I can't believe I have to give a speech at Harvard again." Researchers who studied this behaviour came to a clear eventual conclusion: people dislike humblebraggers even more than honest braggers. We find them insincere, and we can easily pinpoint what they are really doing.
+
+    Social media has turned showing off into a popular pastime. Every photo of an awesome sunset, a perfect meal or a gym session sends a message about who we are. The echo of "likes" and comments can be addictive. However, studies suggest that people who constantly compare themselves with others online may be tormented by feelings of inadequacy.
+
+    So what should we do? Psychologists disagree on the details, but most offer a simple hint: if you are proud of something, say so honestly, but don't overdo it. And beware of turning every conversation into a competition. Being a good listener is an immense social skill — one that takes far longer to perfect than any boast.
+  ru: |
+    Все мы знаем кого-то, кто любит хвастаться. Такие люди рассказывают всем о своей новой машине, отпуске или повышении. Большинство из нас это раздражает. И всё же психологи говорят, что хвастовство — естественное человеческое поведение и что почти все мы так делаем, даже если этого не осознаём.
+
+    Зачем мы это делаем? Одна из причин в том, что на протяжении большей части истории человечества выживание зависело от группы. Восхищение окружающих давало людям больше возможностей: больше союзников, больше еды и лучших партнёров. Демонстрация успеха была способом повысить свой статус. Сегодня инстинкт остался, хотя методы изменились.
+
+    Некоторые формы хвастовства очевидны. Другие — более завуалированные. Популярная современная стратегия — «скромнохвастовство»: похвальба, замаскированная под жалобу или скромность. «Как же я устал, что меня зовут сниматься в кино», — может сказать кто-то. Или: «Ох, не могу поверить, что мне снова выступать в Гарварде». Исследователи, изучавшие такое поведение, пришли к однозначному итоговому выводу: скромнохвастов люди не любят даже больше, чем честных хвастунов. Мы считаем их неискренними и легко понимаем, что они на самом деле делают.
+
+    Соцсети превратили хвастовство в популярное времяпрепровождение. Каждое фото потрясающего заката, идеального блюда или тренировки в спортзале что-то сообщает о том, кто мы есть. Эхо «лайков» и комментариев может вызывать зависимость. Однако исследования показывают, что люди, постоянно сравнивающие себя с другими в сети, могут мучиться чувством собственной неполноценности.
+
+    Что же делать? Психологи расходятся в деталях, но большинство даёт простую подсказку: если вы чем-то гордитесь, скажите об этом честно, но не перестарайтесь. И остерегайтесь превращать каждый разговор в соревнование. Умение слушать — огромное социальное преимущество, и на его совершенствование уходит куда больше времени, чем на любое хвастовство.
+  questions:
+  - q: Why did showing off help people in the past?
+    options:
+    - It made them rich
+    - It raised their status in the group
+    - It helped them hunt
+    - It was a religious ritual
+    answer: 1
+  - q: What is a 'humblebrag'?
+    options:
+    - An honest boast
+    - A boast disguised as a complaint or modesty
+    - A compliment
+    - A type of social media
+    answer: 1
+  - q: How do people feel about humblebraggers?
+    options:
+    - They like them
+    - They dislike them even more than honest braggers
+    - They don't notice them
+    - They admire them
+    answer: 1
+  - tf: Psychologists say almost everyone shows off sometimes.
+    answer: true
+  - tf: The text advises never talking about your successes.
+    answer: false

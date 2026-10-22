@@ -21,3 +21,52 @@ words:
 - tumor | n | ˈtumɜː | ˈtuːmər | опухоль (амер.) | a mass of cells growing in the body | The doctors removed the *tumor*. | Врачи удалили опухоль. | брит. tumour
 - vaccination | n | ˌvæksɪˈneɪʃən | væksəˈneɪʃən | вакцинация, прививка | giving a vaccine | *Vaccination* protects children from disease. | Прививки защищают детей от болезней.
 - vaccine | n | vækˈsiːn | ˌvækˈsiːn | вакцина | a substance that protects against disease | Scientists developed a new *vaccine*. | Учёные разработали новую вакцину.
+reading:
+  title: The End of a Killer
+  title_ru: Конец убийцы
+  text: |
+    For thousands of years, smallpox was one of the deadliest diseases on Earth. It was transmitted from person to person through the air. After the onset of fever, victims developed terrible spots all over their bodies. About thirty percent of those infected died, and many survivors were left with deep scars. The disease rendered thousands of people blind. In the twentieth century alone, it killed an estimated 300 million people.
+
+    The first step towards defeating it came in 1796. An English doctor, Edward Jenner, noticed that milkmaids who had caught cowpox, a mild disease from cows, never caught smallpox. He tested his idea by infecting a boy with cowpox and then with smallpox. The boy did not get ill. Jenner called his method "vaccination", from the Latin word for cow. Some countries soon enacted laws making vaccination mandatory, while others prohibited the older and riskier methods.
+
+    However, smallpox remained widespread in poorer parts of the world. In 1967, the World Health Organization launched a coherent global plan to wipe it out. Rich and poor nations pledged money and doctors. Remarkably, the USA and the Soviet Union, who were enemies in the Cold War, collaborated closely. The Soviet Union, a federation of many republics, supplied hundreds of millions of doses of vaccine.
+
+    Vaccinating the whole world was impossible, so health workers used a clever strategy. Whenever a case was diagnosed, they quickly vaccinated everyone around the patient, creating a "ring" that curbed the spread. Teams compiled detailed records of every case, travelling by jeep, boat and even elephant to reach remote villages.
+
+    The last natural case was a young cook in Somalia in 1977. Three years later, in 1980, the WHO officially certified that smallpox had been eradicated. It was the first disease in history to be defeated by humans. The effort transformed public health and showed what the world can do when it makes a vow to protect the needy. Today, the virus exists only in two high-security laboratories.
+  ru: |
+    Тысячи лет оспа была одной из самых смертоносных болезней на Земле. Она передавалась от человека к человеку по воздуху. После начала лихорадки по всему телу больных появлялись ужасные язвы. Около тридцати процентов заразившихся умирали, а у многих выживших оставались глубокие шрамы. Тысячи людей болезнь оставила слепыми. Только в XX веке она унесла, по оценкам, 300 миллионов жизней.
+
+    Первый шаг к победе над ней был сделан в 1796 году. Английский врач Эдвард Дженнер заметил, что доярки, переболевшие коровьей оспой — лёгкой болезнью, передающейся от коров, — никогда не заболевали натуральной оспой. Он проверил свою идею, заразив мальчика сначала коровьей оспой, а потом натуральной. Мальчик не заболел. Дженнер назвал свой метод «вакцинацией» — от латинского слова «корова». Некоторые страны вскоре приняли законы об обязательной вакцинации, а другие запретили прежние, более рискованные методы.
+
+    Однако в бедных частях мира оспа оставалась широко распространённой. В 1967 году Всемирная организация здравоохранения запустила последовательный глобальный план по её искоренению. Богатые и бедные страны пообещали деньги и врачей. Удивительно, но США и Советский Союз, враждовавшие в холодной войне, тесно сотрудничали. Советский Союз — федерация многих республик — поставил сотни миллионов доз вакцины.
+
+    Привить весь мир было невозможно, поэтому медики применили хитрую стратегию. Как только диагностировали случай заболевания, они быстро прививали всех вокруг больного, создавая «кольцо», которое сдерживало распространение. Команды составляли подробные записи о каждом случае, добираясь до отдалённых деревень на джипах, лодках и даже на слонах.
+
+    Последним естественным случаем стал молодой повар в Сомали в 1977 году. Через три года, в 1980-м, ВОЗ официально подтвердила, что оспа ликвидирована. Это была первая болезнь в истории, побеждённая человеком. Эта работа преобразила здравоохранение и показала, на что способен мир, когда даёт клятву защитить нуждающихся. Сегодня вирус существует только в двух строго охраняемых лабораториях.
+  questions:
+  - q: What did Jenner notice about milkmaids?
+    options:
+    - They often had smallpox
+    - Those who had caught cowpox never caught smallpox
+    - They had no scars
+    - They were very healthy
+    answer: 1
+  - q: What was the 'ring' strategy?
+    options:
+    - Vaccinating everyone in the world
+    - Vaccinating everyone around each patient
+    - Closing borders
+    - Building hospitals in a circle
+    answer: 1
+  - q: When was smallpox officially declared eradicated?
+    options:
+    - '1796'
+    - '1967'
+    - '1977'
+    - '1980'
+    answer: 3
+  - tf: The USA and the Soviet Union refused to work together.
+    answer: false
+  - tf: Smallpox was the first disease defeated by humans.
+    answer: true

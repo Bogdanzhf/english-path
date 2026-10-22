@@ -22,3 +22,52 @@ words:
 - talk | n | tɔːk |  | разговор; доклад | a conversation; a speech | She gave a *talk* about her travels. | Она выступила с докладом о своих путешествиях.
 - target | v | ˈtɑːɡɪt | ˈtɑːrɡɪt | нацеливаться на | to aim something at a particular group or person | The adverts *target* young people. | Реклама нацелена на молодёжь. | сущ. target — цель, мишень
 - web page | n | web peɪdʒ |  | веб-страница | one page of a website | Click the link to open the *web page*. | Нажмите на ссылку, чтобы открыть страницу.
+reading:
+  title: The Museum Trip
+  title_ru: Поездка в музей
+  text: |
+    Every spring, the principal of Hillside School takes the students on a trip to the city's science museum. This year, the weather forecast was bad, and it was wet and windy. Despite the rain, everyone was excited. Admission was free for schools, and the museum had a super new exhibition about dinosaurs.
+
+    The children walked in a long row from room to room. In the geography hall, they saw a huge model of the Earth. In the chemistry room, a scientist showed them colourful experiments. Max, who loves astronomy, didn't want to leave the room with the planets.
+
+    Then something went wrong. In the dinosaur hall, a boy named Leo touched a small dinosaur egg on a shelf. He touched it only lightly, but it fell and broke. Everyone was silent. Another boy, Sam, said loudly, "It was Leo!" He said it out of spite, because he didn't like Leo.
+
+    The museum guide was a gentle old man. He did not interfere when the teacher started to talk to Leo. Then he smiled and said, "Don't blame him. That egg was only a copy. We exhibit the real ones behind glass."
+
+    On the bus home, Leo was quiet. But the next day, he wrote a long report about dinosaurs, and his teacher said it was the work of a genius. "Maybe one day I'll find a real dinosaur egg," he said. "Then I'll get fame — and I'll be very careful with it!"
+  ru: |
+    Каждую весну директор школы «Хиллсайд» возит учеников на экскурсию в городской музей науки. В этом году прогноз погоды был плохим: было сыро и ветрено. Несмотря на дождь, все были в восторге. Для школ вход был бесплатным, а в музее открылась отличная новая выставка о динозаврах.
+
+    Дети ходили длинной вереницей из зала в зал. В зале географии они увидели огромную модель Земли. В кабинете химии учёный показал им красочные опыты. Макс, который обожает астрономию, не хотел уходить из зала с планетами.
+
+    А потом что-то пошло не так. В зале динозавров мальчик по имени Лео дотронулся до маленького яйца динозавра на полке. Он коснулся его лишь слегка, но яйцо упало и разбилось. Все замолчали. Другой мальчик, Сэм, громко сказал: «Это Лео!» Он сказал это назло, потому что недолюбливал Лео.
+
+    Экскурсовод был добрым пожилым человеком. Он не вмешивался, когда учительница начала говорить с Лео. Потом он улыбнулся и сказал: «Не вините его. То яйцо было всего лишь копией. Настоящие мы выставляем за стеклом».
+
+    В автобусе по дороге домой Лео молчал. Но на следующий день он написал большой доклад о динозаврах, и учительница сказала, что это работа гения. «Может, однажды я найду настоящее яйцо динозавра, — сказал он. — Тогда я прославлюсь — и буду с ним очень осторожен!»
+  questions:
+  - q: What was new at the museum?
+    options:
+    - A planet room
+    - An exhibition about dinosaurs
+    - A chemistry café
+    - A geography film
+    answer: 1
+  - q: Why did Sam say that Leo broke the egg?
+    options:
+    - Because he wanted to help
+    - Out of spite
+    - Because the guide asked
+    - Because he saw nothing
+    answer: 1
+  - q: Why was the guide not angry?
+    options:
+    - The egg was only a copy
+    - He didn't see it
+    - Leo paid for it
+    - He liked Leo
+    answer: 0
+  - tf: The weather was sunny that day.
+    answer: false
+  - tf: Leo wrote a report about dinosaurs the next day.
+    answer: true

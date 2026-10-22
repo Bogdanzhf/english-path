@@ -23,3 +23,56 @@ words:
 - torment | v | tɔːˈment | tɔːrˈment | мучить | to make someone suffer | He was *tormented* by guilt. | Его мучило чувство вины.
 - unsettle | v | ʌnˈsetl |  | тревожить, выбивать из колеи | to make someone feel worried or uncomfortable | The documentary *unsettled* many viewers. | Документальный фильм встревожил многих зрителей.
 - worship | v | ˈwɜːʃɪp | ˈwɜːrʃɪp | поклоняться; обожать | to show respect and love for a god; to love someone very much | The ancient Greeks *worshipped* many gods. | Древние греки поклонялись многим богам.
+reading:
+  title: Traffic Jam on Everest
+  title_ru: Пробка на Эвересте
+  text: |
+    In May 2019, a photograph shocked the world. It showed a long line of climbers standing in the snow on a narrow ridge just below the summit of Mount Everest. They were not admiring the view; they were waiting. Hundreds of people had arrived at the top of the world at the same time, and the queue lasted for hours.
+
+    For most climbers, reaching the summit of Everest, at 8,849 metres, is the ambition of a lifetime. In the past, only highly experienced mountaineers attempted it. Today, commercial companies offer guided expeditions to anyone who can pay — often more than $50,000. As a result, large contingents of climbers, some with limited experience, crowd the mountain every spring.
+
+    There is only a short period each year, usually in mid-May, when the winds are calm enough to reach the top. Teams check their calendars and weather forecasts constantly, waiting for the right moment. When the window opens, everyone goes at once.
+
+    Above 8,000 metres lies what climbers call the "death zone". Here, the air contains only a third of the oxygen at sea level. Every step requires enormous effort, and climbers must exert themselves while their bodies are slowly dying. Lack of oxygen impairs judgement, making people impatient or confused. Even with excellent nutrition, it is impossible to eat enough to replace the thousands of calories burned each day.
+
+    That is why climbers set a strict deadline: if they have not reached the summit by a certain time, usually around two in the afternoon, they must turn back. But after months of training and huge expense, many find it hard to give up so close to the top. In 2019, the long queues meant many climbers spent too long in the death zone. Eleven people died that season.
+
+    There is no ambulance on Everest. If someone collapses or breaks an ankle high on the mountain, rescue is extremely difficult. Some experts now want to limit the number of permits or forbid inexperienced climbers. Others remain optimists, believing that better organization can make the mountain safer. Either way, Everest teaches a hard lesson: on the world's highest mountain, knowing when to turn back may be the greatest skill of all.
+  ru: |
+    В мае 2019 года мир потрясла одна фотография. На ней была длинная очередь альпинистов, стоявших в снегу на узком гребне чуть ниже вершины Эвереста. Они не любовались видом — они ждали. Сотни людей одновременно оказались на вершине мира, и очередь растянулась на часы.
+
+    Для большинства альпинистов покорить вершину Эвереста высотой 8849 метров — мечта всей жизни. Раньше на это решались только очень опытные альпинисты. Сегодня коммерческие компании предлагают экспедиции с гидами всем, кто может заплатить, — нередко более 50 000 долларов. В результате каждую весну на гору приходят большие группы альпинистов, причём некоторые с небольшим опытом.
+
+    Каждый год есть лишь короткий период, обычно в середине мая, когда ветер достаточно слаб, чтобы подняться на вершину. Команды постоянно сверяются с календарём и прогнозами погоды, ожидая подходящего момента. Когда окно открывается, идут все сразу.
+
+    Выше 8000 метров начинается то, что альпинисты называют «зоной смерти». Здесь в воздухе лишь треть того кислорода, что на уровне моря. Каждый шаг требует огромных усилий, и альпинистам приходится выкладываться, пока их организм медленно умирает. Недостаток кислорода ухудшает способность рассуждать, люди становятся нетерпеливыми или растерянными. Даже при отличном питании невозможно съесть достаточно, чтобы восполнить тысячи сжигаемых за день калорий.
+
+    Поэтому альпинисты устанавливают строгий крайний срок: если к определённому времени, обычно около двух часов дня, они не достигли вершины, они должны повернуть назад. Но после месяцев тренировок и огромных затрат многим трудно сдаться так близко к цели. В 2019 году из-за длинных очередей многие альпинисты провели в зоне смерти слишком много времени. В тот сезон погибли одиннадцать человек.
+
+    На Эвересте нет скорой помощи. Если кто-то падает без сил или ломает лодыжку высоко на горе, спасти его крайне трудно. Некоторые эксперты хотят ограничить количество разрешений или запретить восхождения неопытным альпинистам. Другие остаются оптимистами и считают, что лучшая организация может сделать гору безопаснее. Так или иначе, Эверест преподаёт жёсткий урок: на самой высокой горе мира умение вовремя повернуть назад — возможно, важнейший навык.
+  questions:
+  - q: What did the 2019 photograph show?
+    options:
+    - An avalanche
+    - A long queue of climbers near the summit
+    - A helicopter rescue
+    - An empty mountain
+    answer: 1
+  - q: What is the 'death zone'?
+    options:
+    - The base camp
+    - The area above 8,000 metres with very little oxygen
+    - A dangerous glacier
+    - The way down
+    answer: 1
+  - q: Why do climbers set a deadline?
+    options:
+    - To catch their flight
+    - To turn back if they haven't reached the summit in time
+    - To save money
+    - To take photos
+    answer: 1
+  - tf: Only highly experienced climbers attempt Everest today.
+    answer: false
+  - tf: Lack of oxygen can make people confused and impatient.
+    answer: true

@@ -20,3 +20,52 @@ words:
 - T-shirt | n | ˈtisɜːt | ˈtiːsɜːrt | футболка | a simple cotton shirt with short sleeves | He was wearing jeans and a *T-shirt*. | Он был в джинсах и футболке.
 - trousers | n | ˈtraʊsəz | ˈtraʊzərz | брюки | a piece of clothing that covers both legs | These *trousers* are too long. | Эти брюки слишком длинные. | американское — pants
 - wear | v | weə | wer | носить, быть одетым | to have clothes or jewellery on your body | She always *wears* a red scarf. | Она всегда носит красный шарф. | wear — wore — worn
+reading:
+  title: Why the Stars Shine
+  title_ru: Откуда взялись звёзды
+  text: |
+    This is an old story that people in a small village tell their children. It is not a scientific theory, but it explains a familiar pattern in the sky.
+
+    Long ago, the Sun and the Moon lived together in a huge house in the sky. The Sun was bright and loud. The Moon was quiet and calm. There was a big contrast between them, but they were good friends.
+
+    One day, the Sun proposed a game. "Let's run around the Earth," he said. "I will chase you." The Moon accepted. But the Sun ran too fast and almost grabbed the Moon's silver dress. The Moon was scared and tried to escape. Her dress tore, and small pieces of silver fell into the sky. These pieces became the stars.
+
+    The other gods arranged a meeting. "It is necessary to stop this game," they said. "The Earth requires both day and night." So they made a rule: the Sun would hang in the sky during the day, and the Moon would come out only at night.
+
+    The gods released the Sun and the Moon from their house, and each of them got a single purpose. The Sun gives light and warmth. The Moon watches over sleeping people. Everyone was satisfied. But sometimes, during an eclipse, the old friends still meet for a moment.
+  ru: |
+    Эту старую историю жители одной маленькой деревни рассказывают своим детям. Это не научная теория, но она объясняет знакомую всем закономерность на небе.
+
+    Давным-давно Солнце и Луна жили вместе в огромном доме на небе. Солнце было ярким и шумным. Луна — тихой и спокойной. Они были очень разными, но крепко дружили.
+
+    Однажды Солнце предложило игру. «Давай бегать вокруг Земли, — сказало оно. — Я буду тебя догонять». Луна согласилась. Но Солнце бежало слишком быстро и чуть не схватило Луну за серебряное платье. Луна испугалась и бросилась убегать. Платье порвалось, и маленькие кусочки серебра упали в небо. Они стали звёздами.
+
+    Другие боги устроили совет. «Эту игру необходимо прекратить, — сказали они. — Земле нужны и день, и ночь». И они установили правило: днём на небе будет висеть Солнце, а Луна будет выходить только ночью.
+
+    Боги отпустили Солнце и Луну из их дома, и у каждого появилась своя единственная цель. Солнце даёт свет и тепло. Луна охраняет спящих людей. Все остались довольны. Но иногда, во время затмения, старые друзья всё-таки встречаются на мгновение.
+  questions:
+  - q: Where did the Sun and the Moon live at first?
+    options:
+    - On the Earth
+    - In a huge house in the sky
+    - In a small village
+    - In the sea
+    answer: 1
+  - q: How were the stars made in the story?
+    options:
+    - From the Sun's fire
+    - From pieces of the Moon's dress
+    - From the gods' tears
+    - From clouds
+    answer: 1
+  - q: What rule did the gods make?
+    options:
+    - The Sun and the Moon must play every day
+    - The Sun shines in the day and the Moon at night
+    - The Moon must live on the Earth
+    - Nobody can look at the Sun
+    answer: 1
+  - tf: The story is a scientific theory.
+    answer: false
+  - tf: The Moon was quiet and calm.
+    answer: true

@@ -19,3 +19,52 @@ words:
 - salad | n | ˈsæləd |  | салат | a dish of raw vegetables | I'll have a green *salad*. | Мне зелёный салат.
 - sandwich | n | ˈsændwɪtʃ | ˈsæmwɪtʃ | бутерброд, сэндвич | two pieces of bread with food between them | He made a ham *sandwich*. | Он сделал бутерброд с ветчиной.
 - soup | n | suːp |  | суп | a liquid food made from vegetables, meat or fish | This tomato *soup* is delicious. | Этот томатный суп очень вкусный.
+reading:
+  title: The Secret Laboratory
+  title_ru: Секретная лаборатория
+  text: |
+    Professor Green worked alone in a small laboratory at the end of a quiet street. Children in the town told stories about him. "He is an evil scientist," they said. "He creates monsters!"
+
+    One evening, two friends, Mia and Sam, decided to have an adventure. They wanted to learn the professor's secret. They approached the laboratory carefully. Mia was nervous, but Sam was brave.
+
+    Suddenly, they heard a loud noise. Then they smelled something terrible, like old eggs. "Let's go home," said Mia. "This is getting worse!"
+
+    At that moment, the door opened. Professor Green looked at them and smiled. "Don't be scared," he said. "I'm doing an experiment. I am mixing chemicals to create a new medicine. It kills bad bacteria."
+
+    Mia and Sam laughed. The professor was not evil at all! He showed them his project, and they stayed for an hour. When they left, the professor shouted, "Come back any time!" Now they visit him every week.
+  ru: |
+    Профессор Грин работал один в маленькой лаборатории в конце тихой улицы. Дети в городе рассказывали о нём истории. «Он злой учёный, — говорили они. — Он создаёт чудовищ!»
+
+    Однажды вечером двое друзей, Мия и Сэм, решили устроить приключение. Они хотели узнать секрет профессора. Они осторожно приблизились к лаборатории. Мия нервничала, а Сэм был смелым.
+
+    Вдруг они услышали громкий шум. Потом почувствовали ужасный запах — как от тухлых яиц. «Пойдём домой, — сказала Мия. — Становится всё хуже!»
+
+    В этот момент дверь открылась. Профессор Грин посмотрел на них и улыбнулся. «Не бойтесь, — сказал он. — Я провожу опыт. Я смешиваю химические вещества, чтобы создать новое лекарство. Оно убивает вредные бактерии».
+
+    Мия и Сэм рассмеялись. Профессор вовсе не был злым! Он показал им свой проект, и они пробыли у него час. Когда они уходили, профессор крикнул: «Заходите в любое время!» Теперь они навещают его каждую неделю.
+  questions:
+  - q: What did the children in the town think about the professor?
+    options:
+    - He was a good doctor
+    - He was an evil scientist
+    - He was a teacher
+    - He was very old
+    answer: 1
+  - q: How did Mia feel when they approached the laboratory?
+    options:
+    - Happy
+    - Bored
+    - Nervous
+    - Angry
+    answer: 2
+  - q: What was the professor creating?
+    options:
+    - A monster
+    - A new medicine
+    - A robot
+    - A secret door
+    answer: 1
+  - tf: The smell in the street was very nice.
+    answer: false
+  - tf: Mia and Sam visit the professor every week now.
+    answer: true

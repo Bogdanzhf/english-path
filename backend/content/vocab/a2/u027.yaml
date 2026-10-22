@@ -23,3 +23,52 @@ words:
 - receptionist | n | rɪˈsepʃənɪst | riːˈsepʃənɪst | администратор, секретарь на ресепшене | a person who greets visitors at a hotel or office | Ask the *receptionist* for a key. | Попросите ключ у администратора.
 - sailor | n | ˈseɪlə | ˈseɪlər | моряк | a person who works on a ship | My grandfather was a *sailor*. | Мой дедушка был моряком.
 - shop assistant | n | ʃɒp əˈsɪstənt | ʃɑːp əˈsɪstənt | продавец (брит.) | a person who serves customers in a shop | The *shop assistant* helped me find a dress. | Продавец помог мне найти платье.
+reading:
+  title: The Miner's Daughter
+  title_ru: Дочь шахтёра
+  text: |
+    Katya grew up in a small mining town. Her father was a miner who worked underground every day, digging for coal and other minerals. When she was eight, he had an accident in the mine. He survived, but he could never work again.
+
+    That year, Katya's father gave her a present: an old telescope. At night, when she couldn't sleep, she stayed awake and looked at the stars. "Down there, it's dark," her father said. "But up there, everything shines. Maybe you will go there one day." Katya never forgot his words.
+
+    She worked very hard at school. She never skipped a class, and she participated in every science competition. The government granted her a place at a top university, where she studied physics and engineering. Later, she worked on satellites and learned about the huge scale of space.
+
+    At thirty, Katya applied to become an astronaut. Thousands of people applied, but only six were chosen. She was one of them. Training was tough. She learned to live without gravity, to float in water tanks and to eat raw vegetables grown in special boxes.
+
+    Finally, she got permission to fly to the space station. On her first night there, she stretched her arms and looked down at the Earth, which looked like a blue jewel. Tears poured down her face. "Dad," she whispered into the radio, "it took courage to go underground every day. Now I'm going up for both of us."
+  ru: |
+    Катя выросла в маленьком шахтёрском городке. Её отец был шахтёром и каждый день работал под землёй, добывая уголь и другие полезные ископаемые. Когда ей было восемь, в шахте с ним произошёл несчастный случай. Он выжил, но больше не мог работать.
+
+    В тот год отец подарил Кате подарок — старый телескоп. По ночам, когда ей не спалось, она не спала и смотрела на звёзды. «Там, внизу, темно, — говорил отец. — А там, наверху, всё сияет. Может, однажды ты туда полетишь». Катя никогда не забывала его слов.
+
+    Она очень усердно училась в школе. Она не пропустила ни одного урока и участвовала во всех научных олимпиадах. Государство предоставило ей место в одном из лучших университетов, где она изучала физику и инженерное дело. Позже она работала над спутниками и узнала об огромных масштабах космоса.
+
+    В тридцать лет Катя подала заявку в космонавты. Заявки подали тысячи людей, но выбрали только шестерых. Она была одной из них. Подготовка была тяжёлой. Она училась жить без гравитации, парить в бассейнах и есть сырые овощи, выращенные в специальных ящиках.
+
+    Наконец она получила разрешение лететь на космическую станцию. В первую ночь там она потянулась и посмотрела вниз на Землю, похожую на голубой драгоценный камень. По её лицу полились слёзы. «Папа, — прошептала она в рацию, — нужно было мужество, чтобы каждый день спускаться под землю. А теперь я поднимаюсь вверх за нас обоих».
+  questions:
+  - q: What happened to Katya's father?
+    options:
+    - He became an astronaut
+    - He had an accident in the mine
+    - He moved to the city
+    - He bought a telescope shop
+    answer: 1
+  - q: What did Katya do with the telescope?
+    options:
+    - She sold it
+    - She looked at the stars at night
+    - She gave it to her school
+    - She broke it
+    answer: 1
+  - q: How many people were chosen to become astronauts?
+    options:
+    - One
+    - Six
+    - Thirty
+    - Thousands
+    answer: 1
+  - tf: Katya often skipped classes at school.
+    answer: false
+  - tf: From space, the Earth looked like a blue jewel.
+    answer: true
