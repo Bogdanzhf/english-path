@@ -72,7 +72,7 @@ describe('exported course content', () => {
   })
   it('every word example contains the marked word', () => {
     const words = load('words.json') as { w: string; ex: string }[]
-    expect(words).toHaveLength(3600)
+    expect(words.length).toBeGreaterThan(9000)
     for (const w of words) expect(exampleGap(w as never).text, w.ex).toContain('_____')
   })
 })

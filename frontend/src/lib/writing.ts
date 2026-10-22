@@ -119,6 +119,7 @@ export function wordForms(word: string, irregular: IrregularVerb[] = []): string
   }
   const irr = irregular.find((v) => v.base.toLowerCase() === w)
   for (const f of irr ? `${irr.past}/${irr.pp}`.split(/[/,]/) : EXTRA_IRREGULAR[w] ?? []) set.add(f.trim().toLowerCase())
+  for (const f of IRREGULAR_FORMS[w] ?? []) set.add(f)
   return [...set]
 }
 
@@ -127,7 +128,26 @@ const EXTRA_IRREGULAR: Record<string, string[]> = {
   creep: ['crept'], cling: ['clung'], dwell: ['dwelt', 'dwelled'], weep: ['wept'], kneel: ['knelt', 'kneeled'],
   sting: ['stung'], swear: ['swore', 'sworn'], tread: ['trod', 'trodden'], weave: ['wove', 'woven'], stride: ['strode'],
   sow: ['sowed', 'sown'], seek: ['sought'], forbid: ['forbade', 'forbidden'], foresee: ['foresaw', 'foreseen'], undergo: ['underwent', 'undergone'],
-  overcome: ['overcame'], withdraw: ['withdrew', 'withdrawn'], bind: ['bound'], grind: ['ground'], slay: ['slew', 'slain'],
+  overcome: ['overcame'], withdraw: ['withdrew', 'withdrawn'], bind: ['bound'], grind: ['ground'], slay: ['slew', 'slain'], rebuild: ['rebuilt'], overthrow: ['overthrew', 'overthrown'], overlay: ['overlaid'], mislay: ['mislaid'], rewrite: ['rewrote', 'rewritten'], outdo: ['outdid', 'outdone'],
+}
+
+// формы, которых нет среди правил: be → is/are, child → children
+const IRREGULAR_FORMS: Record<string, string[]> = {
+  be: ['am', 'is', 'are', 'was', 'were', 'been', 'being', "'m", "'s", "'re"], have: ['has', 'had', 'having'], do: ['does', 'did', 'done'],
+  child: ['children'], tooth: ['teeth'], foot: ['feet'], man: ['men'], woman: ['women'], person: ['people'], mouse: ['mice'],
+  goose: ['geese'], ox: ['oxen'], wolf: ['wolves'], knife: ['knives'], life: ['lives'], leaf: ['leaves'], half: ['halves'],
+  grandchild: ['grandchildren'], workman: ['workmen'], criterion: ['criteria'], parenthesis: ['parentheses'], phenomenon: ['phenomena'], analysis: ['analyses'], crisis: ['crises'], thesis: ['theses'], shelf: ['shelves'], wife: ['wives'], calf: ['calves'], thief: ['thieves'],
+}
+
+// заглушки в словарных выражениях: look after sb/sth, be expected to do sth
+const PLACEHOLDERS = new Set(['sb', 'sth', 'somebody', 'something', 'someone', 'yourself', 'oneself', "one's", 'a', 'b', 'x', 'do', 'doing', 'an', 'your', 'my', "someone's", "somebody's", "sb's"])
+
+/** Что обязательно должно быть в своём предложении: само слово или выражение без заглушек. */
+export function mustOf(w: string): string {
+  const parts = w.toLowerCase().replace(/[…]|\.\.\./g, '').replace(/\(.*?\)/g, ' ').split(/[\s/]+/).filter(Boolean)
+  if (parts.length < 2) return w
+  const kept = parts.filter((p) => !PLACEHOLDERS.has(p))
+  return kept.length ? kept.join(' ') : w
 }
 
 export interface ComposeCheck {
@@ -148,7 +168,7 @@ export function checkCompose(input: string, ex: Pick<ComposeEx, 'must' | 'start'
     const [head, ...rest] = words(expand(m))
     if (!head) return false
     if (rest.length && wordForms(head + rest.join(''), irregular).some((f) => tokens.has(f))) return false // re-entry → reentry
-    return !(wordForms(head, irregular).some((f) => tokens.has(f)) && rest.every((p) => tokens.has(p)))
+    return !(wordForms(head, irregular).some((f) => tokens.has(f)) && rest.every((p) => tokens.has(p) || wordForms(p, irregular).some((f) => tokens.has(f))))
   })
   const tooShort = list.length < (ex.min ?? 4)
   const badStart = !!ex.start && !text.startsWith(expand(ex.start))
@@ -169,7 +189,7 @@ export function translateItem(word: Word, key: string): QuizItem {
   return {
     key: `${key}.t.${word.id}`,
     wordId: word.id,
-    ex: { type: 'write', q: word.exRu, answer: [clean(word.ex)], must: [word.w], hint: `${word.w} — ${word.ru}`,
+    ex: { type: 'write', q: word.exRu, answer: [clean(word.ex)], must: [mustOf(word.w)], hint: `${word.w} — ${word.ru}`,
       task: 'Translate into English', taskRu: 'Переведите на английский' },
   }
 }
@@ -179,7 +199,7 @@ export function composeItem(word: Word, key: string): QuizItem {
   return {
     key: `${key}.c.${word.id}`,
     wordId: word.id,
-    ex: { type: 'compose', q: `**${word.w}** — ${word.ru}`, must: [word.w], model: [clean(word.ex)], min: 4,
+    ex: { type: 'compose', q: `**${word.w}** — ${word.ru}`, must: [mustOf(word.w)], model: [clean(word.ex)], min: 4,
       task: 'Write your own sentence with the word', taskRu: 'Составьте своё предложение с этим словом' },
   }
 }

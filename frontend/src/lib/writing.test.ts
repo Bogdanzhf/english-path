@@ -2,7 +2,7 @@ import { readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { describe, expect, it } from 'vitest'
 import type { ComposeEx, Course, LevelData, Word, WriteEx } from './types'
-import { checkCompose, checkWrite, diffWords, pickWriting, unitWriting, wordForms } from './writing'
+import { checkCompose, checkWrite, mustOf, diffWords, pickWriting, unitWriting, wordForms } from './writing'
 
 const DATA = join(__dirname, '..', '..', 'public', 'data')
 const read = <T,>(f: string): T => JSON.parse(readFileSync(join(DATA, f), 'utf8'))
@@ -82,7 +82,7 @@ describe('writing content', () => {
   })
 
   it('every unit example contains its word, so «own sentence» is solvable', () => {
-    const broken = words.filter((w) => !checkCompose(w.ex.replace(/\*/g, ''), { must: [w.w], min: 1 }, course.irregular).ok).map((w) => `${w.id}: ${w.ex}`)
+    const broken = words.filter((w) => !checkCompose(w.ex.replace(/\*/g, ''), { must: [mustOf(w.w)], min: 1 }, course.irregular).ok).map((w) => `${w.id}: ${w.ex}`)
     expect(broken).toEqual([])
   })
 

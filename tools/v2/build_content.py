@@ -39,7 +39,7 @@ PROPER.update({"i": "I", "cd": "CD", "dvd": "DVD", "tv": "TV", "cd player": "CD 
                "dj": "DJ", "dna": "DNA", "hiv": "HIV", "cv": "CV", "mp3 player": "MP3 player", "uk": "UK", "usa": "USA",
                "tv show": "TV show", "on tv": "on TV", "in april": "in April", "on monday": "on Monday",
                "mr.": "Mr", "mrs.": "Mrs", "ms.": "Ms", "the 20th century": "the 20th century", "i'm sorry": "I'm sorry",
-               "e-commerce": "e-commerce", "the big bang": "the Big Bang", "black hole": "black hole", "mooc": "MOOC", "x-ray": "X-ray", "t-shirt": "T-shirt"})
+               "e-commerce": "e-commerce", "the big bang": "the Big Bang", "an achilles' heel": "an Achilles' heel", "a catch-22": "a Catch-22", "black hole": "black hole", "mooc": "MOOC", "x-ray": "X-ray", "t-shirt": "T-shirt"})
 
 
 def proper(word: str) -> str:
