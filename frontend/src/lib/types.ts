@@ -55,7 +55,18 @@ export type Exercise =
 
 // ---------- курс ----------
 
-export interface UnitMeta { num: number; title: string; titleRu: string; words: number; reading: string | null; readingRu: string | null }
+export interface UnitMeta {
+  num: number
+  title: string
+  titleRu: string
+  words: number
+  reading: string | null
+  readingRu: string | null
+  /** тема v2 (people, food…) и номер части среди уроков с тем же названием */
+  topic?: string
+  part?: number
+  parts?: number
+}
 export interface GrammarMeta {
   id: string
   title: string

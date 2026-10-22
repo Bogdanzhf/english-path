@@ -112,12 +112,27 @@ def export_level(lib: Library, level: str, audio: AudioIndex) -> dict:
     return {"id": level, "units": units, "grammar": grammar, "dialogues": dialogues}
 
 
+def unit_parts(units: list) -> dict[int, tuple[int, int]]:
+    """Номер части среди уроков с тем же названием: «Actions and movement · 3 из 13»."""
+    total: dict[str, int] = {}
+    for u in units:
+        total[u.title] = total.get(u.title, 0) + 1
+    seen: dict[str, int] = {}
+    out = {}
+    for u in units:
+        seen[u.title] = seen.get(u.title, 0) + 1
+        out[u.num] = (seen[u.title], total[u.title])
+    return out
+
+
 def export_course(lib: Library, audio: AudioIndex) -> dict:
     levels = []
     for level in LEVELS:
+        parts = unit_parts(lib.units[level])
         levels.append({
             "id": level,
-            "units": [{"num": u.num, "title": u.title, "titleRu": u.title_ru, "words": len(u.words),
+            "units": [{"num": u.num, "title": u.title, "titleRu": u.title_ru, "words": len(u.words), "topic": u.topic,
+                       "part": parts[u.num][0], "parts": parts[u.num][1],
                        "reading": u.reading["title"] if u.reading else None,
                        "readingRu": u.reading["title_ru"] if u.reading else None} for u in lib.units[level]],
             "grammar": [{"id": g["id"], "title": g["title"], "titleRu": g["title_ru"], "section": g["section"],

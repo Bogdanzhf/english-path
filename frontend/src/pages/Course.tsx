@@ -6,7 +6,7 @@ import { levelProgress } from '../lib/stats'
 import { useApp } from '../state'
 
 export default function Course() {
-  const { t } = useI18n()
+  const { t, plural } = useI18n()
   const { course, progress, prefs } = useApp()
   if (!course) return null
   return (
@@ -43,7 +43,7 @@ export default function Course() {
               <p className="muted small">{t(`level_desc_${l.id}` as never)}</p>
               <div className="row small text-2" style={{ gap: 14 }}>
                 <span className="row" style={{ gap: 5 }}>
-                  <Sparkles size={15} /> {t('words_n', { n: words })}
+                  <Sparkles size={15} /> {words} {plural(words, ['слово', 'слова', 'слов'], ['word', 'words'])}
                 </span>
                 <span className="row" style={{ gap: 5 }}>
                   <BookOpenText size={15} /> {t('topics_count', { n: l.grammar.length })}

@@ -3,6 +3,7 @@ import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Empty, LevelBadge, PageHead } from '../components/ui'
 import { useI18n } from '../i18n'
+import { unitName } from '../lib/topics'
 import { lessonKeys } from '../lib/course'
 import type { LevelId } from '../lib/types'
 import { useApp } from '../state'
@@ -37,7 +38,7 @@ export default function ReadingIndex() {
                 <div className="grow">
                   <b className="en">{tr(u.readingRu, u.reading)}</b>
                   <div className="muted small">
-                    {t('unit')} {u.num} · {tr(u.titleRu, u.title)}
+                    {t('unit')} {u.num} · {unitName(u, tr)}
                   </div>
                 </div>
                 {st?.best_score ? <span className={`chip tiny ${st.completed ? 'green' : 'amber'}`}>{st.best_score}%</span> : null}

@@ -1,12 +1,13 @@
 import { BookOpenText, Check, ClipboardCheck, Headphones, MessagesSquare, Sparkles } from 'lucide-react'
-import { useMemo } from 'react'
+import { useMemo, useState } from 'react'
 import { Link, useParams, useSearchParams } from 'react-router-dom'
-import { Empty, LevelBadge, ProgressBar, Tabs } from '../components/ui'
+import { Empty, LevelBadge, ProgressBar, Segmented, Tabs } from '../components/ui'
 import { useI18n } from '../i18n'
 import { lessonKeys, CEFR } from '../lib/course'
 import { levelProgress } from '../lib/stats'
 import { LEVEL_IDS, type LevelId, type LevelMeta } from '../lib/types'
 import { useApp } from '../state'
+import { topicOf, unitName } from '../lib/topics'
 import { LevelTest } from './Tests'
 
 type Tab = 'vocab' | 'grammar' | 'reading' | 'dialogues' | 'test'
@@ -56,9 +57,90 @@ export function GrammarList({ level, compact }: { level: LevelMeta; compact?: bo
   )
 }
 
+function UnitCard({ level, u }: { level: LevelMeta; u: LevelMeta['units'][number] }) {
+  const { tr, plural } = useI18n()
+  const { progress } = useApp()
+  const k = lessonKeys.vocab(level.id, u.num)
+  const done = progress.lessons[k]?.completed
+  const topic = topicOf(u)
+  return (
+    <Link to={`/level/${level.id}/unit/${u.num}`} className="card pad-sm unit-card">
+      <span className={`unit-num${done ? ' done' : ''}`}>{done ? <Check size={20} /> : u.num}</span>
+      <div className="grow">
+        <b>
+          <span aria-hidden="true">{topic.emoji}</span> {unitName(u, tr)}
+        </b>
+        <div className="muted small">
+          {u.words} {plural(u.words, ['слово', 'слова', 'слов'], ['word', 'words'])}
+          {u.reading && ` · ${tr(u.readingRu ?? '', u.reading)}`}
+        </div>
+      </div>
+      <LessonMark k={k} />
+    </Link>
+  )
+}
+
+/** Уроки уровня: по порядку прохождения или сгруппированные по темам. */
+function UnitList({ level }: { level: LevelMeta }) {
+  const { t, tr } = useI18n()
+  const { progress } = useApp()
+  const [view, setView] = useState<'order' | 'topics'>(() => (localStorage.getItem('ep:unit-view') as 'order' | 'topics') || 'order')
+  const pick = (v: 'order' | 'topics') => {
+    setView(v)
+    localStorage.setItem('ep:unit-view', v)
+  }
+  const groups = useMemo(() => {
+    const m = new Map<string, LevelMeta['units']>()
+    for (const u of level.units) m.set(u.topic ?? '', [...(m.get(u.topic ?? '') ?? []), u])
+    return [...m.entries()]
+  }, [level])
+  if (!level.units.length) return <Empty emoji="📚">{t('content_soon')}</Empty>
+  return (
+    <div className="stack">
+      <Segmented
+        value={view}
+        onChange={pick}
+        options={[
+          { id: 'order', label: t('units_in_order') },
+          { id: 'topics', label: t('units_by_topic') },
+        ]}
+      />
+      {view === 'order' ? (
+        <div className="grid grid-auto">
+          {level.units.map((u) => (
+            <UnitCard key={u.num} level={level} u={u} />
+          ))}
+        </div>
+      ) : (
+        groups.map(([id, units]) => {
+          const topic = topicOf({ topic: id })
+          const done = units.filter((u) => progress.lessons[lessonKeys.vocab(level.id, u.num)]?.completed).length
+          return (
+            <div key={id}>
+              <div className="section-title row between">
+                <h3>
+                  <span aria-hidden="true">{topic.emoji}</span> {tr(topic.ru, topic.en)}
+                </h3>
+                <span className="muted small">
+                  {done} / {units.length}
+                </span>
+              </div>
+              <div className="grid grid-auto">
+                {units.map((u) => (
+                  <UnitCard key={u.num} level={level} u={u} />
+                ))}
+              </div>
+            </div>
+          )
+        })
+      )}
+    </div>
+  )
+}
+
 export default function Level() {
   const { lv } = useParams()
-  const { t, tr, plural } = useI18n()
+  const { t, tr } = useI18n()
   const { course, progress, prefs, setPrefs } = useApp()
   const [params, setParams] = useSearchParams()
   const tab = (params.get('tab') as Tab) || 'vocab'
@@ -105,30 +187,7 @@ export default function Level() {
         ]}
       />
 
-      {tab === 'vocab' &&
-        (level.units.length ? (
-          <div className="grid grid-auto">
-            {level.units.map((u) => {
-              const k = lessonKeys.vocab(level.id, u.num)
-              const done = progress.lessons[k]?.completed
-              return (
-                <Link key={u.num} to={`/level/${level.id}/unit/${u.num}`} className="card pad-sm unit-card">
-                  <span className={`unit-num${done ? ' done' : ''}`}>{done ? <Check size={20} /> : u.num}</span>
-                  <div className="grow">
-                    <b>{tr(u.titleRu, u.title)}</b>
-                    <div className="muted small">
-                      {u.words} {plural(u.words, ['слово', 'слова', 'слов'], ['word', 'words'])}
-                      {u.reading && ` · ${tr(u.readingRu, u.reading)}`}
-                    </div>
-                  </div>
-                  <LessonMark k={k} />
-                </Link>
-              )
-            })}
-          </div>
-        ) : (
-          <Empty emoji="📚">{t('content_soon')}</Empty>
-        ))}
+      {tab === 'vocab' && <UnitList level={level} />}
 
       {tab === 'grammar' && <GrammarList level={level} />}
 
@@ -144,7 +203,7 @@ export default function Level() {
                 <div className="grow">
                   <b>{tr(u.readingRu, u.reading)}</b>
                   <div className="muted small">
-                    {t('unit')} {u.num} · {tr(u.titleRu, u.title)}
+                    {t('unit')} {u.num} · {unitName(u, tr)}
                   </div>
                 </div>
                 <LessonMark k={lessonKeys.reading(level.id, u.num)} />

@@ -23,7 +23,7 @@ const TRAINER_MODES: TrainerMode[] = ['mixed', ...WORD_MODES, 'w_translate', 'w_
 const NEW_PER_SESSION = 10
 
 export default function Review() {
-  const { t, lang } = useI18n()
+  const { t, lang, plural } = useI18n()
   const { progress, prefs, user } = useApp()
   const [params] = useSearchParams()
   const [tab, setTab] = useState<'session' | 'train'>(params.get('source') ? 'train' : 'session')
@@ -124,7 +124,7 @@ export default function Review() {
             />
             {source === 'level' && <Segmented<LevelId> options={LEVEL_IDS.map((l) => ({ id: l, label: l.toUpperCase() }))} value={level} onChange={setLevel} />}
             {source === 'pick' && <WordPicker bank={bank} progress={progress} picked={picked} onChange={setPicked} />}
-            {source !== 'pick' && <div className="muted small">{t('words_n', { n: pool.length })}</div>}
+            {source !== 'pick' && <div className="muted small">{pool.length} {plural(pool.length, ['слово', 'слова', 'слов'], ['word', 'words'])}</div>}
             {source !== 'pick' && pool.length < 4 && <div className="alert warn small">{t('not_enough_words')}</div>}
           </div>
           <div className="grid grid-auto-sm">

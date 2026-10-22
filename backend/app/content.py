@@ -248,6 +248,7 @@ class Unit:
     words: list[Word]
     reading: dict | None
     exercises: list[dict] = field(default_factory=list)
+    topic: str = ""
 
     @property
     def key(self) -> str:
@@ -266,7 +267,7 @@ def load_unit(path: Path, level: str) -> Unit:
     reading = check_reading(data["reading"], f"{where}, текст") if data.get("reading") else None
     exercises = [check_exercise(e, f"{where}, упражнение {i + 1}") for i, e in enumerate(data.get("exercises") or [])]
     return Unit(level=level, num=num, title=_require(data, "title", where), title_ru=_require(data, "title_ru", where),
-                words=words, reading=reading, exercises=exercises)
+                words=words, reading=reading, exercises=exercises, topic=data.get("topic", ""))
 
 
 # ---------- грамматика, диалоги, тест на уровень ----------

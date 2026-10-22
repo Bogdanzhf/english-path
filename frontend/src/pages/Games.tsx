@@ -5,6 +5,7 @@ import { AudioButton } from '../components/Audio'
 import { Empty, Loader, PageHead, Segmented } from '../components/ui'
 import { useI18n } from '../i18n'
 import type { DictKey } from '../i18n/dict'
+import { unitName } from '../lib/topics'
 import { loadWords, type WordBank } from '../lib/course'
 import { buildCrossword, buildWordSearch, lineCells } from '../lib/games'
 import { dictWords } from '../lib/mywords'
@@ -52,7 +53,7 @@ function SourcePicker({ source, setSource }: { source: Source; setSource: (s: So
             <option value={0}>{t('all')}</option>
             {units.map((u) => (
               <option key={u.num} value={u.num}>
-                {u.num}. {tr(u.titleRu, u.title)}
+                {u.num}. {unitName(u, tr)}
               </option>
             ))}
           </select>

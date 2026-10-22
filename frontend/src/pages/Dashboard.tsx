@@ -3,6 +3,7 @@ import { useMemo } from 'react'
 import { Link } from 'react-router-dom'
 import { LevelBadge, ProgressBar } from '../components/ui'
 import { useI18n } from '../i18n'
+import { unitName } from '../lib/topics'
 import { CEFR } from '../lib/course'
 import { lastDays, lastVisit, levelProgress, nextInLevel, wordStats } from '../lib/stats'
 import type { LevelId } from '../lib/types'
@@ -34,7 +35,7 @@ export default function Dashboard() {
               ) : (
                 next.unit && (
                   <Link to={`/level/${level}/unit/${next.unit.num}`} className="btn btn-secondary btn-lg">
-                    {t('start')}: {tr(next.unit.titleRu, next.unit.title)} <ArrowRight size={18} />
+                    {t('start')}: {unitName(next.unit, tr)} <ArrowRight size={18} />
                   </Link>
                 )
               )}
@@ -112,7 +113,7 @@ export default function Dashboard() {
                 <Sparkles size={22} />
               </div>
               <b>{t('qa_words')}</b>
-              <div className="muted small">{tr(next.unit.titleRu, next.unit.title)}</div>
+              <div className="muted small">{unitName(next.unit, tr)}</div>
             </Link>
           )}
           {next.grammar && (

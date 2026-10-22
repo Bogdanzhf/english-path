@@ -8,6 +8,7 @@ import { WordCard } from '../components/WordCard'
 import { WritingPractice } from '../components/WritingPractice'
 import { Empty, LevelBadge, Loader, Tabs } from '../components/ui'
 import { useI18n } from '../i18n'
+import { unitName } from '../lib/topics'
 import { lessonKeys, loadLevel, loadWords, type WordBank } from '../lib/course'
 import { toItems, wordQuiz } from '../lib/quiz'
 import { rememberVisit } from '../lib/stats'
@@ -38,7 +39,7 @@ export default function Unit() {
   const { lv, num } = useParams()
   const level = lv as LevelId
   const n = Number(num)
-  const { t, tr, lang } = useI18n()
+  const { t, tr, lang, plural } = useI18n()
   const { course, progress, setInDict, openLesson, toast, prefs } = useApp()
   const [params, setParams] = useSearchParams()
   const tab = (params.get('tab') as Tab) || 'words'
@@ -80,9 +81,9 @@ export default function Unit() {
         <div className="row nowrap grow" style={{ gap: 14 }}>
           <span className="unit-num">{n}</span>
           <div className="grow">
-            <h1 className="mb-0">{tr(meta.titleRu, meta.title)}</h1>
+            <h1 className="mb-0">{unitName(meta, tr)}</h1>
             <div className="muted">
-              <LevelBadge level={level} /> &nbsp;{t('unit')} {n} · {t('words_n', { n: meta.words })}
+              <LevelBadge level={level} /> &nbsp;{t('unit')} {n} · {meta.words} {plural(meta.words, ['слово', 'слова', 'слов'], ['word', 'words'])}
             </div>
           </div>
         </div>
