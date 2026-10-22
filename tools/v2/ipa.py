@@ -167,6 +167,12 @@ def manual() -> dict[str, tuple[str, str]]:
     return out
 
 
+# слабые формы служебных слов внутри выражений
+WEAK = {"the": ("ðə", "ðə"), "a": ("ə", "ə"), "an": ("ən", "ən"), "of": ("əv", "əv"),
+        "to": ("tə", "tə"), "and": ("ən", "ən"), "for": ("fə", "fər"), "at": ("ət", "ət"),
+        "as": ("əz", "əz"), "than": ("ðən", "ðən"), "or": ("ə", "ər"), "from": ("frəm", "frəm")}
+
+
 def lookup(phrase: str) -> tuple[str, str]:
     """(UK, US) для слова или выражения из нескольких слов; пустая строка — если чего-то нет в словаре."""
     if phrase.lower() in manual():
@@ -177,6 +183,9 @@ def lookup(phrase: str) -> tuple[str, str]:
         return "", ""
     uk, us = [], []
     for w in words:
+        if len(words) > 1 and w in WEAK:
+            uk.append(WEAK[w][0]); us.append(WEAK[w][1])
+            continue
         u = uk_d.get(w) or uk_d.get(w.replace("-", ""))
         a = us_d.get(w) or us_d.get(w.replace("-", ""))
         if not u and not a:

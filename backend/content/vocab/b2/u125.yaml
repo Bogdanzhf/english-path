@@ -1,14 +1,25 @@
-title: Objects and materials
-title_ru: Предметы и материалы
-topic: objects
+title: Events and situations
+title_ru: События и ситуации
+topic: events
 words:
-- dome | n | dəʊm | doʊm | купол | a round roof | The cathedral has a huge golden *dome*. | У собора огромный золотой купол.
-- heap | n | hiːp |  | куча, груда | an untidy pile | A *heap* of branches lay by the road. | У дороги лежала груда веток.
-- hook | n | hʊk |  | крючок | a curved piece of metal for hanging things | Hang your coat on the *hook*. | Повесь пальто на крючок.
-- landing | n | ˈlændɪŋ |  | высадка; приземление; лестничная площадка | the act of arriving on land from the sea or air | The plane made an emergency *landing*. | Самолёт совершил аварийную посадку.
-- lump | n | lʌmp |  | комок, глыба; шишка | a small solid piece; a swelling | Stir the sauce so there are no *lumps*. | Помешивайте соус, чтобы не было комков. | a lump in your throat — ком в горле
-- output | n | ˈaʊtpʊt |  | объём производства, выпуск | the amount produced | Oil *output* has fallen this year. | Добыча нефти в этом году снизилась.
-- pole | n | pəʊl | poʊl | шест, столб; полюс | a long thin stick; the North or South end of the Earth | The flag was hanging from a tall *pole*. | Флаг висел на высоком шесте.
-- rack | n | ræk |  | стойка, полка, подставка | a frame with bars or shelves for holding things | Put your bike in the bike *rack*. | Поставь велосипед на велопарковку.
-- sword | n | sɔːd | sɔːrd | меч | a long sharp metal weapon | The knight raised his *sword*. | Рыцарь поднял меч. | w не произносится
-- trigger | n | ˈtrɪɡə | ˈtrɪɡər | спусковой крючок; причина | the part of a gun you press to fire; the cause of something | Stress can be a *trigger* for headaches. | Стресс может вызывать головную боль.
+- blessing | n | ˈblesɪŋ |  | благословение; благо | something good; approval | Having good health is a *blessing*. | Хорошее здоровье — это благо.
+- coaching | n | ˈkəʊtʃɪŋ | ˈkoʊtʃɪŋ | тренировка, наставничество | training | She gives *coaching* in tennis. | Она тренирует теннисистов.
+- compromise | v | ˈkɒmprəmaɪz | ˈkɑːmprəmaɪz | идти на компромисс | to agree to accept less than you wanted | We both wanted a different film, so we *compromised* and watched a comedy. | Мы оба хотели разные фильмы, поэтому пошли на компромисс и посмотрели комедию.
+- cooperation | n | kəʊˈɒpəˈreɪʃən | ˌkwɑːpəˈreɪʃən | сотрудничество | working together | Thank you for your *cooperation*. | Спасибо за сотрудничество.
+- craft | v | krɑːft | kræft | мастерить, искусно делать | to make something with skill, usually by hand | He *crafted* a beautiful table from old wood. | Он смастерил красивый стол из старого дерева. | сущ. craft — ремесло
+- demonstration | n | ˌdemənˈstreɪʃən |  | демонстрация; митинг | showing how something works; a protest | He gave a *demonstration* of the new phone. | Он продемонстрировал новый телефон.
+- determination | n | dɪˌtɜːmɪˈneɪʃn | dɪˌtɜːrmɪˈneɪʃn | решимость | the quality of continuing to try even when it is difficult | She passed the exam through hard work and *determination*. | Она сдала экзамен благодаря упорному труду и решимости.
+- drain | n | dreɪn |  | сток, водосток | a pipe that takes away dirty water | The kitchen *drain* is blocked. | Слив на кухне засорился. | гл. drain — сливать
+- evaluation | n | ɪˌvæljuːˈeɪʃən | iːˌvæljuːˈeɪʃən | оценка | judging the value of | The *evaluation* showed good results. | Оценка показала хорошие результаты.
+- exploration | n | eksplɔːˈreɪʃən | ˌekspləˈreɪʃən | исследование (местности) | travelling to discover | Space *exploration* is expensive. | Освоение космоса стоит дорого.
+- inspection | n | ɪnˈspekʃən | ˌɪnˈspekʃən | проверка, осмотр | a careful check | The car passed its *inspection*. | Машина прошла техосмотр.
+- interaction | n | ˌɪntəˈrækʃən | ˌɪnəˈrækʃən | взаимодействие | communication between people | Children need social *interaction*. | Детям нужно общение.
+- measurement | n | ˈmeʒəmənt | ˈmeʒərmənt | измерение, размер | the size of something | Take the *measurements* of the room. | Измерьте комнату.
+- obligation | n | ˌɒblɪˈɡeɪʃən | ˌɑːbləˈɡeɪʃən | обязательство | something you must do | You're under no *obligation* to buy. | Вы не обязаны покупать.
+- observation | n | ɒbzəˈveɪʃən | ˌɑːbzərˈveɪʃən | наблюдение | watching carefully | He's in hospital for *observation*. | Он в больнице под наблюдением.
+- participation | n | pɑːˈtɪsɪˈpeɪʃən | pɑːrˌtɪsəˈpeɪʃən | участие | taking part | Thank you for your *participation*. | Спасибо за участие.
+- preparation | n | ˌprepəˈreɪʃən |  | подготовка | getting ready | *Preparation* is the key to success. | Подготовка — залог успеха.
+- pursuit | n | pəˈsjuːt | pərˈsuːt | стремление, поиск; погоня | the act of trying to achieve something; chasing | He devoted his life to the *pursuit* of knowledge. | Он посвятил жизнь поиску знаний.
+- registration | n | ˌredʒɪˈstreɪʃən |  | регистрация | putting your name on an official list | *Registration* closes on Friday. | Регистрация заканчивается в пятницу.
+- stroke | n | strəʊk | stroʊk | мазок; удар; инсульт | a single movement of a brush or pen | He painted with quick, short *strokes*. | Он писал быстрыми короткими мазками.
+- usage | n | ˈjuːsɪdʒ | ˈjuːsədʒ | употребление, использование | the way something is used | Water *usage* rises in summer. | Летом расход воды растёт.

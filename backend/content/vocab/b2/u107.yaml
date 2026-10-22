@@ -1,17 +1,32 @@
-title: Society and politics
-title_ru: Общество и политика
-topic: society
+title: Law and crime
+title_ru: Закон и преступность
+topic: law
 words:
-- Catholic | adj | ˈkæθlɪk |  | католический | belonging to the Roman Catholic Church | The village had a small *Catholic* church. | В деревне была маленькая католическая церковь.
-- colony | n | ˈkɒləni | ˈkɑːləni | колония | a country or area controlled by another country; a group of animals living together | Australia was once a British *colony*. | Австралия когда-то была британской колонией.
-- congress | n | ˈkɒŋɡres | ˈkɑːŋɡrəs | конгресс, съезд | a large formal meeting; the law-making body of the USA | The plan must be approved by *Congress*. | План должен одобрить Конгресс.
-- formation | n | fɔːˈmeɪʃn | fɔːrˈmeɪʃn | образование, формирование | the process of forming | Trees help the *formation* of rain clouds. | Деревья способствуют образованию дождевых облаков.
-- forum | n | ˈfɔːrəm |  | форум | a place where people can discuss things, especially online | He posted his theory on an online *forum*. | Он выложил свою теорию на интернет-форуме.
-- institution | n | ˌɪnstɪˈtjuːʃn | ˌɪnstɪˈtuːʃn | учреждение, институт | a large important organization | Banks and universities are important *institutions*. | Банки и университеты — важные учреждения.
-- ministry | n | ˈmɪnɪstri |  | министерство | a government department | The health *ministry* launched a sleep campaign. | Министерство здравоохранения запустило кампанию о сне.
-- mission | n | ˈmɪʃn |  | миссия, задание | an important job, often in another place | The astronauts returned from their *mission*. | Астронавты вернулись из полёта.
-- patrol | n | pəˈtrəʊl | pəˈtroʊl | патруль | a group of soldiers or police who move around an area to guard it | A police *patrol* stopped the car. | Полицейский патруль остановил машину. | гл. patrol — патрулировать
-- racial | adj | ˈreɪʃl |  | расовый | connected with race | The law bans *racial* discrimination. | Закон запрещает расовую дискриминацию.
-- rank | n | ræŋk |  | ранг, звание | a position in a group or organisation | He reached the *rank* of captain. | Он дослужился до звания капитана.
-- senate | n | ˈsenət |  | сенат | a group of people who make laws or advise a ruler | The Roman *Senate* met in a large building in the city centre. | Римский сенат заседал в большом здании в центре города.
-- troops | n | truːps |  | войска | soldiers | The government sent *troops* to the border. | Правительство направило войска к границе.
+- assassin | n | əˈsæsɪn |  | убийца (политический) | a person who kills an important person | The *assassin* was arrested within hours. | Убийцу арестовали в течение нескольких часов. | assassination — убийство (политика)
+- attorney | n | əˈtɜːni | əˈtɜːrni | адвокат, юрист | a lawyer (US) | His *attorney* advised him to say nothing. | Адвокат посоветовал ему ничего не говорить.
+- burglary | n | ˈbɜːɡləri | ˈbɜːrɡləri | кража со взломом | breaking into a building to steal | There was a *burglary* next door. | У соседей была кража со взломом.
+- constitution | n | ˌkɒnstɪˈtjuːʃn | ˌkɑːnstɪˈtuːʃn | конституция; телосложение | the basic laws of a country | The US *Constitution* was written in 1787. | Конституция США была написана в 1787 году.
+- contract | n | ˈkɒntrækt | ˈkɑːntrækt | контракт, договор | a written legal agreement | He signed a two-year *contract*. | Он подписал контракт на два года.
+- copyright | n | ˈkɒpɪraɪt | ˈkɑːpiːraɪt | авторское право | the legal right to a book, song, etc. | The *copyright* belongs to the author. | Авторские права принадлежат автору.
+- deed | n | diːd |  | поступок, деяние | an action, especially a very good or bad one | He was praised for his good *deeds*. | Его хвалили за добрые дела.
+- fraud | n | frɔːd |  | мошенничество; подделка | the crime of deceiving people to get money or advantage | He was arrested for credit card *fraud*. | Его арестовали за мошенничество с кредитными картами.
+- gangster | n | ˈɡæŋstə | ˈɡæŋstər | гангстер | a member of a criminal gang | He played a *gangster* in the film. | В фильме он сыграл гангстера.
+- hijack | v | ˈhaɪdʒæk |  | захватывать (самолёт и т. п.) | to take control of a vehicle by force | Terrorists *hijacked* the plane. | Террористы захватили самолёт.
+- jail | n | dʒeɪl |  | тюрьма | a place where criminals are kept | The thief spent two years in *jail*. | Вор провёл два года в тюрьме. | = prison
+- judgement | n | ˈdʒʌdʒmənt |  | суждение; решение суда | an opinion; a decision of a court | I trust your *judgement*. | Я доверяю твоему мнению. | амер. judgment
+- juror | n | ˈdʒjʊrə | ˈdʒʊrər | присяжный | a member of a jury | The *jurors* found him guilty. | Присяжные признали его виновным.
+- jury | n | ˈdʒʊəri | ˈdʒʊri | присяжные; жюри | a group of people who decide if someone is guilty in court | The *jury* found him not guilty. | Присяжные признали его невиновным.
+- licence | n | ˈlaɪsəns |  | лицензия, права (брит.) | an official document that allows you to do something | Can I see your driving *licence*? | Можно ваши права? | амер. license
+- oath | n | əʊθ | oʊθ | клятва, присяга | a formal promise | He took an *oath* never to leave his land. | Он поклялся никогда не покидать свою землю.
+- offence | n | əˈfens |  | правонарушение; обида | a crime; a feeling of being upset | It's an *offence* to drive without insurance. | Ездить без страховки — правонарушение. | амер. offense
+- offender | n | əˈfendə | əˈfendər | правонарушитель | a person who commits a crime | Young *offenders* need help. | Молодым правонарушителям нужна помощь.
+- offense | n | əˈfens |  | преступление, правонарушение; обида | an illegal act; the feeling of being insulted | Driving without a license is an *offense*. | Езда без прав — правонарушение. | брит. offence; take offense — обидеться
+- piracy | n | ˈpaɪərəsi | ˈpaɪrəsi | пиратство | copying films, music, etc. illegally; robbing ships | Online *piracy* costs the film industry billions. | Онлайн-пиратство обходится киноиндустрии в миллиарды.
+- shoplifting | n | ˈʃɒplɪftɪŋ | ˈʃɑːplɪftɪŋ | магазинная кража | stealing from a shop | He was arrested for *shoplifting*. | Его задержали за кражу в магазине.
+- suspect | v | səˈspekt |  | подозревать | to think that something is probably true, often something bad | I *suspect* he is not telling the truth. | Подозреваю, что он говорит неправду. | сущ. suspect [ˈsʌspekt] — подозреваемый
+- theft | n | θeft |  | кража | the crime of stealing | He reported the *theft* of his bike to the police. | Он заявил в полицию о краже велосипеда. | thief — вор
+- traitor | n | ˈtreɪtə | ˈtreɪtər | предатель | a person who betrays their country or friends | He was called a *traitor*. | Его назвали предателем.
+- trial | n | ˈtraɪəl |  | суд, судебный процесс; испытание | the process in court to decide if someone is guilty | The *trial* lasted three weeks. | Судебный процесс длился три недели.
+- vandalism | n | ˈvændəlɪzəm |  | вандализм | damaging property on purpose | *Vandalism* is a problem in the area. | В районе проблема с вандализмом.
+- violence | n | ˈvaɪələns |  | насилие | physical force intended to hurt | The film contains scenes of *violence*. | В фильме есть сцены насилия.
+- witness | n | ˈwɪtnəs |  | свидетель | a person who sees a crime or an accident | Police are looking for *witnesses* to the accident. | Полиция ищет свидетелей аварии.

@@ -24,7 +24,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(Path(__file__).parent))
-from ipa import lookup  # noqa: E402
+from ipa import lookup, manual  # noqa: E402
 
 V2 = ROOT / "_scratch" / "v2"
 FILL = Path(__file__).with_name("fill")
@@ -87,6 +87,11 @@ def fill_key(c: dict) -> str:
     return f"{c['lemma'].lower()}@{c['level']}" if c["card"] == "sense" else c["lemma"].lower()
 
 
+def by_pos(lemma: str, pos: str, uk: str, us: str) -> tuple[str, str]:
+    """Омографы (wind n/v, record n/v…): ipa_manual.txt может задать «слово/часть речи = UK | US»."""
+    return manual().get(f"{lemma.lower()}/{pos}", (uk, us))
+
+
 def card_content(c: dict, fill: dict, v1: dict) -> tuple[str, list[str], str, str] | None:
     """(часть речи, [перевод, определение, пример, перевод примера, заметка], uk, us) или None — ещё не написано."""
     lemma = c["lemma"]
@@ -101,10 +106,11 @@ def card_content(c: dict, fill: dict, v1: dict) -> tuple[str, list[str], str, st
             uk, us = "", ""
         else:
             uk, us = lookup(lemma)
-        return pos, rest, uk, us
+        return (pos, rest, *by_pos(lemma, pos, uk, us))
     old = next((o for o in olds if o["pos"] == c["pos"]), None) or (olds[0] if olds else None)
     if old and c["card"] == "main":
-        return old["pos"], [old["ru"], old["def"], old["ex"], old["exRu"], old.get("note", "")], old["uk"], old["us"]
+        return (old["pos"], [old["ru"], old["def"], old["ex"], old["exRu"], old.get("note", "")],
+                *by_pos(lemma, old["pos"], old["uk"], old["us"]))
     return None
 
 
