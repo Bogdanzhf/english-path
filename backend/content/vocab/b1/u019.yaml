@@ -1,9 +1,28 @@
-title: Numbers and quantity
-title_ru: Числа и количество
-topic: numbers
+title: Time and dates
+title_ru: Время и даты
+topic: time
 words:
-- Celsius | n | ˈselsiəs |  | Цельсий | a scale for measuring temperature, where water freezes at 0° | Water boils at 100 degrees *Celsius*. | Вода кипит при 100 градусах Цельсия.
-- diameter | n | daɪˈæmɪtə | daɪˈæmɪtər | диаметр | the length of a straight line through the centre of a circle | The pizza is 30 centimetres in *diameter*. | Диаметр пиццы — 30 сантиметров.
-- Fahrenheit | n | ˈfærənhaɪt |  | Фаренгейт | a temperature scale where water freezes at 32° | The temperature reached 120 degrees *Fahrenheit*. | Температура достигала 120 градусов по Фаренгейту.
-- percent | n | pəˈsent | pərˈsent | процент | one part in every hundred (%) | Forty *percent* of the world's languages are endangered. | Сорок процентов языков мира находятся под угрозой. | брит. часто per cent
-- statistic | n | stəˈtɪstɪk |  | статистика, статистические данные | a number that shows a fact | *Statistics* show that more people live alone now. | Статистика показывает, что теперь больше людей живёт в одиночестве.
+- anniversary | n | ˌænɪˈvɜːsəri | ˌænɪˈvɜːrsəri | годовщина | the date when something happened in an earlier year | Today is our tenth wedding *anniversary*. | Сегодня десятая годовщина нашей свадьбы.
+- continuous | adj | kənˈtɪnjuːəs |  | непрерывный | without stopping | There was *continuous* rain all day. | Весь день шёл непрерывный дождь.
+- currently | adv | ˈkʌrəntli | ˈkɜːrəntli | в настоящее время | now | She is *currently* working in Berlin. | Сейчас она работает в Берлине.
+- decade | n | ˈdekeɪd |  | десятилетие | a period of ten years | The company grew rapidly over the next *decade*. | В следующее десятилетие компания стремительно росла.
+- easygoing | adj | iːˈzɪɡəʊɪŋ | ˈiːziːˈɡoʊɪŋ | спокойный, покладистый | relaxed and not easily worried | My dad is very *easygoing*. | Мой папа очень спокойный человек.
+- eternity | n | ɪˈtɜːnɪti | iːˈtɜːrnəti | вечность | time without end | The wait felt like an *eternity*. | Ожидание показалось вечностью.
+- eventually | adv | ɪˈventʃuəli |  | в конце концов | after a long time or after many problems | We waited for hours, but *eventually* the bus came. | Мы ждали много часов, но в конце концов автобус пришёл. | не путайте с «возможно» — это possibly
+- forever | adv | fərˈevə | fərˈevər | навсегда | for all time in the future | When a language dies, its stories are lost *forever*. | Когда язык умирает, его истории утрачиваются навсегда.
+- fortnight | n | ˈfɔːtnaɪt | ˈfɔːrtnaɪt | две недели (брит.) | two weeks | We're going on holiday for a *fortnight*. | Мы уезжаем в отпуск на две недели.
+- frequently | adv | ˈfriːkwəntli |  | часто | many times; often | He *frequently* forgets his keys. | Он часто забывает ключи.
+- historic | adj | hɪˈstɒrɪk | hɪˈstɔːrɪk | исторический (важный) | important in history | It was a *historic* moment for the country. | Это был исторический момент для страны. | historical — относящийся к истории
+- honeymoon | n | ˈhʌnɪmuːn | ˈhʌniːmuːn | медовый месяц | a holiday after a wedding | They went to Bali for their *honeymoon*. | В медовый месяц они поехали на Бали.
+- instant | n | ˈɪnstənt |  | мгновение | a very short moment | For an *instant*, I didn't know where I was. | На мгновение я не понял, где нахожусь. | прил. instant — мгновенный, растворимый
+- leave | n | liːv |  | отпуск | time away from work | She's on maternity *leave*. | Она в декрете. | sick leave — больничный
+- meanwhile | adv | ˈmiːnwaɪl |  | тем временем | while something else is happening | I'll cook. *Meanwhile*, you can set the table. | Я буду готовить. А ты тем временем накрой на стол.
+- monthly | adv | ˈmʌnθli |  | ежемесячно | every month | The magazine is published *monthly*. | Журнал выходит ежемесячно.
+- nap | n | næp |  | короткий сон (днём) | a short sleep during the day | Grandpa always has a *nap* after lunch. | Дедушка всегда дремлет после обеда. | take a nap — вздремнуть
+- noon | n | nuːn |  | полдень | twelve o'clock in the day | We'll meet at *noon*. | Встретимся в полдень.
+- nowadays | adv | ˈnaʊədeɪz |  | в наши дни | at the present time, compared with the past | *Nowadays*, almost everyone has a mobile phone. | В наши дни почти у всех есть мобильный телефон.
+- previously | adv | ˈpriːvɪəsli | ˈpriːviəsli | ранее, прежде | before now | She had *previously* worked in a bank. | Раньше она работала в банке.
+- rarely | adv | ˈreəli | ˈrerli | редко | not often | I *rarely* watch TV. | Я редко смотрю телевизор.
+- sunrise | n | ˈsʌnraɪz |  | восход солнца | the time when the sun appears in the morning | We got up early to watch the *sunrise*. | Мы встали рано, чтобы увидеть восход.
+- sunset | n | ˈsʌnset |  | закат | the time when the sun goes down | The *sunset* over the sea was beautiful. | Закат над морем был прекрасен.
+- underage | adj | ˌʌndəˈreɪdʒ | ˈʌndərɪdʒ | несовершеннолетний | too young to do something legally | *Underage* drinking is illegal. | Распитие алкоголя несовершеннолетними незаконно.
