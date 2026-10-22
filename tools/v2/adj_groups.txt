@@ -1,0 +1,95 @@
+# Группы прилагательных для уроков «Описание» (разложено вручную).
+# character, feelings → тема «Чувства и характер»; looks, senses, values, time, logic, degree, domains → подгруппы
+# «Описания» (свой подзаголовок урока). Любая другая метка — это тема (grammar, objects, nature …).
+
+# --- A1 ---
+looks: beautiful big black blonde blue brown dark gray grey green handsome large light little long orange pink pretty purple red short small tall white yellow color strong fast slow quick clean dirty
+senses: cold cool hot warm delicious quiet
+values: bad best better good great nice fantastic wonderful perfect important interesting exciting useful dangerous difficult easy expensive cheap popular famous favorite favourite fine special correct wrong
+time: early late modern new old young final
+logic: different same similar possible real sure true false common key
+degree: complete full free extra
+domains: local natural personal negative poor rich
+feelings: awake busy ready
+character: funny
+grammar: else other only own next
+manner: well
+phrases: ok
+
+# --- A2 ---
+looks: attractive blank bottom bright circle colorful cute double dry empty enormous flat good-looking heavy huge left-hand low narrow overweight right-hand round sandy silver slim soft square straight thick thin tight top ugly underwater wet wide wooden broken closed shut split twin
+senses: boiled fresh fried grilled loud noisy sweet
+values: amazing awful brilliant comfortable excellent fun helpful ideal incredible lovely marvelous perfect pleasing safe simple strange successful super terrible typical unforgettable unhealthy unusual usual normal ordinary everyday ugly
+time: ancient classical elementary following further latter long-time past recent regular traditional used working
+logic: based certain clear close connected direct due even exact given impossible included likely main separate specific uncertain unlike
+degree: double extreme half-price inexpensive major middle single singular whole
+domains: male physical pop public secret state
+feelings: able alive amused asleep dead divorced fit hurt lost missing pleased scared sleepless sleepy surprised worried available
+character: careful clever crazy energetic fair formal frank greedy independent intelligent kindly lazy lonely mean nervous polite rude serious smart strict tidy weak wild
+grammar: any_more that this very just still all_right alright so-called per_cent home
+nature: live
+place: flying
+
+# --- B1 ---
+looks: bald bend circular coloured covered damaged deep dressed dusty edge fallen faraway flash folk golden hanging hand-held lean level loose medium navy_blue newborn outward pale rough round sharp shiny smooth solid spiral swollen tiny wavy well-built well-dressed worn stuffed stylish fashionable fancy luxury
+senses: burning canned damp freezing frozen humid liquid mild poisonous raw ripe rotten sour tasteless tasty thunderous silent
+values: acceptable adorable appropriate awesome basic convenient delightful devastating disappointing disgusting effective essential fascinating favorable harmful horrible impressive improper inconvenient informative mysterious noticeable obvious peaceful perfect persuasive powerful practical precious proper relaxing reliable respectable romantic scenic sensible shameful stressful suitable threatening tiring trying unbelievable unclear unfair unnecessary valuable vivid wasteful worth
+time: brand-new chronological continual current expected former immediate later latest long-term old-fashioned out-of-date overnight post-war previous primary recycled repeated retired sudden transitional up-to-date secondary second-hand secondhand
+logic: abnormal accidental additional definite equal familiar fixed imaginary indirect irregular known logical marked neither nor odd particular potential precise rare related select standard unlikely unpredictable unrelated various whatever
+degree: abundant entire extra limited total central chief major principal
+domains: armed artificial automatic cultural eastern educational environmental face-to-face first-floor historical indoor legal military national northern northeast northeastern northwest northwestern nuclear official onstage outdoor paid political preschool private scientific sexual southern sports technical underground united western worldwide written spoken narrative duty-free self-service involved located next-door lawful
+feelings: allergic amazed annoyed annoying anxious aware confused content embarrassed embarrassing engaged exhausted frightened helpless injured insane overjoyed prepared proud relaxed stressed stricken stuck tense unable uplifted upset unemployed unfit penniless prosperous unlucky unwanted
+character: ambitious brave careless cheerful confident courageous cruel determined diligent dishonest educated experienced faithful foolish generous gentle gifted graceful hard-working hasty honest impatient informal keen kind lively messy organized orderly possessive qualified responsible selfish senior silly stubborn talented talkative trustworthy vain wise young middle-aged
+grammar: nope
+actions: drop moving rolling
+describing: beauty heavenly cheap complex classic hearted festive forbidden motionless shadowy fine inner innermost mental total
+nature: chief
+
+# --- B2 ---
+looks: aerial angle bare barren bent blind blooming blurred bony broad colourful compact condensed crease curl curve curved cylinder dated dim dome dot elegant erect feminine fold folding glamorous gorgeous horizontal lush luxurious majestic masculine massive matching microscopic miniature neat oval packed picturesque plain pointed posh rectangular rubber rusty shabby shaped steep stiff tanned triangle twisted upright upside_down uneven vertical waterproof winding wrinkle youthful mold rim sag
+senses: arctic boiling breezy coarse cozy fragrance icy moist salty scent sparkling stale soaked soaking soothing tactile tropical turbulent yummy dull
+values: admirable affordable amusing astonishing awkward breathtaking catastrophic catchy challenging charming confusing convincing cost-effective decent deceptive delicate demanding destructive disastrous disgraceful distressing dramatic economical efficient efficiency encouraging enjoyable entertaining exquisite extraordinary fabulous flawless formidable glorious grand handy harmless haunting hazardous heartbreaking heartwarming horrifying humiliating humorous ineffective inspirational irresistible irritating lousy lucrative magical magnificent mediocre memorable miserable nasty notorious outrageous outstanding overwhelming pointless preferable priceless productive promising remarkable ridiculous risky satisfactory shocking spectacular splendid stunning terrific terrifying thrilling tough tragic tricky troublesome unacceptable unattractive unbearable unbeatable understandable unimaginable unreasonable useless valuable weird worrying worthless worthwhile wondrous disobedient
+time: advance contemporary developing enduring existing gradual initial last-minute lifelong long-standing ongoing permanent prior proposed routine scheduled seasonal short-term simultaneous subsequent temporary timeless timely transient
+logic: absolute abstract accurate actual alike apparent approximate associated characteristic coherent compatible conceivable concrete consistent constant contradictory contrary conventional distinct doubtful equal equivalent estimated evident exclusive factual figurative genuine identical incorrect inaccurate literal objective parallel peculiar predictable predictive probable proven random randomly relevant representative similar specific subject understanding unexpected unfamiliar unforeseen unique unmistakable valid vague verifiable
+degree: ample countless excess excessive extensive large-scale margin maximum mere minimum minor minute moderate multiple numerous partial plus remaining severe sheer slight sufficient supreme tremendous ultimate vast widespread intense intensive
+domains: agricultural alphabetical charitable civil corporal dairy democratic domestic editorial elective ethical ethnic executive external fellow governmental high-tech holy industrial intellectual internal interpersonal joint liberal literary manual material mechanical metric moral motor multinational mutual non-profit non-smoking numerical offshore paramedic pastoral patriotic postal psychological racist regional residential respiratory sacred sanitary sector sporting statewide strategic technological universal unofficial virtual visual voluntary designer specialist dairy core mogul
+feelings: absent addicted addictive ashamed astonished attached bothered bound concerned convinced delighted depressed desperate dissatisfied fascinated fed_up furious grown-up homeless horrified immune impressed indebted infected irritated isolated lame motivated petrified possessed powerless pregnant puzzled relieved satisfied shaken shaky shocked starving stranded unaware unconscious unwilling weary willing hopeful immortal mortal lifeless
+character: adaptable adventurous aggressive attentive authoritative benevolent bold capable carefree casual cautious cheeky childish communicative considerate conservative curious dependable dominant efficient frugal funky gay honorable hospitable humane ignorant impartial impolite impulsive inexperienced innate inventive irrational irresponsible loyal modest naughty neutral obedient passive picky punctual rash rational realistic rebellious reckless reliable respected self-confident sensitive sincere skilled skillful sloppy sociable stern stingy supportive tame thoughtless tolerant truthful trusty well-balanced well-organized rival
+grammar: onwards interestingly individually locally economically historically
+objects: dome dot crease cylinder
+actions: quit removed improved intended attainable achievable accessible unavailable unauthorized unchanged untreated vacant stable secure resistant reusable unstable unsafe unreliable unsuccessful unstoppable unlimited unrealistic unpopular uncommon unnatural unpopular
+describing: classic critical deliberate descriptive detailed divine diverse divided dynamic epic evil exotic expressive fake flammable flexible fluid foul frantic fundamental genetic grave grim gloomy hidden high-profile idle immoral incurable indescribable inert inflammatory infectious innovative inseparable irresistible magical mock oriented outer opposed polar potent pretend prime protective pure purposeful queer resonant rosy secure solo spare standby standing superior supernatural surrounding swift systematic thorough trivial twisted upper vital vigorous virgin visible worldly worthy wealthy failed adopted distinguished prominent precious divine deadly ethical tropical
+
+# --- C1 ---
+looks: angle aqua arc battered bulky chiselled classy clammy creamy dense dimensional fissure frosty incision invisible ornamental outstretched panoramic pendulous rear rugged showy spacious spartan strapping supple taut violet wizened wooded tangled outspoken bald
+senses: acidic audible bubbly chilly gushing staccato stuffy toxic soluble
+values: appalling appealing appetizing beguiling compelling damaging degrading desirable disquieting disturbing effortless engaging engrossing enviable exceptional exhilarating fatal frustrating gracious gruelling gruesome inadequate inappropriate inexcusable ingenious insufficient intriguing lacklustre legendary ludicrous macabre meaningless monotonous notable optimal phenomenal plausible pleasurable poignant prestigious problematic profitable prohibitive provocative refreshing riveting robust scathing sinister staggering startling striking superb thought-provoking uneventful uninspiring unsettling viable wicked dismal dreary appalling
+time: antiquated archaic ceaseless commonplace concurrent consecutive customary eventual forthcoming habitual imminent impending interim latent lengthy premature preliminary prospective upcoming
+logic: applicable arbitrary authentic comparable complementary conditional consequent contested convoluted corresponding coupled credible definitive discrete distinctive divergent dubious elusive erroneous explanatory explicit generic homogeneous implicit inexplicable inexplicably inherent integral interior irrelevant legitimate misleading pertinent pronounced reminiscent respective reverse selective speculative subjective subtle symbolic underlying varied versus explicit
+degree: acute cumulative excess finite immense inexhaustible lesser limitless marginal minimal negligible predominant prevalent profound scarce sole whatsoever staggering
+domains: aesthetic affluent architectural aquatic behavioral civic cognitive collaborative collective communal constitutional cooperative corrupt cosmopolitan cult diagnostic diplomatic electoral experimental forensic functional humanitarian ideological indigenous industrious maternal militant molecular monetary monolingual nationwide nocturnal occupational operational oral organizational paternal paternalistic philosophical presidential privileged provincial quantitative radical regulatory remedial reproductive revolutionary secular sensory serial structural stylistic suburban synthetic tactical theatrical theoretical transatlantic verbal
+feelings: accustomed alert apprehensive avid bubbly claustrophobic compliant compromised congested deceased disquieting eligible esteemed humble insecure irate lethargic liable mature reluctant self-conscious sentient troubled undaunted unwavering victorious vulnerable wary afflicted
+character: agreeable aimless benign bizarre candid competent conscientious decisive dedicated defensive docile dumb dutiful eccentric eclectic enterprising feeble ferocious fiendish fierce gutsy hardy harsh headstrong hypocritical impish impersonal impervious inclusive industrious insensitive insightful instinctive intuitive inward knowledgeable methodical naive neglectful negligent nondescript outspoken persistent pragmatic prolific quirky raunchy resilient resourceful sarcastic sober tactful temperamental thoughtful versatile vibrant vocal voracious wry
+grammar: albeit amid whereby whilst apt_to apt latter
+place: adjacent adjoining boundary bounds midst periphery orient whereabouts situated scattered secluded node
+describing: abrupt absurd accountable adaptive adjustable adverse advisory alien alpha anchored anonymous automatic boundary cognitive costly crude dense discrete durable elaborate explosive fanciful flawed fragile fringe frosty grave gross immense inclined indefinite infamous inferior influential integrated intact intimate invalid ironic linear mainstream mandatory misguided nondescript portable radical readable reactive recessive recognizable renowned reputable revealing rigid rudimentary saturated simplified sole specialized spontaneous stark sterile straightforward superficial susceptible suspicious sustainably transparent unassisted unconventional unintelligible unmanageable unmanned unoccupied
+
+# --- C2 ---
+looks: agile amorphous angular baroque capacious concentric earthen elephantine glitzy mottled muscle-bound opacity opaque ornate plume rickety scroll spatial telescopic plum
+senses: calorific palatable torrential seismic
+values: arduous calamitous counterproductive crippling daunting derisive disparaging farcical ignominious impeccable jarring laudatory lurid magnanimous menacing meticulous painstaking resounding revelatory treacherous unnerving uncanny unsurpassed veritable abject
+time: antediluvian archival burgeoning extant moribund nascent outmoded preeminent primeval
+logic: analogous antithetical arcane axiomatic bona_fide cogent commensurate contextual converse diffuse exact hypothetical incongruous inexorable infallible inscrutable intrinsic irrevocable ostensible paradoxical spurious tacit tantamount unequivocal verbatim
+degree: all-encompassing deficient meagre rife smattering superfluous utter
+domains: archetypal attributive autonomous centralized colloquial egalitarian genomic interrogative materialistic menial methodological philanthropic postural presentational procedural proportional proprietary qualitative residual rhetorical syllabic totemic vocational patriarchal puritanical extracurricular improvisational impressionistic lyrical scholarly euphemistic proverbial
+feelings: afflicted aghast angsty attuned bereft depressive devoid elated flagging forlorn incredulous unencumbered unexcused
+character: adept austere callous conciliatory confrontational depraved deviant didactic erudite flighty fractious gauche haughty histrionic idiosyncratic indolent ingenuous ingratiating insular mutinous patronizing pedantic perverse precocious prissy reclusive solitary surreptitious taciturn tenacious tetchy venomous wayward vehement utilitarian virginal
+describing: ad_lib advantageous anarchic bogus brink cultish derelict dilapidated eminent exalted haphazard hermetic imperceptible inadvertent interlocking malleable mesmeric oblique opulent patchy ponderous prescriptive prone protrusion proximal recumbent sandwiched seedy squirmy stringent constrained unadulterated unfeasible unmediated unobtrusive unsuspected vortex vis-a-vis
+
+# --- остаток ---
+grammar: albeit amid whereby whilst latter apt_to
+logic: necessary apt
+values: unfortunate petty redundant decorative
+domains: well-paid neighbouring overcrowded mixed
+character: proficient prophetic slack vice
+looks: depth

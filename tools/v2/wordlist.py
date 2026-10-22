@@ -329,10 +329,18 @@ def main() -> None:
         main_r["also"] = ",".join(r["pos"] for r in rs[1:] if r["level"] == main_r["level"] and r["pos"])
         main_r["card"] = "main"
         cards.append(main_r)
+        # другие части речи на более высоком уровне — одна карточка на уровень (last det/adj/adv → одна)
+        extra_by_level: dict[str, dict] = {}
         for r in rs[1:]:
-            if r["level"] != main_r["level"]:
+            if r["level"] == main_r["level"]:
+                continue
+            if r["level"] in extra_by_level:
+                ex = extra_by_level[r["level"]]
+                ex["also"] = ",".join(filter(None, [ex["also"], r["pos"]]))
+            else:
                 extra = dict(r)
                 extra["also"], extra["card"] = "", "sense"
+                extra_by_level[r["level"]] = extra
                 cards.append(extra)
     for p in load_phrases():
         cards.append({**{k: "" for k in cards[0]}, **p, "zipf": "", "card": "phrase"})

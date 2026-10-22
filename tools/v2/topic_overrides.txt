@@ -1,0 +1,178 @@
+# Ручные правки тем (по результату просмотра). Формат: «тема: слово, слово, …»; drop — убрать карточку.
+# Правка действует на слово на любом уровне.
+
+# --- A1 ---
+nature: rain, snow, plant, mountain, river, sea, island, tree, air, space, star, sun, animal, tiger, cloudy, foggy, snowy, sunny, rainy, weather, sunshine
+tech: email, internet, information, message, online, website, computer, mobile phone, phone, telephone, camera, radio, television, tv, video, cd, dvd, CD player
+clothes: wear, band-aid, jewelry, jewellery, sweater, glasses, style, ribbon, haircut
+food: diet, cooking, carrot
+body: sick, healthy, hungry, thirsty, arm, hair, health, tooth
+travel: car, driver, visit, map, way
+city: café, cafe, capital, area
+actions: dig, return, turn, throw, use, wake, check, find, get, give, lose, do, make, take, let, try, join, help, stop
+events: end
+education: exam, read, learn, skill, ruler, sentence, form
+arts: programme, picture, reader, reading, band, sound
+mind: difference, problem, plan
+grammar: how, when, where, why, however, about, in, on, off, each, last, like
+numbers: lot, enough, much, most, few, first, second, half, pair
+time: a.m., p.m., o'clock
+feelings: afraid, excited, interested, tired, sorry, angry
+people: married, police officer
+describing: extra, famous, funny, poor, quiet, fine, young
+work: farmer, interview, interviewer, meeting, policeman, business, company, machine, model
+leisure: guitar, interest, Olympics
+communication: statement
+drop: saw, smith
+
+# --- A2 ---
+food: beef, champagne, dessert, fry
+leisure: cricket, toy, ski, Olympic, camp, sports center, runner, competition, footballer, hiking, track
+society: queen, king, prince, princess, god, power, army, soldier, fighter
+tech: mobile, web, network, blog, text message, headphone, screen, tablet, digital camera, MP3 player, program, PC, app, smartphone, device, digital, download, electronic, technology, printer
+people: female, human, man, sir, invite
+city: escalator, bar, castle, palace, post office
+arts: scene, cartoon, comedy, drama, drawing, film, jazz, rap, recording, poster, instrument, ghost, draw
+describing: crazy, short, ancient, narrow, necessary
+home: balcony, cupboard, drawer, plate, brush, comb, mirror, soap, mug, knife, bowl
+shopping: bookshop, department store, drugstore, grocery store, store, credit, cheque, gift
+nature: desert, field, grass, land, leaf, nature, bloom, climate, temperature, scenery
+education: diary, document, essay, file, folder, copy, phrase, spelling, plural, comparative, superlative, test, train
+actions: catch, control, finish, protect, climb, shake, wash, stand, float
+numbers: height, weight
+body: medical, voice, sleep, smoking, wheelchair, medicine, headache, patient
+law: terrorist, police station, steal, killer
+objects: plastic, seat, engine
+science: atom, lab, electric, electrical, spaceship
+work: farming, apply, professional, farm, police officer
+clothes: make-up, handbag, wallet, perfume, sunglasses
+feelings: kiss, hug, lucky
+travel: airline, traffic light, ID card, driving, cab, petrol, petrol station, driver's license, tourism, traveller, book
+mind: option, effect, solution
+communication: response, stamp
+grammar: it
+events: accident
+economy: banking
+
+# --- B1 ---
+numbers: amount, average, percent, percentage, rate, statistic, diameter, Celsius, Fahrenheit
+food: barbecue, alcohol, alcoholic, cream, flavour, chip, mustard, popcorn, raspberry, fat, shrimp, lettuce
+nature: coast, ground, rock, stream, thunder, bush, countryside, jungle, farmland, equator, daisy, soil, moisture, shade, mountaintop, quake, volcano, nectar, earthquake, weather forecast
+home: centre, room, mow, closet, attic, garage, rent, ironing, chore, housework, property, furnish
+leisure: skate, riddle, medal, gymnasium, award, balloon, sled, entertain, yoga, goalkeeper, golfer
+travel: tour, transport, windscreen, agent, travel agent, tyre, identity card, attraction, turbulence, aboard
+body: thirst, inhale, health care, capsule, eyesight, HIV, pill, pharmacy, deaf, doc, counseling
+people: mankind, Englishman, dating, romance, sex, gender, living, date, runaway, idol
+actions: mount, glide, face, count, cheat, bother, crush, divide, treat, sort, cut, repair, seek
+arts: stage, beat, studio, autograph, musical, photograph, antique, comic, magic, witch, wizard, talent
+tech: webcam, telecommunications, audio, message board, calculator, keyboard, loudspeaker, social networking, blogger, user, battery
+society: angel, association, bureau, dynasty, kingdom, nation, motherland, haunt, hell, haven, paradise, phoenix, trend, Bible, crown, federal, authority, invade, air force, prayer, general, global
+science: nucleus, atomic, dioxide, molecule, electron, pressure, organism, substance, magnet, ray
+animals: tail, wing, cage, turtle, beaver, breeding, whale, hatch, flock, herd, swarm
+work: nurse, project, CV, engineering, vacancy, employ, mine, occupation, grocer, janitor, expert
+objects: sticker, frame, pipe, bronze, iron, tin, tape, screw, pile, treasure
+communication: complaint
+describing: wavy, edge, beauty, essential, low, cruel, silly, tiny, vain, swollen, familiar, equal, faithful, local, major
+shopping: warranty, goods, afford, exchange, checkout, queue
+economy: marketing, billionaire, financial, bank account
+environment: ecology, eco, recycling, energy, pollutant
+education: graph, class, diagram, grammatical, geometry, arithmetic, academic, educate
+mind: intelligence, issue, consequence, alternative, respect, responsibility, base, addition, original, release, refuse, round, stuff
+city: ruins, canteen, ranch, downtown
+place: upstairs, next door, westward, location, locate
+clothes: tracksuit, jade, jumper
+feelings: trust, disappointed
+law: spy, rob, license
+events: damage, affair
+grammar: auxiliary
+drop: id, ness
+
+# --- B2 ---
+animals: bat, hatching, beak, paw, bark, donkey, howl, roar, leopard, wasp
+work: butcher, founder, workshop, refinery, biologist, economist, inventor, analyst, consultant, conductor, operator, courier, caretaker, planner, presenter, retailer, supplier, trader, steward, shepherd, fire brigade, retirement, administration
+objects: chain, powder, package, lid, barrel, plug, rack, rail, ladder, arrow, badge, slot, bow, wire, bolt, bunch, bundle, heap, lump, mass, stack, knot
+travel: cruise, cyclist, pedestrian, rush hour, terminal, anchorage, navigation, overtake, windshield, bumper, depot, caravan, crash, commute, transportation, pedal, walker
+communication: rhyme, leaflet, sentence, feedback, draft, confirmation, inquiry
+arts: verse, artwork, bestseller, biography, autobiography, prose, stanza, lyric, lyrics, metaphor, hyperbole, tale, screening, novelist, audition, folklore, graffiti, showcase, choir, orchestral, repertoire, gig, cast, monster, vampire, villain, artistic, punk
+mind: structure, bias, origin, combination, sequence, overload, predictor
+numbers: sum, volume, centigrade, multiply, subtract, fraction, pentagon
+science: hybrid, bacteria, microbe, latitude, formula, ammonia, barometer, bio, cell, compound, coral, corona, DNA, gene, lava, microscope, particle, microscopy, axis, relativity, survey, biological, acid, catalyst, mineral, solvent, carbon monoxide, fossil, ozone, radiation, circuit
+tech: viral, disk, cable, graphics, icon, input, cursor, logo, bookmark, hard drive, microchip, microphone, transistor, disc, switch, telegraph, monitor, cyberspace, antivirus
+events: advent, opening, condition, completion
+society: disciple, holocaust, citizenship, commonwealth, empire, governor, republic, Soviet, territory, grave, heaven, civilization, conquest, bombing, gunshot, funeral, altar, monastery, throne, battle, astrology, commemorate, arms, tomb, relic, almighty, pharaoh, soul, royalty, bullet, status, bishop, monk, bomber, frigate, tank, warship, defence
+people: dwarf, countryman, bully, freak, host, needy, wed, mate
+nature: tide, pest, blossom, herb, hedge, coastline, prairie, outback, horizon, greenhouse, avalanche, landslide, shell, thorn, blaze, flame, growing, eruption
+body: hygiene, massage, respiration, nursing, sanitation, guts, hospice, coma, germ, X-ray, cholesterol, rib, quarantine, disabled, malaria, outpatient, paralysis, remedy, stimulant, syndrome, vomit, ambulance, clinic, ward
+feelings: patience, sympathetic, curiosity, tempt, amuse, arrogant, bossy, clumsy, cowardly, witty, sly, selfless, obsessive, irritable, bad-tempered, creepy, daft
+describing: manual, permanent, visual, waterproof, casual, challenging, secure, horizontal, fragrance, scent, decorative, resonant, universal, classic, compact, bare, critical, exotic, fake, genetic, luxurious, magical, mediocre, realistic, redundant, skillful, supernatural, unfortunate, worthy, wealthy, divine, hopeful, pastoral, prime, cautious, reckless, sociable, mixed, efficiency, petty, voluntary
+food: whiskey, catering, carbohydrate, yeast, mandarin, olive, squash, bottle, plantation
+city: facilities, facility, pavement, pier
+home: furnace, fireplace, chimney, housekeeping, mess, microwave, cot, decoration, shower, teaspoon, chair, lease, villa
+clothes: jersey, tattoo, outfit, hood, bikini, weave
+economy: accounting, stock market, decline, economics, millionaire, corporate, corporation, insurance, bidding, consumption
+education: certificate, dissertation, thesis, footnote, appendix, handout, questionnaire, syllable, session, outline, prom, dorm, dormitory, grade, marker, bracket
+leisure: dive, puzzle, gaming, lottery, marathon, martial art, bait, victory, bet
+shopping: debit, debit card, discount, retail, booth, stall, salon, deposit, till, delivery
+law: jail, copyright, oath, licence, offence, offense, juror
+actions: motion, exploit, overcome, safeguard, hang, strain, stretch, strip, compress, duplicate, duplication, extract, hone, traverse, soak, abandon, adopt, deprive, equip, recover, regain, rid, transmit, cancel, dare, handle, spoil, trap, tackle, reach
+environment: pesticide, petroleum, forestry, warming, litter
+time: schedule, annual
+place: exit
+drop: micro, ling, prick, nutshell, shrink, martial
+
+# --- C1 ---
+describing: angle, automatic, bald, arc, consequent, influential, ornamental, transparent, bubbly, excess, affluent, deceased, fiendish, inferior, nondescript, philosophical, proficient, prophetic, renowned, revealing, paternal, presidential, pragmatic, grave, serial, slack, generic
+nature: frost, pasture, orchard, terrain, tract, watershed, bouquet, dung, quarry, irrigation
+grammar: apt to
+science: bacterial, emit, hemisphere, beam, equation, specimen, vector, quantum, electromagnetic, ion, proton, propulsion, spectrum, thermal, trajectory, magnetic, magnetism, reactor, mutation, cellular, genome
+objects: gem, pipeline, grid, aerosol, chisel
+food: cocktail, grapefruit
+environment: exhaust, biosphere, deplete, herbicide
+body: airway, abortion, blister, manicure, pedicure, pregnancy, embryo, plague, antibody, enzyme, glucose, urine, pulse, clinical, psychiatric, psychiatry, surgical
+tech: desktop, log, broadband, firewall, digitalization, paywall, spam, upgrade, interface, laser, radar, browser, backup, interactive, processing, processor
+society: asylum, ballot, petition, scripture, dictator, coup, genocide, massacre, poll, theology, treaty, deploy, enlist, surrender, burial, demographic, demography, missile, rebel, veteran
+place: orient, midst, whereabouts, bounds, boundary
+law: assassination, patent, sanction, custody, detention, imprisonment, lawsuit, firearm, rape, accused, bail, bribe, extortion, con, assault, detain, imprison, sue
+economy: audit, fundraising, marketplace, merger, industrialization, concession, franchise, impoverished, commodity
+mind: benchmark, inversion, validate
+shopping: inventory, buck
+arts: satire, screenplay, folktale, farce, memoir, manuscript, darkroom, blockbuster, footage, motif, repertory, sketch, sketchbook, haunt, mythology
+work: carpentry, mining, engineer, portfolio, warehouse, anthropologist, commentator, correspondent, contractor, coordinator, counsellor, deputy, investigator, mentor, solicitor, screenwriter, tailor, tycoon, shareholder, trustee, managerial
+leisure: gambling
+actions: exert, suck, utilise, utilize, lure, confront, leak, pinpoint
+clothes: mask, overalls, weave
+city: saloon
+home: radiator, residence, utility, partition
+education: calculus
+numbers: ratio, array, chunk, cluster, matrix, subset, dual
+feelings: reluctance, altruistic, brutal, cynical, sceptical, vicious, withdrawn, zany
+animals: otter, venom, ewe, primate, breed
+travel: freight, cargo, transit, trailer
+communication: syntax, linguistic
+people: entrant, orphan, gypsy
+events: casualty, blast
+
+# --- C2 ---
+people: buccaneer, neophyte
+society: minster, besiege, blitz, minefield, philanthropy, armory, exorcism, cloister, cloistered, monastic, artifact
+mind: merit, ruminate
+feelings: quirk, camaraderie
+leisure: acrobatic, acrobatics
+tech: clickbait, transmitter, Luddite, technocratic
+describing: oblique, exact, insular, opacity, opaque, resounding, seedy, procedural, adept, antediluvian, bogus, depraved, deviant, dilapidated, egalitarian, elephantine, patriarchal, prissy, proprietary, puritanical, reclusive, scholarly, solitary, surreptitious, tetchy, utilitarian, virginal, didactic, erudite, pedantic
+body: capillary, hypnotherapy, resuscitation, midwifery, physiological, recuperation, recuperate, posture
+travel: ecotourism, globetrotter, overtourism, locomotive, mariner, autopilot, hull, helm
+objects: bauble
+events: hazard
+science: meteorology, cosmic, gravitational, stratosphere, electrode, collider, precipitate, zoology
+arts: portraiture, anthology, choreography, cinematography, surrealism
+work: incumbent, nepotism, sinecure, meritocratic, redundancy, apprentice, cinematographer, impresario, lyricist, magnate, wordsmith, zoologist, hotelier
+animals: echolocation, scavenger, vermin
+actions: wallow
+economy: conglomerate, audit, laissez-faire, stagnation
+shopping: consignment
+education: corpus, colloquium
+essay: ubiquitous, exacerbate
+nature: moor
+clothes: romper
+drop: floodgates
