@@ -1,0 +1,141 @@
+# Тематическая лексика IELTS (B2–C2): слова и словосочетания по темам экзамена.
+# Слово, которое уже есть в общем списке, получает метку темы (уровень остаётся из источников);
+# недостающее добавляется на указанном уровне. Опора: темы IELTS Writing/Speaking, IELTS Vocabulary Booster.
+# Формат: «## id | Название темы», затем «уровень: элемент, элемент, …».
+
+## education | Образование
+b2: curriculum, syllabus, tuition fees, scholarship, graduate, undergraduate, postgraduate, degree, diploma, qualification, assessment, coursework, deadline, lecture, tutorial, seminar, attendance, compulsory, optional, primary education, secondary education, higher education, distance learning, online course, academic performance, exam results, enrol, drop out, plagiarism, literacy, homeschooling, boarding school, state school, private school, gap year
+c1: tertiary education, vocational training, lifelong learning, rote learning, critical thinking, numeracy, pedagogy, mature student, entrance requirements, admissions, student loan, academic integrity, extracurricular activities, peer pressure, alumni, accreditation, standardised test, inclusive education
+c2: meritocracy, didactic, erudite, pedantic
+c1: bursary, fellowship, alumnus, university rankings, top-tier institution, major in, fall behind, keep up with, deliver a lecture, broaden your horizons, procrastinate, MOOC, blended learning, tech-savvy, computer literate
+
+## work | Работа и карьера
+b2: employee, employer, colleague, promotion, salary, wage, income, recruitment, unemployment, workforce, workload, overtime, part-time, full-time, freelance, career path, job satisfaction, work-life balance, retire, pension, internship, apprenticeship, resign, redundancy, commute, remote work, teamwork, deadline, maternity leave
+c1: job security, career prospects, skilled labour, manual labour, white-collar, blue-collar, gig economy, minimum wage, glass ceiling, burnout, productivity, outsourcing, automation, labour market, trade union, perks, headhunt, entrepreneurship
+c2: sinecure, nepotism, meritocratic
+
+## technology | Технологии и интернет
+b2: device, gadget, software, hardware, download, upload, online, offline, website, social media, smartphone, app, password, privacy, hacker, virus, digital, wireless, innovation, breakthrough, cutting-edge, user-friendly, artificial intelligence, robot, data, database, cloud computing, screen time, streaming, cybercrime
+c1: automation, algorithm, digital literacy, digital divide, cyberbullying, misinformation, surveillance, encryption, obsolete, state-of-the-art, technophobe, early adopter, internet addiction, data breach, virtual reality, machine learning, information overload
+c2: ubiquitous, disruptive technology, technocratic, Luddite
+b2: browse, hacking, digital era
+c1: technological revolution, information age
+
+## environment | Экология и климат
+b2: environment, pollution, climate change, global warming, greenhouse effect, carbon dioxide, emissions, recycle, waste, landfill, plastic waste, deforestation, endangered species, extinction, habitat, wildlife, conservation, renewable energy, solar power, wind farm, fossil fuels, sustainable, eco-friendly, organic, drought, flood, natural disaster, ozone layer, acid rain, biodegradable
+c1: carbon footprint, biodiversity, ecosystem, depletion, contamination, toxic waste, sea levels, melting ice caps, carbon neutral, offset, mitigate, irreversible, ecological, overfishing, desertification, urban sprawl, environmentally friendly, green belt
+c2: anthropogenic, exacerbate, degradation, unsustainable, ecocide
+c1: greenhouse gases, exhaust fumes, hazardous waste, industrial waste, ozone layer depletion, melting glaciers, replant, dispose of waste, conserve energy, reduce emissions
+
+## energy | Энергия и ресурсы
+b2: electricity, fuel, coal, oil, gas, nuclear power, power station, energy consumption, energy efficiency, generate, resource, natural resources, shortage, supply, demand
+c1: renewable, non-renewable, hydroelectric, geothermal, wind turbine, solar panel, energy crisis, carbon emissions, scarcity, finite resources
+c2: fracking, energy security
+c1: tidal energy, hybrid car, renewable energy sources
+
+## health | Здоровье и медицина
+b2: healthcare, treatment, symptom, diagnosis, disease, illness, infection, vaccine, vaccination, surgery, prescription, medication, side effect, therapy, mental health, stress, depression, obesity, diet, nutrition, fitness, exercise, injury, recovery, life expectancy, health insurance, sedentary lifestyle, junk food, allergy, check-up
+c1: epidemic, pandemic, chronic, terminal illness, preventive medicine, immune system, outbreak, contagious, malnutrition, eating disorder, wellbeing, public health, health service, alternative medicine, placebo, addiction, rehabilitation, euthanasia
+c2: comorbidity, sedentary, palliative care, hypochondriac
+c1: asthma, bronchitis, anorexia, bulimia, painkiller, food poisoning, sore throat, heavy cold, injection, syringe, have a filling, make a speedy recovery, reach epidemic proportions, onset of symptoms, lactose intolerance, eye drops
+
+## food | Еда и питание
+b2: balanced diet, ingredient, recipe, cuisine, vegetarian, vegan, organic food, fast food, processed food, nutritious, calorie, protein, vitamin, fibre, portion, meal, snack, takeaway, grocery, crop, harvest, agriculture, farmer
+c1: food security, genetically modified, additive, preservative, malnourished, famine, staple food, food miles, intensive farming, factory farming
+c2: gastronomy, gourmet, culinary
+b2: crispy, crunchy, chewy, savoury, sugary, spicy, bitter, have a sweet tooth, whole grains, stir-fry, steam, grill, roast, mince
+c1: nutrient, fertiliser, sustainable agriculture, fair trade
+
+## crime | Преступность и закон
+b2: crime, criminal, offender, victim, witness, suspect, arrest, prison, sentence, punishment, fine, court, trial, judge, jury, lawyer, police, robbery, burglary, theft, fraud, violence, vandalism, shoplifting, murder, illegal, guilty, innocent, evidence, law
+c1: juvenile delinquency, deterrent, rehabilitation, capital punishment, community service, life imprisonment, reoffend, crime rate, petty crime, white-collar crime, organised crime, law enforcement, legislation, prosecute, convict, acquit, verdict, parole, corruption
+c2: recidivism, incarceration, punitive, exonerate, clemency
+c1: defendant, arson, blackmail, manslaughter, felony, probation, suspended sentence, death penalty, corporal punishment, drug trafficking, pickpocket, hijack, law-abiding, crime wave, crackdown, violent crime, victimless crime, serve on a jury, appeal against a verdict, hearsay
+
+## government | Государство и общество
+b2: government, politics, politician, election, vote, democracy, policy, law, tax, taxpayer, public services, citizen, rights, freedom, equality, protest, campaign, minister, parliament
+c1: legislation, regulation, bureaucracy, welfare state, social security, subsidy, public spending, inequality, human rights, freedom of speech, censorship, authoritarian, sovereignty, accountability, transparency, lobby, grassroots
+c2: austerity, partisan, hegemony, demagogue
+
+## economy | Экономика и бизнес
+b2: economy, economic, finance, profit, loss, investment, investor, market, trade, export, import, consumer, customer, product, brand, advertising, budget, debt, loan, inflation, recession, unemployment, poverty, wealth, income, tax, business, company, competition
+c1: globalisation, consumerism, purchasing power, cost of living, standard of living, economic growth, gross domestic product, free trade, tariff, monopoly, startup, entrepreneur, revenue, stakeholder, affordability, disposable income, the gap between rich and poor
+c2: austerity, fiscal, monetary policy, stagnation, laissez-faire
+c1: e-commerce, emerging economy, global economy, developed country, developing country, trade barrier, superpower, affluence, sweatshop, interdependence
+
+## globalisation | Глобализация и культура
+b2: culture, tradition, custom, multicultural, international, foreign, immigrant, immigration, emigrate, tourism, diversity, identity, heritage, language barrier
+c1: globalisation, cultural identity, cultural heritage, assimilation, integration, multiculturalism, cultural exchange, westernisation, homogenisation, migrant workers, brain drain, diaspora, cultural convergence
+c2: cultural divergence, insularity, parochial, xenophobia
+c1: global village, anti-globalisation movement, loss of identity, intolerance
+
+## media | СМИ и реклама
+b2: media, news, newspaper, journalist, journalism, headline, article, broadcast, advertisement, advertising, commercial, celebrity, influencer, social media, the press, publicity, audience, viewer, channel, documentary
+c1: mass media, freedom of the press, censorship, sensationalism, tabloid, fake news, misinformation, propaganda, bias, coverage, consumer culture, target audience, brand loyalty, product placement
+c2: paparazzi, clickbait, echo chamber
+
+## science | Наука и исследования
+b2: science, scientist, research, researcher, experiment, laboratory, theory, discovery, invention, evidence, data, analysis, result, conclusion, hypothesis, method, sample, chemical, physics, chemistry, biology
+c1: scientific breakthrough, empirical, findings, peer review, methodology, variable, correlation, phenomenon, genetic engineering, cloning, stem cells, ethical concerns, animal testing, innovation
+c2: paradigm shift, replicable, inconclusive
+
+## space | Космос
+b2: space, planet, astronaut, rocket, satellite, orbit, universe, galaxy, solar system, telescope, star, moon, gravity
+c1: space exploration, space station, asteroid, comet, constellation, black hole, extraterrestrial, cosmology, launch, space debris
+c2: astrophysics, interstellar
+b2: eclipse, meteorite, light year, the Milky Way
+c1: gravitational force, the Big Bang
+
+## cities | Города и транспорт
+b2: city, urban, rural, suburb, inhabitant, population, traffic, traffic jam, public transport, commute, pedestrian, cyclist, infrastructure, housing, rent, accommodation, skyscraper, neighbourhood, amenities, crowded, noise pollution
+c1: urbanisation, urban sprawl, overpopulation, congestion, rush hour, affordable housing, homelessness, gentrification, high-rise, inner city, green spaces, car-free zone, road safety, densely populated
+c2: megacity, conurbation
+
+## family | Семья и поколения
+b2: family, relative, parent, sibling, upbringing, childhood, adolescence, teenager, generation, elderly, retirement, marriage, divorce, single parent, household, responsibility, role model, nuclear family, extended family
+c1: ageing population, generation gap, childcare, life expectancy, nursing home, peer pressure, parental guidance, juvenile, sibling rivalry, dependants, birth rate, breadwinner
+c2: patriarchal, matriarch
+
+## travel | Путешествия и туризм
+b2: travel, journey, trip, tourist, tourism, destination, sightseeing, landmark, accommodation, package holiday, abroad, luggage, itinerary, reservation, passport, visa, souvenir, local cuisine, backpacking
+c1: mass tourism, ecotourism, tourist trap, off the beaten track, culture shock, hospitality industry, carbon footprint, wanderlust, travel restrictions
+c2: overtourism, globetrotter
+
+## arts | Искусство и культура
+b2: art, artist, painting, sculpture, exhibition, gallery, museum, performance, concert, theatre, audience, creativity, creative, masterpiece, literature, novel, poetry, poet, classical music
+c1: abstract art, contemporary art, aesthetics, curator, art form, the arts, funding for the arts, cultural value, artistic expression, installation, architecture, heritage site
+c2: avant-garde, philistine, connoisseur, aesthete
+b2: oil painting, watercolour, still life, performing arts, visual arts, fine art, arts and crafts, portrait, landscape
+c1: impressionism, figurative art, focal point
+
+## sport | Спорт и досуг
+b2: sport, athlete, competition, tournament, championship, team, coach, fitness, gym, leisure, hobby, spare time, outdoor activities, professional, amateur, spectator, stadium
+c1: physical activity, sedentary lifestyle, sportsmanship, competitive, doping, sponsorship, extreme sports, the Olympic Games
+c2: endurance, camaraderie
+
+## animals | Животные и природа
+b2: wildlife, species, habitat, endangered, extinct, zoo, national park, nature reserve, predator, prey, mammal, reptile, insect, pet, livestock
+c1: biodiversity, conservation, poaching, animal rights, animal welfare, captivity, ecosystem, food chain, migration, natural habitat
+c2: anthropomorphism, apex predator
+
+## language | Язык и общение
+b2: language, native speaker, bilingual, fluent, fluency, accent, dialect, vocabulary, grammar, pronunciation, translate, translation, communication, body language, mother tongue
+c1: multilingual, lingua franca, language acquisition, proficiency, articulate, eloquent, non-verbal communication, miscommunication
+c2: vernacular, idiomatic, linguistically
+
+## essay | Язык эссе: аргументация
+b2: advantage, disadvantage, benefit, drawback, argue, argument, opinion, point of view, in my view, on the other hand, however, therefore, furthermore, moreover, in addition, for instance, as a result, consequently, although, whereas, overall, in conclusion
+c1: nevertheless, nonetheless, notwithstanding, to a certain extent, it is widely believed that, there is no doubt that, a growing number of, play a crucial role, have a detrimental effect on, outweigh, justify, undermine, alleviate, mitigate, address an issue, tackle a problem, raise awareness, take measures, inevitable, controversial, significant, substantial, considerable, crucial, beneficial
+c2: ubiquitous, exacerbate, paramount, unprecedented, multifaceted, contentious, indispensable, detrimental, conducive to, pervasive, salient, myriad, a double-edged sword, by and large, on balance
+
+## idioms | Идиомы и устойчивые выражения
+b1: piece of cake, break a leg, on the same page, call it a day, under the weather, by heart, take it easy, keep an eye on, make up your mind, change your mind, get on someone's nerves, in the long run, once in a while, out of order, take part in, take place, make sense, it's up to you
+b2: hit the nail on the head, the last straw, a blessing in disguise, once in a blue moon, cost an arm and a leg, break the ice, get the hang of, on the fence, the tip of the iceberg, in hot water, let the cat out of the bag, a drop in the ocean, beat around the bush, cut corners, face the music, go the extra mile, hit the books, in the nick of time, keep your fingers crossed, miss the boat, on cloud nine, pull someone's leg, see eye to eye, sit on the fence, spill the beans, take with a pinch of salt, the ball is in your court, through thick and thin, under pressure, burn the midnight oil
+c1: a double-edged sword, add insult to injury, bite off more than you can chew, by and large, come rain or shine, cut to the chase, devil's advocate, get out of hand, hit the ground running, jump on the bandwagon, keep a low profile, leave no stone unturned, a long shot, make ends meet, move the goalposts, a narrow escape, off the top of your head, on the ball, play it by ear, put all your eggs in one basket, rule of thumb, a steep learning curve, take the bull by the horns, the elephant in the room, think outside the box, throw in the towel, turn a blind eye, up in the air, wear many hats, a vicious circle, a far cry from, at the drop of a hat, behind the scenes, by the same token, food for thought
+c2: a moot point, a Pyrrhic victory, a red herring, the writing on the wall, a storm in a teacup, bury the hatchet, cross the Rubicon, an Achilles' heel, a Catch-22, the lion's share, a wild goose chase, carte blanche, a fait accompli, beyond the pale, in the offing, kick the can down the road, the thin end of the wedge, a poisoned chalice, ride roughshod over, damn with faint praise, have an axe to grind, rest on your laurels, a sea change, put the cart before the horse, toe the line, par for the course, a hornet's nest, in dire straits, a baptism of fire, the jury is still out
+
+## phrasal | Фразовые глаголы
+b1: carry on, come back, find out, get back, give back, go on, grow up, look after, look for, look forward to, pick up, put on, set up, take off, turn down, turn off, turn on, wake up, work out, give up, get up, fill in, run out of, break down, check in, get on with, look up, put off, call back, hold on
+b2: bring up, come across, come up with, cut down on, deal with, end up, figure out, get over, get rid of, give in, go through, hand in, keep up with, let down, look into, make up, point out, put up with, rule out, run into, set off, show off, sort out, stand out, take over, take up, turn out, back up, break out, bring about, carry out, catch up with, come up, drop out, fall apart, fall out, get away with, hold back, live up to, look down on, pass on, put forward, sum up
+c1: account for, boil down to, branch out, brush up on, cash in on, come down with, crack down on, do away with, draw up, factor in, fall through, get across, iron out, lay off, mull over, opt out, phase out, play down, pull through, rule out, scale back, set out, single out, step down, stem from, take on, touch on, weigh up, write off, zero in on, bounce back, call for, follow through, map out, rope in, shy away from
+c2: bandy about, fob off, gloss over, hammer out, hanker after, palm off, paper over, pore over, rake in, rattle off, ride out, square up to, stave off, whittle down, while away, worm out of
