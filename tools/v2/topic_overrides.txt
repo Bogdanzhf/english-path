@@ -182,3 +182,8 @@ food: burger
 leisure: kite
 drop: color, gray, favorite
 time: may
+
+# --- доп. значения без пользы для учащегося (основное слово остаётся) ---
+drop: it@a2, short@a2, man@a2, just@a2, very@a2, that@a2, this@a2, dark@a2, down@a2, downstairs@a2, upstairs@a2, between@a2, through@a2, first@a2, third@a2, second@a2, few@a2, lot@a2, half@a2, all@a2, any@a2, more@a2, yeah@a2, by@a2, now@a2, future@a2, for@a2, next@a2, off@a2, finish@a2, make@a2, take@a2, wake@a2, wash@a2, little@a2, adult@a2, near@a2, far@a2, outside@a2, upstairs@a2
+drop: climb@a2, time@a2, way@a2, his@a2, farm@a2, swim@a2, best@a2, better@a2, fun@a2, good@a2, please@a2, bank@a2, part@a2, guess@a2, list@a2, sure@a2, house@a2, number@a2, move@a2, start@a2, say@a2, want@a2, high@a2, feel@a2, group@a2
+drop: chirp, weep, handicapped, making, clone, self

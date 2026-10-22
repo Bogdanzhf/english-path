@@ -155,8 +155,22 @@ def to_us(raw: str) -> str:
     return _finish(s)
 
 
+@lru_cache(maxsize=1)
+def manual() -> dict[str, tuple[str, str]]:
+    out = {}
+    path = Path(__file__).with_name("ipa_manual.txt")
+    for line in path.read_text(encoding="utf-8").splitlines() if path.exists() else []:
+        if " = " in line and not line.startswith("#"):
+            w, _, ipa = line.partition(" = ")
+            uk, _, us = ipa.partition(" | ")
+            out[w.strip().lower()] = (uk.strip(), (us or uk).strip())
+    return out
+
+
 def lookup(phrase: str) -> tuple[str, str]:
     """(UK, US) для слова или выражения из нескольких слов; пустая строка — если чего-то нет в словаре."""
+    if phrase.lower() in manual():
+        return manual()[phrase.lower()]
     uk_d, us_d = dicts()
     words = re.findall(r"[a-zA-Z'’-]+", phrase.lower().replace("’", "'"))
     if not words:

@@ -1,16 +1,25 @@
-title: Actions and movement
-title_ru: Действия и движение
-topic: actions
+title: Technology
+title_ru: Технологии
+topic: tech
 words:
-- arrange | v | əˈreɪndʒ |  | устраивать, организовывать; расставлять | to plan or organise something; to put things in order | We *arranged* a meeting for Monday morning. | Мы назначили встречу на утро понедельника.
-- cause | v | kɔːz |  | вызывать, быть причиной | to make something happen | The false story *caused* panic. | Ложная история вызвала панику. | сущ. cause — причина; дело
-- connect | v | kəˈnekt |  | соединять, связывать | to join two things together | Breathing exercises help you *connect* with your body. | Дыхательные упражнения помогают почувствовать своё тело.
-- cover | v | ˈkʌvə | ˈkʌvər | покрывать, накрывать | to put something over something else | Snow *covered* the whole city. | Снег покрыл весь город.
-- develop | v | dɪˈveləp |  | развивать(ся), разрабатывать | to grow or change into something bigger or better | The company *developed* a new type of car. | Компания разработала новый тип автомобиля.
-- kill | v | kɪl |  | убивать | to make a person, animal or plant die | Too much sun can *kill* these flowers. | Слишком много солнца может погубить эти цветы.
-- mark | v | mɑːk | mɑːrk | отмечать, ознаменовывать | to celebrate or remember an important event | The ceremony *marked* the 80th anniversary of the war's end. | Церемония была приурочена к 80-летию окончания войны.
-- produce | v | prəˈdjuːs | prəˈduːs | производить | to make or grow something | This region *produces* excellent wine. | Этот регион производит отличное вино.
-- pull | v | pʊl |  | тянуть | to move something towards you | *Pull* the door — don't push it. | Тяните дверь на себя, а не толкайте.
-- sew | v | səʊ | soʊ | шить | to join cloth with a needle and thread | My grandmother taught me to *sew*. | Бабушка научила меня шить. | sew — sewed — sewn; произносится как so
-- splash | v | splæʃ |  | брызгать, плескаться | to make water hit something noisily | The kids *splashed* in the pool. | Дети плескались в бассейне.
-- tie | v | taɪ |  | связывать, завязывать | to fasten with string or rope; to connect | He *tied* the boat to a tree. | Он привязал лодку к дереву. | be tied to — быть связанным с
+- app | n | æp |  | приложение | a program on a phone or computer | I use this *app* to learn English. | Я учу английский с помощью этого приложения.
+- blog | n | blɒɡ | blɔːɡ | блог | a website where someone writes regularly | She writes a travel *blog*. | Она ведёт блог о путешествиях.
+- device | n | dɪˈvaɪs |  | устройство, прибор | a machine or tool made for a particular purpose | The *device* measures your heart rate. | Устройство измеряет пульс.
+- digital | adj | ˈdɪdʒɪtl |  | цифровой | using computer technology | We live in a *digital* age. | Мы живём в цифровую эпоху.
+- digital camera | n | ˈdɪdʒɪtl ˈkæmrə | ˈdɪdʒətl ˈkæmərə | цифровой фотоаппарат | a camera that stores photos electronically | I bought a new *digital camera*. | Я купил новый цифровой фотоаппарат.
+- download | v | ˈdaʊnləʊd | ˈdaʊnloʊd | скачивать | to copy files from the internet | You can *download* the app for free. | Приложение можно скачать бесплатно.
+- electronic | adj | ɪˌlekˈtrɒnɪk | ɪˌlekˈtrɑːnɪk | электронный | using electricity and computer parts | You can buy *electronic* tickets online. | Можно купить электронные билеты онлайн.
+- headphone | n | ˈhedfəʊn | ˈhedfoʊn | наушники (headphones) | a device you wear over your ears to listen | Put on your *headphones*. | Надень наушники.
+- mobile | adj | ˈməʊbaɪl | ˈmoʊbl | мобильный, подвижный | able to move easily | Cars made people much more *mobile*. | Автомобили сделали людей гораздо мобильнее.
+- MP3 player | n |  |  | MP3-плеер | a device for playing music files | I listen to music on my *MP3 player*. | Я слушаю музыку на MP3-плеере.
+- network | n | ˈnetwɜːk | ˈnetwɜːrk | сеть | a group of connected people or things | She built a *network* of contacts across Europe. | Она создала сеть контактов по всей Европе.
+- PC | n | ˈpiˈsi | ˈpiːˈsiː | персональный компьютер | a personal computer | I play games on my *PC*. | Я играю в игры на компьютере.
+- printer | n | ˈprɪntə | ˈprɪnər | принтер | a machine that prints | The *printer* isn't working. | Принтер не работает.
+- program | n | ˈprəʊɡræm | ˈproʊɡræm | программа (компьютерная); передача (амер.) | a set of instructions for a computer | Install this *program* on your laptop. | Установите эту программу на ноутбук.
+- screen | n | skriːn |  | экран | the flat surface of a TV or computer | My phone *screen* is broken. | У меня разбит экран телефона.
+- "smartphone | n | sm\x01ːtfəʊn | ˈsmɑːrtfoʊn | смартфон | a mobile phone that works like a computer | Almost everyone has a *smartphone*. | Почти у всех есть смартфон."
+- tablet | n | ˈtæblət |  | планшет; таблетка | a small flat computer; a pill | I read books on my *tablet*. | Я читаю книги на планшете.
+- technology | n | tekˈnɒlədʒi | tekˈnɑːlədʒi | технология, техника | the use of science to make machines and tools | Modern *technology* makes life easier. | Современные технологии облегчают жизнь.
+- text message | n | tekst ˈmesɪdʒ | tekst ˈmesədʒ | текстовое сообщение, смс | a short message sent by phone | I got a *text message* from Tom. | Мне пришло сообщение от Тома.
+- virus | n | ˈvaɪrəs |  | вирус | a tiny thing that causes illness; a computer program that damages files | My computer has a *virus*. | В моём компьютере вирус.
+- web | n | web |  | паутина; сеть (интернет) | the net that a spider makes; the internet | A spider was sitting in the middle of its *web*. | Паук сидел в центре паутины. | the Web — интернет

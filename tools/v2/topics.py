@@ -255,6 +255,8 @@ ADJ = load_adj_groups()
 def topic_of(c: dict, overrides: dict[str, str]) -> tuple[str, str, str]:
     """(тема, подгруппа, откуда)."""
     w = c["lemma"].lower()
+    if c["card"] == "sense" and f"{w}@{c['level']}" in overrides:  # правка только доп. значения на этом уровне
+        return overrides[f"{w}@{c['level']}"], "manual", "вручную"
     if w in overrides and not (overrides[w] in ("describing", "feelings") and w in ADJ):
         return overrides[w], "manual", "вручную"
     if w in ADJ and c["card"] != "phrase":
