@@ -1,5 +1,5 @@
 // Офлайн-кеш: страницы и данные курса — «сначала сеть», картинки и озвучка — «сначала кеш».
-const CACHE = 'english-path-v2'
+const CACHE = 'english-path-v3'
 
 self.addEventListener('install', () => self.skipWaiting())
 self.addEventListener('activate', (e) => {
