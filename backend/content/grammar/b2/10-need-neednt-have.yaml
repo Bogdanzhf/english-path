@@ -1,0 +1,101 @@
+title: "Need, needn't, didn't need to, needn't have"
+title_ru: "Need: needn't, didn't need to, needn't have done"
+section: modals
+summary: "You needn't come. I didn't need to wait. I needn't have bought it."
+summary_ru: "You needn't come. I didn't need to wait. I needn't have bought it."
+theory: |
+  ## Present: don't need to / needn't
+  - *You **don't need to** come.* = *You **needn't** come.* (it isn't necessary)
+  - *needn't* + base verb (no *to*); more common in British English.
+  - Compare: *You **mustn't** tell him* (it's forbidden) / *You **needn't** tell him* (it's not necessary).
+
+  ## Past: didn't need to
+  It wasn't necessary — usually we **didn't do** it:
+  - *I **didn't need to** wait — the bus came immediately.*
+
+  ## Past: needn't have + past participle
+  It wasn't necessary, **but we did it** (a wasted effort):
+  - *I **needn't have taken** an umbrella — it didn't rain.* (I took one)
+  - *You **needn't have bought** flowers, but thank you!*
+
+  ## need to + verb / need + -ing
+  - *I **need to** buy some milk.*
+  - Passive meaning: *The car **needs washing**.* = *The car needs to be washed.*
+theory_ru: |
+  ## Настоящее: don't need to / needn't — «не нужно»
+  - *You **don't need to** come.* = *You **needn't** come.* — Тебе не нужно приходить.
+  - *needn't* + глагол (без *to*); чаще в британском английском.
+  - Сравните: *You **mustn't** tell him* — нельзя говорить (запрещено) / *You **needn't** tell him* — можно не говорить (нет необходимости).
+
+  ## Прошлое: didn't need to — не нужно было (и не делали)
+  - *I **didn't need to** wait — the bus came immediately.* — Мне не пришлось ждать — автобус пришёл сразу.
+
+  ## Прошлое: needn't have + 3-я форма — зря сделал
+  Не было необходимости, **но сделали** (лишние усилия):
+  - *I **needn't have taken** an umbrella — it didn't rain.* — Зря я взял зонт — дождя не было.
+  - *You **needn't have bought** flowers, but thank you!* — Не стоило покупать цветы, но спасибо!
+
+  > Разница важна: *I **didn't need to** cook* — готовить не пришлось; *I **needn't have cooked*** — я приготовил, а зря.
+
+  ## need to + глагол / need + -ing
+  - *I **need to** buy some milk.* — Мне нужно купить молока.
+  - Пассивное значение: *The car **needs washing**.* — Машину нужно помыть.
+examples:
+  - "You *needn't* worry — everything is fine. | Не волнуйся — всё в порядке."
+  - "We *didn't need to* book — the restaurant was empty. | Нам не пришлось бронировать — ресторан был пуст."
+  - "I *needn't have* cooked so much food. Nobody was hungry. | Зря я приготовил столько еды. Никто не был голоден."
+  - "You *don't need to* bring anything. | Тебе ничего не нужно приносить."
+  - "This shirt *needs* ironing. | Эту рубашку нужно погладить."
+exercises:
+  - type: choice
+    q: "You ___ come to the meeting if you're busy. It's not important."
+    options: ["mustn't", "needn't", "can't"]
+    answer: 1
+  - type: choice
+    q: "I ___ get up early yesterday because it was Sunday, so I slept until ten."
+    options: ["didn't need to", "needn't have", "mustn't"]
+    answer: 0
+  - type: choice
+    q: "We ___ taken a taxi. The station was only five minutes away."
+    options: ["didn't need to", "needn't have", "mustn't have"]
+    answer: 1
+  - type: choice
+    q: "The grass is very long. It needs ___."
+    options: ["cut", "cutting", "to cutting"]
+    answer: 1
+  - type: choice
+    q: "You ___ touch that wire! It's dangerous."
+    options: ["needn't", "mustn't", "don't need to"]
+    answer: 1
+  - type: input
+    q: "Зря ты ждал меня. → You needn't ___ waited for me."
+    answer: ["have"]
+  - type: input
+    q: "Тебе не нужно мне помогать. → You ___ help me. (одно слово)"
+    answer: ["needn't"]
+  - type: error
+    text: "You {{needn't to=>needn't}} pay — it's free."
+  - type: error
+    text: "I {{needn't have went=>needn't have gone}} to the bank — it was closed anyway."
+  - type: order
+    q: "Составьте: «Зря я купил этот билет.»"
+    answer: "I needn't have bought this ticket."
+  - type: tf
+    items:
+      - ["“I needn't have cooked” means I cooked, but it wasn't necessary.", true]
+      - ["“You needn't tell him” means it is forbidden to tell him.", false]
+  - type: listen
+    audio: "I spent the whole evening preparing for the test, but the teacher was ill, so it was cancelled. I needn't have studied so hard! At least I didn't need to get up early today."
+    q: "Why didn't the speaker need to get up early?"
+    options: ["The test was cancelled", "It was the weekend", "The teacher came late"]
+    answer: 0
+  - type: speak
+    answer: "You needn't have bought me a present."
+    ru: "Не стоило покупать мне подарок."
+writing:
+  - "transform | Перепишите с needn't have (сделал зря) | I brought a coat, but it was warm. | I needn't have brought a coat. || I needn't have brought a coat because it was warm."
+  - "transform | Перепишите с needn't | It isn't necessary for you to call me. | You needn't call me."
+  - "translate | Нам не пришлось ждать. | We didn't need to wait. || We didn't have to wait."
+  - "translate | Зря ты так волновался. | You needn't have worried so much."
+  - "translate | Машину нужно помыть. | The car needs washing. || The car needs to be washed."
+  - "compose | Что вы недавно сделали зря? (needn't have) | needn't have | I needn't have bought so much bread — half of it went stale."

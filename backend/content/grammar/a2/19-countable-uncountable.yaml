@@ -1,0 +1,101 @@
+title: "Countable and uncountable nouns"
+title_ru: "Исчисляемые и неисчисляемые существительные"
+section: nouns
+summary: "a chair / two chairs · water, advice, information"
+summary_ru: "a chair / two chairs · water, advice, information"
+theory: |
+  ## Countable nouns
+  Can be counted, have a plural, use *a / an*: *a book, two books, an apple, many apples*.
+
+  ## Uncountable nouns
+  No plural, no *a / an*, verb in singular:
+  - liquids and materials: *water, milk, coffee, rice, bread, money, paper*
+  - ideas: *advice, information, news, help, work, music, fun*
+  - *The news **is** good.* · *Can you give me some **advice**?*
+
+  ## Nouns that are uncountable in English
+  ***advice, information, news, furniture, luggage/baggage, homework, equipment, research, weather, traffic, bread, work***
+  To count them, use a unit: *a piece of advice, a loaf of bread, a bottle of water, a slice of cake, an item of news*.
+
+  ## Some nouns are both
+  - *I'd like **a coffee**.* (a cup) / *I don't drink **coffee**.* (the drink)
+  - *I've been there three **times**.* / *I don't have **time**.*
+  - *a **room** / no **room*** (space) · *a **paper*** (newspaper) / ***paper*** (material)
+theory_ru: |
+  ## Исчисляемые
+  Можно посчитать, есть множественное число, нужен *a / an*: *a book, two books, an apple, many apples*.
+
+  ## Неисчисляемые
+  Нет множественного числа и *a / an*, глагол в единственном числе:
+  - жидкости и вещества: *water, milk, coffee, rice, bread, money, paper*
+  - понятия: *advice, information, news, help, work, music, fun*
+  - *The news **is** good.* — Новости хорошие. · *Can you give me some **advice**?* — Можешь дать мне совет?
+
+  ## Неисчисляемые в английском, но не в русском
+  ***advice*** (советы), ***information*** (сведения), ***news*** (новости), ***furniture*** (мебель), ***luggage*** (багаж), ***homework*** (домашние задания), ***equipment*** (оборудование), ***research*** (исследования), ***weather***, ***traffic***, ***bread***, ***work***
+
+  > Нельзя ~~an advice, informations, a news~~. Чтобы посчитать, нужна «единица»: *a piece of advice* — один совет, *a loaf of bread* — буханка хлеба, *a bottle of water*, *a slice of cake*.
+
+  ## Бывают и теми, и другими
+  - *I'd like **a coffee**.* — Мне чашку кофе. / *I don't drink **coffee**.* — Я не пью кофе.
+  - *I've been there three **times**.* — Я был там три раза. / *I don't have **time**.* — У меня нет времени.
+  - *a **paper*** — газета / ***paper*** — бумага
+examples:
+  - "Can I give you *some* advice? | Можно дать тебе совет?"
+  - "We need *some* new furniture. | Нам нужна новая мебель."
+  - "The information *is* on the website. | Информация на сайте."
+  - "I bought *a loaf of* bread and two bottles of milk. | Я купил буханку хлеба и две бутылки молока."
+  - "There *was* a lot of traffic this morning. | Утром было много машин."
+exercises:
+  - type: choice
+    q: "Can you give me some ___?"
+    options: ["advice", "advices", "an advice"]
+    answer: 0
+  - type: choice
+    q: "The news ___ very good today."
+    options: ["are", "is", "were"]
+    answer: 1
+  - type: choice
+    q: "How much ___ do you have?"
+    options: ["luggages", "luggage", "a luggage"]
+    answer: 1
+  - type: choice
+    q: "I need ___ about train times."
+    options: ["an information", "some information", "informations"]
+    answer: 1
+  - type: choice
+    q: "Would you like ___ of cake?"
+    options: ["a piece", "a bottle", "a loaf"]
+    answer: 0
+  - type: input
+    q: "У меня много домашних заданий. → I have a lot of ___."
+    answer: ["homework"]
+  - type: input
+    q: "Купи, пожалуйста, буханку хлеба. → Please buy a ___ of bread."
+    answer: ["loaf"]
+  - type: error
+    text: "We bought some new {{furnitures=>furniture}} for the living room."
+  - type: error
+    text: "Thanks for {{the advices=>the advice}}."
+  - type: order
+    q: "Составьте: «Сегодня ужасная погода.»"
+    answer: "The weather is terrible today."
+  - type: tf
+    items:
+      - ["“information” has no plural form.", true]
+      - ["We can say “a news”.", false]
+  - type: listen
+    audio: "I need to go shopping. We've got no bread, and there's only a little milk left. Oh, and can you give me some advice about a new phone?"
+    q: "What does the speaker need advice about?"
+    options: ["Bread", "Milk", "A phone"]
+    answer: 2
+  - type: speak
+    answer: "Can you give me some advice?"
+    ru: "Можешь дать мне совет?"
+writing:
+  - "transform | Исправьте ошибку | She gave me a good advice. | She gave me some good advice. || She gave me a piece of good advice. || She gave me good advice."
+  - "transform | Исправьте ошибку | The informations are wrong. | The information is wrong."
+  - "translate | У нас слишком много багажа. | We have too much luggage. || We've got too much luggage. || We have too much baggage."
+  - "translate | Мне нужна бутылка воды. | I need a bottle of water."
+  - "translate | Какие хорошие новости! | What good news! || That's good news!"
+  - "compose | Дайте другу совет (advice) | advice | My advice is to start learning English every day."

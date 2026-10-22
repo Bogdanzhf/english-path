@@ -1,0 +1,96 @@
+title: "Quite, rather, pretty, fairly"
+title_ru: "Quite, rather, pretty, fairly — «довольно»"
+section: adjectives
+summary: "It's quite good. It's rather cold. It's pretty expensive."
+summary_ru: "It's quite good. It's rather cold. It's pretty expensive."
+theory: |
+  ## Less than "very"
+  **fairly / quite / rather / pretty + adjective or adverb**
+  - **fairly** — a little: *The test was **fairly** easy.*
+  - **quite** — more than a little (British: often a bit less than you might expect): *The film was **quite** good.*
+  - **rather** — often for something negative or surprising: *It's **rather** cold today.* · *I was **rather** surprised.*
+  - **pretty** (informal) ≈ quite / rather: *He's **pretty** good at football.*
+
+  ## Word order with a noun
+  - ***quite a** + adjective + noun*: *It's **quite a** long way.*
+  - ***a rather / a fairly / a pretty** + adjective + noun*: *It's **a rather** long way.*
+
+  ## quite = completely
+  With "extreme" adjectives and some verbs, **quite** means *completely*:
+  *You're **quite right**.* · *I'm **quite sure**.* · *It's **quite impossible**.* · *I **don't quite** understand.* (not completely)
+theory_ru: |
+  ## Слабее, чем very
+  **fairly / quite / rather / pretty + прилагательное или наречие**
+  - **fairly** — в некоторой степени: *The test was **fairly** easy.* — Тест был вполне лёгким.
+  - **quite** — довольно (в британском часто чуть меньше, чем ожидаешь): *The film was **quite** good.* — Фильм был неплохой.
+  - **rather** — часто о плохом или неожиданном: *It's **rather** cold today.* — Сегодня довольно холодно. · *I was **rather** surprised.* — Я был удивлён.
+  - **pretty** (разг.) ≈ quite / rather: *He's **pretty** good at football.* — Он неплохо играет в футбол.
+
+  ## Порядок слов с существительным
+  - ***quite a** + прил. + сущ.*: *It's **quite a** long way.* — Это довольно далеко.
+  - ***a rather / a fairly / a pretty** + прил. + сущ.*: *It's **a rather** long way.*
+
+  ## quite = совершенно
+  С «сильными» прилагательными и некоторыми глаголами **quite** значит «полностью»:
+  *You're **quite right**.* — Вы совершенно правы. · *I'm **quite sure**.* — Я совершенно уверен. · *I **don't quite** understand.* — Я не совсем понимаю.
+
+  > Интонация важна: *quite good* с ударением на *quite* звучит как «так себе».
+examples:
+  - "The hotel was *quite* nice, but the food was bad. | Отель был неплохой, но еда — плохая."
+  - "It's *rather* late to call him now. | Уже поздновато ему звонить."
+  - "She speaks English *pretty* well. | Она довольно хорошо говорит по-английски."
+  - "It was *quite a* difficult exam. | Это был довольно трудный экзамен."
+  - "You're *quite* right — I made a mistake. | Вы совершенно правы — я ошибся."
+exercises:
+  - type: choice
+    q: "It's ___ long way to the station. Let's take a taxi."
+    options: ["quite a", "a quite", "quite"]
+    answer: 0
+  - type: choice
+    q: "I'm not ___ sure what you mean."
+    options: ["rather", "quite", "pretty"]
+    answer: 1
+  - type: choice
+    q: "It's ___ expensive here. Let's find another café."
+    options: ["rather", "quite a", "fairly a"]
+    answer: 0
+  - type: choice
+    q: "That's ___ interesting idea."
+    options: ["a rather", "rather an", "quite an"]
+    answer: 2
+  - type: choice
+    q: "You're ___ right. I completely agree."
+    options: ["fairly", "quite", "pretty"]
+    answer: 1
+  - type: input
+    q: "Это довольно хорошая книга. → It's ___ a good book."
+    answer: ["quite"]
+  - type: input
+    q: "Он довольно быстро бегает (разг.). → He runs ___ fast."
+    answer: ["pretty", "quite", "rather", "fairly"]
+  - type: error
+    text: "It was {{a quite=>quite a}} good party."
+  - type: error
+    text: "I {{quite don't=>don't quite}} understand the question."
+  - type: order
+    q: "Составьте: «Сегодня довольно тепло.»"
+    answer: "It's quite warm today."
+  - type: tf
+    items:
+      - ["“quite right” means completely right.", true]
+      - ["“a quite big house” is the correct word order.", false]
+  - type: listen
+    audio: "How was the hotel? — Well, the room was quite small, and the breakfast was rather boring, but the view was pretty amazing."
+    q: "What did the speaker like?"
+    options: ["The room", "The breakfast", "The view"]
+    answer: 2
+  - type: speak
+    answer: "It's quite a long way."
+    ru: "Это довольно далеко."
+writing:
+  - "transform | Перепишите с quite a | The exam was rather difficult. | It was quite a difficult exam."
+  - "translate | Сегодня довольно холодно. | It's rather cold today. || It's quite cold today. || It's pretty cold today. || It's fairly cold today."
+  - "translate | Вы совершенно правы. | You are quite right. || You're quite right."
+  - "translate | Я не совсем понимаю. | I don't quite understand."
+  - "translate | Она довольно хорошо готовит. | She cooks quite well. || She cooks pretty well. || She's quite a good cook."
+  - "compose | Опишите свой город с quite / rather / pretty | quite | My town is quite small, but it's pretty green."

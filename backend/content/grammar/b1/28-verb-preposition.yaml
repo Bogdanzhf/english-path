@@ -1,0 +1,94 @@
+title: "Verb + preposition"
+title_ru: "Глагол + предлог: depend on, listen to, wait for"
+section: prepositions
+summary: "depend on · listen to · wait for · think about · belong to"
+summary_ru: "depend on · listen to · wait for · think about · belong to"
+theory: |
+  ## Common combinations
+  - **to**: *listen to, talk to, belong to, happen to, apologise to (sb), explain sth to sb, reply to, write to*
+  - **for**: *wait for, look for, ask for, pay for, apply for, search for, apologise for (sth)*
+  - **about**: *think about, talk about, worry about, dream about, hear about, complain about, know about*
+  - **of**: *think of (= have an idea / opinion), hear of (= know that it exists), consist of, remind sb of*
+  - **on**: *depend on, rely on, concentrate on, insist on, spend money on, congratulate sb on*
+  - **at**: *look at, laugh at, smile at, arrive at (a building)*
+  - **in**: *believe in, succeed in, arrive in (a city), specialise in*
+  - **from**: *suffer from, protect sb from, borrow from*
+  - **with**: *agree with, deal with, argue with (sb)*
+
+  ## No preposition in English!
+  *discuss sth* (not ~~discuss about~~) · *enter a room* · *marry sb* · *answer a question* · *call sb* · *reach a place*
+theory_ru: |
+  ## Частые сочетания
+  - **to**: *listen to* — слушать, *talk to* — говорить с, *belong to* — принадлежать, *happen to* — случиться с, *explain sth to sb* — объяснить кому-то, *reply to* — ответить на
+  - **for**: *wait for* — ждать, *look for* — искать, *ask for* — просить, *pay for* — платить за, *apply for* — подавать заявку на
+  - **about**: *think about* — думать о, *worry about* — волноваться о, *dream about*, *complain about* — жаловаться на
+  - **of**: *think of* — придумать, иметь мнение, *hear of* — слышать о (существовании), *consist of* — состоять из, *remind sb of* — напоминать
+  - **on**: *depend on* — зависеть от, *rely on* — полагаться на, *concentrate on* — сосредоточиться на, *spend money on* — тратить на
+  - **at**: *look at* — смотреть на, *laugh at* — смеяться над, *arrive at* (здание)
+  - **in**: *believe in* — верить в, *succeed in* — преуспеть в, *arrive in* (город, страну)
+  - **from**: *suffer from* — страдать от, *borrow from* — занять у
+  - **with**: *agree with* — соглашаться с, *deal with* — иметь дело с, справляться
+
+  > «Ждать автобус» — *wait **for** the bus*, «слушать музыку» — *listen **to** music*, «объяснить мне» — *explain **to** me* (не ~~explain me~~).
+
+  ## В английском без предлога!
+  *discuss sth* — обсуждать (не ~~discuss about~~) · *enter a room* — войти в комнату · *marry sb* — выйти замуж за · *answer a question* — ответить на вопрос · *call sb* — позвонить кому-то · *reach a place* — добраться до
+examples:
+  - "It *depends on* the weather. | Это зависит от погоды."
+  - "I'm *waiting for* a friend. | Я жду друга."
+  - "Who does this bag *belong to*? | Чья это сумка?"
+  - "Can you *explain* this rule *to* me? | Можешь объяснить мне это правило?"
+  - "We *discussed* the problem yesterday. | Мы обсудили проблему вчера."
+exercises:
+  - type: choice
+    q: "I'm looking ___ my keys. Have you seen them?"
+    options: ["at", "for", "after"]
+    answer: 1
+  - type: choice
+    q: "Listen ___ me carefully."
+    options: ["to", "at", "—"]
+    answer: 0
+  - type: choice
+    q: "Our plans depend ___ the weather."
+    options: ["of", "from", "on"]
+    answer: 2
+  - type: choice
+    q: "We discussed ___ the plan for an hour."
+    options: ["about", "—", "on"]
+    answer: 1
+  - type: choice
+    q: "She suffers ___ headaches."
+    options: ["from", "of", "with"]
+    answer: 0
+  - type: input
+    q: "Я не согласен с тобой. → I don't agree ___ you."
+    answer: ["with"]
+  - type: input
+    q: "Кто заплатит за ужин? → Who's going to pay ___ dinner?"
+    answer: ["for"]
+  - type: error
+    text: "Can you explain {{me the rule=>the rule to me}}?"
+  - type: error
+    text: "They got married last year. He {{married with=>married}} a nurse."
+  - type: order
+    q: "Составьте: «Я часто думаю о своём детстве.»"
+    answer: "I often think about my childhood."
+  - type: tf
+    items:
+      - ["We say “wait for the bus”.", true]
+      - ["We say “discuss about the problem”.", false]
+  - type: listen
+    audio: "I've applied for a new job. Now I'm waiting for an answer. Everything depends on the interview next week, so I need to concentrate on that."
+    q: "What does everything depend on?"
+    options: ["The answer", "The interview", "The new job"]
+    answer: 1
+  - type: speak
+    answer: "It depends on the price."
+    ru: "Это зависит от цены."
+writing:
+  - "translate | Я жду автобус. | I am waiting for the bus. || I'm waiting for the bus."
+  - "translate | Эта книга принадлежит моему брату. | This book belongs to my brother."
+  - "translate | Объясни мне, пожалуйста. | Please explain it to me. || Explain it to me, please. || Can you explain it to me, please?"
+  - "translate | Мы обсудили план. | We discussed the plan."
+  - "translate | Я не могу сосредоточиться на работе. | I can't concentrate on my work. || I can't concentrate on work."
+  - "compose | От чего зависят ваши планы на выходные? (depend on) | depend | My plans depend on the weather."

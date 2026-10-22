@@ -1,0 +1,94 @@
+title: "Can, could, be able to: ability"
+title_ru: "Can, could, be able to — умение и возможность"
+section: modals
+summary: "I can swim. I could read at four. I'll be able to drive."
+summary_ru: "I can swim. I could read at four. I'll be able to drive."
+theory: |
+  ## Present: can
+  **can + base verb** — ability now: *I **can** speak two languages.* · *She **can't** cook.*
+
+  ## Past: could / was able to
+  - **could** — a general ability in the past: *I **could** read when I was four.*
+  - **was / were able to** — you managed to do something on one occasion: *The fire was big, but everyone **was able to** escape.*
+  - In the negative both are fine: *I **couldn't** / **wasn't able to** find my keys.*
+
+  ## Other tenses: be able to
+  *can* has no future or perfect forms, so we use **be able to**:
+  - *I'**ll be able to** drive next year.*
+  - *I **haven't been able to** sleep well recently.*
+  - *I'd like **to be able to** play the guitar.*
+theory_ru: |
+  ## Настоящее: can
+  **can + глагол** — умею, могу сейчас: *I **can** speak two languages.* — Я говорю на двух языках. · *She **can't** cook.* — Она не умеет готовить.
+
+  ## Прошлое: could / was able to
+  - **could** — умел вообще, в целом: *I **could** read when I was four.* — Я умел читать в четыре года.
+  - **was / were able to** — смог, удалось в конкретной ситуации: *The fire was big, but everyone **was able to** escape.* — Пожар был сильный, но все смогли спастись.
+  - В отрицании подходят оба: *I **couldn't** / **wasn't able to** find my keys.* — Я не смог найти ключи.
+
+  > Для одного конкретного успеха не говорят *I could pass the exam yesterday* — правильно *I **was able to** (managed to) pass…*
+
+  ## Другие времена: be able to
+  У *can* нет будущего и перфекта, поэтому используем **be able to**:
+  - *I'**ll be able to** drive next year.* — В следующем году я смогу водить.
+  - *I **haven't been able to** sleep well recently.* — В последнее время я не могу нормально спать.
+  - *I'd like **to be able to** play the guitar.* — Я бы хотел уметь играть на гитаре.
+examples:
+  - "My grandmother *can* use a smartphone. | Моя бабушка умеет пользоваться смартфоном."
+  - "When I was young, I *could* run very fast. | В молодости я умел очень быстро бегать."
+  - "The road was closed, but we *were able to* find another way. | Дорога была закрыта, но нам удалось найти другой путь."
+  - "I *couldn't* hear you — the music was too loud. | Я тебя не слышал — музыка была слишком громкой."
+  - "You'*ll be able to* speak English well soon. | Скоро ты сможешь хорошо говорить по-английски."
+exercises:
+  - type: choice
+    q: "I ___ swim when I was six."
+    options: ["could", "can", "am able"]
+    answer: 0
+  - type: choice
+    q: "Don't worry — you'll ___ do it tomorrow."
+    options: ["can", "be able to", "could"]
+    answer: 1
+  - type: choice
+    q: "The test was hard, but I ___ answer all the questions."
+    options: ["could", "was able to", "can"]
+    answer: 1
+  - type: choice
+    q: "I'm sorry, I ___ come to your party on Saturday."
+    options: ["can't", "couldn't to", "not can"]
+    answer: 0
+  - type: choice
+    q: "She hasn't ___ find a job yet."
+    options: ["could", "been able to", "can"]
+    answer: 1
+  - type: input
+    q: "Я не мог уснуть прошлой ночью. → I ___ sleep last night."
+    answer: ["couldn't", "could not", "wasn't able to", "was not able to"]
+  - type: input
+    q: "Ты сможешь мне помочь завтра? → Will you ___ help me tomorrow?"
+    answer: ["be able to"]
+  - type: error
+    text: "I will {{can=>be able to}} visit you next week."
+  - type: error
+    text: "She {{cans=>can}} play the piano."
+  - type: order
+    q: "Составьте: «В детстве я умел говорить по-французски.»"
+    answer: "I could speak French when I was a child."
+  - type: tf
+    items:
+      - ["“I'll be able to come” is about the future.", true]
+      - ["“I can to swim” is correct.", false]
+  - type: listen
+    audio: "When I was a child, I couldn't swim at all. But last summer I took lessons, and now I can swim quite well."
+    q: "Can the speaker swim now?"
+    options: ["Yes, quite well", "No, not at all", "Only a little, as a child"]
+    answer: 0
+  - type: speak
+    answer: "I could read when I was five."
+    ru: "Я умел читать в пять лет."
+writing:
+  - "transform | Перепишите в будущем времени (be able to) | I can drive. | I will be able to drive. || I'll be able to drive."
+  - "transform | Перепишите в прошлом времени | I can't open the door. | I couldn't open the door. || I wasn't able to open the door."
+  - "translate | Я умею играть в шахматы. | I can play chess."
+  - "translate | Мы смогли найти отель. | We were able to find the hotel. || We managed to find the hotel. || We were able to find a hotel."
+  - "translate | Я не мог тебе позвонить. | I couldn't call you. || I couldn't phone you. || I wasn't able to call you."
+  - "compose | Что вы умели делать в детстве? (could) | could | When I was a child, I could ride a bike."

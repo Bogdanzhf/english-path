@@ -1,0 +1,108 @@
+title: "Would and used to for past habits"
+title_ru: "Would и used to — привычки в прошлом"
+section: tenses
+summary: "When I was a child, we would go to the sea every summer."
+summary_ru: "When I was a child, we would go to the sea every summer."
+theory: |
+  ## used to — habits and states
+  **used to + base verb** = something was regularly true in the past, but not now:
+  - Actions: *I **used to** play football every Saturday.*
+  - States: *We **used to** live in Kiev.* · *I **used to** have long hair.*
+  - Negative / question: *I **didn't use to** like olives.* · ***Did** you **use to** walk to school?*
+
+  ## would — repeated actions only
+  **would + base verb** describes repeated actions in the past, often in stories and memories:
+  - *Every evening my grandfather **would** tell us stories.*
+  - *On Sundays we'**d** get up late and **have** a big breakfast.*
+
+  ## would is NOT used for states
+  - ✔ *I **used to** live in Moscow.* — ✘ ~~I would live in Moscow.~~
+  - ✔ *She **used to** be shy.* — ✘ ~~She would be shy.~~
+
+  ## Not for a single action
+  For one action, use the past simple: *I **went** to Paris in 2015.* (not ~~used to go~~)
+
+  ## Annoying habits: always + past continuous
+  *He **was always losing** his keys!*
+theory_ru: |
+  ## used to — привычки и состояния
+  **used to + глагол** = раньше так было регулярно, а теперь нет:
+  - Действия: *I **used to** play football every Saturday.* — Раньше я играл в футбол каждую субботу.
+  - Состояния: *We **used to** live in Kiev.* — Раньше мы жили в Киеве. · *I **used to** have long hair.* — Когда-то у меня были длинные волосы.
+  - Отрицание / вопрос: *I **didn't use to** like olives.* · ***Did** you **use to** walk to school?*
+
+  ## would — только повторяющиеся действия
+  **would + глагол** — повторяющиеся действия в прошлом, часто в рассказах и воспоминаниях («бывало»):
+  - *Every evening my grandfather **would** tell us stories.* — Каждый вечер дедушка, бывало, рассказывал нам истории.
+  - *On Sundays we'**d** get up late and **have** a big breakfast.* — По воскресеньям мы вставали поздно и плотно завтракали.
+
+  ## would не используется для состояний
+  - ✔ *I **used to** live in Moscow.* — ✘ ~~I would live in Moscow.~~
+  - ✔ *She **used to** be shy.* — ✘ ~~She would be shy.~~
+
+  > Обычно рассказ начинают с *used to*, а продолжают с *would*, чтобы не повторяться.
+
+  ## Не для одного события
+  Для однократного действия — Past Simple: *I **went** to Paris in 2015.* (не ~~used to go~~)
+
+  ## Раздражающие привычки: always + Past Continuous
+  *He **was always losing** his keys!* — Он вечно терял ключи!
+examples:
+  - "I *used to* be afraid of the dark. | Раньше я боялся темноты."
+  - "In summer we *would* spend hours on the beach. | Летом мы, бывало, часами пропадали на пляже."
+  - "Did you *use to* have a pet? | У тебя раньше было домашнее животное?"
+  - "My mum *would* sing to me every night. | Мама пела мне каждый вечер."
+  - "There *used to* be a cinema here. | Раньше здесь был кинотеатр."
+exercises:
+  - type: choice
+    q: "We ___ in a small flat when I was a child."
+    options: ["would live", "used to live", "were living used"]
+    answer: 1
+  - type: choice
+    q: "Every morning my dad ___ me to school on his bike."
+    options: ["would take", "would took", "use to take"]
+    answer: 0
+  - type: choice
+    q: "I ___ like vegetables, but now I love them."
+    options: ["didn't use to", "wouldn't", "didn't used to be"]
+    answer: 0
+  - type: choice
+    q: "She ___ have red hair."
+    options: ["would", "used to", "was used to"]
+    answer: 1
+  - type: choice
+    q: "I ___ to London last year."
+    options: ["used to go", "went", "would go"]
+    answer: 1
+  - type: input
+    q: "Раньше тут было кафе. → There ___ to be a café here."
+    answer: ["used"]
+  - type: input
+    q: "Ты раньше занимался спортом? → Did you ___ to do sport?"
+    answer: ["use"]
+  - type: error
+    text: "When I was young, I {{would have=>used to have}} a dog."
+  - type: error
+    text: "Did you {{used=>use}} to play the piano?"
+  - type: order
+    q: "Составьте: «По вечерам мы, бывало, играли в карты.»"
+    answer: "In the evenings we would play cards."
+  - type: tf
+    items:
+      - ["“would” can describe past states, like “I would be shy”.", false]
+      - ["“used to” can describe both past actions and states.", true]
+  - type: listen
+    audio: "When I was a kid, we used to spend every summer at my grandmother's. She would wake us up early, and we would pick strawberries in her garden."
+    q: "What would the children do in the garden?"
+    options: ["Pick strawberries", "Play football", "Sleep late"]
+    answer: 0
+  - type: speak
+    answer: "I used to live in a small town."
+    ru: "Раньше я жил в маленьком городе."
+writing:
+  - "transform | Перепишите с used to | I lived in Spain, but I don't now. | I used to live in Spain."
+  - "transform | Перепишите с would (повторяющееся действие) | Every Sunday we visited our grandparents. | Every Sunday we would visit our grandparents. || Every Sunday we'd visit our grandparents."
+  - "translate | Раньше я не любил кофе. | I didn't use to like coffee."
+  - "translate | Раньше здесь был парк. | There used to be a park here."
+  - "translate | Каждое лето мы, бывало, ездили на море. | Every summer we would go to the sea. || Every summer we used to go to the sea. || We would go to the seaside every summer."
+  - "compose | Что вы делали в детстве, а сейчас не делаете? (used to / would) | used to | I used to watch cartoons every morning before school."

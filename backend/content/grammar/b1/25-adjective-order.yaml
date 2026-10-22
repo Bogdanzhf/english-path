@@ -1,0 +1,100 @@
+title: "Adjective order"
+title_ru: "Порядок прилагательных: a lovely old red car"
+section: adjectives
+summary: "a beautiful small old Italian wooden table"
+summary_ru: "a beautiful small old Italian wooden table"
+theory: |
+  ## Opinion before fact
+  Opinion adjectives (*nice, beautiful, boring, delicious*) come **before** fact adjectives (*big, old, red*):
+  *a **nice** new car* · *a **delicious** hot soup*
+
+  ## The usual order of fact adjectives
+  **opinion → size → age → shape → colour → origin → material → purpose + noun**
+  - *a **lovely small old** cottage*
+  - *a **big round wooden** table*
+  - *a **long black leather** coat*
+  - *an **old Italian** restaurant*
+  - *running shoes* (purpose = what it is for)
+
+  ## In practice
+  We rarely use more than two or three adjectives before a noun.
+  Two colours or two opinion adjectives are joined with **and**: *a black **and** white photo*.
+  After *be* the order is freer: *The house was old and beautiful.*
+theory_ru: |
+  ## Мнение — перед фактами
+  Оценка (*nice, beautiful, boring, delicious*) стоит **перед** фактическими признаками (*big, old, red*):
+  *a **nice** new car* — красивая новая машина · *a **delicious** hot soup* — вкусный горячий суп
+
+  ## Обычный порядок
+  **мнение → размер → возраст → форма → цвет → происхождение → материал → назначение + существительное**
+  - *a **lovely small old** cottage* — милый маленький старый домик
+  - *a **big round wooden** table* — большой круглый деревянный стол
+  - *a **long black leather** coat* — длинное чёрное кожаное пальто
+  - *an **old Italian** restaurant* — старый итальянский ресторан
+  - *running shoes* — кроссовки для бега (назначение)
+
+  > Запомнить помогает формула **OSASCOMP**: Opinion, Size, Age, Shape, Colour, Origin, Material, Purpose.
+
+  ## На практике
+  Больше двух-трёх прилагательных подряд редко используют.
+  Два цвета соединяют **and**: *a black **and** white photo* — чёрно-белое фото.
+  После *be* порядок свободнее: *The house was old and beautiful.*
+examples:
+  - "She has a *beautiful long* dress. | У неё красивое длинное платье."
+  - "We stayed in a *small old* hotel. | Мы жили в маленьком старом отеле."
+  - "He bought a *red Italian* sports car. | Он купил красную итальянскую спортивную машину."
+  - "I'd like a *big glass* bowl. | Мне нужна большая стеклянная миска."
+  - "They live in a *lovely white* house. | Они живут в чудесном белом доме."
+exercises:
+  - type: choice
+    q: "She was wearing a ___ dress."
+    options: ["red beautiful", "beautiful red", "red and beautiful"]
+    answer: 1
+  - type: choice
+    q: "We have a ___ table in the kitchen."
+    options: ["wooden round", "round wooden", "wooden and round"]
+    answer: 1
+  - type: choice
+    q: "He drives an ___ car."
+    options: ["old German", "German old", "old and German"]
+    answer: 0
+  - type: choice
+    q: "I bought some ___ shoes."
+    options: ["leather new", "new leather", "leather and new"]
+    answer: 1
+  - type: choice
+    q: "It's a ___ village."
+    options: ["small lovely", "lovely small", "small and lovely is"]
+    answer: 1
+  - type: input
+    q: "Поставьте в правильном порядке: a (black / big) dog → a ___ dog"
+    answer: ["big black"]
+  - type: input
+    q: "Поставьте в правильном порядке: an (Chinese / old) vase → an ___ vase"
+    answer: ["old Chinese"]
+  - type: error
+    text: "She has {{blue big=>big blue}} eyes."
+  - type: error
+    text: "I found a {{leather old=>old leather}} bag in the attic."
+  - type: order
+    q: "Составьте: «У него красивое новое пальто.»"
+    answer: "He has a beautiful new coat."
+  - type: tf
+    items:
+      - ["Opinion adjectives usually come before size and colour.", true]
+      - ["“a wooden big box” is the normal order.", false]
+  - type: listen
+    audio: "I've lost my bag. It's a small brown leather bag with a long strap. There's a new black phone inside."
+    q: "What is the bag made of?"
+    options: ["Leather", "Plastic", "Fabric"]
+    answer: 0
+  - type: speak
+    answer: "a beautiful old wooden house"
+    ru: "красивый старый деревянный дом"
+writing:
+  - "transform | Поставьте прилагательные в правильном порядке | a (cotton / white) shirt | a white cotton shirt"
+  - "transform | Поставьте прилагательные в правильном порядке | a (friendly / young / tall) man | a friendly tall young man"
+  - "translate | Мы купили большой круглый стол. | We bought a big round table. || We bought a large round table."
+  - "translate | У неё длинные чёрные волосы. | She has long black hair. || She's got long black hair."
+  - "translate | Это старый английский замок. | It's an old English castle. || This is an old English castle."
+  - "compose | Опишите любимую вещь, используя 2–3 прилагательных | - | I have a small old wooden box from my grandmother."

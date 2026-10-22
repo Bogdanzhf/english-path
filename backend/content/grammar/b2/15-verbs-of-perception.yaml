@@ -1,0 +1,104 @@
+title: "See, hear, watch + someone do / doing"
+title_ru: "See, hear, watch + кто-то do / doing — видеть, слышать, как…"
+section: verbs
+summary: "I saw her leave. I heard him singing."
+summary_ru: "I saw her leave. I heard him singing."
+theory: |
+  ## verb of perception + object + base verb
+  The **complete** action, from start to finish:
+  - *I **saw** her **leave** the house.* (I saw the whole thing)
+  - *We **heard** the door **slam**.*
+  - *I **watched** him **score** the goal.*
+
+  ## verb of perception + object + -ing
+  An action **in progress**, or only part of it:
+  - *I **saw** her **leaving** the house.* (she was in the middle of leaving)
+  - *I **heard** someone **singing** next door.*
+  - *I can **smell** something **burning**.*
+
+  ## Verbs
+  *see, hear, watch, notice, feel, listen to, smell (only -ing)*
+
+  ## Passive: to + infinitive
+  *They saw him **enter** the bank.* → *He **was seen to enter** the bank.*
+  -ing form stays: *He was seen **leaving**.*
+theory_ru: |
+  ## глагол восприятия + дополнение + глагол без to
+  **Всё** действие от начала до конца:
+  - *I **saw** her **leave** the house.* — Я видел, как она вышла из дома (видел целиком).
+  - *We **heard** the door **slam**.* — Мы услышали, как хлопнула дверь.
+  - *I **watched** him **score** the goal.* — Я видел, как он забил гол.
+
+  ## глагол восприятия + дополнение + -ing
+  Действие **в процессе** или его часть:
+  - *I **saw** her **leaving** the house.* — Я видел, как она выходила из дома.
+  - *I **heard** someone **singing** next door.* — Я слышал, как кто-то пел за стеной.
+  - *I can **smell** something **burning**.* — Чувствую, что-то горит.
+
+  > Русское «видел, **как** она…» — по-английски без *how*: ~~I saw how she left~~ → *I saw her **leave***. Местоимение — в объектном падеже: *her, him, them*.
+
+  ## Глаголы
+  *see, hear, watch, notice, feel, listen to, smell (только с -ing)*
+
+  ## Пассив: to + инфинитив
+  *They saw him **enter** the bank.* → *He **was seen to enter** the bank.* — Видели, как он вошёл в банк.
+  Форма -ing сохраняется: *He was seen **leaving**.*
+examples:
+  - "I *heard* someone *knock* on the door. | Я услышал, как кто-то постучал в дверь."
+  - "We *watched* the sun *setting* over the sea. | Мы смотрели, как солнце садится над морем."
+  - "Did you *see* him *take* the money? | Ты видел, как он взял деньги?"
+  - "I *felt* something *crawling* up my leg. | Я почувствовал, как что-то ползёт по ноге."
+  - "She *noticed* a man *standing* by the gate. | Она заметила мужчину, стоявшего у ворот."
+exercises:
+  - type: choice
+    q: "I saw him ___ the car and drive away."
+    options: ["get into", "to get into", "got into"]
+    answer: 0
+  - type: choice
+    q: "When I walked past, I heard them ___ about me."
+    options: ["talking", "to talk", "talked"]
+    answer: 0
+  - type: choice
+    q: "I can smell something ___. Is the oven on?"
+    options: ["burn", "burning", "to burn"]
+    answer: 1
+  - type: choice
+    q: "Did anyone see ___ leave?"
+    options: ["she", "her", "hers"]
+    answer: 1
+  - type: choice
+    q: "He was seen ___ the building at midnight."
+    options: ["enter", "to enter", "entered"]
+    answer: 1
+  - type: input
+    q: "Я видел, как она упала. → I saw her ___. (fall)"
+    answer: ["fall"]
+  - type: input
+    q: "Мы слышали, как дети смеются. → We heard the children ___. (laugh)"
+    answer: ["laughing", "laugh"]
+  - type: error
+    text: "I saw {{how he crossed=>him cross}} the road."
+  - type: error
+    text: "We heard {{they=>them}} arguing in the kitchen."
+  - type: order
+    q: "Составьте: «Я наблюдал, как он чинил машину.»"
+    answer: "I watched him repairing the car."
+  - type: tf
+    items:
+      - ["“I saw her cross the road” means I saw the whole action.", true]
+      - ["“I saw how she crossed the road” is the natural English way.", false]
+  - type: listen
+    audio: "Last night I heard someone walking in the garden. I looked out and saw a fox run across the grass and jump over the fence."
+    q: "What did the speaker see?"
+    options: ["A person in the garden", "A fox jumping over the fence", "A dog on the grass"]
+    answer: 1
+  - type: speak
+    answer: "I heard someone singing."
+    ru: "Я слышал, как кто-то пел."
+writing:
+  - "transform | Соедините в одно предложение (saw + base verb) | He took my bag. I saw it. | I saw him take my bag."
+  - "transform | Соедините (heard + -ing) | The baby was crying. I heard it. | I heard the baby crying."
+  - "translate | Я видел, как ты вошёл. | I saw you come in. || I saw you enter. || I saw you coming in."
+  - "translate | Она почувствовала, как дрожит земля. | She felt the ground shaking. || She felt the earth shaking. || She felt the ground shake."
+  - "translate | Мы смотрели, как играют дети. | We watched the children playing. || We watched the children play. || We watched the kids playing."
+  - "compose | Что вы недавно видели или слышали на улице? (saw / heard someone …) | - | Yesterday I saw a man playing the violin in the park."

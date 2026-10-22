@@ -1,0 +1,96 @@
+title: "Suggestions and offers: let's, shall, why don't we"
+title_ru: "Предложения: let's, shall, why don't we, how about"
+section: modals
+summary: "Let's go! Shall I help you? Why don't we…? How about…?"
+summary_ru: "Let's go! Shall I help you? Why don't we…? How about…?"
+theory: |
+  ## Making suggestions
+  - **Let's + base verb**: *Let's go to the cinema.* · Negative: *Let's not argue.*
+  - **Shall we + base verb?**: *Shall we take a taxi?*
+  - **Why don't we / you + base verb?**: *Why don't we eat out tonight?*
+  - **How about / What about + -ing or noun?**: *How about going for a walk?* · *What about pizza?*
+  - **We could + base verb**: *We could watch a film.*
+
+  ## Offers
+  - **Shall I + base verb?**: *Shall I open the window?*
+  - **I'll + base verb**: *I'll carry your bag.*
+  - **Would you like + noun / to + verb?**: *Would you like some tea?*
+
+  ## Answers
+  *Good idea! / Sure, why not? / That sounds great.* · *I'd rather not. / I'm not sure.*
+theory_ru: |
+  ## Как предложить
+  - **Let's + глагол** — давай(те): *Let's go to the cinema.* — Пойдём в кино. · Отрицание: *Let's not argue.* — Давай не будем спорить.
+  - **Shall we + глагол?** — может, …?: *Shall we take a taxi?* — Может, возьмём такси?
+  - **Why don't we / you + глагол?** — почему бы не…: *Why don't we eat out tonight?* — Почему бы нам не поужинать в ресторане?
+  - **How about / What about + -ing или сущ.?** — как насчёт…: *How about going for a walk?* — Как насчёт прогулки? · *What about pizza?* — Может, пиццу?
+  - **We could + глагол** — мы могли бы: *We could watch a film.* — Можно посмотреть фильм.
+
+  > После *How about* — форма на **-ing**, а не инфинитив: ~~How about to go~~ → *How about **going**?*
+
+  ## Как предложить помощь
+  - **Shall I + глагол?** — Мне …?: *Shall I open the window?* — Открыть окно?
+  - **I'll + глагол** — я …: *I'll carry your bag.* — Я понесу твою сумку.
+  - **Would you like…?** — Хотите…?: *Would you like some tea?* — Хотите чаю?
+
+  ## Ответы
+  *Good idea! / Sure, why not? / That sounds great.* — Хорошая идея! / Давай! · *I'd rather not. / I'm not sure.* — Лучше не надо. / Не уверен.
+examples:
+  - "*Let's* have a break. | Давай сделаем перерыв."
+  - "*Shall* I call a taxi for you? | Вызвать вам такси?"
+  - "*Why don't we* meet at the station? | Почему бы нам не встретиться на вокзале?"
+  - "*How about* going to the beach tomorrow? | Как насчёт того, чтобы завтра пойти на пляж?"
+  - "It's cold. *Shall we* go inside? | Холодно. Может, зайдём внутрь?"
+exercises:
+  - type: choice
+    q: "It's a lovely day. ___ go for a walk."
+    options: ["Let's", "Shall", "How about"]
+    answer: 0
+  - type: choice
+    q: "How about ___ a pizza tonight?"
+    options: ["order", "to order", "ordering"]
+    answer: 2
+  - type: choice
+    q: "You look tired. ___ I make you a coffee?"
+    options: ["Shall", "Let's", "Why"]
+    answer: 0
+  - type: choice
+    q: "Why ___ we ask Tom to help?"
+    options: ["not", "don't", "aren't"]
+    answer: 1
+  - type: choice
+    q: "Let's ___ late tonight — we have an early start."
+    options: ["don't stay", "not stay", "no stay"]
+    answer: 1
+  - type: input
+    q: "Давай посмотрим фильм. → ___ watch a film."
+    answer: ["Let's", "Let us"]
+  - type: input
+    q: "Помочь тебе с сумками? → ___ I help you with your bags?"
+    answer: ["Shall"]
+  - type: error
+    text: "What about {{to go=>going}} to the museum?"
+  - type: error
+    text: "Let's {{to start=>start}} the meeting."
+  - type: order
+    q: "Составьте: «Почему бы нам не поехать на поезде?»"
+    answer: "Why don't we go by train?"
+  - type: tf
+    items:
+      - ["“Shall I open the window?” is an offer.", true]
+      - ["“How about” is followed by the base verb.", false]
+  - type: listen
+    audio: "I'm bored. Why don't we go to the cinema? — Hmm, I'm not sure. How about staying in and cooking something together? — OK, good idea!"
+    q: "What do they decide to do?"
+    options: ["Go to the cinema", "Cook at home", "Go to a restaurant"]
+    answer: 1
+  - type: speak
+    answer: "Shall we have a coffee?"
+    ru: "Может, выпьем кофе?"
+writing:
+  - "transform | Перепишите с How about … ? | Let's go swimming. | How about going swimming?"
+  - "transform | Перепишите с Why don't we … ? | Let's eat out tonight. | Why don't we eat out tonight?"
+  - "translate | Давай не будем ссориться. | Let's not argue. || Let's not fight. || Let's not quarrel."
+  - "translate | Закрыть дверь? | Shall I close the door? || Shall I shut the door?"
+  - "translate | Может, возьмём такси? | Shall we take a taxi? || Why don't we take a taxi? || Shall we get a taxi?"
+  - "compose | Предложите другу план на выходные | let's | Let's go to the mountains this weekend."

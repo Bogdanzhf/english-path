@@ -1,0 +1,98 @@
+title: "As if, as though"
+title_ru: "As if, as though — «как будто»"
+section: clauses
+summary: "You look as if you've seen a ghost. He talks as if he knew everything."
+summary_ru: "You look as if you've seen a ghost. He talks as if he knew everything."
+theory: |
+  ## Real or possible: normal tenses
+  After **look / seem / sound / feel / smell / taste + as if / as though**, we use normal tenses when it may be true:
+  - *You look **as if** you'**re** tired.* (maybe you are)
+  - *It sounds **as though** they'**re** having a party.*
+  - *It looks **as if** it'**s going to** rain.*
+  - *You look **as if** you'**ve seen** a ghost.*
+
+  ## Unreal: past form
+  When the comparison is **not true**, we often use the past (like after *wish*):
+  - *He talks **as if** he **knew** everything.* (he doesn't)
+  - *She treats me **as though** I **were** a child.* (*were* for all persons in formal style; *was* in speech)
+  - Past perfect for an earlier time: *He looked **as if** he **hadn't slept** for days.*
+
+  ## Informal: like
+  In informal English people say *like*: *It looks **like** it's going to rain.* · *You look **like** you need a break.*
+  *as if* can also be an ironic reply: *"He'll apologise." — "**As if!**"* (= that will never happen)
+theory_ru: |
+  ## Реально или возможно: обычные времена
+  После **look / seem / sound / feel / smell / taste + as if / as though** — обычные времена, если это может быть правдой:
+  - *You look **as if** you'**re** tired.* — Ты выглядишь усталым (возможно, так и есть).
+  - *It sounds **as though** they'**re** having a party.* — Похоже, у них вечеринка.
+  - *It looks **as if** it'**s going to** rain.* — Кажется, будет дождь.
+  - *You look **as if** you'**ve seen** a ghost.* — У тебя такой вид, будто ты увидел привидение.
+
+  ## Нереально: прошедшая форма
+  Если сравнение **не соответствует действительности**, часто используют прошедшее время (как после *wish*):
+  - *He talks **as if** he **knew** everything.* — Он говорит так, будто всё знает (а он не знает).
+  - *She treats me **as though** I **were** a child.* — Она обращается со мной как с ребёнком. (*were* для всех лиц в книжном стиле, *was* — в речи)
+  - Past Perfect — о более раннем: *He looked **as if** he **hadn't slept** for days.* — Он выглядел так, будто не спал несколько дней.
+
+  ## Разговорный вариант: like
+  В разговорной речи говорят *like*: *It looks **like** it's going to rain.* · *You look **like** you need a break.*
+  *As if!* — ироничный ответ «ага, как же!»: *"He'll apologise." — "**As if!**"*
+examples:
+  - "It looks *as if* it's going to snow. | Похоже, пойдёт снег."
+  - "She spoke *as though* nothing had happened. | Она говорила так, будто ничего не случилось."
+  - "He spends money *as if* he were a millionaire. | Он тратит деньги так, будто он миллионер."
+  - "I feel *as if* I've known you for years. | У меня такое чувство, будто я знаю тебя много лет."
+  - "You sound *as if* you've got a cold. | Судя по голосу, ты простудился."
+exercises:
+  - type: choice
+    q: "He behaves as if he ___ the boss, but he's just an assistant."
+    options: ["is", "were", "will be"]
+    answer: 1
+  - type: choice
+    q: "It looks as if it ___ rain — take an umbrella."
+    options: ["is going to", "went to", "had"]
+    answer: 0
+  - type: choice
+    q: "She looked as if she ___ for hours. Her eyes were red."
+    options: ["cries", "had been crying", "will cry"]
+    answer: 1
+  - type: choice
+    q: "You look as though you ___ a holiday."
+    options: ["need", "needed to have had", "will needed"]
+    answer: 0
+  - type: choice
+    q: "Which is informal?"
+    options: ["It looks as though it's late.", "It looks like it's late.", "It looks as if it's late."]
+    answer: 1
+  - type: input
+    q: "Он говорит так, будто всё знает (но не знает). → He talks as if he ___ everything. (know)"
+    answer: ["knew"]
+  - type: input
+    q: "Похоже, они ушли. → It looks as if they ___ left. (have)"
+    answer: ["have", "'ve"]
+  - type: error
+    text: "She treats me as if I {{am=>were}} five years old."
+  - type: error
+    text: "It looks {{as=>as if}} the shop is closed."
+  - type: order
+    q: "Составьте: «Он выглядит так, будто не спал.»"
+    answer: "He looks as if he hasn't slept."
+  - type: tf
+    items:
+      - ["After “as if” we can use the past for an unreal comparison.", true]
+      - ["“As if!” as a reply means “Yes, of course.”", false]
+  - type: listen
+    audio: "Look at the sky. It looks as if there's going to be a storm. And listen — it sounds as though the neighbours' dog is scared of the thunder already."
+    q: "What does the speaker think will happen?"
+    options: ["A storm", "A party", "Snow"]
+    answer: 0
+  - type: speak
+    answer: "You look as if you need some rest."
+    ru: "Ты выглядишь так, будто тебе нужно отдохнуть."
+writing:
+  - "transform | Перепишите с as if (нереальное сравнение) | He isn't rich, but he spends money like a rich man. | He spends money as if he were rich. || He spends money as if he was rich. || He spends money as though he were rich."
+  - "translate | Похоже, будет дождь. | It looks as if it's going to rain. || It looks as though it's going to rain. || It looks like it's going to rain."
+  - "translate | Она говорит так, будто ничего не случилось. | She talks as if nothing has happened. || She speaks as if nothing has happened. || She talks as though nothing has happened. || She talks as if nothing happened."
+  - "translate | У меня такое чувство, будто я здесь уже был. | I feel as if I have been here before. || I feel as if I've been here before. || I feel as though I've been here before."
+  - "translate | Ты выглядишь усталым. (как будто устал) | You look as if you are tired. || You look as if you're tired. || You look tired."
+  - "compose | Опишите человека, который ведёт себя «как будто…» (as if / as though) | as if | My neighbour acts as if he owned the whole street."

@@ -1,0 +1,96 @@
+title: "Zero conditional"
+title_ru: "Нулевое условное: если… то (всегда)"
+section: conditionals
+summary: "If you heat ice, it melts."
+summary_ru: "If you heat ice, it melts."
+theory: |
+  ## Form
+  **If / When + present simple, present simple**
+  - *If you **heat** ice, it **melts**.*
+  - *When I **drink** coffee late, I **can't** sleep.*
+
+  ## Use
+  Things that are **always** true: facts, rules, habits. *If* and *when* mean almost the same here.
+  - *If you **press** this button, the machine **stops**.*
+  - *Plants **die** if they **don't get** water.*
+
+  ## Zero or first conditional?
+  - Zero: always true — *If it **rains**, the roads **get** wet.*
+  - First: one real situation in the future — *If it **rains** tomorrow, we'**ll stay** at home.*
+
+  Instructions often use the imperative: *If you **feel** ill, **call** a doctor.*
+theory_ru: |
+  ## Форма
+  **If / When + Present Simple, Present Simple**
+  - *If you **heat** ice, it **melts**.* — Если нагреть лёд, он тает.
+  - *When I **drink** coffee late, I **can't** sleep.* — Когда я пью кофе поздно, я не могу уснуть.
+
+  ## Когда используется
+  То, что верно **всегда**: факты, правила, привычки. Здесь *if* и *when* почти не различаются.
+  - *If you **press** this button, the machine **stops**.* — Если нажать эту кнопку, машина останавливается.
+  - *Plants **die** if they **don't get** water.* — Растения погибают без воды.
+
+  ## Нулевое или первое условное?
+  - Нулевое: всегда так — *If it **rains**, the roads **get** wet.* — Когда идёт дождь, дороги мокрые.
+  - Первое: конкретная ситуация в будущем — *If it **rains** tomorrow, we'**ll stay** at home.* — Если завтра будет дождь, мы останемся дома.
+
+  > В инструкциях часто повелительное наклонение: *If you **feel** ill, **call** a doctor.* — Если плохо себя чувствуете, вызовите врача.
+examples:
+  - "If you mix red and white, you *get* pink. | Если смешать красный и белый, получится розовый."
+  - "When I'm tired, I *go* to bed early. | Когда я устаю, я рано ложусь спать."
+  - "If water *reaches* 100°C, it boils. | Когда вода достигает 100°C, она кипит."
+  - "My dog *barks* if someone knocks on the door. | Моя собака лает, если кто-то стучит в дверь."
+  - "If you *don't* understand, ask the teacher. | Если не понимаете, спросите учителя."
+exercises:
+  - type: choice
+    q: "If you heat water to 100°C, it ___."
+    options: ["boils", "will boil", "boiled"]
+    answer: 0
+  - type: choice
+    q: "When I ___ too much, I get a headache."
+    options: ["will eat", "eat", "ate"]
+    answer: 1
+  - type: choice
+    q: "If you ___ the plants, they die."
+    options: ["don't water", "won't water", "not water"]
+    answer: 0
+  - type: choice
+    q: "If it ___ tomorrow, we'll cancel the picnic."
+    options: ["rains", "will rain", "rain"]
+    answer: 0
+  - type: choice
+    q: "If you have any questions, ___ me."
+    options: ["you ask", "ask", "asking"]
+    answer: 1
+  - type: input
+    q: "Если я пью кофе, я не сплю. → If I drink coffee, I ___ sleep. (not / can)"
+    answer: ["can't", "cannot", "can not"]
+  - type: input
+    q: "Лёд тает, если его нагреть. → Ice ___ if you heat it. (melt)"
+    answer: ["melts"]
+  - type: error
+    text: "If you freeze water, it {{will becomes=>becomes}} ice."
+  - type: error
+    text: "When she {{will be=>is}} nervous, she talks a lot."
+  - type: order
+    q: "Составьте: «Если я опаздываю, я беру такси.»"
+    answer: "If I am late, I take a taxi."
+  - type: tf
+    items:
+      - ["The zero conditional describes things that are always true.", true]
+      - ["In the zero conditional we use “will” in both parts.", false]
+  - type: listen
+    audio: "My cat is very clever. If she's hungry, she sits next to the fridge. And when I open the door, she runs to her bowl."
+    q: "What does the cat do when she's hungry?"
+    options: ["Sits next to the fridge", "Opens the door", "Runs outside"]
+    answer: 0
+  - type: speak
+    answer: "If you heat ice, it melts."
+    ru: "Если нагреть лёд, он тает."
+writing:
+  - "translate | Если нажать эту кнопку, свет включается. | If you press this button, the light comes on. || If you press this button, the light turns on."
+  - "translate | Когда я устаю, я слушаю музыку. | When I am tired, I listen to music. || When I'm tired, I listen to music."
+  - "translate | Если вы плохо себя чувствуете, оставайтесь дома. | If you feel ill, stay at home. || If you feel bad, stay at home. || If you feel sick, stay at home. || If you feel ill, stay home."
+  - "transform | Соедините в одно предложение с if | You don't sleep. You feel tired. | If you don't sleep, you feel tired."
+  - "transform | Соедините с when | I travel. I always take a book. | When I travel, I always take a book."
+  - "compose | Что вы обычно делаете, если у вас плохое настроение? (if / when) | if | If I'm in a bad mood, I go for a run."

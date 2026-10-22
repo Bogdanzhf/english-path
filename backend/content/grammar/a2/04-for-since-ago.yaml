@@ -1,0 +1,106 @@
+title: "For, since, ago"
+title_ru: "For, since, ago — сколько времени и с какого момента"
+section: tenses
+summary: "for two years · since 2020 · two years ago"
+summary_ru: "for two years · since 2020 · two years ago"
+theory: |
+  ## for + a period of time
+  **for** = how long: *for ten minutes, for three days, for a long time*
+  - *I've lived here **for** five years.*
+  - *We waited **for** an hour.*
+
+  ## since + a point in time
+  **since** = from a moment in the past until now (usually with the present perfect):
+  *since Monday, since 2019, since I was a child*
+  - *I've known her **since** school.*
+  - *It's been raining **since** this morning.*
+
+  ## ago = before now (past simple)
+  **ago** comes after the time period:
+  - *I met him two years **ago**.*
+  - *She left ten minutes **ago**.*
+
+  ## Questions
+  - *How long have you lived here?* — *For six years. / Since 2019.*
+  - *When did you move here?* — *Six years ago.*
+theory_ru: |
+  ## for + период
+  **for** = сколько времени, «в течение»: *for ten minutes, for three days, for a long time*
+  - *I've lived here **for** five years.* — Я живу здесь пять лет.
+  - *We waited **for** an hour.* — Мы ждали час.
+
+  ## since + точка отсчёта
+  **since** = «с (какого-то момента) и до сих пор», обычно с Present Perfect:
+  *since Monday, since 2019, since I was a child*
+  - *I've known her **since** school.* — Я знаю её со школы.
+  - *It's been raining **since** this morning.* — Дождь идёт с утра.
+
+  ## ago = «тому назад» (Past Simple)
+  **ago** ставится после срока:
+  - *I met him two years **ago**.* — Я познакомился с ним два года назад.
+  - *She left ten minutes **ago**.* — Она ушла десять минут назад.
+
+  > Русское «я живу здесь пять лет» — это *I **have lived** here for five years*, а не *I live here for five years*.
+
+  ## Вопросы
+  - *How long have you lived here?* — Сколько ты здесь живёшь? — *For six years. / Since 2019.*
+  - *When did you move here?* — Когда ты сюда переехал? — *Six years ago.*
+examples:
+  - "I've had this phone *for* two years. | У меня этот телефон уже два года."
+  - "She has worked here *since* March. | Она работает здесь с марта."
+  - "We moved to Moscow three years *ago*. | Мы переехали в Москву три года назад."
+  - "I haven't seen him *for* ages. | Я не видел его целую вечность."
+  - "They've been friends *since* they were children. | Они дружат с детства."
+exercises:
+  - type: choice
+    q: "I've lived in this flat ___ 2018."
+    options: ["since", "for", "ago"]
+    answer: 0
+  - type: choice
+    q: "We've been married ___ ten years."
+    options: ["since", "for", "ago"]
+    answer: 1
+  - type: choice
+    q: "I saw that film two weeks ___."
+    options: ["since", "for", "ago"]
+    answer: 2
+  - type: choice
+    q: "She has been ill ___ last Friday."
+    options: ["for", "since", "ago"]
+    answer: 1
+  - type: choice
+    q: "How long ___ here?"
+    options: ["do you live", "have you lived", "you lived"]
+    answer: 1
+  - type: input
+    q: "Я жду тебя уже полчаса! → I've been waiting ___ half an hour!"
+    answer: ["for"]
+  - type: input
+    q: "Он позвонил пять минут назад. → He called five minutes ___."
+    answer: ["ago"]
+  - type: error
+    text: "I have known him {{since=>for}} three years."
+  - type: error
+    text: "I {{live=>have lived}} here since 2015."
+  - type: order
+    q: "Составьте: «Я не ел с утра.»"
+    answer: "I haven't eaten since this morning."
+  - type: tf
+    items:
+      - ["“since” is used with a period of time, like “three days”.", false]
+      - ["“ago” is used with the past simple.", true]
+  - type: listen
+    audio: "I started learning English five years ago. I've been studying with my current teacher since last September."
+    q: "When did the speaker start with the current teacher?"
+    options: ["Five years ago", "Last September", "This morning"]
+    answer: 1
+  - type: speak
+    answer: "I have lived here for five years."
+    ru: "Я живу здесь пять лет."
+writing:
+  - "transform | Перепишите с for | I have worked here since 2020 (now it is 2025). | I have worked here for five years. || I've worked here for five years."
+  - "transform | Перепишите с ago | I moved here in 2015 (now it is 2025). | I moved here ten years ago."
+  - "translate | Я знаю её с детства. | I have known her since childhood. || I've known her since childhood. || I've known her since I was a child."
+  - "translate | Мы ждали два часа. | We waited for two hours. || We waited two hours."
+  - "translate | Он ушёл десять минут назад. | He left ten minutes ago."
+  - "compose | Как долго вы изучаете английский? (for / since) | have | I have studied English for three years."

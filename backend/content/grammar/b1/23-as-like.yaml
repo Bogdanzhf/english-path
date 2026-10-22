@@ -1,0 +1,100 @@
+title: "As and like"
+title_ru: "As и like — «как», «в качестве»"
+section: words
+summary: "She works as a nurse. He sings like a bird. Do as I say."
+summary_ru: "She works as a nurse. He sings like a bird. Do as I say."
+theory: |
+  ## like + noun / pronoun = similar to
+  - *She looks **like** her mother.*
+  - *He swims **like** a fish.* (he isn't a fish)
+  - *What's the weather **like**?*
+  - **like** = for example: *I love fruit, **like** apples and pears.*
+
+  ## as + noun = in the role of, a real job or function
+  - *She works **as** a nurse.* (she is a nurse)
+  - *I used my coat **as** a pillow.*
+  - Compare: *He talks **like** a teacher* (he isn't one) / *He works **as** a teacher* (he is one).
+
+  ## as + clause (subject + verb) = in the way that
+  - *Do **as** I say.* · ***As** you know, the shop is closed.* · *Leave it **as** it is.*
+  - In informal speech people also say *like*: *Do it like I showed you.*
+
+  ## Fixed expressions with as
+  *as usual · as always · as well · such as · as a result · as a child (= when I was a child)*
+theory_ru: |
+  ## like + существительное / местоимение — «как», «похоже на»
+  - *She looks **like** her mother.* — Она похожа на маму.
+  - *He swims **like** a fish.* — Он плавает как рыба (но он не рыба).
+  - *What's the weather **like**?* — Какая погода?
+  - **like** = например: *I love fruit, **like** apples and pears.* — Я люблю фрукты, например яблоки и груши.
+
+  ## as + существительное — «в качестве», реальная роль
+  - *She works **as** a nurse.* — Она работает медсестрой (она и есть медсестра).
+  - *I used my coat **as** a pillow.* — Я использовал куртку вместо подушки.
+  - Сравните: *He talks **like** a teacher* — говорит как учитель (но он не учитель) / *He works **as** a teacher* — работает учителем.
+
+  ## as + предложение — «так, как»
+  - *Do **as** I say.* — Делай, как я говорю. · ***As** you know, the shop is closed.* — Как вы знаете, магазин закрыт. · *Leave it **as** it is.* — Оставь как есть.
+  - В разговорной речи часто говорят *like*: *Do it like I showed you.*
+
+  ## Устойчивые выражения с as
+  *as usual* — как обычно · *as always* — как всегда · *as well* — тоже · *such as* — такой как · *as a result* — в результате · *as a child* — в детстве
+examples:
+  - "My brother works *as* a chef. | Мой брат работает поваром."
+  - "This room looks *like* a museum. | Эта комната похожа на музей."
+  - "*As* I said yesterday, we need more time. | Как я говорил вчера, нам нужно больше времени."
+  - "She was late, *as* usual. | Она, как обычно, опоздала."
+  - "*As* a child, I lived in the country. | В детстве я жил за городом."
+exercises:
+  - type: choice
+    q: "She works ___ a teacher at a primary school."
+    options: ["like", "as", "such"]
+    answer: 1
+  - type: choice
+    q: "He runs ___ the wind!"
+    options: ["as", "like", "how"]
+    answer: 1
+  - type: choice
+    q: "___ you know, the meeting is tomorrow."
+    options: ["Like", "As", "How"]
+    answer: 1
+  - type: choice
+    q: "What does your new flat look ___?"
+    options: ["as", "like", "how"]
+    answer: 1
+  - type: choice
+    q: "He came late, ___ usual."
+    options: ["like", "as", "how"]
+    answer: 1
+  - type: input
+    q: "Я использую эту коробку как стол. → I use this box ___ a table."
+    answer: ["as"]
+  - type: input
+    q: "Ты говоришь как мой папа! → You sound ___ my dad!"
+    answer: ["like"]
+  - type: error
+    text: "He worked {{like=>as}} a waiter when he was a student."
+  - type: error
+    text: "She sings {{as=>like}} an angel."
+  - type: order
+    q: "Составьте: «Делай, как я говорю.»"
+    answer: "Do as I say."
+  - type: tf
+    items:
+      - ["“He works as a doctor” means he is a doctor.", true]
+      - ["“He looks as his father” is correct.", false]
+  - type: listen
+    audio: "My uncle worked as a pilot for thirty years. Now he's retired, but he still talks like a pilot — he describes everything as if it were a flight!"
+    q: "What was the uncle's job?"
+    options: ["A pilot", "A teacher", "A driver"]
+    answer: 0
+  - type: speak
+    answer: "She works as a nurse."
+    ru: "Она работает медсестрой."
+writing:
+  - "translate | Он работает переводчиком. | He works as a translator. || He works as an interpreter."
+  - "translate | Она похожа на свою сестру. | She looks like her sister."
+  - "translate | Как обычно, он забыл ключи. | As usual, he forgot his keys. || As usual, he has forgotten his keys."
+  - "translate | Оставь всё как есть. | Leave everything as it is. || Leave it as it is."
+  - "translate | Какая погода в Лондоне? | What's the weather like in London? || What is the weather like in London?"
+  - "compose | Кем вы работаете или хотели бы работать? (as) | as | I work as a programmer in a small company."

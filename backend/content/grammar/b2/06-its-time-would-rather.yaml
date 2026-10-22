@@ -1,0 +1,102 @@
+title: "It's time, would rather + past"
+title_ru: "It's time, would rather + прошедшее время (нереальное настоящее)"
+section: conditionals
+summary: "It's time we left. I'd rather you didn't smoke here."
+summary_ru: "It's time we left. I'd rather you didn't smoke here."
+theory: |
+  ## It's (high / about) time + subject + past simple
+  = something should already happen; we are late:
+  - *It's time we **went** home.* (not ~~go~~)
+  - *It's **high** time you **found** a job.* (strong criticism)
+  - *It's **about** time they **fixed** this road.*
+  - Without a subject: ***It's time to go.*** (neutral)
+
+  ## would rather + subject + past simple
+  When we want **another person** to do (or not do) something:
+  - *I'd rather you **didn't** smoke here.*
+  - *I'd rather you **came** tomorrow.*
+  - *Would you rather I **paid**?*
+  - About yourself: *I'd rather **stay** at home.* (base verb, see B1)
+
+  ## Past perfect = regret about the past
+  *I'd rather you **hadn't told** him.* (but you did)
+
+  The past form here does not mean past time — it shows that the situation is unreal or wished, as after *wish* and *if only*.
+theory_ru: |
+  ## It's (high / about) time + подлежащее + Past Simple
+  = «пора бы уже», мы опаздываем:
+  - *It's time we **went** home.* — Нам пора идти домой. (не ~~go~~)
+  - *It's **high** time you **found** a job.* — Давно пора найти работу. (упрёк)
+  - *It's **about** time they **fixed** this road.* — Давно пора отремонтировать эту дорогу.
+  - Без подлежащего: ***It's time to go.*** — Пора идти. (нейтрально)
+
+  ## would rather + подлежащее + Past Simple
+  Когда хотим, чтобы **другой человек** что-то сделал (или не делал):
+  - *I'd rather you **didn't** smoke here.* — Я бы предпочёл, чтобы вы здесь не курили.
+  - *I'd rather you **came** tomorrow.* — Лучше приходи завтра.
+  - *Would you rather I **paid**?* — Хочешь, чтобы заплатил я?
+  - О себе: *I'd rather **stay** at home.* — обычный глагол (см. B1).
+
+  ## Past Perfect — сожаление о прошлом
+  *I'd rather you **hadn't told** him.* — Лучше бы ты ему не говорил (а ты сказал).
+
+  > Прошедшее время здесь не значит прошлое — оно показывает нереальность, желание, как после *wish* и *if only*.
+examples:
+  - "It's time you *went* to bed. | Тебе пора спать."
+  - "It's high time we *did* something about it. | Давно пора что-то с этим сделать."
+  - "I'd rather you *didn't* call me so late. | Я бы предпочёл, чтобы ты не звонил так поздно."
+  - "I'd rather you *stayed* for dinner. | Я бы хотел, чтобы ты остался на ужин."
+  - "I'd rather you *hadn't* spent all the money. | Лучше бы ты не тратил все деньги."
+exercises:
+  - type: choice
+    q: "It's time we ___ the house. It's dirty."
+    options: ["clean", "cleaned", "will clean"]
+    answer: 1
+  - type: choice
+    q: "I'd rather you ___ my laptop without asking."
+    options: ["don't use", "didn't use", "not use"]
+    answer: 1
+  - type: choice
+    q: "It's high time he ___ responsibility for his actions."
+    options: ["took", "takes", "take"]
+    answer: 0
+  - type: choice
+    q: "I'd rather ___ by train. I hate flying."
+    options: ["travel", "travelled", "to travel"]
+    answer: 0
+  - type: choice
+    q: "I'd rather you ___ her about the party. It was a secret!"
+    options: ["didn't tell", "hadn't told", "don't tell"]
+    answer: 1
+  - type: input
+    q: "Пора бы тебе купить новую машину. → It's time you ___ a new car. (buy)"
+    answer: ["bought"]
+  - type: input
+    q: "Я бы предпочёл, чтобы ты пришёл пораньше. → I'd rather you ___ earlier. (come)"
+    answer: ["came"]
+  - type: error
+    text: "It's about time you {{start=>started}} studying for the exam."
+  - type: error
+    text: "I'd rather you {{don't=>didn't}} wear your shoes in the house."
+  - type: order
+    q: "Составьте: «Нам пора уходить.» (It's time …)"
+    answer: "It's time we left."
+  - type: tf
+    items:
+      - ["In “It's time we went”, the past form refers to the past.", false]
+      - ["“I'd rather you didn't” is a polite way to ask someone not to do something.", true]
+  - type: listen
+    audio: "It's nearly midnight, Tom. It's time you turned off the computer. And I'd rather you didn't play games on a school night."
+    q: "What does the speaker want Tom to do?"
+    options: ["Play another game", "Turn off the computer", "Do his homework"]
+    answer: 1
+  - type: speak
+    answer: "It's time we went home."
+    ru: "Нам пора домой."
+writing:
+  - "transform | Перепишите с It's time + you | You should start looking for a job now. | It's time you started looking for a job. || It's high time you started looking for a job. || It's about time you started looking for a job."
+  - "transform | Перепишите с I'd rather you … | Please don't smoke in the car. | I'd rather you didn't smoke in the car. || I would rather you didn't smoke in the car."
+  - "translate | Давно пора починить крышу. | It's high time we fixed the roof. || It's high time the roof was fixed. || It's about time we repaired the roof. || It's high time we repaired the roof."
+  - "translate | Я бы предпочёл, чтобы ты остался. | I'd rather you stayed. || I would rather you stayed."
+  - "translate | Лучше бы ты мне этого не говорил. | I'd rather you hadn't told me that. || I would rather you hadn't told me that. || I'd rather you hadn't told me."
+  - "compose | Что давно пора сделать в вашем городе? (It's high time …) | time | It's high time they built a new hospital in our town."

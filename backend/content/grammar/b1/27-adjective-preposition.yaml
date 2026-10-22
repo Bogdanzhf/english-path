@@ -1,0 +1,96 @@
+title: "Adjective + preposition"
+title_ru: "Прилагательное + предлог: afraid of, good at, interested in"
+section: prepositions
+summary: "afraid of · good at · interested in · proud of · keen on"
+summary_ru: "afraid of · good at · interested in · proud of · keen on"
+theory: |
+  ## Common combinations
+  - **of**: *afraid of, scared of, proud of, tired of, fond of, full of, aware of, jealous of, capable of*
+  - **at**: *good at, bad at, brilliant at, surprised at*
+  - **in**: *interested in, involved in, rich in*
+  - **about**: *worried about, excited about, angry about (sth), sorry about, nervous about, happy about*
+  - **with**: *angry with (sb), pleased with, bored with, satisfied with, familiar with, crowded with*
+  - **on**: *keen on, dependent on*
+  - **for**: *famous for, responsible for, late for, ready for, sorry for (sb)*
+  - **to**: *kind to, married to, similar to, used to, polite to*
+  - **from**: *different from, absent from*
+
+  ## After a preposition: noun or -ing
+  - *I'm good at **maths**.* · *I'm good at **swimming**.* (not ~~at swim~~)
+  - *She's tired of **waiting**.*
+theory_ru: |
+  ## Частые сочетания
+  - **of**: *afraid of* — бояться, *proud of* — гордиться, *tired of* — устать от, *full of* — полный, *aware of* — осознавать, *jealous of* — ревновать, завидовать
+  - **at**: *good at* — хорошо уметь, *bad at* — плохо уметь, *surprised at* — удивлён
+  - **in**: *interested in* — интересоваться, *involved in* — участвовать
+  - **about**: *worried about* — волноваться о, *excited about* — в восторге от, *sorry about* — сожалеть о, *nervous about*
+  - **with**: *angry with (sb)* — злиться на кого-то, *pleased with* — довольный, *bored with* — устать от, *familiar with* — знакомый с
+  - **on**: *keen on* — увлекаться, *dependent on* — зависеть от
+  - **for**: *famous for* — знаменит чем-то, *responsible for* — отвечать за, *late for* — опоздать на, *ready for* — готов к
+  - **to**: *kind to* — добр к, *married to* — женат на, *similar to* — похож на, *polite to*
+  - **from**: *different from* — отличаться от
+
+  > Предлоги часто не совпадают с русскими: «женат **на**» — *married **to***, «злиться **на**» — *angry **with***, «хорош **в**» — *good **at***.
+
+  ## После предлога — существительное или -ing
+  - *I'm good at **maths**.* · *I'm good at **swimming**.* (не ~~at swim~~)
+  - *She's tired of **waiting**.* — Она устала ждать.
+examples:
+  - "I'm *afraid of* spiders. | Я боюсь пауков."
+  - "She's very *good at* languages. | Ей очень хорошо даются языки."
+  - "We're *proud of* our son. | Мы гордимся нашим сыном."
+  - "He's *married to* a doctor. | Он женат на враче."
+  - "This town is *famous for* its cheese. | Этот город славится своим сыром."
+exercises:
+  - type: choice
+    q: "I'm not very good ___ cooking."
+    options: ["in", "at", "on"]
+    answer: 1
+  - type: choice
+    q: "She's interested ___ modern art."
+    options: ["in", "at", "for"]
+    answer: 0
+  - type: choice
+    q: "He's married ___ my cousin."
+    options: ["with", "on", "to"]
+    answer: 2
+  - type: choice
+    q: "My dad was angry ___ me for coming home late."
+    options: ["on", "with", "at"]
+    answer: 1
+  - type: choice
+    q: "I'm tired ___ this rain!"
+    options: ["of", "from", "with"]
+    answer: 0
+  - type: input
+    q: "Ты волнуешься из-за экзамена? → Are you worried ___ the exam?"
+    answer: ["about"]
+  - type: input
+    q: "Кто отвечает за этот проект? → Who is responsible ___ this project?"
+    answer: ["for"]
+  - type: error
+    text: "My sister is very different {{of=>from}} me."
+  - type: error
+    text: "I'm keen {{in=>on}} football."
+  - type: order
+    q: "Составьте: «Я горжусь своей командой.»"
+    answer: "I am proud of my team."
+  - type: tf
+    items:
+      - ["After a preposition we use the -ing form of a verb.", true]
+      - ["“good in tennis” is the usual expression.", false]
+  - type: listen
+    audio: "My daughter is really keen on science. She's good at maths and she's interested in space. But she's afraid of the dark!"
+    q: "What is the daughter afraid of?"
+    options: ["Maths", "Space", "The dark"]
+    answer: 2
+  - type: speak
+    answer: "I'm interested in history."
+    ru: "Я интересуюсь историей."
+writing:
+  - "translate | Я плохо разбираюсь в математике. | I am bad at maths. || I'm bad at maths. || I'm bad at math. || I'm not good at maths."
+  - "translate | Она боится собак. | She is afraid of dogs. || She's afraid of dogs. || She's scared of dogs."
+  - "translate | Мы очень довольны результатами. | We are very pleased with the results. || We're very pleased with the results. || We're very happy with the results."
+  - "translate | Я устал ждать. | I am tired of waiting. || I'm tired of waiting."
+  - "translate | Этот город знаменит своими парками. | This city is famous for its parks. || This town is famous for its parks."
+  - "compose | В чём вы хороши и что вас интересует? (good at / interested in) | good at | I'm good at drawing and I'm interested in design."

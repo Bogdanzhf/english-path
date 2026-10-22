@@ -1,0 +1,96 @@
+title: "Had better"
+title_ru: "Had better — «лучше бы», «следует» (иначе будет плохо)"
+section: modals
+summary: "You'd better hurry, or you'll miss the train."
+summary_ru: "You'd better hurry, or you'll miss the train."
+theory: |
+  ## Form
+  **had better + base verb** (usually short: *'d better*)
+  - *You'**d better** take an umbrella.*
+  - Negative: *You'**d better not** be late.*
+  - It's about **now or the near future**, although *had* looks past.
+
+  ## Meaning
+  Strong advice for a **specific situation**: if you don't do it, something bad will happen.
+  - *We'**d better** leave now, or we'll miss the bus.*
+
+  ## had better vs should
+  - **should** — general advice, an opinion: *You **should** eat more vegetables.*
+  - **had better** — urgent, this situation: *You'**d better** see a doctor — that cut looks bad.*
+
+  Common mistakes: ~~You had better to go~~ · ~~You better not~~ (informal speech only) · ~~You hadn't better~~.
+theory_ru: |
+  ## Форма
+  **had better + глагол** (обычно сокращённо: *'d better*)
+  - *You'**d better** take an umbrella.* — Лучше возьми зонт.
+  - Отрицание: *You'**d better not** be late.* — Смотри не опоздай.
+  - Речь о **настоящем или ближайшем будущем**, хотя *had* похоже на прошедшее время.
+
+  ## Значение
+  Настойчивый совет **в конкретной ситуации**: если не сделать — будут неприятности.
+  - *We'**d better** leave now, or we'll miss the bus.* — Нам лучше выйти сейчас, а то опоздаем на автобус.
+
+  ## had better или should?
+  - **should** — общий совет, мнение: *You **should** eat more vegetables.* — Тебе стоит есть больше овощей.
+  - **had better** — срочно, именно сейчас: *You'**d better** see a doctor — that cut looks bad.* — Тебе лучше сходить к врачу — порез выглядит плохо.
+
+  > Частые ошибки: ~~You had better to go~~ (без *to*), ~~You hadn't better~~ → *You'd better **not***.
+examples:
+  - "You'*d better* hurry — the film starts in ten minutes. | Тебе лучше поторопиться — фильм начинается через десять минут."
+  - "We'*d better* not tell Mum about this. | Маме лучше об этом не рассказывать."
+  - "I'*d better* go now. It's late. | Мне пора идти. Уже поздно."
+  - "You'*d better* book a table — it's a popular place. | Лучше забронируй столик — это популярное место."
+  - "He'*d better* apologise, or she'll never speak to him again. | Ему лучше извиниться, иначе она больше с ним не заговорит."
+exercises:
+  - type: choice
+    q: "It's going to rain. You'd better ___ a coat."
+    options: ["take", "to take", "taking"]
+    answer: 0
+  - type: choice
+    q: "You'd better ___ late for the interview."
+    options: ["don't be", "not be", "not to be"]
+    answer: 1
+  - type: choice
+    q: "Which is a general opinion, not urgent advice?"
+    options: ["You'd better call him now.", "You should read more books.", "You'd better not touch that."]
+    answer: 1
+  - type: choice
+    q: "'d better is short for ___."
+    options: ["would better", "had better", "did better"]
+    answer: 1
+  - type: choice
+    q: "The shop closes at six. We'd better ___ now."
+    options: ["go", "went", "going"]
+    answer: 0
+  - type: input
+    q: "Тебе лучше отдохнуть. → You ___ better rest."
+    answer: ["had", "'d"]
+  - type: input
+    q: "Лучше не говори ему. → You'd better ___ tell him."
+    answer: ["not"]
+  - type: error
+    text: "You'd better {{to call=>call}} the police."
+  - type: error
+    text: "We {{hadn't better=>'d better not}} wake the baby."
+  - type: order
+    q: "Составьте: «Нам лучше уехать пораньше.»"
+    answer: "We had better leave early."
+  - type: tf
+    items:
+      - ["“You'd better” refers to the past.", false]
+      - ["“had better” warns that something bad may happen.", true]
+  - type: listen
+    audio: "Look at the time! We'd better leave now. If we miss the last train, we'll have to take a taxi, and that's really expensive."
+    q: "Why do they need to leave now?"
+    options: ["To catch the last train", "To find a taxi", "To save time at home"]
+    answer: 0
+  - type: speak
+    answer: "You'd better see a doctor."
+    ru: "Тебе лучше сходить к врачу."
+writing:
+  - "transform | Перепишите с had better | It's a good idea to leave now, or we'll be late. | We had better leave now. || We'd better leave now. || We had better leave now, or we'll be late. || We'd better leave now, or we'll be late."
+  - "transform | Перепишите с had better not | Don't forget your passport! | You had better not forget your passport. || You'd better not forget your passport."
+  - "translate | Тебе лучше позвонить ей сегодня. | You had better call her today. || You'd better call her today. || You'd better phone her today."
+  - "translate | Нам лучше не опаздывать. | We had better not be late. || We'd better not be late."
+  - "translate | Мне лучше пойти домой. | I had better go home. || I'd better go home."
+  - "compose | Дайте срочный совет другу, у которого завтра экзамен | better | You'd better go to bed early tonight."

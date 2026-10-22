@@ -1,0 +1,95 @@
+title: "Future time clauses: when, as soon as, until, before"
+title_ru: "Придаточные времени о будущем: when, as soon as, until"
+section: clauses
+summary: "I'll call you when I arrive. (not when I will arrive)"
+summary_ru: "I'll call you when I arrive. (not when I will arrive)"
+theory: |
+  ## The rule
+  After **when, as soon as, until / till, before, after, once, by the time** we use the **present** (not *will*) to talk about the future:
+  - *I'll call you **when** I **arrive**.* (not ~~when I will arrive~~)
+  - *We'll start **as soon as** everyone **is** here.*
+  - *Wait here **until** I **come** back.*
+  - ***Before** you **leave**, turn off the lights.*
+
+  ## Present perfect for a finished action
+  To show that the first action will be complete:
+  - *I'll go out **after** I'**ve finished** my homework.*
+  - ***Once** you'**ve read** the book, give it back to me.*
+
+  ## The same with if / unless
+  *If it **rains**, we'll stay in.* — see first conditional.
+theory_ru: |
+  ## Правило
+  После **when, as soon as, until / till, before, after, once, by the time** о будущем говорят в **настоящем** времени (без *will*):
+  - *I'll call you **when** I **arrive**.* — Я позвоню, когда приеду. (не ~~when I will arrive~~)
+  - *We'll start **as soon as** everyone **is** here.* — Начнём, как только все соберутся.
+  - *Wait here **until** I **come** back.* — Жди здесь, пока я не вернусь.
+  - ***Before** you **leave**, turn off the lights.* — Перед уходом выключи свет.
+
+  > По-русски «когда приеду» — будущее время, а по-английски — настоящее: *when I **arrive***. Это одна из самых частых ошибок.
+
+  ## Present Perfect — когда действие будет завершено
+  - *I'll go out **after** I'**ve finished** my homework.* — Я выйду, когда закончу домашку.
+  - ***Once** you'**ve read** the book, give it back to me.* — Как прочитаешь книгу, верни её мне.
+
+  ## То же правило с if / unless
+  *If it **rains**, we'll stay in.* — см. первое условное.
+examples:
+  - "I'll tell her the news *when* I see her. | Я расскажу ей новость, когда увижу её."
+  - "Call me *as soon as* you get home. | Позвони мне, как только доберёшься домой."
+  - "We'll wait *until* the rain stops. | Мы подождём, пока не кончится дождь."
+  - "*Before* you go to bed, brush your teeth. | Перед сном почисти зубы."
+  - "*After* I've saved enough money, I'll buy a car. | Когда накоплю достаточно денег, куплю машину."
+exercises:
+  - type: choice
+    q: "I'll phone you when I ___ to London."
+    options: ["get", "will get", "got"]
+    answer: 0
+  - type: choice
+    q: "We won't start the meeting until the boss ___."
+    options: ["will arrive", "arrives", "arrive"]
+    answer: 1
+  - type: choice
+    q: "As soon as I finish this, I ___ you."
+    options: ["help", "will help", "helped"]
+    answer: 1
+  - type: choice
+    q: "You can watch TV after you ___ your homework."
+    options: ["will do", "have done", "did"]
+    answer: 1
+  - type: choice
+    q: "Turn off your phone before the film ___."
+    options: ["starts", "will start", "is starting will"]
+    answer: 0
+  - type: input
+    q: "Я напишу тебе, когда приеду в отель. → I'll text you when I ___ at the hotel. (arrive)"
+    answer: ["arrive", "get"]
+  - type: input
+    q: "Подожди, пока я не закончу. → Wait until I ___. (finish)"
+    answer: ["finish", "have finished", "'ve finished"]
+  - type: error
+    text: "I'll buy a new phone when I {{will get=>get}} my salary."
+  - type: error
+    text: "Don't go out until the rain {{will stop=>stops}}."
+  - type: order
+    q: "Составьте: «Как только он позвонит, я скажу тебе.»"
+    answer: "As soon as he calls, I will tell you."
+  - type: tf
+    items:
+      - ["After “when” we use “will” to talk about the future.", false]
+      - ["“I'll leave after I've eaten” is correct.", true]
+  - type: listen
+    audio: "Don't worry, Mum. I'll send you a message as soon as the plane lands. And when I get to the hotel, I'll call you."
+    q: "When will the speaker call?"
+    options: ["When the plane lands", "When they get to the hotel", "Before the flight"]
+    answer: 1
+  - type: speak
+    answer: "I'll call you when I get home."
+    ru: "Я позвоню тебе, когда приеду домой."
+writing:
+  - "transform | Соедините с when | I will finish university. Then I will travel. | When I finish university, I will travel. || When I finish university, I'll travel. || I will travel when I finish university. || I'll travel when I finish university."
+  - "transform | Соедините с as soon as | The shop will open. I will buy bread. | As soon as the shop opens, I will buy bread. || As soon as the shop opens, I'll buy bread. || I'll buy bread as soon as the shop opens."
+  - "translate | Мы подождём, пока он не придёт. | We will wait until he comes. || We'll wait until he comes. || We'll wait till he comes. || We'll wait until he arrives."
+  - "translate | Позвони мне, когда доберёшься. | Call me when you get there. || Phone me when you arrive. || Call me when you arrive."
+  - "translate | Перед тем как уйти, закрой окно. | Before you leave, close the window. || Close the window before you leave. || Before you go, close the window."
+  - "compose | Что вы сделаете, когда закончите учёбу или работу сегодня? | when | When I finish work, I'll go to the gym."

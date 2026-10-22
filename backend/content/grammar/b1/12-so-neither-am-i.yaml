@@ -1,0 +1,100 @@
+title: "So am I, Neither do I"
+title_ru: "So am I / Neither do I — «я тоже», «я тоже нет»"
+section: sentences
+summary: "I'm tired. — So am I. I don't like it. — Neither do I."
+summary_ru: "I'm tired. — So am I. I don't like it. — Neither do I."
+theory: |
+  ## Agreeing with a positive sentence: so + auxiliary + subject
+  - *I'm hungry. — **So am I**.*
+  - *I like jazz. — **So do I**.*
+  - *I went to the concert. — **So did I**.*
+  - *I can swim. — **So can I**.* · *I've been there. — **So have I**.*
+
+  ## Agreeing with a negative sentence: neither / nor + auxiliary + subject
+  - *I'm not ready. — **Neither am I**.*
+  - *I don't eat meat. — **Neither do I**.* (= *Nor do I.* / informal *Me neither.*)
+  - *I didn't see it. — **Neither did I**.*
+
+  ## Disagreeing (different situation)
+  - *I love coffee. — **I don't**.*
+  - *I haven't been to Rome. — **I have**.*
+
+  The auxiliary matches the first sentence: *be → am/is/are, present simple → do/does, past simple → did, can → can, have done → have*.
+theory_ru: |
+  ## Согласие с утверждением: so + вспомогательный глагол + подлежащее — «я тоже»
+  - *I'm hungry. — **So am I**.* — Я голоден. — Я тоже.
+  - *I like jazz. — **So do I**.* — Я люблю джаз. — Я тоже.
+  - *I went to the concert. — **So did I**.* — Я был на концерте. — Я тоже.
+  - *I can swim. — **So can I**.* · *I've been there. — **So have I**.*
+
+  ## Согласие с отрицанием: neither / nor + вспомогательный + подлежащее — «я тоже нет»
+  - *I'm not ready. — **Neither am I**.* — Я не готов. — Я тоже.
+  - *I don't eat meat. — **Neither do I**.* (= *Nor do I.* / разг. *Me neither.*) — Я не ем мясо. — Я тоже.
+  - *I didn't see it. — **Neither did I**.*
+
+  > После *neither* глагол в утвердительной форме: ~~Neither don't I~~ → *Neither **do** I*.
+
+  ## Несогласие (у меня по-другому)
+  - *I love coffee. — **I don't**.* — Я обожаю кофе. — А я нет.
+  - *I haven't been to Rome. — **I have**.* — Я не был в Риме. — А я был.
+
+  Вспомогательный глагол берётся из первой фразы: *be → am/is/are, Present Simple → do/does, Past Simple → did, can → can, have done → have*.
+examples:
+  - "I'm from Russia. — *So am I*! | Я из России. — Я тоже!"
+  - "I don't like horror films. — *Neither do I*. | Я не люблю фильмы ужасов. — Я тоже."
+  - "Tom passed the exam, and *so did* Anna. | Том сдал экзамен, и Анна тоже."
+  - "I can't drive. — *Neither can* my brother. | Я не умею водить. — Мой брат тоже."
+  - "I've never been to Japan. — *I have*! | Я никогда не был в Японии. — А я был!"
+exercises:
+  - type: choice
+    q: "I'm really tired. — ___."
+    options: ["So am I", "So do I", "Neither am I"]
+    answer: 0
+  - type: choice
+    q: "I don't like cold weather. — ___."
+    options: ["So do I", "Neither do I", "Neither don't I"]
+    answer: 1
+  - type: choice
+    q: "I saw that film last week. — ___."
+    options: ["So did I", "So saw I", "So do I"]
+    answer: 0
+  - type: choice
+    q: "I can't swim. — ___."
+    options: ["Neither can I", "So can't I", "Neither I can"]
+    answer: 0
+  - type: choice
+    q: "I love spicy food. — ___. I hate it!"
+    options: ["So do I", "I don't", "Neither do I"]
+    answer: 1
+  - type: input
+    q: "Я уже был в Париже. — Я тоже. → I've been to Paris. — So ___ I."
+    answer: ["have"]
+  - type: input
+    q: "Она не пришла. — Он тоже. → She didn't come. — Neither ___ he."
+    answer: ["did"]
+  - type: error
+    text: "I like football. — So {{like=>do}} I."
+  - type: error
+    text: "I'm not hungry. — Neither {{I am=>am I}}."
+  - type: order
+    q: "Составьте ответ: «Я тоже не знаю.» (на I don't know.)"
+    answer: "Neither do I."
+  - type: tf
+    items:
+      - ["“So do I” agrees with a positive sentence.", true]
+      - ["“Neither don't I” is correct.", false]
+  - type: listen
+    audio: "I've never tried sushi. — Neither have I! But I'd like to. — So would I. Let's go to that new Japanese place on Friday."
+    q: "Have the speakers tried sushi?"
+    options: ["Both have", "Neither has", "Only one has"]
+    answer: 1
+  - type: speak
+    answer: "Neither do I."
+    ru: "Я тоже нет."
+writing:
+  - "transform | Ответьте «я тоже» | I love music. | So do I."
+  - "transform | Ответьте «я тоже нет» | I didn't sleep well. | Neither did I. || Nor did I."
+  - "transform | Ответьте «я тоже» | I'm going to the party. | So am I."
+  - "transform | Ответьте «а я нет» | I like getting up early. | I don't."
+  - "translate | Я не умею петь. — Я тоже. | I can't sing. — Neither can I. || I can't sing. — Nor can I."
+  - "compose | Напишите фразу о себе и ответ друга с So … I или Neither … I | so | I love travelling. — So do I."

@@ -1,0 +1,100 @@
+title: "-ing and -ed adjectives"
+title_ru: "Прилагательные на -ing и -ed: boring или bored?"
+section: adjectives
+summary: "The film was boring. I was bored."
+summary_ru: "The film was boring. I was bored."
+theory: |
+  ## -ing = what something is like
+  The thing or person **causes** the feeling:
+  - *The film was **boring**.* (it made people feel bored)
+  - *What an **interesting** idea!*
+  - *The news was **shocking**.*
+
+  ## -ed = how a person feels
+  - *I was **bored** during the film.*
+  - *She's **interested** in art.*
+  - *We were **shocked** by the news.*
+
+  ## Common pairs
+  boring / bored · interesting / interested · exciting / excited · tiring / tired ·
+  surprising / surprised · amazing / amazed · confusing / confused · annoying / annoyed ·
+  frightening / frightened · relaxing / relaxed · disappointing / disappointed · embarrassing / embarrassed
+
+  Careful: *I'm **boring*** means other people find you dull!
+theory_ru: |
+  ## -ing = «какой» предмет или человек
+  Предмет или человек **вызывает** чувство:
+  - *The film was **boring**.* — Фильм был скучным (наводил скуку).
+  - *What an **interesting** idea!* — Какая интересная идея!
+  - *The news was **shocking**.* — Новость была шокирующей.
+
+  ## -ed = что человек чувствует
+  - *I was **bored** during the film.* — Мне было скучно на фильме.
+  - *She's **interested** in art.* — Она интересуется искусством.
+  - *We were **shocked** by the news.* — Мы были потрясены новостью.
+
+  ## Частые пары
+  boring / bored · interesting / interested · exciting / excited · tiring / tired ·
+  surprising / surprised · amazing / amazed · confusing / confused · annoying / annoyed ·
+  frightening / frightened · relaxing / relaxed · disappointing / disappointed · embarrassing / embarrassed
+
+  > Осторожно: *I'm **boring*** — «я скучный (зануда)», а «мне скучно» — *I'm **bored***.
+examples:
+  - "The lesson was really *interesting*. | Урок был очень интересным."
+  - "I'm *interested* in history. | Я интересуюсь историей."
+  - "It was a *tiring* day, and now I'm *tired*. | День был утомительным, и теперь я устал."
+  - "The children were *excited* about the trip. | Дети были в восторге от поездки."
+  - "His behaviour is really *annoying*. | Его поведение очень раздражает."
+exercises:
+  - type: choice
+    q: "I didn't enjoy the book. It was ___."
+    options: ["boring", "bored", "bore"]
+    answer: 0
+  - type: choice
+    q: "After the long walk, we were very ___."
+    options: ["tiring", "tired", "tire"]
+    answer: 1
+  - type: choice
+    q: "Are you ___ in football?"
+    options: ["interesting", "interested", "interest"]
+    answer: 1
+  - type: choice
+    q: "The end of the film was really ___. I didn't expect it!"
+    options: ["surprised", "surprising", "surprise"]
+    answer: 1
+  - type: choice
+    q: "She was ___ when she forgot his name."
+    options: ["embarrassed", "embarrassing", "embarrass"]
+    answer: 0
+  - type: input
+    q: "Мне страшно! → I'm ___! (frighten)"
+    answer: ["frightened", "scared"]
+  - type: input
+    q: "Это была расслабляющая неделя. → It was a ___ week. (relax)"
+    answer: ["relaxing"]
+  - type: error
+    text: "I'm very {{exciting=>excited}} about my holiday."
+  - type: error
+    text: "The instructions were very {{confused=>confusing}}."
+  - type: order
+    q: "Составьте: «Результаты нас разочаровали.» (We were …)"
+    answer: "We were disappointed with the results."
+  - type: tf
+    items:
+      - ["“I'm boring” means I feel bored.", false]
+      - ["“The game was exciting” describes the game.", true]
+  - type: listen
+    audio: "The museum was amazing, but the guide was so boring that half of the group fell asleep. I was really disappointed."
+    q: "How did the speaker feel?"
+    options: ["Disappointed", "Bored by the museum", "Amazed by the guide"]
+    answer: 0
+  - type: speak
+    answer: "I was bored, because the film was boring."
+    ru: "Мне было скучно, потому что фильм был скучным."
+writing:
+  - "transform | Перепишите о чувствах человека (-ed) | The match was exciting for us. | We were excited by the match. || We were excited about the match."
+  - "transform | Перепишите о предмете (-ing) | I was surprised by the news. | The news was surprising."
+  - "translate | Мне интересна музыка. | I am interested in music. || I'm interested in music."
+  - "translate | Это был утомительный день. | It was a tiring day."
+  - "translate | Мы были поражены видом. | We were amazed by the view."
+  - "compose | Опишите фильм, который вам не понравился, и что вы чувствовали | bored | The film was so long that I was bored."

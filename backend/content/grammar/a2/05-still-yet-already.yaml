@@ -1,0 +1,106 @@
+title: "Still, yet, already, any more"
+title_ru: "Still, yet, already, any more — всё ещё, уже, больше не"
+section: words
+summary: "She's still asleep. Have you finished yet? I've already eaten."
+summary_ru: "She's still asleep. Have you finished yet? I've already eaten."
+theory: |
+  ## still = something continues
+  Before the main verb, after *be*:
+  - *It's 10 o'clock and she's **still** in bed.*
+  - *I **still** live with my parents.*
+
+  ## yet = until now (questions and negatives)
+  At the end of the sentence, usually with the present perfect:
+  - *Have you finished **yet**?*
+  - *He hasn't called **yet**.*
+
+  ## already = sooner than expected
+  Before the main verb or after *have*:
+  - *I've **already** done my homework.*
+  - *Is he here **already**? He's early!*
+
+  ## not … any more / any longer = something has stopped
+  - *She doesn't work here **any more**.*
+  - *I don't eat meat **any longer**.*
+  - Formal: *She **no longer** works here.*
+theory_ru: |
+  ## still = «всё ещё» (действие продолжается)
+  Перед основным глаголом, после *be*:
+  - *It's 10 o'clock and she's **still** in bed.* — Уже десять, а она всё ещё в постели.
+  - *I **still** live with my parents.* — Я до сих пор живу с родителями.
+
+  ## yet = «уже?» / «ещё не» (вопросы и отрицания)
+  В конце предложения, обычно с Present Perfect:
+  - *Have you finished **yet**?* — Ты уже закончил?
+  - *He hasn't called **yet**.* — Он ещё не звонил.
+
+  ## already = «уже» (раньше, чем ожидали)
+  Перед основным глаголом или после *have*:
+  - *I've **already** done my homework.* — Я уже сделал домашку.
+  - *Is he here **already**? He's early!* — Он уже здесь? Рано пришёл!
+
+  > «Уже» в вопросе — обычно *yet*: *Have you eaten **yet**?* С *already* вопрос звучит удивлённо: *Have you eaten **already**?* — Ты что, уже поел?
+
+  ## not … any more / any longer = «больше не»
+  - *She doesn't work here **any more**.* — Она здесь больше не работает.
+  - *I don't eat meat **any longer**.* — Я больше не ем мясо.
+  - Официально: *She **no longer** works here.*
+examples:
+  - "Are you *still* hungry? | Ты всё ещё голоден?"
+  - "The film hasn't started *yet*. | Фильм ещё не начался."
+  - "I've *already* bought the tickets. | Я уже купил билеты."
+  - "We don't live in London *any more*. | Мы больше не живём в Лондоне."
+  - "Has the bus arrived *yet*? | Автобус уже пришёл?"
+exercises:
+  - type: choice
+    q: "It's midnight and he's ___ working."
+    options: ["still", "yet", "already"]
+    answer: 0
+  - type: choice
+    q: "Have you read the book ___?"
+    options: ["still", "yet", "already"]
+    answer: 1
+  - type: choice
+    q: "You don't need to cook — I've ___ made dinner."
+    options: ["still", "yet", "already"]
+    answer: 2
+  - type: choice
+    q: "I don't play tennis ___. I stopped last year."
+    options: ["any more", "still", "already"]
+    answer: 0
+  - type: choice
+    q: "The shop hasn't opened ___."
+    options: ["already", "yet", "still"]
+    answer: 1
+  - type: input
+    q: "Ты всё ещё работаешь в банке? → Do you ___ work at the bank?"
+    answer: ["still"]
+  - type: input
+    q: "Я ещё не видел этот фильм. → I haven't seen this film ___."
+    answer: ["yet"]
+  - type: error
+    text: "I have {{yet=>already}} finished my work."
+  - type: error
+    text: "She doesn't smoke {{still=>any more}}."
+  - type: order
+    q: "Составьте: «Поезд уже ушёл.»"
+    answer: "The train has already left."
+  - type: tf
+    items:
+      - ["“yet” is usually used in questions and negatives.", true]
+      - ["“I still haven't finished” means I finished early.", false]
+  - type: listen
+    audio: "I've already packed my suitcase, but I haven't booked a taxi yet. And I still can't find my passport!"
+    q: "What hasn't the speaker done yet?"
+    options: ["Packed the suitcase", "Booked a taxi", "Found the suitcase"]
+    answer: 1
+  - type: speak
+    answer: "I haven't finished yet."
+    ru: "Я ещё не закончил."
+writing:
+  - "transform | Сделайте вопрос с yet | You have finished your homework. | Have you finished your homework yet?"
+  - "transform | Перепишите с any more | I used to live here, but now I don't. | I don't live here any more. || I don't live here anymore."
+  - "translate | Я уже позавтракал. | I have already had breakfast. || I've already had breakfast. || I've already eaten breakfast."
+  - "translate | Она всё ещё спит. | She is still asleep. || She's still sleeping. || She is still sleeping. || She's still asleep."
+  - "translate | Он ещё не пришёл. | He hasn't come yet. || He hasn't arrived yet."
+  - "compose | Что вы ещё не сделали сегодня? (yet) | yet | I haven't checked my email yet."

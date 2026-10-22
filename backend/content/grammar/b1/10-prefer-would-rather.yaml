@@ -1,0 +1,94 @@
+title: "Prefer and would rather"
+title_ru: "Prefer и would rather — предпочитать"
+section: verbs
+summary: "I prefer tea to coffee. I'd rather stay at home."
+summary_ru: "I prefer tea to coffee. I'd rather stay at home."
+theory: |
+  ## prefer — in general
+  - **prefer A to B**: *I **prefer** tea **to** coffee.*
+  - **prefer -ing to -ing**: *I **prefer** walking **to** driving.*
+  - **prefer to + verb … rather than + verb**: *I **prefer to** walk **rather than** drive.*
+
+  ## would prefer / would rather — now, in a specific situation
+  - **would prefer + to-infinitive**: *I'**d prefer to** stay in tonight.*
+  - **would rather + base verb** (no *to*): *I'**d rather** stay in tonight.*
+  - **would rather A than B**: *I'**d rather** walk **than** take the bus.*
+  - Negative: *I'**d rather not** go out.* · *I'**d prefer not to** go out.*
+
+  ## Questions
+  *Would you prefer tea or coffee?* · *Would you rather go now or later?*
+theory_ru: |
+  ## prefer — вообще, в целом
+  - **prefer A to B**: *I **prefer** tea **to** coffee.* — Я предпочитаю чай кофе.
+  - **prefer -ing to -ing**: *I **prefer** walking **to** driving.* — Я больше люблю ходить пешком, чем водить.
+  - **prefer to + глагол … rather than + глагол**: *I **prefer to** walk **rather than** drive.*
+
+  ## would prefer / would rather — сейчас, в конкретной ситуации
+  - **would prefer + to + глагол**: *I'**d prefer to** stay in tonight.* — Я бы предпочёл остаться сегодня дома.
+  - **would rather + глагол** (без *to*!): *I'**d rather** stay in tonight.* — Я бы лучше остался дома.
+  - **would rather A than B**: *I'**d rather** walk **than** take the bus.* — Я лучше пройдусь, чем поеду на автобусе.
+  - Отрицание: *I'**d rather not** go out.* · *I'**d prefer not to** go out.* — Я бы не хотел выходить.
+
+  > Сравнение у *prefer* — с предлогом **to**, у *would rather* — со словом **than**.
+
+  ## Вопросы
+  *Would you prefer tea or coffee?* — Вам чай или кофе? · *Would you rather go now or later?* — Ты хочешь пойти сейчас или позже?
+examples:
+  - "I *prefer* summer *to* winter. | Я предпочитаю лето зиме."
+  - "I'*d rather* have pizza tonight. | Сегодня я бы лучше съел пиццу."
+  - "She'*d prefer* to work from home. | Она бы предпочла работать из дома."
+  - "I'*d rather* not talk about it. | Я бы не хотел об этом говорить."
+  - "*Would you rather* live in the city or the country? | Ты бы предпочёл жить в городе или за городом?"
+exercises:
+  - type: choice
+    q: "I prefer reading ___ watching TV."
+    options: ["than", "to", "from"]
+    answer: 1
+  - type: choice
+    q: "I'd rather ___ at home tonight."
+    options: ["stay", "to stay", "staying"]
+    answer: 0
+  - type: choice
+    q: "I'd prefer ___ by train."
+    options: ["travel", "to travel", "travelled"]
+    answer: 1
+  - type: choice
+    q: "I'd rather walk ___ wait for the bus."
+    options: ["to", "than", "that"]
+    answer: 1
+  - type: choice
+    q: "I'm tired. I'd rather ___ out tonight."
+    options: ["don't go", "not go", "not to go"]
+    answer: 1
+  - type: input
+    q: "Я бы лучше выпил чаю. → I'd ___ have tea."
+    answer: ["rather"]
+  - type: input
+    q: "Он предпочитает кошек собакам. → He prefers cats ___ dogs."
+    answer: ["to"]
+  - type: error
+    text: "I'd rather {{to eat=>eat}} at home."
+  - type: error
+    text: "I prefer coffee {{than=>to}} tea."
+  - type: order
+    q: "Составьте: «Я бы предпочёл не говорить об этом.»"
+    answer: "I would prefer not to talk about it."
+  - type: tf
+    items:
+      - ["“would rather” is followed by the base verb without “to”.", true]
+      - ["“I prefer tea than coffee” is correct.", false]
+  - type: listen
+    audio: "Shall we go to the beach? — Hmm, it's very hot today. I'd rather stay in the shade. Actually, I'd prefer to visit the museum."
+    q: "What would the speaker prefer to do?"
+    options: ["Go to the beach", "Visit the museum", "Stay at home"]
+    answer: 1
+  - type: speak
+    answer: "I'd rather stay at home tonight."
+    ru: "Я бы лучше остался сегодня дома."
+writing:
+  - "transform | Перепишите с would rather | I'd prefer to eat at home. | I'd rather eat at home. || I would rather eat at home."
+  - "transform | Перепишите с prefer … to | I like tea more than coffee. | I prefer tea to coffee."
+  - "translate | Я бы лучше пошёл пешком. | I'd rather walk. || I would rather walk. || I'd rather go on foot."
+  - "translate | Она предпочитает плавание бегу. | She prefers swimming to running."
+  - "translate | Ты бы предпочёл чай или кофе? | Would you prefer tea or coffee? || Would you rather have tea or coffee?"
+  - "compose | Что бы вы предпочли: жить в большом городе или в деревне? | rather | I'd rather live in a small village than in a big city."

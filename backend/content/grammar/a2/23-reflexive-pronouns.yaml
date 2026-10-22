@@ -1,0 +1,98 @@
+title: "Reflexive pronouns and each other"
+title_ru: "Возвратные местоимения: myself, yourself… и each other"
+section: pronouns
+summary: "I cut myself. They help each other. I did it myself."
+summary_ru: "I cut myself. They help each other. I did it myself."
+theory: |
+  ## Forms
+  myself · yourself · himself · herself · itself · ourselves · yourselves · themselves
+
+  ## Use
+  - The subject and object are the **same** person: *I cut **myself**.* · *She looked at **herself** in the mirror.*
+  - **by myself** = alone, without help: *I live **by myself**.*
+  - For emphasis = personally: *I made this cake **myself**.* · *The manager **himself** came.*
+  - Fixed phrases: *Help **yourself**! · Enjoy **yourselves**! · Behave **yourself**!*
+
+  ## Not used after many verbs
+  We don't use a reflexive pronoun after *wash, dress, shave, relax, feel, meet, concentrate*:
+  *I **got dressed**.* · *Try to **relax**.* · *I **feel** better.*
+
+  ## each other / one another
+  An action between two or more people:
+  - *They love **each other**.* (he loves her, she loves him)
+  - Compare: *They looked at **themselves*** (in the mirror) / *They looked at **each other***.
+theory_ru: |
+  ## Формы
+  myself · yourself · himself · herself · itself · ourselves · yourselves · themselves
+
+  ## Когда используются
+  - Подлежащее и дополнение — **одно лицо** (русское «-ся», «себя»): *I cut **myself**.* — Я порезался. · *She looked at **herself** in the mirror.* — Она посмотрела на себя в зеркало.
+  - **by myself** — один, самостоятельно: *I live **by myself**.* — Я живу один.
+  - Для усиления — «сам»: *I made this cake **myself**.* — Я сам испёк этот торт. · *The manager **himself** came.* — Пришёл сам менеджер.
+  - Устойчивые фразы: *Help **yourself**!* — Угощайтесь! · *Enjoy **yourselves**!* — Хорошо вам провести время! · *Behave **yourself**!* — Веди себя хорошо!
+
+  ## После многих глаголов не нужны
+  Не говорят ~~wash myself, dress myself, relax myself~~ в обычной речи: *I **got dressed**.* — Я оделся. · *Try to **relax**.* — Постарайся расслабиться. · *I **feel** better.* — Я чувствую себя лучше. · *We **met** in 2010.* — Мы познакомились в 2010-м.
+
+  ## each other / one another — «друг друга»
+  - *They love **each other**.* — Они любят друг друга.
+  - Сравните: *They looked at **themselves*** — посмотрели на себя (в зеркало) / *They looked at **each other*** — посмотрели друг на друга.
+examples:
+  - "Be careful, or you'll hurt *yourself*. | Осторожно, а то ушибёшься."
+  - "She taught *herself* to play the guitar. | Она сама научилась играть на гитаре."
+  - "We painted the house *ourselves*. | Мы покрасили дом сами."
+  - "Please help *yourself* to some food. | Пожалуйста, угощайтесь."
+  - "Tom and Anna write to *each other* every week. | Том и Анна пишут друг другу каждую неделю."
+exercises:
+  - type: choice
+    q: "He hurt ___ when he fell off his bike."
+    options: ["him", "himself", "his"]
+    answer: 1
+  - type: choice
+    q: "We enjoyed ___ at the party."
+    options: ["ourselves", "ourself", "us"]
+    answer: 0
+  - type: choice
+    q: "My sister and I phone ___ every day."
+    options: ["ourselves", "each other", "us"]
+    answer: 1
+  - type: choice
+    q: "I usually get up and ___ quickly."
+    options: ["dress myself", "get dressed", "dress me"]
+    answer: 1
+  - type: choice
+    q: "Did you make this dress ___?"
+    options: ["yourself", "yourselves", "you"]
+    answer: 0
+  - type: input
+    q: "Они сами построили дом. → They built the house ___."
+    answer: ["themselves"]
+  - type: input
+    q: "Она живёт одна. → She lives by ___."
+    answer: ["herself"]
+  - type: error
+    text: "Try to {{relax yourself=>relax}} and enjoy the music."
+  - type: error
+    text: "The cat is washing {{itsself=>itself}}."
+  - type: order
+    q: "Составьте: «Мы знаем друг друга много лет.»"
+    answer: "We have known each other for many years."
+  - type: tf
+    items:
+      - ["“They looked at each other” means each looked at the other person.", true]
+      - ["“I feel myself better” is correct.", false]
+  - type: listen
+    audio: "My brother and I don't need a cook. We cook for ourselves every evening, and sometimes we cook for each other's friends too."
+    q: "Who cooks for the brothers?"
+    options: ["A cook", "Their friends", "They cook themselves"]
+    answer: 2
+  - type: speak
+    answer: "Help yourself to some cake."
+    ru: "Угощайтесь тортом."
+writing:
+  - "translate | Я порезался. | I cut myself."
+  - "translate | Мы сами сделали ремонт. | We did the repairs ourselves. || We renovated it ourselves. || We did the renovation ourselves."
+  - "translate | Они помогают друг другу. | They help each other. || They help one another."
+  - "transform | Добавьте by + возвратное местоимение (один) | He travels without anyone. | He travels by himself."
+  - "translate | Угощайтесь! | Help yourself! || Help yourselves!"
+  - "compose | Что вы научились делать сами? (myself) | myself | I taught myself to swim when I was ten."

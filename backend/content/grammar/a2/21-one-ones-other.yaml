@@ -1,0 +1,98 @@
+title: "One, ones, another, other"
+title_ru: "One, ones, another, other — «такой же», «другой»"
+section: pronouns
+summary: "I like the red one. Have another one. The other shoes."
+summary_ru: "I like the red one. Have another one. The other shoes."
+theory: |
+  ## one / ones instead of a noun
+  To avoid repeating a countable noun:
+  - *I don't like this shirt. I prefer the blue **one**.*
+  - *These shoes are old. I need new **ones**.*
+  - *Which **one** do you want?* — *The big **one**.*
+  Not with uncountable nouns: *I like white wine more than red* (not ~~red one~~).
+
+  ## another = one more / a different one (singular)
+  - *Can I have **another** coffee?* (one more)
+  - *This glass is dirty. Can I have **another** one?* (a different one)
+
+  ## other / the other / others
+  - **other + plural noun**: *I have **other** plans.*
+  - **the other** = the second of two / the rest: *One sock is here. Where's **the other** one?* · ***The other** students left.*
+  - **others** (without a noun): *Some people like tea, **others** prefer coffee.*
+theory_ru: |
+  ## one / ones вместо существительного
+  Чтобы не повторять исчисляемое существительное:
+  - *I don't like this shirt. I prefer the blue **one**.* — Мне не нравится эта рубашка, мне больше нравится синяя.
+  - *These shoes are old. I need new **ones**.* — Эти туфли старые, мне нужны новые.
+  - *Which **one** do you want?* — Какой ты хочешь? — *The big **one**.* — Большой.
+  С неисчисляемыми не используется: *I like white wine more than red* (не ~~red one~~).
+
+  ## another = ещё один / другой (ед. ч.)
+  - *Can I have **another** coffee?* — Можно ещё кофе?
+  - *This glass is dirty. Can I have **another** one?* — Этот стакан грязный, можно другой?
+
+  ## other / the other / others
+  - **other + мн. ч.** — другие: *I have **other** plans.* — У меня другие планы.
+  - **the other** — второй из двух / остальные: *One sock is here. Where's **the other** one?* — Один носок здесь, где второй? · ***The other** students left.* — Остальные студенты ушли.
+  - **others** (без существительного) — другие: *Some people like tea, **others** prefer coffee.* — Одни любят чай, другие — кофе.
+
+  > *another* пишется слитно (an + other) и только с единственным числом: ~~another books~~ → *other books*.
+examples:
+  - "Which bag is yours? — The black *one*. | Какая сумка твоя? — Чёрная."
+  - "My old glasses broke, so I bought new *ones*. | Мои старые очки сломались, и я купил новые."
+  - "Would you like *another* piece of cake? | Хотите ещё кусок торта?"
+  - "I can't find *the other* earring. | Не могу найти вторую серёжку."
+  - "Some students came by bus, *others* walked. | Одни студенты приехали на автобусе, другие пришли пешком."
+exercises:
+  - type: choice
+    q: "I don't want the small pizza. I want the big ___."
+    options: ["one", "ones", "other"]
+    answer: 0
+  - type: choice
+    q: "These apples are bad. Can I have some fresh ___?"
+    options: ["one", "ones", "another"]
+    answer: 1
+  - type: choice
+    q: "This tea is delicious. Can I have ___ cup?"
+    options: ["other", "another", "others"]
+    answer: 1
+  - type: choice
+    q: "I have two brothers. One is a doctor, ___ is a teacher."
+    options: ["another", "other", "the other"]
+    answer: 2
+  - type: choice
+    q: "Some people love winter, ___ hate it."
+    options: ["others", "another", "other"]
+    answer: 0
+  - type: input
+    q: "Какую футболку ты возьмёшь? — Зелёную. → Which T-shirt will you take? — The green ___."
+    answer: ["one"]
+  - type: input
+    q: "Давай подождём ещё пять минут. → Let's wait ___ five minutes."
+    answer: ["another"]
+  - type: error
+    text: "I need {{another=>other}} books for my project."
+  - type: error
+    text: "My shoes are wet. I'll wear my old {{one=>ones}}."
+  - type: order
+    q: "Составьте: «Где второй ботинок?»"
+    answer: "Where is the other shoe?"
+  - type: tf
+    items:
+      - ["“another” is used with singular nouns.", true]
+      - ["“ones” replaces a singular noun.", false]
+  - type: listen
+    audio: "I'd like to return this jacket. It's too small. Have you got another one in a bigger size? — Sorry, the other ones are all sold out."
+    q: "What is the problem?"
+    options: ["The jacket is too big", "There are no bigger jackets", "The shop is closed"]
+    answer: 1
+  - type: speak
+    answer: "I prefer the blue one."
+    ru: "Мне больше нравится синий."
+writing:
+  - "transform | Замените повторяющееся слово на one/ones | I don't like this car. I like that car. | I don't like this car. I like that one."
+  - "transform | Замените на ones | My boots are old. I need new boots. | My boots are old. I need new ones."
+  - "translate | Можно мне ещё чашку чая? | Can I have another cup of tea? || Could I have another cup of tea? || May I have another cup of tea?"
+  - "translate | У меня другие планы на вечер. | I have other plans for the evening. || I've got other plans for the evening. || I have other plans for tonight."
+  - "translate | Одна сестра живёт в Москве, другая — в Лондоне. | One sister lives in Moscow, the other lives in London. || One sister lives in Moscow and the other lives in London. || One sister lives in Moscow, the other in London."
+  - "compose | Выберите одну из двух вещей и объясните (the … one) | one | I prefer the cheaper one because it's lighter."

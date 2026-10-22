@@ -1,0 +1,88 @@
+title: "It's worth, it's no use, can't help + -ing"
+title_ru: "-ing после it's worth, it's no use, can't help, have difficulty"
+section: verbs
+summary: "It's worth visiting. It's no use crying. I can't help laughing."
+summary_ru: "It's worth visiting. It's no use crying. I can't help laughing."
+theory: |
+  ## Expressions followed by -ing
+  - **It's (not) worth + -ing** = it's (not) a good idea, it gives a good result: *The museum **is worth visiting**.* · *It's **not worth waiting** — the bus has gone.*
+  - **It's no use / no good + -ing** = it's useless: *It's **no use crying** about it.*
+  - **There's no point (in) + -ing**: *There's **no point arguing** with him.*
+  - **can't help + -ing** = can't stop yourself: *I **can't help laughing** when I see him.*
+  - **can't stand / can't bear + -ing** = hate: *I **can't stand waiting** in queues.*
+  - **have difficulty / trouble / a problem (in) + -ing**: *I **had difficulty finding** the house.*
+  - **spend / waste time (money) + -ing**: *I **spent** two hours **cooking**.* · *Don't **waste** time **worrying**.*
+  - **be busy + -ing**: *She **is busy preparing** for the exam.*
+  - **look forward to + -ing**: *I'm **looking forward to seeing** you.* (*to* is a preposition here)
+theory_ru: |
+  ## Выражения, после которых нужна форма -ing
+  - **It's (not) worth + -ing** — стоит / не стоит: *The museum **is worth visiting**.* — Музей стоит посетить. · *It's **not worth waiting** — the bus has gone.* — Не стоит ждать, автобус ушёл.
+  - **It's no use / no good + -ing** — бесполезно: *It's **no use crying** about it.* — Бесполезно об этом плакать.
+  - **There's no point (in) + -ing** — нет смысла: *There's **no point arguing** with him.* — Нет смысла с ним спорить.
+  - **can't help + -ing** — не могу удержаться: *I **can't help laughing** when I see him.* — Не могу не смеяться, когда его вижу.
+  - **can't stand / can't bear + -ing** — терпеть не могу: *I **can't stand waiting** in queues.*
+  - **have difficulty / trouble / a problem (in) + -ing** — с трудом: *I **had difficulty finding** the house.* — Я с трудом нашёл дом.
+  - **spend / waste time (money) + -ing** — тратить время на: *I **spent** two hours **cooking**.* · *Don't **waste** time **worrying**.*
+  - **be busy + -ing** — быть занятым чем-то: *She **is busy preparing** for the exam.*
+  - **look forward to + -ing** — ждать с нетерпением: *I'm **looking forward to seeing** you.* (*to* здесь предлог)
+
+  > Частая ошибка: ~~I look forward to see you~~ и ~~It's worth to visit~~ — после этих выражений только **-ing**.
+examples:
+  - "This film is *worth watching*. | Этот фильм стоит посмотреть."
+  - "It's no use *calling* him — he never answers. | Бесполезно ему звонить — он никогда не отвечает."
+  - "I couldn't help *smiling* when I read her letter. | Я не мог не улыбнуться, читая её письмо."
+  - "I'm looking forward to *hearing* from you. | Жду вашего ответа."
+  - "We had trouble *finding* a parking space. | Мы с трудом нашли место для парковки."
+exercises:
+  - type: choice
+    q: "It's worth ___ the extra money for a good mattress."
+    options: ["pay", "to pay", "paying"]
+    answer: 2
+  - type: choice
+    q: "I'm looking forward to ___ you next week."
+    options: ["see", "seeing", "have seen"]
+    answer: 1
+  - type: choice
+    q: "It's no use ___ — the decision is final."
+    options: ["complaining", "to complain", "complain"]
+    answer: 0
+  - type: choice
+    q: "I can't help ___ about the exam."
+    options: ["worry", "worrying", "to worry"]
+    answer: 1
+  - type: choice
+    q: "She has difficulty ___ at night."
+    options: ["to sleep", "sleeping", "sleep"]
+    answer: 1
+  - type: input
+    q: "Нет смысла спорить. → There's no point ___. (argue)"
+    answer: ["arguing", "in arguing"]
+  - type: input
+    q: "Я потратил весь день на уборку. → I spent the whole day ___. (clean)"
+    answer: ["cleaning"]
+  - type: error
+    text: "This book is worth {{to read=>reading}}."
+  - type: error
+    text: "I look forward to {{meet=>meeting}} you."
+  - type: order
+    q: "Составьте: «Этот город стоит посетить.»"
+    answer: "This city is worth visiting."
+  - type: tf
+    items:
+      - ["After “look forward to” we use the -ing form.", true]
+      - ["“It's no use to cry” is the usual form.", false]
+  - type: listen
+    audio: "Is the new restaurant worth trying? — Honestly, no. We had trouble getting a table, and then we spent an hour waiting for the food. It's not worth the money."
+    q: "What does the speaker think of the restaurant?"
+    options: ["It's worth trying", "It isn't worth the money", "The food came quickly"]
+    answer: 1
+  - type: speak
+    answer: "I'm looking forward to seeing you."
+    ru: "С нетерпением жду встречи с тобой."
+writing:
+  - "transform | Перепишите с It's worth … | You should visit the old town — it's beautiful. | The old town is worth visiting. || It's worth visiting the old town."
+  - "transform | Перепишите с It's no use … | Crying won't help. | It's no use crying."
+  - "translate | Я не мог не рассмеяться. | I couldn't help laughing."
+  - "translate | Жду ваших новостей. | I look forward to hearing from you. || I'm looking forward to hearing from you."
+  - "translate | Я с трудом понимаю его акцент. | I have difficulty understanding his accent. || I have trouble understanding his accent."
+  - "compose | Что, по-вашему, стоит посмотреть или посетить? (worth + -ing) | worth | The new museum in our city is definitely worth visiting."

@@ -1,0 +1,100 @@
+title: "Present tenses for the future"
+title_ru: "Настоящие времена для будущего: планы и расписание"
+section: tenses
+summary: "I'm meeting Tom tonight. The train leaves at 6."
+summary_ru: "I'm meeting Tom tonight. The train leaves at 6."
+theory: |
+  ## Present continuous = arrangements
+  A plan you have already arranged with other people (time, place):
+  - *I'**m meeting** Tom at 7 tonight.*
+  - *We'**re flying** to Rome on Friday.*
+  - *What **are** you **doing** this weekend?*
+
+  ## Present simple = timetables
+  Fixed times of transport, cinemas, lessons:
+  - *The train **leaves** at 6.15.*
+  - *The film **starts** at eight.*
+  - *What time **does** the shop **open** tomorrow?*
+
+  ## Compare
+  - *I'**m going to** visit my aunt.* — my intention (I decided).
+  - *I'**m visiting** my aunt on Sunday.* — it's arranged, she knows.
+  - *I'**ll** call you later.* — I'm deciding now / promising.
+theory_ru: |
+  ## Present Continuous = договорённость
+  План, о котором уже договорились (есть время, место, люди):
+  - *I'**m meeting** Tom at 7 tonight.* — Сегодня в семь я встречаюсь с Томом.
+  - *We'**re flying** to Rome on Friday.* — В пятницу мы летим в Рим.
+  - *What **are** you **doing** this weekend?* — Что ты делаешь в выходные?
+
+  ## Present Simple = расписание
+  Время поездов, сеансов, уроков:
+  - *The train **leaves** at 6.15.* — Поезд отправляется в 6:15.
+  - *The film **starts** at eight.* — Фильм начинается в восемь.
+  - *What time **does** the shop **open** tomorrow?* — Во сколько завтра открывается магазин?
+
+  > По-русски мы тоже говорим «завтра я встречаюсь», «поезд уходит в шесть» — в английском так же используют настоящее время.
+
+  ## Сравните
+  - *I'**m going to** visit my aunt.* — я собираюсь (решил).
+  - *I'**m visiting** my aunt on Sunday.* — уже договорился, она ждёт.
+  - *I'**ll** call you later.* — решаю прямо сейчас / обещаю.
+examples:
+  - "I'*m seeing* the dentist tomorrow morning. | Завтра утром я иду к стоматологу."
+  - "Our flight *leaves* at 10.30. | Наш рейс вылетает в 10:30."
+  - "Are you *coming* to the party on Saturday? | Ты придёшь на вечеринку в субботу?"
+  - "The lesson *starts* at nine, so don't be late. | Урок начинается в девять, так что не опаздывай."
+  - "We'*re having* dinner with my parents tonight. | Сегодня вечером мы ужинаем у моих родителей."
+exercises:
+  - type: choice
+    q: "I ___ my grandparents this Sunday. They're expecting us."
+    options: ["am visiting", "visit", "visited"]
+    answer: 0
+  - type: choice
+    q: "Hurry up! The bus ___ in five minutes."
+    options: ["is leaving", "leaves", "leave"]
+    answer: 1
+  - type: choice
+    q: "What ___ you ___ tomorrow evening?"
+    options: ["do / do", "are / doing", "did / do"]
+    answer: 1
+  - type: choice
+    q: "The museum ___ at 10 a.m. on Sundays."
+    options: ["opens", "is opening", "open"]
+    answer: 0
+  - type: choice
+    q: "She can't come — she ___ late tonight."
+    options: ["works", "is working", "work"]
+    answer: 1
+  - type: input
+    q: "В пятницу мы едем в Париж (договорились). → We ___ to Paris on Friday. (go)"
+    answer: ["are going", "'re going"]
+  - type: input
+    q: "Концерт начинается в восемь. → The concert ___ at eight. (start)"
+    answer: ["starts"]
+  - type: error
+    text: "I {{meet=>am meeting}} my friend tonight — we booked a table."
+  - type: error
+    text: "The train {{is leave=>leaves}} at 7 a.m."
+  - type: order
+    q: "Составьте: «Завтра я играю в теннис с Анной.»"
+    answer: "I am playing tennis with Anna tomorrow."
+  - type: tf
+    items:
+      - ["We use the present simple for timetables.", true]
+      - ["“I'm meeting Tom tonight” is about the present moment only.", false]
+  - type: listen
+    audio: "Hi Kate, it's me. I'm having lunch with Mark tomorrow, so I can't meet you then. But my train leaves at six, so we can have coffee at four."
+    q: "When can the speaker meet Kate?"
+    options: ["At lunchtime", "At four", "At six"]
+    answer: 1
+  - type: speak
+    answer: "What are you doing this weekend?"
+    ru: "Что ты делаешь в эти выходные?"
+writing:
+  - "translate | Сегодня вечером я встречаюсь с друзьями. | I am meeting my friends tonight. || I'm meeting my friends tonight. || I'm meeting friends tonight."
+  - "translate | Во сколько отправляется поезд? | What time does the train leave?"
+  - "translate | Фильм начинается в девять. | The film starts at nine. || The movie starts at nine."
+  - "transform | Перепишите как договорённость (Present Continuous) | I am going to see the doctor on Monday. | I am seeing the doctor on Monday. || I'm seeing the doctor on Monday."
+  - "translate | Что ты делаешь завтра? | What are you doing tomorrow?"
+  - "compose | Какие у вас планы на выходные? (Present Continuous) | - | On Saturday I'm visiting my sister."

@@ -1,0 +1,96 @@
+title: "Subject and object questions"
+title_ru: "Вопросы к подлежащему: Who called? и Who did you call?"
+section: sentences
+summary: "Who called you? Who did you call?"
+summary_ru: "Who called you? Who did you call?"
+theory: |
+  ## Object questions (normal questions)
+  The question word is the **object**, so we use *do / does / did*:
+  - *Anna called **someone**.* → *Who **did** Anna **call**?* (Anna called Tom.)
+  - *What **do** you want?*
+
+  ## Subject questions
+  The question word is the **subject** (who/what did the action). **No** *do / does / did*, normal word order:
+  - ***Someone** called Anna.* → *Who **called** Anna?* (Tom called her.)
+  - *What **happened**?* (not ~~What did happen?~~)
+  - *Who **lives** here?* · *Which bus **goes** to the centre?* · *How many people **came**?*
+
+  ## Compare
+  - *Who **did** you **see**?* — I saw Mary.
+  - *Who **saw** you?* — Mary saw me.
+theory_ru: |
+  ## Вопрос к дополнению (обычный)
+  Вопросительное слово — **дополнение** («кого? что?»), поэтому нужен *do / does / did*:
+  - *Anna called **someone**.* → *Who **did** Anna **call**?* — Кому позвонила Анна? (Анна позвонила Тому.)
+  - *What **do** you want?* — Что ты хочешь?
+
+  ## Вопрос к подлежащему
+  Вопросительное слово — **подлежащее** («кто? что?» сделал действие). **Без** *do / does / did*, порядок слов как в утверждении:
+  - ***Someone** called Anna.* → *Who **called** Anna?* — Кто позвонил Анне? (Том.)
+  - *What **happened**?* — Что случилось? (не ~~What did happen?~~)
+  - *Who **lives** here?* — Кто здесь живёт? · *Which bus **goes** to the centre?* — Какой автобус идёт в центр? · *How many people **came**?* — Сколько людей пришло?
+
+  ## Сравните
+  - *Who **did** you **see**?* — Кого ты видел? — Я видел Мэри.
+  - *Who **saw** you?* — Кто тебя видел? — Меня видела Мэри.
+
+  > Подсказка: если ответ — тот, кто действовал («Мэри видела»), вспомогательный глагол не нужен.
+examples:
+  - "Who *wrote* this book? | Кто написал эту книгу?"
+  - "Who *did* you meet at the party? | С кем ты познакомился на вечеринке?"
+  - "What *happened* to your car? | Что случилось с твоей машиной?"
+  - "Which team *won* the match? | Какая команда выиграла матч?"
+  - "What *did* she say? | Что она сказала?"
+exercises:
+  - type: choice
+    q: "Who ___ the window? — Tom broke it."
+    options: ["broke", "did break", "did broke"]
+    answer: 0
+  - type: choice
+    q: "Who ___ at the station? — I met my uncle."
+    options: ["you met", "did you meet", "met you"]
+    answer: 1
+  - type: choice
+    q: "What ___? Why is everyone so quiet?"
+    options: ["did happen", "happened", "does happen"]
+    answer: 1
+  - type: choice
+    q: "How many students ___ the exam?"
+    options: ["passed", "did pass", "did they pass"]
+    answer: 0
+  - type: choice
+    q: "What ___ you buy at the market?"
+    options: ["do", "did", "does"]
+    answer: 1
+  - type: input
+    q: "Кто живёт в этом доме? → Who ___ in this house? (live)"
+    answer: ["lives"]
+  - type: input
+    q: "Кого ты пригласил? → Who ___ you invite?"
+    answer: ["did"]
+  - type: error
+    text: "Who {{did tell=>told}} you about the party?"
+  - type: error
+    text: "What {{does mean this word=>does this word mean}}?"
+  - type: order
+    q: "Составьте: «Кто приготовил ужин?»"
+    answer: "Who cooked dinner?"
+  - type: tf
+    items:
+      - ["“Who called you?” asks about the person who called.", true]
+      - ["“What did happen?” is correct.", false]
+  - type: listen
+    audio: "Who ate my sandwich? I left it on the table! — Sorry, that was me. — And who did you give the rest of the cake to? — To Sam."
+    q: "Who ate the sandwich?"
+    options: ["The speaker", "The other person", "Sam"]
+    answer: 1
+  - type: speak
+    answer: "Who wants some coffee?"
+    ru: "Кто хочет кофе?"
+writing:
+  - "transform | Задайте вопрос о том, кто сделал действие (Who …?) | Somebody opened the door. | Who opened the door?"
+  - "transform | Задайте вопрос к дополнению (Who … ?) | Maria saw somebody. | Who did Maria see?"
+  - "translate | Кто выиграл игру? | Who won the game?"
+  - "translate | Что случилось вчера? | What happened yesterday?"
+  - "translate | Кому ты звонил? | Who did you call? || Who did you phone? || Who did you ring?"
+  - "compose | Задайте вопрос о вашей семье или друзьях (Who …?) | who | Who cooks dinner in your family?"

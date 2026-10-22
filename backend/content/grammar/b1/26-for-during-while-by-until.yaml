@@ -1,0 +1,90 @@
+title: "For, during, while, by, until"
+title_ru: "For, during, while, by, until — время: в течение, пока, к, до"
+section: prepositions
+summary: "for two hours · during the film · while I was eating · by Monday · until Monday"
+summary_ru: "for two hours · during the film · while I was eating · by Monday · until Monday"
+theory: |
+  ## for, during, while
+  - **for + a period** = how long: *I slept **for** eight hours.*
+  - **during + noun** = when, at some time in that period: *I fell asleep **during** the film.* (not ~~during two hours~~)
+  - **while + subject + verb**: *I fell asleep **while** I was watching the film.*
+  - *during* is a preposition (+ noun), *while* is a conjunction (+ clause).
+
+  ## by and until / till
+  - **until** = up to that time, the situation continues: *I'll wait **until** six.* · *The shop is open **until** 10 p.m.*
+  - **by** = not later than, at or before that time: *Please send it **by** Friday.* · *I'll be home **by** six.*
+  - Negative: *I **won't** be ready **until** Monday.* (= Monday at the earliest)
+  - **by the time** + clause: ***By the time** we arrived, the film had started.*
+theory_ru: |
+  ## for, during, while
+  - **for + срок** — сколько времени: *I slept **for** eight hours.* — Я спал восемь часов.
+  - **during + существительное** — «во время»: *I fell asleep **during** the film.* — Я уснул во время фильма. (не ~~during two hours~~)
+  - **while + подлежащее + глагол** — «пока, в то время как»: *I fell asleep **while** I was watching the film.* — Я уснул, пока смотрел фильм.
+  - *during* — предлог (+ существительное), *while* — союз (+ предложение).
+
+  ## by и until / till
+  - **until** — «до», ситуация длится до этого момента: *I'll wait **until** six.* — Я подожду до шести. · *The shop is open **until** 10 p.m.* — Магазин работает до 22:00.
+  - **by** — «к», не позже: *Please send it **by** Friday.* — Пришлите, пожалуйста, к пятнице. · *I'll be home **by** six.* — Я буду дома к шести.
+  - С отрицанием: *I **won't** be ready **until** Monday.* — Я буду готов только в понедельник.
+  - **by the time** + предложение — «к тому времени как»: ***By the time** we arrived, the film had started.*
+
+  > Русское «до пятницы» бывает двух видов: «жду до пятницы» — *until*, «сделать до (к) пятнице» — *by*.
+examples:
+  - "We talked *for* hours. | Мы разговаривали часами."
+  - "Please don't use your phone *during* the lesson. | Пожалуйста, не пользуйтесь телефоном во время урока."
+  - "Someone called *while* you were out. | Кто-то звонил, пока тебя не было."
+  - "I need the report *by* tomorrow morning. | Мне нужен отчёт к завтрашнему утру."
+  - "Let's wait *until* the rain stops. | Давай подождём, пока не кончится дождь."
+exercises:
+  - type: choice
+    q: "I've been waiting ___ two hours!"
+    options: ["for", "during", "while"]
+    answer: 0
+  - type: choice
+    q: "Nobody spoke ___ the meeting."
+    options: ["while", "during", "for"]
+    answer: 1
+  - type: choice
+    q: "I cut my finger ___ I was cooking."
+    options: ["during", "while", "for"]
+    answer: 1
+  - type: choice
+    q: "You must return the books ___ Friday at the latest."
+    options: ["until", "by", "for"]
+    answer: 1
+  - type: choice
+    q: "The museum is open ___ 6 p.m."
+    options: ["by", "until", "during"]
+    answer: 1
+  - type: input
+    q: "Я буду дома к восьми. → I'll be home ___ eight."
+    answer: ["by"]
+  - type: input
+    q: "Я жил в Лондоне, пока учился. → I lived in London ___ I was a student."
+    answer: ["while", "when"]
+  - type: error
+    text: "I went to the gym {{during=>for}} an hour."
+  - type: error
+    text: "Can you finish this {{until=>by}} Monday? I need it then."
+  - type: order
+    q: "Составьте: «Я уснул во время фильма.»"
+    answer: "I fell asleep during the film."
+  - type: tf
+    items:
+      - ["“during” is followed by a noun, “while” by a clause.", true]
+      - ["“Send it until Friday” means “not later than Friday”.", false]
+  - type: listen
+    audio: "The library is open until eight, but you need to return the books by five. I'll wait for you in the café while you're there."
+    q: "When must the books be returned?"
+    options: ["By five", "Until eight", "During lunch"]
+    answer: 0
+  - type: speak
+    answer: "Please send it by Friday."
+    ru: "Пожалуйста, пришлите это к пятнице."
+writing:
+  - "transform | Перепишите с while | I fell asleep during the lesson. | I fell asleep while I was in the lesson. || I fell asleep while the teacher was talking. || I fell asleep while I was having the lesson."
+  - "translate | Закончи это к понедельнику. | Finish it by Monday. || Finish this by Monday."
+  - "translate | Подожди меня до пяти. | Wait for me until five. || Wait for me till five."
+  - "translate | Мы были в Италии две недели. | We were in Italy for two weeks. || We spent two weeks in Italy."
+  - "translate | Во время отпуска я много читал. | During my holiday I read a lot. || I read a lot during my holiday. || I read a lot during my vacation."
+  - "compose | Что вам нужно сделать к концу недели? (by) | by | I need to finish my project by Friday."

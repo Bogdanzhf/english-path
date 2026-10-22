@@ -1,0 +1,101 @@
+title: "All, every, each, whole"
+title_ru: "All, every, each, whole — все, каждый, целый"
+section: nouns
+summary: "every day · all day · each student · the whole day"
+summary_ru: "every day · all day · each student · the whole day"
+theory: |
+  ## every / each + singular noun
+  - **every** — all members of a group, seen together: ***Every** student has a book.* · *I go there **every** day.*
+  - **each** — members seen one by one, often a small group: *The teacher spoke to **each** student.* · *There's a TV in **each** room.*
+  - **each of / every one of + plural**: ***Each of** my friends* · ***every one of** them*
+  - Verb is singular: ***Every** child **likes** sweets.*
+
+  ## all + plural / uncountable
+  - ***All** children like sweets.* · ***All** the money is gone.*
+  - **all** with time = the complete period: ***all** day, **all** night, **all** week*
+  - Compare: *I worked **all day*** (from morning to evening) / *I work **every day*** (Monday, Tuesday…).
+
+  ## whole = complete, entire
+  **the / my / a whole + singular noun**:
+  - *She ate **the whole** cake.* · *I spent **the whole** weekend at home.*
+  - ***all** the cake* = ***the whole** cake*, but before plural nouns only *all*.
+
+  ## everybody / everything
+  ***Everybody** is here.* (not ~~All are here~~) · *I've told you **everything**.* (not ~~all~~)
+theory_ru: |
+  ## every / each + ед. число — «каждый»
+  - **every** — все вместе, как группа: ***Every** student has a book.* — У каждого студента есть книга. · *I go there **every** day.* — Я хожу туда каждый день.
+  - **each** — по отдельности, часто о небольшой группе: *The teacher spoke to **each** student.* — Учитель поговорил с каждым студентом. · *There's a TV in **each** room.* — В каждой комнате есть телевизор.
+  - **each of / every one of + мн. ч.**: ***each of** my friends* — каждый из моих друзей
+  - Глагол в единственном числе: ***Every** child **likes** sweets.*
+
+  ## all + мн. ч. / неисчисляемое — «все, весь»
+  - ***All** children like sweets.* — Все дети любят сладкое. · ***All** the money is gone.* — Все деньги кончились.
+  - **all** со временем — весь период: ***all** day* — весь день, ***all** night* — всю ночь
+  - Сравните: *I worked **all day*** — я работал весь день / *I work **every day*** — я работаю каждый день.
+
+  ## whole — «целый, весь»
+  **the / my / a whole + ед. ч.**:
+  - *She ate **the whole** cake.* — Она съела весь торт. · *I spent **the whole** weekend at home.* — Я провёл все выходные дома.
+
+  ## everybody / everything — «все», «всё»
+  ***Everybody** is here.* — Все здесь. (не ~~All are here~~) · *I've told you **everything**.* — Я рассказал тебе всё. (не ~~all~~)
+examples:
+  - "*Every* room in the hotel has a balcony. | В каждом номере отеля есть балкон."
+  - "*Each* of the children got a present. | Каждый ребёнок получил подарок."
+  - "It rained *all* day. | Весь день шёл дождь."
+  - "I read the *whole* book in one evening. | Я прочитал всю книгу за один вечер."
+  - "*Everybody* wants to be happy. | Все хотят быть счастливыми."
+exercises:
+  - type: choice
+    q: "I go swimming ___ morning."
+    options: ["all", "every", "whole"]
+    answer: 1
+  - type: choice
+    q: "She was so hungry that she ate the ___ pizza."
+    options: ["all", "every", "whole"]
+    answer: 2
+  - type: choice
+    q: "___ the students passed the exam."
+    options: ["All", "Every", "Each"]
+    answer: 0
+  - type: choice
+    q: "Every child ___ a gift."
+    options: ["get", "gets", "are getting"]
+    answer: 1
+  - type: choice
+    q: "I've told you ___ I know."
+    options: ["all what", "everything", "every"]
+    answer: 1
+  - type: input
+    q: "Я спал всю ночь. → I slept ___ night."
+    answer: ["all", "the whole"]
+  - type: input
+    q: "Каждый из нас должен помочь. → ___ of us must help."
+    answer: ["Each", "Every one"]
+  - type: error
+    text: "{{All=>Everybody}} is waiting for you."
+  - type: error
+    text: "Every {{students=>student}} has a laptop."
+  - type: order
+    q: "Составьте: «Я провёл весь день на пляже.»"
+    answer: "I spent the whole day on the beach."
+  - type: tf
+    items:
+      - ["“I work every day” and “I work all day” mean the same.", false]
+      - ["“each” and “every” are followed by a singular noun.", true]
+  - type: listen
+    audio: "Every summer we go to the same village. We spend the whole month there, and each of us has a favourite place. I usually read all day by the river."
+    q: "How long do they stay in the village?"
+    options: ["A week", "The whole month", "Every weekend"]
+    answer: 1
+  - type: speak
+    answer: "I spent the whole weekend at home."
+    ru: "Я провёл все выходные дома."
+writing:
+  - "transform | Перепишите с the whole | I watched all the film. | I watched the whole film."
+  - "transform | Перепишите с every | All the students have a laptop. | Every student has a laptop."
+  - "translate | Все здесь. | Everybody is here. || Everyone is here."
+  - "translate | В каждом классе есть доска. | There is a board in every classroom. || There's a board in every classroom. || Every classroom has a board. || Each classroom has a board."
+  - "translate | Вчера весь день шёл снег. | It snowed all day yesterday. || Yesterday it snowed all day. || It snowed the whole day yesterday."
+  - "compose | Что вы делаете каждый день? (every) | every | I drink a cup of coffee every morning."

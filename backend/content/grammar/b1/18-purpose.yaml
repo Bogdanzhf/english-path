@@ -1,0 +1,100 @@
+title: "Purpose: to, in order to, so that, for"
+title_ru: "Цель: to, in order to, so that, for — «чтобы»"
+section: clauses
+summary: "I went out to buy bread. I left early so that I wouldn't be late."
+summary_ru: "I went out to buy bread. I left early so that I wouldn't be late."
+theory: |
+  ## to + verb (the most common)
+  - *I went to the shop **to buy** some bread.* (not ~~for buy~~, ~~for to buy~~)
+  - *She called **to say** sorry.*
+
+  ## in order to / so as to (more formal)
+  - *We left early **in order to** catch the train.*
+  - Negative: ***in order not to** / **so as not to***: *I spoke quietly **so as not to** wake the baby.*
+
+  ## so that + clause
+  Often with *can / could / will / would*, especially when the subject changes:
+  - *I'll give you my number **so that** you **can** call me.*
+  - *I wrote it down **so that** I **wouldn't** forget.*
+
+  ## for + noun (or -ing for the use of a thing)
+  - *I went out **for** a walk.* · *We stopped **for** lunch.*
+  - *This knife is **for cutting** bread.*
+theory_ru: |
+  ## to + глагол — самый частый вариант
+  - *I went to the shop **to buy** some bread.* — Я пошёл в магазин купить хлеба. (не ~~for buy~~, ~~for to buy~~)
+  - *She called **to say** sorry.* — Она позвонила извиниться.
+
+  > Русское «чтобы купить», «для того чтобы» — это просто ***to** buy*. Ошибка ~~for buy~~ очень частая.
+
+  ## in order to / so as to — официальнее
+  - *We left early **in order to** catch the train.* — Мы выехали рано, чтобы успеть на поезд.
+  - Отрицание: ***in order not to** / **so as not to***: *I spoke quietly **so as not to** wake the baby.* — Я говорил тихо, чтобы не разбудить малыша.
+
+  ## so that + предложение
+  Часто с *can / could / will / would*, особенно если подлежащее другое:
+  - *I'll give you my number **so that** you **can** call me.* — Я дам тебе номер, чтобы ты мог мне позвонить.
+  - *I wrote it down **so that** I **wouldn't** forget.* — Я записал, чтобы не забыть.
+
+  ## for + существительное (или -ing — назначение предмета)
+  - *I went out **for** a walk.* — Я вышел прогуляться. · *We stopped **for** lunch.* — Мы остановились пообедать.
+  - *This knife is **for cutting** bread.* — Этот нож для хлеба.
+examples:
+  - "I'm saving money *to* buy a car. | Я коплю деньги, чтобы купить машину."
+  - "She's learning English *in order to* get a better job. | Она учит английский, чтобы найти работу получше."
+  - "Speak slowly *so that* everyone can understand. | Говорите медленно, чтобы все поняли."
+  - "Let's go *for* a coffee. | Пойдём выпьем кофе."
+  - "He took a taxi *so as not to* be late. | Он поехал на такси, чтобы не опоздать."
+exercises:
+  - type: choice
+    q: "I went to the bank ___ some money."
+    options: ["for get", "to get", "for getting"]
+    answer: 1
+  - type: choice
+    q: "We went out ___ dinner."
+    options: ["for", "to", "so that"]
+    answer: 0
+  - type: choice
+    q: "I'll leave the door open ___ the cat can come in."
+    options: ["to", "for", "so that"]
+    answer: 2
+  - type: choice
+    q: "She whispered ___ wake the children."
+    options: ["so as not to", "not to so", "for not"]
+    answer: 0
+  - type: choice
+    q: "This machine is ___ making coffee."
+    options: ["to", "for", "so"]
+    answer: 1
+  - type: input
+    q: "Я позвонил, чтобы поздравить её. → I called ___ congratulate her."
+    answer: ["to", "in order to"]
+  - type: input
+    q: "Я записал адрес, чтобы не забыть. → I wrote down the address so that I ___ forget."
+    answer: ["wouldn't", "would not", "won't", "didn't"]
+  - type: error
+    text: "He went to Spain {{for learn=>to learn}} Spanish."
+  - type: error
+    text: "I came here {{for to see=>to see}} you."
+  - type: order
+    q: "Составьте: «Она встала рано, чтобы успеть на поезд.»"
+    answer: "She got up early to catch the train."
+  - type: tf
+    items:
+      - ["“I went out for buy milk” is correct.", false]
+      - ["“so that” is often followed by “can” or “could”.", true]
+  - type: listen
+    audio: "I'm going to the library this afternoon to return some books, and then I'll stay there for a couple of hours so that I can study in peace."
+    q: "Why will the speaker stay at the library?"
+    options: ["To return books", "To study in peace", "To meet a friend"]
+    answer: 1
+  - type: speak
+    answer: "I'm learning English to travel."
+    ru: "Я учу английский, чтобы путешествовать."
+writing:
+  - "transform | Соедините с to | I went to the post office. I wanted to send a parcel. | I went to the post office to send a parcel."
+  - "transform | Соедините с so that | I'll speak slowly. You will understand me. | I'll speak slowly so that you can understand me. || I will speak slowly so that you can understand me. || I'll speak slowly so that you understand me."
+  - "translate | Мы остановились, чтобы пообедать. | We stopped for lunch. || We stopped to have lunch. || We stopped to eat lunch."
+  - "translate | Я коплю деньги, чтобы путешествовать. | I am saving money to travel. || I'm saving money to travel. || I'm saving up to travel."
+  - "translate | Он говорил тихо, чтобы не разбудить детей. | He spoke quietly so as not to wake the children. || He spoke quietly so that he didn't wake the children. || He spoke quietly in order not to wake the children. || He spoke quietly so as not to wake the kids."
+  - "compose | Зачем вы учите английский? (to / so that) | to | I'm learning English to get a job abroad."
